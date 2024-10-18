@@ -1,0 +1,30 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.JSON_WorldRaidDamageRewardParam
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: BE2A90B7-A8AB-4E1F-A9DE-BBA047493101
+// Assembly location: C:\r\The-Alchemist-Code-Story\res\Assembly-CSharp_japan_dmm.dll
+
+using MessagePack;
+using System;
+
+#nullable disable
+namespace SRPG
+{
+  [MessagePackObject(true)]
+  [Serializable]
+  public class JSON_WorldRaidDamageRewardParam
+  {
+    public string iname;
+    public JSON_WorldRaidDamageRewardParam.Reward[] rewards;
+
+    [MessagePackObject(true)]
+    [Serializable]
+    public class Reward
+    {
+      public int dmg_min;
+      public int dmg_max;
+      public string lottery_id;
+      public int eff_idx;
+    }
+  }
+}
