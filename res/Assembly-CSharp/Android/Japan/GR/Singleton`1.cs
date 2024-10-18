@@ -1,0 +1,25 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: GR.Singleton`1
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 059BC2E0-629D-4929-B655-9E68C13AB758
+// Assembly location: S:\Program Files (x86)\DMMGamePlayer\games\tagatame\tagatame_Data\Managed\Assembly-CSharp.dll
+
+using System;
+
+namespace GR
+{
+  public abstract class Singleton<T> where T : class, new()
+  {
+    private static T instance_;
+
+    public static T Instance
+    {
+      get
+      {
+        if ((object) Singleton<T>.instance_ == null)
+          Singleton<T>.instance_ = Activator.CreateInstance<T>();
+        return Singleton<T>.instance_;
+      }
+    }
+  }
+}

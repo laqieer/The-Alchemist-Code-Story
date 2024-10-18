@@ -1,0 +1,23 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: Gsc.Purchase.IPurchaseFlowImpl
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 059BC2E0-629D-4929-B655-9E68C13AB758
+// Assembly location: S:\Program Files (x86)\DMMGamePlayer\games\tagatame\tagatame_Data\Managed\Assembly-CSharp.dll
+
+namespace Gsc.Purchase
+{
+  public interface IPurchaseFlowImpl
+  {
+    void Init(string[] productIds);
+
+    void UpdateProducts(string[] productIds);
+
+    void Resume();
+
+    bool Confirmed();
+
+    bool Purchase(ProductInfo product);
+
+    void Consume(string transactionId);
+  }
+}

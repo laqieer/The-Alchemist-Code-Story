@@ -1,0 +1,65 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.EMissionType
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: E2D362ED-2CBE-44F0-8985-22128799036A
+// Assembly location: D:\User\Desktop\Assembly-CSharp.dll
+
+namespace SRPG
+{
+  public enum EMissionType
+  {
+    KillAllEnemy,
+    NoDeath,
+    LimitedTurn,
+    ComboCount,
+    MaxSkillCount,
+    MaxItemCount,
+    MaxPartySize,
+    LimitedUnitElement,
+    LimitedUnitID,
+    NoMercenary,
+    Killstreak,
+    TotalHealHPMax,
+    TotalHealHPMin,
+    TotalDamagesTakenMax,
+    TotalDamagesTakenMin,
+    TotalDamagesMax,
+    TotalDamagesMin,
+    LimitedCT,
+    LimitedContinue,
+    NoNpcDeath,
+    TargetKillstreak,
+    NoTargetDeath,
+    BreakObjClashMax,
+    BreakObjClashMin,
+    WithdrawUnit,
+    UseMercenary,
+    LimitedUnitID_MainOnly,
+    MissionAllCompleteAtOnce,
+    OnlyTargetArtifactType,
+    OnlyTargetArtifactType_MainOnly,
+    OnlyTargetJobs,
+    OnlyTargetJobs_MainOnly,
+    OnlyTargetUnitBirthplace,
+    OnlyTargetUnitBirthplace_MainOnly,
+    OnlyTargetSex,
+    OnlyTargetSex_MainOnly,
+    OnlyHeroUnit,
+    OnlyHeroUnit_MainOnly,
+    Finisher,
+    TotalGetTreasureCount,
+    KillstreakByUsingTargetItem,
+    KillstreakByUsingTargetSkill,
+    MaxPartySize_IgnoreFriend,
+    NoAutoMode,
+    NoDeath_NoContinue,
+    OnlyTargetUnits,
+    OnlyTargetUnits_MainOnly,
+    LimitedTurn_Leader,
+    NoDeathTargetNpcUnits,
+    UseTargetSkill,
+    TotalKillstreakCount,
+    TotalGetGemCount_Over,
+    TotalGetGemCount_Less,
+  }
+}

@@ -1,0 +1,25 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.ToggledPulldownItem
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 059BC2E0-629D-4929-B655-9E68C13AB758
+// Assembly location: S:\Program Files (x86)\DMMGamePlayer\games\tagatame\tagatame_Data\Managed\Assembly-CSharp.dll
+
+using UnityEngine;
+
+namespace SRPG
+{
+  public class ToggledPulldownItem : PulldownItem
+  {
+    public GameObject imageOn;
+    public GameObject imageOff;
+
+    public override void OnStatusChanged(bool enabled)
+    {
+      if ((UnityEngine.Object) this.imageOn != (UnityEngine.Object) null)
+        this.imageOn.SetActive(enabled);
+      if (!((UnityEngine.Object) this.imageOff != (UnityEngine.Object) null))
+        return;
+      this.imageOff.SetActive(!enabled);
+    }
+  }
+}

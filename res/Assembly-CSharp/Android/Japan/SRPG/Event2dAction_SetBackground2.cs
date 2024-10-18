@@ -1,0 +1,78 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.Event2dAction_SetBackground2
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 059BC2E0-629D-4929-B655-9E68C13AB758
+// Assembly location: S:\Program Files (x86)\DMMGamePlayer\games\tagatame\tagatame_Data\Managed\Assembly-CSharp.dll
+
+using System.Collections;
+using System.Diagnostics;
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace SRPG
+{
+  [EventActionInfo("New/背景/配置(2D)", "背景を配置します", 5592405, 4473992)]
+  public class Event2dAction_SetBackground2 : EventAction
+  {
+    private static readonly string AssetPath = "Event2dAssets/EventBackGround";
+    [HideInInspector]
+    public bool NewMaterial = true;
+    [HideInInspector]
+    public Texture2D Background;
+    [HideInInspector]
+    public EventBackGround mBackGround;
+    private LoadRequest mBackGroundResource;
+    private const string SHADER_NAME = "UI/Custom/EventDefault";
+
+    public override bool IsPreloadAssets
+    {
+      get
+      {
+        return true;
+      }
+    }
+
+    [DebuggerHidden]
+    public override IEnumerator PreloadAssets()
+    {
+      // ISSUE: object of a compiler-generated type is created
+      return (IEnumerator) new Event2dAction_SetBackground2.\u003CPreloadAssets\u003Ec__Iterator0() { \u0024this = this };
+    }
+
+    public override void PreStart()
+    {
+      if (this.NewMaterial)
+      {
+        Shader.DisableKeyword("EVENT_MONOCHROME_ON");
+        Shader.DisableKeyword("EVENT_SEPIA_ON");
+      }
+      if (!((UnityEngine.Object) this.mBackGround == (UnityEngine.Object) null))
+        return;
+      this.mBackGround = EventBackGround.Find();
+      if (!((UnityEngine.Object) this.mBackGround == (UnityEngine.Object) null) || this.mBackGroundResource == null)
+        return;
+      this.mBackGround = UnityEngine.Object.Instantiate(this.mBackGroundResource.asset) as EventBackGround;
+      this.mBackGround.transform.SetParent(this.ActiveCanvas.transform, false);
+      this.mBackGround.transform.SetAsFirstSibling();
+      this.mBackGround.gameObject.SetActive(false);
+    }
+
+    public override void OnActivate()
+    {
+      if ((UnityEngine.Object) this.mBackGround != (UnityEngine.Object) null && !this.mBackGround.gameObject.activeInHierarchy)
+        this.mBackGround.gameObject.SetActive(true);
+      if ((UnityEngine.Object) this.mBackGround != (UnityEngine.Object) null || (UnityEngine.Object) this.mBackGround.gameObject.GetComponent<RawImage>().texture != (UnityEngine.Object) this.Background)
+        this.mBackGround.gameObject.GetComponent<RawImage>().texture = (Texture) this.Background;
+      if ((UnityEngine.Object) this.mBackGround != (UnityEngine.Object) null)
+        this.mBackGround.gameObject.GetComponent<RawImage>().material = !this.NewMaterial ? (Material) null : new Material(Shader.Find("UI/Custom/EventDefault"));
+      this.ActivateNext();
+    }
+
+    protected override void OnDestroy()
+    {
+      if (!((UnityEngine.Object) this.mBackGround != (UnityEngine.Object) null))
+        return;
+      UnityEngine.Object.Destroy((UnityEngine.Object) this.mBackGround.gameObject);
+    }
+  }
+}

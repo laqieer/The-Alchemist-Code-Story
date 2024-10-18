@@ -1,0 +1,25 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.JSON_EventShopItemListSet
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 059BC2E0-629D-4929-B655-9E68C13AB758
+// Assembly location: S:\Program Files (x86)\DMMGamePlayer\games\tagatame\tagatame_Data\Managed\Assembly-CSharp.dll
+
+namespace SRPG
+{
+  public class JSON_EventShopItemListSet
+  {
+    public int id;
+    public int sold;
+    public Json_ShopItemDesc item;
+    public JSON_EventShopItemListSet.Cost cost;
+    public Json_ShopItemDesc[] children;
+    public int isreset;
+    public long start;
+    public long end;
+
+    public class Cost : Json_ShopItemCost
+    {
+      public string iname;
+    }
+  }
+}
