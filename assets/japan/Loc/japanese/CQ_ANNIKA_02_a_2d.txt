@@ -1,0 +1,55 @@
+﻿001	うわああっ！　こいつら、強ぇ！<br>くっそー！　おぼえてやがれー！	VO_thiefm.thiefm_sys_0019
+002	うむ、おぼえておくぞ	VO_annika.annika_sys_0037
+003	…あなたねぇ、ああいうのを<br>まともに相手しちゃダメですよ？	VO_margaret.margaret_sys_0001
+004	うむ、そうか	VO_annika.annika_sys_0005
+005	この騒ぎでお客さんも逃げちゃったし、<br>すごい迷惑なんですけど？	VO_margaret.margaret_sys_0012
+006	そうか	VO_annika.annika_sys_0006
+007	はぁ〜、ツイてないなぁ…<br>あたしはただ、お姉様への贈り物を<br>探しに来ただけなのに…	VO_margaret.margaret_sys_0016
+008	なるほどな<br>では、その探し物を見つけてやろう	VO_annika.annika_sys_0045
+009	え？　わかるんですか？<br>やったー！　早く教えてくださいよぅ！	VO_margaret.margaret_sys_0025
+010	ほう…<br>ソナタの探し物は、キノコだな？	VO_annika.annika_sys_0003
+011	そうです、幻のキノコを探してるんです！<br>すご〜い！　何も教えてないのに！	VO_margaret.margaret_sys_0046
+012	うむ。ソナタの目線で、大地の何かを<br>探していることは明白だったからな<br>そうか、幻のキノコか	VO_annika.annika_sys_0044
+013	少し待て<br>気の流れを感じる…
+014	ふむ…これは魔獣の巣がある、<br>危険な森に生えているようだ	VO_annika.annika_sys_0031
+015	そうなんですかぁ？<br>うーん…初めての場所だし、<br>ひとりじゃ、ちょっと不安かも…	VO_margaret.margaret_sys_0031
+016	そうだ！　あなたも一緒に来ませんか？	VO_margaret.margaret_sys_0002
+017	…な〜んて、無理ですよね〜！	VO_margaret.margaret_sys_0007
+018	うむ、いいぞ	VO_annika.annika_sys_0037
+019	そりゃそうですよねー…<br>え？　本当に？	VO_margaret.margaret_sys_0025
+020	ああ、同伴しよう<br>ではマーガレット、出発するぞ	VO_annika.annika_sys_0038
+021	あ、はい！　ええと…	VO_margaret.margaret_sys_0006
+022	アンニカだ、よろしくな	VO_annika.annika_chara_1001
+023	アンニカさん、<br>よろしくお願いしますね！	VO_margaret.margaret_sys_0041
+024	マーガレット、贈り物と言ったが<br>キノコは何に使われるのだ？<br>あれは食べてもうまくないぞ	VO_annika.annika_sys_0002
+025	ふふっ！　あれは、<br>あたしのお姉様の、新薬の材料に<br>なるんですっ！	VO_margaret.margaret_sys_0007
+026	サガまで来るのは大変だったけど、<br>お姉様の喜ぶ顔が見られると思うと、<br>それだけで幸せなんです
+027	マーガレットはすごいな…<br>そこまで思う相手がいることは<br>幸せなことだ	VO_annika.annika_sys_0046
+028	…しかし、ソナタは陽の気が強すぎる	VO_annika.annika_sys_0003
+029	それは悪いことではないが、<br>時折、突っ走りすぎることがあるのでは？	VO_annika.annika_sys_0031
+030	うっ…！　それは…	VO_margaret.margaret_sys_0029
+031	力を発揮する為に、<br>時には休むことや、待つことも重要だ<br>くれぐれも無茶はならぬぞ	VO_annika.annika_sys_0002
+032	えへへ…気をつけます	VO_margaret.margaret_sys_0006
+033	…ねぇ、どうしてアンニカさんは<br>あたしと一緒にきてくれたんですか？	VO_margaret.margaret_sys_0002
+034	ソナタも素肌を出しているだろう？<br>だから、気に入ったのだ	VO_annika.annika_sys_0008
+035	え？　それだけ？	VO_margaret.margaret_sys_0025
+036	そうだ	VO_annika.annika_battle_1030
+037	…あなた、かなり変わってますよねぇ	VO_margaret.margaret_sys_0031
+038	なあ、ソナタは、衣類を纏え、と<br>言われるのがわずらわしくはないか？	VO_annika.annika_sys_0003
+039	え？　そんなこと言われたことないです！<br>この衣装でみんなが喜んでくれますよ？	VO_margaret.margaret_sys_0025
+040	そうか…<br>ソナタの気は力強く、華やかだからな、<br>隠してはもったいない	VO_annika.annika_sys_0044
+041	そうですか？　ふふっ、ありがとう！<br>あなたのそれは…服、なんですか？	VO_margaret.margaret_sys_0033
+042	でも、その紋様も装飾も、すごく綺麗！<br>隠したら、もったいないですよねぇ
+043	そうか！　わかってくれるか！	VO_annika.annika_sys_0024
+044	この姿であれば、気の流れや季節を<br>肌で感じられるし、清潔も保たれておる<br>だが、布を纏えば穢れを取り込んでしまう
+045	しかし、皆は布を纏え、服を着ろと<br>懇願するのだ<br>ワタシの力を妨げるものでしかないのに…	VO_annika.annika_sys_0031
+046	あたしはその姿、とても素敵だと思います！<br>だから、そのままでいいんじゃないですか？
+047	！
+048	何を言われても、気にすることないです！<br>自分のやりたいことを貫きましょう！	VO_margaret.margaret_sys_0007
+049	おおっ！　そんな意見は初めてだ！<br>嬉しいぞ、マーガレット！<br>よし！　帰ったら一緒に沐浴をしよう！	VO_annika.annika_sys_0024
+050	へっ？　急に沐浴？<br>まぁ、いいですけど…	VO_margaret.margaret_sys_0025
+051	うむ！　ではキノコを採って早く帰ろう！<br>確かこの辺のはずだが…	VO_annika.annika_battle_1030
+052	あ！　あれじゃないですか？<br>ほら、この絵と同じ！	VO_margaret.margaret_sys_0002
+053	…待て、周囲に魔獣がいる<br>夕方には巣へ帰るはずだ、それまで待とう	VO_annika.annika_sys_0031
+054	あ…だめ！　魔獣がキノコを食べてる！<br>こらー！　やめなさい！	VO_margaret.margaret_sys_0015
+055	マーガレット！　待てというのに！

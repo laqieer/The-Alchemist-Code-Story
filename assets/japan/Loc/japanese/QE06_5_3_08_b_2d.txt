@@ -1,0 +1,73 @@
+﻿001	今よ、存分に焼きつけなさい<br>ワダツミの空を飛ぶ、鳳凰の姿を	VO_kagura_3s_kagu.kagura_sys_0037
+002	そして汝は焼き尽くされる<br>三羽の偉大な鳳凰に<br>…合わせよ！	VO_mitsuha.mitsuha_sys_0037
+003	はい！	VO_logi-b.logi-b_sys_0004
+004	カグツチ――煌星（きらぼし）!!!
+005	グオオオオオオオッ！<br>なぜ…だ…！	VO_judius_ogre.judius_ogre_battle_0025
+006	相手が悪かったってことよ	VO_kagura_3s_kagu.kagura_battle_0029
+007	我らのワダツミを蹂躙しようとした罪を<br>その身に刻んだまでのこと	VO_mitsuha.mitsuha_sys_0004
+008	…!?	VO_logi-b.logi-b_sys_0005
+009	まだだ…まだ終わらん…！<br>こんなところで終わってたまるか<br>…俺の計画も…復讐も…	VO_judius_ogre.judius_ogre_sys_0016
+010	誰にも邪魔はさせない！
+011	…！<br>危ない、避けて！	VO_kagura_3s_kagu.kagura_battle_0019
+012	…！	VO_logi-b.logi-b_favorite_0028
+013	ウオオオオオオオオオッ!!!!	VO_budd.budd_sys_0032
+014	グ…ガッ…！	VO_judius_ogre.judius_ogre_sys_0043
+015	…君は…
+016	よし、今度は折れてない！<br>これで借りは返したぞおおおっ！	VO_budd.budd_sys_0009
+076	…いてっ	VO_budd.budd_sys_0042
+017	遅い<br>どこ行ってたのよ！	VO_kagura_3s_kagu.kagura-b_sys_0012
+018	周りの鬼たち全部倒してきたんだ<br>そしたら、なんか危ないのが見えたからさ<br>急いで駆けつけなきゃって
+019	助かったよ、ありがとう	VO_logi-b.logi-b_sys_0033
+020	礼なんかいらねえよ<br>それより、これ
+021	…スメラギ…？<br>どうして君が？
+022	ちょっと借りたのさ<br>…これは、アンタが返しといてくれ<br>アンタがこのまま振るったほうがいいかもな	VO_budd.budd_sys_0006
+023	…見てみろよ、剣の持ち手が血まみれだ<br>こんなになるまで戦ってんだ
+024	私たちの想いも乗せて…<br>託されてくれるかしら？	VO_kagura_3s_kagu.kagura_sys_0003
+025	…ああ、そのつもりだ	VO_logi-b.logi-b_sys_0037
+026	俺たちは、ここまでだ	VO_budd.budd_sys_0005
+027	頼んだわよ、私たちのワダツミを	VO_kagura_3s_kagu.kagura_sys_0001
+028	託したぞ、汝に	VO_mitsuha.mitsuha_sys_0003
+029	…はい<br>朱鳳の名のもとに
+030	……………………
+031	…ロギ	VO_agasa-b.agasa-b_favorite_0001
+032	…行こう<br>残るは本体だけだ
+033	すべてを、終わらせよう
+034	グガアアアアアアッ！<br>…バカな…分身体が二体とも…!?<br>まさか…こんなことが…	VO_judius_ogre.judius_ogre_battle_0025
+035	不死鬼は近くにおらず回復はできない<br>分身体が受けたダメージを負い、<br>そして両の足は俺たちに潰された…	VO_tanosuke.tanosuke_sys_0001
+036	これは、形勢逆転かな？
+037	……グ……！	VO_judius_ogre.judius_ogre_battle_0022
+038	両足が潰れたんだ<br>まともに動けるはずもねえ<br>今のうちに取り戻しちまえ	VO_kouga.kouga_sys_0001
+039	ワダツミの、結びの象徴を
+040	あってはならないのだ<br>道半ばで復讐を果たせず散ることなど<br>許されない…	VO_judius_ogre.judius_ogre_sys_0017
+041	お前たち如きに負けるなど<br>あってはならないことなのだああっ！
+042	今だ、アマネ！	VO_tanosuke.tanosuke_sys_0005
+043	任せろ！	VO_amane.amane_sys_0038
+044	…！<br>刀を足場にして跳んだ…!?	VO_judius_ogre.judius_ogre_sys_0025
+045	いろんなものを結んだからこそできる<br>ワダツミの未来を斬り拓く為の技…
+046	“鳥獣擬画”――	VO_amane.amane_favorite_0001
+047	――“甲ノ巻『大蛇』”
+048	…！<br>何かと…思えば…！<br>今更こんな技など…！	VO_judius_ogre.judius_ogre_sys_0012
+049	――まだだ<br>“鳥獣擬画”“乙ノ巻『虎豹』”	VO_amane.amane_favorite_0001
+050	……！<br>足りんぞ…！<br>俺を倒すには…！
+051	これで終わりではない<br>大蛇が縛り、虎豹が穿ち<br>そして…	VO_amane.amane_battle_0013
+052	鬼が斬る
+053	!?	VO_judius_ogre.judius_ogre_sys_0027
+054	“鳥獣擬画”――	VO_amane.amane_favorite_0001
+055	――“終ノ巻『刃鬼』”
+056	――――!!!!!!<br>――ガ――ハ――ッ	VO_judius_ogre.judius_ogre_battle_0025
+057	…！　技の衝撃でユディウスが<br>ミカボシを吐き出した…！<br>今だ、アマネ！
+058	ワダツミ三種の神器のひとつ<br>霊晶石“ミカボシ”…返してもらうぞ	VO_amane.amane_sys_0016
+059	…！<br>返せ…！<br>それは俺の…
+060	ワダツミのものだ！<br>お主にはこれ以上、<br>何ひとつ奪わせはしない！	VO_amane.amane_sys_0017
+061	波瀾万丈、紆余曲折…<br>細工は流流、後は仕上げを御覧じろ
+062	顕現せよ――
+063	ありがとう、アマネ<br>これで私も戦える――	VO_mikaboshi.mikaboshi_sys_0034
+064	――君は、ワダツミを舐めすぎた<br>僕たちの想いは、たとえ途切れようと<br>“悪意”に屈することはない	VO_sumeragi.sumeragi_sys_0003
+065	両の足が潰れた今、<br>両の腕も潰してしまえば<br>もはやお前の勝ち目は消えよう	VO_tanba.tanba_sys_0016
+066	ワダツミの“普通”を守る為<br>この想いを紡ぎ続けてくれる者が<br>いる限り…	VO_kaede.kaede_sys_0004
+067	ワダツミは“悪意”なんかに屈しない
+068	さて、交代の時間だ<br>強いぜ、俺の家族たちは	VO_kouga.kouga_sys_0006
+072	…こちらも賭けねばならんか<br>命くらいは<br>…ウアアアアアアアアアアッ！	VO_judius_ogre.judius_ogre_sys_0013
+073	!?
+074	ユディウスの傷が…塞がっていく…!?<br>なぜだ、不死鬼を食ってもいないのに…！	VO_tanosuke.tanosuke_sys_0026
+075	ユディウスには…<br>まだ何か奥の手があるというのか…？	VO_amane.amane_sys_0026

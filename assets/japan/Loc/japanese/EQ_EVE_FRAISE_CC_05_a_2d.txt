@@ -1,0 +1,54 @@
+﻿001	魔女に見つかったら面倒ですから、<br>こっそりイヴさんの家まで行きましょう！<br>こっちです！	VO_leychel.leychel_sys_0003
+002	わ、わかりました	VO_frayze.frayze_sys_0004
+003	フレイズさん、鎧…<br>ちょっと静かになりませんか？
+004	す、すみません<br>こればかりはどうにも…	VO_frayze.frayze_sys_0031
+005	…貴方たち、止まりなさい！	VO_courtmage.courtmage_sys_0002
+006	うっ	VO_leychel.leychel_sys_0029
+007	はぁ…なんですか？	VO_leychel.leychel_sys_0030
+008	なんですか？　じゃありません<br>なぜ他国の人間…しかも男を<br>ルストブルグに入れているの？	VO_courtmage.courtmage_sys_0012
+009	貴方、エンヴィリアの騎士よね<br>ルストブルグになんのご用なのかしら<br>…ん？　どこかで見た顔な気が…	VO_courtmage.courtmage_sys_0001
+010	もう！　いいでしょ別に！<br>何か悪いことするわけじゃないし！<br>ちょっと人に会いにきただけなんだから!!	VO_leychel.leychel_sys_0050
+011	何かが起きてからでは遅いのよ<br>他国の人間、しかも男なんて信用ならないわ	VO_courtmage.courtmage_sys_0030
+012	まぁ、貴方がこの男性と<br>家族だというなら話は別ですけど…	VO_courtmage.courtmage_sys_0031
+013	あ、そんな感じです！<br>だって…この人、アタシの恋人なの！<br>これから家族になりま～す	VO_leychel.leychel_sys_0007
+014	!?	VO_frayze.frayze_sys_0025
+015	だから挨拶に来たんです～！<br>ね、騎士様♪	VO_leychel.leychel_sys_0008
+016	…そうなの？
+017	れ、レイチェル殿!?!??!<br>ななな、何を言うんですか!?　<br>私にはイヴ殿という心に決めた人が…	VO_frayze.frayze_sys_0028
+018	シッ！　話合わせてください！
+019	!?!?!?
+020	…魔女と騎士ねぇ<br>組み合わせとしては悪くないわね	VO_courtmage.courtmage_sys_0044
+021	そうねぇ…<br>この男も虫になったあと、<br>実験体としても使えそうだし…	VO_courtmage.courtmage_sys_0045
+022	…！	VO_leychel.leychel_battle_0019
+023	（…ダメ、我慢しなきゃ<br>ここで怒っちゃいけない<br>今は、まだ…）
+024	はぁ、今日も一日<br>トレーニングがんばったな～	VO_eve.eve_sys_0030
+025	…あれ？　あそこにいるのは…<br>レイチェルちゃん？　それに…
+026	…………え？	VO_eve.eve_sys_0006
+027	ふ、フレイズ様と、レイチェルちゃん!?<br>な、なんで!?　え、どういうこと!?<br>なんでふたりが一緒にいるの!?	VO_eve.eve_sys_0026
+028	レイチェルちゃん…<br>まさか、ほんとにフレイズ様と…	VO_eve.eve_sys_0021
+029	…そういえばこの男…<br>イヴの相手の騎士じゃない？<br>イヴとは終わったのかしら	VO_courtmage.courtmage_sys_0002
+030	さぁ…でもそれなら遺伝子としては、<br>申し分ないわね。魔法学校の生徒なら、<br>イヴより御しやすくて都合がいいし
+031	…そうだわ<br>なんなら私が相手をしてもいいのよ<br>天国を見せてあげるわ	VO_courtmage.courtmage_sys_0007
+032	えっ…	VO_frayze.frayze_sys_0016
+033	ちょ、ちょっと…！	VO_eve.eve_sys_0028
+034	ちょっと、やめてよ！	VO_leychel.leychel_sys_0015
+035	！
+036	ッ！　何をするの！	VO_courtmage.courtmage_battle_0019
+037	こっちの台詞だよ！<br>フレイズさんに触んないで！
+038	（…！<br>レイチェルちゃん…<br>そんなにフレイズ様のことが…！）
+039	なんの騒ぎなの!?	VO_courtmage.courtmage_sys_0012
+040	あ、やば…	VO_leychel.leychel_sys_0027
+041	…貴方、魔法学校の生徒ね<br>しかも奨学生の身でこのような…	VO_courtmage.courtmage_sys_0001
+042	これは重大な問題だわ<br>学園長とお話しなくては…<br>きっと…退学かしらね？	VO_courtmage.courtmage_sys_0016
+043	げっ…	VO_leychel.leychel_sys_0029
+044	ちょっと待ったー！	VO_eve.eve_sys_0012
+045	イヴさん!?	VO_leychel.leychel_sys_0025
+046	イヴ殿!?	VO_frayze.frayze_sys_0025
+047	そんなのおかしいよ！<br>黙って聞いてれば…そっちが先に<br>フレイズ様に手を出したんじゃない!!
+048	退学、断固反対!!	VO_eve.eve_sys_0015
+049	フッ…貴方、<br>恋人を取られておきながら<br>この娘を庇うの？	VO_courtmage.courtmage_sys_0010
+050	うっ…でもレイチェルちゃんは、<br>悪いことなんかしてないわ！<br>フレイズ様を守っただけだもん！	VO_eve.eve_sys_0016
+051	…たとえ恋のライバルでも、<br>だって、レイチェルちゃんはモアの友達で<br>すごくいい子だって、あたしは知ってる
+052	お母さんのことが大好きで<br>…人の想いを大事にできる、<br>心の優しい子だって知ってるから
+053	イヴさん…
+054	だからあたしはレイチェルちゃんを守る<br>…レイチェルちゃんもフレイズ様も<br>みんな、あたしが守るんだから！	VO_eve.eve_sys_0012

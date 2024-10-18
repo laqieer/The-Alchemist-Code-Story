@@ -1,0 +1,74 @@
+001	負けそうになったら<br>逃げるんだよ	VO_magnus.magnus_sys_0010
+002	それで勝率100%だ
+003	…………さあ、大博打だ	VO_magnus.magnus_chara_1004
+004	お兄ちゃんは、どこ…？	VO_albell.albell_sys_0002
+005	よお<br>奇遇だな。アルベル	VO_wilhelm.wilhelm_sys_0007
+006	どこにいるの…	VO_albell.albell_sys_0029
+007	兄を捜しにこのラーストリスまで？<br>ご足労だったな	VO_wilhelm.wilhelm_sys_0044
+008	この国は広いぜ？<br>一緒に探してやろうか	VO_wilhelm.wilhelm_sys_0002
+009	この賭場で<br>気さくな、笑い方が特徴的な金髪と…	VO_albell.albell_sys_0013
+010	桃色の髪をした男が<br>つるんでるって聞いた…
+011	負けなしの天才ギャンブラー
+012	マグヌスが<br>ここにいるって…
+013	…………
+014	お兄ちゃんに会わせて	VO_albell.albell_sys_0002
+015	ックク	VO_wilhelm.wilhelm_sys_0008
+016	知らないな。そんなヤツ
+017	…！
+018	…いるんだ…	VO_albell.albell_sys_0044
+019	…………
+020	この先に…？<br>店の外に…？
+021	言ったはずだぜ<br>手を引けって	VO_wilhelm.wilhelm_sys_0012
+022	通して…！	VO_albell.albell_battle_0019
+023	イヤだね	VO_wilhelm.wilhelm_sys_0010
+024	どうして黙ってたの…！	VO_albell.albell_sys_0013
+025	ヴィルさんは比較的<br>おしゃべりな方だけどな	VO_wilhelm.wilhelm_sys_1020
+026	あなたは<br>お兄ちゃんの知り合いなんでしょう!?<br>知ってて、私を、どうして…！	VO_albell.albell_sys_0002
+027	実を言うと俺<br>ギャンブルは好きじゃないんだよ	VO_wilhelm.wilhelm_sys_0030
+028	話をそらさないで…!!	VO_albell.albell_sys_0029
+029	あいつが賭けて<br>大勝したり大損したり…	VO_wilhelm.wilhelm_sys_0007
+030	それを見てるのが<br>一番楽しいんだ
+031	あいつの賭けの<br>邪魔はさせねえ
+032	なんの話をしてるの…!?	VO_albell.albell_sys_0013
+033	私が、家族に会いたいって言うのが<br>そんなにいけないことなの…!?
+034	肉親が亡くなったことを<br>知らせて、分かち合いたいって思うことが
+035	そんな、普通も出来ないの…!?<br>それを知らせることもないまま<br>家族のことを知ることもないまま………
+036	独りで<br>生きていけっていうの…!?	VO_albell.albell_sys_0018
+037	…！
+038	死なせたくないって<br>言ってるのさ	VO_wilhelm.wilhelm_sys_0030
+039	誰が…!?	VO_albell.albell_sys_0025
+040	賭ける前には祈るだろ？	VO_wilhelm.wilhelm_sys_0002
+041	そんなことしても<br>意味なんかないってのに
+042	これは祈りだ
+043	────ふたりで死ぬより…
+044	独りでだって<br>生きてて欲しいんだと
+045	…………話が、通じないのね…	VO_albell.albell_chara_1001
+046	言えないことが、あるのさ	VO_wilhelm.wilhelm_sys_0010
+047	どいて…………!!	VO_albell.albell_battle_0019
+048	このカッコつけ…！
+049	おうよ<br>男はいつでもカッコつけだ	VO_wilhelm.wilhelm_sys_0037
+050	どいてよ！<br>お兄ちゃんに会わせて!!	VO_albell.albell_sys_0013
+051	会いたきゃ通ってみるんだな	VO_wilhelm.wilhelm_sys_0037
+052	あなた…!?<br>なんなの…!?<br>私を守ったり、邪魔したり…!!	VO_albell.albell_sys_0029
+053	最初から言ってるじゃねえか	VO_wilhelm.wilhelm_sys_0001
+054	トラブルメーカーだって
+055	…!?
+056	誰の味方でもない	VO_wilhelm.wilhelm_sys_0007
+057	誰の敵でもない
+058	トラブルを起こすだけだ
+059	お、お客様…！<br>困ります…！<br>店内での揉めごとはご遠慮願えますか…!?	VO_knightf.knightf_sys_0025
+060	トラブルだ	VO_wilhelm.wilhelm_sys_0039
+061	いえ、ですから<br>トラブルはご遠慮を…!!	VO_knightf.knightf_sys_0003
+062	トラブルを<br>メークするぜ	VO_wilhelm.wilhelm_sys_0024
+063	いえいえお客様!?<br>困ります!!<br>ですからトラブルをメークするのが…!!	VO_knightf.knightf_sys_0027
+064	根なし草も悪くないわな	VO_wilhelm.wilhelm_sys_1016
+065	出禁でも構わねえ
+066	…そう	VO_albell.albell_sys_0016
+067	そっちがその気なら…
+068	面倒くさいけど<br>こっちもやらせてもらうわ…！
+069	お客様ーッ!?!?	VO_knightf.knightf_sys_0028
+070	俺はお人好しじゃあないが	VO_wilhelm.wilhelm_sys_0007
+071	優しいからな
+072	ちょっと痛い目<br>見てもらおうか	VO_wilhelm.wilhelm_sys_0010
+073	痛い目をみるのは<br>どっちかしらね！	VO_albell.albell_sys_0032
+074	お客様方ーッ!?!?!?	VO_knightf.knightf_battle_0022

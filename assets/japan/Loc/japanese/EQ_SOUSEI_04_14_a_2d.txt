@@ -1,0 +1,136 @@
+﻿001	罪獣の胎動が、ここまで響いている	VO_julia_dark.julia_dark_sys_0025
+002	始まったのですね<br>我らが王と探究者たちの戦いが…
+003	…
+004	…私は貴女の兄を罪に堕とそうとした女<br>なのにどうして…	VO_julia_dark.julia_dark_sys_0030
+005	貴女はそんなにも、<br>安心した顔で眠っているのですか…	VO_julia_dark.julia_dark_sys_0001
+006	…私は――
+007	左翼！　状況はどうなっている！	VO_waginao-c.waginao-c_sys_0001
+008	圧されています！<br>奴ら、急に――<br>その場で“分裂して”増えだして…！	VO_knightm.knightm_battle_0019
+009	…ニムルの感じていた違和感は、これか	VO_waginao-c.waginao-c_sys_0016
+010	この神殿がある限り、<br>堕罪者たちはその場で幾らでも増え続ける…
+011	だが！　諦めるものか！<br>ニムルが、仲間たちがまだ戦っている<br>ならば活路はきっとあるはずだ…！	VO_waginao-c.waginao-c_sys_0032
+012	ルォォォォォォォォォォ！	VO_asmodeus.asmodeus_battle_0002
+013	うわとぉ！<br>なんだか段々、<br>動きが激しくなってきてない!?	VO_mela.mela_battle_0022
+014	なんだかあたしたちのこと、<br>完全にロックオンしてるんですけど！	VO_mela.mela_sys_0016
+015	ベルゼバブが姿を現したことで、<br>こいつらも活性化してるんだと思う	VO_nix.nix_sys_0004
+016	でも、これはある意味好都合だ<br>これなら回避に専念しているだけで、<br>時間を稼ぐことができる
+017	…そう言いつつ、<br>特大の一発の準備をしてるのは誰かな～？	VO_mela.mela_sys_0010
+018	…まあ、やられてばっかりなのは<br>気分が悪いからね	VO_nix.nix_sys_0007
+019	状況が変わった時に、<br>一発お見舞いする準備はしておかないと
+020	さっすがニクス！<br>陰湿ぅ～！	VO_mela.mela_sys_0008
+021	それ、もはやただの悪口だよね――<br>おっと	VO_nix.nix_sys_0001
+022	ォォォォォオオオオオオ！	VO_asmodeus.asmodeus_battle_0028_a
+023	どうやら、<br>寂しがらせてしまったみたいだね？	VO_nix.nix_sys_0003
+024	しょうがないなぁ…<br>それじゃ少しだけ、派手に行きますか！
+025	くっそー！　まさかこんな戦場の<br>ど真ん中で、修理の腕を披露することに<br>なるなんてなー！	VO_adlai.adlai_battle_0019
+026	よしっ、これでまだ戦える！	VO_adlai.adlai_sys_0006
+027	――
+028	とはいえ――
+029	このままだと、ジリ貧だよなぁ<br>…よし、次はもっと<br>機工兵士の積載量増やそう	VO_adlai.adlai_sys_0016
+030	っと、危ない危ない！
+031	…こっちの手札が尽きる前に、<br>なんとかしてくれよ、ニムル…！	VO_adlai.adlai_battle_0019
+032	罪獣との、融合…!?<br>そんなことをすれば、お前の自我は――	VO_nimuru.nimuru_sys_0016
+033	舐めるな、人間<br>我ら竜種こそがこの地上に<br>“マギル”を生み出せし太古の血統	VO_beelzebub.beelzebub_battle_0020
+034	己が精神を形作る理など、<br>すべからく心得ている
+035	く――、これは、この術理は<br>…練精術なのか？	VO_nimuru.nimuru_battle_0022
+036	否。これこそが我ら竜種が編み出した<br>地の理を操る理法――	VO_beelzebub.beelzebub_battle_0003
+037	貴様らの言う練精術とは、<br>その粗悪な模造に過ぎぬ
+038	――諦めよ、人間<br>貴様らはこの世界に、<br>生まれる形を間違えた――	VO_beelzebub.beelzebub_battle_0020
+039	勝手な、ことを――！	VO_nimuru.nimuru_sys_0013
+040	ニムル、このまま奴につき合っていては、<br>先にこちらの手札が尽きるぞ	VO_kuienai.kuienai_sys_0002
+041	わかっている<br>だが、まだだ。もう少し――	VO_nimuru.nimuru_sys_0004
+042	“我は至高に希う――”	VO_eularea.eularea_battle_0004
+043	無駄だ<br>いかに人の内で秀でた術者であろうと<br>我らの術理には遠く及ばぬ――	VO_beelzebub.beelzebub_battle_0019
+044	かも、しれない<br>“だから”攻める場所を変えるよ！	VO_eularea.eularea_sys_0010
+045	ヌ――？
+046	我の罪獣としての部分を<br>切り崩しに来たか。だが…！	VO_beelzebub.beelzebub_battle_0002
+047	きゃっ!?	VO_eularea.eularea_battle_0025
+048	大丈夫か、エウラリア	VO_nimuru.nimuru_sys_0001
+049	うん、でも…	VO_eularea.eularea_battle_0019
+050	“浄化の術を振るう”罪獣<br>この可能性は、<br>さすがに考慮していなかった…	VO_nimuru.nimuru_sys_0018
+051	ベルゼバブ自体に、<br>浄化が効かないわけじゃないと思うの	VO_eularea.eularea_sys_0030
+052	でも、あのザフィリスってヒトの意識が<br>こっちの練精術を全部弾いちゃって…	VO_eularea.eularea_sys_0031
+053	突破する方法は、ないのか？	VO_kuienai.kuienai_sys_0001
+054	外からだと、きっと無理<br>全体をあのザフィリスってヒトの術が<br>防御してて、ワタシの浄化でも届かないの	VO_eularea.eularea_sys_0016
+055	…あの“罪”の声でできた外殻の、<br>内から浄化の力をぶつけられれば、<br>もしかしたら…
+056	…つまり誰かが、<br>奴に喰われる必要がある…か	VO_nimuru.nimuru_sys_0031
+057	そんなことしたら、<br>穢れを受けちゃうよ…！	VO_eularea.eularea_sys_0025
+058	つまり、奴の内にいても穢れを受けず、<br>しかも浄化の術を使える者が<br>必要ということか…	VO_kuienai.kuienai_sys_0031
+059	ずいぶんと、都合の良い話だ	VO_kuienai.kuienai_sys_0030
+060	…いや、ほかにも手はある
+061	何？	VO_kuienai.kuienai_sys_0006
+062	奴が無効化できるのは、あくまで練精術…<br>なら、俺の錬金術ならば！	VO_nimuru.nimuru_sys_0004
+063	――甘い夢を見ているようだな<br>暴食の探究者よ	VO_beelzebub.beelzebub_battle_0021
+064	――ッ!?	VO_nimuru.nimuru_sys_0018
+065	貴様がどれほどニドヘガルの加護を<br>受け継いだとしても<br>それは所詮、個人の範疇
+066	その程度のマギルで、<br>罪獣となった我と<br>“力比べ”をするつもりか？	VO_beelzebub.beelzebub_battle_0003
+067	…ッ！<br>やってみなければ、わからない!!
+068	“我は暴食の扉を越えし者――！”	VO_nimuru.nimuru_battle_0004
+069	損傷が…すぐに修復されて…	VO_nimuru.nimuru_sys_0025
+070	わかるか？<br>持ちうるマギルの量が違うのだ
+071	たとえ貴様が<br>どれほどの破壊を生み出そうと、<br>我が身の核には決して届かぬ	VO_beelzebub.beelzebub_battle_0020
+072	そして――
+073	――オォォォォォォォォォォォォ!!	VO_beelzebub.beelzebub_battle_0028_a
+074	ひゃぁっ!?	VO_eularea.eularea_battle_0025
+075	ぬおっ!?	VO_kuienai.kuienai_sys_0043
+076	ぐぅっ！	VO_nimuru.nimuru_battle_0025
+077	さあ――これで終幕としよう	VO_beelzebub.beelzebub_battle_0019
+078	くそ…っ!!<br>まだだ…まだ諦めるわけには――	VO_nimuru.nimuru_battle_0022
+079	…？<br>今、誰かの声が…	VO_julia_dark.julia_dark_sys_0025
+080	――なら、俺の錬金術ならば――	VO_nimuru.nimuru_sys_0004
+081	…ニムル<br>そう、ですか…戦っているのですね	VO_julia_dark.julia_dark_sys_0045
+082	この娘を、救う為に…<br>ああ、でも――	VO_julia_dark.julia_dark_sys_0030
+083	さあ――これで終幕としよう	VO_beelzebub.beelzebub_battle_0019
+084	やはり、届きませんか<br>どれほど研鑽を積もうと、所詮は人	VO_julia_dark.julia_dark_sys_0010
+085	世界の理そのものに、敵う道理など…
+086	くそ…っ!!<br>まだだ…	VO_nimuru.nimuru_battle_0022
+087	まだ諦めるわけにはいかない！<br>そうだろう…!?
+088	諦めの悪い…<br>ですが、だからこそここまで<br>来れたのでしょうね、貴方は	VO_julia_dark.julia_dark_sys_0030
+089	これだけの熱を持った相手に、<br>紛い物の私が敵う道理など――<br>始めからなかったのでしょう
+090	ですが、それももう…	VO_julia_dark.julia_dark_sys_0018
+091	――なぜならば、俺にはまたひとつ<br>立ち止まれない理由ができたからだ…！
+092	…？	VO_julia_dark.julia_dark_sys_0025
+093	ほう、まだ立つか。人間よ	VO_beelzebub.beelzebub_battle_0002
+094	当たり、前だ…！	VO_nimuru.nimuru_sys_0004
+095	――なぜならば、俺にはまたひとつ<br>立ち止まれない理由ができたからだ…！
+096	俺は、この<br>暴食罪域＜グラ・ベルト＞で…<br>この手でひとりの“友”を殺した…	VO_nimuru.nimuru_sys_0018
+097	彼女は、厳格で礼儀正しく、<br>俺の身なりを見ていつも小言を言って…
+098	妹がよく懐いて、一番の親友ができたと、<br>あんなに嬉しそうに…
+099	だが俺は、彼女の想いに気づけなかった<br>気づかないままに、<br>多くのものを押しつけて…	VO_nimuru.nimuru_sys_0030
+100	それでも彼女は、言ったんだ<br>俺の顔が、忘れられないと…	VO_nimuru.nimuru_sys_0018
+101	こんな、歪んだ性根の、<br>理想と研究以外取り柄のない…<br>自分すらかえりみられない男のことを！
+102	愛していたと、そう言ってくれた…
+103	俺がこんな男だと知って、<br>それでも愛してくれたのだと…！
+104	なら、俺は立ち上がらなければならない<br>バカみたいな理想を胸に、<br>進み続けなくてはダメだろう！	VO_nimuru.nimuru_sys_0002
+105	お前の愛した男は、あの日のままに、<br>今も変わらずバカなままだと、<br>そう言ってやれるように――！
+106	だから――立つ！　立って戦う！<br>お前が暴食の罪そのものだというのなら	VO_nimuru.nimuru_sys_0004
+107	その暴食をも呑み干して、<br>俺は世界を救って見せる！	VO_nimuru.nimuru_battle_0015
+108	神狼ッ!!	VO_nimuru.nimuru_battle_0004
+109	ルォォォォォォォォォォ!!!	VO_shadowasena.shadowasena_battle_0002
+110	愚かな…そのような精神論で、<br>この絶対的な差が埋まることなど<br>ありはしない…！	VO_beelzebub.beelzebub_battle_0021
+111	それでもっ、俺はぁぁぁぁぁぁぁ!!!	VO_nimuru.nimuru_sys_0032
+112	…バカですか、あの男は…	VO_julia_dark.julia_dark_sys_0030
+113	でも、そうですか<br>そんなバカだからこそ…	VO_julia_dark.julia_dark_sys_0007
+114	“私”たちは、<br>彼に惹かれたのかもしれませんね<br>…ねえ、エンメル…	VO_julia_dark.julia_dark_sys_0010
+115	どうせこの身は虚ろな幻影<br>死後の亡者が見た、<br>一夜の夢だというのなら…
+116	“我は至高に希う――”	VO_julia_dark.julia_dark_sys_0032
+117	（――肺腑が、灼ける…<br>当然だ、この身は既に穢れそのもの<br>練精術など使えば、こうなるのは道理）	VO_julia_dark.julia_dark_battle_0019
+118	ですが――ええ、<br>このまま“他人”の感情に振り回されて<br>生きるよりは…ずっとマシです	VO_julia_dark.julia_dark_sys_0010
+119	…さようなら、エンメル。そしてニムル<br>私は決して貴方がたの友ではありませんが	VO_julia_dark.julia_dark_battle_0010
+120	まあ、悪くない悪夢でしたよ…	VO_julia_dark.julia_dark_sys_0008
+121	ぬう――！　なんだこれは!?	VO_beelzebub.beelzebub_battle_0028_b
+122	バカな！　あの贄の娘にはもはや、<br>我を浄化する力などない<br>だというのに――	VO_beelzebub.beelzebub_battle_0019
+123	これは――	VO_nimuru.nimuru_sys_0006
+124	この、光――もしかして！	VO_eularea.eularea_sys_0002
+125	何を呆けているのですか！<br>貴方は、この程度の苦境で<br>諦めるような男ではない…	VO_julia_dark.julia_dark_sys_0003
+126	そうでしょう…!?	VO_julia_dark.julia_dark_sys_0001
+127	ジューリア、なのか…？<br>お前はまだ、そこに…！	VO_nimuru.nimuru_sys_0002
+128	世界を救うのでしょう？<br>今以上の好機が、ほかにありますか――！
+129	ああ、勿論だとも…！<br>エウラリア、『サジタリウス』を！	VO_nimuru.nimuru_sys_0004
+130	うん！　任せて！	VO_eularea.eularea_sys_0006
+131	断罪の利器、『サジタリウス』よ――<br>母なるセフィロンの導きのもと、<br>我らに罪を越える機会をお与えください
+132	“我は至高を掻き抱くもの――”	VO_eularea.eularea_battle_0004
+133	くおぉぉぉぉぉぉぉぉぉ!?	VO_beelzebub.beelzebub_battle_0028_c
+134	捉えた――！
+135	対罪術式がベルゼバブの核を無力化した！<br>今ならば――奴を倒せる！	VO_nimuru.nimuru_sys_0001
+136	グ、オォォ…！　舐めるな、人間!!	VO_beelzebub.beelzebub_battle_0001

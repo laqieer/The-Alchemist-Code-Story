@@ -1,0 +1,57 @@
+﻿001	もう、行く先行く先<br>タコばっかりだよ～！	VO_berta.berta_sys_0029
+002	い、磯くさい…<br>ここ、本当にその遺跡なんですか<br>タコの棲処にしか思えないのですが	VO_sharon.sharon_sys_0029
+003	だからタコの棲処だと言っただろう	VO_lusheng.lusheng_sys_0004
+004	えっと…かつて、魔人を奉る宗教が<br>ここを拠点に活動していたらしいです<br>今はタコの棲処かもしれませんが	VO_siyi.siyi_sys_0031
+005	魔人を奉るって…	VO_berta.berta_sys_0031
+006	邪教ですね	VO_sharon.sharon_sys_0004
+007	そ、そうです…ある年代以降になると<br>この遺跡について触れてる地図も文献も<br>ほとんどなくなりました	VO_siyi.siyi_sys_0006
+008	遺跡が人々に忘れ去られているのは<br>邪教が存在したという事実そのものを<br>消し去ろうとしたからかも…
+009	あっ…！　ご、ごめんなさい<br>ぼーっとしちゃって	VO_siyi.siyi_sys_0036
+010	謝らなくていい、シャオシャオ<br>お互い、できることをしているだけだ	VO_lusheng.lusheng_sys_0007
+011	さぁ、次はどっちにいけばいい？
+012	…あ、え、えっとね！	VO_siyi.siyi_sys_0001
+013	…ちょっと待ってください<br>この音…固いものを<br>剣で叩いているような…	VO_sharon.sharon_sys_0001
+014	誰か、中で戦ってるってこと？<br>…もしかして！	VO_berta.berta_sys_0025
+015	てやぁぁぁっ!!	VO_shengmei.shengmei_battle_0009
+016	ウオオオオオオオオ	VO_Mmajin.Mmajin_battle_0028_b
+017	よーっし！　<br>これくらい朝飯前よっ！	VO_shengmei.shengmei_sys_0007
+018	ねぇ、カヤさん<br>やっぱりこいつがビーチを荒らす<br>怪物なのかなぁ？	VO_shengmei.shengmei_sys_0001
+019	…………
+020	…魔人は封印されていたはず<br>その形跡も確認した<br>なぜ今、動き出しているんだろう…	VO_kaya.kaya_sys_0031
+021	誰かが封印を解いて…？
+022	おーい、カヤさんってば！	VO_shengmei.shengmei_sys_0002
+023	ウオオオオオオオオ	VO_Mmajin.Mmajin_battle_0028_a
+024	…！　あぶない！<br>シェンメイおねえちゃん！	VO_siyi.siyi_sys_0027
+025	！	VO_shengmei.shengmei_sys_0027
+026	！　一撃で…！
+027	…さすがですね	VO_sharon.sharon_sys_0010
+028	ふぅ、あぶなかったぁ！	VO_shengmei.shengmei_sys_0030
+029	って、あれ！<br>リューシェンにスーイー！<br>どうしたの!?　迷子…な、わけは	VO_shengmei.shengmei_sys_0026
+030	ないだろう	VO_lusheng.lusheng_sys_0030
+031	ないよねぇ<br>…あれ、もしかしなくても<br>捜しに来てくれた感じ？	VO_shengmei.shengmei_sys_0011
+032	え～！　うれしい！<br>乗組員に恵まれて、船長は嬉しいよ…！	VO_shengmei.shengmei_sys_0009
+033	心配をかけた自覚はあるか？	VO_lusheng.lusheng_sys_0001
+034	あります<br>すみません<br>ごめんなさい	VO_shengmei.shengmei_sys_0036
+035	…それを言う相手は俺じゃないな	VO_lusheng.lusheng_sys_0031
+036	遺跡の場所を見つけたのも<br>捜しに行きたいと言ったのも<br>俺じゃない
+037	スーイー…
+038	…よくある、そういうの<br>心配してるつもりが<br>心配される側だったとか	VO_kaya.kaya_sys_0006
+039	どうしたって<br>人は自分の視点からでしか<br>物事が見れないんだよね
+040	そっか…<br>…ありがと、スーイー	VO_shengmei.shengmei_sys_0034
+041	…シェンメイおねえちゃん	VO_siyi.siyi_sys_0007
+042	あーあ、ひとりで突っ走るなんて<br>船長失格だな～！　ほんと反省！	VO_shengmei.shengmei_sys_0030
+043	次からは、ちゃんと<br>航海士の言うことを聞かないとだね
+044	カヤさん！　<br>シェンメイさんと一緒だったんですね<br>無事でよかったです！	VO_berta.berta_sys_0008
+045	成り行きで迷子を拾っちゃった<br>ビーチの怪物について探ってたつもり<br>だったんだけど…	VO_kaya.kaya_sys_0007
+046	…それで別行動を？<br>そういうことなら<br>言ってくれればいいのに	VO_sharon.sharon_sys_0031
+047	人々に忘れ去られた古代遺跡だし<br>あんまり大々的に探りを入れて<br>寝た子を起こすのもよくないかなと思って	VO_kaya.kaya_sys_0006
+048	それなら私のほうで調べちゃったほうが<br>いいかなと思って。得意分野だし<br>それに、単純に興味もあったしね
+049	…でも、私の推測は<br>少し外れていたみたい	VO_kaya.kaya_sys_0031
+050	え？	VO_berta.berta_sys_0025
+051	またタコ！　<br>…って、何これ、でっか!!	VO_shengmei.shengmei_sys_0028
+052	こいつが、噂の巨大タコか…	VO_lusheng.lusheng_sys_0027
+053	見て！　<br>あのタコの足に絡みついてるの…<br>あれ、水着じゃないかな!?	VO_berta.berta_sys_0025
+054	ビーチで取られたっていう!?<br>ということは…やはりこのタコが<br>ビーチで暴れている怪物…!?	VO_sharon.sharon_sys_0025
+055	なんにせよ<br>こいつらをどうにかしないと<br>終わりそうにないな	VO_lusheng.lusheng_sys_0016
+056	…このデカさだと<br>から揚げにするのに何分かかるんだ？	VO_lusheng.lusheng_sys_0022
+057	くるよー！	VO_berta.berta_sys_0026

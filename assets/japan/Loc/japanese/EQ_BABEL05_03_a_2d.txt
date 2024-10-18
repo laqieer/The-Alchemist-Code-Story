@@ -1,0 +1,115 @@
+001	ルストブルグ王国　街路
+002	…………雪が、積もってきちゃった…	VO_albell.albell_battle_1018
+003	（デネブ…）
+004	（以前、お兄ちゃんの居場所を<br>占ってくれた“凄腕の占い師”…）
+005	（彼女に聞けば<br>お兄ちゃんの行方が<br>詳細にわかるかもしれない…）
+006	（だけど…………）
+007	（扉は、叩けずにいる…………）
+008	…………雪が、積もってますよ？	VO_sophia.sophia_sys_0002
+009	…えっ？	VO_albell.albell_sys_0025
+010	綺麗な髪に。ほら	VO_sophia.sophia_sys_0007
+011	あ、う、ごめんなさい…	VO_albell.albell_battle_1018
+012	デネブにご用ですか？	VO_sophia.sophia_sys_0002
+013	…………
+014	…ごめんなさい<br>デネブは少しの間<br>お休みを頂いているの	VO_sophia.sophia_sys_0036
+015	占いのお店も休業中<br>今日は私がお手伝いで店番なんだけれど
+016	…………
+017	…お茶でも、飲みますか…………？	VO_sophia.sophia_sys_0002
+018	デネブは、元気なのね…	VO_albell.albell_sys_0002
+019	…ええ。居場所は教えられないけど	VO_sophia.sophia_sys_0005
+020	…それで、いい…………	VO_albell.albell_sys_0004
+021	…？<br>これは？<br>望遠鏡…？	VO_sophia.sophia_sys_0006
+022	これ…デネブに渡して…………	VO_albell.albell_sys_0002
+023	それと…ありがとう…って
+024	やっと、答えが出せそうだから<br>頑張ってみる…って
+025	…………あなた	VO_sophia.sophia_sys_0001
+026	…それじゃあ	VO_albell.albell_sys_0004
+027	あ、待って…！	VO_sophia.sophia_chara_1017
+028	？	VO_albell.albell_sys_0005
+029	あなた…もしかして、アルベル…………？	VO_sophia.sophia_sys_0002
+030	…？	VO_albell.albell_sys_0025
+031	くしゅんっ
+032	雪空の中でずぅっといるから…<br>はい。温かいお茶を、どうぞ？	VO_sophia.sophia_sys_0016
+033	…ど、どうも…	VO_albell.albell_battle_1018
+034	申し遅れました<br>私は、ソフィアと言います	VO_sophia.sophia_chara_1001
+035	…………
+036	？<br>どうしました？<br>わ、私の頭に何か…？	VO_sophia.sophia_sys_0004
+037	あの、ずうっと髪をいじって<br>耳の辺り…隠してるみたいだから…	VO_albell.albell_battle_1018
+038	あ、これは、あはは<br>いろいろと…	VO_sophia.sophia_chara_1017
+039	…………
+040	ご、ごめんなさい	VO_sophia.sophia_sys_0036
+041	う、ううん、私も<br>髪は、気にしちゃうし…
+042	…デネブから聞いていました<br>いずれ、再び星を覗こうとする桃色の光が<br>やってくる日が来る…って	VO_sophia.sophia_sys_0002
+043	…お見通しだったってこと…	VO_albell.albell_sys_0016
+044	聞いてた通り<br>本当に機械がお好きなんですね<br>そんな大きな機器まで背負って…	VO_sophia.sophia_sys_0005
+045	あ、これは、お父さんの遺作で…<br>私と一緒に、作ってて…<br>私は、小さい機械の方が好きなんだけど…	VO_albell.albell_battle_1018
+046	大事なものなんですね…<br>旅先まで背負って？	VO_sophia.sophia_sys_0007
+047	起動には、膨大なアルケミィが要るみたいで<br>私だけじゃあ、とても動かせないんだけど…	VO_albell.albell_sys_0037
+048	その、動かなくても…<br>どうしても、見せたい人がいて…
+049	見せに行こうと？	VO_sophia.sophia_sys_0045
+050	…兄を、捜しているの	VO_albell.albell_sys_0004
+051	ええ…デネブから聞きました<br>行方を尋ねられたと	VO_sophia.sophia_sys_0005
+052	それなら先ほどは<br>どうして店の前で？	VO_sophia.sophia_sys_0002
+053	なんだか、それが<br>兄に近づくことが、なのか、なんなのか…<br>“危険”みたいで…	VO_albell.albell_sys_0031
+054	ここまで来たはいいものの…<br>巻き込んでしまうかもって、思って…<br>そうしたら、ずっと…………
+055	自分のこととなると全然平気なのに…<br>誰かを巻き込んでしまうって考えたら…<br>こんなにも、怖いんだなって…
+056	…………
+057	…お茶、ごちそうさま…………	VO_albell.albell_chara_1001
+058	もう、お帰りに？	VO_sophia.sophia_sys_0006
+059	あなたにも<br>面倒をかけたら<br>イヤだから…	VO_albell.albell_sys_0004
+060	…………
+061	…アルベル。見てください	VO_sophia.sophia_sys_0002
+062	…え？	VO_albell.albell_sys_0005
+063	…！<br>髪の毛の下…………<br>あなた、耳が…	VO_albell.albell_sys_0025
+064	…エルフ
+065	“危険”なんて<br>大丈夫ですよ	VO_sophia.sophia_sys_0007
+066	え…	VO_albell.albell_sys_0025
+067	エルフは、耳が利きます<br>迫害されたり、利用されそうになったり<br>危険だって慣れっこですから
+068	は、はくがい…	VO_albell.albell_sys_0027
+069	私がお力になりますよ？	VO_sophia.sophia_sys_0002
+070	だけど…	VO_albell.albell_sys_0018
+071	友達にも、いるんです	VO_sophia.sophia_sys_0007
+072	妹さんを待ち続けている友達が
+073	妹さんのこと<br>話す時は楽しそうに笑うんですけど…
+074	きっと、平気なんかじゃない<br>って思うんです
+075	…！
+076	私の力、お役に立ててください	VO_sophia.sophia_chara_0015
+077	し、室内なのに氷が浮いて…!?	VO_albell.albell_sys_0025
+078	氷上に影を落とした星の行方と<br>氷下にたゆたう魂の行方を<br>重ねて眺め、光明を導き出します…
+079	アルベル。お兄さんと関わりのある物<br>ゆかりのある物<br>何か、ありませんか…？	VO_sophia.sophia_sys_0002
+080	お兄ちゃんとゆかりのある…	VO_albell.albell_sys_0031
+081	…!!<br>こ、これっ	VO_albell.albell_battle_1018
+082	これは…ラーストリスの軍服…？	VO_sophia.sophia_sys_0006
+083	お母さんが昔、くれたの…	VO_albell.albell_sys_0004
+084	『いつかあなたが<br>大人になったら着られるようにと思って<br>お兄ちゃんの軍服をもとに作った』って…
+085	私が持っている、唯一の<br>お兄ちゃんとの思い出…
+086	お借りしても？	VO_sophia.sophia_sys_0002
+087	だ、だいじにしてよね…	VO_albell.albell_sys_0018
+088	もちろん	VO_sophia.sophia_sys_0005
+089	どうするつもり…？	VO_albell.albell_sys_0002
+090	思い出に沈む星を<br>氷に映し手掛かりに、と
+091	それと…
+092	それと？	VO_albell.albell_sys_0005
+093	ウマくいくように<br>おまじないを…♪	VO_sophia.sophia_sys_0007
+094	ちゃ、ちゃんと、返してよね…！	VO_albell.albell_sys_0018
+095	あはは<br>そんなに信用ありません？	VO_sophia.sophia_sys_0008
+096	信用してるから<br>貸すのよ…！	VO_albell.albell_sys_0029
+097	フクザツですねえ	VO_sophia.sophia_sys_0050
+098	…………
+099	お願い…！
+100	…………
+101	…お兄様の星は、憤怒の河に身を沈め<br>光を水面に紛れさせている…
+102	憤怒の河…？<br>ラーストリス…？	VO_albell.albell_sys_0005
+103	上流には星の流れの大元が…<br>座して口を開けている…
+104	星の流れの、大元…？	VO_albell.albell_sys_0025
+105	禁忌の術にまつわる…<br>古の都…
+106	…禁忌の術…錬金術…？<br>古の…？	VO_albell.albell_sys_0031
+107	まさか<br>ラーストリスにも<br>スロウスと同じような遺跡が…？	VO_albell.albell_sys_0021
+108	いずれ、その中心に向かって<br>お兄様の星は螺旋を描くように吸い込まれ<br>飲み込まれていく…
+109	…………“忌み封じられた魔徒”のもとへ
+110	!?
+111	…やっぱりね…!!	VO_albell.albell_battle_0019
+112	この方々は…!?	VO_sophia.sophia_sys_0025
+113	面倒くさい人たち…!!	VO_albell.albell_sys_0030
+114	危険な人たちですね！	VO_sophia.sophia_sys_0029
+115	そうとも言うわ！	VO_albell.albell_sys_0037

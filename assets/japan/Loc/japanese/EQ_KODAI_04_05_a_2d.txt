@@ -1,0 +1,55 @@
+﻿001	よう、アンタ！<br>今日も町を守ってくれたんだって？<br>助かるよホントに！
+002	あらあら、魔物退治のイイ男じゃない<br>今、パンが焼き立てなんだけど持ってく？
+003	…打ち解けすぎだろ、俺ら…	VO_kvense_kvense-b.kvense_sys_0030
+004	こうも感謝されると、こそばゆいな<br>私たちにとっては、<br>魔物退治など大した労働ではないのだが	VO_zafilys.zafilys_sys_0031
+005	ま、適材適所ではあるさ	VO_kvense_kvense-b.kvense_sys_0007
+006	しっかし、この町の連中…<br>本当に荒事はからっきしなんだな	VO_kvense_kvense-b.kvense_sys_0031
+007	人間がマギルを利用する技術<br>魔法の発達も、他の層より遅れている…<br>と言うより、ほぼ進んでいないようだ	VO_zafilys.zafilys_sys_0037
+008	素養自体はありそうなんだがね<br>この層の連中
+009	これも、<br>リンドレイクの竜界の影響…なのかね？	VO_kvense_kvense-b.kvense_sys_0020
+010	さて、な
+011	ともかく、今日の仕事は終えた<br>ここからは情報収集と、<br>リンドレイクに会う方法を――	VO_zafilys.zafilys_sys_0022
+012	なんだと…!?<br>もう一度言ってみろ!!
+013	…喧嘩か？	VO_kvense_kvense-b.kvense_sys_0025
+014	俺の作ったガレットが<br>不味いってのか!?
+015	そうは言ってないが！<br>柑橘系はダメだって話しただろ!?
+016	何事だ？	VO_kvense_kvense-b.kvense_sys_0001
+017	ああ、アンタは――	VO_knightm.knightm_sys_0004
+018	あー、喧嘩か？	VO_kvense_kvense-b.kvense_sys_0005
+019	そうなんだよ。くだらない理由なんだが<br>あいつら、友人同士なんだがちょっとした<br>行き違いがあったらしくってさ
+020	なんでも、誕生日の祝いの品がどうとか
+021	マジでくだらない理由だな…	VO_kvense_kvense-b.kvense_sys_0030
+022	けど、にしては野次馬が多くないか
+023	そりゃ――まあ	VO_knightm.knightm_sys_0016
+024	なんだよ、俺が悪いってのか!?
+025	こっちのせいだってのかよ！
+026	あー、マズいマズいマズい<br>早く止めないと…	VO_knightm.knightm_battle_0019
+027	？　何をそんなに慌てて	VO_kvense_kvense-b.kvense_sys_0039
+028	お前ら、それくらいにしとけ！<br>それ以上は“憤怒”になる！<br>禁を破ることになるぞ！	VO_knightm.knightm_sys_0014
+029	……っ！
+030	そ、そうだな…悪い
+031	いや、こっちこそ…<br>ちゃんと確認すべきだった…
+032	ふぅ…心臓に悪いぜ	VO_knightm.knightm_sys_0030
+033	…禁？	VO_kvense_kvense-b.kvense_sys_0005
+034	ああ、外からの客人じゃあ知らないか
+035	この層ではさ、<br>他人を恨んだり憎むのを禁じてるんだ	VO_knightm.knightm_sys_0016
+036	そりゃ、結構な志だが…<br>心の中のことだろ<br>そう簡単に止められるもんか？	VO_kvense_kvense-b.kvense_sys_0044
+037	それは、まあな…
+038	俺ならいっそ、吐き出しちまったほうが<br>スッキリすると思うがね	VO_kvense_kvense-b.kvense_sys_0007
+039	…そりゃ、俺たち自身はそうさ<br>けど、それじゃあ罪が溜まっちまう
+040	罪？	VO_kvense_kvense-b.kvense_sys_0039
+041	ああ、竜との古い約束でな<br>相手はリンドレイク様より前の代って<br>話なんだが…	VO_knightm.knightm_sys_0004
+042	“決して、怒りに身を任せてはならない<br>怒りは罪を呼び、血を濁らせる”
+043	竜にそう教えられて、<br>俺たちはずっと“怒り”ってもんを<br>抑えて生きてきたんだ
+044	実際、町で大きな喧嘩が起こった年は<br>不作になったり災害が起こったり、<br>色々と不幸が続いてな	VO_knightm.knightm_sys_0031
+045	なるほどね	VO_kvense_kvense-b.kvense_sys_0044
+046	（はっきり言って迷信…<br>だが、罪。罪か――）	VO_kvense_kvense-b.kvense_sys_0031
+047	…クェンス、すまん<br>アンブロシアのことは、頼んだ…	VO_clabul.clabul_sys_0001
+048	この層の竜は、<br>あの“穢れ”のことを知っていた…？	VO_kvense_kvense-b.kvense_sys_0020
+049	（なら、リンドレイクもきっと<br>あの穢れの知識を持っているはず――）
+050	（そいつを手に入れることができれば、<br>師匠の状態を理解することも<br>もしかすると、治すことだって…）
+051	クェンス？	VO_zafilys.zafilys_sys_0006
+052	いや、なんでもない<br>ちょっとやる気が出ただけだ	VO_kvense_kvense-b.kvense_sys_0004
+053	あの喧嘩を見て、か？<br>不思議なものだな、人間というのは	VO_zafilys.zafilys_sys_0031
+054	…アンタ、時々妙にアホになるよな…	VO_kvense_kvense-b.kvense_sys_0002
+055	…？	VO_zafilys.zafilys_sys_0005

@@ -1,0 +1,41 @@
+001	おかえりなさい、カムイ兄ちゃん	VO_hisham-b.hisham-b_sys_0007
+002	…まだ起きていたのか	VO_kamui-b.kamui-b_sys_0037
+003	うん…なんだか目が冴えちゃって	VO_hisham-b.hisham-b_sys_0037
+004	もう寝なさい<br>また朝食を食べ損ねるぞ	VO_kamui-b.kamui-b_sys_0030
+005	うん…あのさ！<br>カムイ兄ちゃんにお願いが、あるんだ！	VO_hisham-b.hisham-b_sys_0037
+006	…僕！<br>故郷の村に、行ってみたい！
+007	だが…	VO_kamui-b.kamui-b_sys_0027
+008	…思い出したんだ<br>僕の村は、グラトニーの兵士に<br>焼かれちゃったんだってこと	VO_hisham-b.hisham-b_sys_0020
+009	村の近くに解放軍の砦があって、<br>そこを攻める陣を張る為に…
+010	村の井戸…水源を狙われたんだ
+011	でも、僕たちにとってもその井戸は<br>生命線で…だから、最後まで抵抗するしか<br>なかった
+012	ほかに生きていく術を、<br>僕らは持ってなかったから…
+013	そうか…	VO_kamui-b.kamui-b_sys_0045
+014	わかってるよ…<br>もうきっと、誰もいないって	VO_hisham-b.hisham-b_sys_0018
+015	でも…せめて、お墓を作るくらいは…<br>それだけでも…
+016	…わかった<br>行こう、ヒシャーム<br>お前の故郷へ	VO_kamui-b.kamui-b_sys_0038
+017	…うん！	VO_hisham-b.hisham-b_sys_0037
+018	準備はいいか？	VO_kamui-b.kamui-b_sys_0002
+019	うんっ！<br>砂漠越えの準備もバッチリだよ！	VO_hisham-b.hisham-b_sys_0005
+020	よし、なら――	VO_kamui-b.kamui-b_chara_1017
+021	おっと、水臭いじゃないか	VO_ishido.ishido_sys_0001
+022	イシド!?	VO_hisham-b.hisham-b_chara_1009
+023	話はマルタから聞いている<br>最近は物騒だからな、<br>俺も護衛として付き合おう	VO_ishido.ishido_sys_0010
+024	しかし、戦士団の長が<br>村を離れていいのか？	VO_kamui-b.kamui-b_sys_0031
+025	なぁに、元々俺たちは“アレ”が<br>出るまでは訓練と獣を<br>追い払うくらいしか仕事はないさ	VO_ishido.ishido_sys_0007
+026	それに、マルタに頼まれては断れん
+027	フッ、相変わらずだな	VO_kamui-b.kamui-b_sys_0007
+028	勿論だとも！<br>俺の原動力はマルタへの愛だからな！	VO_ishido.ishido_sys_0004
+029	うわ～、暑苦しい…<br>マルタ姉ちゃん、イシドのそういうところが<br>うっとおしいって言ってたよ？	VO_hisham-b.hisham-b_sys_0030
+030	えっ	VO_ishido.ishido_sys_0025
+031	さあ、行くぞ<br>日が暮れる前に見つかればいいんだが…
+032	あ、おい！<br>冗談だよな？　なっ!?	VO_ishido.ishido_sys_0027
+033	それで、ヒシャームの故郷だが…<br>場所の目星はついているのか？	VO_ishido.ishido_sys_0002
+034	ああ、いくつか特徴的な山影を“見”た<br>おそらく南部の――この辺りからなら<br>そう見えるはずだ	VO_kamui-b.kamui-b_sys_0004
+035	うん…僕もここの風景に、<br>なんとなく見覚えが――	VO_hisham-b.hisham-b_sys_0005
+036	グルルルルル…
+037	うわっ!?	VO_hisham-b.hisham-b_sys_0027
+038	…魔物がこんなところにまで<br>下がっていろ、ヒシャーム	VO_kamui-b.kamui-b_sys_0022
+039	う、うん…	VO_hisham-b.hisham-b_sys_0037
+040	囲まれたか…<br>だがこの数ならば問題あるまい<br>とっとと追い散らすぞ、カムイ！	VO_ishido.ishido_sys_0022
+041	ああ！	VO_kamui-b.kamui-b_sys_0004

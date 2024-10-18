@@ -1,0 +1,224 @@
+001	やっと…<br>やっと見つけた…<br>辿り着いた…！	VO_adlai.adlai_sys_0046
+002	お、降りてきたぞ…！	VO_knightm.knightm_sys_0042
+003	あの…里外れの<br>鍛冶師の仲間か…？	VO_stknightm.stknightm_sys_0017
+004	奪い返しに来たんじゃねえのか!?	VO_thiefm.thiefm_sys_0018
+005	民たちよ、下がれ！	VO_stknightm.stknightm_sys_0001
+006	お、おい！<br>アンタたち…	VO_adlai.adlai_sys_0001
+007	!?<br>動くな…！	VO_knightm.knightm_battle_0019
+008	それ以上動くと、容赦はしないぞ!!	VO_stknightm.stknightm_sys_0012
+009	待ってくれ！<br>俺の名はアドレイ！	VO_adlai.adlai_sys_0027
+010	“怠惰罪域＜アケディア・ベルト＞”<br>から来た！
+011	あけでぃあ…？	VO_knightm.knightm_sys_0025
+012	一体なんの目的があって<br>このセフィラの地へ来た!?	VO_stknightm.stknightm_sys_0001
+013	セフィラ…<br>そうか、ここはセフィラというのか…！	VO_adlai.adlai_sys_0050
+014	…なんて美しいところなんだ…!!<br>大地の裂け目もない…！<br>緑にあふれている…!!	VO_adlai.adlai_sys_0007
+015	なあ！	VO_adlai.adlai_sys_0002
+016	!?<br>な、なんだっ…	VO_stknightm.stknightm_sys_0027
+017	ここに地震はあるか!?	VO_adlai.adlai_sys_0001
+018	地震…？	VO_stknightm.stknightm_sys_0025
+019	まあ、なくはないが…	VO_knightm.knightm_sys_0031
+020	そういや、何年も来てないなぁ…	VO_stknightm.stknightm_sys_0004
+021	そ、そうかっ!!<br>ここは地震の災厄に苦しんでいないのか！	VO_adlai.adlai_sys_0020
+022	やっと見つけた…！<br>“罪”のない…<br>平和な場所を――	VO_adlai.adlai_sys_0009
+023	――人の住むところに<br>“罪”のないところなど、ない	VO_nimuru.nimuru_sys_0001
+024	!?
+025	アンタは…？	VO_adlai.adlai_sys_0001
+026	俺の名はニムル<br>この地に住まう者たち――<br>セフィラの民の次の長だ	VO_nimuru.nimuru_sys_0004
+027	話は聞いていた
+028	歓迎しよう<br>障壁の向こうからの来訪者よ
+029	ここはセフィラの里…<br>罪の穢れに侵され枯れ行く地だ	VO_nimuru.nimuru_sys_0030
+030	セフィラの里…<br>“罪の…穢れ”…	VO_adlai.adlai_battle_1018
+031	じゃあ…ここにも…<br>“罪獣”が…!?	VO_adlai.adlai_sys_0018
+032	…ああ	VO_nimuru.nimuru_sys_0004
+033	く…くそぉっ!!<br>ここにも“罪獣”が<br>いるっていうのかよぉっ!!	VO_adlai.adlai_sys_0042
+034	せっかく…<br>せっかくここまで来たのにっ…!!
+035	…来訪者よ<br>話を聞かせてくれ<br>お前の目的、そして――	VO_nimuru.nimuru_sys_0002
+036	お前のいた地のことを
+037	…………<br>わかった、話そう	VO_adlai.adlai_sys_0030
+038	では来訪者…アドレイよ<br>俺の家に来るといい<br>もてなそう	VO_nimuru.nimuru_sys_0005
+039	ああ…<br>…あ――	VO_adlai.adlai_sys_0004
+040	？
+041	お、おいっ…!!<br>どうしたんだ、急に倒れ込んで！	VO_waginao-c.waginao-c_sys_0027
+042	しっかりしろっ！	VO_waginao-c.waginao-c_sys_0001
+043	くぅ…ふぅ…
+044	眠って…いるのか…？	VO_waginao-c.waginao-c_sys_0006
+045	…それだけ厳しい航海だったと<br>いうことだ	VO_nimuru.nimuru_sys_0005
+046	“黒の障壁”を<br>越えてきたのだからな
+047	（黒の障壁…<br>“穢れの噴出”と言われているもの…）
+048	（この者は、それを越えて<br>ここにたどり着いた…）
+049	（…いったい黒の障壁とは<br>なんなのだ…？）
+050	ニムル、どうする？<br>この少年を…	VO_waginao-c.waginao-c_sys_0001
+051	俺の家に運ぼう<br>少し休ませれば、直に回復するだろう	VO_nimuru.nimuru_sys_0004
+052	おい！　みんな…!!<br>どこに行ったんだよ!?<br>おーい!!	VO_adlai.adlai_sys_0001
+053	地震っ…!?<br>またかっ…!!	VO_adlai.adlai_sys_0027
+054	うわっ…!?<br>こんな揺れ…今までなかった…ぞ…!!	VO_adlai.adlai_battle_0022
+055	…………
+056	お、おい！<br>お前！　危ないぞ…！	VO_adlai.adlai_sys_0001
+057	…ぅう…あぁ…
+058	!?
+059	…ウゥウゥァアィィィィ…
+060	…堕罪者っ…!?	VO_adlai.adlai_sys_0050
+061	ガァァァァーーーー!!!!
+062	う、うあああああーーーー…!!!!	VO_adlai.adlai_sys_0026
+063	――ぁぁぁぁああああ!!!!	VO_adlai.adlai_battle_0025
+064	目が覚めたか…	VO_waginao-c.waginao-c_sys_0001
+065	あ…ぁ？<br>ここは…？	VO_adlai.adlai_sys_0020
+066	俺の家だ	VO_nimuru.nimuru_sys_0004
+067	そうか…<br>すまない…<br>はぁ…	VO_adlai.adlai_sys_0018
+068	ずいぶんうなされていたが…	VO_waginao-c.waginao-c_sys_0003
+069	…恐ろしい夢を見た<br>俺のいた罪域の夢だ…	VO_adlai.adlai_sys_0020
+070	大地の裂け目から溢れ出た“穢れ”に<br>触れて、男が堕罪者になる…
+071	堕罪者…!!<br>他の罪域にも存在していたのか…!!	VO_waginao-c.waginao-c_sys_0012
+072	…話を聞こう<br>お前のいた罪域の話を	VO_nimuru.nimuru_sys_0005
+073	…わかった<br>俺の――
+074	あっ…ああ…	VO_adlai.adlai_sys_0050
+075	…話をする前に、<br>食事をしたほうがいいようだな	VO_waginao-c.waginao-c_sys_0010
+076	そのよう…だな<br>すぐに準備をしよう	VO_nimuru.nimuru_sys_0004
+077	うっ…	VO_adlai.adlai_sys_0018
+078	はむっ…！<br>んっ…あむっ…!!
+079	すごい食べようだな…	VO_waginao-c.waginao-c_sys_0022
+080	だって、こんな食べ物っ…！<br>はぐっ…んぐっ！<br>見たこと無くてっ…!!	VO_adlai.adlai_sys_0007
+081	あまりがっつくと<br>喉につまらせるぞ	VO_waginao-c.waginao-c_sys_0003
+082	んぐぅっ！　ううっ!!<br>み、水ぅ…!!	VO_adlai.adlai_sys_0043
+083	ふぅ…言ったとおりになった	VO_waginao-c.waginao-c_sys_0030
+084	それだけ、腹が減っていたんだろう	VO_nimuru.nimuru_sys_0007
+085	んぐんぐんぐっ…！<br>っぷはぁ！<br>死ぬかと思った…	VO_adlai.adlai_battle_0019
+086	食事は逃げない<br>落ち着いて食べるといい	VO_waginao-c.waginao-c_sys_0010
+087	わ、わかってるよっ…	VO_adlai.adlai_sys_0018
+088	アドレイ<br>食事をしながらゆっくりで構わない<br>お前の話を聞かせてくれ	VO_nimuru.nimuru_sys_0002
+089	…わかった
+090	――俺の故郷<br>“怠惰罪域＜アケディア・ベルト＞”は<br>地震による“罰”を受けている…	VO_adlai.adlai_sys_0030
+091	日になんども起こる大小の地震…<br>それによる地割れ…<br>そして――
+092	地割れから染み出る<br>“罪獣”の黒い穢れ<br>…俺たちは――
+093	地震に怯え<br>地割れに落ちることを恐れ<br>“穢れ”に震えて生きている…
+094	…………
+095	“怠惰罪域＜アケディア・ベルト＞”には<br>このセフィラの里の<br>緑豊かな大地のような美しさはない…	VO_adlai.adlai_sys_0018
+096	荒廃してゆく大地を…<br>苦しむ人々を…<br>俺はどうにかして助けたいと思った
+097	だから俺は飛空艇を作って航海に出た
+098	!?
+099	あの船は、君が作ったのか!?	VO_waginao-c.waginao-c_sys_0025
+100	そうさ<br>俺は“怠惰罪域＜アケディア・ベルト＞”の<br>技術士なんだ！	VO_adlai.adlai_sys_0004
+101	技術士…か	VO_nimuru.nimuru_sys_0005
+102	それで？　航海に出ることと<br>大地や人を救うこととどうつながる？	VO_nimuru.nimuru_sys_0002
+103	もしかしたら“罪”に侵されていない<br>平和な土地があるかもしれない…！	VO_adlai.adlai_sys_0004
+104	それでなくても、“怠惰罪域<br>＜アケディア・ベルト＞”が受ける<br>“罰”を少しでも軽くする方策があれば…！
+105	だけど…やっぱり<br>そんなものないのかもしれない…	VO_adlai.adlai_sys_0020
+106	ニムル…アンタの言う通り<br>人の住まうこの地に<br>“罪”のない場所なんて…
+107	…それが“人の世の理”だ	VO_waginao-c.waginao-c_sys_0010
+108	っ!?
+109	だが、俺は諦めないっ…！<br>まだふたつめの土地だ<br>必ずまた新たな場所で――	VO_adlai.adlai_battle_0019
+110	“ふたつめの土地”…ということは、<br>ここ以外にもどこかに<br>先に辿り着いたということか？	VO_nimuru.nimuru_sys_0001
+111	ああ<br>ここに来る前にひとつ行った<br>その土地のものは、そこを――	VO_adlai.adlai_sys_0004
+112	“色欲罪域＜ルクスリア・ベルト＞”<br>と呼んでいた
+113	――“色欲罪域＜ルクスリア・ベルト＞”
+114	どんな場所だった？<br>そこも“罪”に<br>侵された地だったのだろう	VO_nimuru.nimuru_sys_0002
+115	あそこは――	VO_adlai.adlai_sys_0031
+116	“凍土”だ
+117	『罪域全体が雪と氷で覆われた…<br>極寒の地…』
+118	『“色欲罪域＜ルクスリア・ベルト＞”は<br>その“寒さ”という罰を受けた<br>罪域だった――』
+119	行っちゃうんだね、アドレイ…<br>せっかく仲良くなれたのに…	VO_mela.mela_sys_0022
+120	メラ…
+121	行くよ<br>俺は絶対に新たな土地を見つけてみせる<br>…“罪”のない土地を	VO_adlai.adlai_chara_1018
+122	その為に航海をしているんだから…!!
+123	そう…だったよね	VO_mela.mela_sys_0030
+124	うん！<br>きっとあなたならできるはずだよ！<br>だって、時は無限だもの！	VO_mela.mela_sys_0004
+125	…はぁ<br>また姉さんはそんなことを…<br>人の時は有限だよ	VO_nix.nix_sys_0030
+126	もう！　何よニクスったら！<br>アドレイのこと、信じてないの!?	VO_mela.mela_sys_0016
+127	信じる信じないとかいう<br>話じゃないだろ…	VO_nix.nix_sys_0030
+128	アドレイ<br>危険だ	VO_nix.nix_sys_0001
+129	いかに貴方であろうと<br>次の航海も乗り越えられるとは<br>限らない
+130	この地に来られただけでも<br>奇跡に近い
+131	もちろんわかっているさ！<br>それでも、可能性があるなら<br>やらなくちゃいけない	VO_adlai.adlai_sys_0004
+132	いや、やってみせる…！<br>俺になら――
+133	やれる…!!
+134	…そうか<br>もちろん、最初から止める気はないよ	VO_nix.nix_sys_0022
+135	貴方の無事を祈っている	VO_nix.nix_sys_0007
+136	ああ！	VO_adlai.adlai_sys_0007
+137	…………
+138	アドレイ…？	VO_nimuru.nimuru_sys_0006
+139	あ、悪い…<br>なんでもない	VO_adlai.adlai_sys_0035
+140	それより！<br>このセフィラの里のことを<br>聞かせてくれ！	VO_adlai.adlai_sys_0002
+141	“枯れ行く地”と言っていたが<br>そうは見えないんだが…<br>本当にこの地は…
+142	本当だ	VO_nimuru.nimuru_sys_0004
+143	ここが枯れ行く地に見えないのは<br>緑の大樹“セフィロン”があるからだ
+144	セフィロン…
+145	あの大樹と守護竜ニドへガルの力で<br>地に眠る“罪獣”の放つ“穢れ”を<br>抑え込んでいる	VO_nimuru.nimuru_sys_0005
+146	抑え込んでいるっ!?	VO_adlai.adlai_sys_0025
+147	そうだ<br>そして、その力を行使しているのが、<br>巫女たる“浄化の器”だ	VO_waginao-c.waginao-c_sys_0037
+148	浄化の器…
+149	…………
+150	そんなことが…<br>可能なのか…!?	VO_adlai.adlai_sys_0001
+151	可能だ<br>“浄化”の力を持つ…<br>我ら、セフィラの民ならばな	VO_nimuru.nimuru_sys_0004
+152	じゃあ…<br>俺たちほかの土地のものには…	VO_adlai.adlai_sys_0018
+153	無理だな	VO_waginao-c.waginao-c_sys_0040
+154	…いや、無理ではない
+155	!?
+156	俺は今“練精術”を研究し、<br>それを発展させた“新たなる術式”を<br>生み出そうとしている	VO_nimuru.nimuru_sys_0001
+157	“練精術”…？<br>“新たなる術式”…？	VO_adlai.adlai_sys_0050
+158	“練精術”とは、自然の力――<br>すなわちセフィロンの力を使った<br>この地に伝わる秘術…	VO_nimuru.nimuru_sys_0004
+159	セフィラの民のみが使える力だ
+160	だが、俺が生み出そうとしている<br>“新たなる術式”は、セフィラの民に限らず<br>すべての人間が使える力となる…
+161	“新たなる術式”を完成させれば、<br>お前のいた地の“罪”を<br>抑えることも――
+162	で、できるのかっ!?	VO_adlai.adlai_battle_1018
+163	できる	VO_nimuru.nimuru_sys_0005
+164	ニムル！<br>ダメだ!!	VO_waginao-c.waginao-c_sys_0015
+165	…？
+166	あの力は強大すぎる！<br>それをよそ者に教えるなど…!!	VO_waginao-c.waginao-c_sys_0014
+167	ワギナオ…	VO_nimuru.nimuru_sys_0001
+168	彼…アドレイは自らの危険を顧みず<br>自らの住む場所に変革をもたらす為に<br>覚悟を持って旅をしている
+169	俺とアドレイは<br>“理想”を同じくする者だ
+170	!?
+171	ニムル、教えてくれ！<br>その“新しい術式”を!!	VO_adlai.adlai_sys_0001
+172	…悪いがそれはできない	VO_nimuru.nimuru_sys_0039
+173	え…？
+174	今は、まだ…な<br>まだ、完成にまでは程遠い	VO_nimuru.nimuru_sys_0030
+175	だから、協力してほしい<br>…世界の為に	VO_nimuru.nimuru_sys_0002
+176	ニムル…
+177	よし！　わかった<br>アンタに協力しよう	VO_adlai.adlai_sys_0006
+178	感謝する、アドレイ	VO_nimuru.nimuru_sys_0033
+179	（…飛空艇を作ったという技術…<br>“新たなる術式”の完成の為に<br>役に立つかもしれん…）
+180	…だが	VO_adlai.adlai_chara_1018
+181	？
+182	その前に試させてくれ	VO_adlai.adlai_sys_0002
+183	試す…？<br>何をだ？	VO_waginao-c.waginao-c_sys_0006
+184	アンタたちが使うというその“練精術”<br>そして“新たなる術式”の力をさ	VO_adlai.adlai_sys_0004
+185	“セフィロン”の力を疑うというのか<br>ふっ…愚かな…	VO_waginao-c.waginao-c_sys_0010
+186	自分の目で確かめもせず<br>鵜呑みにすることのほうが<br>愚かだと思うけどね	VO_adlai.adlai_sys_0010
+187	なにっ…！	VO_waginao-c.waginao-c_sys_0012
+188	なんだよ、やるのかっ!?	VO_adlai.adlai_sys_0012
+189	ふっ…<br>子供が虚勢を張るな	VO_waginao-c.waginao-c_sys_0010
+190	こっ、子供ぉっ!?<br>違うっ！　俺を安易な枠に<br>はめるんじゃないっ!!	VO_adlai.adlai_sys_0025
+191	その言いぐさがまるで子供ではないか	VO_waginao-c.waginao-c_sys_0008
+192	また言ったな！<br>訂正しろっ!!	VO_adlai.adlai_sys_0013
+193	訂正など必要ない<br>子供を子供と言って何が悪い？	VO_waginao-c.waginao-c_sys_0007
+194	ふたりとも、よさないか	VO_nimuru.nimuru_sys_0001
+195	くっ…！　頭にきたっ…!!<br>ちょうどいい！<br>ニムル！	VO_adlai.adlai_battle_0019
+196	？
+197	“練精術”と“新たなる術式”で<br>俺の“機工兵士”と勝負しろ！	VO_adlai.adlai_sys_0001
+198	機工兵士…？	VO_nimuru.nimuru_sys_0006
+199	そう！<br>俺が作った最高傑作さ!!	VO_adlai.adlai_sys_0007
+200	…おもしろい<br>やってみよう	VO_nimuru.nimuru_sys_0046
+201	おい！<br>ニムル!!	VO_waginao-c.waginao-c_sys_0001
+202	ワギナオ、焚き付けたのは、お前だ	VO_nimuru.nimuru_sys_0001
+203	くっ…	VO_waginao-c.waginao-c_sys_0016
+204	――いったいなんなのだ<br>あの子供は…！	VO_waginao-c.waginao-c_sys_0017
+205	聞いたとおりさ<br>“機工兵士”と戦えばいい	VO_nimuru.nimuru_sys_0010
+206	その“機工兵士”とやらを<br>お前は知っているのか？	VO_waginao-c.waginao-c_sys_0001
+207	知るはずがないだろう	VO_nimuru.nimuru_sys_0006
+208	はぁっ…	VO_waginao-c.waginao-c_sys_0030
+209	待たせたな！	VO_adlai.adlai_sys_0023
+210	なっ…!?<br>なんだその鉄人形は…！	VO_waginao-c.waginao-c_sys_0027
+211	ほぅ…それが機工兵士か	VO_nimuru.nimuru_sys_0046
+212	そうだ！<br>俺の最高傑作!!	VO_adlai.adlai_sys_0004
+213	大気中に含まれた“マギル”を吸収し、<br>俺の意思に同調し、自ら動く！
+214	…そんなものが大気中に含まれているのか	VO_nimuru.nimuru_sys_0005
+215	それが動力源になるということは<br>エネルギーに変換できるもの、<br>ということだな
+216	“マギル”…か<br>研究する余地がありそうだ<br>感謝するぞ、アドレイ
+217	ニムル！<br>そんなことに感心している場合ではない！<br>本当に、こんなものと戦うのかっ!?	VO_waginao-c.waginao-c_sys_0001
+218	ふっ…<br>慌てるなワギナオ<br>勝てばいい	VO_nimuru.nimuru_sys_0010
+219	お前は…そんな簡単に…	VO_waginao-c.waginao-c_sys_0022
+220	得体のしれないものには勝てないとでも<br>言うつもりか？	VO_nimuru.nimuru_sys_0001
+221	セフィラの戦士団の長ともあろう者が<br>弱気だな	VO_nimuru.nimuru_sys_0010
+222	…ふん<br>勝てばいいのだろう…!!	VO_waginao-c.waginao-c_sys_0010
+223	さあ見せてくれ！<br>“練精術”と“新たなる術式”を！
+224	行くぞ！<br>“機工兵士”!!	VO_adlai.adlai_battle_1030

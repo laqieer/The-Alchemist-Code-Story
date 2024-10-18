@@ -1,0 +1,318 @@
+001	ハァ…ハァ…！<br>…グッ…！	VO_vetel.vetel_battle_0019
+002	ヴェテル!!	VO_natalie.natalie_battle_0019
+003	グ…！　ク、クソッ…!!	VO_vetel.vetel_sys_0042
+004	…お前は、俺たちの誓いを踏みにじった	VO_gerard.gerard_sys_0029
+005	ジェラルド!!　ダメだよ、それ以上は!!<br>もうやめて!!	VO_natalie.natalie_sys_0021
+006	黙っていろナタリー。俺は集団を率いる者…<br>この背を見ている者たちがいる以上、<br>この鋼の意志を曲げることは出来ない	VO_gerard.gerard_sys_0010
+007	ジェラルド!!	VO_natalie.natalie_battle_0019
+008	…世の人々を笑顔に変える太陽になりたい…<br>かつて、お前が口にした言葉だ<br>…すでに、太陽は沈んでいたのだな	VO_gerard.gerard_sys_0016
+009	…ク…クク…<br>…か…変わらないな、お前は…<br>その頑固な性格…あ、あの頃のままだ…	VO_vetel.vetel_sys_0010
+010	…俺は、あの時の誓いに生きているだけ<br>道を違えたのは、変わり果てたお前の方だ	VO_gerard.gerard_sys_0012
+011	残念だ、ヴェテル…<br>かつて志をともにした同志よ…!!	VO_gerard.gerard_battle_0004
+012	ジェラルド!!	VO_natalie.natalie_sys_0018
+013	グ…!!　ク、クソッ…!!	VO_vetel.vetel_battle_0019
+014	この一撃は、在りし日の…青過ぎた俺たちを<br>弔う一撃…!!　“緋色の炎”を忘れ果てた<br>お前への、訣別の刃だ!	VO_gerard.gerard_battle_0013
+015	ガッ…!!!!	VO_vetel.vetel_battle_0025
+016	ヴェテル…!!！	VO_natalie.natalie_sys_0028
+017	…沈みゆく…緋色…
+018	…鋼の意志を…纏いし…炎…
+019	ヴェテル!!<br>…ヴェテルーっ!!!!	VO_natalie.natalie_sys_0028
+020	…俺たちは…その誓いのもとに<br>生きると決めた…
+021	…ただ…人々が…笑顔で暮らせる…<br>そんな世界を思い描いて…
+022	ええ…!?　ウソォ…!?<br>本当にそんなことするわけ…!?	VO_natalie.natalie_sys_0029
+023	…本当にって、どういう意味だ？	VO_gerard.gerard_sys_0006
+024	いや、だって…誓いを立てるだなんて、<br>恥ずかしいじゃん!?<br>アタシたちいくつだと思ってるのよ!?	VO_natalie.natalie_sys_0031
+025	年齢など関係ないだろう？　そもそも誓いとは<br>子供の遊びじゃなく、古来から騎士たちが…	VO_gerard.gerard_sys_0012
+026	その熱い感じが恥ずかしいって<br>言ってるのよ！　ヴェテルもそう思うでしょ!?	VO_natalie.natalie_sys_0022
+027	いや、俺は結構乗り気だけど？	VO_vetel.vetel_event_1015
+028	ウソォ!?	VO_natalie.natalie_sys_0025
+029	ハハ！　そんなに堅苦しく考えなくても<br>いいんじゃない？　俺たち三人、心を<br>ひとつにして頑張ろうってことだよ	VO_vetel.vetel_sys_0008
+030	おい！　そんな軽いものじゃないだろう！<br>“志”だ！　志をともにする同志として…<br>鋼のように曲がらぬ意志でだな！	VO_gerard.gerard_sys_0002
+031	…温度感が全然違うんだけど…	VO_natalie.natalie_sys_0030
+032	うるさい！<br>やるのかやらないのか、ハッキリしろ!!	VO_gerard.gerard_battle_0019
+033	もう…！　わかったわよ!!	VO_natalie.natalie_sys_0016
+034	ほら！　誰かに見られたら恥ずかしいから、<br>チャチャッと済ませましょ！	VO_natalie.natalie_sys_0002
+035	ナタリー…<br>さっきから、なんなんだその態度は!?	VO_gerard.gerard_sys_0031
+036	まぁまぁ…	VO_vetel.vetel_chara_1007
+037	ほら、ジェラルド…あとはお前だけだぞ	VO_vetel.vetel_sys_0007
+038	…クッ…！<br>ナタリー、後で少し時間をもらうぞ
+039	悪いけど、この後は<br>アタシ、予定が入ってるの	VO_natalie.natalie_chara_1002
+040	チッ…。…ええい、くそっ!!	VO_gerard.gerard_battle_0019
+041	今、ここに誓う…！<br>我らが守るは、沈みゆく緋色…！<br>我らが抱くは、鋼の意志を纏いし炎…!!	VO_gerard.gerard_sys_0007
+042	世の人々に笑顔をもたらす…<br>ただその為だけに、この剣を振るおう!!	VO_vetel.vetel_sys_0007
+043	アタシは…無鉄砲で危なっかしい二人を、<br>しっかりと支えてあげる…!!	VO_natalie.natalie_sys_0007
+044	我ら、緋色の炎を絶やさぬ者なり…！
+045	今、ここに誓う…！　如何なる理不尽にも、<br>折れることなき鋼の意志で<br>人々に笑顔をもたらさんことを…!!
+046	俺は忘れない…あの日見た美しい夕焼けを…<br>あの…青臭くも真っ直ぐな…<br>俺たちの誓いを…
+047	ハァ…ハァ…！<br>…散るな！　固まれ!!	VO_gerard.gerard_battle_0019
+048	…！　ナタリー、後ろだ!!	VO_thiefm.thiefm_sys_0018
+049	え…？　…う、うぁ…!?	VO_natalie.natalie_sys_0006
+050	クッ…！　…ウォォォォォォーッ!!!!	VO_gerard.gerard_sys_0032
+051	!!　あ、ありがと…ジェラルド…	VO_natalie.natalie_sys_0034
+052	気を抜くな。…しかし…やはり、妙だ<br>野盗にしては、あまりに統率が<br>取れ過ぎている…。…どう思う？	VO_gerard.gerard_sys_0030
+053	…アタシも、ただの野盗なんかじゃない<br>気がする…。見たでしょ、<br>さっきの獣人の遺体を…？	VO_natalie.natalie_sys_0022
+054	まるで、身体中の水分を抜かれたような…
+055	…狙いは獣人の村ではなく、<br>獣人そのものということか…？	VO_gerard.gerard_sys_0045
+056	ジェラルドの兄貴！　マズいですぜ！<br>野盗たちに囲まれてます!!	VO_thiefm.thiefm_battle_0019
+057	…！	VO_gerard.gerard_sys_0027
+058	どうする!?	VO_natalie.natalie_sys_0021
+059	…一点突破だ！　俺が先頭で道を拓く！<br>貴様たちは、後からついて来い！	VO_gerard.gerard_sys_0002
+060	な…!?　ちょっと待ってよ！<br>そんなことして、ただですむはずが…	VO_natalie.natalie_sys_0027
+061	そんなことを言っている場合か！<br>こうしている間にも、獣人族の村は<br>襲撃を受けているかもしれないんだ…	VO_gerard.gerard_sys_0012
+062	一刻も早く先に進まねばならん！
+063	…まさか、ジェラルドから<br>そんな言葉が出るとはね…	VO_natalie.natalie_chara_1002
+064	…何？	VO_gerard.gerard_sys_0006
+065	アンタが獣人を守る為に<br>体を張るなんて、想像したことも…	VO_natalie.natalie_sys_0031
+066	勘違いするな、獣人なんかの為じゃない…<br>ただ、任務の遂行の為だ	VO_gerard.gerard_sys_0030
+067	俺たち“緋色の団”の名を挙げ、<br>より多くの依頼を受ける為には…
+068	ひとつとして依頼をしくじるわけには<br>いかない…。…ヴェテルとの約束を<br>果たす為にもね…？	VO_natalie.natalie_sys_0007
+069	…誰もそんなことは言っていない<br>その名を、口にするな	VO_gerard.gerard_sys_0002
+070	兄貴、来ますぜ!!	VO_thiefm.thiefm_sys_0018
+071	…！　…ジェラルド!!	VO_natalie.natalie_sys_1034
+072	俺がすべての攻撃をさばく！<br>お前たちは、ただひたすらに村を目指せ！<br>…行くぞ!!	VO_gerard.gerard_battle_0019
+073	グハッ…!!!
+074	…!?	VO_gerard.gerard_sys_0027
+075	え…？　勝手に倒れた…？<br>…ジェラルド、何かしたの…？	VO_natalie.natalie_sys_0027
+076	兄貴！　前方から右手にかけて、<br>野盗どもがぶっ倒れてます!!	VO_thiefm.thiefm_sys_0027
+077	クッ…！<br>…ボヤボヤするな！　行くぞ!!	VO_gerard.gerard_battle_0019
+078	はい!!
+079	チッ…！　逃すな!!
+080	…フン…。迷い込んだネズミは、<br>ヤツらだけではないということか…	VO_zaharu.zaharu_sys_0010
+081	…！　見て…！<br>あそこにも、野盗が倒れてる…！	VO_natalie.natalie_sys_1034
+082	これで六人目よ<br>…獣人たちが、援護してくれてるのかしら？	VO_natalie.natalie_sys_0002
+083	…これが、獣人の負わせた<br>傷に見えるのか？	VO_gerard.gerard_sys_0002
+084	確かに…これは並の腕前じゃないわよね…	VO_natalie.natalie_sys_0022
+085	…！　もしかして、後から<br>来るっていう援軍じゃない…!?	VO_natalie.natalie_sys_1034
+086	何？	VO_gerard.gerard_sys_0006
+087	聖教騎士団よ！　彼らが到着するまでの間、<br>獣人族の村を野盗から守る…<br>それがアタシたちの任務じゃない！	VO_natalie.natalie_sys_0016
+088	もしかして…予定が早まって、<br>すでに到着したんじゃ…？！	VO_natalie.natalie_sys_0002
+089	だったら、何故俺たちに<br>挨拶のひとつもない？<br>現状を訊く為に、顔ぐらいは見せるだろ？	VO_gerard.gerard_sys_0039
+090	…それは…！	VO_natalie.natalie_sys_0031
+091	聖教騎士団は部隊でやってくるのだろう？<br>そんな大人数で動いていたなら、<br>気付かないわけがないだろ？	VO_gerard.gerard_sys_0001
+092	…ずいぶん、聖教騎士団の<br>編成に詳しいじゃない？！	VO_natalie.natalie_chara_1002
+093	…！	VO_gerard.gerard_battle_0019
+094	まったく、素直じゃないんだから…<br>ヴェテルのことが気になって、<br>聖教騎士団のことを調べたんでしょ？	VO_natalie.natalie_sys_0030
+095	…いい加減にしろよ、ナタリー	VO_gerard.gerard_sys_0016
+096	…！　ちょ、ちょっと…！<br>また、頭がチクチクしちゃってるってば…！	VO_natalie.natalie_sys_0026
+097	アイツは俺たちとの誓いを棄て、力を求め<br>聖教騎士団へと走ったんだ。そんな男の<br>ことなど、忘れろと言っているだろう	VO_gerard.gerard_sys_0030
+098	…！　それは捉え方の違いだって、<br>何度も言ってるじゃん！	VO_natalie.natalie_sys_0016
+099	ヴェテルは、聖教騎士団に入った方が<br>より人を救えるって思ったんだよ、きっと！
+100	もうよせと言っているだろう!!<br>アイツはもう、戻りはしない…！　そんな男<br>のことを話しても時間の無駄だと、何度も…	VO_gerard.gerard_sys_0014
+101	チクチクチクチクチクチクチクチク!!	VO_natalie.natalie_sys_0022
+102	…わかったよ。熱くなってすまなかった<br>…ともかく、一刻も早く村に辿り着かねば…	VO_gerard.gerard_sys_0035
+103	村が野盗に襲撃されちゃったら、<br>依頼も何もないもんね	VO_natalie.natalie_sys_0037
+104	ああ	VO_gerard.gerard_sys_0004
+105	兄貴！<br>獣人族の村が見えて来やしたぜ！	VO_thiefm.thiefm_battle_0022
+106	…！　…先を急ぐぞ!!	VO_gerard.gerard_sys_0005
+107	よかった…！<br>まだ村は襲撃を受けていないみたいね…！	VO_natalie.natalie_sys_0007
+108	いや、妙だ…あまりに静か過ぎる<br>…これはどういうことだ？	VO_gerard.gerard_sys_0039
+109	…そなたらが、“緋色の団”の方々か…？
+110	…！　何者だ…？	VO_gerard.gerard_sys_0027
+111	この村の村長を務めておる者です
+112	アナタが！　到着が遅れ、申し訳ありません<br>我々は、ルバルク村の村長づてに<br>要請を受けました…	VO_natalie.natalie_sys_1034
+113	挨拶は結構…<br>しばし休まれましたら、お引き取りくだされ
+114	は…!?　それは…どういうことです…!?	VO_natalie.natalie_sys_0027
+115	すでに聖教騎士団の御仁が参られたのです<br>その御方がいらっしゃれば、<br>すべて事足りますゆえ…
+116	現に、村に押し寄せていた野盗どもも、<br>その方がひとりで退治してくださいました
+117	…！　…そうか、すでに<br>撃退したあとということか…	VO_gerard.gerard_sys_0045
+118	ちょ、ちょっと待ってください！<br>それじゃ、あまりにも…！	VO_natalie.natalie_sys_0029
+119	よせ、ナタリー。…せめて、その<br>聖教騎士団の方とお話出来ませんか？	VO_gerard.gerard_sys_0002
+120	その方はおひとり、本隊はまだ到着して<br>おられぬ様子…。援軍が到着するまで、<br>我らが尽力いたすことも…
+121	いや、結構…そもそもそなたらに<br>御引き取り頂くことを提案されたのは<br>その御仁ですからな
+122	…何…？	VO_gerard.gerard_sys_0027
+123	海の者とも山の者ともつかぬ者たちの<br>手を借りる必要などない…<br>そのように申されておりました
+124	確かに、人間の手を借りねばならぬのなら…<br>失礼ながら、まだ聖教騎士団の方が<br>信用に足る…
+125	…！
+126	…すべては、ルバルク村の村長が先んじて<br>しまったこと。遠路はるばる申し訳ないが、<br>御引き取り頂けまするか
+127	そんな…！<br>そんなのあんまりじゃ…!?	VO_natalie.natalie_sys_0020
+128	…貴様らは、いつもそうだな	VO_gerard.gerard_sys_0030
+129	…何？
+130	…！　ジェラルド…！	VO_natalie.natalie_sys_0006
+131	いつもとな…？<br>それはどういう意味合いでしょう…？
+132	…死んだ親父も、貴様たちから非礼を受けた<br>と聞いている。…貴様ら獣人を守る為に、<br>野盗に殺された俺の親父もな	VO_gerard.gerard_sys_0007
+133	…！
+134	その時同行していた親父の仲間から<br>聞かされた…お前ら獣人は、最後まで<br>感謝の言葉すら口にしなかったと	VO_gerard.gerard_sys_0016
+135	自分たちを守る為に命を棄てた男の為に…<br>祈ることすらなかったと
+136	……
+137	…帰るぞ、ナタリー	VO_gerard.gerard_sys_0002
+138	え…？	VO_natalie.natalie_sys_0025
+139	そもそも気乗りしない任務だったんだ<br>こんな礼を欠いた者たちの為に振るう剣は、<br>我ら“緋色の団”にはない	VO_gerard.gerard_sys_0017
+140	…………
+141	…………
+142	最悪…！　最悪！　最悪！<br>最悪！　最悪！　最悪!!	VO_natalie.natalie_sys_0017
+143	…おい…チクチクしてるぞ？	VO_gerard.gerard_sys_0002
+144	なんでそんなに冷静でいられるのよ!?<br>これまでの行程が、全部無駄になったのよ!?	VO_natalie.natalie_sys_0029
+145	…獣人などの為に、感情的になることさえ<br>バカらしい…それだけだ	VO_gerard.gerard_sys_0007
+146	クッソーっ!!　あの村長といい、アタシたち<br>をコケにした聖教騎士団のヤツといい…<br>いったいなんなのよ!?	VO_natalie.natalie_sys_0022
+147	…聖教騎士団の男、か…	VO_gerard.gerard_sys_0016
+148	“海の者とも山の者ともつかない”って!?<br>会いもしないで、どうしてそんな風に<br>言えるのよ…	VO_natalie.natalie_sys_0012
+149	とてもヴェテルと同じ聖教騎士団の<br>人間の言葉とは思えないわ!!
+150	ジェラルドの兄貴!!	VO_thiefm.thiefm_battle_0022
+151	何よ!?	VO_natalie.natalie_sys_0025
+152	うぉ…!?<br>何怒ってんだよ、ナタリー…？	VO_thiefm.thiefm_sys_0027
+153	どうした？	VO_gerard.gerard_sys_0006
+154	いえ、また獣人の干からびた亡骸が<br>あったんで、一応報告しとこうかと…
+155	…干からびた死体…	VO_gerard.gerard_sys_0027
+156	もう…！　結局、その謎も<br>判明しないままじゃない！<br>ああ、気持ち悪い!!	VO_natalie.natalie_sys_0016
+157	…少し、調べてみるか	VO_gerard.gerard_sys_0016
+158	え…？	VO_natalie.natalie_sys_0025
+159	野盗どもが、いったい何を狙っているのか…<br>親父が死ななければならなかった理由が、<br>そこにあるのかもしれない
+160	…うん…どうせ時間も<br>空いちゃったことだしね！	VO_natalie.natalie_sys_0004
+161	…となれば、黙って<br>見ているわけにもゆかぬな	VO_zaharu.zaharu_chara_1008
+162	!?	VO_gerard.gerard_sys_0027
+163	世はまさに動き出そうとしている…。急を<br>要するこの時に、何処ぞの者ともわからぬ輩<br>に時を割かれる事態は避けるべき…	VO_zaharu.zaharu_sys_0031
+164	先んじて排除しておくが、得策というものか
+165	誰…アンタ…？	VO_natalie.natalie_sys_0025
+166	…お前か、野盗どもを率いているのは…？	VO_gerard.gerard_sys_0002
+167	ククッ…	VO_zaharu.zaharu_sys_0008
+168	…！　来るぞ…!!	VO_gerard.gerard_battle_0019
+169	いずれ世を覇することになろう、この俺の<br>手にかかり逝くことを誇りに思え…!!<br>ダークブリンガー!!!!	VO_zaharu.zaharu_sys_0032
+170	クッ…!?　…退がれ、お前ら!!	VO_gerard.gerard_battle_0022
+171	“受ける”べきではない…<br>“避ける”べきだったな	VO_zaharu.zaharu_sys_0010
+172	…!?　…ガッ!!!!	VO_gerard.gerard_battle_0025
+173	ジェラルド…!!	VO_natalie.natalie_sys_0021
+174	グ…！　な、なんて威力…！<br>いったい何者なのだ、貴様…!?	VO_gerard.gerard_battle_0019
+175	クク…この世に未来を導く者だ<br>…この剣の露と消えることを誇り、<br>あの世へと逝け	VO_zaharu.zaharu_sys_0008
+176	グ…！	VO_gerard.gerard_sys_0025
+177	うぁ…!!<br>…逃げて、ジェラルド!!	VO_natalie.natalie_sys_0028
+178	…消え果てよ、我が覇道の前に!!	VO_zaharu.zaharu_battle_0007
+179	…ウォォォォォォーッ!!!!	VO_gerard.gerard_sys_0032
+180	…！　…ほう…	VO_zaharu.zaharu_sys_0042
+181	グ…グギギ…！	VO_gerard.gerard_sys_0025
+182	ジェラルド!!	VO_natalie.natalie_battle_0019
+183	貴様には驚かされるな…<br>よもや、我が剣を受け止めようとは…<br>…だが…	VO_zaharu.zaharu_sys_0045
+184	…!?　な…なんだ、この力は…!?	VO_gerard.gerard_sys_0027
+185	これこそ、覇者の力…<br>いずれ、この世を救うことになる強大な力だ	VO_zaharu.zaharu_sys_0008
+186	は…覇者の力…!?	VO_gerard.gerard_sys_0025
+187	クク…この強大な力の礎となれたことを、<br>獣人どもも誇らしく思っていることだろうな	VO_zaharu.zaharu_sys_0023
+188	…!?　その力…獣人たちから…!?	VO_gerard.gerard_sys_0020
+189	やっぱり…狙いは獣人たち<br>そのものだったってこと…!?	VO_natalie.natalie_sys_0021
+190	…これ以上の問答は無用だな<br>…消え果てよ!!!!	VO_zaharu.zaharu_sys_0031
+191	ジェラルド!!	VO_natalie.natalie_battle_0019
+192	…！　…なんだと…？	VO_zaharu.zaharu_sys_0026
+193	…その為なのか…？	VO_gerard.gerard_sys_0002
+194	…何？	VO_zaharu.zaharu_sys_0025
+195	獣人の血から、力を奪う…<br>そんなことに巻き込まれて…<br>俺の親父は、命を落としたというのか…？
+196	…ジェラルド…
+197	そんなこと…？　…クク<br>…先の見えぬ者に、理解出来ようはずがない<br>この力が、いずれ…	VO_zaharu.zaharu_sys_0010
+198	…黙れ!!!!	VO_gerard.gerard_battle_0001
+199	!?	VO_zaharu.zaharu_sys_0027
+200	…！　…クク…つくづく驚かされるな…<br>まさか一介の傭兵が、このような力を<br>隠し持っていようとは	VO_zaharu.zaharu_sys_0011
+201	一介の傭兵などではない！<br>俺たちは“緋色の団”…!!	VO_gerard.gerard_sys_0012
+202	いずれ、この世界に光をもたらすことになる<br>鋼の意志を宿した傭兵団だ!!
+203	…ほう…“鋼の意志”とな…？	VO_zaharu.zaharu_chara_1008
+204	…！	VO_zaharu.zaharu_battle_0021
+205	うわっ…!?　な、何…!?	VO_natalie.natalie_sys_0026
+206	!?　…今の攻撃…何処から…？	VO_gerard.gerard_sys_0027
+207	…どうやら動き回っていた<br>もう一匹のネズミが現れたようだな	VO_zaharu.zaharu_sys_0018
+208	ネズミ…？	VO_gerard.gerard_sys_0006
+209	貴様らに近づくたびに現れる…。クク…<br>いまだに姿を見せず、気配だけ放ってくるが<br>どうやら、俺と関わらせたくはないらしい	VO_zaharu.zaharu_sys_0007
+210	え…？	VO_natalie.natalie_sys_0025
+211	…！　待て、何処へ行く気だ…!?	VO_gerard.gerard_sys_0002
+212	…光があらば、影がある…貴様らのような<br>異分子を残しておくのも一興というもの<br>…貴様の顔、覚えておくとしよう	VO_zaharu.zaharu_sys_0010
+213	ま、待て…！	VO_gerard.gerard_sys_0027
+214	クッ…!!	VO_gerard.gerard_battle_0019
+215	ま、また…!!	VO_natalie.natalie_sys_0026
+216	ハァ…ハァ…！<br>…クッ…逃したか…！	VO_vetel.vetel_battle_0019
+217	!?　…お前…	VO_gerard.gerard_sys_0027
+218	ヴェテル…!?　ヴェテルなの…!?	VO_natalie.natalie_sys_0006
+219	…久しぶりだな<br>まさか、こんなところで会おうとは…	VO_vetel.vetel_chara_1007
+220	…今の攻撃は、貴様が…？<br>これは…いったい、どういうことなんだ？	VO_gerard.gerard_sys_0002
+221	…君たちには関係のないことだ<br>さっさと行け	VO_vetel.vetel_sys_0010
+222	何…？	VO_gerard.gerard_sys_0012
+223	あの男の力を目にして、わかっただろう…<br>君たちでは力不足だ<br>この件から、手を引け	VO_vetel.vetel_sys_0030
+224	…!!　…貴様…!!	VO_gerard.gerard_sys_0027
+225	!!　…まさか…獣人族の村に来た<br>聖教騎士団の男って…	VO_natalie.natalie_sys_1034
+226	そうだ。…足を引っ張られては困る
+227	君たちを追い返すよう村長に頼んで<br>おいたんだが…まさか、こんなところで<br>交戦しているなんてな
+228	…！　…貴様…!!	VO_gerard.gerard_sys_0027
+229	ウソだよ…!!　あの男も言っていた…<br>アタシたちから、あの男を遠ざけようと<br>しているようだと!!	VO_natalie.natalie_sys_0021
+230	アタシたちを守る為に、獣人族に<br>追い返させたんでしょ!?	VO_natalie.natalie_sys_0002
+231	…いいや…<br>君たちの力じゃ、足手まといになる…<br>そう考えただけだ	VO_vetel.vetel_sys_0010
+232	絶対ウソだよ!!<br>ヴェテルがそんなことを考えるはずがない!!	VO_natalie.natalie_sys_0018
+233	アイツらとの闘いに関わらせたくない…<br>そう思ったんでしょ!?<br>なんで、素直に話さないのよ!?
+234	下がっていろ、ナタリー	VO_gerard.gerard_sys_0002
+235	え…？	VO_natalie.natalie_sys_0025
+236	…お前には、誓いを踏みにじった<br>落とし前をつけてもらわねばならない	VO_gerard.gerard_sys_0016
+237	ジェラルド…!?　何言ってんのよ!?	VO_natalie.natalie_battle_0019
+238	…いいんだ、ナタリー	VO_vetel.vetel_sys_0030
+239	ヴェテル…!?	VO_natalie.natalie_sys_0025
+240	俺たちが言葉をかわす方法はこれしかない…<br>そうだな、ジェラルド？	VO_vetel.vetel_sys_0010
+241	…そうだ	VO_gerard.gerard_sys_0004
+242	ハァ…ハァ…！　…グッ…！	VO_vetel.vetel_battle_0019
+243	ヴェテル!!	VO_natalie.natalie_battle_0019
+244	グ…！　ク、クソッ…!!	VO_vetel.vetel_sys_0042
+245	…お前は、俺たちの誓いを踏みにじった	VO_gerard.gerard_sys_0029
+246	ジェラルド!!　ダメだよ、それ以上は!!<br>もうやめて!!	VO_natalie.natalie_sys_0021
+247	黙っていろナタリー。俺は集団を率いる者…<br>この背を見ている者たちがいる以上、<br>この鋼の意志を曲げることは出来ない	VO_gerard.gerard_sys_0010
+248	ジェラルド!!	VO_natalie.natalie_battle_0019
+249	…世の人々を笑顔に変える太陽になりたい…<br>かつて、お前が口にした言葉だ<br>…すでに、太陽は沈んでいたのだな	VO_gerard.gerard_sys_0016
+250	…ク…クク…<br>…か…変わらないな、お前は…<br>その頑固な性格…あ、あの頃のままだ…	VO_vetel.vetel_sys_0010
+251	…俺は、あの時の誓いに生きているだけ<br>道を違えたのは、変わり果てたお前の方だ	VO_gerard.gerard_sys_0012
+252	残念だ、ヴェテル…<br>かつて志をともにした同志よ…!!	VO_gerard.gerard_battle_0004
+253	ジェラルド!!	VO_natalie.natalie_sys_0018
+254	グ…!!　ク、クソッ…!!	VO_vetel.vetel_battle_0019
+255	この一撃は、在りし日の…青過ぎた俺たちを<br>弔う一撃…!!　“緋色の炎”を忘れ果てた<br>お前への、訣別の刃だ!!	VO_gerard.gerard_battle_0013
+256	ガッ…!!!!	VO_vetel.vetel_battle_0025
+257	ヴェテル…!!	VO_natalie.natalie_sys_0028
+258	…どうした、これで終わりか？	VO_gerard.gerard_sys_0002
+259	ジェラルド、もうやめてよ!!<br>こんなことしてる場合じゃないでしょ!?	VO_natalie.natalie_sys_0018
+260	…なんの話だ？	VO_gerard.gerard_sys_0006
+261	だって、ほら…獣人族の村を守ってたのは<br>ヴェテルなんだよ!?	VO_natalie.natalie_sys_0003
+262	そのヴェテルがここにいたらさ…<br>もしあの野盗たちがまた村を<br>襲ったらヤバイじゃん!?
+263	…率いていたあの男が去った以上、すぐに<br>野盗が舞い戻ることはあるまい	VO_gerard.gerard_sys_0039
+264	それに…どの道、コイツら<br>聖教騎士団の本隊がやってくる…<br>気にすることはない	VO_gerard.gerard_sys_0010
+265	いや、だからって…！	VO_natalie.natalie_sys_1034
+266	…聖教騎士団は、来ない	VO_vetel.vetel_battle_0019
+267	…何？	VO_gerard.gerard_sys_0012
+268	…グラトニー＝フォスが、再び動き出そう<br>としている…そういう情報が入ったんだ	VO_vetel.vetel_sys_0018
+269	…!?　まさか…<br>またラーストリスを侵略しようと…!?<br>“千日の夜”を繰り返すつもり…!?	VO_natalie.natalie_sys_0027
+270	…わからない…。ともかく…聖教騎士団は、<br>警戒態勢を取りつつ待機…そう本部から通達<br>が来た。彼らはまだ動いてもいない	VO_vetel.vetel_chara_1007
+271	…！　…獣人族の村を見棄てた…<br>そういうこと!?	VO_natalie.natalie_sys_0021
+272	…ならば、何故お前はここにいる？	VO_gerard.gerard_sys_0044
+273	…………
+274	…言え。今さら隠し立てたところで、<br>何も意味はないだろう…？	VO_gerard.gerard_sys_0002
+275	…大国の動向ひとつで、助けを求める人々を<br>見殺しにする…そんなことは納得出来ない	VO_vetel.vetel_sys_0018
+276	…だから、命令を無視して<br>抜け出して来たというのか？	VO_gerard.gerard_sys_0045
+277	…ただの野盗が相手ならば、獣人族も<br>多少は太刀打ち出来るだろう。だが…俺が<br>撃退した野盗はただの野盗ではなかった…	VO_vetel.vetel_chara_1007
+278	確かに…あの統率の取れた動きは、<br>ただの野盗とは思えん<br>…何者なのだ、奴らは？	VO_gerard.gerard_sys_0004
+279	あの剣術の所作からして…<br>ラーストリスあたりの者のようだが…
+280	…詳しいことはわからない。ただ、聖教騎士<br>団内で噂が流れたんだ…獣人たちの血液から<br>アルケミィ粒子を奪う輩が出没して
+281	アルケミィ粒子…!?	VO_natalie.natalie_sys_0027
+282	錬金術の源とされる物質だ
+283	…！　…そうか…あの男の力の源はそこに…	VO_gerard.gerard_battle_0019
+284	野盗が獣人を狙っていたのには、<br>そんなわけが…	VO_natalie.natalie_sys_0045
+285	獣人族の村を野盗から守る依頼が来ている…<br>でも聖教騎士団は隊を動かさないと決定した<br>という通達があったんだ…	VO_vetel.vetel_sys_0030
+286	それを聞いて、俺は居ても立っても<br>居られなくなったんだ	VO_vetel.vetel_sys_0018
+287	…まさか、君たちが撃退していようとは<br>思いもしなかったが	VO_vetel.vetel_sys_0030
+288	それで禁を破り、抜け出して来たと<br>いうわけか。だが…命令を背けば、どういう<br>ことになるかはわかっているんだろう？	VO_gerard.gerard_sys_0045
+289	ジェラルドはさ…ヴェテルのことが<br>気になって、聖教騎士団のことを<br>ずいぶん調べてたみたいなんだよ	VO_natalie.natalie_sys_0007
+290	…！　だから、そんなことはないと<br>言っているだろう!!	VO_gerard.gerard_sys_0027
+291	…少数の人々の犠牲より、世界の危機に<br>目を向ける…それは確かに、正しいこと<br>なのかもしれない	VO_vetel.vetel_sys_0030
+292	…何…？
+293	…けれど…人を見殺しにしておきながら<br>正義を語る…そんなことは、俺には出来ない	VO_vetel.vetel_sys_0018
+294	甘いと言われても…<br>錬金術という脅威を生まない為の手段が<br>最優先であったとしても…
+295	俺は最大公約数の正義の為ではなく、<br>目の前の人の笑顔を守りたい…
+296	…！　まさか…<br>聖教騎士団を辞めてきたの…!?	VO_natalie.natalie_sys_0027
+297	…………
+298	…相変わらず、バカだなお前は	VO_gerard.gerard_sys_0030
+299	バカじゃないが…<br>要領は悪いかもしれないな	VO_vetel.vetel_sys_0030
+300	…フッ…。…お前は変わらず、<br>世の人々のことを思っていたということか…<br>…俺よりも、はるかに広い目線で	VO_gerard.gerard_sys_0007
+301	…そんなことはない<br>これだけの団員を束ねているんだ…<br>お前の方が大したもんだよ	VO_vetel.vetel_event_1015
+302	…クク…	VO_gerard.gerard_sys_0008
+303	…お前ら!!　今日からこのヴェテルは、<br>俺たち“緋色の団”の一員だ!!<br>団の中の生活を、しっかりと教えてやれ!!	VO_gerard.gerard_sys_0002
+304	な…!?	VO_vetel.vetel_sys_0025
+305	どうせ、行くあてなどないんだろう？<br>今のお前は、ただの騎士崩れなんだから	VO_gerard.gerard_sys_0001
+306	ヤッバイ！ 最高、ジェラルド!!<br>…いいじゃん、ヴェテル!?	VO_natalie.natalie_sys_0046
+307	いや、しかし…	VO_vetel.vetel_event_1015
+308	…それに…出来ることならば、俺よりも<br>広いその視野でコイツらを率いてもらいたい	VO_gerard.gerard_sys_0005
+309	は…？	VO_vetel.vetel_sys_0025
+310	…!?　…それって…!?	VO_natalie.natalie_sys_0006
+311	お前の話を聞いてつくづく感じた…<br>俺ではこの“緋色の団”を、広い世界へ<br>導くことは出来ない	VO_gerard.gerard_sys_0016
+312	俺はただひたすらに、剣を<br>振るっているほうが性に合っている
+313	ちょ、ちょっと待って…!?　それ…<br>団長の座をヴェテルに引き継ぐってこと!?	VO_natalie.natalie_sys_0027
+314	そうだ。…異論のあるヤツはいるか!!	VO_gerard.gerard_sys_0004
+315	…反対!!!!
+316	何ぃ!?	VO_gerard.gerard_sys_0026
+317	…フッ…。…ハハ…！	VO_vetel.vetel_sys_0008
+318	アハハ…!!	VO_natalie.natalie_sys_0008

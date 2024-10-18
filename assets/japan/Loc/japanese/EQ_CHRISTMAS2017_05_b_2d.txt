@@ -1,0 +1,56 @@
+001	またミハエルおじいちゃん!?	VO_shayna.shayna_sys_0026
+002	えええっ！　ミハエルさん!?	VO_carol.carol_sys_0026
+003	なんで…ミハエルが？	VO_hazel.hazel_sys_0006
+004	ちょっと…<br>また貴方が匿っているの？	VO_rosa.rosa_sys_0003
+005	みんなちょっと待ってってば…	VO_rofia.rofia_sys_0016
+006	ん？　こいつが偽サンタじゃないのか？	VO_kiyu.kiyu_battle_0002
+007	でもサンタみたいな恰好してるぞ？	VO_yuki.yuki_battle_0001
+008	やれやれ…おや、これはこれは<br>マールダ族の皆様ではないか	VO_michael.michael_sys_0047
+009	お、おう…	VO_kiyu.kiyu_battle_0019
+010	い、いかにもオレッちたちが<br>かの雪の精霊・マールダ族だ！	VO_yuki.yuki_battle_0020
+011	遠路はるばるお越しくださったなか<br>大変申し訳ないが…<br>少しお待ちいただけますかの？	VO_michael.michael_sys_0045
+012	お、おう
+013	コホン…実はヴィンセントより…	VO_michael.michael_battle_0019
+014	!!
+015	屋敷から煙が出ていると通報があって<br>処置はしたが、キャロル殿がいないのは<br>一大事だと連絡がありましての…
+016	きゃあああああ！<br>お料理の火を消してなかったのね!!!	VO_carol.carol_battle_0025
+017	キャロル…	VO_hazel.hazel_sys_0030
+018	コホン…さらにですな…	VO_michael.michael_battle_0019
+019	チーズドッグ屋が大量予約を受けたのに<br>誰も取りに来ないと困っている<br>たぶんヘイゼルだから伝えてくれ、と…
+020	あ…わ、忘れてた…	VO_hazel.hazel_sys_0026
+021	そういうわけで、<br>ヴィンセントの盟友であるわしが<br>伝令に参ったのじゃが…いたた	VO_michael.michael_sys_0004
+022	ご、ごめんなさい!!　ミハエルさん！	VO_carol.carol_sys_0036
+023	ごめんなさい…<br>でも、ミハエルって<br>ヴィンセントと仲が悪いのかと…	VO_hazel.hazel_sys_0036
+024	ホッホッホ<br>ヘイゼル殿にはまだそう見えますかの	VO_michael.michael_sys_0008
+025	…？	VO_hazel.hazel_sys_0006
+026	うふふ、ヴィンセントさんにとって<br>ミハエルさんは良きライバルなんですよ	VO_carol.carol_sys_0008
+027	ライバル…	VO_hazel.hazel_sys_0016
+028	さて、お待たせしました<br>マールダ族の皆様…えーと…	VO_michael.michael_chara_1006
+029	キユウだ！	VO_kiyu.kiyu_battle_0021
+030	ユウキだ！	VO_yuki.yuki_battle_0019
+031	何やら正しいクリスマスの作法を<br>教えていただけるとのこと…	VO_michael.michael_sys_0004
+032	是非、ワシにも後学のために<br>お聞かせ願えないじゃろうか？
+033	…………
+034	ちょうどこの者たちが<br>パーティの支度をしております<br>ご一緒にいかがでしょう？	VO_michael.michael_sys_0007
+035	パーティ!!<br>コホン…<br>そ、そこまで言うなら…な？	VO_kiyu.kiyu_battle_0021
+036	お、おう！<br>高貴なるマールダ族が教えてやっても、な？	VO_yuki.yuki_battle_0002
+037	ホッホッホ、ありがたき幸せ<br>ではお嬢さんがた、そしてマールダ族の皆様<br>参りましょう	VO_michael.michael_sys_0008
+038	残りのプレゼントは<br>ワシが届けておきましょうぞ	VO_michael.michael_sys_0044
+039	うふふ、パーティの準備<br>なんてしてくれてたのね！	VO_shayna.shayna_sys_0007
+040	お料理焦げて減っちゃったけど…	VO_carol.carol_sys_0029
+041	そんなの帰りに買っていけばいいじゃない<br>準備してくれた気持ちがあればいいのよ	VO_rosa.rosa_chara_1002
+042	大丈夫、チーズドッグがあるよ<br>あ…ねぇ？　マールダ族って…<br>チーズドッグ食べる？	VO_hazel.hazel_chara_1006
+043	チーズなら大好物だぞ！<br>けど、熱いのは苦手だからな!!	VO_kiyu.kiyu_battle_0002
+044	なんでいちいち偉そうなのよ…<br>この雪だるまたちは…	VO_rosa.rosa_sys_0003
+045	ひぃっ！	VO_yuki.yuki_battle_0028_b
+046	ふぅ、毎年大変だね…	VO_rofia.rofia_sys_0006
+047	はて、なんのことですかのう…<br>ロフィア殿？	VO_michael.michael_event_1006
+048	ま、いいけどね…<br>あ、残りのプレゼント配るの手伝うよ	VO_rofia.rofia_chara_1021
+049	ああ、それなら実は…<br>もう解決済みでしてな	VO_michael.michael_sys_0004
+050	解決？
+051	リアルヘブンのサンタが<br>仕事を終えて手伝ってくれると<br>申し出てくれましてな…	VO_michael.michael_sys_0007
+052	リアルヘブンのサンタ…？<br>あ！　雪だるまのモデル…っていうか!!	VO_rofia.rofia_sys_0025
+053	しーっ！<br>…ご内密に頼みますよ、ロフィア殿	VO_michael.michael_sys_0011
+054	ん、もちろん	VO_rofia.rofia_chara_1023
+055	クリスマスの夜には<br>さまざまなサンタクロースが現れるもの…<br>それでよいのです、ホッホッホ	VO_michael.michael_sys_0007
+056	May the joy of Christmas fill your heart☆

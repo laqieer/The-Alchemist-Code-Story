@@ -1,0 +1,27 @@
+﻿001	これで――最後だ！
+002	アドレイ、回収状況は!?	VO_andechs.andechs_sys_0001
+003	今、最後のひとりを収容した！<br>アンタも早く！	VO_adlai.adlai_sys_0004
+004	よし、今――	VO_andechs.andechs_sys_0005
+005	――――
+006	…？　なんだ<br>罪獣が――こっちを、見てる…？	VO_andechs.andechs_sys_0006
+007	ルォオォォォォォォォォン!!	VO_leviathan.leviathan_battle_0003
+008	ぐ――ッ!?	VO_adlai.adlai_battle_0019
+009	波が、急に高く…！<br>いくら低空飛行してたからって、<br>ここまで届くかフツー!?	VO_adlai.adlai_sys_0025
+010	…ッ！　波に触れた船体から、<br>蓄積マギルが流出…!?<br>アドレイ、すぐにこの場を離れるんだ！	VO_nix.nix_battle_0019
+011	わかってるけど…！	VO_adlai.adlai_sys_0042
+012	よっと――間に合ったか!?	VO_andechs.andechs_battle_0019
+013	アドレイ、なんだか知らんが<br>ヤバい気配がする！<br>すぐにこの海域を離れるぞ
+014	いや…
+015	――――
+016	もう、捕捉された…！	VO_adlai.adlai_battle_0019
+017	レヴィアタンが、こっちを見て――？	VO_nix.nix_sys_0025
+018	このまま王都に戻れば、<br>街や人に被害が出る<br>なら――	VO_adlai.adlai_sys_0031
+019	ニクス、動力炉の出力上げて！<br>俺たちはこのまま――嫉妬と憤怒の<br>罪域の境界に向かう！	VO_adlai.adlai_sys_0001
+020	了解！　保険として<br>『ライブラ』の火も入れておく！	VO_nix.nix_sys_0005
+021	境界領域に…!?<br>何か、策があるのか	VO_andechs.andechs_sys_0025
+022	特にない！　けど、可能性ならある
+023	もし、あの罪獣の活動圏が<br>“海”の中だけなら…
+024	陸に…それも、焼けた地面の上に上がれば<br>追ってこられない…そういうことか！	VO_andechs.andechs_sys_0031
+025	あくまで、可能性の話だけどね！<br>この状況なら、<br>賭けてみる価値もあるでしょ！	VO_adlai.adlai_sys_0004
+026	動力炉、再加圧完了<br>いつでも行けるよ、アドレイ	VO_nix.nix_sys_0001
+027	よ～し、かっ飛ばす…！	VO_adlai.adlai_sys_0006

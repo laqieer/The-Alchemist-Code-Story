@@ -1,0 +1,69 @@
+﻿001	もらった――！	VO_ignacio.ignacio_battle_0007
+002	…っ、この術は幻香の…！	VO_ignacio.ignacio_sys_0025
+003	私がいつも、<br>力押しだけだと思わないことね…！
+004	ぐが…ッ!?	VO_ignacio.ignacio_sys_0042
+005	え、あの、やり過ぎでは…？	VO_emmer.emmer_sys_0025
+006	え、ウソ…	VO_helenne.helenne_sys_0025
+007	い、いいえ、これくらい<br>ちょうど良いお灸なんだから
+008	…大丈夫よね？<br>ヒトって結構、頑丈だし…
+009	まあ、生きてはいますよ…	VO_ignacio.ignacio_sys_0022
+010	あっ、銃は預かっておきますね？	VO_emmer.emmer_sys_0008
+011	…ちゃっかりしていらっしゃる
+012	わかりました、私の負けです<br>負けました！	VO_ignacio.ignacio_sys_0030
+013	よろしいっ
+014	…しかし、疑問はある<br>エンメルさん、でしたか	VO_ignacio.ignacio_sys_0031
+015	私？	VO_emmer.emmer_sys_0006
+016	貴女は多くを救いたい<br>それは兄の為である<br>それはわかりました。ですが…	VO_ignacio.ignacio_sys_0006
+017	その兄のもとを離れてまで、<br>貴女が奔走する理由はなんですか
+018	……え、それは	VO_emmer.emmer_sys_0031
+019	貴女の兄は、<br>“円環の蛇”に選ばれたのでしょう？
+020	なら、そのまま兄に任せてしまえばいい<br>彼が自らの理想のもと、<br>すべてを救おうと奔走する…	VO_ignacio.ignacio_sys_0020
+021	それはまったく、真っ当なことです
+022	貴女はただ、そんな彼の傍にいて<br>その理想（ユメ）を助ければいい	VO_ignacio.ignacio_sys_0002
+023	なのに、なぜです<br>どうして、こんな危険な真似をしてまで、<br>貴女ひとりが犠牲になろうとするのですか
+024	――私は、兄さんに“未来”をあげたい	VO_emmer.emmer_sys_0005
+025	シャヘルに言った通り、<br>私はもう長くはありません
+026	だからこそ…そんな私の為に、<br>兄さんがこれ以上傷つくのは見たくない
+027	それに…
+028	兄さんの使う錬金術<br>あの力は――危険だと、感じます	VO_emmer.emmer_sys_0030
+029	消費されるマギルの量に比して、<br>起こる事象が圧倒的過ぎる…
+030	本来、呼び込んではいけないモノを<br>無理やり引きずり出しているような…<br>そんな危うさを感じるの
+031	あの力は、一歩間違えば<br>兄さんの身を破滅させてしまう…<br>そんな予感がある	VO_emmer.emmer_battle_0019
+032	でも…兄さんはきっと、<br>躊躇わずに使うでしょう<br>目の前の誰かを救う為に、何度でも
+033	貴女はそれを…止めたいわけですか	VO_ignacio.ignacio_sys_0020
+034	ええ	VO_emmer.emmer_sys_0004
+035	愛の差ですねえ…<br>所詮、捨て子の孝行など<br>真の絆の前には、泥縄でしたか…	VO_ignacio.ignacio_sys_0007
+036	捨て子…？	VO_emmer.emmer_sys_0006
+037	…こちらの話です	VO_ignacio.ignacio_sys_0039
+038	…アナタの想いは伝わったわ<br>イグナシオ	VO_helenne.helenne_sys_0003
+039	じゃあ次は、<br>お義姉さんへの孝行をしてみましょうか<br>この銃使える？　使えるわよね？	VO_helenne.helenne_sys_0008
+040	え、普通に嫌ですけど…
+041	…なんで？
+042	いや私、“円環の蛇”の一員なので	VO_ignacio.ignacio_sys_0031
+043	…でも、私の義弟よね？
+044	ええ、それはそうですが	VO_ignacio.ignacio_sys_0006
+045	…………なんで？	VO_helenne.helenne_sys_0018
+046	…エンメルさん、お助けください<br>義姉は錯乱しています
+047	…………
+048	この人は…ッ！	VO_ignacio.ignacio_battle_0019
+049	…私、お父様を止めるわ<br>それが私たちの“約束”だから	VO_helenne.helenne_sys_0001
+050	……そう、ですか	VO_ignacio.ignacio_sys_0016
+051	仕方がありませんね…
+052	手伝って、くれるんですか？	VO_emmer.emmer_sys_0001
+053	…ええまあ、はい	VO_ignacio.ignacio_sys_0022
+054	なんで言い淀むんですか	VO_emmer.emmer_sys_0012
+055	一見、儚げな割に<br>図太いですよねえ。貴女…
+056	最近よく言われます	VO_emmer.emmer_sys_0007
+057	あ、そうだ<br>クェンスは…	VO_emmer.emmer_sys_0001
+058	今は、城内の部屋に軟禁中ですが…
+059	おい、勧誘は終わったか？	VO_kvense.kvense_sys_0001
+060	ええ、ちょうど今	VO_emmer.emmer_sys_0004
+061	貴方たちは、本当に…	VO_ignacio.ignacio_sys_0030
+062	な？<br>俺の言った通り“後悔”しただろ？	VO_kvense.kvense_battle_0007
+063	私は貴方が嫌いです<br>今まさに、嫌いになりました<br>よろしくお願いします	VO_ignacio.ignacio_sys_0006
+064	ああ、よろしくな。俺もお前が嫌いだが	VO_kvense.kvense_sys_0010
+065	あの、喧嘩は…	VO_emmer.emmer_sys_0014
+066	してませんよ	VO_ignacio.ignacio_sys_0039
+067	してない！	VO_kvense.kvense_battle_0011
+068	なら、いいんですけど…	VO_emmer.emmer_sys_0030
+069	それじゃあ、行きましょう<br>傲慢の罪獣に、再挑戦です！	VO_emmer.emmer_sys_0002

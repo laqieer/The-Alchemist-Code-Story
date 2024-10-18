@@ -1,0 +1,52 @@
+﻿001	この音、何…？<br>ざふぃりす、外にいるの？
+002	ダメです、リル！<br>今、お師匠様たちが戦ってるのでっ	VO_ambrosia_ambrosia-b.ambrosia_sys_0025
+003	お屋敷の中に隠れてましょう<br>こっちです、リル！	VO_ambrosia_ambrosia-b.ambrosia_sys_0001
+004	そうなの？　でも…	VO_uroboros-f.uroboros-f_sys_0021
+005	でも、じゃないです！<br>私たちが行っても、邪魔になるだけ――	VO_ambrosia_ambrosia-b.ambrosia_sys_0013
+006	――え？	VO_uroboros-f.uroboros-f_sys_0025
+007	…っ、ダメ…！	VO_ambrosia_ambrosia-b.ambrosia_battle_0019
+008	あ、しーあちゃ…
+009	あ、ぎ…っ!?
+010	…目標を発見した<br>ウロボロスの幼体――間違いあるまい	VO_dragonman-o.dragonman-o_sys_0006
+011	しーあ、ちゃん…え、なんで、血が…
+012	ここで始末するべきか…？	VO_dragonman-o.dragonman-o_sys_0031
+013	いや、コレは仮にも蛇竜の幼体<br>下手に刺激すれば、<br>外殻から“例の極光”が落ちてくる…
+014	しーあちゃん、しっかりして!?<br>えっと、血っ、血を止めないと…あっ	VO_uroboros-f.uroboros-f_sys_0027
+015	…っ、やめ、て…<br>しーあちゃんを、虐めないで…	VO_uroboros-f.uroboros-f_sys_0036
+016	それはお前の態度次第だ、果ての蛇竜よ<br>大人しく我らに――	VO_dragonman-o.dragonman-o_sys_0010
+017	な――にしてんだ、テメエは…ッ!!	VO_kvense_kvense-b.kvense_sys_0032
+018	おの、れ――<br>世界の外殻を、除かねば…<br>この地に、未来は…――	VO_dragonman-y.dragonman-y_battle_0028_b
+019	…………
+020	どうやら、連中は本気だな<br>自らの死すら厭わず、<br>貴様らを止めるつもりのようだ	VO_clabul.clabul_sys_0016
+021	創世の祭壇。俺たちが犯した罪の証は、<br>傲慢の層――オピネウスの領域にある
+022	目指すならば、<br>数多の同胞を殺し進む覚悟が必要だぞ	VO_clabul.clabul_sys_0003
+023	…………私は	VO_zafilys.zafilys_sys_0031
+024	この音…館の裏から!?	VO_clabul.clabul_sys_0025
+025	ってぇな…!?	VO_kvense_kvense-b.kvense_sys_0043
+026	クェンス、何があった？	VO_clabul.clabul_sys_0001
+027	裏から忍び込まれた！<br>リルとアンブロシアが…！	VO_kvense_kvense-b.kvense_sys_0021
+028	なんだと…!?	VO_clabul.clabul_sys_0012
+029	アンブロシア…！<br>どこだ、どこに…!?	VO_clabul.clabul_sys_0042
+030	これは、血の跡か？	VO_zafilys.zafilys_battle_0019
+031	通じな、かった…<br>俺の渾身の魔法が、何も…クソッ！	VO_kvense_kvense-b.kvense_sys_0019
+032	わかっちゃいたが…人間と竜には、<br>こんなにも差がありやがるのか…！
+033	…顔を上げろ、バカ弟子<br>弱さを理由に腐るな
+034	師匠…
+035	力の差など、知恵と覚悟で乗り越えろ<br>人間は、ただ強いだけの生き物など、<br>幾度も制圧してきたはずだ	VO_clabul.clabul_sys_0016
+036	思考を止めるな。結論を逸るな<br>どんなモノにも弱点はあり、<br>どんな強者にも隙がある
+037	分析し、理解し、対処しろ<br>その繰り返しこそが魔法の本質だと、<br>貴様たちにはそう教えたはずだ
+038	…そうだったな。師匠<br>悪い、弱気になっちまった	VO_kvense_kvense-b.kvense_sys_0030
+039	簡単に負けを認めるのは、<br>“兄弟子”らしくねえからな…
+040	流れた血は少ない…<br>ふたりを連れ去った、のか？	VO_zafilys.zafilys_sys_0022
+041	ああ、そういやあの竜<br>妙に慎重だったな…	VO_kvense_kvense-b.kvense_sys_0037
+042	（…おかしい<br>連中の言葉を信じるなら、<br>狙いはリルの命のはず）
+043	（なのに、なぜ<br>この場では殺さずに、<br>わざわざ連れ去った…？）	VO_zafilys.zafilys_sys_0017
+044	例え竜種であれ、<br>連中は七竜の名を継げなかった者たちだ<br>単身での層の移動は簡単ではなかろう	VO_clabul.clabul_sys_0006
+045	奴らはまだ、<br>この色欲の層に居るはず――
+046	クレーブル…!?<br>お前、そのマギルは…？	VO_zafilys.zafilys_sys_0025
+047	問題ない…<br>掴んだぞ、彼奴等のマギルの痕跡！	VO_clabul.clabul_battle_0019
+048	師匠、俺も…	VO_kvense_kvense-b.kvense_sys_0041
+049	その傷で何ができる<br>…貴様はそこで休んでいろ<br>これ以上俺に、心配をさせるな	VO_clabul.clabul_sys_0015
+050	…っ、わかったよ…	VO_kvense_kvense-b.kvense_sys_0022
+051	行くぞ、ザフィリス	VO_clabul.clabul_sys_0003
+052	ああ――	VO_zafilys.zafilys_sys_0034

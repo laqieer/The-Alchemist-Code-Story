@@ -1,0 +1,55 @@
+001	この刀は…<br>この人を生かす為に打った一振り…
+002	人を生かす為の道具として、<br>父さんはこの刀を打ったんだ
+003	それなのに…父さんの思いは、<br>結局伝わらなかったんだね…	VO_miuna.miuna_sys_0018
+004	…ミウナさん…
+005	…そうとも限らんさ
+006	…!? …何言ってんだい!!<br>事実…この男は、父さんの刀を使って…!!	VO_miuna.miuna_battle_0025
+007	まぁな…。だが…この男は最期に、<br>かつての“心”を思い出していた	VO_kadhanova.kadhanova_sys_0022
+008	この刀を手にした頃の“志”を…<br>歩んだ道を悔いていたのが<br>何よりの証だろう？
+009	…それは…。…でもさ…!!	VO_miuna.miuna_sys_0018
+010	ク・ヨーギは、目先のことに<br>捉われるような男じゃない	VO_kadhanova.kadhanova_sys_0031
+011	アイツが見ていたのは “心”…<br>この男の熱い情熱に揺さぶられ、<br>この刀を打つ気になったんだよ
+012	けど…！　死んじまったら、<br>すべてが終わっちまうじゃないか！	VO_miuna.miuna_sys_0019
+013	いいや…
+014	え…？
+015	残った者が引き継げば“志”は死にはしない	VO_kadhanova.kadhanova_battle_0016
+016	引き継ぐ…？	VO_miuna.miuna_sys_1028
+017	“世の戦乱を自らの刀で鎮める”<br>…無謀ともいえるこの男の“志”を、<br>俺たちが継げばいいんだよ	VO_kadhanova.kadhanova_sys_0001
+018	…ク・ヨーギが惚れ込んだ、<br>その“心”をな
+019	…！
+020	…さすがはク・ヨーギ…いい仕事だ<br>“向こうの世界”で手に入れたこの剣より、<br>よっぽどしっくりくる	VO_kadhanova.kadhanova_sys_0020
+021	カダノバ…
+022	お前の親父が惚れ込んだ“心”は、俺が<br>この刀とともに継ぐ<br>いや、俺だけじゃない…そうだな、カノン？	VO_kadhanova.kadhanova_battle_0016
+023	はい…！　この人にも、その想いは<br>私が実現すると約束しましたから	VO_kanon_3s_cano.kanon_battle_0017
+024	…ってことだ<br>俺たちがその意志を継いでいる以上、<br>ク・ヨーギの想いは無駄になどなっていない
+025	…心配するな“ミウ”。お前の親父は…<br>今も昔も変わることなく、立派な男だ	VO_kadhanova.kadhanova_sys_0001
+026	…うん…!!	VO_miuna.miuna_sys_0018
+027	お、おい…泣くな！　…まったく…	VO_kadhanova.kadhanova_sys_0029
+028	ガ、ガアアア…ッ!!	VO_zaharu.zaharu_sys_0028
+029	…！　ザハル様…!?	VO_spica.spica_sys_0026
+030	…!?
+031	ウ…ウグ…！　ウグ…ガ…!!<br>…グ…グァァァァァァァーッ!!!!!	VO_zaharu.zaharu_sys_0043
+032	!? まさか…!?	VO_kanon_3s_cano.kanon_sys_0042
+033	…戻ることは叶わなかったか…どうやら、<br>完全に闇に取り込まれてしまったようだ	VO_kadhanova.kadhanova_battle_0025
+034	そんな…!!	VO_spica.spica_sys_0020
+035	ああなってしまっては、もはや手遅れ…<br>…いや…闇の力を自らの肉体に導いた<br>時点で、こうなることはわかりきっていた	VO_kadhanova.kadhanova_battle_0019
+036	すべて、ヤツも覚悟の上でのことだ
+037	手遅れって、<br>もう元には戻らないってこと…!?	VO_miuna.miuna_sys_1028
+038	そうだ。もはや猶予はない、ヤツを仕留める	VO_kadhanova.kadhanova_sys_0001
+039	…！
+040	闇の力を宿したアイツを仕留めるには、<br>お前の光の力が不可欠だ…カノン、行くぞ
+041	ま、待ってください…！	VO_kanon_3s_cano.kanon_sys_0021
+042	なんだ？	VO_kadhanova.kadhanova_sys_0025
+043	ザハルは私たちを助ける為に、闇に身を<br>投じたんです!! それなのに…
+044	…だからこそだ	VO_kadhanova.kadhanova_sys_0012
+045	え…？
+046	深遠なる闇の力に呑まれてしまった今…<br>あの男は、世界の殲滅に向かうことになる<br>それを…ザハルが望んでいると思うのか？	VO_kadhanova.kadhanova_battle_0019
+047	…!!
+048	…それは…	VO_kanon_3s_cano.kanon_sys_0042
+049	俺たちと形は違えど…<br>ヤツが最期に見せた姿は、<br>紛うことなき本物の正義の騎士の姿だった	VO_kadhanova.kadhanova_sys_0001
+050	…俺は、ヤツのその正義の心に応えたい<br>長きに渡り命を奪い合ってきた宿敵としても…
+051	俺たちの手で、<br>ヤツを止めてやらねばならんのだ
+052	…！
+053	ググ…!!<br>…グァァァァァァーッ!!!!	VO_zaharu.zaharu_battle_0008
+054	…!? 想像以上に、闇の増幅が早い…!!<br>急げ、カノン!!!	VO_kadhanova.kadhanova_battle_0019
+055	…クッ…！　…ウァァァァァーッ!!!!	VO_kanon_3s_cano.kanon_sys_0032

@@ -1,0 +1,66 @@
+001	ガッ――	VO_selliord.selliord_battle_0022
+002	陛下ッ!?	VO_mary.mary_sys_0027
+003	…ようやく手に入れたぞ、“器の巫女”！<br>これで、我らが大願は成就される！<br>クハ、ハハハハハ！	VO_thiefm.thiefm_sys_0008
+004	く…どうしてここが!?<br>後をつけられた気配なんて、なかったのに…	VO_moca.moca_sys_0042
+005	サガの女。確か名をモカといったか？<br>ああ、感謝するぞ、貴様に！	VO_thiefm.thiefm_sys_0007
+006	貴様が居てくれたからこそ、<br>我らは巫女の居場所を知ることが出来た！
+007	な、に…？	VO_moca.moca_sys_0027
+008	風のウィジャ。サガの女<br>そして“我らの同胞の呪いを受けた者”よ！<br>貴様の呪いは、海の彼方からもよく香る！	VO_thiefm.thiefm_sys_0010
+009	俺の、呪い…だと？	VO_moca.moca_sys_0025
+010	そうとも。貴様が受けた呪いは、<br>我らジャムにとって闇夜の灯火に等しい	VO_thiefm.thiefm_sys_0004
+011	どれ程遠く離れようと、<br>我らの目は誤魔化せぬ！
+012	そん、な…	VO_moca.moca_sys_0021
+013	マリーを、離せ！　この無礼者！	VO_selliord.selliord_sys_0015
+014	ぐ…っ！	VO_selliord.selliord_battle_0022
+015	カカカ！　よく足掻く！<br>だが無駄だ、無力なる王よ	VO_thiefm.thiefm_sys_0008
+016	“力無き者は、ただ奪われる”<br>貴様の“御父様”の口癖だったろう…？
+017	…っ、ま、リー…っ	VO_selliord.selliord_sys_0018
+018	無駄、ダ！	VO_thiefm.thiefm_battle_0002
+019	が、ほっ…	VO_selliord.selliord_battle_0019
+020	…っ、風よ！	VO_moca.moca_battle_0019
+021	ソレモ無駄ァ！	VO_thiefm.thiefm_battle_0007
+022	さて、そろそろ行くカ<br>万が一、守り人が戻ることがあれば厄介ダ	VO_thiefm.thiefm_sys_0030
+023	…だ、ダメェっ！	VO_agasa-b.agasa-b_sys_0020
+024	…ヌ？	VO_thiefm.thiefm_sys_0006
+025	アガサ…!?<br>砦の兵器庫から、<br>ボウガンを持ち出したのか！
+026	くっ、ダメだ！　アガサ！<br>そいつらに普通の武器は通じない！
+027	で、でもっ！<br>マリーのこと、放っておけませんっ！	VO_agasa-b.agasa-b_sys_0018
+028	その子を、離してッ！	VO_agasa-b.agasa-b_sys_0043
+029	きゃっ!?	VO_agasa-b.agasa-b_battle_0025
+030	あァ、そういえバ天然の方の器モ居たカ<br>丁度良い、“予備”があれば万全ダ	VO_thiefm.thiefm_sys_0031
+031	…ッ!?	VO_agasa-b.agasa-b_battle_0019
+032	さア、こっチにこイ…！	VO_thiefm.thiefm_sys_0008
+033	や――っ	VO_agasa-b.agasa-b_sys_0020
+034	ナ――？　今ノ光は？	VO_thiefm.thiefm_sys_0025
+035	アガサに、<br>近付くなぁぁぁぁぁ――ッ！	VO_logi-b.logi-b_battle_0009
+036	大丈夫か、アガサ!?	VO_logi-b.logi-b_sys_0018
+037	ロギ！　わ、私は大丈夫！<br>でも、マリーが！	VO_agasa-b.agasa-b_sys_0018
+038	わかっている！	VO_logi-b.logi-b_sys_0004
+039	く、マリーを盾に…!?	VO_logi-b.logi-b_sys_0042
+040	…ッ！	VO_tina.tina_battle_1016
+041	ホウ、あの城カラ生きテ帰ったカ<br>存外、悪運の強イ	VO_thiefm.thiefm_sys_0044
+042	陛下…っ！　ご無事ですか!?	VO_adalbert.adalbert_favorite_0001
+043	貴様、よくも陛下にこんなマネを…！	VO_adalbert.adalbert_sys_0042
+044	チィ、口惜しいガ“器”はひとツ手に入れタ<br>今はそれで良しとすル――！	VO_thiefm.thiefm_sys_0016
+045	待て…！	VO_logi-b.logi-b_sys_0013
+046	カカカ！　この娘を救いたければ、<br>我らのもとまで来るがいい！	VO_thiefm.thiefm_sys_0008
+047	邪悪眠る我らが故郷で――<br>待っているぞ！　錬金術師ドも！
+048	逃がすものか…！	VO_logi-b.logi-b_battle_0008
+049	く――!?<br>まさか、ここも城のように!?	VO_logi-b.logi-b_sys_0042
+050	いや、数は少ない！<br>これなら、私の風のウィジャで！	VO_tina.tina_chara_1002
+051	陛下、お怪我は…！	VO_adalbert.adalbert_favorite_0001
+052	それよりも、マリーが！<br>…ッ、足が	VO_selliord.selliord_sys_0018
+053	くっ、衛生兵を呼べ！<br>それに、砦の被害状況も調べさせろ！<br>急げ！	VO_adalbert.adalbert_sys_0042
+054	は、ハッ！
+055	ごめん、なさい…<br>私、何も出来なくて…	VO_agasa-b.agasa-b_sys_0018
+056	…アガサが悪いんじゃない<br>俺たちが、俺がもう少し――くそっ！	VO_logi-b.logi-b_sys_0042
+057	…ねえ、ロギ<br>カムイさんは？	VO_agasa-b.agasa-b_sys_0022
+058	…………それは	VO_logi-b.logi-b_sys_0018
+059	…彼は、私たちを砦に戻す為に<br>王都に残った
+060	それって…!?
+061	俺たちは、してやられたんだ<br>セクリディスの策略に…	VO_logi-b.logi-b_sys_0019
+062	けど、まだ終わりじゃない！<br>まだ逆転の目はあるはずだ――きっと！
+063	事態は、<br>最悪の状況を迎えようとしていた
+064	王都はジャムの群れに沈み、<br>砂漠では何も知らないグラトニーの軍勢が<br>侵攻を続けていた
+065	そして解放軍は、分断され、仲間を失い<br>何もかもが敵の思い通りで…
+066	けれど――まだ俺たちは生きていた

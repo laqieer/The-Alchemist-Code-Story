@@ -1,0 +1,107 @@
+﻿001	聖教騎士団の英傑…ザハル殿<br>これより先、貴方とともに<br>戦えることを嬉しく思います	VO_thiefm.thiefm_sys_0008
+002	手厚い歓迎に感謝する<br>此度の恩義に報いる為に<br>この身を刃と化して報いよう	VO_zaharu.zaharu_sys_0004
+003	おお、力強きお言葉…！<br>これよりは同志<br>ともにラーストリスに栄光の為に！	VO_thiefm.thiefm_sys_0009
+004	ああ…	VO_zaharu.zaharu_sys_0004
+005	ザハル様…どういうことなのか<br>ご説明いただきたい	VO_niggle.niggle_sys_0031
+006	なぜ私たちは、<br>こうまでもラーストリスの者たちに<br>歓待されるのか
+007	俺はすでに幾年も前より<br>この計画を進めてきたのだ	VO_zaharu.zaharu_sys_0016
+008	腐りきった聖教騎士団を去り<br>ラーストリスを乗っ取ることをな
+009	その為に、このレティシアを<br>ラーストリスに送り込み<br>俺と意を同じくするものを集めていたのだ
+010	そのようなことを…<br>しかし…そのレティシアというのは<br>何者なのですか	VO_niggle.niggle_sys_0044
+011	…彼女とは、長い付き合いになる<br>俺の…そう、腹心	VO_zaharu.zaharu_sys_0031
+012	腹心…
+013	…………
+014	（ザハル様の腹心…？<br>私の左目の疼く…！<br>この女…底が知れぬ…！）	VO_niggle.niggle_sys_0029
+015	ニグルよ…<br>お前の能力、このラーストリス騎士団でも<br>遺憾なく発揮せよ	VO_zaharu.zaharu_sys_0002
+016	期待している	VO_zaharu.zaharu_sys_0010
+017	無論、そのつもりです	VO_niggle.niggle_sys_0010
+018	ニグル、レティシア<br>我らが歩みはここ…<br>ラーストリスからはじまるのだ！	VO_zaharu.zaharu_sys_0002
+019	私たちの夢の道…この遠く先には<br>どこまでも続く遙かなる平野が<br>待っているのですね…ふふっ	VO_laetitia.laetitia_sys_0004
+020	しかし…聖教会が黙っているか…	VO_niggle.niggle_sys_0016
+021	フッ…<br>聖教会などに我が意志は折られぬ…！<br>奴らに思い知らせるのだ	VO_zaharu.zaharu_sys_0010
+022	…………
+023	（夢の道…私の闇の先にあるはずの夢は<br>この男にかける）
+024	（…ザハル様がラーストリス騎士となり<br>間もなくギルラク戦役が勃発した<br>そこで瞬く間に頭角を現すようになる）
+025	（…聖教騎士団の介入を警戒して<br>錬金術を使うことすらせずに…）
+026	ぐぁっ！	VO_knightm.knightm_battle_0024
+027	ンぐぅ…!?	VO_knightm.knightm_battle_0025
+028	フンッ！<br>歯ごたえのない連中だ	VO_zaharu.zaharu_sys_0010
+029	な、なんだあの銀髪の男は…!?	VO_knightm.knightm_battle_0019
+030	なんという強さ…！<br>これまでのラーストリス兵と<br>まるで違うッ!!	VO_knightm.knightm_sys_0027
+031	（…剣の冴え、知略の冴えが一段と鋭くなった<br>あの方は、どこまで強くなるのだ…）	VO_niggle.niggle_sys_0021
+032	しばらくお会いしないうちに…<br>さらにお強くなられて…ふふっ<br>まるで駿馬…白銀の鬣だわ…	VO_laetitia.laetitia_sys_0025
+033	（レティシア…人物も底知れぬが…<br>戦いの腕もまるで見えぬ…<br>戦えるのか…？）	VO_niggle.niggle_sys_0031
+034	やあああああああーーーーー!!	VO_knightm.knightm_battle_0008
+035	邪魔しないで	VO_laetitia.laetitia_battle_0010
+036	っ！	VO_knightm.knightm_battle_0024
+037	!?	VO_niggle.niggle_sys_1050
+038	（なんという速さ…!?<br>ザハル様が腹心と呼び<br>信頼を置く女…）	VO_niggle.niggle_sys_0022
+039	ふふっ…	VO_laetitia.laetitia_sys_0007
+040	!?
+041	（遅れを取るわけにはいかない…!!）	VO_niggle.niggle_sys_0018
+042	なっ――!?	VO_knightm.knightm_sys_0043
+043	我が闇の刃…受けるがいい…!!	VO_niggle.niggle_battle_0004
+044	（この局地戦でラーストリス軍は<br>エンヴィリア軍に圧勝…）
+045	（以降も、私たちは戦場を駆け、<br>ラーストリスを勝利へと導いていった）
+046	（やがてザハル様は――）
+047	ザハル様だ！	VO_mob-saga_ymale.mob-saga_ymale_sys_0046
+048	ザハル様が戻ってこられたぞ！	VO_mob-saga_ymale.mob-saga_ymale_sys_0009
+049	ザハル様は、この国の英雄だーー!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0008
+050	（ザハル様はラーストリス国中から<br>"英雄"と呼ばれるまでになっていた）
+051	ザハル殿、貴方のお陰で我が国の<br>錬金術研究は飛躍的に成果を<br>上げ始めています	VO_knightm.knightm_sys_0007
+052	貴方が聖教会より<br>お持ち下さった知識があれば<br>さらなる成果が見込めます！
+053	所長殿のお役に立てて何よりだ<br>…して、俺に知らせたいこととは…？	VO_zaharu.zaharu_sys_0004
+054	御覧ください！<br>このふたつの数値はアルケミィの含有量を<br>示しています	VO_mob-saga_ymale.mob-saga_ymale_sys_0007
+055	こちらの数値…これは強制的に――
+056	まさか秘密裏にこのような研究を…<br>ラーストリスの為、というわけではなかろう？	VO_niggle.niggle_sys_0044
+057	…マグナ・コード、アルケミーオーダー<br>不完全な存在が定めた"鎖"…<br>ザハル様の作る世界には不要…	VO_laetitia.laetitia_sys_0004
+058	…貴方もザハル様とともに聖教騎士団に<br>いたと聞いた<br>いつからこちらへ来たのだ	VO_niggle.niggle_sys_0001
+059	…………
+060	フッ…答える必要はなし、ということか	VO_niggle.niggle_sys_0010
+061	ねえ	VO_laetitia.laetitia_sys_0001
+062	…？<br>珍しいな、貴方から話しかけてくるとは	VO_niggle.niggle_sys_0006
+063	貴方のその眼帯は<br>どんな意味があるの？	VO_laetitia.laetitia_sys_0003
+064	…………<br>己の力を抑える為だ	VO_niggle.niggle_sys_0010
+065	力…？<br>どのような？	VO_laetitia.laetitia_sys_0025
+066	『邪眼』…レオンハート家で一代につき<br>ひとりにだけ継承される、呪われし眼だ<br>痛みの代わりに、私に力を与えてくれる	VO_niggle.niggle_chara_1006
+067	開放すれば…<br>私は、己の闇に飲み込まれるであろう
+068	そう…<br>とても、素敵ね	VO_laetitia.laetitia_sys_0016
+069	…………<br>フンッ	VO_niggle.niggle_sys_0010
+070	（やはり…底知れぬ女だ）	VO_niggle.niggle_sys_0029
+071	聖教騎士団が…？	VO_niggle.niggle_sys_0025
+072	ラーストリスの貴族の屋敷を秘密裏に<br>襲撃するとの情報が入りました	VO_laetitia.laetitia_sys_0004
+073	この貴族というのは<br>かの錬金術研究所の所長を務めるものです
+074	…誰かが情報を漏らしたのだろうか	VO_niggle.niggle_sys_0031
+075	そうとも限らない…<br>奴ら…特に骸の情報収集能力は<br>あなどれん…	VO_zaharu.zaharu_chara_1001
+076	その目に、引っかかったか…
+077	いかがいたしますか<br>敵が敵です<br>我々が出るべきか…それとも…	VO_niggle.niggle_sys_0016
+078	我らが行かねば防げまい<br>…そうだ、ニグルよ、我らを謀った奴らを<br>欺いてみるのはどうだ？	VO_zaharu.zaharu_sys_0031
+079	欺く…？　どのようにしてです？	VO_niggle.niggle_sys_0006
+080	ふたりとも、<br>懐かしい装いで出迎えようではないか	VO_zaharu.zaharu_sys_0010
+081	変装…？	VO_niggle.niggle_sys_0006
+082	（まさか…<br>再びこの姿になろうとはな…）	VO_niggle.niggle_sys_0016
+083	ザハル様、現れたようです…	VO_laetitia.laetitia_sys_0029
+084	…………
+085	む…お前たち、早かったのだな…	VO_stknightm.stknightm_sys_0025
+086	ああ…<br>お前たちは、少し遅かったようだ<br>この屋敷は、すでにもぬけの殻…	VO_zaharu.zaharu_sys_0004
+087	何…？<br>どういうことだ!?	VO_stknightm.stknightm_sys_0026
+088	なっ――!?<br>貴様、何をする!?	VO_stknightm.stknightm_battle_0022
+089	裏切り者め!!	VO_stknightm.stknightm_sys_0013
+090	フッ…<br>貴様らから裏切り者と呼ばれるとはな…<br>世界を謀る貴様らこそ、裏切り者よ！	VO_zaharu.zaharu_sys_0010
+091	皆、この裏切り者どもを倒すのだ！	VO_stknightm.stknightm_battle_0025
+092	片付きましたな…<br>さあ、戻るといたしましょう	VO_niggle.niggle_sys_0016
+093	…………<br>ザハル様、屋敷の中に気配が	VO_laetitia.laetitia_sys_0002
+094	何…？	VO_zaharu.zaharu_sys_0025
+095	これは…!?	VO_niggle.niggle_sys_0026
+096	まさか…骸が…！	VO_zaharu.zaharu_sys_0027
+097	…………<br>もしかすると逃したはずの<br>者たち諸共、屋敷を焼く気では	VO_laetitia.laetitia_sys_0029
+098	どこまでも腐っているッ！<br>行くぞ！	VO_zaharu.zaharu_sys_0019
+099	や、やめろっ…やめてくれぇ！	VO_knightm.knightm_sys_0028
+100	…殺れ	VO_thiefm.thiefm_sys_0007
+101	あ…ガっ…！	VO_knightm.knightm_battle_0027
+102	…この屋敷の者どもは皆殺しにせよ	VO_thiefm.thiefm_sys_0002
+103	聖教会の犬ども…	VO_zaharu.zaharu_sys_0027
+104	ザハル、貴様…<br>我らの仕事を面倒にしてくれたな…	VO_thiefm.thiefm_sys_0016
+105	…許さんぞ	VO_zaharu.zaharu_sys_0028
+106	貴様に許しを請うことなどない<br>ちょうどよい。貴様もここで始末しよう	VO_thiefm.thiefm_sys_0029
+107	ほざくな…死ぬのは貴様らだ！	VO_zaharu.zaharu_sys_0032

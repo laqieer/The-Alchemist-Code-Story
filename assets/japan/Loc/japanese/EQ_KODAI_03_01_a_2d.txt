@@ -1,0 +1,115 @@
+﻿001	…ようやく、辿り着きましたな。船長	VO_thiefm.thiefm_sys_0030
+002	ああ、ここが――<br>慈愛の七竜メルビレイの寝所ってやつか
+003	陸地の少ないこの層で、<br>どこに御殿を構えてやがるのかと思えば…<br>まさか、海の底とはな
+004	本当に、やるんですかい？
+005	こいつはさすがに、<br>今までのようなヤンチャじゃ済まねえ<br>竜の寝床を荒らすんだ	VO_thiefm.thiefm_sys_0031
+006	一歩間違えりゃ、<br>あのバカデカいメルビレイの<br>顎に噛み砕かれて…	VO_thiefm.thiefm_sys_0018
+007	じゃあ、諦めるのか？
+008	目の前のお宝から尻尾を巻いて、<br>あくせく小せえ悪事に精を出すのが<br>お前らが夢見た海賊の生き様なのか？
+009	そりゃ…	VO_thiefm.thiefm_sys_0017
+010	いいか、コイツはな。“冒険”だ！
+011	未知の航路！　見るも高い障害！<br>それらを越えて手にするお宝！
+012	それこそが俺たちの目的<br>誰もが妬み羨む、<br>人生の勝利ってやつだろ？
+013	だったら、やってやろうぜ<br>この手で竜のお宝を盗み出し、<br>世界に俺たちの名を轟かせる――
+014	その為の一歩が今、ここだ
+015	船長…！	VO_thiefm.thiefm_sys_0009
+016	そう上手く行けばいいのですが	VO_saria.saria_sys_0016
+017	サリアか。首尾はどうだ？
+018	情報通り、<br>メルビレイは休眠状態のようです	VO_saria.saria_sys_0004
+019	ここの守りも雑なもので、<br>他の竜はおろか魔物一匹いませんね<br>ただ…
+020	ただ、なんだ
+021	…財宝らしきものも、見当たりません<br>やはりただの与太話だったのでは？
+022	“慈愛の竜の寝所には、<br>この世で最も尊い宝が眠っている”なんて	VO_saria.saria_sys_0020
+023	ふぅむ…そいつは残念<br>だがまあ、<br>冒険の証くらいは持ち帰らないとな
+024	お前ら、何人か連れてついて来い<br>適当に、鱗のひとつでも拾って――
+025	…なんだ、これは。棺…？
+026	これ、は――!?
+027	わぁ～！<br>目のまえ、ぜんぶ青！	VO_uroboros-f.uroboros-f_sys_0023
+028	あまり、はしゃぐな。リル	VO_zafilys_transform.zafilys_transform_battle_0002
+029	…これが、嫉妬の内海<br>かつてこの世界にあったという、<br>“海”を模して造られた環境か
+030	この領域のどこかに、七竜が一柱<br>慈愛のメルビレイがいるはずだ	VO_zafilys_transform.zafilys_transform_battle_0003
+031	その竜との合流が、<br>当面の旅の目的…だったか	VO_waginao-c.waginao-c_sys_0004
+032	そうだ<br>リルには世界を学ぶ時間が必要だ<br>それを得る為には、かの竜の庇護が要る
+033	…そして私が、自由に動く為にもな	VO_zafilys_transform.zafilys_transform_battle_0021
+034	自由…？<br>どういう意味だ	VO_waginao-c.waginao-c_sys_0006
+035	いや、独り言だ。忘れろ
+036	…………
+037	（…ザフィリス）	VO_waginao-c.waginao-c_battle_1018
+038	（知らぬ<br>言っただろう<br>“このような過去はない”と）
+039	（…役に、立たない…！）	VO_waginao-c.waginao-c_battle_0019
+040	それは良いんだがな、ザフィリス	VO_kvense_kvense-b.kvense_sys_0031
+041	これ、陸地なくないか？<br>俺たちはいつまで、<br>アンタの背中に乗ってればいいんだ？	VO_kvense_kvense-b.kvense_sys_0001
+042	俺はいい加減、腰が痛いんだが	VO_kvense_kvense-b.kvense_sys_0030
+043	私も、この層に降りるのは初めてだ<br>聞いた限りでは、“島”という名の陸地が<br>点在しているという話だが	VO_zafilys_transform.zafilys_transform_battle_0019
+044	見渡す限り、青一色なんだが	VO_kvense_kvense-b.kvense_sys_0020
+045	そのようだな
+046	ざふぃ、つかれた？<br>りるがおんぶ代わる？
+047	それこそ冗談！<br>落ちて泣くのは俺たちなんだぜ!?	VO_kvense_kvense-b.kvense_sys_0010
+048	なあ、ワギナオ<br>アンタもそう思うだろう？	VO_kvense_kvense-b.kvense_sys_0001
+049	あ、ああ、そうだな	VO_waginao-c.waginao-c_sys_0004
+050	…どうした？　顔色が悪いぞ	VO_kvense_kvense-b.kvense_sys_0005
+051	いや、生身で風を切る<br>この感覚に慣れなくてな	VO_waginao-c.waginao-c_sys_0011
+052	ああ、まあそうか<br>竜や魔法使いでもなけりゃ、<br>空の旅なんて想像の中の話だからな	VO_kvense_kvense-b.kvense_sys_0037
+053	…そうだな
+054	（アドレイ<br>君の発明がどれだけ偉大だったか<br>今になって身に染みる思いだよ…）	VO_waginao-c.waginao-c_sys_0030
+055	竜の飛行はマギルを乱す	VO_kvense_kvense-b.kvense_sys_0031
+056	とにかく、早く陸地を見つけてくれ<br>アンタら竜の飛行はマギルをかき乱すから、<br>俺の魔法もまともに機能しないんだ	VO_kvense_kvense-b.kvense_sys_0001
+057	わかった。リル、速度を上げるぞ<br>今度は北のほうに――
+058	…！<br>ふたりとも、私から離れろ！	VO_zafilys_transform.zafilys_transform_battle_0001
+059	何…ッ!?	VO_waginao-c.waginao-c_sys_0026
+060	ぬぉっ!?	VO_kvense_kvense-b.kvense_sys_0026
+061	――高高度からの、ブレス…？<br>だがこの精度と威力は、<br>汎竜のものではない…
+062	ざふぃ！<br>ふたりはわたしがひろうね！	VO_uroboros-f.uroboros-f_sys_0001
+063	頼む…！
+064	――私に何用だ	VO_zafilys_transform.zafilys_transform_battle_0003
+065	用などない<br>ただ、未熟な七竜の末が路頭に迷う姿が<br>見えたのでな	VO_lindlaik.lindlaik_sys_0010
+066	ここで滅ぼしてやるのも同族の情けかと、<br>そう思っただけだ
+067	このマギル――お前はまさか、寛容の	VO_zafilys_transform.zafilys_transform_battle_0021
+068	？　ああ、今代と話すのはこれが初めてか<br>だが、我ら竜種にとって世代の違いなど<br>単なる記憶と性能の違いでしかあるまい	VO_lindlaik.lindlaik_sys_0005
+069	我らの方向性は、<br>生まれた時点で決している	VO_lindlaik.lindlaik_sys_0001
+070	水が低きに流れるように、<br>時が未来に続くように
+071	理解している<br>私は闘争の為の爪牙だと	VO_zafilys_transform.zafilys_transform_battle_0002
+072	ならばなぜ、反撃をためらう<br>あるいは、とは思ったが――	VO_lindlaik.lindlaik_sys_0002
+073	貴様もオピネウスや<br>メルビレイと同じように、<br>生まれ持った摂理に反する欠陥を得たか	VO_lindlaik.lindlaik_sys_0003
+074	…っ！<br>待て、私はお前と戦うつもりは――	VO_zafilys_transform.zafilys_transform_battle_0020
+075	その応答が、すでに過ちだと気づくがいい
+076	世界の歪みに狂った竜よ<br>せめて我が寛容の牙にて<br>――その機能を終えるがいい	VO_lindlaik.lindlaik_sys_0008
+077	ぐぅ…ッ!!	VO_zafilys_transform.zafilys_transform_battle_0028_b
+078	ぐっ、はぁ…！	VO_waginao-c.waginao-c_sys_0042
+079	…っ、ぶはぁ!?<br>しょっぱ!?　海水が口ン中に…！	VO_kvense_kvense-b.kvense_sys_0042
+080	リィィィィル！<br>間に合ってないぞ、お前！
+081	…ごめんなさい？	VO_uroboros-f.uroboros-f_sys_0035
+082	ったく、緩衝の魔法が<br>間に合ってなかったら死んでたな…	VO_kvense_kvense-b.kvense_battle_0019
+083	今襲ってきた、あれも竜か<br>ザフィリスともども、<br>凄まじい速度でカッ飛んでったなオイ	VO_kvense_kvense-b.kvense_sys_0031
+084	まあ、竜の戦闘に巻き込まれるよりは<br>マシ、か
+085	ざふぃ、追う？	VO_uroboros-f.uroboros-f_sys_0001
+086	お前、あんな速度で飛べるのか？	VO_kvense_kvense-b.kvense_sys_0003
+087	…ちょっと、むりかも	VO_uroboros-f.uroboros-f_sys_0031
+088	だったらナシだナシ。それより	VO_kvense_kvense-b.kvense_sys_0007
+089	…やっぱ、陸地は見えねえなぁ
+090	…ところで、クェンス<br>俺の分の足場は？	VO_waginao-c.waginao-c_sys_0001
+091	悪いが、この術式はひとり用だ<br>空間に足場作るの、<br>滅茶苦茶マギルの効率が悪いんだよ
+092	この先何があるかわからないのに、<br>無駄遣いはできねえって	VO_kvense_kvense-b.kvense_sys_0030
+093	じゃあ、俺には泳げと!?	VO_waginao-c.waginao-c_sys_0025
+094	…わたし、背負う？<br>がんばれば、いけるよ？	VO_uroboros-f.uroboros-f_sys_0011
+095	…子供にこんなことを言わせてるが？	VO_waginao-c.waginao-c_sys_0030
+096	言わせてるのはアンタもだろ!?<br>ったく、仕方ないな…	VO_kvense_kvense-b.kvense_sys_0039
+097	これで文句ねえだろ？　ったく	VO_kvense_kvense-b.kvense_battle_0001
+098	ああ、助かった…	VO_waginao-c.waginao-c_sys_0004
+099	しかし、本当にどうする？<br>このまま足場ごと移動して陸地を探すか？	VO_waginao-c.waginao-c_sys_0031
+100	何ふざけたこと言ってやがる<br>この空間にマギルを固定するだけでも<br>面倒なのに、これごと動く？	VO_kvense_kvense-b.kvense_sys_0005
+101	どれほどの距離かは知らんが、<br>陸につく前に俺が干からびるっての
+102	そう、なのか
+103	まあ、ザフィリスの話だと<br>ここにも人は住んでるって話だ	VO_kvense_kvense-b.kvense_sys_0031
+104	運よく船のひとつでも通りがかれば――	VO_kvense_kvense-b.kvense_sys_0007
+105	…………
+106	…………
+107	クェェェェェェェェ！
+108	…っ、<br>水棲生物が鳴き声あげるんじゃねえ!?	VO_kvense_kvense-b.kvense_battle_0019
+109	…みずの中でこえを出す生き物は<br>けっこういるよ？	VO_uroboros-f.uroboros-f_sys_0020
+110	あーそうですか！<br>俺の不勉強だよちくしょう！	VO_kvense_kvense-b.kvense_sys_0042
+111	囲まれている…？<br>クェンス、足場の拡大を！	VO_waginao-c.waginao-c_sys_0001
+112	ああ、わかってるよ<br>クソッ、またリソースが目減りする…！	VO_kvense_kvense-b.kvense_sys_0037
+113	わたしは？	VO_uroboros-f.uroboros-f_sys_0001
+114	お前は高い所に避難しとけ！<br>いけるか、ワギナオ！
+115	ああ、前衛は任せろ…！	VO_waginao-c.waginao-c_sys_0004

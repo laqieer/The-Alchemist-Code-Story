@@ -1,0 +1,142 @@
+001	我々に交戦の意思はない！<br>伺いたいことがあるゆえ、当主と話を<br>したいだけなのだ！	VO_rifa.rifa_sys_0001
+002	武器を下ろせ！<br>繰り返す、交戦の意思は我々にはない！
+003	ウオオオオオオオオオッ!!	VO_thiefm.thiefm_sys_0032
+004	…くっ<br>問答無用で襲いかかってくるとは…！	VO_rifa.rifa_battle_0019
+005	…何を、企んでいる…!?	VO_zin.zin_sys_0002
+006	殺せッ！　殺せーッ！<br>時は満ちた！　あとは為すのみよ！	VO_thiefm.thiefm_battle_0007
+007	押し通る…!!	VO_zin.zin_battle_0019
+008	ヨミはどこだ！<br>貴様らの狙いは!?	VO_zin.zin_sys_0002
+009	加減など、出来んぞ！	VO_zin.zin_battle_0001
+010	奴らの目的は“神鬼”だ！<br>近づかせるな!!<br>出来る限り、数多く当たれ！	VO_thiefm.thiefm_battle_0019
+011	死を恐れるな！<br>全ては柴閃光の為に！	VO_thiefm.thiefm_sys_0002
+012	邪魔をするなッ！	VO_zin.zin_battle_0019
+013	はああああああっ！	VO_zin.zin_sys_0032
+014	…………
+015	はぁっ、はぁっ、はぁっ…!!<br>ジン、無事…!?	VO_rifa.rifa_battle_0019
+016	…………
+017	…ジン？	VO_rifa.rifa_chara_1008
+018	…………
+019	…ヨミ！	VO_rifa.rifa_sys_1011
+020	…………！
+021	…………兄、さん	VO_yomi.yomi_sys_1011
+022	…ヨミ	VO_zin.zin_battle_1028
+023	兄さん…	VO_yomi.yomi_sys_0003
+024	ワタシ…考えてたの
+025	どうしたら<br>過去を乗り越えられるんだろうって
+026	その為に、ワタシは、兄さんと…
+027	兄さんと…
+028	あ、れ…<br>兄さんと、兄さンと…	VO_yomi.yomi_sys_0018
+029	ヨ、ヨミ…!?	VO_zin.zin_sys_0027
+030	兄サんと、アアアアッ…！<br>会わナキャって、それかラ、ソレカら…	VO_yomi.yomi_sys_0042
+031	鬼の穢れが…吹き出ている…!?	VO_zin.zin_sys_0012
+032	ニイサント、会ッテ、そレカラ…	VO_yomi.yomi_battle_0024
+033	殺ス、殺シテヤラなキゃ!!<br>ウアアアアアッ!?　アアアアッ!!	VO_yomi.yomi_battle_0023
+034	ヨミ！<br>…お前は真実を知っているのか!?<br>お前を利用しようとしているのは…	VO_rifa.rifa_battle_0019
+035	ジンではない!!<br>ここにいる、柴閃光の者たちであると！
+036	“神鬼”を利用しようとしているのは<br>この者たちだ！　籠紫の者と手を組み<br>“神鬼”の力でワダツミを再興しようと…！
+037	ヨミ様<br>耳を貸してはなりませぬぞぉ	VO_mob-saga_omale.mog-saga_omale_sys_0042
+038	ウッ、アアアッ…爺…!?	VO_yomi.yomi_sys_0042
+039	私は、柴閃光の当主に<br>真偽を確かめにきた！	VO_rifa.rifa_sys_0001
+040	…それだけなのに<br>こうして襲ってきた…<br>その意味がわかるだろう、ヨミ！
+041	その意味が、そなたらにはわかるのかね	VO_mob-saga_omale.mog-saga_omale_sys_0016
+042	爺…ド、どうイウこトナの…？	VO_yomi.yomi_sys_0021
+043	全ては供物です	VO_mob-saga_omale.mog-saga_omale_sys_0010
+044	ヨミ様はもはや<br>後戻り出来ぬ所まで辿り着いた
+045	“鬼鎮めの儀”で<br>注ぎ込まれ続けたチャクラにより<br>ヨミ様の憎悪・穢れは膨らみ切った
+046	あとは、外的なスイッチさえあらば	VO_mob-saga_omale.mog-saga_omale_sys_0031
+047	外的な…!?	VO_rifa.rifa_sys_0025
+048	貴様らが斬った死体の山<br>それらが発する憎しみ・恐怖の念<br>穢れがこの屋敷には充満している	VO_mob-saga_omale.mog-saga_omale_sys_0004
+049	全ては供物…<br>この私の命すら	VO_mob-saga_omale.mog-saga_omale_sys_0010
+050	ヒヒヒッ	VO_mob-saga_omale.mog-saga_omale_sys_0023
+051	じ、爺…………ッ!?	VO_yomi.yomi_sys_0027
+052	自らの刀で、自害を…!?	VO_rifa.rifa_sys_0028
+053	ゲホッ…ハハハァァ…！	VO_mob-saga_omale.mog-saga_omale_sys_0043
+054	…私が仕えていたのは元々ヨミ様ではない<br>幼き頃よりソレに宿された神鬼、その穢れ<br>乱れきった国土を支配する圧倒的な力…	VO_mob-saga_omale.mog-saga_omale_sys_0010
+055	国の為に、神鬼顕現の為に<br>老い先短いこの命が捧げられるのならば<br>本望よ…………！
+056	アアアッ……ウワアアアアッ…!?	VO_yomi.yomi_sys_0028
+057	さあ…神鬼よ………<br>この老いぼれの命を持っていけ…	VO_mob-saga_omale.mog-saga_omale_sys_0023
+058	グッ…………アアアアァァ…………	VO_mob-saga_omale.mog-saga_omale_sys_0043
+059	ああッ、ワタシっ、ワタシはッ…!?	VO_yomi.yomi_battle_0024
+060	フ…ハハハハハハハハッ!!<br>礼を言うぞ、ジン！　お前たちのおかげで<br>“神鬼”の顕現はここに為される!!	VO_knightm.knightm_sys_0023
+061	お主…!!!	VO_zin.zin_sys_0029
+062	これでワダツミは再び蘇る！<br>最強の国家としてな!!　今まで受けた<br>屈辱を、全て晴らしてくれるわ!!	VO_knightm.knightm_sys_0010
+063	そして…このまま“神鬼”の力をもって<br>世界中を制覇するのだ…ワダツミが！<br>そしてこの私が!!
+064	さあ“ミカボシ”よ…<br>忌まわしき鬼の力が秘められし石よ！<br>“神鬼”に今こそ力を…!!	VO_knightm.knightm_sys_0007
+065	…ジン、兄さん…………!!	VO_yomi.yomi_sys_0018
+066	ヨミ!!
+067	ヨミよ！　貴様の父、家族はジンが殺した！<br>貴様の世話をしていた爺も、柴閃光の<br>民たちも！　ジンによって死に至った！	VO_knightm.knightm_sys_0010
+068	ち、チガうっ、チガウウウッ!!	VO_yomi.yomi_battle_0019
+069	死者の無念が流れ込むだろう！<br>過去の憎しみが思い出されるだろう！<br>国中の穢れが注がれるだろう！	VO_knightm.knightm_sys_0007
+070	アグッッ!!　アアアアアッ!!	VO_yomi.yomi_battle_0026
+071	“ミカボシ”を通して！
+072	ヨミっ!?	VO_rifa.rifa_sys_0028
+073	ヨミィィィィ!!	VO_zin.zin_sys_0027
+074	リーファ、兄さンッ…!!<br>ヤだッ！　ヤダぁァァ!!<br>ワタシッ、せっカクッ…!!	VO_yomi.yomi_sys_0018
+075	グオアアアアアアアアアッ!!!	VO_yomi.yomi_battle_0025
+076	…ヨミ…？	VO_rifa.rifa_sys_0025
+077	…くそ…………！<br>…………!?	VO_zin.zin_sys_0029
+078	…………
+079	…グ…………バ…バカな…………<br>どう…して…	VO_knightm.knightm_battle_0023
+080	…ウオオオオオオオオオオッ!!!	VO_yomi.yomi_battle_0010
+081	…くっ…!!!<br>ミカボシを丸呑みに…っ!!？	VO_zin.zin_battle_0019
+082	…動ける兵は、負傷した者を助け<br>一時撤退しろ！　できるだけ遠くへだ！	VO_rifa.rifa_sys_0001
+083	しかし…将軍は!?	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+084	…私は、ここに残る<br>顛末を見届ける義務があるのだ<br>…未来へ踏み出す為にな…行け!!	VO_rifa.rifa_sys_0004
+085	…お主も行け、巻き込まれるぞ	VO_zin.zin_sys_0002
+086	…そういうわけにはいかない	VO_rifa.rifa_battle_0019
+087	…グアアアアアアッ!!
+088	ぐうっ…!?	VO_zin.zin_battle_0022
+089	なんて力だ…!!<br>このままでは…!!	VO_rifa.rifa_sys_0021
+090	…ハアアアアアッ!!	VO_zin.zin_sys_0032
+091	…!!<br>やはり、スメラギでなければ…!!<br>…!?	VO_zin.zin_sys_0029
+092	…ウオオオオオオオオオッ!!
+093	ガッ!!<br>ぐ…………ヨミ…!!	VO_zin.zin_sys_0043
+094	ぐっ…!!<br>リーファ、お前は逃げろ<br>これは…俺たち兄妹の問題だ…!!	VO_zin.zin_battle_0019
+095	そんなわけに…いくか…!!	VO_rifa.rifa_battle_0019
+096	…グオオオオオオオオオッ!!
+097	───自分の身は、<br>自分で守りなよ？　ジン	VO_ren.ren_sys_0001
+098	…グウウウッ…!!
+099	レン!!
+100	お待たせ♪	VO_ren.ren_sys_0007
+101	スメラギを、見つけ出したか…！	VO_zin.zin_sys_0009
+102	…どう？　ジン<br>そろそろ、本当に手を貸してほしくなった？	VO_ren.ren_sys_0010
+103	何？	VO_zin.zin_sys_0006
+104	手を借りようと言いながら<br>その両手で全てを抱えて<br>その背に全てを背負い込んで…	VO_ren.ren_sys_0030
+105	それじゃあ、貸せる手も繋げないよ<br>背中も任せられないよ
+106	…………
+107	…逃げ道は、まだあるの？	VO_ren.ren_sys_0001
+108	…もう、全て塞がったようだ	VO_zin.zin_sys_0039
+109	それじゃあ	VO_ren.ren_sys_0044
+110	レン	VO_zin.zin_sys_0002
+111	うん	VO_ren.ren_sys_0005
+112	…………手を、引いてくれ	VO_zin.zin_sys_0041
+113	…足、引っ張らないでよね	VO_ren.ren_sys_0037
+114	俺の、わがままなんだぞ？	VO_zin.zin_sys_0002
+115	妹に殺されようっていうんだよね？	VO_ren.ren_sys_0005
+116	…最高にキテるじゃん	VO_ren.ren_sys_0007
+117	…ハッ	VO_zin.zin_sys_0010
+118	お主もな
+119	やはり、そういうつもりなのだな	VO_rifa.rifa_sys_0030
+120	顔に書いてあったか？	VO_zin.zin_sys_0005
+121	死んでもらっては困るな<br>友の兄に	VO_rifa.rifa_sys_0010
+122	…力を貸してもらえるか	VO_zin.zin_sys_0004
+123	わかった…	VO_rifa.rifa_sys_0037
+124	背中を任せてもらおうか
+125	グウウッ!!<br>グオオオオオオッ!!
+126	やっぱり不完全なスメラギじゃあ<br>不意打ちでもこの程度か	VO_ren.ren_sys_0029
+127	スメラギに息吹を吹き込むのは<br>その…	VO_zin.zin_sys_0026
+128	わかってる	VO_ren.ren_sys_0004
+129	わ、わからないぞ！	VO_rifa.rifa_sys_0018
+130	鬼の角より出でしニつの力…<br>“ミカボシ”は鬼の力の“籠”となり<br>“スメラギ”は“黒”き刃で鬼を祓う
+131	スメラギに息吹を吹き込むは…黒斗一門<br>当主の家系の血を吸わせることで<br>目を覚ます
+132	その剣のみでは、本来の力を発揮しないと…	VO_rifa.rifa_sys_0045
+133	ミカボシの悪用<br>暴走の際のカウンターこそが<br>このスメラギ	VO_ren.ren_sys_0005
+134	その為、王家なき今は籠紫一門で<br>保管・利用されてきた<br>だけど…
+135	いずれ世の穢れが国中を満たす時<br>より強大な鬼祓いの力が必要になる
+136	来るべき時に備え<br>スメラギに力を与える術が考案された<br>それが、黒斗一門の血による解放術
+137	かつての鬼の角の力を覚醒させる…<br>力の一極集中を避ける為<br>黒斗一門に与えられた定め…！
+138	グッ…！	VO_ren.ren_sys_0043
+139	レン…自らの血を、スメラギに…！	VO_zin.zin_sys_0027
+140	…定めや掟に従うのは<br>面白くなかったけどね	VO_ren.ren_sys_0030
+141	なんでかな<br>今は少し、面白いよ	VO_ren.ren_sys_0010
+142	さ、鬼退治だ	VO_ren.ren_battle_0010

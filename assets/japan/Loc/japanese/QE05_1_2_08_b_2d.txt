@@ -1,0 +1,55 @@
+001	くっ、この女強いぞ!?	VO_gluttony-y.gluttony-y_sys_0042
+002	そいつは闘技場の元チャンプだ！<br>まともにやり合おうとするな！<br>鎧と盾で壁を作って追いこむ――ぶべっ!?	VO_gluttony-y.gluttony-y_sys_0012
+003	こっちだ、テオナ！	VO_kamui-b.kamui-b_sys_0002
+004	…！　カムイさん!?<br>助かります…っ	VO_theona.theona_sys_0025
+005	ま、まだ仲間が…<br>くそっ、応援はまだかーっ！	VO_gluttony-y.gluttony-y_sys_0025
+006	…ここまで来れば、追手は来れないだろう	VO_kamui-b.kamui-b_sys_0030
+007	た、助かりました…	VO_theona.theona_sys_0022
+008	それはいいが…なぜあんな所に？	VO_kamui-b.kamui-b_sys_0004
+009	はい。セクリディス将軍が南部に現れたと<br>いう情報があって、それをたしかめに…	VO_theona.theona_sys_0004
+010	まあ、それを確認してすぐに<br>見つかっちゃいましたけど	VO_theona.theona_sys_0011
+011	こういっちゃ悪いが、アンタ<br>そういうのに向いてないだろ…	VO_ishido.ishido_sys_0030
+012	ええ、私もそう言ったのですが…<br>ワギナオさんがそれはそれで意味がある、と	VO_theona.theona_sys_0005
+013	…それ、囮にされたんじゃないか？	VO_ishido.ishido_sys_0016
+014	えっ、まさかそんな…<br>あれ？　元々そういう作戦だった、かな…？	VO_theona.theona_sys_0025
+015	…………
+016	そういえば、そちらの方は？	VO_theona.theona_sys_0002
+017	友人だ	VO_kamui-b.kamui-b_sys_0004
+018	イシドだ。よろしくな、<br>王都闘技場初の女チャンピオンさん	VO_ishido.ishido_sys_0007
+019	あ、ご存知でしたか…<br>テオナです。よろしくお願いしますね	VO_theona.theona_chara_1006
+020	しかし、君がここにいるということは…	VO_kamui-b.kamui-b_sys_0031
+021	はい、レオルダス将軍も近くの砦に<br>布陣しています	VO_theona.theona_sys_0004
+022	ワギナオさんとは少し前に別れましたが、<br>聖教騎士の方が何人か、<br>手を貸してくれています
+023	…つまり、ここが戦場になるのか？	VO_ishido.ishido_sys_0002
+024	わかりません<br>けれど、将軍はその可能性が高いと<br>みているようです	VO_theona.theona_sys_0022
+025	今も、付近の村々に裏で避難を<br>呼びかけていまして
+026	…テオナ様！　ご無事ですか!?
+027	あ、はい！　私は大丈夫です！	VO_theona.theona_chara_1006
+028	すみません！<br>これから本隊と合流しますので、<br>私はこれで！	VO_theona.theona_sys_0035
+029	なんともきな臭い話だな…<br>カムイ、頼めるか？	VO_ishido.ishido_sys_0022
+030	わかっている<br>この件は俺から族長の耳に入れておこう	VO_kamui-b.kamui-b_sys_0004
+031	頼む。俺は戦士団の者を呼んで<br>もうしばらく警戒を続けてみる	VO_ishido.ishido_sys_0041
+032	――族長、失礼いたします	VO_kamui-b.kamui-b_sys_0003
+033	カムイか。構わん、入れ	VO_iakof.iakof_sys_0004
+034	はい――	VO_kamui-b.kamui-b_sys_0006
+035	して、どうした<br>お主がなんの由もなく<br>そう息を乱すことはあるまい	VO_iakof.iakof_sys_0001
+036	はい、実は――	VO_kamui-b.kamui-b_sys_0006
+037	南北のグラトニーの兵が、<br>里の周囲を探っておる、か	VO_iakof.iakof_sys_0031
+038	蜃気の結界は健在の為、<br>我らの里が見つかったわけではありません<br>しかし、この行動はあまりに不可解です	VO_kamui-b.kamui-b_sys_0031
+039	…ちょうど昨夜、<br>星詠みのひとりが<br>セフィロンより啓示を受けた	VO_iakof.iakof_sys_0004
+040	母なる大樹が…？<br>一体どのような…	VO_kamui-b.kamui-b_sys_0037
+041	これより四半世紀も経たぬうちに、<br>聖石が再び歴史の舞台に現れる、と	VO_iakof.iakof_sys_0037
+042	それは…！<br>しかし、七大国同盟の縛りがあります<br>この約定を破るほどの理由など	VO_kamui-b.kamui-b_sys_0027
+043	グラトニー王ナロールの治世に、<br>陰りが生じ始めているのは知っていよう	VO_iakof.iakof_sys_0022
+044	…はい<br>南北の対立は激化し、このセフィラの里にも<br>荒廃の余波は届いております	VO_kamui-b.kamui-b_sys_0006
+045	騒乱によって土地は枯れ、緑は衰え、<br>里の外には疫病がはびこっていると聞く	VO_iakof.iakof_sys_0037
+046	もしここで彼の王が倒れれば、<br>新たな王が新たな繁栄と権勢の為に、<br>力を求めて禁を破ることも大いに考えられる
+047	聖石は七大国の王権の象徴<br>ベルゼバブにも相応の力があると誤解し、<br>その呪いを解き放つやもしれぬ	VO_iakof.iakof_sys_0031
+048	結果、禁は破られ――<br>暴食の力が再びこの大地を穢すことになる
+049	来るべきベルゼバブの解放に、<br>我らは備えねばならぬ
+050	お主の守り人としての修練、<br>少しばかり急ぐ必要がありそうだ
+051	…承知いたしました	VO_kamui-b.kamui-b_sys_0006
+052	王都の兵については、<br>こちらでナロール王に裏を取る<br>イシドにもそう伝えよ	VO_iakof.iakof_sys_0001
+053	はい…	VO_kamui-b.kamui-b_sys_0006
+054	（グラトニー軍の妙な動きに、<br>星詠みが授かったという凶兆の啓示…）
+055	一体、なにが起ころうとしている…？	VO_kamui-b.kamui-b_sys_0020

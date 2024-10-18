@@ -1,0 +1,55 @@
+﻿001	ハァ…ハァ…！<br>剣を降ろせ！　話を聞くんだ！	VO_logi.logi_battle_0023
+002	ふざけるな…！<br>我らの叫びに耳を傾けなかったのは、<br>貴様らエンヴィリアだろう！	VO_sabaleta.sabaleta_sys_0013
+003	でも…このままじゃ、何も変わらないわ！<br>これからも…ずっと、<br>ずっとこのままなのよ!?	VO_agasa.agasa_sys_0018
+004	ずっと憎しみ合い、<br>悲劇が繰り返されることを<br>望むというのか!?
+005	誰かが立ち止まり、どこかで変えなきゃ…<br>どこまでも繰り返されていくんだぞ!?
+006	共に、平和な世を求めているはずなのに…<br>同じ理想を抱いているはずなのに…！
+007	過去の憎しみの為に、<br>民達を悲劇の未来へ導きたいのか!?	VO_logi.logi_battle_0021
+008	…！	VO_sabaleta.sabaleta_sys_0042
+009	ロギ…アガサ…	VO_zeke.zeke_sys_0018
+010	お願い…！<br>私達の話を聞いて…!!	VO_agasa.agasa_sys_0018
+011	…どんなに想いを紡ごうと<br>…踏みにじられた過去が消えることはない
+012	輝かしき未来を無惨に打ち消された、<br>先人達の怨念を捨て去る事など出来ん…！
+013	俺は…俺は…復讐の使命に、<br>身を投じねばならんのだ…!!	VO_sabaleta.sabaleta_battle_0006
+014	サバレタは手にした賢者の石を<br>魔人の身体にめり込ませた
+015	…！<br>ダ、ダメッ…！	VO_agasa.agasa_sys_0022
+016	やれ、魔人！<br>ラースの悲劇の元凶を…<br>ここで断ち切れぇぇーーっ!!	VO_sabaleta.sabaleta_battle_0007
+017	魔人が…!!	VO_logi.logi_sys_0027
+018	…ォ…ォオオオ…<br>オォオォォォォォッ!!	VO_Mmajin.Mmajin_battle_0002
+019	こ、これが…魔人の力！	VO_knightm.knightm_sys_0018
+020	こ、今度こそ終わりだ！	VO_thiefm.thiefm_sys_0018
+021	サバレタ！<br>どうして…!?	VO_agasa.agasa_sys_0022
+022	もはや、後戻りは出来ん…	VO_sabaleta.sabaleta_sys_0010
+023	俺は…錬金術の愚かしさを…<br>世界に見せしめねばならない…
+024	錬金術に蹂躙され散っていった…<br>何千万という尊き<br>ラースの命に捧げる為に…!!
+025	サバレタ…！	VO_logi.logi_sys_0027
+026	それでも…我らは止めねばならん！<br>悲しみの螺旋を…これ以上、<br>繰り返させるわけにはいかんのだ!!	VO_zeke.zeke_battle_0008
+027	ウォォォォォォーッ!!!	VO_zeke.zeke_battle_0009
+028	父さん…!!	VO_logi.logi_sys_0027
+029	クッ…<br>まさか、魔人相手にここまで…！<br>…だが…！	VO_sabaleta.sabaleta_battle_0022
+030	キャアッ!!	VO_agasa.agasa_sys_0028
+031	アガサッ!!	VO_logi.logi_sys_0025
+032	動くな!!<br>動けば、娘の命は無いぞ!!	VO_sabaleta.sabaleta_sys_0014
+033	クッ…！	VO_zeke.zeke_battle_0019
+034	残念だが、これが結末だ<br>お前らの理想は…所詮、<br>夢物語でしか無いんだよ
+035	…ごめんなさい…	VO_agasa.agasa_sys_0022
+036	何…？	VO_sabaleta.sabaleta_sys_0012
+037	あなた達を…<br>そこまで追い込んでしまったのは、<br>私達…！	VO_agasa.agasa_sys_0018
+038	それなのに、<br>あなた達の心を<br>救うことも出来ないなんて…！
+039	何だと…!?	VO_sabaleta.sabaleta_sys_0016
+040	…もう、どうあっても…<br>私達の願いは…あなたには届かないの…？	VO_agasa.agasa_sys_0019
+041	…お前…	VO_sabaleta.sabaleta_sys_0031
+042	オォオォォォォォッ!!	VO_Mmajin.Mmajin_battle_0002
+043	!?<br>チッ…！　よけろ!!	VO_sabaleta.sabaleta_battle_0020
+044	え…？<br>…キャアッ!!	VO_agasa.agasa_sys_0026
+045	ガハッ…!!	VO_sabaleta.sabaleta_battle_0026
+046	サバレタ…!!	VO_agasa.agasa_sys_0025
+047	アガサ、大丈夫か!?<br>なぜ、サバレタに攻撃を…!?	VO_logi.logi_sys_0027
+048	暴走…!?<br>魔人の覚醒は、まだ不完全なのか!?
+049	グ…！<br>そ…それはありえん！	VO_sabaleta.sabaleta_battle_0020
+050	ラースの憤怒の結晶である賢者の石は、<br>完全な物だったはずだ!!
+051	オォオォォォォォッ!!	VO_Mmajin.Mmajin_battle_0002
+052	うあぁぁぁっ…！	VO_knightm.knightm_battle_0025
+053	こ、殺される…！	VO_thiefm.thiefm_battle_0028_a
+054	…クソ…なぜだ!!<br>…クソォォォォォッ!!	VO_sabaleta.sabaleta_sys_0022
+055	こ…こんな奴相手に…<br>ディオスはどうやって勝ったんだ…!?<br>僕にも…もっと力があれば…！	VO_logi.logi_battle_0021

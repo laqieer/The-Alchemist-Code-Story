@@ -1,0 +1,195 @@
+﻿001	…………
+002	…………
+003	…あー！　もう、なんだよ!?	VO_ila.ila_sys_0016
+004	ひっ!?	VO_mea.mea_battle_0020
+005	さっきからオレの後ろくっついて<br>ウロチョロしやがって！	VO_ila.ila_sys_0030
+006	何か言いたいことがあるんだったら<br>はっきり言え！　チビ助!!	VO_ila.ila_sys_0001
+007	うっ…うぅ…あ、あのぉ…えっと…	VO_mea.mea_battle_0026
+008	ああっ!!　もう、イライラするな！<br>そういうはっきりしない態度は<br>気に入らん!!	VO_ila.ila_sys_0031
+009	た、助けてくれて<br>ありがとうございました!!	VO_mea.mea_battle_1018
+010	へ…？	VO_ila.ila_sys_0006
+011	ず、ずっと…お礼、言えなかったから…	VO_mea.mea_sys_0010
+012	た、助けたくて助けようと<br>思ったわけじゃない！	VO_ila.ila_sys_0025
+013	オレは…あのゲス野郎が<br>気に入らなかったんだ…	VO_ila.ila_sys_0007
+014	でも…どうしても、お礼が言いたくて…	VO_mea.mea_battle_1018
+015	…お前<br>本当に帰らなくていいのか？<br>あるんだろ、帰る場所…	VO_ila.ila_sys_0001
+016	…帰りたく…ない	VO_mea.mea_sys_0039
+017	なんでだよ!?	VO_ila.ila_sys_0012
+018	だって！　わたしの力を<br>取ろうとする人たちがいるなら<br>…おじいちゃんとおばあちゃんに迷惑が…	VO_mea.mea_battle_0019
+019	は…？<br>なんで…	VO_ila.ila_sys_0006
+020	…………<br>ウッディ…	VO_mea.mea_chara_1003
+021	ぬいぐるみが、動いたっ!?	VO_ila.ila_sys_0026
+022	それから…<br>うさぎさんたち…出てきて	VO_mea.mea_sys_1006
+023	はー…	VO_ila.ila_sys_0022
+024	わたし、この力を持ってるから…
+025	お前も…	VO_ila.ila_sys_0030
+026	わぁっ…	VO_mea.mea_sys_0024
+027	おんなじなのか…
+028	…すごい、きれい…	VO_mea.mea_sys_0044
+029	えっ…!?	VO_ila.ila_sys_0006
+030	イーラおねえちゃん！<br>今のすごくきれいだね！<br>ねえねえ、もう一回見せて！	VO_mea.mea_sys_0008
+031	き、きれい…？	VO_ila.ila_sys_0025
+032	うん！<br>ウッディももう一回みたいよね!?	VO_mea.mea_sys_1006
+033	ちょ、ちょっと待てよっ!?<br>あ、あれは見世物じゃない！	VO_ila.ila_sys_0021
+034	ええー!?<br>すっごくきれいだったのに…	VO_mea.mea_sys_0022
+035	チッ…！<br>もう知らん！	VO_ila.ila_sys_0016
+036	あ、待ってよ、お姉ちゃん！	VO_mea.mea_battle_1018
+037	ついてくんな！	VO_ila.ila_sys_0001
+038	今戻った	VO_zaharu.zaharu_sys_0002
+039	…戻りました
+040	おかえりお姉ちゃん！	VO_syrma.syrma_sys_0008
+041	ご無事でなにより…<br>して、収穫は…	VO_niggle.niggle_sys_0005
+042	外れだ	VO_zaharu.zaharu_sys_0018
+043	…………
+044	むぅ…<br>申し訳ありませんザハル様…	VO_niggle.niggle_sys_0029
+045	謝罪は無用<br>こうなれば虱潰しだ<br>噂があれば、徹底的に調べろ	VO_zaharu.zaharu_chara_1001
+046	とにかく、大量の賢者の石がいる<br>手分けをして探し出せ
+047	承知いたしました	VO_niggle.niggle_sys_0037
+048	レティシアはどこだ	VO_zaharu.zaharu_sys_0002
+049	地下に…	VO_niggle.niggle_sys_0004
+050	…………
+051	どうしたのお姉ちゃん？<br>元気ないね…	VO_syrma.syrma_sys_0003
+052	…失敗、してしまいました	VO_spica.spica_sys_0022
+053	さっきザハル様が『外れ』って<br>言ってたこと？	VO_syrma.syrma_sys_0031
+054	はい…<br>その上…色々あって…	VO_spica.spica_battle_0019
+055	そっか…<br>あれ？　なに持ってるの？<br>リス…の置物？　尻尾が欠けてるじゃない	VO_syrma.syrma_sys_0005
+056	ザハル様が…くれました…	VO_spica.spica_sys_0038
+057	え!?　ザハル様が!?<br>お姉ちゃん…凄いじゃない！	VO_syrma.syrma_sys_0025
+058	はい…<br>…でも	VO_spica.spica_sys_0022
+059	？
+060	なんだか…ザハル様が<br>どんどん遠いところに<br>行ってしまう気がして…	VO_spica.spica_sys_0018
+061	それは…仕方がないよ<br>今ある世界の仕組みを壊して<br>新しい世界に変えようって言うんだから	VO_syrma.syrma_sys_0031
+062	それには、ちょっと強引なことも必要だし<br>悪いこともしなくちゃいけない…<br>ザハル様が言うように
+063	それくらいの覚悟がないと<br>今の世界を壊すなんてできないよ	VO_syrma.syrma_sys_0030
+064	それは…わかってるんです…<br>頭では理解しているけど…でも…	VO_spica.spica_sys_0037
+065	お姉ちゃん…<br>もしも、お姉ちゃんがシャドウメサイヤを<br>出ていくのなら、アタシも一緒だよ	VO_syrma.syrma_sys_0003
+066	え…<br>わたしは…出ていくなんて…	VO_spica.spica_chara_1002
+067	お姉ちゃんのことはアタシが守る！<br>だから、安心してお姉ちゃんは、<br>ザハル様の為に頑張って！	VO_syrma.syrma_sys_0007
+068	シルマ…	VO_spica.spica_sys_1011
+069	お姉ちゃんは、大好きなザハル様の<br>お役に立つ為に覚悟を決めて<br>ここに来たんでしょ？	VO_syrma.syrma_sys_0003
+070	きっと、ザハル様が作る未来は<br>今よりもずっといい世界だよ！<br>だから、一緒に頑張ろう！
+071	…はい<br>そうですね	VO_spica.spica_sys_0004
+072	…ダメだったようですね	VO_laetitia.laetitia_sys_0030
+073	ああ…<br>こちらはどうだ	VO_zaharu.zaharu_sys_0004
+074	…………
+075	やはり、まだ足りぬか…	VO_zaharu.zaharu_sys_0018
+076	“闇の聖石”を作り出すには<br>途方もない数の賢者の石とアルケミィが<br>必要です	VO_laetitia.laetitia_sys_0004
+077	この計画…何年かかることか…<br>ともすれば…私たち、エルフでさえも…	VO_laetitia.laetitia_sys_0018
+078	…そうか<br>となると…やはり現実的なのは<br>“闇との契約”…	VO_zaharu.zaharu_sys_0022
+079	しかしながら“闇との契約”により<br>力を得ても、大きな代償が伴います	VO_laetitia.laetitia_sys_0030
+080	私たちの目指す<br>恒久的な力にはなりえません
+081	ああ<br>賢者の石の収集は続行する<br>“闇の聖石”精製も続行だ	VO_zaharu.zaharu_sys_0004
+082	御意	VO_laetitia.laetitia_sys_0005
+083	新たなる戦力も必要となるな…<br>ニグルに探させよう	VO_zaharu.zaharu_sys_0031
+084	メアは、どうなされますか	VO_laetitia.laetitia_sys_0002
+085	…どうもしない<br>本人の意志に任せる	VO_zaharu.zaharu_chara_1001
+086	しかし、ここで過ごすことで<br>あの少女もまた<br>我らの意志を育む種子となる
+087	今はこのままで良い
+088	…………
+089	なんだ？	VO_zaharu.zaharu_sys_0006
+090	…いえ<br>少し、お疲れのご様子
+091	大事無い	VO_zaharu.zaharu_sys_0010
+092	いいのよ…ザハル君	VO_laetitia.laetitia_sys_0037
+093	…………
+094	まだその時ではないと言ったはずです<br>姉さん…<br>貴方にはいてもらわねば困る	VO_zaharu.zaharu_sys_0027
+095	そうではないわ	VO_laetitia.laetitia_sys_0022
+096	…？	VO_zaharu.zaharu_sys_0025
+097	血を、飲まれてください<br>私の…ダークエルフの血を…	VO_laetitia.laetitia_sys_0001
+098	ハーフエルフの俺の身を<br>案じているのか…	VO_zaharu.zaharu_sys_0007
+099	ダークエルフとなったハーフエルフに<br>どんな制約が起こるのかわかりません…<br>今はこのくらいしかできませんから	VO_laetitia.laetitia_sys_0004
+100	…ああ<br>ありがとう、レティシアお姉さん	VO_zaharu.zaharu_sys_0004
+101	…………ああっ
+102	えっ…えっ…	VO_spica.spica_sys_0025
+103	…………
+104	レティシア…<br>スピカが飛び出して行ったが<br>何かあったのか？	VO_niggle.niggle_sys_0001
+105	……さあ？<br>用はそれだけ？	VO_laetitia.laetitia_sys_0030
+106	いや、不本意ながら我が弟子より<br>話があるそうだ	VO_niggle.niggle_sys_0016
+107	…………
+108	レティシア様…<br>メアをどうする気だ	VO_ila.ila_sys_0001
+109	…どうもしません	VO_laetitia.laetitia_sys_0030
+110	メアを、家に帰してやってくれ	VO_ila.ila_sys_0041
+111	本人が帰りたがっているの？	VO_laetitia.laetitia_sys_0025
+112	…帰りたくないって、言ってる	VO_ila.ila_battle_0019
+113	ではダメです	VO_laetitia.laetitia_sys_0016
+114	どうしてだ!?	VO_ila.ila_sys_0006
+115	ザハル様のご意思です	VO_laetitia.laetitia_sys_0004
+116	…!?
+117	アンタも！<br>あの研究者みたいに、<br>メアを実験台にする気か!?	VO_ila.ila_sys_0017
+118	違います	VO_laetitia.laetitia_sys_0030
+119	でも、あいつがやってた研究を<br>続けてるんだろ!?	VO_ila.ila_sys_0012
+120	あの男の研究方法が間違っているのです<br>ザハル様は、あのような非道な行いは<br>いたしません	VO_laetitia.laetitia_sys_0029
+121	でも…！	VO_ila.ila_battle_0019
+122	イーラ
+123	…!?
+124	ザハル様のご意思が<br>信じられないのですか	VO_laetitia.laetitia_sys_0001
+125	ち、違う…<br>信じてる…	VO_ila.ila_sys_0020
+126	ならば、言うとおりになさい	VO_laetitia.laetitia_sys_0016
+127	…………
+128	…イーラよ<br>大丈夫だ。メアのことは心配するな<br>ザハル様には、私からも言っておく	VO_niggle.niggle_sys_0016
+129	レティシアの事は気にするな…<br>あの者は、ザハル様のことしか頭にない…
+130	ザハル様のことは、アタシも好きだ<br>オレを救ってくれた…だから、力になりたい<br>でもあの女は…気に入らない	VO_ila.ila_sys_0017
+131	ザハル様に申し上げます！<br>魔宵の森にて、自然物と思われる<br>大型の賢者の石が発見されたとのこと！
+132	…そうか	VO_zaharu.zaharu_sys_0010
+133	ザハル様、私が参りましょう	VO_niggle.niggle_sys_0010
+134	いや、俺も行く<br>イーラとスピカ、シルマも同行せよ	VO_zaharu.zaharu_chara_1001
+135	それだけの賢者の石であれば、聖教会が<br>すでに目をつけている可能性が高い<br>行くぞ
+136	あ、あのっ、ザハル様！	VO_ila.ila_sys_1034
+137	どうした、イーラ	VO_zaharu.zaharu_sys_0006
+138	あの…レティシア…様は
+139	留守を任せる	VO_zaharu.zaharu_sys_0004
+140	じゃ、じゃあ…、オレも…！	VO_ila.ila_battle_0019
+141	イーラ<br>彼女を信じよ	VO_zaharu.zaharu_sys_0031
+142	っ!?
+143	良いな	VO_zaharu.zaharu_sys_0007
+144	わ、わかりました…
+145	イーラよ…<br>俺たちを信じろ<br>お前の友を傷つけはしない	VO_zaharu.zaharu_sys_0002
+146	と、友って…！<br>そんなんじゃありません！	VO_ila.ila_sys_0025
+147	フッ…<br>イーラよ、それほどメアが心配なら<br>早く事を済ませて戻るとしよう	VO_zaharu.zaharu_sys_0007
+148	は、はいっ！
+149	行こう	VO_zaharu.zaharu_battle_0010
+150	…この深い木々の中から<br>賢者の石を探すのか…	VO_niggle.niggle_sys_0016
+151	案ずるなニグル…<br>報告どおり大型の賢者の石であるなら<br>かなりのアルケミィを放っているはず	VO_zaharu.zaharu_sys_0010
+152	イーラよ	VO_zaharu.zaharu_sys_0002
+153	なんです、ザハル様	VO_ila.ila_sys_1034
+154	お前のアルケミィを開放せよ	VO_zaharu.zaharu_sys_0031
+155	え？<br>いいんですか？	VO_ila.ila_sys_0006
+156	かまわぬ	VO_zaharu.zaharu_sys_0004
+157	じゃあ…	VO_ila.ila_sys_1034
+158	どうだ？　何か感じないか？	VO_zaharu.zaharu_sys_0002
+159	…………<br>あっち…なにか、呼んでる気がする…
+160	そうか。もうよいぞ	VO_zaharu.zaharu_sys_0031
+161	なるほど…共鳴か…	VO_niggle.niggle_sys_0031
+162	そうだ…小型の賢者の石では<br>こうは行かないだろうがな<br>よし…進むぞ	VO_zaharu.zaharu_sys_0004
+163	は…
+164	…だいぶ来たが…<br>イーラよ、まだか	VO_niggle.niggle_sys_0001
+165	うーん…<br>かなり近づいてると思うんだけど…	VO_ila.ila_sys_0031
+166	…あ、あっちの方！<br>もう、すぐそこに――	VO_ila.ila_sys_1034
+167	グルルルルル…
+168	…………
+169	なんの声だ…!?	VO_niggle.niggle_sys_0006
+170	っ!?<br>なんか、恐ろしいモノがいる…!!	VO_ila.ila_sys_0026
+171	恐ろしいものだとっ…!?	VO_niggle.niggle_sys_0025
+172	ぎゃあああーーーー!!	VO_knightm.knightm_battle_0025
+173	!?
+174	どうした!?	VO_niggle.niggle_sys_0026
+175	敵襲！　骸が襲ってきました!!	VO_spica.spica_chara_1009
+176	なにっ!?	VO_niggle.niggle_sys_0025
+177	いきなり襲ってくるなんて<br>反則だよ!?	VO_syrma.syrma_sys_0026
+178	反則とはな…ククク…結構だ<br>かかったな…ザハルよ	VO_thiefm.thiefm_sys_0007
+179	…………
+180	ザハル様！　こっちも来る！	VO_ila.ila_battle_0019
+181	グルオォォォォォォォォォォォォォ…!!
+182	魔獣だとっ!?<br>これが…“恐ろしいモノ”か…!?	VO_niggle.niggle_sys_0022
+183	待ってニグル…<br>賢者の石…こいつの中から感じる…!!	VO_ila.ila_sys_0020
+184	っ!?<br>まさか――	VO_niggle.niggle_sys_1050
+185	骸め…<br>“食わせた”な…	VO_zaharu.zaharu_sys_0018
+186	ククク…さよう<br>ここで、貴様らシャドウメサイヤは<br>おしまいだ…	VO_thiefm.thiefm_sys_0008
+187	ギャオォォォォォォォォーーーー!!!!
+188	うっ…ぐあぁっ!?	VO_knightm.knightm_sys_0028
+189	や、やめ…ぐぁっ!?	VO_knightm.knightm_battle_0024
+190	みなさんっ…！<br>今、助けま――！	VO_spica.spica_battle_0019
+191	スピカ！<br>死にゆくものを気にかけるな！	VO_zaharu.zaharu_sys_0012
+192	っ!?	VO_spica.spica_chara_1009
+193	眼前の敵を倒せ！<br>そして、生きることだけを考えよ!!	VO_zaharu.zaharu_battle_0007
+194	は、はいっ…!!	VO_spica.spica_chara_1002
+195	生きて帰すなど…するものか…!!	VO_thiefm.thiefm_sys_0032

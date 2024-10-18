@@ -1,0 +1,74 @@
+001	まずは街の飾りつけだけど<br>大体こんな感じでいいかな…<br>どう思う？　ネイカ	VO_hayate.hayate_sys_0031
+002	どう思うって言われても…<br>…なんか、前回とだいぶ<br>テイスト違いませんか？	VO_nacre.nacre_sys_0006
+003	あぁ！　今年は趣向を変えて<br>ワダツミ風ハロウィンにしようと思って！<br>いつもと一緒じゃつまらないだろ？	VO_hayate.hayate_sys_0006
+004	ハロウィンの趣旨を詳しく聞いたら<br>ワダツミの盆と通じるところがあったから<br>取り入れることにしたんだ	VO_hayate.hayate_sys_0007
+005	はぁ…なるほど<br>このお野菜に棒刺したやつはなんですか？<br>ずいぶん斬新なおやつですけど	VO_nacre.nacre_sys_0030
+006	あー！　駄目だって食べちゃ！<br>それは馬なんだから	VO_hayate.hayate_chara_1009
+007	馬…………馬？<br>って食べませんけど！	VO_nacre.nacre_sys_0006
+008	今回は、いつもとは一味違う<br>ハロウィンにして<br>皆を楽しませたいんだ	VO_hayate.hayate_sys_0010
+009	なるほど。確かに<br>みんな驚くかもしれないですね<br>…馬には見えませんけど	VO_nacre.nacre_sys_0044
+010	よし、じゃあがんばって準備を<br>…と、言いたいところだが…	VO_hayate.hayate_sys_0032
+011	なんで俺とネイカしかいないんだ!?<br>去年あんなにいただろ！	VO_hayate.hayate_battle_0019
+012	なんでって…	VO_nacre.nacre_sys_0016
+013	えぇっ!?　<br>皆、今年はハロウィンの盛り上げ…	VO_hayate.hayate_sys_0026
+014	…じゃなかった、ハロウィンの<br>警備任務やらないのか？
+015	二年もやったんだから<br>もういい加減いいだろ<br>俺はもう、ハロウィン卒業だよ	VO_magnus.magnus_sys_0039
+016	ごめんね<br>今回は遊ぶ側に回ってみたくて…<br>今年のハロウィン、楽しみにしてるね！	VO_mea.mea_sys_0035
+017	私は…参加してもいいのですが…	VO_alexis.alexis_event_1003
+018	だってわたしたち、ハロウィン中は<br>室内で待機って言われちゃったんだもの<br>ねぇ、ひどくない？	VO_elizabeth.elizabeth_sys_0016
+019	ひどくない	VO_mea.mea_sys_0016
+020	まぁ、わたしは<br>新薬の開発で忙しかったし<br>ちょうどいいんだけどね～	VO_elizabeth.elizabeth_sys_0007
+021	そんなぁ…<br>じゃあ、俺たちも去年やったし…	VO_hayate.hayate_sys_0022
+022	…ハヤテ、大丈夫だ<br>お前ならできる
+023	お前なら、俺たちの意思を引き継いで<br>最高のハロウィンにしてくれるって<br>…俺は信じてるぜ	VO_magnus.magnus_sys_0041
+024	マグヌス…！	VO_hayate.hayate_sys_0020
+025	わかった!!　<br>俺が、今年のハロウィンを<br>精一杯盛り上げてやる！	VO_hayate.hayate_sys_0038
+026	…って大見得きったの、<br>ハヤテさんじゃないですか!!	VO_nacre.nacre_sys_0030
+027	そうだった…！<br>しかもなんか、体よく押しつけられた<br>ような気もする!!	VO_hayate.hayate_sys_0029
+028	完全に丸め込まれてましたよ!!<br>おかげで人手が足りないんですから!!	VO_nacre.nacre_sys_0027
+029	お菓子のラッピングだって<br>まだ終わってないんですよ!?<br>このままじゃ間に合いませんって！	VO_nacre.nacre_sys_0018
+030	大丈夫だ！<br>確か、今回のハロウィン担当は<br>もう一人いたはず…	VO_hayate.hayate_chara_1002
+031	あっ、噂をすれば<br>確か、今回のハロウィン担当の…	VO_hayate.hayate_chara_1009
+032	…なんですか、これ	VO_hoozuki.hoozuki_sys_0042
+033	ホオズキだ…って、えっ<br>どうしたんだ…？
+034	こんなんじゃだめです！<br>なんですか、この飾りつけ！　野菜！<br>全然キラキラしてません！	VO_hoozuki.hoozuki_sys_0015
+035	キ、キラキラ？	VO_hayate.hayate_sys_0025
+036	せっかくのハロウィンなんですよ！<br>もっとこう華やかに…<br>無分別なまでに煌めかせたいんです!!	VO_hoozuki.hoozuki_sys_0013
+037	む、無分別なまでにですか…	VO_nacre.nacre_sys_0018
+038	…！　貴方は、ネイカさん！	VO_hoozuki.hoozuki_battle_0019
+039	えっ!?　は、はい！<br>わたし、ネイカですけど…	VO_nacre.nacre_sys_0025
+040	フジカさんからお噂はかねがね！<br>人々を魅了してやまない<br>キラキラしたかわいいアクセサリーを作ると…	VO_hoozuki.hoozuki_sys_0007
+041	そ、そんな大層なもの<br>じゃないですって！	VO_nacre.nacre_sys_0050
+042	ちなみに、その手にあるのは？	VO_hoozuki.hoozuki_sys_0001
+043	あ、これですか？<br>これはハロウィンのお祭りで配るお菓子を<br>ラッピングしてたんですけど…	VO_nacre.nacre_battle_1018
+044	ほら、やっぱり！<br>お菓子のラッピングも素敵です！<br>キラキラしてます！	VO_hoozuki.hoozuki_sys_0023
+045	そ、そうですか？	VO_nacre.nacre_sys_0025
+046	申し遅れました<br>私、ワダツミの華道『三花流』宗家の<br>ホオズキと申します	VO_hoozuki.hoozuki_battle_0019
+047	ご友人の貴方のことだけでなく、<br>前回のハロウィンのことも<br>フジカさんから伺っています
+048	実際に見ても、<br>確かにネイカさんの作るものは<br>キラキラしてて、かわいい…
+049	ぐぬぬ…<br>…ホオズキ、負けてられない！	VO_hoozuki.hoozuki_chara_1001
+050	!?
+051	前回を上回るキラキラを！<br>それも一風変わった、<br>私にしかできないハロウィンを！	VO_hoozuki.hoozuki_sys_0024
+052	…そう、お花です！
+053	お花でこの街を彩るのです!!<br>フラワーハロウィン…素敵!!	VO_hoozuki.hoozuki_sys_0008
+054	ふ、ふらわーはろうぃん？	VO_hayate.hayate_sys_0025
+055	ホオズキ、もういいか？	VO_merda.merda_sys_0002
+056	まったく<br>いつまで御託を述べておるのだ!!<br>さっさと始めるぞ	VO_meifan.meifan_chara_1006
+057	この二人は？	VO_nacre.nacre_sys_0001
+058	今回、最高のハロウィンにする為に<br>協力をお願いしましたお二人です！	VO_hoozuki.hoozuki_sys_0005
+059	『エンプレス』と呼ばれ、サガの高嶺の花で<br>あり続けたメルダさんと、グリードダイク<br>屈指の名軍師、メイファンさん…！
+060	この街を無分別なくらい煌めかせるには<br>キラキラした才能を持つ<br>人手がいりますからね!!
+061	なんでそんなあだ名が後世にまで…	VO_merda.merda_sys_0029
+062	ふん。この祭りをヴィヴィの奴が<br>楽しみにしておるからな<br>盛大にせねばならんだろう？	VO_meifan.meifan_sys_0010
+063	ふーん…で、そっちのおぬしは<br>何故手伝ってくれるんだ？	VO_hayate.hayate_sys_0044
+064	…………もふもふ
+065	ん？	VO_hayate.hayate_sys_0005
+066	いや、なんでもない	VO_merda.merda_sys_0027
+067	ただ、もふ…いや<br>お前が一生懸命な様子を見て<br>力になってやりたいと思っただけだ
+068	そうか…それは嬉しいな！<br>ありがとう！	VO_hayate.hayate_sys_0009
+069	…耳もしっぽも…ふさふさ…<br>もふもふしている…	VO_merda.merda_sys_0020
+070	では、さっそく急ピッチで<br>準備を進めましょう！<br>…って	VO_hoozuki.hoozuki_battle_0010
+071	グガアアア!!	VO_Mwolf.Mwolf_battle_0028_a
+072	な、なんです!?	VO_hoozuki.hoozuki_sys_0025
+073	わあああっ！　<br>な、なんでこっちに来るんですかぁ！	VO_nacre.nacre_sys_0028
+074	グガアアアアア！	VO_Mwolf.Mwolf_battle_0028_c

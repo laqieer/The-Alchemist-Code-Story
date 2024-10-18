@@ -1,0 +1,159 @@
+001	こんなことの為に<br>錬金術を学んだわけではない…!!	VO_stknightm.stknightm_sys_0020
+002	や、やめましょう…<br>大人しく帰還し………！
+003	このまま帰れば<br>我々とて消されるのだぞ!!	VO_stknightm.stknightm_sys_0015
+004	!!
+005	スロウスシュタインの起動キーは失われたが<br>ここラーストリスの<br>ものはまだ健在…！	VO_stknightm.stknightm_sys_0017
+006	魔人兵の力であれば、ヤツを…<br>マグヌスを仕留めることも可能だ…！
+007	すべて、ヤツの所為にすれば良い…<br>魔人兵の起動も、古代石の破壊も…	VO_stknightm.stknightm_sys_0007
+008	あの、死に損ないの所為に…………!!
+009	…死に損なわせてるのは<br>誰だ？	VO_magnus.magnus_chara_1010
+010	…!!　マグヌス…!!
+011	仕留め切れないからって…<br>俺の所為にされちゃあ困るが…	VO_magnus.magnus_sys_0010
+012	そうしてもらえると<br>ありがたいね…
+013	貴様…!?<br>どういう…！
+014	あっちに逃げ道があるぜ…？	VO_magnus.magnus_sys_0012
+015	逃げて、報告しな
+016	『マグヌスがすべての元凶です』ってな
+017	はぁっ、はぁっ、はぁっ<br>…………生きてるか…？	VO_wilhelm.wilhelm_battle_0019
+018	…ギリギリね………！	VO_albell.albell_sys_0018
+019	弾も使い切った…<br>機械の回路も…もうダメね…！
+020	…………
+021	…………？<br>何…？	VO_albell.albell_sys_0005
+022	合わせる顔がないんだと<br>言っていた	VO_wilhelm.wilhelm_sys_0002
+023	…………
+024	…誰の話	VO_albell.albell_sys_0003
+025	会えば巻き込む<br>知れば狙われる	VO_wilhelm.wilhelm_sys_0030
+026	そもそも会って話すほど<br>立派なもんじゃないと
+027	何があったって<br>話したい人って<br>いるじゃない	VO_albell.albell_sys_0002
+028	…………
+029	あなたもそうじゃないの	VO_albell.albell_sys_0016
+030	俺？	VO_wilhelm.wilhelm_sys_0004
+031	何があっても<br>譲らないのは	VO_albell.albell_sys_0037
+032	そういう人が<br>いるからでしょう…？
+033	…ああ	VO_wilhelm.wilhelm_sys_0037
+034	私はやりたいようにやる	VO_albell.albell_sys_0016
+035	向こうが会いたくなくても<br>会ってみせる
+036	…何!?	VO_albell.albell_sys_0026
+037	オオー…！<br>オオー…！	VO_Mmajin.Mmajin_battle_0021
+038	“魔人兵”…!?<br>しかもまだ、こんなに…!?
+039	もう、武器が…!!	VO_albell.albell_sys_0021
+040	この遺跡は<br>魔人兵の製造工場…<br>もしくは保管場所だったってのか…!?	VO_wilhelm.wilhelm_sys_0021
+041	まだ、こんなのが<br>ゴロゴロいるの…？	VO_albell.albell_battle_0021
+042	へっ…………<br>聞いてねえぞ…!!	VO_wilhelm.wilhelm_sys_0010
+043	オオオオオオオオオオオオオッ!!!	VO_Mmajin.Mmajin_battle_0028_b
+044	イヤ…！<br>まだ、私は…………!!	VO_albell.albell_battle_0024
+045	…………!?
+046	天井が崩れて…<br>魔人兵までの道が塞がれた…？	VO_albell.albell_sys_0025
+047	だ、誰が…？	VO_wilhelm.wilhelm_sys_0025
+048	────無事か…？	VO_magnus.magnus_sys_0012
+049	アンタ…!?	VO_wilhelm.wilhelm_sys_0025
+050	誰…？<br>姿が見えない…	VO_albell.albell_sys_0018
+051	誰でもない<br>アンタには関係のない人間だ	VO_magnus.magnus_sys_0010
+052	…？
+053	驚かせちまって悪いが…	VO_magnus.magnus_sys_0035
+054	こっちはどうにかする<br>早く逃げな
+055	アンタは!?	VO_wilhelm.wilhelm_battle_0019
+056	このガラクタを片付ける	VO_magnus.magnus_sys_0037
+057	戦ってる…………<br>壁の向こうで…	VO_albell.albell_sys_0018
+058	…………
+059	行くぞ	VO_wilhelm.wilhelm_sys_0012
+060	戦ってるの、あっちで<br>誰かが…	VO_albell.albell_battle_0019
+061	行くんだ	VO_wilhelm.wilhelm_sys_0012
+062	あなた、知ってる人なんでしょ…？<br>いいの…？　これで！
+063	ああ	VO_wilhelm.wilhelm_sys_0037
+064	…!!
+065	…………いいわけ、ないよね	VO_albell.albell_sys_0018
+066	アルベル…………？
+067	あの人が、そうなんだ
+068	アンタには関係ない	VO_wilhelm.wilhelm_sys_0013
+069	────お兄ちゃんなんだ
+070	!?	VO_wilhelm.wilhelm_sys_0025
+071	お兄ちゃん!!	VO_albell.albell_event_1012
+072	アルベル!!
+073	私！<br>覚えてないけど<br>覚えてる!!	VO_albell.albell_sys_0018
+074	物心つく前！<br>人形を動かして<br>驚かせてくれたこと!!
+075	!!	VO_wilhelm.wilhelm_sys_0021
+076	整理が苦手だった私の代わりに<br>知らないうちに<br>片付けをしてくれてたこと!!	VO_albell.albell_sys_0019
+077	覚えてないけど…<br>覚えてる気がするの!!
+078	お兄ちゃん!!!!
+079	ハァッ、ハァッ、ハァッ…!!	VO_magnus.magnus_battle_0020
+080	お兄ちゃん!!!
+081	ハッ、ハハッ<br>覚えてないな<br>人違いじゃないか？	VO_magnus.magnus_sys_0011
+082	人違いでもいい！<br>一緒に戦う!!	VO_albell.albell_battle_0019
+083	俺のギャンブルだ
+084	め、メラ…!!	VO_albell.albell_battle_0021
+085	アルベル…………
+086	止めて…!!<br>お兄ちゃんを止めて…!!	VO_albell.albell_sys_0018
+087	アルベル…
+088	壁、抜けられるでしょ…!?<br>なんとか、ならない…………!?	VO_albell.albell_sys_0019
+089	…！
+090	グアアァッ…………!!
+091	…ねえ
+092	…わかってるよな	VO_magnus.magnus_sys_0012
+093	…………
+094	見てたんだもんな	VO_magnus.magnus_sys_0007
+095	…………
+096	なら、俺なんかじゃなくて<br>アイツさ…………!!
+097	…………そうやって、また
+098	どうして、笑うの…!?
+099	見て欲しいの!!<br>私の髪!!　お兄ちゃんと同じ、桃色の!!<br>ずっと、綺麗にしてきたの!!	VO_albell.albell_sys_0018
+100	ね!?　そうでしょ!?<br>メラ！　お兄ちゃんの髪！<br>私と一緒でしょ!?
+101	…………ええ
+102	ゲホッ!!　ゲホッ!!　ゲホッ!!	VO_magnus.magnus_battle_0023
+103	私、帰って来られる場所を作ったよ!!	VO_albell.albell_battle_0025
+104	お父さんの工房を継いで<br>立派な機械屋になったの!!
+105	お父さんは死んじゃったの!!!
+106	私、いま、独りなの!!!!
+107	…………
+108	だから…………<br>だからね…	VO_albell.albell_sys_0019
+109	顔を見せてよ…!!<br>お兄ちゃん…………!!!
+110	…………
+111	…………だから<br>生きてて欲しいんだよ	VO_magnus.magnus_battle_0020
+112	お兄ちゃん…!?
+113	ヴィル	VO_magnus.magnus_sys_0012
+114	…………わかってる	VO_wilhelm.wilhelm_sys_0022
+115	頼んだ	VO_magnus.magnus_sys_0041
+116	…実を言うと俺<br>ギャンブルは好きじゃないんだよ	VO_wilhelm.wilhelm_sys_0030
+117	は？	VO_magnus.magnus_sys_0005
+118	アンタが賭けて<br>大勝したり大損したり…
+119	それを見てるのが<br>一番楽しかった
+120	アンタの賭けの<br>邪魔はさせねえ
+121	…………いい友人を持ったぜ	VO_magnus.magnus_sys_0033
+122	巻き込まれてでも<br>友情を貫きたいって<br>思ったのさ	VO_wilhelm.wilhelm_sys_0038
+123	照れるぜ	VO_magnus.magnus_sys_0007
+124	だから、勝ってくれ	VO_wilhelm.wilhelm_sys_0041
+125	はははっ<br>祈ってんじゃねえよ	VO_magnus.magnus_sys_0008
+126	…俺は、負けたことがないんでね	VO_magnus.magnus_battle_0029
+127	…………っ
+128	お兄ちゃんッッ!!!!
+129	…妹にプレゼントしたんだ	VO_magnus.magnus_sys_0018
+130	…………えっ…!?	VO_albell.albell_sys_0025
+131	聖教騎士として初めて使った錬金術
+132	ラーストリスの軍服に仕込んでさ
+133	あの、コート…………？
+134	アレだけは<br>ホンモノの気持ちだ	VO_magnus.magnus_sys_0037
+135	お兄ちゃん…<br>お兄ちゃん…!!!<br>待って…………!!!!	VO_albell.albell_battle_0028
+136	イカサマだらけの<br>ニセモノのことは…
+137	忘れちまった方がイイ
+138	オオオオオオオオオオッッッ!!!!	VO_Mmajin.Mmajin_battle_0028_b
+139	…家族の為に命を投げ出すなんて<br>カッコいいマネ<br>出来やしないさ	VO_magnus.magnus_sys_0030
+140	既に死ぬことが決まった身<br>賭け金くらいにしかならない
+141	だったら全賭けだ	VO_magnus.magnus_sys_0007
+142	俺の命
+143	────バーストさせるぜ	VO_magnus.magnus_battle_0014
+144	…………!!!!
+145	…!!
+146	…アルベル
+147	あ、あああ、ああああああ………!!	VO_albell.albell_sys_0028
+148	おにいちゃん!!!<br>ああああああああああああああっっ!!!!	VO_albell.albell_battle_0027
+149	…
+150	…………
+151	勝ってるフリをしてたんだ
+152	とっくにチップはカラなのに
+153	いびつな力を手に入れて<br>踏み込むべきじゃないラインの上を<br>ずっとなぞって逃げ続けて
+154	止まった時計を<br>眺めてたんだ
+155	ようやく針が進むんだ
+156	アルベル
+157	お前が直してくれたんだな
+158	あのクソ親父から<br>店を継ぐなんて…
+159	────自慢しなきゃな

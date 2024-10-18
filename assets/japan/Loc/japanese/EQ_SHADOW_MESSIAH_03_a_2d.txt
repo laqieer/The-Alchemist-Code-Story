@@ -1,0 +1,140 @@
+﻿001	うわぁ～！　すごい!!	VO_syrma.syrma_sys_0024
+002	魚の塩釜焼き、鹿肉のステーキ、<br>野菜のスープ…!!<br>美味しそ～っ!!
+003	なんだニグル、料理作れたのか!?	VO_ila.ila_sys_0025
+004	暗殺者として、対象の富豪の家に<br>料理人として忍び込んだ時に覚えたものだ<br>この程度、難しいことはない	VO_niggle.niggle_sys_0004
+005	暗殺の時に覚えた料理…	VO_syrma.syrma_sys_0005
+006	毒が入ってるのかっ!?
+007	違う<br>安心しろそんなものは入れていない	VO_niggle.niggle_sys_0016
+008	…本当だろうな	VO_ila.ila_sys_0031
+009	いいから食べろ	VO_niggle.niggle_sys_0002
+010	じゃあ、いただきま～す！<br>あむっ	VO_syrma.syrma_sys_0006
+011	…！
+012	じゃあ、オレも…	VO_ila.ila_sys_0005
+013	!?
+014	美味しいっ!!<br>何これ!?<br>すっごく美味しいよニグル様！	VO_syrma.syrma_sys_0007
+015	ハグハグハグ!!<br>美味い！　確かに美味い!!	VO_ila.ila_sys_0046
+016	そうか<br>何よりだ…	VO_niggle.niggle_sys_0007
+017	ん？	VO_niggle.niggle_sys_0006
+018	…………
+019	どうした、スピカ<br>また食欲が無いのか？	VO_niggle.niggle_sys_0001
+020	…いえ…<br>レティシア様にならまだしも<br>ニグル様にまで、料理で負けるなんて…	VO_spica.spica_sys_0039
+021	いや…なんと言うか…	VO_niggle.niggle_sys_1050
+022	（私の中の闇よ…！<br>教えてくれ、正直に言うべきか…!?）	VO_niggle.niggle_sys_0018
+023	アンタのアレは、料理じゃなくて<br>ただ丸焦げにしただけだろう	VO_ila.ila_sys_0001
+024	イーラっ…！	VO_niggle.niggle_sys_0002
+025	…ずーん…	VO_spica.spica_sys_0022
+026	だって、お姉ちゃんも森で<br>果物とか、木の実…	VO_syrma.syrma_sys_0031
+027	あと、<br>たまに街に行った時に買ったパンとかしか<br>食べなかったじゃない？
+028	お料理なんてしてるところ<br>見たことないもん
+029	なんだ？<br>はじめて料理したのか？	VO_niggle.niggle_sys_0006
+030	…はい<br>火を通せば、だいたい大丈夫かと思って…	VO_spica.spica_sys_0004
+031	…それで私に勝とうとしていたとは	VO_niggle.niggle_sys_0031
+032	じゃあ、今度はニグルから<br>料理を教えてもらえばいいじゃないか
+033	!?
+034	まて、イーラ…！<br>戦闘訓練だけじゃなく<br>料理まで私が教えるのかっ!?	VO_niggle.niggle_sys_0025
+035	いいじゃないですかニグル様！	VO_syrma.syrma_sys_0006
+036	これから先、<br>もしまたレティシア様がお留守にされたら、<br>お料理当番はずっとニグル様に、だよ？	VO_syrma.syrma_sys_0031
+037	うっ…<br>私も毎回、作れるわけでは…	VO_niggle.niggle_sys_0018
+038	でしょ？
+039	だったら、今のうちにみんなに料理を<br>教えておけば順番に食事係ができるし！	VO_syrma.syrma_sys_0007
+040	そうだな…<br>…ん？	VO_niggle.niggle_sys_0004
+041	ちょっと待て！<br>今、“みんなに”と言ったか!?	VO_niggle.niggle_sys_0002
+042	アタシも習いたいもん！<br>イーラもやるでしょ？	VO_syrma.syrma_sys_0006
+043	レティシア様の食事も<br>ニグルの食事も美味いからいいが…
+044	オレは…<br>まあ他人から施される食事は<br>正直、好かん…	VO_ila.ila_sys_0031
+045	よし！　自分で作れるようになる！	VO_ila.ila_sys_0011
+046	なっ──	VO_niggle.niggle_sys_1050
+047	よしっ！　決まりっ!!<br>お姉ちゃん、頑張ろうね！	VO_syrma.syrma_sys_0008
+048	えっ、う、うんっ…	VO_spica.spica_sys_0037
+049	ニグル様…<br>よろしくお願いします！	VO_spica.spica_sys_0003
+050	…………
+051	（闇よ…<br>どうしてこうなった…）	VO_niggle.niggle_sys_0016
+052	この城を見るのも久しぶりですわね	VO_laetitia.laetitia_sys_0001
+053	…苦労をかけたな	VO_zaharu.zaharu_sys_0004
+054	俺が聖教騎士団に残っている間、<br>あなたにはラーストリスでの<br>下地作りをしてもらった…
+055	あら？<br>労ってくれるなんて…ふふっ<br>嬉しい	VO_laetitia.laetitia_sys_0007
+056	…でも、<br>苦労など微塵も感じたことはありません
+057	貴方がラーストリス騎士として<br>いらっしゃるのをお待ちしていただけです
+058	ザハル様のご活躍は<br>今もしっかりと覚えておりますわ	VO_laetitia.laetitia_sys_0001
+059	数多のエンヴィリア兵たちを<br>瞬く間に斬り伏せる剣技の閃き…
+060	そのお姿は<br>まるで駿馬、まさに白銀の鬣でした
+061	私の思い描いていた以上に…	VO_laetitia.laetitia_sys_0007
+062	…ラーストリス騎士団などただの踏み台…<br>過去のことだ<br>先を見るのだ。レティシア	VO_zaharu.zaharu_sys_0002
+063	そうですわね…<br>私たちらしくありませんわ	VO_laetitia.laetitia_sys_0004
+064	今から向かう場所が<br>そうさせるのかしら？	VO_laetitia.laetitia_sys_0001
+065	ククッ…<br>かも知れんな…	VO_zaharu.zaharu_sys_0008
+066	どうやら俺にも<br>それなりの“望郷の念”と言うものが<br>芽生えたらしい…
+067	これも、我が同胞たちの影響か…	VO_zaharu.zaharu_sys_0010
+068	ふふっ…<br>私たちは永い時間を生きてきました…<br>たまにはこんな気まぐれもよいのでは？	VO_laetitia.laetitia_sys_0007
+069	ああ、気まぐれ…だがな	VO_zaharu.zaharu_sys_0004
+070	では行こうか…“お姉さん”
+071	ええ、“ザハル君”	VO_laetitia.laetitia_sys_0004
+072	──それで、できたのがこれか	VO_niggle.niggle_sys_0001
+073	野菜のサラダです！	VO_syrma.syrma_sys_0006
+074	魚
+075	お肉を焼きました	VO_spica.spica_sys_0003
+076	そうか…<br>皆、失格だ	VO_niggle.niggle_sys_0016
+077	え～!?	VO_syrma.syrma_sys_0026
+078	なんでだ!?	VO_ila.ila_sys_0025
+079	シルマのは野菜をちぎっただけだ<br>イーラのは生魚のただのぶつ切り	VO_niggle.niggle_sys_0002
+080	ふたりとも料理…かも知れんが、<br>調理はしていない
+081	わたしのは…	VO_spica.spica_chara_1003
+082	相変わらず火を通しすぎだ<br>これは焼いたのではない<br>焦がしたのだ	VO_niggle.niggle_sys_0004
+083	もう！　難しい～!!	VO_syrma.syrma_sys_0030
+084	こんなことやってられん！	VO_ila.ila_sys_0016
+085	…あきらめるのが早過ぎやしないか	VO_niggle.niggle_sys_0001
+086	あ、あのっ…わたしはあきらめません！<br>もう一度、最初からお願いします!!	VO_spica.spica_chara_1009
+087	…はぁ…<br>ではもう一度だ…	VO_niggle.niggle_sys_0016
+088	あの…ニグル様	VO_knightm.knightm_sys_0001
+089	なんだ…	VO_niggle.niggle_sys_0006
+090	これ以上、食材を使われますと…	VO_knightm.knightm_sys_0031
+091	ふぅ…<br>仕方がない<br>料理の練習はまた後日にしよう	VO_niggle.niggle_sys_0016
+092	はい…	VO_spica.spica_sys_0004
+093	貴方たちが練習で<br>食材を使いすぎたせいで…	VO_niggle.niggle_sys_0018
+094	（どうしてあれだけ練習で使ったのに、<br>出てきた料理が野菜と魚と肉なのだ…）
+095	ニグル様ー!!
+096	今度はなんだ!?	VO_niggle.niggle_sys_0002
+097	森に、狩りに行った者たちが<br>大怪我をして…	VO_knightm.knightm_battle_0019
+098	なんだと…？	VO_niggle.niggle_sys_0025
+099	『“魔獣”に襲われた』と──
+100	!?	VO_spica.spica_sys_0025
+101	まさか…!?<br>あんなものがまだいたのか!?
+102	スピカ、シルマ、イーラ！	VO_niggle.niggle_sys_0002
+103	おう！	VO_ila.ila_sys_0004
+104	わかってますって！	VO_syrma.syrma_sys_0006
+105	…行きましょう、ニグル様	VO_spica.spica_sys_0004
+106	ああ。魔獣退治だ	VO_niggle.niggle_sys_0004
+107	…どうだ	VO_niggle.niggle_sys_0001
+108	いえ…まだ、なんの気配もありません	VO_spica.spica_sys_0031
+109	うん…怖いくらい、何も気配がない…
+110	…なあ…	VO_ila.ila_sys_0001
+111	どうした、イーラ	VO_niggle.niggle_sys_0006
+112	気配はないけど…臭う	VO_ila.ila_sys_0005
+113	臭い？	VO_syrma.syrma_sys_0031
+114	…これは──<br>血だ
+115	!?	VO_spica.spica_sys_0026
+116	確かに…！<br>微かに血の臭いがする！
+117	あっちだ…！
+118	グルルル…<br>ガウッ！<br>ガウッ!!	VO_MwolfBig.MwolfBig_battle_0020
+119	…!?
+120	うげ…	VO_syrma.syrma_sys_0021
+121	聖教騎士を…喰ってるのか？
+122	…でも、どうして聖教騎士が…？
+123	…そうか	VO_niggle.niggle_sys_0031
+124	私たちが襲った聖教会の地下では<br>アルケミィによる動物実験が<br>行われていた…
+125	この魔獣は、<br>おそらく実験施設から逃げ出した<br>魔獣化した動物…	VO_niggle.niggle_sys_0018
+126	そんなっ…!?	VO_spica.spica_sys_0020
+127	あくまで推論だ…。確かめるすべはない<br>だが、ここにいる聖教騎士──	VO_niggle.niggle_sys_0002
+128	逃げ出した魔獣を捕らえる為に<br>やってきて、返り討ちにあった…？	VO_syrma.syrma_sys_0031
+129	そう考えることもできるだろう…と言う<br>話だがな	VO_niggle.niggle_sys_0016
+130	フンッ！<br>動物を実験体になんてした<br>ヤツらの自業自得だ!!	VO_ila.ila_sys_0016
+131	──さて<br>このままにはしておけはしないな	VO_niggle.niggle_sys_0001
+132	辛かったでしょう…	VO_spica.spica_sys_0018
+133	スピカ…？	VO_niggle.niggle_sys_0006
+134	きっと…<br>実験体にされて辛かったんですね…
+135	お姉ちゃん…
+136	ニグル様…<br>この子は苦しんでいます…<br>わたし──	VO_spica.spica_sys_0003
+137	この子を助けたい
+138	…そうか<br>どうするべきかは、わかるな
+139	はい…<br>行きましょう	VO_spica.spica_sys_0004
+140	ああ	VO_niggle.niggle_sys_0004

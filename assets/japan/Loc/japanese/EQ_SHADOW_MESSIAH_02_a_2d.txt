@@ -1,0 +1,146 @@
+﻿001	ザハル様、お食事のお時間です	VO_laetitia.laetitia_sys_0002
+002	ああ	VO_zaharu.zaharu_sys_0004
+003	今日はウサギ肉のソテーになります
+004	はいはい！<br>アタシが狩りました！	VO_syrma.syrma_sys_0003
+005	オレも狩ったぞ!!
+006	…………
+007	狩り…？<br>お前たちがか	VO_zaharu.zaharu_sys_0006
+008	鍛錬の一環です
+009	そうか…<br>励めよ	VO_zaharu.zaharu_sys_0045
+010	は～い！
+011	おう！	VO_ila.ila_sys_0004
+012	…はい	VO_spica.spica_sys_0004
+013	…ザハル様<br>ひとつご報告が──
+014	あとで聞こう	VO_zaharu.zaharu_sys_0004
+015	ニグル…<br>ザハル様のお食事の時間ですよ<br>いつも言っているでしょう	VO_laetitia.laetitia_sys_0001
+016	んっ…<br>失礼した…	VO_niggle.niggle_sys_0018
+017	さぁ、冷めないうちに<br>お召し上がりください<br>皆も、どうぞ	VO_laetitia.laetitia_sys_0007
+018	いっただきま～す！	VO_syrma.syrma_sys_0007
+019	いただき…ます…
+020	ムシャムシャムシャ…！
+021	イーラ<br>きちんとナイフとフォークを使え	VO_niggle.niggle_sys_0002
+022	うるさいなっ…<br>そんな面倒なもの使ってられるか！	VO_ila.ila_sys_0016
+023	ふぅ…<br>貴方にはテーブルマナーも教えないと<br>いけないようだな	VO_niggle.niggle_sys_0016
+024	うぇ…<br>そんなことしてられるかよっ…！	VO_ila.ila_sys_0029
+025	いや…いくらなんでも<br>もう少しマシになってもらわねば困る…	VO_niggle.niggle_sys_0030
+026	まぁまぁ、ニグル様！
+027	ここに来たばっかりの頃は<br>出された料理も食べなかったイーラが<br>みんなと一緒に食事してるんだよ？
+028	ちょっとぐらい<br>いいじゃない	VO_syrma.syrma_sys_0007
+029	はぁ…<br>この話はまたいずれにしよう…	VO_niggle.niggle_sys_0016
+030	ふぅ…	VO_spica.spica_sys_0022
+031	…………
+032	…
+033	スピカ…<br>口に合わなかったかしら	VO_laetitia.laetitia_sys_0001
+034	え？<br>いえっ…<br>その…食欲がなくて…	VO_spica.spica_sys_0039
+035	それはいけないわね	VO_laetitia.laetitia_sys_0030
+036	…お姉ちゃんっ<br>食べよ？　美味しいよ	VO_syrma.syrma_sys_0003
+037	うん…	VO_spica.spica_sys_0037
+038	…………
+039	…今日も美味かったぞ<br>レティシア	VO_zaharu.zaharu_sys_0002
+040	お口に合いまして、何よりです	VO_laetitia.laetitia_sys_0007
+041	…ねぇねぇ<br>ずっと気になってたんだけどさ
+042	もしかしてザハル様って、<br>レティシア様の作った料理しか<br>食べないのかな？	VO_syrma.syrma_sys_0031
+043	レティシア様がお留守の時とか<br>野菜とか果物で<br>済ませてる気がするんだけど…
+044	…あの方は昔からそうだ	VO_niggle.niggle_sys_0004
+045	あっ！　やっぱりそうなんだ！	VO_syrma.syrma_sys_1011
+046	聖教騎士団時代は、<br>野菜やパンしか食べていなかった
+047	エルフの血筋と聞いていたので<br>肉も魚も口にしないと思っていたのだが…	VO_niggle.niggle_sys_0031
+048	ラーストリスに行き<br>レティシアが食事の世話をするようになると<br>肉も魚も食べるようになったから
+049	レティシアの作る料理以外が<br>お嫌いなのだろう…	VO_niggle.niggle_sys_0016
+050	へぇ～	VO_syrma.syrma_sys_0005
+051	…………
+052	…あの女は気に食わんが<br>作った料理は美味いからな…	VO_ila.ila_sys_0005
+053	いやぁ～<br>たぶんそういうことじゃないと思うよ～？	VO_syrma.syrma_sys_0031
+054	じゃあ、どういうこと──	VO_ila.ila_sys_0006
+055	ニグルよ	VO_zaharu.zaharu_sys_0002
+056	あ<br>はっ…なんでございましょう	VO_niggle.niggle_sys_1050
+057	皆もよく聞け<br>しばらくここを空ける
+058	え──	VO_spica.spica_sys_0025
+059	どこに行くんですか？
+060	…………
+061	…やっぱり教えてくれないんだ…	VO_syrma.syrma_sys_0030
+062	あ、あのっ<br>わたしも一緒に──	VO_spica.spica_sys_0003
+063	同行はレティシアと<br>幾人かの団員のみでよい<br>いや…レティシアでなくてはならない	VO_zaharu.zaharu_sys_0014
+064	わかりました…	VO_spica.spica_sys_0029
+065	…ザハル様<br>私にも教えてはくださらないのですか？
+066	フッ…<br>心配は無用だ<br>直に戻る	VO_zaharu.zaharu_sys_0010
+067	ふぅ…<br>承知した	VO_niggle.niggle_sys_0037
+068	ニグル<br>俺のいない間、皆を頼んだぞ	VO_zaharu.zaharu_sys_0041
+069	やれやれ…<br>私は子らのお守りか…	VO_niggle.niggle_sys_0016
+070	スピカのことは特に…な
+071	…スピカの？	VO_niggle.niggle_sys_0006
+072	あの“迷い”を晴らさねばならん	VO_zaharu.zaharu_sys_0004
+073	“迷い”…か	VO_niggle.niggle_sys_0031
+074	ふぎゃっ!?	VO_ila.ila_battle_0019
+075	フッ…<br>不意打ちを狙ったまではよかったな	VO_niggle.niggle_sys_0010
+076	バレバレだったけどね～	VO_syrma.syrma_sys_0007
+077	くっそぉ～…	VO_ila.ila_sys_0017
+078	はぁ…	VO_spica.spica_sys_0022
+079	…お姉ちゃ～ん<br>も～、いつまでもしょげてないで…
+080	シャッキリして！	VO_syrma.syrma_sys_0014
+081	シルマ…
+082	ザハル様が旅に行ってる間が<br>チャンスだよ？	VO_syrma.syrma_sys_0003
+083	どういう意味…？	VO_spica.spica_sys_0006
+084	鍛錬を頑張って、<br>ニグル様を倒すぐらいまで<br>強くなっちゃえばいいんだよ！
+085	そんな、急には…	VO_spica.spica_sys_0031
+086	お姉ちゃん…<br>本当にザハル様に置いて行かれちゃうよ	VO_syrma.syrma_sys_0031
+087	!?	VO_spica.spica_sys_0025
+088	ザハル様の側にいたいんでしょ？<br>遠くに行っちゃうよ？
+089	…………
+090	（そうだ…<br>わたしはザハル様のお側にいる為に<br>ここにいるんだ…）
+091	ありがとう…シルマ…<br>わたし、頑張る…！	VO_spica.spica_sys_0033
+092	その意気だよ<br>お姉ちゃんっ！	VO_syrma.syrma_sys_0006
+093	はいっ！	VO_spica.spica_sys_0004
+094	あのぉ、ニグル様…	VO_knightm.knightm_sys_0001
+095	どうした<br>何かあったのか	VO_niggle.niggle_sys_0006
+096	？	VO_spica.spica_sys_0006
+097	何…と言うほどのことではないのですが<br>食事はどうしましょう…？	VO_knightm.knightm_sys_0031
+098	食事…？
+099	はい…<br>レティシア様がいらっしゃらないので…<br>ご指示をいただければ…と	VO_knightm.knightm_sys_0030
+100	そうか…<br>食事はすべて彼女が仕切っていたな…<br>さて、どうするか──	VO_niggle.niggle_sys_0031
+101	…………
+102	レティシアの作る料理以外が<br>お嫌いなのだろう…	VO_niggle.niggle_sys_0016
+103	…ニグル様<br>お食事の担当…わたしがやります！	VO_spica.spica_sys_0003
+104	貴方が…？	VO_niggle.niggle_sys_0006
+105	えっ!?<br>ちょ、ちょっとお姉ちゃんっ!?	VO_syrma.syrma_sys_0025
+106	やります！
+107	（スピカから<br>今まで感じたことのないぐらいの気迫を<br>感じる…！）
+108	そ、そうか…<br>では、頼むとしよう	VO_niggle.niggle_sys_0016
+109	はい	VO_spica.spica_sys_0004
+110	…あ、あの<br>お姉ちゃんは止めたほうが──	VO_syrma.syrma_sys_0011
+111	シルマ──	VO_spica.spica_sys_0002
+112	成長のチャンス
+113	いや、それはアタシが言ったのとは<br>違う方向の成長だよ！
+114	成長します！
+115	（私の内なる闇が囁く…）
+116	（不安だ…）	VO_niggle.niggle_sys_0018
+117	──ザハル様<br>まもなくラーストリスに入ります	VO_laetitia.laetitia_sys_0002
+118	ああ	VO_zaharu.zaharu_sys_0004
+119	スピカをお連れにならなくて<br>よろしかったのですか？
+120	…………
+121	あの子はついてきたそうでしたが…<br>ふふ…	VO_laetitia.laetitia_sys_0007
+122	戯れを言うな…	VO_zaharu.zaharu_sys_0002
+123	失礼しました…<br>でも、あの子のことを<br>気にされていたようでしたから
+124	スピカは甘い	VO_zaharu.zaharu_sys_0016
+125	ええ…<br>優しい子です	VO_laetitia.laetitia_sys_0004
+126	あの“優しさ”がスピカの役目…<br>…だが、あの“優しさ”は、いまだ“弱さ”だ	VO_zaharu.zaharu_sys_0031
+127	“強き優しさ”…
+128	ザハル様が作られる<br>“新たなる秩序”の世界で<br>スピカが担う役目ですね	VO_laetitia.laetitia_sys_0045
+129	スピカを鍛えなければならない
+130	それが、ニグルの役目…
+131	そうだ	VO_zaharu.zaharu_sys_0004
+132	ふふっ…そうですね<br>私はその役目を務めることは<br>できませんもの	VO_laetitia.laetitia_sys_0007
+133	俺たちは“意志”<br>“意志”を運び、動くのがニグルたちだ	VO_zaharu.zaharu_sys_0005
+134	御意──	VO_laetitia.laetitia_sys_0005
+135	──？	VO_zaharu.zaharu_sys_0006
+136	あら？<br>何かいますわね	VO_laetitia.laetitia_sys_0022
+137	…魔獣か<br>ニグルが言っていたな<br>拠点近くに魔獣が出没したと…	VO_zaharu.zaharu_sys_0031
+138	…そう言えば<br>先日、襲った聖教会の地下施設…<br>動物実験をしていた痕跡がありましたね
+139	聖教騎士が『こんな時に』と<br>ほざいていたな…	VO_zaharu.zaharu_sys_0004
+140	『実験体が、逃げ出した』──
+141	フンッ…<br>おおかたそんなところだろう<br>“取り逃がし”が出没していると見るべきか	VO_zaharu.zaharu_sys_0010
+142	迷惑な話ですわね…<br>ふふっ	VO_laetitia.laetitia_sys_0007
+143	いずれにせよ──
+144	グルルルルル…!!	VO_MwolfBig.MwolfBig_battle_0019
+145	眼前の邪魔者…払いのけるぞ	VO_zaharu.zaharu_sys_0001
+146	御意──	VO_laetitia.laetitia_sys_0005

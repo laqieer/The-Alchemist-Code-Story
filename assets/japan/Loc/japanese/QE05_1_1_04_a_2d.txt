@@ -1,0 +1,102 @@
+001	俺はこれから、行くところがある<br>お前はしばらく、ここで待っていろ	VO_kamui-b.kamui-b_sys_0002
+002	うん、わかった<br>あ、でも！　街を見て回るくらいはいい？	VO_hisham-b.hisham-b_sys_0005
+003	…さっき絡んできた<br>連中を覚えているだろう<br>子供がひとりで出歩くのは危険だ	VO_kamui-b.kamui-b_sys_0020
+004	…はぁい	VO_hisham-b.hisham-b_sys_0016
+005	戻ったら、お前のことを調べよう<br>それまで、大人しく待っているんだぞ	VO_kamui-b.kamui-b_sys_0031
+006	…この辺りでいいか	VO_kamui-b.kamui-b_sys_0037
+007	こちらの要件はわかっているだろう<br>いい加減、姿を現したらどうだ？	VO_kamui-b.kamui-b_sys_0002
+008	…これでも、隠形には自信があったんだがね<br>セフィラの民ってのはみんな、<br>あんたみたいな凄腕なのか？
+009	変に買いかぶられては困る<br>我らはただ、セフィロンの導きのままに<br>己が使命を果たすのみだ	VO_kamui-b.kamui-b_sys_0007
+010	まったく、自信を無くすぞ<br>これでもナロール王の密偵の中では、<br>それなりに“やれる”って自負してたんだが	VO_knightm.knightm_sys_0030
+011	要件はわかっている<br>ベルゼバブのことだな？	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+012	…やはり、異変がおこっていたか<br>陛下にはいつお目通りが叶う？	VO_kamui-b.kamui-b_sys_0031
+013	すぐにでも、と言いたいところだが…<br>しばらくは無理だ	VO_mob-saga_ymale.mob-saga_ymale_sys_0037
+014	南部の反乱軍の鎮圧を行っていた<br>第三軍のセクリディス将軍が帰還している
+015	…？　それの何が問題なんだ？	VO_kamui-b.kamui-b_sys_0005
+016	今、我が国の政事は軍部の圧力に<br>屈しかけているのさ	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+017	このセクリディスと言う男、<br>目端も鼻も利くうえに、<br>どうにも権力にご執心でね
+018	議会の四割はすでに奴の手のひらの上<br>ナロール王も無碍には扱えないほどの<br>重要人物になっちまった
+019	ナロール王の尽力で、グラトニーは今<br>政軍分離の体制に移行したはずでは？	VO_kamui-b.kamui-b_sys_0037
+020	それを良く思わない輩が動いているのさ<br>セクリディスは旧貴族の血筋だ<br>神輿としては申し分ないってことだろう	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+021	内乱の最中でさえなければ、<br>手の打ちようはあったかもしれないが…
+022	今の情勢で王都の軍部まで敵に回せば、<br>この国はもはや立ち行かない<br>ここは耐え所、というわけだ
+023	…つまり、そのいざこざが収まるまでは<br>我らセフィラの民を<br>城には入れられない、と？	VO_kamui-b.kamui-b_sys_0044
+024	聖石は王権の象徴…<br>いわばナロール王の切り札だ	VO_mob-saga_ymale.mob-saga_ymale_sys_0037
+025	その管理に関する秘密をセクリディスに<br>捕まれるわけにはいかないんだ<br>…悪いな
+026	…どれくらいかかる？	VO_kamui-b.kamui-b_sys_0001
+027	長くとも一週間	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+028	なら、しばらく王都を観光させてもらう<br>…ほかにやることも出来たしな	VO_kamui-b.kamui-b_sys_0045
+029	そうしてくれ<br>事態が動いたら、また連絡する	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+030	…そうだ。観光なら闘技場にでも<br>行ってみたらどうだ？	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+031	今日ならたしか、王都が誇るチャンピオン<br>の試合が観れるはずだ
+032	…グラトニーの内情は、思った以上に<br>厄介な事になっているようだな	VO_kamui-b.kamui-b_sys_0031
+033	いや、俺はただ己の役目を果たすのみだ	VO_kamui-b.kamui-b_chara_1003
+034	…闘技場、か
+035	疲れた～…<br>あ～、僕もう足が棒になりそう…	VO_hisham-b.hisham-b_sys_0030
+036	結局、今日一日で<br>王都を一回りすることになったな	VO_kamui-b.kamui-b_sys_0037
+037	今、王都周辺には内乱の影響で<br>多くの難民が集まっている
+038	その中にヒシャームのことを知る人間が<br>いれば、と考えていたんだが…
+039	やはり、そう簡単にはいかないか	VO_kamui-b.kamui-b_sys_0030
+040	…やっぱり僕、捨てられたんじゃないかな	VO_hisham-b.hisham-b_sys_0018
+041	住んでいたところが食べていけなくなって、<br>それで…
+042	お前を助けた時、<br>怪我や消耗はあったが<br>慢性的な飢えの兆候はなかった	VO_kamui-b.kamui-b_chara_1003
+043	きちんと食事を与えられ、<br>健康に暮らしていた証拠だ
+044	だったら、どうして…？	VO_hisham-b.hisham-b_sys_0017
+045	それはわからない<br>だが、お前の両親はきっと今も、<br>お前のことを探しているはず――	VO_kamui-b.kamui-b_sys_0031
+046	…もし生きていれば、でしょ？	VO_hisham-b.hisham-b_sys_0018
+047	…そうだ	VO_kamui-b.kamui-b_sys_0004
+048	…はぁ、僕、<br>これからどうすればいいのかな…	VO_hisham-b.hisham-b_sys_0030
+049	俺が…いや	VO_kamui-b.kamui-b_sys_0037
+050	…わかってるよ<br>自分で決めないと、なんだよね	VO_hisham-b.hisham-b_sys_0022
+051	…ああ、俺がお前の人生を<br>背負ってやれるわけでもない<br>残念ながらな	VO_kamui-b.kamui-b_sys_0004
+052	せめて、<br>自分がどこの誰かが分かればなぁ…	VO_hisham-b.hisham-b_sys_0030
+053	王都でなにか<br>気になることはあったか？	VO_kamui-b.kamui-b_sys_0001
+054	もしかしたらそれが、お前の記憶を<br>呼び覚ますきっかけになるかもしれない
+055	気になる…気になる？<br>う～ん、特には…あ、でも！<br>闘技場ってところは見てみたい！	VO_hisham-b.hisham-b_sys_0031
+056	コロッセオか。王都の名物だな<br>鍛え抜かれた剣闘士たちが、その技を<br>競い合う武闘大会が開かれているという話だ	VO_kamui-b.kamui-b_sys_0044
+057	…たしか今日は、チャンピオンの試合が<br>観れると聞いたな…
+058	えっ!?　それホント!?	VO_hisham-b.hisham-b_chara_1009
+059	あ、ああ
+060	僕気になる！　気になるな～!!	VO_hisham-b.hisham-b_sys_0009
+061	…まあ、なにが刺激になるか分からないな<br>それに王都まで来て、<br>名物を避けて通るというのも変な話だ	VO_kamui-b.kamui-b_sys_0031
+062	やった！	VO_hisham-b.hisham-b_sys_0046
+063	だが、はしゃぎ過ぎるな<br>あそこは人も多い。一度はぐれたら<br>それこそ一日中探し回る羽目に――	VO_kamui-b.kamui-b_sys_0002
+064	カムイさ～ん！<br>早く早く～！	VO_hisham-b.hisham-b_sys_0002
+065	まったく、さっきまでもう歩けないと<br>言っていたのに	VO_kamui-b.kamui-b_sys_0030
+066	…もう少し面倒を見てやりたいところだが、<br>俺にもお役目がある	VO_kamui-b.kamui-b_sys_0031
+067	早めに、なにか思い出せればいいんだが…
+068	わぁ！　すごい！<br>こんな大きな舞台で戦うの!?	VO_hisham-b.hisham-b_sys_0009
+069	ええと、入り口はあっちかな？
+070	おおっと待ちな、坊ちゃん
+071	ひゃっ!?<br>えっと、なに？	VO_hisham-b.hisham-b_sys_0027
+072	闘技場の観覧なら、<br>ここでチケットを買わねえとな	VO_mob-saga_omale.mog-saga_omale_sys_0010
+073	身分証は持ってんのかい？<br>それとも親御さんと一緒かな？
+074	あ、ええと…その…	VO_hisham-b.hisham-b_sys_0018
+075	身分証もねえ、親御さんもいねえと？<br>…まさかオメエ、市場から逃げてきた<br>奴隷のガキじゃねえよな？	VO_mob-saga_omale.mog-saga_omale_sys_0006
+076	ち、違うよっ！<br>兄ちゃんと来たんだけど、<br>ちょっとはぐれちゃってっ
+077	あ、いた！<br>おーい、カムイ“兄ちゃん”！	VO_hisham-b.hisham-b_sys_1047
+078	ヒシャーム？<br>どうしたんだ、大声を出して<br>それにその呼び方は？	VO_kamui-b.kamui-b_sys_0037
+079	…あんたがこの子の兄貴かい？<br>本当に？	VO_mob-saga_omale.mog-saga_omale_sys_0016
+080	…ああ、なるほど	VO_kamui-b.kamui-b_sys_0004
+081	この子は間違いなく俺の弟だ<br>身分証が必要なんだな？<br>…これでいいか
+082	はいよっと…うん、問題はねえな<br>悪いな、坊ちゃん。変な因縁つけちまって	VO_mob-saga_omale.mog-saga_omale_sys_0004
+083	今日一番のカードはこの闘技場の華、<br>チャンピオン・テオナの防衛戦だ！<br>そんじゃ、楽しんでいってくれよな	VO_mob-saga_omale.mog-saga_omale_sys_0007
+084	あ、ありがとう…	VO_hisham-b.hisham-b_sys_0034
+085	だから言っただろう、はしゃぎ過ぎるなと	VO_kamui-b.kamui-b_sys_0030
+086	はぁい…	VO_hisham-b.hisham-b_sys_0016
+087	…それに、今の呼び方はいただけないな	VO_kamui-b.kamui-b_sys_0031
+088	カムイにい――カムイさん？<br>あ…やっぱり迷惑、だった？	VO_hisham-b.hisham-b_sys_1047
+089	お前は今、記憶を――家族を<br>探しているんだろう？	VO_kamui-b.kamui-b_sys_0002
+090	だったら、その呼び方はやめた方がいい<br>俺はお前の家族じゃない<br>ただ偶然、同じ道を歩くだけの旅人同士だ
+091	諦めるな。信じ続けろ<br>お前の家族はちゃんと無事で、<br>きっとまた会えるんだと
+092	でないと本当に、<br>再会できなくなってしまう
+093	それは…はい、そうですね…	VO_hisham-b.hisham-b_sys_0016
+094	ただ…闘技場にいる間は“兄”でいい<br>さっき受付に名乗った手前もあるからな	VO_kamui-b.kamui-b_sys_0004
+095	あ…うんっ！	VO_hisham-b.hisham-b_sys_0005
+096	あ、カムイ兄ちゃん！　あれ！<br>試合前の剣闘士の人が待機して――あ	VO_hisham-b.hisham-b_sys_1047
+097	…あ
+098	あぁぁぁぁぁぁっ!?<br>手前ら、この間はよくも！	VO_thiefm.thiefm_sys_0017
+099	お前はあの時の…	VO_kamui-b.kamui-b_sys_0037
+100	この人、剣闘士だったんだ<br>なんか思い描いてたイメージが<br>ガラガラと音を立てて崩れてくんだけど…	VO_hisham-b.hisham-b_sys_0010
+101	このクソガキ…！<br>ケンカ売ってんのか!?	VO_thiefm.thiefm_sys_0012
+102	ここであったが百年目！<br>チャンピオンの前に手前らをのして、<br>景気づけにしてやるぜ！	VO_thiefm.thiefm_sys_0013

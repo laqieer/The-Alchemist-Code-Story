@@ -1,0 +1,54 @@
+﻿QE06_1_1_10_b_2d.txt
+001	すまないわね、宴会の直後に<br>わざわざ遠い離れの本部のほうに集合させて	VO_celis.celis_sys_0035
+002	前置きはいい<br>…さっさと話せ	VO_ugachi.ugachi_sys_0001
+003	鬼の“純血種”である“隠れ鬼”が<br>城下町で確認されたと<br>斥候から報告があったわ
+004	!!!!!
+005	…じゃあ、弐番隊の隊士を<br>セリスさんの姿で襲ったのも…	VO_tanosuke.tanosuke_sys_0014
+006	おそらく、“隠れ鬼”の仕業でしょうね	VO_celis.celis_sys_0004
+007	…なるほど<br>現状、動きは？	VO_ugachi.ugachi_sys_0006
+008	…わからないわ<br>見失ったあと、捕捉できていないそうよ	VO_celis.celis_sys_0016
+009	被害が出る前に対処したいところですね	VO_tanosuke.tanosuke_sys_0016
+010	…放っておいても、朱鳳城を目指して<br>来るのではないのか？	VO_ugachi.ugachi_sys_0031
+011	…………
+012	鬼の狙い、ですか？
+013	そうだ<br>ある時期以降、鬼たちは確実に<br>朱鳳城を狙って来ているフシがある	VO_judius.judius_sys_0002
+014	何か、心当たりはないか？	VO_judius.judius_sys_0031
+015	…いえ、私には	VO_celis.celis_sys_0035
+016	ふむ、お前にならわかると思ったのだがね	VO_judius.judius_sys_0022
+017	…私に、ですか？	VO_celis.celis_sys_0025
+018	…俺はね、グリードダイクの人間だ<br>ワダツミの過去を思えば、恨まれて<br>当然の身ではある	VO_judius.judius_sys_0004
+019	だが、今はその過去を越え、<br>ワダツミの為に尽くしたいと本気で<br>思っているんだよ
+020	だから、鬼の脅威をなんとしてでも<br>排除したいと思っている<br>…援助しかできないのが歯がゆいがね	VO_judius.judius_sys_0031
+052	お気持ちは、痛いほど伝わっています<br>必ずや、私たちの手でワダツミを<br>鬼の脅威から守り抜いてみせましょう
+053	心強いよ<br>お前を“刃狐”の総長に据えて正解だったと<br>心から思う	VO_judius.judius_sys_0041
+021	ありがとうございます	VO_celis.celis_sys_0033
+022	ワダツミの平和は、俺たち<br>グリードダイクの者としても<br>かねてより望んでいたことだ	VO_judius.judius_sys_0016
+023	まして、ワダツミの大使として…<br>俺の悲願と言ってもいい<br>礼など、必要ないさ
+024	…それでも、ありがとうございます
+025	何か気がついたことがあれば、<br>なんでも教えてくれたまえ<br>すべては、ワダツミの平和の為に	VO_judius.judius_sys_0005
+026	もし、“隠れ鬼”が朱鳳城を<br>目指しているのだとしても<br>ここでただ待っているわけにはいかないわ
+027	ええ、“隠れ鬼”がその間に<br>どんな害をもたらすかわかりませんからね	VO_tanosuke.tanosuke_sys_0031
+028	…明朝、確認された地点にすぐに向かうぞ	VO_ugachi.ugachi_sys_0001
+029	ええ、そのつもりよ<br>各隊士に伝えて…“隠れ鬼”は、<br>今までの相手とは違う…	VO_celis.celis_sys_0038
+030	より一層の警戒を、と
+031	なぜ、城下町に鬼が…!?<br>“隠れ鬼”が確認されたことと<br>何か関係があるのか？	VO_amane.amane_battle_0019
+032	!!!<br>タノスケ隊長!!
+033	城下町へ急ごう!!	VO_tanosuke.tanosuke_battle_0010
+034	弐番隊は俺に続け!!<br>行くぞ、アザミ！	VO_ugachi.ugachi_sys_0001
+035	はい!!	VO_azami.azami_sys_0004
+036	…死ぬんじゃないわよ	VO_azami.azami_sys_0001
+037	そちらこそな	VO_amane.amane_sys_0004
+038	…後手に回ったかもしれないわね<br>タノスケ、頼んだわよ	VO_celis.celis_battle_0019
+039	任せてください	VO_tanosuke.tanosuke_sys_0038
+040	壱番隊も続きなさい!!
+041	セリスは…？	VO_amane.amane_sys_0001
+042	ここで待機するわ<br>全員出撃して、手薄な本部を狙われたら<br>たまったものじゃないもの	VO_celis.celis_sys_0004
+043	そうか<br>タノスケ隊長、拙者たちも！	VO_amane.amane_sys_0038
+044	ああ…ぼちぼち行くとしようか	VO_tanosuke.tanosuke_sys_0005
+045	イヤァァァァーッ!!!<br>た、助けて…!!! <br>私じゃない!!!	VO_mob-saga_female.mob-saga_female_sys_0028
+046	うるせぇ!!<br>お前だろ、うちの息子を殺したのは!!!	VO_mob-saga_omale.mog-saga_omale_sys_0032
+047	違う…私じゃないの…<br>信じて!!	VO_mob-saga_female.mob-saga_female_sys_0018
+048	うるせえ！　信用できるか!!<br>…ガッ!!!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+049	信じてくれないのなら…<br>みんな…みんな…殺してやる!!	VO_mob-saga_female.mob-saga_female_sys_0029
+050	…なんだ<br>これは…!?	VO_amane.amane_sys_0027
+051	鬼の棲（す）む――地獄だ	VO_tanosuke.tanosuke_sys_0042

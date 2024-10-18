@@ -1,0 +1,128 @@
+﻿001	ど、泥棒～!!<br>誰か捕まえてくれ～!!
+002	誰が捕まるかよ！	VO_thiefm.thiefm_sys_0010
+003	逃げられると思っているんです？	VO_neferty.neferty_sys_0001
+004	なっ――!?	VO_thiefm.thiefm_sys_0025
+005	いててて…!!	VO_thiefm.thiefm_sys_0042
+006	うぇ～～～～ん!!<br>ママ～～～～!!
+007	どうしたの？<br>ママとはぐれちゃったの？	VO_shengmei.shengmei_sys_0005
+008	うん…
+009	そっか…<br>でも大丈夫！　私が一緒に探してあげる！	VO_shengmei.shengmei_sys_0007
+010	え…ほんと…？
+011	もちろんだよ！<br>だから泣かなくていいよ！	VO_shengmei.shengmei_sys_0006
+012	…うん！<br>ありがとう、お姉ちゃん！
+013	ちょ、しつこいですよ！
+014	なぁ～、ちょっとだけだって～！<br>いいだろ～？<br>一緒に遊ぼうぜ～
+015	い、いい加減に――
+016	…
+017	な、なんだよ…
+018	…この人、嫌がってるでしょ<br>わからない？	VO_irene.irene_sys_0002
+019	ああん？<br>お前には関係ねぇだろ!?
+020	関係ある<br>…これが私の任務だから	VO_irene.irene_sys_0005
+021	任務～？
+022	ん～？　よく見りゃ<br>あんたもなかなかカワイイじゃねェか？
+023	任務なんて忘れてよ<br>俺と遊ばねぇか？<br>なぁ――
+024	…………	VO_irene.irene_sys_0030
+025	痛たたたたたたたた…!!!!<br>う、腕がぁ～～～～!!!!
+026	これ以上このビーチの秩序を乱すなら<br>アナタの右腕が胴体と<br>別れることになるけど	VO_irene.irene_sys_0011
+027	ひ、ひいいいぃぃぃ～～～～！
+028	ちょっと、イレーネ！<br>ストップ、やりすぎだよ!!	VO_shengmei.shengmei_sys_0027
+029	イレーネさん<br>そのくらいで勘弁してあげてください	VO_neferty.neferty_chara_1005
+030	…………
+031	うあっ…<br>す、すんませんでしたーーーー!!!!
+032	あ、ありがとうございました…
+033	お礼はいい<br>これが私の任務だから	VO_irene.irene_sys_0030
+034	任務…？
+035	そう<br>このビーチの治安維持<br>それが私の任務	VO_irene.irene_sys_0004
+036	イレーネ～	VO_shengmei.shengmei_sys_0016
+037	…シェンメイ<br>何？	VO_irene.irene_sys_0006
+038	任務だからって<br>さっきのはやっぱりちょっと<br>やり過ぎじゃない？
+039	そう…<br>私はそう思わないけど	VO_irene.irene_sys_0004
+040	でも…	VO_shengmei.shengmei_sys_0030
+041	まあまあ、シェンメイさん<br>イレーネさんは真面目なんですよ	VO_neferty.neferty_sys_0007
+042	…真面目って言うか<br>堅いって言うか…	VO_shengmei.shengmei_sys_0031
+043	でもそのお陰で無事に<br>わたくしたちの任務は終えられそうですよ	VO_neferty.neferty_sys_0001
+044	そっか、今日が最終日だっけ？<br>明日からはここの地元の人たちが<br>見回りをするんだよね	VO_shengmei.shengmei_sys_0045
+045	ええ、その予定です	VO_neferty.neferty_sys_0005
+046	…あ！<br>じゃあさ、任務が終わったら<br>私たちも海で――	VO_shengmei.shengmei_sys_0001
+047	シェンメイおねえちゃ～ん！	VO_siyi.siyi_sys_0002
+048	リューシェン、スーイー！<br>そっちはどう？
+049	こちらは、<br>海の家にいた迷惑な若者…数名の集団と<br>痴漢ふたりを捕まえた	VO_lusheng.lusheng_sys_0004
+050	シェンメイおねえちゃんたちのほうは？
+051	こっちは泥棒ひとりを捕まえて、<br>迷子ひとりを保護、しつこいナンパ男を<br>ひとり追っ払った…って感じかな！	VO_shengmei.shengmei_sys_0031
+052	…それにしても<br>なぜこんなに人が集まるのかな<br>ただの浜辺に	VO_irene.irene_sys_0016
+053	なぜって…<br>聞いた話だとこの浜辺は<br>魔物も滅多に近寄らないらしいからな	VO_lusheng.lusheng_sys_0006
+054	安全な海だから人が集まるんでしょ？	VO_shengmei.shengmei_sys_0005
+055	…そうではなくて<br>そもそもなぜ、わざわざ<br>海に集まろうとするのか理解できない	VO_irene.irene_sys_0026
+056	…そりゃ、夏だしな	VO_lusheng.lusheng_sys_0031
+057	え…？<br>イレーネ、海遊びとかしたことない？	VO_shengmei.shengmei_sys_0025
+058	ええ	VO_irene.irene_sys_0005
+059	…もちろん、夏に浜辺に集まって<br>遊ぶ人たちがいることは知っているけど…<br>何が楽しいの？	VO_irene.irene_sys_0030
+060	何が楽しいの…って言われると<br>うーん…なんて言うか…	VO_siyi.siyi_sys_0031
+061	…遊んだこと無いなら<br>実際に遊んでみれば解るんじゃないか？	VO_lusheng.lusheng_sys_0002
+062	そうだね！<br>よし！　じゃあイレーネ、<br>この任務が終わったら一緒に遊ぼうよ！	VO_shengmei.shengmei_sys_0006
+063	…遊ぶって、何をして？	VO_irene.irene_sys_0006
+064	うーん、まず海水浴でしょ？<br>それから…あ！　ビーチバレーとか？	VO_shengmei.shengmei_sys_0007
+065	砂遊びもできるよ、<br>シェンメイおねえちゃん！	VO_siyi.siyi_sys_0007
+066	そうね！<br>あとは、砂に埋まる！
+067	え…。それは…拷問か何か…なの？	VO_irene.irene_sys_0025
+068	違う違う！<br>砂風呂的な感じで…
+069	砂風呂…<br>よくわからないけど…楽しいの？	VO_irene.irene_sys_0002
+070	うん！	VO_shengmei.shengmei_sys_0006
+071	あとは、海の家の食事だな<br>ただのラーメンや焼きそばが<br>とんでもなく美味く感じる…	VO_lusheng.lusheng_sys_0005
+072	そうそう！<br>私はかき氷も好き！	VO_shengmei.shengmei_sys_0008
+073	遊ぶだけじゃなくて、食事も…？
+074	それも夏の海の楽しみのひとつですよ！	VO_siyi.siyi_sys_0004
+075	そう…<br>でも、私はいい	VO_irene.irene_sys_0004
+076	え～!?<br>どうして～!?	VO_shengmei.shengmei_sys_0026
+128	私は任務の為にここにいるだけだから
+077	そんな～！<br>遊ぼうよ～！　イレーネ～!!
+078	シェンメイおねえちゃん…	VO_siyi.siyi_sys_0018
+079	本人が別にいいって言ってるんだから<br>無理強いするようなものじゃない	VO_lusheng.lusheng_sys_0031
+080	…それもそうか…<br>でも、気が向いたら一緒に遊ぼう！<br>ね!!
+081	…気が向いたら	VO_irene.irene_sys_0005
+082	では…<br>海で遊ぶのを楽しみに、<br>そろそろお仕事に戻りましょうか	VO_neferty.neferty_sys_0004
+083	お～！
+084	…………
+085	（…海で遊ぶのが楽しい…？<br>そんなこと、骸にいた頃は<br>考えたことも無かった…）	VO_irene.irene_sys_0030
+086	（でも…<br>これだけたくさんの人が集まってる…<br>きっと楽しいんだろう…）
+087	あ、そうだ<br>イレーネさん	VO_siyi.siyi_sys_0001
+088	？	VO_irene.irene_sys_0006
+089	鳥さん、大活躍でしたよ	VO_siyi.siyi_sys_0007
+090	ああ<br>痴漢の発見と逃亡を阻止してくれた<br>助かった	VO_lusheng.lusheng_sys_0007
+091	カルロッタ…<br>偉いね	VO_irene.irene_sys_0007
+092	…カルロッタ？	VO_irene.irene_sys_0025
+093	…………	VO_irene.irene_battle_0019
+094	どうしたの？	VO_shengmei.shengmei_sys_0005
+095	…怪しい動きをしている男がいる	VO_irene.irene_sys_0002
+096	何!?	VO_lusheng.lusheng_sys_0026
+097	…あっちの、人気のない岩場のほう
+098	行きましょう！	VO_neferty.neferty_battle_0019
+099	うん！	VO_shengmei.shengmei_sys_0006
+100	…………	VO_knightm.knightm_sys_0029
+101	お前──	VO_irene.irene_sys_0002
+102	!?<br>な、なんだ…!?
+103	あ、あんたは――	VO_knightm.knightm_sys_0001
+104	何をしている
+105	い、いや私は――	VO_knightm.knightm_sys_0031
+106	痴漢か？　それとも窃盗か？	VO_lusheng.lusheng_sys_0001
+107	ち、違う!!<br>私はそんなんじゃない！	VO_knightm.knightm_battle_0019
+108	違うと言うなら、<br>何をしてたのか言ってみろ	VO_lusheng.lusheng_sys_0010
+109	そ、それは…	VO_knightm.knightm_sys_0017
+110	…あら？<br>もしかして、あなた――	VO_neferty.neferty_sys_0006
+111	…カルロッタ!?	VO_irene.irene_sys_0025
+112	今度は何!?	VO_shengmei.shengmei_sys_0025
+113	シェンメイおねえちゃん！<br>見て、海!!
+114	魔物!?	VO_shengmei.shengmei_sys_0026
+115	そんな…！<br>確か、このビーチって――	VO_siyi.siyi_sys_0022
+116	『魔物も近寄らない安全な海』って<br>話じゃなかったか…？	VO_lusheng.lusheng_sys_0002
+117	…や、やはり来てしまったか…	VO_knightm.knightm_sys_0030
+118	…………	VO_neferty.neferty_chara_1005
+119	のんびり話を<br>聞いてる場合じゃないな…！	VO_lusheng.lusheng_sys_0018
+120	リューシェン！　スーイー！<br>ふたりは人がこっちに来ないように<br>見張ってて！	VO_shengmei.shengmei_sys_0027
+121	あと、この人の保護をお願いします！	VO_neferty.neferty_sys_0001
+122	わかりました！	VO_siyi.siyi_sys_0004
+123	気をつけろよシャオシャオ	VO_lusheng.lusheng_sys_0004
+124	もちろん！	VO_shengmei.shengmei_sys_0006
+125	さて、わたくしたちは――
+126	こいつを倒しちゃお！
+127	来る…！	VO_irene.irene_sys_0018

@@ -178,6 +178,8 @@ def check_param(data_path: str, name: str, digest: str) -> None:
 
 def crop_conceptcards(extraction_path: str) -> None:
     concept_path = os.path.join(extraction_path, "ConceptCard")
+    if not os.path.exists(concept_path):
+        return
     for card in os.listdir(concept_path):
         f = os.path.join(concept_path, card)
         try:

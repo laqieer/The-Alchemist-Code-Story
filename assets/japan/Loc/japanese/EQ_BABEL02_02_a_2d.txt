@@ -1,0 +1,195 @@
+﻿001	（…気がついた時には、ひとりだった<br>生まれた時から、この部屋の中に、<br>ひとり…）	VO_zaharu.zaharu_sys_0018
+002	（自分の親が誰なのかも、<br>自分が何者なのかも、わからない）
+003	（日に三度、外から掛けられている鍵を<br>開けて『この屋敷に仕えるエルフ』という<br>女が、食事を運んでくる）
+004	（彼女は僕のことを『ザハル』と呼ぶ<br>だから僕は『ザハル』というのだろう）
+005	（彼女たちは、決まって<br>僕のことをさげすむような目で見る）	VO_zaharu.zaharu_battle_0019
+006	（今となってはなんとも思わないが、<br>もっと幼いころには『忌み嫌われている』と<br>感じていた）
+007	（でも…なんで皆が怒っているのか<br>誰も教えてくれない<br>皆、僕とは話してくれない）
+008	ねーねー！　お花が咲いたよ～！<br>すご～い！　きれ～！
+009	（時々、外から子供の声が聞こえた）	VO_zaharu.zaharu_sys_0007
+010	（開けることを禁じられたカーテンを<br>ほんの少しだけめくり、その隙間から<br>外を覗き見た）
+011	（闇はいつもそこにあった<br>僕は闇の一部となって生きていた）
+012	（だから、外の世界は美しすぎて<br>僕は苦しい気持ちになるのだった）
+013	（僕は<br>この部屋の中にある沢山の本を読んだ<br>僕は、本からしか世界を知りえなかった）
+014	（そんなある時…）
+015	はじめまして	VO_laetitia.laetitia_sys_0007
+016	私は、レティシア<br>今日から貴方のお世話を<br>することになりました
+017	…………
+018	（その少女は、<br>なんと僕に向かって微笑んだ）
+019	はじめまして、ザハル君<br>貴方よりも少しお姉さんなのよ<br>ふふっ	VO_laetitia.laetitia_sys_0001
+020	お姉…さん？	VO_zaharu.zaharu_sys_0025
+021	そう。お姉さん<br>今までずっとひとりぼっちで、<br>寂しかったでしょう？	VO_laetitia.laetitia_sys_0004
+022	今日から、私が貴方の家族<br>だから寂しくないわよ	VO_laetitia.laetitia_sys_0007
+023	家族…<br>別に、寂しくなんて無かった<br>だって、ずっとひとりだったから	VO_zaharu.zaharu_sys_0007
+024	そっか…<br>じゃあ、私の居場所は<br>ここにもないのね	VO_laetitia.laetitia_sys_0016
+025	…!?
+026	あ、ごめんなさい<br>貴方は気にしなくていいのよ	VO_laetitia.laetitia_sys_0036
+027	居場所がないのは、<br>今までも同じだったから	VO_laetitia.laetitia_sys_0030
+028	どうして、居場所がないの…？	VO_zaharu.zaharu_sys_0006
+029	え、わからない…？<br>私、ダークエルフよ？	VO_laetitia.laetitia_sys_0027
+030	ダーク、エルフ…？	VO_zaharu.zaharu_sys_0025
+031	そう…誰も、教えてくれなかったのね…<br>ひとりだったんですものね…	VO_laetitia.laetitia_sys_0016
+032	お姉さんは、僕が誰なのか知ってるの!?<br>僕のお父さんとお母さんも知ってる!?<br>『ハーフエルフ』って、なんなの!?	VO_zaharu.zaharu_battle_0021
+033	…………<br>貴方にとって…<br>すごくつらいお話かもしれないわよ？	VO_laetitia.laetitia_sys_0001
+034	…それでもいい。僕は知りたいんだ<br>僕が一体誰なのか<br>お願いだよ！　教えて！	VO_zaharu.zaharu_battle_0019
+035	…わかったわ<br>教えてあげる…<br>貴方が何者なのかを…	VO_laetitia.laetitia_sys_0038
+036	（レティシアお姉さんは、<br>教えてくれた…）
+037	（僕が、人間と…僕がいるこの屋敷の<br>ハイエルフのお嬢様の間に生まれた…<br>望まれない子供だってこと）
+038	（お父さんはハイエルフ達に処刑され、<br>お母さんは、僕を産んでから<br>死んでしまったこと…）
+039	（ハイエルフはエルフの中でも最も気高く<br>僕みたいな『ハーフエルフ』は、"恥"<br>なんだってこと…、そして…）
+040	…私みたいなダークエルフも、<br>ハイエルフからは嫌われているの…	VO_laetitia.laetitia_sys_0030
+041	どうして…？	VO_zaharu.zaharu_sys_0025
+042	私たちダークエルフは、<br>昔、同じエルフの仲間を殺した存在なの	VO_laetitia.laetitia_battle_0019
+043	ハイエルフの命を奪うことで<br>彼らのアルケミィは闇に反転して<br>殺したエルフに降りかかる
+044	つまり、ダークエルフの血は裏切りの血の系譜…<br>だから、純血のハイエルフは<br>ダークエルフを忌み子としてさげすむの…	VO_laetitia.laetitia_sys_0029
+045	どうして、仲間を殺したの…？	VO_zaharu.zaharu_sys_0007
+046	…わからないわ<br>貴方や私が生まれるよりも<br>ずっと前のことだから…	VO_laetitia.laetitia_sys_0030
+047	…お姉さんは、どうしてここにいるの？	VO_zaharu.zaharu_sys_0049
+048	…買われたの	VO_laetitia.laetitia_sys_0018
+049	買われた…？	VO_zaharu.zaharu_sys_0025
+050	私は、奴隷なの<br>ダークエルフがハイエルフに戦いを挑んで、<br>負けてしまった…	VO_laetitia.laetitia_sys_0004
+051	そのお詫びとして私は、<br>ハイエルフに売られたの…
+052	私は、貴方と一緒にいる為に、<br>ここに来たのよ
+053	…奴隷…	VO_zaharu.zaharu_sys_0018
+054	（『奴隷』というのが、<br>どういう存在なのか、<br>僕は本を読んで知っていた）
+055	（そして、このレティシアお姉さんが、<br>僕と同じように、世界中でここにしか<br>居場所がないのだと、わかった）
+056	レティシアお姉さん…<br>ずっと、ここにいてくれる？	VO_zaharu.zaharu_sys_0049
+057	え…<br>いいの？<br>でも、貴方は…	VO_laetitia.laetitia_sys_0027
+058	お姉さんのお話、もっと聞きたい<br>だから、ここにいてほしいんだ	VO_zaharu.zaharu_sys_0007
+059	…ありがとう<br>貴方が望む限り、私はここにいるわ…	VO_laetitia.laetitia_sys_0033
+060	（それから僕たちは、<br>長い時間をふたりで過ごした）
+061	（お姉さんは食事の支度をする<br>時以外は、ずっとこの部屋にいた）
+062	（レティシアお姉さんは、<br>この部屋の本の中には書いていない、<br>もっとたくさんのことを知っていた）
+063	（だから、僕はお姉さんから<br>たくさんのことを教えてもらった）
+064	ねーねー！　木の実を見つけたよー！
+065	ホントだー！　丸くて綺麗だね～！
+066	…………
+067	ザハル君、お食事よ<br>…？<br>何を見ているの？	VO_laetitia.laetitia_sys_0002
+068	外…子供たちがいる<br>遠くに大きな塔も見える	VO_zaharu.zaharu_sys_0007
+069	…ザハル君は、外に出たいの？	VO_laetitia.laetitia_sys_0001
+070	別に…<br>ここで、お姉さんと一緒にいるほうが良い<br>だって…	VO_zaharu.zaharu_chara_1001
+071	だって？	VO_laetitia.laetitia_sys_0027
+072	外の世界は眩しすぎて、<br>なんだか…気持ちが悪いんだ	VO_zaharu.zaharu_sys_0049
+073	…………<br>『眩き者を弑逆せよ<br>汝、暗闇の王なり』	VO_laetitia.laetitia_sys_0016
+074	何？　それ…	VO_zaharu.zaharu_sys_0025
+075	ダークエルフに伝わる古い古い昔話<br>『闇の王、誰が為に、征かんや<br>誰が為に、戦わんや』	VO_laetitia.laetitia_sys_0004
+076	“闇の王”…	VO_zaharu.zaharu_sys_0025
+077	昔から、ダークエルフはハイエルフや<br>他のエルフに苛められてたから…	VO_laetitia.laetitia_sys_0004
+078	いつかきっと、その恨みを晴らしてくれる<br>英雄が現れる…っていう、お話なの	VO_laetitia.laetitia_sys_0007
+079	…もし	VO_zaharu.zaharu_sys_0018
+080	ん？	VO_laetitia.laetitia_sys_0006
+081	もし、お姉さんが苛められたら<br>僕が“闇の王”になる<br>お姉さんの為に、戦う	VO_zaharu.zaharu_sys_0007
+082	…ザハル君<br>ありがとう<br>それじゃあ、約束よ？	VO_laetitia.laetitia_sys_0033
+083	ああ、約束するよ	VO_zaharu.zaharu_sys_0004
+084	あ…そうだわ<br>その為にも、ザハル君には<br>“錬金術”を教えないとね	VO_laetitia.laetitia_sys_0007
+085	？
+086	ただ “錬金術”は“禁忌”…<br>聖教騎士団以外がそれを使うのは<br>許されていないけれどね	VO_laetitia.laetitia_sys_0030
+087	でも本当に“闇の王”を目指すなら<br>“錬金術”が必要になるわ<br>きっとザハル君ならできるわ
+088	いいよ。お姉さんを守る為なら<br>僕はなんだってやってみせるよ	VO_zaharu.zaharu_sys_0007
+089	ふふっ、ありがとう<br>約束の証に、これを貴方にあげる	VO_laetitia.laetitia_sys_0007
+090	これは…？<br>木彫りの首飾り…	VO_zaharu.zaharu_sys_0006
+091	私が作ったの<br>大切にしてね？	VO_laetitia.laetitia_sys_0004
+092	…うん<br>ありがとう
+093	（ある日のことだった…）
+094	（お姉さん遅いな…<br>食事まだかな…お腹が空いたよ…）	VO_zaharu.zaharu_sys_0031
+095	!?
+096	お止めください、ご主人様っ…	VO_laetitia.laetitia_battle_0022
+097	（お姉さん…？）	VO_zaharu.zaharu_sys_0025
+098	おいッ！<br>卑しきダークエルフの小娘がッ！<br>私の服が汚れてしまったではないか！！	VO_mob-saga_omale.mog-saga_omale_sys_0012
+099	それは貴方様が<br>私にぶつかってきたから…	VO_laetitia.laetitia_sys_0029
+100	ほう、ダークエルフの分際で口答えとは…	VO_mob-saga_omale.mog-saga_omale_sys_0031
+101	なっ…	VO_laetitia.laetitia_battle_0022
+102	汚らわしいことだが、そのアルケミィで<br>勘弁してやろう…	VO_mob-saga_omale.mog-saga_omale_sys_0010
+103	（どうしたんだろう…<br>あっ…鍵穴から、向こうが見える…）	VO_zaharu.zaharu_sys_0049
+104	この私がお前如きのアルケミィを<br>貰ってやると言うのだ！<br>ぐずぐずするな、ひざまずけ…!!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+105	ぅグッ…!!	VO_laetitia.laetitia_battle_0019
+106	（あっ…！　お姉さんっ!!）	VO_zaharu.zaharu_battle_0021
+107	…………
+108	聞こえなかったのか？<br>その耳は飾りか？	VO_mob-saga_omale.mog-saga_omale_sys_0012
+109	忌々しいッ…我ら高貴なるエルフと、<br>形ばかり同じで…	VO_mob-saga_omale.mog-saga_omale_sys_0016
+110	…わかりました	VO_laetitia.laetitia_sys_0029
+111	それでいい<br>ほら。さっさとしろ	VO_mob-saga_omale.mog-saga_omale_sys_0010
+112	（お姉さんッ…!!）	VO_zaharu.zaharu_sys_0028
+113	…やめろ…！<br>やめろーーーーーーーーーーーーーーー!!	VO_zaharu.zaharu_battle_0024
+114	なっ、なぁッ!?	VO_mob-saga_omale.mog-saga_omale_sys_0026
+115	…ザハル…君…	VO_laetitia.laetitia_sys_0027
+116	…レティシアお姉さんを…<br>いじめるな…	VO_zaharu.zaharu_sys_0027
+117	こッ、このォ!?<br>穢らわしいハーフエルフめぇ!!<br>禁を破るとはッ…!!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+118	叔父上に言いつけてやるッ！<br>私の妻となるお方を死に追いやった、<br>貴様の父と同じように、殺してやるッ!!
+119	!!
+120	ゥグっ!?<br>グ、ぐるジ…ィ…た、すケ…!!	VO_mob-saga_omale.mog-saga_omale_sys_0043
+121	ザハル君…
+122	グッ…ゥウ…!!<br>ゥァァァァアアアア…!!	VO_zaharu.zaharu_sys_0043
+123	ザハル君!!
+124	（…それからのことは、<br>よく覚えていない…）
+125	（見たこともない老エルフから<br>「出て行け」と命じられ<br>僕たちは、屋敷を追い出された）
+126	（僕を閉じ込めていた、牢獄…<br>お姉さんと二人きりの、天国…<br>僕は、それを同時に失った）
+127	（そして、生まれて初めて、<br>僕は"世界"を見た）
+128	…………
+129	どう？　初めて見た外の世界は？	VO_laetitia.laetitia_sys_0001
+130	うん…世界って<br>こんなに広かったんだね…	VO_zaharu.zaharu_sys_0007
+131	もっともっと広いよ、たくさん人がいて、<br>街があって…<br>山や森、川、海…それに、大きな塔	VO_laetitia.laetitia_sys_0004
+132	塔…？<br>それって家の中からも<br>見えていたバベルの塔？	VO_zaharu.zaharu_sys_0025
+133	そうよ<br>行ってみたい？	VO_laetitia.laetitia_sys_0004
+134	そうだね…<br>僕、バベルの塔に行ってみたいな…	VO_zaharu.zaharu_sys_0007
+135	そっか…でもちょっと遠いから、<br>私たちに行けるかしら…？	VO_laetitia.laetitia_sys_0016
+136	行こうよ！<br>僕とお姉さんなら、きっと行ける！	VO_zaharu.zaharu_sys_0023
+137	そうだね。ザハル君、強いもんね<br>ビックリしちゃった<br>あんなに力があるなんて	VO_laetitia.laetitia_sys_0004
+138	僕も、驚いたんだ…<br>お姉さんが苛められてたから無我夢中で…	VO_zaharu.zaharu_sys_0027
+139	そうだ…！<br>僕、あのハイエルフを殺してから、<br>なんだか変なんだ…
+140	…それは、ダークエルフに<br>なっちゃったからだよ	VO_laetitia.laetitia_sys_0018
+141	エルフは、エルフを殺し、<br>その血…アルケミィを奪うことで、<br>ダークエルフになるの…
+142	僕が…ダークエルフに…？<br>そっか！　すごい、嬉しい！	VO_zaharu.zaharu_sys_0008
+143	え？　どうして…？<br>ダークエルフって、嫌われ者なんだよ？	VO_laetitia.laetitia_sys_0027
+144	そんなこと、構うもんか<br>僕、レティシア姉さんと一緒になれて、<br>すごく嬉しいよ！	VO_zaharu.zaharu_sys_0007
+145	ザハル君…<br>私のこと、本当に守ってくれたね<br>ありがとう	VO_laetitia.laetitia_sys_0034
+146	もちろんだよ！　約束したじゃないか<br>僕は、お姉さんを守る<br>“闇の王”になるって	VO_zaharu.zaharu_sys_0023
+147	…うん。君は、私の…<br>ううん。もしかしたら本当に、<br>なるかもしれないね	VO_laetitia.laetitia_sys_0004
+148	“闇の王”に
+149	（それから僕たちは、旅をした。<br>世界中…行ける所なら、<br>どんなところにも行った）
+150	（世界は、本当に広かった<br>そして、険しく、厳しく…<br>また、優しくもあり、美しくもあった）
+151	（閉じ込められていた部屋から見える<br>ちっぽけな世界の美しさは嫌いだったけど<br>雄大な世界の美しさは好きになった）
+152	（僕たちは魔物や、時には人と戦い、<br>危険な目にも遭いながら<br>大人になっていった…）
+153	（数百の、幾千日の時をかけて…）
+154	おい、聞いたか？<br>ついにラーストリスの西にあった森が、<br>すっかり枯れちまったってよ	VO_thiefm.thiefm_sys_0002
+155	ああ、聞いた聞いた<br>すっかり砂漠になっちまったらしいなあ	VO_thiefm.thiefm_sys_0004
+156	噂じゃ、あそこにはエルフが<br>住んでたっていうじゃねえか	VO_thiefm.thiefm_sys_0030
+157	本当かい？<br>あの高慢ちきな連中、宗主国以外にも<br>いたんだなあ…	VO_thiefm.thiefm_sys_0006
+158	ああ。だが、砂漠化で<br>すっかり滅んじまったらしいぜ	VO_thiefm.thiefm_sys_0004
+159	それにしても、<br>世の中どうなってんのかねえ<br>緑の街が砂漠になっちまうし…	VO_thiefm.thiefm_sys_0031
+160	大陸のそこら中でいざこざばっかり…<br>魔物も凶暴になるし…<br>はぁ、嫌な世の中だよ、まったく…	VO_thiefm.thiefm_sys_0030
+161	…………
+162	何を考えているの？	VO_laetitia.laetitia_sys_0001
+163	…いや<br>そろそろ、出ようか	VO_zaharu.zaharu_chara_1001
+164	…そう言えば、これだけ長い間、<br>旅をしていても、バベルの塔は<br>見ていないな…	VO_zaharu.zaharu_sys_0031
+165	そうね…あの辺りは聖教騎士の<br>見回りも厳しいし、彼らの前で<br>錬金術はご法度だから…なかなか、ね	VO_laetitia.laetitia_sys_0004
+166	でも、いいじゃない<br>私たちは長い時を生きることが出来る…<br>いつか、行けば	VO_laetitia.laetitia_sys_0007
+167	長い時…。そうだな…<br>あの者たちは、本当に滅んだのだろうか<br>俺たちを閉じ込めていたハイエルフは	VO_zaharu.zaharu_sys_0007
+168	あの人たちは、あの森に固執していたから<br>森とともに死んでいったんじゃないかしら	VO_laetitia.laetitia_sys_0022
+169	…故郷が滅んだと聞いて、寂しい？	VO_laetitia.laetitia_sys_0001
+170	フッ…まさか<br>寂しくも、嬉しくもない<br>本当に、何も感じないんだ	VO_zaharu.zaharu_sys_0010
+171	私も	VO_laetitia.laetitia_sys_0004
+172	それよりも、俺はこれからのことを<br>考えているんだ…	VO_zaharu.zaharu_sys_0002
+173	これから？	VO_laetitia.laetitia_sys_0006
+174	そう…<br>俺たちエルフには、時間がありすぎる<br>これからの時間をどう生きるか…	VO_zaharu.zaharu_sys_0004
+175	それを考えている
+176	世界は一見、美しく眩しい…<br>だが、長い時を経ても戦争や貧困は<br>なくならない	VO_zaharu.zaharu_sys_0018
+177	なくなるどころか<br>更に酷くなっていっている気がする
+178	加えて…森も滅び、砂漠と化してゆく<br>この世界は、どこかおかしい…<br>何かを変えなければならない
+179	それが出来るのは、<br>長命である俺たちエルフなんじゃないか？	VO_zaharu.zaharu_sys_0031
+180	子供の頃より、俺は強くなった<br>沢山のものも見てきた…<br>俺にはやらなければならないことがある
+181	そんな気がしている
+182	そう…<br>私は、貴方がどこに行こうと、<br>ともに行くわ	VO_laetitia.laetitia_sys_0016
+183	ああ…ともに行こう、姉さん<br>世界を変える為に…！	VO_zaharu.zaharu_sys_0004
+184	…？<br>何か、聞こえないか…？	VO_zaharu.zaharu_sys_0006
+185	…叫び声…<br>近くの村からだわ	VO_laetitia.laetitia_sys_0004
+186	行こう！	VO_zaharu.zaharu_battle_0019
+187	……グルルルゥ<br>ガアァァァァ!!
+188	ま、魔物だっ…！<br>だ、誰か助けてくれっ!!	VO_knightm.knightm_sys_0028
+189	し、司祭様っ、聖教騎士様は、<br>まだいらっしゃらないのですか!?	VO_knightm.knightm_sys_0018
+190	ええい…！<br>こうなったら…私だけでもっ…！	VO_mob-saga_omale.mog-saga_omale_sys_0042
+191	司祭様…!?	VO_knightm.knightm_sys_0025
+192	い、いいや、なんでもないっ…！<br>皆、逃げよ、逃げるのだっ!!	VO_mob-saga_omale.mog-saga_omale_sys_0029
+193	村が襲われている…！<br>行こう、姉さん！<br>村を助けるんだ!!	VO_zaharu.zaharu_sys_0027
+194	ええ！	VO_laetitia.laetitia_sys_0004
+195	これだけ魔物がいるとなると<br>錬金術を使うしかないか…	VO_zaharu.zaharu_battle_0019

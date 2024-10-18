@@ -1,0 +1,62 @@
+﻿001	…驚いたな<br>あの数の魔物を、たったふたりで
+002	そっちも、中々の剣捌きだったぜ<br>ええと…	VO_kvense_kvense-b.kvense_sys_0037
+003	ああ、自己紹介がまだだったか	VO_lollerm.lollerm_sys_0045
+004	まあ、状況がな…	VO_kvense_kvense-b.kvense_sys_0030
+005	私はローレアム<br>この憤怒の層で、まあ…<br>それなりの立場にいると思う	VO_lollerm.lollerm_sys_0037
+006	そりゃ話が早くて助かるな<br>俺はクェンス。雑に分類すると、まあ…<br>魔法使いだ	VO_kvense_kvense-b.kvense_sys_0037
+007	で、そっちのがザフィリス
+008	貴方は…竜か
+009	そうだ	VO_zafilys.zafilys_sys_0037
+010	人間と竜のコンビとは、珍しいな
+011	珍しい…ね<br>その口ぶりだと、そういう手合いに<br>心当たりがあるわけだ	VO_kvense_kvense-b.kvense_sys_0044
+012	竜を連れた傭兵と会ったことがあってね<br>マティアという名前なのだが、<br>知っているかな？	VO_lollerm.lollerm_sys_0037
+013	…いやぁ、知らねえな	VO_kvense_kvense-b.kvense_sys_0005
+014	…………その傭兵も、ここに？	VO_zafilys.zafilys_sys_0006
+015	いや、会ったのはずいぶん昔の話だ	VO_lollerm.lollerm_sys_0039
+016	それは良かった<br>いや、特に他意はないが	VO_zafilys.zafilys_sys_0009
+017	（あ、これは昔なんかあったな？）	VO_kvense_kvense-b.kvense_sys_0005
+018	まあ、それはいいんだ<br>俺たちが言いたいのは――	VO_kvense_kvense-b.kvense_sys_0001
+019	ああ、命の恩人だからね！<br>ぜひとも礼をさせて貰いたい	VO_lollerm.lollerm_sys_0007
+020	何か、目的のある旅だとは思うが…<br>寄り道をする余裕はあるだろうか？	VO_lollerm.lollerm_sys_0001
+021	あ、ああ、そりゃ勿論あるが	VO_kvense_kvense-b.kvense_sys_0037
+022	では決まりだ！<br>私の暮らす町に案内しよう<br>きっとみんな、喜ぶぞ！	VO_lollerm.lollerm_sys_0008
+023	…海賊連中の時も思ったが<br>外の連中には、警戒心ってものがねえのか	VO_kvense_kvense-b.kvense_sys_0030
+024	なんにしても、渡りに船だ<br>彼女について行くのが良いと思うが	VO_zafilys.zafilys_sys_0022
+025	だな<br>…これからあのテンションの相手すんのか
+026	ワギナオを置いて来たのは、<br>失敗だったかもしれんな…	VO_kvense_kvense-b.kvense_sys_0020
+027	ここが私たちの町だ<br>名前は、ええと…まだないんだが
+028	できたてなのか？	VO_kvense_kvense-b.kvense_sys_0025
+029	そうなんだ<br>前の町に愛着はあったんだが<br>老朽化がひどくてね	VO_lollerm.lollerm_sys_0037
+030	数百年ぶりの遷都といったところさ
+031	…………
+032	特に、人々の間に動揺はないか<br>至近であれだけの魔物の群れが出たなら、<br>警戒などしていてもいいと思うのだが	VO_zafilys.zafilys_sys_0006
+033	…みんな、緊張感がなくてね	VO_lollerm.lollerm_sys_0022
+034	だから避難を促しても、<br>誰も動かなくてさあ
+035	…おい待て<br>まさか、アンタ…あの群れをこの町から<br>引き離そうとしてたのか？　ひとりで？	VO_kvense_kvense-b.kvense_sys_0001
+036	この町、戦えるの私だけだからねえ	VO_lollerm.lollerm_sys_0031
+037	危機感がなさすぎる…	VO_kvense_kvense-b.kvense_sys_0030
+038	なにせ、あんな魔物の群れは<br>それこそ数十年に一度の話なんだ
+039	私自身、実物見るまで<br>嘘じゃない？　って思ってたし
+040	あれはこの層では<br>異常事態だった、ということか	VO_zafilys.zafilys_sys_0031
+041	そうなんだ<br>普段は森で自分の縄張りを守ってる<br>魔物たちが、最近妙に活発でね	VO_lollerm.lollerm_sys_0005
+042	リンドレイク様がシナイの霊山に<br>帰還したことと、何か関係があるのかな…
+043	シナイの霊山？	VO_kvense_kvense-b.kvense_sys_0005
+044	ほら、あそこに見える――	VO_lollerm.lollerm_sys_0037
+045	あの山のことさ
+046	ああ、ずっと見えてたあの山か<br>あそこに、リンドレイク――<br>噂の寛容の竜が棲んでるわけだ	VO_kvense_kvense-b.kvense_sys_0044
+047	そうだけど…<br>君たち、もしかしてリンドレイク様に<br>会いに来たのかい？
+048	…そうだ	VO_zafilys.zafilys_sys_0037
+049	ちょっと、重要なお話があってな<br>礼って言うなら、<br>その辺の繋ぎを頼みたいところなんだが	VO_kvense_kvense-b.kvense_sys_0041
+050	…ん～<br>それはちょっと難しいかな	VO_lollerm.lollerm_sys_0031
+051	かの竜はもともと、<br>私たちの暮らしに関心の薄い方だったけど
+052	この間の遠征から帰ってきてからは、<br>完全にお山を閉ざしてしまってるんだ
+053	山を、閉ざす？	VO_kvense_kvense-b.kvense_sys_0039
+054	シナイの霊山は、リンドレイク様の聖域<br>私たちには立ち入る資格がない	VO_lollerm.lollerm_sys_0037
+055	それでも、例年は<br>麓ぐらいまでは入れたんだけれど…
+056	今は近づくのも無理ってか？<br>…結界か何かか？	VO_kvense_kvense-b.kvense_sys_0030
+057	そうか、君は魔法使いだったね<br>ああ、そんな感じだと思ってくれ	VO_lollerm.lollerm_sys_0045
+058	もともと、<br>リンドレイク様と私たちの関わりは<br>とても薄い
+059	お会いするのも、年に一度の豊穣祭を<br>遠くから眺めている姿を見る程度さ
+060	…人と関わらない竜、か
+061	では、別の頼みをしても？	VO_zafilys.zafilys_sys_0002
+062	勿論だとも！	VO_lollerm.lollerm_sys_0038

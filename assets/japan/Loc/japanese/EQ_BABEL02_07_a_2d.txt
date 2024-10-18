@@ -1,0 +1,243 @@
+﻿001	…………
+002	はいはい、みんな静かにー！<br>今日は、皆にお知らせがあります
+003	これまで、皆と仲良くお勉強してきた<br>ハイディーくんですが<br>聖教会の修道士になることになりました
+004	え～!?<br>こんな急に～!?	VO_jogakusei.jogakusei_sys_0016
+005	お別れも言えないの～？	VO_jogakusei.jogakusei_sys_0018
+006	寂しいよぉ～…	VO_jogakusei.jogakusei_sys_0021
+007	寂しい気持ちはわかります<br>でも、これはとても名誉なことなのですよ
+008	皆もハイディーくんのように<br>聖教会の為、バベル大陸の為に<br>役に立つような人物になれるよう…
+009	今日も、一生懸命お勉強しましょうね！
+010	は～い！
+011	…………
+012	ウッディ…今日もクラスの子が<br>いなくなったよ…	VO_mea.mea_sys_0002
+013	ハイディーくんは<br>わたしと同じ…戦争で<br>お父さんとお母さんを失くしちゃった子…	VO_mea.mea_sys_0018
+014	ウッディ…わたしのこと、<br>慰めてくれるの？<br>優しいね、ウッディは。ふふっ	VO_mea.mea_battle_1018
+015	でも、大丈夫だよ	VO_mea.mea_sys_1006
+016	わたしにはウッディと<br>うさぎさんたちがいるから<br>寂しくないよ！
+017	ふふっ、今日はなにして遊ぼうか？<br>おままごと？　それともご本を読む？<br>探検ごっこも楽しそうだねっ	VO_mea.mea_sys_0007
+018	もう…学園の皆は下校した時間だし…<br>探検ごっこしようか！	VO_mea.mea_sys_0031
+019	静かな廊下…教室…<br>昼間はあんなに賑やかなのに<br>今はとってもしーんとしてる…
+020	でも、なんだか不思議だね<br>賑やかなときのほうが<br>なんだか私は寂しいの…	VO_mea.mea_sys_0002
+021	今のほうが寂しくない…<br>やっぱりウッディたちと<br>一緒にいられるからだね！	VO_mea.mea_sys_0007
+022	？　今…何か音がしたよね？<br>まだ、誰かいるのかな…？<br>こっちの方から、聞こえたけど…	VO_mea.mea_battle_1018
+023	あれ？<br>こんなところに、扉なんてあったっけ…？	VO_mea.mea_sys_0025
+024	開けたら…ダメかな…？<br>…………<br>開けて、みよっか？	VO_mea.mea_sys_0031
+025	ウッディとうさぎさんたちがいれば、<br>大丈夫だよね？ <br>よし、開けちゃえ…	VO_mea.mea_sys_0032
+026	だーーーー！　気に入らん！<br>どうして、ニグルに勝てないんだ!?	VO_ila.ila_battle_0014
+027	はぁっ…<br>やっぱりニグル様、強いよねえ…	VO_syrma.syrma_sys_0030
+028	さすがラーストリス騎士団の副団長だった人…<br>三人がかりでも、敵わないなんて…	VO_spica.spica_sys_0038
+029	ング…ぷはっ…やはり酒は<br>『キャラメル・イェーガー』に限る…<br>私の闇を満たしてくれる…	VO_niggle.niggle_sys_0008
+030	酒ばっかり飲んでいるのに…<br>わけがわからん！<br>よし！　オレはもう一回、挑むぞ！	VO_ila.ila_sys_0031
+031	がんばって～<br>アタシちょっと休憩～	VO_syrma.syrma_sys_0005
+032	…………
+033	ん？　お姉ちゃん、どうしたの？	VO_syrma.syrma_sys_1011
+034	ザハル様…久しくお会いしてない…	VO_spica.spica_sys_0022
+035	久しくって…今朝ご挨拶したし…<br>昨日は全然お見かけしなかったけど<br>一昨日は作戦会議に出たし…	VO_syrma.syrma_sys_0016
+036	でもっ…ラーストリス騎士団の時は…<br>ずっとお隣りにいたから…	VO_spica.spica_battle_0019
+037	…そんなこと言ったら<br>森にいた時には全然一緒に<br>いなかったけど…	VO_syrma.syrma_sys_0031
+038	それは…そうなんだけど…<br>今は、同じ場所にいるのに…<br>こんなにお会い出来ないなんて…	VO_spica.spica_chara_1002
+039	…ザハル様にお会いしたいです…	VO_spica.spica_sys_0018
+040	…す、凄いっ…<br>お姉ちゃんのザハル様愛が…<br>凄すぎて、凄いっ…！	VO_syrma.syrma_sys_0046
+041	…ああ、ザハル様…	VO_spica.spica_sys_0022
+042	俺がどうかしたか<br>スピカよ	VO_zaharu.zaharu_sys_0006
+043	ざっ、ザハル様ぁっ！	VO_spica.spica_sys_0026
+044	ニグルとの修練はすすんでいるか	VO_zaharu.zaharu_sys_0002
+045	は、はいっ…！<br>わたし、ザハル様のお役に立つ為<br>より一層、強くなります	VO_spica.spica_chara_1009
+046	期待している。励めよ<br>そうだ…レティシア<br>あれを二人に	VO_zaharu.zaharu_sys_0004
+047	はい<br>これをスピカとシルマにも渡しておくわ	VO_laetitia.laetitia_sys_0005
+048	？
+049	これは…？	VO_syrma.syrma_sys_0005
+050	シャドウメサイヤの徽章よ<br>イーラの分は…<br>ニグルから渡してもらいましょうか	VO_laetitia.laetitia_sys_0004
+051	ざ、ザハル様っ…！<br>わたし、この徽章に恥じぬよう<br>努力いたします！	VO_spica.spica_sys_0046
+052	うむ	VO_zaharu.zaharu_sys_0031
+053	…………
+054	何かしら？　ふふっ	VO_laetitia.laetitia_sys_0022
+055	い、いえ…	VO_spica.spica_chara_1002
+056	そう	VO_laetitia.laetitia_sys_0016
+057	…………
+058	うーん…レティシア様…<br>相変わらず何をお考えなのか…<br>全くわからない…	VO_syrma.syrma_sys_0031
+059	ザハル様とレティシア様は<br>どういう関係なんだろう…
+060	シルマ…	VO_spica.spica_sys_0012
+061	はっ…！<br>ご、ごめんお姉ちゃんっ！	VO_syrma.syrma_sys_0025
+062	わたしはニグル様との修練に戻ります<br>強く…ならなくては！	VO_spica.spica_sys_0010
+063	ま、待ってよお姉ちゃん！<br>アタシも行くから～っ！	VO_syrma.syrma_sys_0026
+064	くすっ…	VO_laetitia.laetitia_sys_0007
+065	どうした	VO_zaharu.zaharu_sys_0006
+066	いえ…<br>私は相変わらずスピカに<br>嫌われているみたい	VO_laetitia.laetitia_sys_0010
+067	…………
+068	ああ、スピカをお叱りにならないでね？<br>彼女には、その“情”が必要なのです	VO_laetitia.laetitia_sys_0030
+069	そう…“情”とは、儚くも脆い…<br>しかし“強い”ものですわ
+070	それにしても、ザハル様…<br>貴方が“徽章”を作るなんて<br>思ってもいませんでしたわ	VO_laetitia.laetitia_sys_0001
+071	具象に意味はない<br>だが、形にすることで伝わる意志がある<br>スピカのように	VO_zaharu.zaharu_sys_0010
+072	私が、貴方に木彫りの首飾りを<br>渡したように？	VO_laetitia.laetitia_sys_0025
+073	そうだ<br>…スピカは弱く、脆い<br>いずれ、耐えきれず壊れるであろう	VO_zaharu.zaharu_sys_0004
+074	…でもその時、貴方はあの子を<br>壊さないように手を離す…	VO_laetitia.laetitia_sys_0016
+075	美しい陶器のように<br>自らの手で壊すことはしない…<br>お優しいのね	VO_laetitia.laetitia_sys_0007
+076	スピカは、その内に<br>もっとも我が意を満たし、志を乗せて運ぶ<br>器になるであろう	VO_zaharu.zaharu_sys_0031
+077	万が一の時の…ね	VO_laetitia.laetitia_sys_0004
+078	ニグル同様にな	VO_zaharu.zaharu_sys_0004
+079	私たちは、礎…	VO_laetitia.laetitia_sys_0030
+080	彼らであれば、新たな秩序を<br>築いた世界を託すに足りる…	VO_zaharu.zaharu_sys_0004
+081	御意	VO_laetitia.laetitia_sys_0005
+082	ザハル様、ご報告です！<br>例の研究者の隠れ家を発見いたしました	VO_knightm.knightm_sys_0003
+083	どこだ	VO_zaharu.zaharu_chara_1008
+084	ラーストリス魔道学園です
+085	…クク。わかった<br>レティシア、皆をあつめよ	VO_zaharu.zaharu_sys_0008
+086	御意…	VO_laetitia.laetitia_sys_0005
+087	…この階段<br>どこまで続いてるんだろう？	VO_mea.mea_sys_0018
+088	大丈夫だよ、ウッディ…<br>たぶん…	VO_mea.mea_sys_1006
+089	あ…明かりが見えてきたよ…	VO_mea.mea_battle_1018
+090	そこをなんとか…！<br>ま、間もなく完成するのですっ…！<br>さすれば、きっとご満足いただけると…	VO_mob-saga_omale.mog-saga_omale_sys_0020
+091	そのようなことを言いながら<br>いつまで待たせるつもりだ！	VO_thiefm.thiefm_sys_0002
+092	（こんなところで<br>誰が話してるんだろう…？）	VO_mea.mea_sys_0025
+093	ま、間もなくでございます！<br>間もなく、研究のひとまずの成果を<br>ご覧いただけるかと…	VO_mob-saga_omale.mog-saga_omale_sys_0018
+094	貴様は、そう言って何度も<br>成果を出さずに引っ張っているではないか	VO_thiefm.thiefm_sys_0012
+095	そ、それは…	VO_mob-saga_omale.mog-saga_omale_sys_0027
+096	（あれは…錬金術の先生…と、<br>誰…？）	VO_mea.mea_battle_1018
+097	（『研究』？　『成果』？<br>なんのことだろう…？）	VO_mea.mea_sys_0031
+098	やはり、試験体が足りず…	VO_mob-saga_omale.mog-saga_omale_sys_0029
+099	…今回は大丈夫だろうな？<br>試験体…この学園の生徒も<br>数が少なくなってきている	VO_thiefm.thiefm_sys_0016
+100	もう、猶予はないぞ	VO_thiefm.thiefm_sys_0030
+101	そ、それはもうっ！<br>今回の試験体は、アルケミィ耐性も<br>十分！　きっと成果をご覧いただけます！	VO_mob-saga_omale.mog-saga_omale_sys_0018
+102	あ…ウ…ァ…
+103	あ…っ！<br>は、ハイディーくんっ…!!	VO_mea.mea_battle_1018
+104	っ!?	VO_mea.mea_battle_0020
+105	誰だッ!?	VO_mob-saga_omale.mog-saga_omale_sys_0025
+106	あ…あ…せ、先生…	VO_mea.mea_battle_1018
+107	おやおや…キミは、幻術クラスの<br>メアくんじゃないかぁ～？<br>こんなところでなにをしてるんだぁ～い？	VO_mob-saga_omale.mog-saga_omale_sys_0010
+108	わ、わたっ…私…何も見て…	VO_mea.mea_sys_0027
+109	おい。見られたぞ<br>どうするつもりだ	VO_thiefm.thiefm_sys_0002
+110	ご安心ください…<br>この娘の体内アルケミィは<br>すでに把握済み…	VO_mob-saga_omale.mog-saga_omale_sys_0007
+111	この娘も、いずれ試験体として<br>欲しかったのでございます…	VO_mob-saga_omale.mog-saga_omale_sys_0010
+112	ッ!?	VO_mea.mea_battle_0020
+113	…このような少女を…<br>趣味が悪いな…	VO_thiefm.thiefm_sys_0030
+114	何を申されますか。これは研究…<br>錬金術の新たなる境地を拓く為の<br>大切な研究なのでございます…！	VO_mob-saga_omale.mog-saga_omale_sys_0011
+115	い、いや…！	VO_mea.mea_battle_0025
+116	さあ、メアくん…！<br>怖がることはない<br>キミは、世界の役に立てるのだ…	VO_mob-saga_omale.mog-saga_omale_sys_0007
+117	（助けて…ウッディ…!!）	VO_mea.mea_battle_0020
+118	光栄に思いたまえ…！	VO_mob-saga_omale.mog-saga_omale_sys_0010
+119	…ここに、あの『ラーストリス錬金術研究所』の<br>生き残りの研究者がいるのだな…	VO_niggle.niggle_sys_0031
+120	ハッ…聖教会の援助を受け、<br>地下に研究施設を設けているとのことです
+121	フッ…堕ちたものだな<br>聖教会に取り入るとは…	VO_zaharu.zaharu_sys_0010
+122	調べによれば、この学園自体が<br>すでに裏で聖教会が運営しているとのこと<br>その証拠に…	VO_laetitia.laetitia_sys_0005
+123	骸…!?	VO_ila.ila_sys_0025
+124	難しいことはよくわかんないけど…<br>その研究って、よっぽど大事なんですね…	VO_syrma.syrma_sys_0044
+125	大事…な研究であるのと同時に、<br>表沙汰になれば、聖教会の信頼は失墜する	VO_niggle.niggle_sys_0004
+126	件の研究者は、この学園に通っている<br>戦災孤児を実験台に、<br>研究を続けているようです	VO_laetitia.laetitia_sys_0004
+127	戦災孤児を…!?	VO_ila.ila_battle_0019
+128	実験台って…どんな…？	VO_syrma.syrma_sys_1011
+129	あの研究者…ラーストリス時代は<br>生体実験を望んでいた<br>あの頃の研究を続けているとすれば…	VO_niggle.niggle_sys_0018
+130	その血肉からアルケミィを抽出し<br>賢者の石を精製…更にその賢者の石に<br>アルケミィを蓄え増幅させる…
+131	実験台の命は無論…無い
+132	気に入らんっ…！<br>聖教会め…！<br>命をなんだと思っているんだ!?	VO_ila.ila_sys_0013
+133	歪なのだ…<br>騙り、謀り…聖教会は、腐っている	VO_zaharu.zaharu_sys_0018
+134	ザハル様…乗り込みますか	VO_niggle.niggle_sys_0004
+135	…行くぞ	VO_zaharu.zaharu_battle_0010
+136	い、いやぁ…!!	VO_mea.mea_sys_0028
+137	おとなしくするんだ！　ガキがァ!!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+138	な、なんだァ!?	VO_mob-saga_omale.mog-saga_omale_sys_0026
+139	何者かの襲撃…！<br>ここの研究が白日のもとに<br>さらされてはまずい！	VO_thiefm.thiefm_sys_0027
+140	貴様は、その娘と資料を持ってここから<br>脱出せよ！	VO_thiefm.thiefm_sys_0002
+141	ひ、ひとりでですか!?	VO_mob-saga_omale.mog-saga_omale_sys_0027
+142	当たり前だ！<br>その後のことは心配するな<br>我らがどうにかする	VO_thiefm.thiefm_sys_0029
+143	た、助けに来てくださいよォ!?	VO_mob-saga_omale.mog-saga_omale_sys_0018
+144	や、ヤダァ!!　助けてぇーー！	VO_mea.mea_battle_0022
+145	ガキ！　おとなしく一緒に来い！<br>今すぐ、試験体にしてやるぞ！	VO_mob-saga_omale.mog-saga_omale_sys_0012
+146	ひぅっ!?	VO_mea.mea_battle_0027
+147	てやあああ!!	VO_knightm.knightm_battle_0009
+148	たああああーーーー!!	VO_thiefm.thiefm_sys_0032
+149	…地下施設への階段はどこだ	VO_zaharu.zaharu_sys_0002
+150	これ以上、進ません…!!<br>たああああーーーー!!	VO_thiefm.thiefm_battle_0005
+151	ハッ！	VO_spica.spica_battle_0002
+152	ヤァ!!	VO_syrma.syrma_battle_0007
+153	グァ…!?	VO_thiefm.thiefm_battle_0022
+154	ザハル様<br>こちらに隠し扉が	VO_laetitia.laetitia_sys_0002
+155	よし	VO_zaharu.zaharu_sys_0010
+156	…………
+157	すでに、中はもぬけの殻…<br>研究資料も持ち出されたようです	VO_laetitia.laetitia_sys_0030
+158	はッ…!?	VO_spica.spica_chara_1009
+159	ぁ…ぅう…ぁあ…
+160	…ひどい…!!	VO_syrma.syrma_sys_0018
+161	…不憫な…	VO_zaharu.zaharu_sys_0020
+162	ヒァ…
+163	ザ、ハル…さま…	VO_spica.spica_sys_1021
+164	許せ、少年よ…<br>せめて、その血肉…<br>我が悲願の為に使おう	VO_zaharu.zaharu_sys_0035
+165	こちらに、抜け道を見つけました	VO_laetitia.laetitia_sys_0002
+166	追うぞ<br>必ずや、あの研究を手に入れるのだ	VO_zaharu.zaharu_sys_0004
+167	…………
+168	お姉ちゃん…？<br>早く行こうよ！	VO_syrma.syrma_sys_0003
+169	え、はっ…はい	VO_spica.spica_sys_0025
+170	はあっ、ひぃっ…っはぁ…	VO_mob-saga_omale.mog-saga_omale_sys_0018
+171	うっ…うぅっ…	VO_mea.mea_sys_0019
+172	早くしないか！<br>追いつかれたらどうするッ!?	VO_mob-saga_omale.mog-saga_omale_sys_0012
+173	私の中の闇が囁く…<br>大望無き悪は滅びよ、と	VO_niggle.niggle_sys_0010
+174	!?
+175	久しいな…<br>私を覚えているか…	VO_niggle.niggle_sys_0001
+176	あ、あんたはっ…ラーストリス騎士団の…	VO_mob-saga_omale.mog-saga_omale_sys_0027
+177	ほう…記憶していただいていて光栄だ<br>だが…申し訳ないが、<br>こちらは貴方の名を覚えていないがな	VO_niggle.niggle_sys_0012
+178	あ、あんたが今更、何しに来たんだ!?	VO_mob-saga_omale.mog-saga_omale_sys_0042
+179	貴方の研究…我が主の為に必要なのだ<br>その抱えている資料を<br>こちらに渡してもらおうか	VO_niggle.niggle_sys_0004
+180	い、いやだ！<br>この研究は、私のものだっ!!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+181	…幼き者の命を弄ぶ研究か	VO_niggle.niggle_sys_0018
+182	ク、クク…<br>研究には、犠牲ってもんが<br>つきものなんだよ！	VO_mob-saga_omale.mog-saga_omale_sys_0007
+183	…わかる<br>しかし、貴方は手段と目的を<br>履き違えている	VO_niggle.niggle_sys_0004
+184	その研究は、貴様よりも<br>我らが世界の為に活かしてやろう	VO_niggle.niggle_sys_0010
+185	だ、誰が渡すかぁ!?<br>私とて、錬金術師の端くれ！<br>貴様などーーーー!!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+186	おい！	VO_mob-saga_omale.mog-saga_omale_sys_0012
+187	ひぃっ!?	VO_mea.mea_battle_0027
+188	お前のアルケミィをよこせ！<br>あいつを、殺すぅーーーー!!
+189	い、いやぁっ…!!	VO_mea.mea_battle_0025
+190	その手を離せ、ゲスがァァァァ!!	VO_ila.ila_battle_0001
+191	ぐへぇええええーーーー!!	VO_mob-saga_omale.mog-saga_omale_sys_0028
+192	はぁっ、はぁっ…！	VO_ila.ila_battle_0019
+193	イーラよ、よく耐えたな	VO_niggle.niggle_sys_0012
+194	気に入らん！<br>やっぱり、ジッと機をうかがうなんて、<br>オレには合わん！	VO_ila.ila_sys_0013
+195	ふぅ…	VO_niggle.niggle_sys_0016
+196	あ…あ…	VO_mea.mea_battle_1018
+197	大事ないか、少女よ<br>私たちは、貴方を傷つけることはない<br>早くこの場を――	VO_niggle.niggle_sys_0002
+198	そうはいかん	VO_thiefm.thiefm_sys_0029
+199	!?
+200	…骸
+201	ニグル！<br>囲まれてる!!	VO_ila.ila_battle_0019
+202	その研究…貴様らには渡さぬ…<br>そして、その少女はここで始末する<br>我らが暗部を見たものは、死…あるのみ	VO_thiefm.thiefm_sys_0017
+203	我が主の弁ではないが…<br>腐っているな、聖教会	VO_niggle.niggle_sys_0030
+204	…ほざけ<br>暗殺者崩れが	VO_thiefm.thiefm_sys_0007
+205	…………
+206	ニグル…<br>貴様の抹殺も我らが使命<br>ここで、死ね	VO_thiefm.thiefm_battle_0007
+207	ニグル！<br>数が多すぎる…!!	VO_ila.ila_sys_0017
+208	クッ…!!<br>邪眼よ、力を示せ…!!	VO_niggle.niggle_sys_0018
+209	ウオオオオオオオオオオオオオオオオ!!	VO_niggle.niggle_sys_0032
+210	!?
+211	…………<br>す、すごい…	VO_ila.ila_sys_0046
+212	…っ!?<br>まさか…貴様がここまでやるとはな…	VO_thiefm.thiefm_sys_0018
+213	侮ってもらっては困る<br>伊達に長年、あの方の横に<br>立っているのではない	VO_niggle.niggle_sys_0031
+214	これは恐れ入った…<br>お前を侮っていた非礼は詫びよう…	VO_thiefm.thiefm_sys_0011
+215	だが…多勢に無勢は変わらぬ…<br>我らのことも、侮ってもらっては困る
+216	ニグル…！<br>どうすんだよ!?	VO_ila.ila_sys_0001
+217	信じよ、イーラ…闇を	VO_niggle.niggle_sys_0002
+218	は？<br>こんな時まで、何言ってんだよ<br>わけがわからん！	VO_ila.ila_sys_0012
+219	我らが主は“闇の王”…<br>“影の救世主”…<br>我らの“神”なり	VO_niggle.niggle_sys_0010
+220	死ね――	VO_thiefm.thiefm_sys_0032
+221	ニグル！	VO_ila.ila_battle_0019
+222	…………
+223	貴様らごときに、その男は殺させん	VO_zaharu.zaharu_battle_0007
+224	!?
+225	!?
+226	…………ッ!!	VO_zaharu.zaharu_battle_0019
+227	ザハル様っ!!
+228	…………<br>お待ちしておりました、我が主…	VO_niggle.niggle_sys_0011
+229	当たり前だ	VO_zaharu.zaharu_sys_0010
+230	イーラさん、大丈夫ですか？	VO_spica.spica_sys_0003
+231	オレは大丈夫！	VO_ila.ila_sys_0005
+232	オチビさん、キミも大丈夫!?	VO_syrma.syrma_sys_0003
+233	う、うん…	VO_mea.mea_battle_1018
+234	怖い目にあったわね…<br>でも、もう大丈夫よ	VO_laetitia.laetitia_sys_0030
+235	あ、あなたたちは…誰…？	VO_mea.mea_sys_0002
+236	私たちはあの方…“闇の王”の下に集いし<br>“影の救世軍”…	VO_laetitia.laetitia_sys_0007
+237	影の…救世軍…？	VO_mea.mea_sys_0025
+238	…ザハルぅ…ッ!!<br>ラーストリスの亡霊がァ…!!<br>いつまで我らが邪魔をする気だァ…!!	VO_thiefm.thiefm_sys_0017
+239	フッ…ラーストリスの亡霊だと？<br>愚弄するな<br>我こそは“闇の王”…！	VO_zaharu.zaharu_sys_0010
+240	シャドウメサイヤのザハルだ	VO_zaharu.zaharu_sys_0008
+241	今日こそ、貴様を始末する！	VO_thiefm.thiefm_battle_0007
+242	そのようなことは、不可能だ	VO_zaharu.zaharu_sys_0030
+243	皆！　行くぞ!!	VO_niggle.niggle_sys_0002

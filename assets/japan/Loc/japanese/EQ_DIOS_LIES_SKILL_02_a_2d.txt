@@ -1,0 +1,63 @@
+001	モンスターに虫に、結構いるじゃないか<br>よくこの森にひとりで入ろうと思ったな	VO_dios.dios_sys_0001
+002	うう…前も来たことあるから<br>なんとかなると思ったんですけど	VO_lizbeth.lizbeth_sys_0018
+003	確かに、錬金術を使えるお前にとって<br>この森のモンスターは<br>大した敵じゃないだろう	VO_dios.dios_sys_0031
+004	だが、<br>錬金術は大手を振って使うものじゃない
+005	あ…	VO_lizbeth.lizbeth_sys_1048
+006	…リズベット<br>あまり目立つ真似はするな<br>何が災いになるか、わからないからな	VO_dios.dios_sys_0001
+007	は、はい…	VO_lizbeth.lizbeth_sys_0018
+008	で？	VO_dios.dios_sys_0045
+009	え？	VO_lizbeth.lizbeth_sys_0005
+010	この先はどっちにいくんだ？<br>リズベットは、一度来ているんだろう	VO_dios.dios_sys_0001
+011	えっと…	VO_lizbeth.lizbeth_chara_1024
+012	…まさか、覚えていないのか？	VO_dios.dios_sys_0030
+013	お、覚えてます！　大丈夫！<br>こっちです！　…多分	VO_lizbeth.lizbeth_sys_1048
+014	多分…	VO_dios.dios_sys_0016
+015	あのときは、アルマとレベッカがいっしょで<br>おしゃべりしながら歩いてたから…<br>で、でもすごく楽しかったです！	VO_lizbeth.lizbeth_sys_0027
+016	いや、それは別に疑ってないが…	VO_dios.dios_sys_0039
+017	ロープで崖を登ったり<br>氷の上をスケートしたり…楽しかったぁ	VO_lizbeth.lizbeth_sys_0007
+018	あの冒険をきっかけに、<br>アルマとレベッカともっと仲良くなれたから
+019	だから<br>この森は、大切な思い出の場所なんです
+020	そうか…<br>それは、いい思い出だな<br>…友人は、大切にするといい	VO_dios.dios_sys_0011
+021	はい！	VO_lizbeth.lizbeth_sys_0006
+022	ここをすい～～～～っといけば<br>スタブルールの花畑はもうすぐです！	VO_lizbeth.lizbeth_chara_1007
+023	確かにしっかり凍ってはいるが<br>大丈夫なのか？	VO_dios.dios_sys_0031
+024	大丈夫ですよ！　見ててください	VO_lizbeth.lizbeth_event_1005
+025	おい、リズベット…！	VO_dios.dios_sys_0001
+026	レベッカに教えてもらった通りに…<br>すい～～～～っと…
+027	や、やったー！　できたよ!!<br>ありがとう、アルマ、レベッカ！	VO_lizbeth.lizbeth_battle_1029
+028	ここまで来れば、もうすぐのはず！<br>この先は確か…そうだ<br>好きな人が映る氷の鏡があったっけ	VO_lizbeth.lizbeth_sys_0007
+029	…………
+030	（…そういえば<br>ディオスさんの氷には、誰が映るんだろう）	VO_lizbeth.lizbeth_chara_1007
+031	（大切な人がいるって言ってたし<br>やっぱり、その人なのかな…）
+032	（なんだか…ちょっと胸が痛いや…）	VO_lizbeth.lizbeth_sys_0027
+033	…………あれ？<br>ここ、どこ？	VO_lizbeth.lizbeth_chara_1008
+034	あれ？　ディオスさん？<br>ディオスさん!?　どこですかー!?	VO_lizbeth.lizbeth_sys_1048
+035	う…なんか、変なにおいがする…<br>鼻につくっていうか、なんか甘い…？　<br>何これ…気持ち悪い…	VO_lizbeth.lizbeth_sys_0018
+036	…………リズベット	VO_venus.venus_favorite_0002
+037	!?　そ、その声は…	VO_lizbeth.lizbeth_sys_0025
+038	へ、陛下!?　どうしてここに…	VO_lizbeth.lizbeth_battle_0025
+039	リズベット…<br>アスモデウスをあの男に渡して<br>代わりに何を望む？　あの男の愛か	VO_venus.venus_favorite_0002
+040	え!?<br>そ、そんなんじゃないよ…ただ、<br>わたしは、ディオスさんに協力したくて…	VO_lizbeth.lizbeth_sys_0025
+041	あの男がお前を愛していなくてもか？	VO_venus.venus_sys_0044
+042	…！
+043	あの男は、お前を愛してなどおらぬ<br>お前の想いは一方通行…	VO_venus.venus_sys_0002
+044	聖石を欲するあの男に<br>お前の想いは都合よく<br>利用されているだけにすぎぬ	VO_venus.venus_sys_0007
+045	…………
+046	迷うか、リズベット	VO_venus.venus_sys_0006
+047	…その不確かな感情で、<br>妾が200年守ってきたものを<br>余所者に譲り渡そうというのか!?	VO_venus.venus_sys_0013
+048	そんな…そんなことないよ<br>不確かなんかじゃないもん！<br>ちゃんと考えて、決めたことだよ！	VO_lizbeth.lizbeth_sys_0020
+049	不確かではない…!?<br>ふふ…ははは！<br>ではお前の想いは、永遠の愛か!?	VO_venus.venus_sys_0044
+050	もしあの男がお前を愛していなければ<br>この先にスタブルールの花はない…そして<br>お前は一生、この森から出ることが叶わぬ	VO_venus.venus_sys_0003
+051	それは…	VO_lizbeth.lizbeth_sys_1048
+052	それでも、永遠の愛を誓えるか！<br>リズベット！	VO_venus.venus_battle_0007
+053	う、うう…！<br>やっぱり、強い…！<br>このままじゃ…！	VO_lizbeth.lizbeth_sys_0027
+054	リズベット！	VO_dios.dios_sys_0025
+055	大丈夫か、リズベット	VO_dios.dios_sys_0050
+056	ディオスさん…へ、陛下が…！	VO_lizbeth.lizbeth_chara_1007
+057	あぁ…どうやら、ここに群生する草が<br>幻覚を作り出しているようだな<br>…気をしっかり持て、リズベット	VO_dios.dios_sys_0004
+058	げ、幻覚…!?<br>な、なんだぁ…本物じゃないんだ<br>安心したぁ…	VO_lizbeth.lizbeth_sys_0025
+059	（あ…においがやわらいだ…<br>…そっか！<br>ディオスさんが守ってくれてるから…！）	VO_lizbeth.lizbeth_sys_1048
+060	（そうだ。ディオスさんはこうやって<br>何度もわたしを助けてくれた）
+061	（…わたしも、<br>ディオスさんの力になりたい！）
+062	（この気持ちは…<br>絶対、不確かなんかじゃないよ！）
+063	来るぞ！　リズベット！	VO_dios.dios_battle_0021

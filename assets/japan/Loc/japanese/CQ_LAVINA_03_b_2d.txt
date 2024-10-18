@@ -1,0 +1,55 @@
+001	う～ん…バターのいい香り…<br>この段階ですでに美味しい…<br>ラヴィーナもそう思うよね	VO_rofia.rofia_sys_0024
+002	えっと…ここは…	VO_lavina.lavina_sys_0003
+003	ねぇ、ラヴィーナ<br>魔力の制御にはエネルギーを使うよね	VO_rofia.rofia_sys_0002
+004	う、うん	VO_lavina.lavina_chara_1006
+005	特に魔法は頭も使うしね<br>つまり、魔力制御の為には<br>適度に糖分を摂る必要がある	VO_rofia.rofia_chara_1023
+006	なるほど…<br>だからロフィアさんは<br>いつもお菓子の話をするんだね	VO_lavina.lavina_sys_0045
+007	甘いものは合理的かつ効率的なんだよ<br>なにより美味しい<br>早く焼きあがらないかなぁ	VO_rofia.rofia_sys_0007
+008	魔力のコントロールには、糖分…	VO_lavina.lavina_sys_0031
+009	…………
+010	ラヴィーナ？　どうかした？	VO_rofia.rofia_sys_0005
+011	…もっとお菓子をいっぱい食べて<br>いっぱい糖分を摂れば<br>昼間にも起きていられるのかな…	VO_lavina.lavina_sys_0002
+012	うーん…貴方のは体質的なものだし…<br>それに生活リズムは人それぞれなんだから<br>無理することはないんじゃないかな	VO_rofia.rofia_sys_0031
+013	イヤ	VO_lavina.lavina_sys_0039
+014	い、いやって言われても…	VO_rofia.rofia_sys_0025
+015	無理したい<br>無理して、魔力のコントロールが<br>もっとできるようになるなら	VO_lavina.lavina_sys_0018
+016	そしたらきっと<br>ロフィアさんとミハエルさんに<br>これ以上迷惑をかけなくて済む…
+017	ぼく…これ以上<br>ふたりに迷惑かけたくないよ…
+018	…ラヴィーナ<br>目的を見失っちゃダメ	VO_rofia.rofia_sys_0016
+019	…目的？	VO_lavina.lavina_chara_1011
+020	あのね、ラヴィーナ<br>確かに魔力の制御の為に糖分は良い<br>…でも、そんなのただの口実なの	VO_rofia.rofia_sys_0006
+021	へ？	VO_lavina.lavina_sys_0025
+022	私がお菓子を食べる一番の目的は<br>『美味しいお菓子を食べて幸せになること』<br>なんだから	VO_rofia.rofia_sys_0007
+023	幸せ…	VO_lavina.lavina_chara_1006
+024	そんな…魔力の制御の為とか<br>ごちゃごちゃ考えて食べてたら<br>美味しさが半減しちゃう	VO_rofia.rofia_chara_1023
+025	そんなの、お菓子に失礼だよ！	VO_rofia.rofia_sys_0016
+026	ご、ごめんなさい！	VO_lavina.lavina_sys_0035
+027	…………なんちゃって	VO_rofia.rofia_sys_0007
+028	え…	VO_lavina.lavina_chara_1011
+029	ねぇ、ラヴィーナ？　知ってる？<br>こんな夜中に糖分を摂るのはね<br>罪深いことなんだよ	VO_rofia.rofia_sys_0002
+030	罪深い…？	VO_lavina.lavina_sys_0004
+031	少なくとも、ダイエットの大敵<br>だから貴方には道連れになってもらった<br>…迷惑かな？	VO_rofia.rofia_chara_1021
+032	えっ？　なんで？<br>全然、そんなこと思わない！	VO_lavina.lavina_sys_0025
+033	どうして？	VO_rofia.rofia_sys_0002
+034	どうしてって…<br>だって、ぼくロフィアさんのこと<br>大好きだもん	VO_lavina.lavina_sys_0031
+035	ふーん…なるほど	VO_rofia.rofia_sys_0031
+036	じゃあ私も<br>貴方のこと迷惑なんて全然思わない
+037	ロフィアさん…	VO_lavina.lavina_chara_1006
+038	お待たせしました～！
+039	うわぁ…美味しそう…	VO_lavina.lavina_sys_0009
+040	はぁ…久しぶりに来たけどやっぱり最高…<br>この焼きたてのパンケーキの芳醇な香り…<br>メープルシロップの誘惑に…負ける…
+041	もぐもぐ…………うん、幸せ…	VO_rofia.rofia_sys_0007
+042	ぼ、ぼくも…！　もぐもぐ…<br>うわぁ…本当だ…美味しい…<br>すごく美味しい…	VO_lavina.lavina_sys_0009
+043	パンケーキも美味しいし、それに…<br>なんだか、胸がほっこりする…	VO_lavina.lavina_sys_0007
+044	（…あ、そっか<br>ロフィアさんと一緒だから）	VO_lavina.lavina_chara_1006
+045	（大好きなロフィアさんと<br>一緒に食べてるから…<br>だから、もっと美味しいんだ）
+046	（…大好きな人と一緒にいると<br>胸がほっこりあったかくて…幸せだ…<br>…ずっと、一緒にいたいな）	VO_lavina.lavina_sys_0007
+047	…ロフィアさん!!	VO_lavina.lavina_sys_0003
+048	ん？　何？	VO_rofia.rofia_sys_0005
+049	ぼく…やっぱり<br>もっと魔力のコントロールが<br>できるようになりたい	VO_lavina.lavina_sys_0002
+050	だってぼく…<br>ロフィアさんと、ミハエルさん…<br>大好きなふたりとずっと一緒にいたい
+051	今のままじゃ、ぼくはまだまだだ<br>大好きなふたりについていく為に…<br>ぼく、もっとがんばらなきゃ！
+052	…うん、いいね<br>そういうことなら、私も力になるよ	VO_rofia.rofia_chara_1023
+053	…………あ	VO_lavina.lavina_chara_1006
+054	さて…がんばる為には<br>エネルギーが必要…だね<br>パンケーキ、あったかいうちに食べよっか	VO_rofia.rofia_sys_0007
+055	うん！	VO_lavina.lavina_sys_0006

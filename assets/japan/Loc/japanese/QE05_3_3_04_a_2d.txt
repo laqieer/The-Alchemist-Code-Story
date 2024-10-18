@@ -1,0 +1,60 @@
+001	ディオス様！<br>我らは貴方と戦うつもりはありません	VO_knightm.knightm_battle_0019
+002	なら答えろ。目的はなんだ？<br>なぜこの砂漠に来た<br>お前たちは一体、何を掴んでいる？	VO_dios.dios_sys_0010
+003	言うと、お思いですか？	VO_knightm.knightm_sys_0010
+004	…そうだな<br>力に屈して仲間を売ることは、<br>決してしない…	VO_dios.dios_sys_0031
+005	お前たちは、そういう騎士だった
+006	だが、それは驕りだ<br>人の気持ちなど、状況ひとつで簡単に転ぶ<br>例えば…そこの女
+007	…っ！	VO_mary.mary_sys_0042
+008	ロギの居場所を言わなければ、<br>その女の命はない…<br>そう言ったら、どうする？	VO_dios.dios_sys_0002
+009	…！　貴方は、何を！	VO_knightm.knightm_sys_0013
+010	抵抗は無意味だ<br>今のお前たちに、この俺を――<br>聖教騎士団の団長を相手取る戦力はない	VO_dios.dios_sys_0001
+011	…大人しく、情報を出せ<br>そうすれば、誰にも危害は加えない
+012	…ッ！	VO_knightm.knightm_battle_0019
+013	――なまぬるい	VO_stknightm.stknightm_battle_0007
+014	何――!?	VO_dios.dios_sys_0025
+015	グ…っ!?	VO_knightm.knightm_battle_0023
+016	それは骸の手管ではないぞ、<br>ディオス・エルシオン	VO_stknightm.stknightm_sys_0001
+017	情報を引き出す者など、<br>ひとり生かしておけばいい<br>それ以外を生かす意味などないだろうに
+018	貴様ら…なぜここにいる!?	VO_dios.dios_sys_0017
+019	ワギナオ様から、令が下った<br>我らが“本来の使命”の為、<br>不穏分子を粛正せねばならない	VO_stknightm.stknightm_sys_0005
+020	本来の使命、だと…？<br>なんだそれは！	VO_dios.dios_sys_0012
+021	貴様が知るべきことではない――	VO_stknightm.stknightm_sys_0010
+022	ッ！　敵襲ー！<br>全周防護！　ここは街中だ、<br>被害を最小限に抑えろ！	VO_knightm.knightm_sys_0042
+023	マリーさんはこちらへ！<br>ギルドの中ならば少しは安全なはずです
+024	は、はい…っ！	VO_mary.mary_battle_0019
+025	ぎゃぁっ!?　く、くそぉ！	VO_knightm.knightm_battle_0024
+026	怪我を負った者はすぐに下がれ！<br>補給部隊は人々の避難を！
+027	奴ら、こんな街中で錬金術を！<br>周りの被害をまるで考えていない…！	VO_knightm.knightm_battle_0020
+028	…ッ！	VO_dios.dios_battle_0020
+029	…何をしている、ディオス・エルシオン<br>よもや、我らを――<br>聖教騎士団を裏切るつもりか？	VO_stknightm.stknightm_sys_0001
+030	そうなれば、すべてが無駄になるぞ<br>今まで貴様が流してきた、流血のすべてが…
+031	…もとより、お前たちの<br>仲間になったつもりはない<br>お前たちこそ、俺の邪魔はしないでもらおう	VO_dios.dios_battle_0003
+032	――貴様	VO_stknightm.stknightm_sys_0012
+033	…ッ！	VO_dios.dios_battle_0020
+034	ならばここで果てよ、“エルシオン”<br>かつての同胞とともに死ねるなら、<br>それはそれで本望だろう	VO_stknightm.stknightm_battle_0011
+035	ふん…久方ぶりに砂漠に赴いてみれば、<br>これはなんの余興だ？	VO_gaiorgeos.gaiorgeos_battle_0001
+036	ム――!?	VO_stknightm.stknightm_battle_0020
+037	まったく、おちおち休暇も取れんとはな…<br>だが、この砂漠は我らが同胞の第二の故郷―<br>貴様らのようなよそ者に、好き勝手はさせん	VO_gaiorgeos.gaiorgeos_sys_0016
+038	な――え？　あんたは…？	VO_knightm.knightm_sys_0025
+039	蒼の団、といったな？<br>いつまで浮足立っている<br>すぐさま陣形を立て直し、迎撃しろ！	VO_gaiorgeos.gaiorgeos_sys_0002
+040	さもなくば――<br>何ひとつ守れぬままに、失うことになるぞ
+041	え――？　あ、はいっ！<br>総員、集まれ！　各個撃破されるぞ！
+042	陣を組め！　敵は強いが、<br>数では我らが勝っている！<br>ひとりに対し、複数で対応しろ！
+043	フ…悪くない動きだ<br>さて、こちらもひさしぶりに暴れるか	VO_gaiorgeos.gaiorgeos_sys_0009
+044	…お兄様!?	VO_mary.mary_sys_0006
+045	…マリーか	VO_gaiorgeos.gaiorgeos_sys_0006
+046	ご無事、だったんですね？<br>サガで消息を絶ったと聞いて、私…	VO_mary.mary_sys_0044
+047	…まったく、心配性の従妹だ<br>我が、そう簡単に死ぬと思うか	VO_gaiorgeos.gaiorgeos_sys_0016
+048	いえ、いいえ…！<br>おかえりなさい、お兄様！	VO_mary.mary_sys_0018
+049	さて――それで、貴様はどうする？	VO_gaiorgeos.gaiorgeos_sys_0009
+050	…………
+051	ここで我と死合うか？<br>それとも鞍替えか？<br>別にどちらでも構わんが…	VO_gaiorgeos.gaiorgeos_sys_0001
+052	貴様の手にある剣は、奴らのやり方を<br>認めてはいないようだがな
+053	…ふん、言われるまでもない<br>俺は、俺の正義に従うだけだ！	VO_dios.dios_sys_0010
+054	――！
+055	俺には、俺の目的がある<br>それにはお前たちが、邪魔だ…！	VO_dios.dios_battle_0005
+056	ハ――ッ、面白い男だ！<br>“己の本分”を理解していないところが<br>特に良い！	VO_gaiorgeos.gaiorgeos_battle_0013
+057	さて…これで劣勢なのは貴様らの方だな？<br>さあ、どう足掻く…！
+058	見えた…！　グラトニーの国境だ！
+059	だが、どうする？<br>流石にこの軍勢では、<br>商隊を名乗るには無理があるぞ？	VO_kamui.kamui_sys_0002
+060	――推し通るしかあるまい<br>頼むぞ！

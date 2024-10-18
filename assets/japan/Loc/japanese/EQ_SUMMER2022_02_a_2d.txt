@@ -1,0 +1,75 @@
+﻿001	…なんとか倒せたね<br>でも“魔物が近寄らない平和な海”って<br>聞いてたのに…	VO_shengmei.shengmei_sys_0030
+002	ええ…<br>だからこそ、これだけたくさんの人が集まる<br>人気の海水浴場となったはず…	VO_neferty.neferty_sys_0005
+003	でも、魔物が出たのはどういうこと…？	VO_shengmei.shengmei_sys_0031
+004	そうですね…	VO_neferty.neferty_sys_0030
+005	…そもそも<br>“魔物が近寄らない海”なんてありえるの？	VO_irene.irene_sys_0002
+006	え？<br>…う～ん。言われてみれば…	VO_shengmei.shengmei_sys_0025
+007	『魔物が“滅多に近寄らない”』って<br>言うならまだわかる…
+008	でも『近寄らない』って<br>断言できるものなのか…	VO_irene.irene_sys_0018
+009	もしかして…私たちにビーチの治安維持を<br>依頼してきた人たち…<br>何かを隠してる？	VO_shengmei.shengmei_sys_0001
+010	この浜には、何か重大な秘密が――
+011	…わたくしに少し心当たりがあります	VO_neferty.neferty_sys_0001
+012	え!?　ホント!?	VO_shengmei.shengmei_sys_0025
+013	さっきここで会った男の人…	VO_neferty.neferty_sys_0004
+014	あれ？　そう言えばあの人って…<br>私たちにビーチの治安維持を依頼してきた<br>地元の――	VO_shengmei.shengmei_sys_0005
+015	ええ<br>…彼に話を聞いてみましょう
+016	…出てきた	VO_irene.irene_sys_0005
+017	お待たせしました
+018	どうだったネフェルティ!?	VO_shengmei.shengmei_sys_0001
+019	ええ…<br>大変なことが起こったようです	VO_neferty.neferty_sys_0005
+020	大変なこと…？	VO_siyi.siyi_sys_0025
+021	もったいぶらずに教えてよ！	VO_shengmei.shengmei_sys_0016
+022	“卵”が――
+023	たまご…？	VO_lusheng.lusheng_sys_0006
+024	“卵”が盗まれてしまったそうなんです
+025	え？　それの何が大変なの…？<br>買ってくればいいんじゃない？	VO_shengmei.shengmei_sys_0005
+026	そうじゃないんです…<br>この海を守っていた“アルガメの卵”が<br>盗まれてしまったんです	VO_neferty.neferty_chara_1005
+027	…まだ話が見えないんだけど	VO_irene.irene_sys_0006
+028	順を追って説明しますね――	VO_neferty.neferty_sys_0004
+029	このビーチには数百年に一度…<br>“アルガメ”という大型のウミガメが<br>産卵の為にやってくるそうです
+030	アルガメの産む卵の中にはひとつだけ<br>虹色に輝く卵があり、<br>その卵は魔物を寄せつけない力があるとか
+031	虹色に輝く――	VO_lusheng.lusheng_sys_0044
+032	魔物を寄せつけない卵…ですか	VO_siyi.siyi_sys_0031
+033	それって凄いお宝じゃない!?	VO_shengmei.shengmei_sys_0025
+034	…その卵が盗まれた？	VO_irene.irene_sys_0016
+035	ええ…	VO_neferty.neferty_sys_0005
+036	このビーチを管理する村では<br>その虹色の卵を海の守り神として<br>大事に保管してきたそうなんですが…
+037	それが昨夜、何者かに――	VO_neferty.neferty_sys_0030
+038	…それで魔物が現れ始めたってことか	VO_lusheng.lusheng_sys_0031
+039	じゃあ、その卵を取り返せば、<br>魔物はまた出現しなくなる？	VO_irene.irene_sys_0002
+040	おそらく	VO_neferty.neferty_sys_0004
+041	ちょっと待ってよ！<br>取り返すって言っても、<br>どこの誰が盗んだのかも解らないし…	VO_shengmei.shengmei_sys_0027
+042	それに盗まれたのが昨夜なら<br>盗人ももうどこかへ<br>逃げちゃってるんじゃ…！	VO_siyi.siyi_sys_0018
+043	それが、そういうわけでもないようです
+044	…どういうこと？	VO_irene.irene_sys_0025
+045	虹色に輝く魔物を寄せつけない<br>不可思議な卵――<br>さすがにそんな奇跡のような卵ですから…
+046	当然、これまでも盗賊に<br>狙われたりしてきたらしく、<br>村の人たちも対策をとってきたそうです
+047	対策…って、どんな？	VO_shengmei.shengmei_sys_0031
+048	アルガメの虹色の卵に<br>“魔法”をかけたそうです
+049	魔法だと!?	VO_lusheng.lusheng_sys_0026
+050	普段、アルガメの卵は<br>“アルガメの涙”という聖水に<br>浸されています	VO_neferty.neferty_sys_0004
+051	“卵”と“聖水”このふたつ揃ってこそ<br>魔物を防ぐ効果を発揮するのだとか…	VO_neferty.neferty_chara_1005
+052	そこで村の人たちは、<br>とある魔道士に頼んで<br>万が一、卵が持ち去られた時――
+053	卵はどんどん重くなり、<br>人の力では持てなくなるほどの重さになる
+054	…つまり、盗人は卵を盗んだけど、<br>どこにも持ち去れず、<br>卵は今もこの近くにある…と？	VO_irene.irene_sys_0016
+055	ええ、その可能性が高いと思われます	VO_neferty.neferty_sys_0005
+056	じゃあ、さっきの男性は<br>この近くに卵がないか探していたんですね	VO_siyi.siyi_sys_0045
+057	ええ<br>彼だけではなく村人総出で<br>探しているそうです	VO_neferty.neferty_sys_0004
+058	なら俺たちは、卵が見つかるまで<br>魔物を警戒する必要があるのか	VO_lusheng.lusheng_sys_0002
+059	でも、村の人がみんなで探してるなら<br>そのうち見つかるんじゃない？	VO_shengmei.shengmei_sys_0002
+060	そうですね<br>もう、誰にも持って行かれる<br>心配もないですし	VO_siyi.siyi_sys_0004
+061	それが…<br>そうのんびりもしていられないようです
+062	どうして？	VO_shengmei.shengmei_sys_0005
+063	卵にかけられた加重の魔法の効力は<br>一日…
+064	それなら急がないと<br>卵の有無が治安に直結しているのだから	VO_irene.irene_sys_0004
+065	いえ…村の人たちから、<br>わたくしたちには別のことをしてほしいと<br>依頼がありました	VO_neferty.neferty_chara_1005
+066	別のこと…？	VO_irene.irene_sys_0006
+067	はい。それが――	VO_neferty.neferty_sys_0004
+068	キャーーーー!!
+069	!?	VO_irene.irene_sys_0018
+070	ま、魔物だーーーー!?
+071	うそ…!?<br>魔物の出ない安全な海だって<br>聞いてたのに！
+072	いけません…！<br>魔物を一刻も早く退治しないと…!!<br>被害者が出る前に!!	VO_neferty.neferty_battle_0019
+073	リューシェンとスーイーは、<br>観光客の避難を！<br>魔物は――	VO_shengmei.shengmei_sys_0027
+074	私たちがやる	VO_irene.irene_sys_0005
+075	ええ…！<br>行きましょう!!	VO_neferty.neferty_sys_0005

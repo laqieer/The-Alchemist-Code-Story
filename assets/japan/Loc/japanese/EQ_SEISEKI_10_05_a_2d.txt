@@ -1,0 +1,76 @@
+001	サガ地方・水の神殿
+002	しっかり…！<br>弱気になっちゃダメ!!	VO_kagura_3s_kagu.kagura_sys_0042
+003	…う…<br>…わ…我が…水の民たちは…？	VO_voda.voda_battle_0019
+004	大丈夫！　あれ以上の被害は出ていない！<br>最小限にとどめられたはずよ！	VO_kagura_3s_kagu.kagura_sys_0004
+005	…そう…か…よかっ…た…	VO_voda.voda_sys_0020
+006	!!<br>だ、誰か、手当てを！　…急いで!!	VO_kagura_3s_kagu.kagura_battle_0019
+007	安心しろ…<br>大精を殺すことはないと言っただろ？	VO_sol.sol_sys_0002
+008	それに、そいつは女だ…<br>少しばかり加減してある
+009	クッ…！	VO_kagura_3s_kagu.kagura_battle_0022
+010	しかし、これでようやく三つ目か…<br>まったく手間がかかるな…<br>この“マター”ってやつは	VO_sol.sol_sys_0016
+011	アンタねぇ…！	VO_kagura_3s_kagu.kagura_sys_0012
+012	まったく…少しは感謝しろよ、赤髪？<br>お前の頼みを汲んで、<br>この程度で納めてやったんだ	VO_sol.sol_sys_0022
+013	…もっとも<br>…これで終わりとは限らないけどな
+014	!?　何をする気…!?	VO_kagura_3s_kagu.kagura_sys_0025
+015	それは、向こうに聞けよ<br>…“バン”	VO_sol.sol_sys_0010
+016	ぐぁぁぁぁーっ!!!!
+017	え…!?	VO_kagura_3s_kagu.kagura_sys_1047
+018	どうやら、罠を仕組んでいたようだな<br>せっかく、<br>穏便に済ませてやろうと思っていたのに…	VO_sol.sol_sys_0044
+019	そんな…!?<br>ヴォダさんは、素直に降伏したはずじゃ…	VO_kagura_3s_kagu.kagura_sys_0022
+020	いや…その女じゃないな	VO_sol.sol_chara_1005
+021	ガッ…!!!	VO_merda.merda_battle_0022
+022	…！
+023	…う…うぐ…っ!!	VO_merda.merda_battle_0024
+024	アンタ…確か、セーダの知り合いの…	VO_kagura_3s_kagu.kagura_sys_0025
+025	例の戦闘部族の集落を<br>出てから尾けてきていた…	VO_sol.sol_sys_0031
+026	この部族の者たちをけしかけたのは<br>お前だな？
+027	マ、マターはサガにとって<br>なくてはならない、聖なる元晶…！<br>貴様のような輩が手にしていい物ではない！	VO_merda.merda_battle_0019
+028	どいつもこいつも…<br>“敗北せし者…<br>世の行く末を憂うにあたわず”	VO_sol.sol_sys_0022
+029	…力なきお前に、<br>意見する権利なんて無いんだよ	VO_sol.sol_sys_0002
+030	き、貴様は、何もわかっていないのだ…！<br>マターを悪用することが<br>どういうことなのか…！	VO_merda.merda_sys_0018
+031	それは、世を滅すると言われている<br>古代竜と関係があるものかもしれんのだぞ!!
+032	古代竜…!?	VO_kagura_3s_kagu.kagura_sys_0025
+033	…このマターが、その竜ってヤツを<br>呼ぶかもしれないってことか…？<br>…クク…	VO_sol.sol_sys_0044
+034	グ…！　何がおかしい…!?	VO_merda.merda_battle_0019
+035	ハハ…いいね！<br>竜なんてカッコいいじゃん！	VO_sol.sol_sys_0007
+036	俄然、マターを揃える気になってきた…<br>ぜひ、この目で見てみたいぜ！	VO_sol.sol_sys_0023
+037	き、貴様…！	VO_merda.merda_sys_0025
+038	もっとも…<br>その竜が俺たちの障害になるというのなら、<br>話は別だ	VO_sol.sol_sys_0010
+039	アンタらにとって、<br>どんな存在なのかは知らないが
+040	…邪魔をするようなら、<br>その頭を消し飛ばしてやるよ
+041	…！	VO_merda.merda_sys_0027
+042	さぁ…行こうぜ、赤髪<br>クク…伝説の竜に会えるかもしれないぞ？	VO_sol.sol_sys_0001
+043	…か、必ず…後悔させてやる…！<br>お…お前の仲間も皆…すべてな！	VO_merda.merda_sys_0042
+044	…何？	VO_sol.sol_sys_0027
+045	お、お前に殺された、<br>部族の者たちの悲痛な叫びが…<br>私を衝き動かす…！	VO_merda.merda_battle_0019
+046	か、必ず…お前たちを…
+047	…なんで、そんなことを言うんだよ？	VO_sol.sol_sys_0012
+048	…何…？	VO_merda.merda_sys_0025
+049	女を殺すのは、<br>俺の哲学に反するって言ってるのに…	VO_sol.sol_sys_0013
+050	仲間を的にされるなんて言われちゃ、<br>殺すしかねぇじゃねぇか？
+051	…！　う…	VO_merda.merda_sys_0018
+052	ダ、ダメ…！　やめて！	VO_kagura_3s_kagu.kagura_sys_0043
+053	無理だな<br>仲間を脅かす芽を摘むのは、<br>集団を治める者の…	VO_sol.sol_sys_0040
+054	ん…？
+055	ボアタックル!!!	VO_merda.merda_battle_0008
+056	グ…!?	VO_sol.sol_sys_0043
+057	かかった!!<br>…今だ!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0023
+058	…！<br>あれは…水の部族の人たち…？
+059	さぁ！<br>死んでいった者たちの無念を、その弓で…	VO_merda.merda_sys_0010
+060	…こんな仕掛けを施していたとは…<br>なかなか狡猾だな…	VO_sol.sol_sys_0044
+061	…!?<br>待て、ヴォダ派の民たちよ!!<br>まだ、浅い…	VO_merda.merda_sys_0027
+062	…遅いよ	VO_sol.sol_sys_0022
+063	ぐぁぁぁぁーっ!!!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0028
+064	!!!
+065	な…なんてことを…!!	VO_kagura_3s_kagu.kagura_sys_0028
+066	ごめんな…<br>俺だって、殺したくなんてないんだけどよ…	VO_sol.sol_sys_0036
+067	…余計なことを口走った、<br>お前が悪いんだぜ？
+068	う…うぁ…!!	VO_merda.merda_sys_0027
+069	でもよ…リーダーの俺が、<br>掟を破るわけにはいかないんだ…<br>許してくれよな？	VO_sol.sol_sys_0022
+070	や…やめてーっ!!!	VO_kagura_3s_kagu.kagura_sys_0019
+071	…んー…なかなかの色男だけどさ…<br>君、モテないっしょ？	VO_ortima.ortima_sys_0031
+072	!?	VO_sol.sol_sys_0025
+073	ガッ…!?	VO_sol.sol_battle_0022
+074	…俺も<br>フェミニストってわけじゃないけどさ<br>…一応ほら、女性は大事に扱わないと	VO_ortima.ortima_sys_0007
+075	オ…オーティマ団長!!!	VO_kagura_3s_kagu.kagura_sys_0025
+076	…！

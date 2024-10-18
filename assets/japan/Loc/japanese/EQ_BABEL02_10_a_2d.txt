@@ -1,0 +1,101 @@
+﻿001	…………
+002	（この歩み…止めてはならぬ<br>たとえ、この身ひとつとなろうとも<br>俺の中には多く、大きな望みがある…）
+003	歩みを…止めてはならぬ…<br>そうだろう…<br>姉さん…	VO_zaharu.zaharu_sys_0027
+004	…………
+005	ヴェテルさん！	VO_ren.ren_battle_0019
+006	レン…
+007	どういうこと!?<br>どうして来てくれなかったの!?<br>それになんなのあの連中!?	VO_ren.ren_sys_0013
+008	あの連中…？	VO_vetel.vetel_sys_0025
+009	そうだよ！<br>聖教騎士みたいな格好をした…<br>骸とか言う連中だよ！	VO_ren.ren_sys_0018
+010	聖教騎士…!?	VO_vetel.vetel_sys_0026
+011	なぜ、聖教会が…<br>もしや…聖教会が裏で何を企んでいる…？<br>いや、そんなまさか…	VO_vetel.vetel_sys_0042
+012	…どうか、したのか…？	VO_ren.ren_sys_0025
+013	俺たちの動きを封じられた	VO_vetel.vetel_chara_1007
+014	封じられた…？	VO_ren.ren_sys_0006
+015	ああ…『シャドウメサイヤ』に関わるな…<br>と伝えてきたのは蒼炎騎士…<br>いや、大臣の命令だ…	VO_vetel.vetel_sys_0030
+016	えっ…	VO_ren.ren_sys_0025
+017	ザハルは…<br>シャドウメサイヤはどうした…？
+018	“賢者の石”の採掘場は爆破され、<br>団員は殆ど残ってないよ…	VO_ren.ren_sys_0030
+019	残ったのは、ザハルとゼン…<br>イーラって少女…<br>あとはアジトに残った数少ない連中
+020	…ニグルという男はどうした？
+021	死んだ。聖教騎士みたいな連中…<br>“骸”って呼ばれてたかな…<br>そいつに殺されたよ	VO_ren.ren_sys_0018
+022	そうか…
+023	これから、どうするんです…？	VO_ren.ren_sys_0002
+024	動けるならば動きたい…<br>だが…近く、聖教騎士団との合同演習が<br>行われることになった	VO_vetel.vetel_chara_1007
+025	俺たちは、これからノーザンブライドに<br>発たなければならない…
+026	ええー…	VO_ren.ren_sys_0016
+027	どちらにしろ…<br>君をこれ以上、<br>危険な任務につけるわけにはいかない	VO_vetel.vetel_sys_0030
+028	で、でもっ…！	VO_ren.ren_sys_0025
+029	シャドウメサイヤは力を失いつつある<br>しばらくは何も起こさないだろう…<br>…それに	VO_vetel.vetel_event_1015
+030	？
+031	ザハルとは…<br>必ずまた戦わなければならない…<br>そんな気がするんだ	VO_vetel.vetel_sys_0031
+032	な…なんだよ…これ…<br>なんでこんなボロボロにされてんだよ…	VO_ila.ila_sys_0020
+033	うっ…うぅ…ザハル…様…	VO_knightm.knightm_sys_0019
+034	何があった…！	VO_zaharu.zaharu_sys_0027
+035	聖教騎士団…ですっ<br>突然…襲撃してきて…っ	VO_knightm.knightm_sys_0018
+036	！
+037	ッ!?	VO_zaharu.zaharu_battle_0019
+038	闇の…聖石が…粉々にッ…!!<br>おのれ…聖教会めェ…!!	VO_zaharu.zaharu_sys_0019
+039	勝手なことをされては困るのだ	VO_waginao.waginao_sys_0010
+040	…………<br>何者だ
+041	会うのは、初めてだな…<br>ザハルよ	VO_waginao.waginao_sys_0007
+042	…そうか<br>聞いたことがある。貴様が聖教会…<br>いや、骸を操るものだな…	VO_zaharu.zaharu_sys_0031
+043	お前がワギナオか？	VO_zaharu.zaharu_sys_0002
+044	さよう	VO_waginao.waginao_sys_0004
+045	貴様の目的はなんだ…	VO_zaharu.zaharu_sys_0018
+046	世界の均衡	VO_waginao.waginao_chara_1012
+047	フッ…<br>バカを言え…貴様らのしていることは<br>大陸の支配だ。裏から操っている	VO_zaharu.zaharu_sys_0010
+048	違う	VO_waginao.waginao_sys_0022
+049	何が違う？<br>常に争いの種を巻き<br>世界を混沌とさせている	VO_zaharu.zaharu_chara_1008
+050	秩序ある世界と嘯きながら<br>やっていることは秩序を乱す行為だ
+051	混沌の中にこそ、真理の光はある<br>そして、対立こそが世界を保つ為に<br>必要な混沌という名の秩序…均衡だ	VO_waginao.waginao_sys_0010
+052	そんなものは真理ではない<br>秩序などであってなるものか<br>…新たな秩序は、この俺が作る	VO_zaharu.zaharu_sys_0013
+053	ザハルよ…どうだ？<br>我らが目指す真理はその実ひとつ…<br>我とともに来ないか？	VO_waginao.waginao_chara_1012
+054	…………
+055	お前が聖教騎士として<br>名を挙げていた頃より、目をつけていた<br>私に協力する気はないか？	VO_waginao.waginao_sys_0007
+056	この俺に貴様の犬…骸になれというのか	VO_zaharu.zaharu_sys_0029
+057	そうではない<br>我がもとにあれば、<br>そなたは真の“闇の王”となろう	VO_waginao.waginao_sys_0022
+058	…愚問だな	VO_zaharu.zaharu_sys_0016
+059	…………<br>そうか。いや、わかっていた	VO_waginao.waginao_sys_0010
+060	俺は“影の救世主”<br>そして“闇の王”だ<br>貴様の力などなくともな	VO_zaharu.zaharu_sys_0010
+061	…残念だザハルよ<br>お前はたしかに闇の英傑…	VO_waginao.waginao_sys_0030
+062	その名を我が心、<br>この大陸に未来永劫、刻み込もう<br>しかし――
+063	お前であってはならんのだ<br>この世界の闇を司るのは<br>お前は闇の力が…強すぎる
+064	貴様を倒す<br>そして、世界は我が闇が照らす	VO_zaharu.zaharu_battle_0006
+065	さらばだ	VO_waginao.waginao_sys_0010
+066	世界は俺が作り変える	VO_zaharu.zaharu_sys_0016
+067	ザハル様っ…ザハル様…!!	VO_ila.ila_sys_0018
+068	イーラ…
+069	メアがどこにもいない！<br>骸の連中に連れて行かれたんだ!!	VO_ila.ila_battle_0019
+070	なんだと…	VO_zaharu.zaharu_sys_0026
+071	聖教会というのは…<br>誠に腐っているのだな…<br>あの幼き娘をかどわかすとは…!!	VO_zen.zen_sys_0022
+072	お願いだっ…！<br>メアを…メアを助けてッ!!	VO_ila.ila_sys_0041
+073	すぐに追う<br>メアは失うわけにはいかん	VO_zaharu.zaharu_sys_0037
+074	ザハル様…<br>わたしは、どうしてシャドウメサイヤに<br>入っちゃいけないの…？	VO_mea.mea_sys_0002
+075	フッ…メアよ。では聞こう<br>お前は何故シャドウメサイヤに<br>入りたい？	VO_zaharu.zaharu_sys_0007
+076	え…？　それは…<br>わたしも、イーラお姉ちゃんたちみたいに<br>ザハル様のお役に立ちたい	VO_mea.mea_sys_0025
+077	そうか…しかし、メアよ<br>覚えておくがいい<br>戦いに赴くだけが役に立つことではない	VO_zaharu.zaharu_sys_0022
+078	そうなの…？	VO_mea.mea_sys_0031
+079	ああ。俺たちは今、世界を作り変える為<br>戦わねばならない時にある	VO_zaharu.zaharu_sys_0004
+080	新たな世界の礎こそシャドウメサイヤだ<br>しかし、お前は違う
+081	どうして…？	VO_mea.mea_battle_1018
+082	お前はその礎の上に立つ<br>俺たちが作る新たな世界に住まうものだ	VO_zaharu.zaharu_sys_0007
+083	そこでお前は、俺たちが作った秩序を<br>守り育まなければならない<br>その時、お前が役に立つ。良いな
+084	…ごめんなさい<br>難しくて…よくわからない	VO_mea.mea_sys_0035
+085	フッ…よい<br>今はまだわからなくともな	VO_zaharu.zaharu_sys_0008
+086	…ザハル様…	VO_mea.mea_sys_0018
+087	目を覚ましたか…	VO_thiefm.thiefm_sys_0029
+088	…っ!?	VO_mea.mea_battle_0020
+089	怯えずとも良い…<br>お前に危害を加えることはない<br>おとなしくしていればな	VO_thiefm.thiefm_sys_0030
+090	じゃ、じゃあなんでわたしを…	VO_mea.mea_battle_0026
+091	わかりきったこと…<br>ザハルをおびき寄せる為の、<br>餌よ	VO_thiefm.thiefm_sys_0010
+092	餌…
+093	ああ…かかったぞ<br>ククク…ほら見ろ、狙い通りだ	VO_thiefm.thiefm_sys_0008
+094	えっ…!?	VO_mea.mea_sys_0025
+095	ザハル様!?　イーラお姉ちゃん!!<br>来ちゃダメーーーー!!	VO_mea.mea_battle_0020
+096	メア！<br>今助ける!!	VO_ila.ila_battle_0019
+097	骸…どこまでも腐りきった連中よ…	VO_zaharu.zaharu_sys_0019
+098	ククク…全てはこの世界の安寧の為…<br>貴様のような異分子は<br>取り除かなければならぬのだ	VO_thiefm.thiefm_sys_0023
+099	その為には、手段を選ばず…<br>確かにワギナオが俺を欲しがるはずだ	VO_zaharu.zaharu_sys_0027
+100	いかに貴様らの力…錬金術が強かろうが<br>この俺の足元にも及ばん！<br>ひれ伏せ！　我こそが真理！
+101	この世の闇を統べる者！<br>すべてを破壊せし暗黒の鬼神となろう！	VO_zaharu.zaharu_sys_0032

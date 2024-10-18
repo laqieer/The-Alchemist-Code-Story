@@ -1,0 +1,260 @@
+﻿001	────両親を失った誕生日
+002	『名前は？』
+003	シェリル
+004	『スロウスシュタインの魔導研究者だった<br>御両親が手をつけていたコトに<br>何か思うことはあるかい？』
+005	ありません
+006	『彼らは魔導研究の域を超え<br>その大元となる錬金術の禁忌を犯した』
+007	『御両親に<br>会いたいと思うかい？』
+008	いいえ
+009	『錬金術の真理を掴まなければ<br>そう御両親は言っていたそうだが…』
+010	『どう思うかね』
+011	戯言だと、思います
+012	帰ってきてしまった
+013	錬金術の力を応用した魔導技術<br>その力に依存した怠惰の国
+014	憎らしい故郷で<br>怠けることなく<br>自分を律するほど…
+015	大好きなものほど離れて<br>大嫌いなものほど身に着いた
+016	贅沢は言わない子供だった
+017	大人しくしていれば<br>父も母も優しかったし
+018	家族旅行なんて<br>したこともなくて
+019	どちらにせよ<br>私を構う暇なんて無かっただろう<br>仕事が愉しかったのだと、今になって思う
+020	求めたことなどなかったのに、失った
+021	求めるものなどなかったのに<br>ただ、一緒にいてくれればと<br>願っていたのに
+022	行き場のない怒りは<br>当然、歪んだ逆恨みへと変わる
+023	わかっているのに
+024	錬金術なんて<br>失くなってしまえばいいのにと
+025	初めて<br>何度も<br>求めた
+026	スロウスシュタイン<br>リアルヘブン<br>スラム街最下層
+027	シェリ姉！
+028	クラージュ。久しぶり	VO_cheryl.cheryl_sys_0007
+029	連絡の一本でもくれれば	VO_courage.courage_sys_0004
+030	歓迎してくれた？	VO_cheryl.cheryl_sys_0008
+031	今日だって<br>歓迎しないとは言ってないケド	VO_courage.courage_sys_0005
+032	レーゲンとは？<br>仲良くしてる？
+033	聞いてよシェリ姉！<br>父さんいなくなってから、もうすぐウン年に<br>なるのよねってグチったら…	VO_courage.courage_sys_0002
+034	レーゲンのやつに<br>『再会したら、泣きながら<br>胸に飛び込むタイプ』って言われた！	VO_courage.courage_chara_1008
+035	ありえないでしょ？<br>もうあんなヤツ<br>当分口聞いてやんないわよ	VO_courage.courage_chara_2008
+036	ふふっ<br>相変わらずで<br>安心した	VO_cheryl.cheryl_sys_0008
+037	何よ？<br>それどういう意味？	VO_courage.courage_sys_0006
+038	その話<br>もう4度目
+039	6度目よ<br>イラッとしたから<br>あとでもっかい話したげる	VO_courage.courage_sys_0040
+040	お邪魔していい？	VO_cheryl.cheryl_sys_0001
+041	どーぞ？<br>散らかしてるけど	VO_courage.courage_sys_0031
+042	とりあえず黙って	VO_courage.courage_chara_1001
+043	まだ何もしゃべってないけど	VO_rofia.rofia_sys_0025
+044	私の腕が必要なんでしょ？	VO_courage.courage_sys_0002
+045	いや、あの
+046	その顔を見ればわかるわよ	VO_courage.courage_sys_0010
+047	ちがうんだけど…	VO_rofia.rofia_sys_0031
+048	なんで言わないのよ	VO_courage.courage_sys_0012
+049	黙れって言うから…	VO_rofia.rofia_sys_0025
+050	言ったけど？	VO_courage.courage_sys_0005
+051	は？	VO_rofia.rofia_sys_0025
+052	は？	VO_courage.courage_sys_0006
+053	クラージュ
+054	何この子	VO_courage.courage_sys_0001
+055	ロフィア<br>ちょっとワケあって<br>家出中
+056	何この人	VO_rofia.rofia_sys_0031
+057	クラージュ<br>私が世界で一番信頼できる<br>凄腕のガンナー
+058	ちょっとぉ<br>シェリ姉	VO_courage.courage_sys_0047
+059	照れない照れない	VO_cheryl.cheryl_sys_0008
+060	家族に褒められるのは<br>いっちばん恥ずかしい	VO_courage.courage_sys_0050
+061	カッ、かぞくなんて<br>なっ、何言ってるのよぉ<br>ちょっ、ちょちょっ、やめてよ…！	VO_cheryl.cheryl_sys_0047
+062	照れるよね～	VO_courage.courage_sys_0023
+063	家族？
+064	私の両親が健在だった頃<br>クラージュの面倒を見てて
+065	私のお父さんがいなくなって<br>すぐだよね	VO_courage.courage_sys_0004
+066	…………
+067	…何よ<br>どこ見てんの<br>女の子を上から下まで眺めて…	VO_courage.courage_sys_0012
+068	えっ!?<br>いっ、いやっ、違う…！<br>凄い服装だったから…
+069	ほら、やっぱり見てたんじゃない	VO_courage.courage_sys_0039
+070	あっ、そ、そうじゃなくて…
+071	うわっ、ニクス、ウワー<br>何、むっつり？<br>ウワー、キャー	VO_rofia.rofia_sys_0028
+072	いやいや！　待って！　待って！
+073	私の妹分を<br>ソウイウ目で見るのは<br>感心しませんね	VO_cheryl.cheryl_sys_0012
+074	ストップ！　違うんだよ！
+075	ストップしませーん<br>時は有限なんでしょ？	VO_rofia.rofia_sys_0015
+076	～～～～ッ!!
+077	か、彼女の、服の装飾品が<br>そのっ、あまりに綺麗で…<br>それだけなんだよっ
+078	えっ、あ、そう？<br>まあ、それなりにね	VO_courage.courage_sys_0048
+079	なあんだ	VO_rofia.rofia_sys_0007
+080	なあんだ	VO_cheryl.cheryl_sys_0045
+081	なんだよ！
+082	クールなフリしてぇ	VO_rofia.rofia_sys_0008
+083	見るトコロ見てるんだなあって<br>オトコノコ？	VO_cheryl.cheryl_sys_0008
+084	ひ、卑怯だぞ…<br>女の子で結託して…！
+085	この飾りはね、特殊な魔導器を介して<br>アルケミィを通すことで<br>輝くように細工してあるの。全部自作	VO_courage.courage_sys_0002
+086	…キレイでしょ？	VO_courage.courage_sys_0023
+087	う、うん…すごく
+088	（この時代の…<br>見たことのない機械…<br>聞いたこともないアルケミィの使い方…）
+089	（アルケミィには…<br>力には…<br>こんな扱い方も、あるのか…）
+090	触ってみる…？	VO_courage.courage_sys_0002
+091	あ、う、うん
+092	触るの!?<br>オトコノコーッ	VO_rofia.rofia_sys_0028
+093	く、クラージュ！<br>その戯言は罪に問われますよ！	VO_cheryl.cheryl_sys_0014
+094	えっ!?<br>ああ！　ううん、ちがッ…!!<br>か、飾りよ！　飾りのほう!!	VO_courage.courage_sys_0025
+095	ニクス、ニクス、ニニニニクス	VO_rofia.rofia_sys_0002
+096	な、何
+097	私たち<br>席、外そっか？	VO_rofia.rofia_sys_0007
+098	か、考えてから<br>喋ってもらっていいかな!?
+099	（そうだ、そうだよ）
+100	（できないじゃないか<br>僕）
+101	（今に触れるなんて）
+102	ついで、ねぇ	VO_courage.courage_sys_0031
+103	傭兵としての仕事や<br>ガンナーの競技大会が各地である時期以外は<br>家にいるわけでしょ？	VO_cheryl.cheryl_sys_0001
+104	いつ、お父さんが帰ってくるか<br>わからないからね<br>個人で受けてる整備業もあるし	VO_courage.courage_sys_0004
+105	ここリアルヘブンは<br>地図からも消されたスラム街<br>姿を隠すには都合がいい
+106	万が一があっても<br>クラージュの銃の腕前があれば<br>しばらくは安全に身を守れるはず
+107	この子の面倒まで見ろって？	VO_courage.courage_sys_0001
+108	私の身は、私が
+109	クラージュ<br>貴方の日課はなんだったかしら？	VO_cheryl.cheryl_sys_0002
+110	え<br>朝昼夜三食後に時計塔の上から<br>街中をスコープで観察すること、だけど？	VO_courage.courage_sys_0006
+111	ええー
+112	ええー	VO_rofia.rofia_sys_0025
+113	なーに<br>頼ろうとしてる人間に文句？	VO_courage.courage_sys_0012
+114	お父さんらしき影がないか<br>チェックしないとね	VO_cheryl.cheryl_sys_0001
+115	見逃すわけにはいかないでしょ	VO_courage.courage_sys_0038
+116	ロフィアに近づく<br>怪しい影があったとしても<br>気づけるでしょ？
+117	私の負担ばっかり	VO_courage.courage_sys_0029
+118	姉の仕事を助けると思って	VO_cheryl.cheryl_sys_0041
+119	こういう時ばっかり
+120	私がノーザンブライドから戻るまでの<br>少しの間だけよ
+121	すぐ帰ってくるわ<br>貴方に会う為に
+122	…………
+123	留守番のロフィアに<br>お父さんの帰宅を見張ってもらえば<br>貴方が各地へ探しに行くこともできるわ	VO_cheryl.cheryl_sys_0001
+124	魔法の力で<br>手を貸せることがあれば、するよ<br>料理は、お菓子しか作れないけど…	VO_rofia.rofia_sys_0037
+125	…………
+126	留守番は、別で頼りがあるから<br>いいんだケド…	VO_courage.courage_sys_0031
+127	別？	VO_cheryl.cheryl_sys_0006
+128	…あんた、友達に<br>理由も話さず出て来たんだっけ？	VO_courage.courage_sys_0002
+129	…………詳しくは、話せないんだ	VO_rofia.rofia_sys_0035
+130	ふうん…	VO_courage.courage_sys_0044
+131	（ワケも言わずに<br>いなくなって、か…………）
+132	（それとも、言えずに…？）
+133	…………<br>あくまで<br>ついでだからね	VO_courage.courage_sys_0045
+134	…！<br>ありがとう…!!	VO_rofia.rofia_sys_0033
+135	よくわかんないけど<br>全部終わったら<br>話してあげてよね	VO_courage.courage_sys_0002
+136	その、友達に
+137	早急に、私がバベル聖教会へ<br>今回のことの顛末を報告します<br>現場証拠はモノクルの記録に残ってる
+138	異端審問会全体で<br>聖教騎士団の調査に動けば<br>間違いなく事態は進展するはず
+139	そうすれば<br>ロフィアへの不当な追跡だって解ける<br>もうすぐよ
+140	…………
+141	もう、会えないと思ってたんだ
+142	シェリル、貴方のおかげ	VO_rofia.rofia_sys_0034
+143	きっかけをくれたのはロフィア<br>貴方です
+144	…あの時の私を救う
+145	え…？
+146	力に使われる人生なんて<br>力に振り回される人生なんて願い下げ
+147	力を制して<br>然るべき裁きを下す
+148	今が好機だから
+149	────生きていかなきゃ
+150	『────時空操術式』
+151	…!?!?
+152	何…？	VO_rofia.rofia_sys_0025
+153	鐘の音と、誰かの、声…？
+154	『刻の海に　たゆたいし君<br>振り子　揺り起こす　波の奥<br>灯す光に集いて　まみえ』
+155	この詠唱…!!
+156	え？　これ、どこから？	VO_courage.courage_sys_0025
+157	『水底　蒼天　結んで開け<br>偶の然りか　必の然りか<br>無限　有限　夢幻に巡り』
+158	メラ…………!?!?
+159	『来たれ』
+160	!?!?	シェリル・ロフィア
+161	『────“邂逅ノ刻” ────』
+162	…………!?!?	VO_cheryl.cheryl_sys_0025
+163	こ、ここ、どこ…!?	VO_rofia.rofia_sys_0025
+164	…幻影兵…………!?<br>いや、ちがう、これは…??	VO_wilhelm.wilhelm_sys_0025
+165	“邂逅ノ刻”
+166	同じ信念を抱いた<br>別時代の人間を<br>引き合わせる限定時空操術式
+167	何も知らない人間を？<br>ハタ迷惑な話だ	VO_wilhelm.wilhelm_sys_0004
+168	邂逅、だからね
+169	だが、助かる	VO_wilhelm.wilhelm_sys_0007
+170	貴方…ニクス…!?	VO_cheryl.cheryl_sys_0002
+171	えっ!?　なんでニクスのこと…!?
+172	ち、違う…ニクスじゃない…<br>じゃあ、ここは…!?	VO_cheryl.cheryl_sys_0025
+173	ど、どうして、こんなところに…<br>私たち、さっきまで…	VO_rofia.rofia_sys_0042
+174	オオオオオオオオォォッ!!!	VO_Mmajin.Mmajin_battle_0001
+175	ひいっ!?	VO_rofia.rofia_battle_0022
+176	あれは…!?	VO_cheryl.cheryl_sys_0025
+177	何がなんだかわからねえが<br>『同じ信念を抱いた』ってことは<br>敵じゃないってことでいいんだな？	VO_wilhelm.wilhelm_sys_0001
+178	きっとね！
+179	アンタら	VO_wilhelm.wilhelm_sys_0002
+180	…何かしら	VO_cheryl.cheryl_sys_0006
+181	少しの間、力を貸してくれないか
+182	おじさん、誰。あやしいよ	VO_rofia.rofia_sys_0002
+183	おじさんじゃない<br>『ヴィルさん』だ	VO_wilhelm.wilhelm_sys_0015
+184	同じようなものじゃない	VO_rofia.rofia_sys_0031
+185	違うだろ！<br>『おじ』と『ヴィル』の部分が違うだろ！	VO_wilhelm.wilhelm_sys_0012
+186	半分は一緒じゃない	VO_rofia.rofia_sys_0006
+187	半分は一緒か！<br>あっそうかっしまったっ！<br>いや、違う違う!!	VO_wilhelm.wilhelm_sys_0031
+188	あれは“魔人兵”…!?	VO_cheryl.cheryl_sys_0021
+189	わかるのか!?<br>キレイなお姉さん！	VO_wilhelm.wilhelm_sys_0025
+190	キレイナオネエサン!?	VO_cheryl.cheryl_sys_0025
+191	アンタのことだよ！	VO_wilhelm.wilhelm_sys_0037
+192	でっ、でででっ、でで出会い頭に何を…！	VO_cheryl.cheryl_sys_0050
+193	気を悪くしたなら	VO_wilhelm.wilhelm_sys_0035
+194	い、いえ！　ぜんぜん！<br>ま、まあっ!?<br>その戯言についての罪は問いませんけど！
+195	アンタらが誰なのかは<br>この際どうでもいい	VO_wilhelm.wilhelm_sys_0030
+196	頼む、手が足りない<br>助けてくれないか？
+197	…………なんの為に	VO_cheryl.cheryl_sys_0001
+198	…………生きる為に	VO_albell.albell_sys_0037
+199	貴方…………!?<br>目が、赤いよ…？<br>泣いていたの…？	VO_rofia.rofia_sys_0042
+200	大切な人を亡くしただけ…<br>だから、生きていきたいの…	VO_albell.albell_sys_0018
+201	お願い
+202	…………
+203	よろしい<br>貴方たちの要求を正当なものとして認めます	VO_cheryl.cheryl_chara_1001
+204	シェリルさん…？	VO_rofia.rofia_sys_0025
+205	忌まわしい錬金術の産物は<br>断罪対象として余りある…！
+206	それにロフィア<br>なぜ貴方が死ななきゃならないのか
+207	別時代の信念に触れて<br>わかることがあるかもしれない
+208	『生きる為に』戦う<br>彼女らとなら
+209	…………うん	VO_rofia.rofia_chara_1023
+210	…泣かないで	VO_rofia.rofia_sys_0002
+211	…………
+212	私も、生きていたいと思ってるんだ
+213	同じだね	VO_rofia.rofia_sys_0007
+214	…！
+215	ありがとう…………！	VO_albell.albell_sys_0033
+216	お兄ちゃん
+217	いってきます
+218	…………同じ
+219	ん？	VO_cheryl.cheryl_sys_0006
+220	『同じ信念を抱いた人間を<br>引き合わせる』…
+221	…ええ。そう言ってた	VO_cheryl.cheryl_sys_0037
+222	彼女たちも…<br>私も…
+223	シェリルさんも一緒？	VO_rofia.rofia_sys_0002
+224	どうなのかしら	VO_cheryl.cheryl_sys_0039
+225	…願ってたんだ、ずっと
+226	一度は叶わない願いだって<br>諦めたけど
+227	やっぱり<br>会いたいなって思うんだ
+228	貴方の要求も<br>正当なものとして認めます	VO_cheryl.cheryl_chara_3001
+229	くすっ、何様？	VO_rofia.rofia_sys_0007
+230	異端審問官様ですけれど？	VO_cheryl.cheryl_sys_0007
+231	甘いんだね	VO_rofia.rofia_sys_0008
+232	身内にはね	VO_cheryl.cheryl_sys_0037
+233	あとで、お茶しようね	VO_rofia.rofia_battle_0018
+234	それじゃあ今は<br>辛いものでも…	VO_cheryl.cheryl_sys_0005
+235	ど、どこからでも<br>ピクルスが出てくるの…	VO_rofia.rofia_sys_0025
+236	食べる？	VO_cheryl.cheryl_sys_0001
+237	～～～～…！	VO_rofia.rofia_battle_0024
+238	食べる…ッ！	VO_rofia.rofia_sys_0032
+239	ふふっ<br>どうぞ	VO_cheryl.cheryl_sys_0008
+240	…………ぱくっ
+241	…あ
+242	ご感想は？	VO_cheryl.cheryl_sys_0001
+243	…………
+244	………もう、辛くない
+245	起きて<br>────“カンパネラ”	VO_albell.albell_sys_0007
+246	この、輝き…<br>これが、錬金術なの…!?	VO_cheryl.cheryl_sys_0046
+247	きれい…	VO_rofia.rofia_sys_0046
+248	出かけよう…<br>父さん、母さん<br>お兄ちゃん…
+249	…………家族旅行だね
+250	オオオォォッ…！<br>オオオオーーーッッ!!!	VO_Mmajin.Mmajin_battle_0002
+251	旅の醍醐味だ	VO_wilhelm.wilhelm_sys_0007
+252	？	VO_albell.albell_sys_0005
+253	旅先で<br>知らない奴らと騒ぐのが<br>一番楽しいんだ
+254	もう知った仲だけどね！
+255	ピクニックみたいなものだね	VO_rofia.rofia_sys_0007
+256	…家族で出かけてね	VO_cheryl.cheryl_sys_0007
+257	シェリルさん<br>私たちも	VO_rofia.rofia_sys_0002
+258	？	VO_cheryl.cheryl_sys_0006
+259	一緒にいるから
+260	身内には、甘いんだよね？	VO_rofia.rofia_sys_0008

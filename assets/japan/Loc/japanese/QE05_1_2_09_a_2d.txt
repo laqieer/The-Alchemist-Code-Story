@@ -1,0 +1,51 @@
+001	あ、カムイ兄ちゃんが帰ってきた	VO_hisham-b.hisham-b_sys_0007
+002	あ、本当<br>ずいぶん遅かったわね	VO_malta.malta_sys_1050
+003	来ていたのか、マルタ	VO_kamui-b.kamui-b_sys_0037
+004	ええ、もう大分よくなったけれど、<br>やっぱりヒシャームのことが気になって	VO_malta.malta_sys_0005
+005	あれ～？<br>本当に気になるのは、僕のことだっけ？	VO_hisham-b.hisham-b_sys_0010
+006	あっ、こら！　ヒシャーム！<br>ヘンな茶々入れないでっ	VO_malta.malta_sys_0013
+007	なにか、あるのか？	VO_kamui-b.kamui-b_sys_0002
+008	な、なんでもないの！	VO_malta.malta_battle_0019
+009	それより、知ってる？<br>この近くに商隊が来てるんですって<br>今朝イシドが言っていたわ	VO_malta.malta_sys_0001
+010	ああ…そういえば、<br>そんなことを言っていたな	VO_kamui-b.kamui-b_sys_0004
+011	この砂糖菓子もイシドがそこで<br>もらって来たって	VO_hisham-b.hisham-b_sys_0007
+012	あっ、もう取り引きは終わってたのね<br>質の良い乳香があれば欲しかったんだけど	VO_malta.malta_sys_1050
+013	でも、もう一度里の外にというのは、<br>ちょっと申し訳ないような…
+014	あとで、自分で見に行ってみようかしら	VO_malta.malta_sys_0016
+015	…なら、俺が行ってこよう	VO_kamui-b.kamui-b_sys_0031
+016	え？　でもカムイ今帰ったばかりじゃ…	VO_malta.malta_sys_0006
+017	なに、そういえば祝言のお祝いも用意して<br>ないと気付いてな	VO_kamui-b.kamui-b_sys_0007
+018	ここは未来の族長夫人の為に<br>ひと肌脱いでおこうと思ったわけだ
+019	そう…そこまで言うなら	VO_malta.malta_sys_0020
+020	イシドの話だと、商隊は向こうの<br>岩場でテントを張っているって聞いたわ	VO_malta.malta_sys_0031
+021	では、行ってみよう<br>ついでに食料も仕入れておくか	VO_kamui-b.kamui-b_sys_0004
+022	ってことは、もしかして今夜は<br>コショウの効いた肉料理が食べれそう？	VO_hisham-b.hisham-b_sys_0009
+023	カムイ兄ちゃんの肉詰めパイ、<br>僕、大好きなんだよね！
+024	その商隊が、<br>質の良い香辛料を運んでいたら、な	VO_kamui-b.kamui-b_sys_0007
+025	持ってるに決まってるじゃん！<br>砂漠を越える商人があんな軽くて<br>金になるモノ見のがすはずがないって！	VO_hisham-b.hisham-b_sys_0007
+026	何事にも例外はあるが…<br>まあ、期待してるといい	VO_kamui-b.kamui-b_sys_0037
+027	行ってらっしゃーい！<br>期待して待ってま～す！	VO_hisham-b.hisham-b_sys_0004
+028	それじゃあ、気をつけて	VO_malta.malta_sys_0004
+029	たしか…この辺りか<br>商隊が野営を張った痕跡はあるが――	VO_kamui-b.kamui-b_sys_0031
+030	――これで、商隊の人間は全てか？	VO_gluttony-o.gluttony-o_sys_0031
+031	む…	VO_kamui-b.kamui-b_sys_0037
+032	へい、ほかには誰もおりやせん<br>あの、兵隊さん。こりゃ一体なにごとで？
+033	お前たちが気にする必要はない<br>…通行証も、我が国発行の正式なものだな	VO_gluttony-o.gluttony-o_sys_0010
+034	そりゃもちろん！<br>お上に腹ァ探られるような商売は<br>してませんぜ！	VO_thiefm.thiefm_sys_0007
+035	よろしい<br>…ところで、<br>この辺りで物を売ったことはあるか？	VO_gluttony-o.gluttony-o_sys_0006
+036	この辺りで、ですか？<br>そういや今朝方、どっかの氏族みてえな<br>格好の一団と取引がありやしたが	VO_thiefm.thiefm_sys_0006
+037	その者たちは、旅人か？<br>やけに軽装ではなかったか？	VO_gluttony-o.gluttony-o_sys_0005
+038	そういや、ちょっと砂漠越えには<br>軽い装備だったかな？	VO_thiefm.thiefm_sys_0031
+039	けど、ここはもうグラトニーの領内ですぜ？<br>ちょいと足を延ばせば村のひとつやふたつ…
+040	いや、参考になった<br>もう行け。これ以上ここに留まるようなら、<br>行軍の邪魔となる	VO_gluttony-o.gluttony-o_sys_0031
+041	へ、へえ…わかりやした…	VO_thiefm.thiefm_sys_0027
+042	…あの言い草、やはりグラトニー軍は<br>我らが隠れ里を探しているのか？	VO_kamui-b.kamui-b_sys_0031
+043	まさか、ナロール王の身になにか…!?
+044	…！　しまった！	VO_kamui-b.kamui-b_sys_0020
+045	今の音は…！<br>貴様、やはりまだ誰か匿っていたな!?	VO_gluttony-o.gluttony-o_sys_0013
+046	は？<br>い、いえ、そんなことは――	VO_thiefm.thiefm_sys_0018
+047	は――え？<br>なん、で…兵隊さ――	VO_thiefm.thiefm_battle_0022
+048	将軍の言っていた“例のヤツ”かもしれん！<br>手足は落としても構わんが、<br>喋れるようにはしておけ！	VO_gluttony-o.gluttony-o_sys_0012
+049	はっ！	VO_gluttony-y.gluttony-y_battle_0001
+050	く――！<br>ここまで見境がないとは！<br>グラトニー軍、一体なにを考えている!?	VO_kamui-b.kamui-b_sys_0017
+051	一度やつらを撒いてからでないと、<br>里には戻れないか――！

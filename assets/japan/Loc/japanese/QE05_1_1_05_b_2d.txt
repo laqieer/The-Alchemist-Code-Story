@@ -1,0 +1,71 @@
+﻿001	おぉっ！	VO_kamui-b.kamui-b_sys_0011
+002	…………
+003	…さすがに、本場の剣闘士を相手に<br>剣での戦いを挑むのは無茶があったか	VO_kamui-b.kamui-b_battle_0019
+004	いえ、よく澄んだ良い太刀筋です<br>よほどの鍛錬を積んだとわかります<br>けれど――	VO_theona.theona_sys_0010
+005	くっ！	VO_kamui-b.kamui-b_battle_0022
+006	あなたは、本気ではありませんね？<br>負けてもいいと思っている	VO_theona.theona_sys_0022
+007	それは…
+008	そちらの事情は知りません<br>詮索する気もない<br>ですが――	VO_theona.theona_sys_0010
+009	こちらにも、この闘技場の頂点を戴く者<br>としてのプライドがあります
+010	あなたの本気――引き出してみせましょう	VO_theona.theona_battle_0004
+011	――ッ!?	VO_kamui-b.kamui-b_battle_0019
+012	ぐ…っ	VO_kamui-b.kamui-b_sys_0042
+013	どうやら、あなたの<br>得意な得物は剣ではない<br>それはわかります	VO_theona.theona_sys_0045
+014	ならば槍ですか？　それとも弓？<br>斧や鎌？　それとも短筒でしょうか<br>あるいは、魔法や魔導といった力？
+015	ためらう必要はありません<br>あなたの持ちうる最大の力を<br>振るってください
+016	私はこの闘技場の王者として、<br>そのすべてに応じて見せましょう！	VO_theona.theona_sys_0032
+017	ぐ…っ!?	VO_kamui-b.kamui-b_sys_0042
+018	（なんと早く正確な剣…！<br>その上フェイントまで交えられては――）
+019	これについて来ますか…！<br>ならば――	VO_theona.theona_sys_0010
+020	しまっ――	VO_kamui-b.kamui-b_sys_0020
+021	――もらいました！	VO_theona.theona_sys_0007
+022	（捌き、きれない――<br>この体勢であの剣戟を喰らえば――死？）
+023	これは――!?	VO_theona.theona_chara_1010
+024	…っ！　しま――<br>俺は今、何を……!?	VO_kamui-b.kamui-b_sys_0027
+025	…今	VO_theona.theona_sys_0010
+026	参った	VO_kamui-b.kamui-b_sys_0030
+027	今の術…あれが、貴方の本気ですか	VO_theona.theona_sys_0002
+028	…なんのことだ？	VO_kamui-b.kamui-b_sys_0037
+029	なぜ私に勝ちを譲ったのですか？	VO_theona.theona_sys_0022
+030	そんなつもりはない<br>…いや、最初はそのつもりだったが<br>正直に言って完敗だ	VO_kamui-b.kamui-b_chara_1003
+031	それなりに腕には<br>覚えのあるつもりだったが、<br>やはりチャンピオンは格が違うな
+032	…………
+033	良い経験をさせてもらった。ありがとう	VO_kamui-b.kamui-b_sys_0011
+034	…ふむ	VO_waginao-b.waginao-b_sys_0005
+035	如何なさいましたか？	VO_stknightm.stknightm_sys_0025
+036	今の一戦、お前はどう見る？	VO_waginao-b.waginao-b_sys_0003
+037	はっ、体系としては不明ですが、<br>錬金術に近しいモノのように見えました	VO_stknightm.stknightm_battle_0002
+038	で、あろうな<br>あれは“練精術”――古き時代に忘れられし、<br>“セフィラの民”の御業であろう	VO_waginao-b.waginao-b_sys_0010
+039	この場で捕え、出自を問いますか？	VO_stknightm.stknightm_sys_0031
+040	よい。無闇に事を荒立てる必要はない<br>もとより彼の一族は世を乱すことを<br>良しとせぬ	VO_waginao-b.waginao-b_sys_0039
+041	だが、セフィラの民が里を出たか…ふむ<br>それほどの凶兆がこの国に迫っている、<br>ということか？
+042	残念だったね、カムイ兄ちゃん！<br>もうちょっとで勝てそうだったのに！	VO_hisham-b.hisham-b_sys_0030
+043	いや、俺が彼女に剣で何度挑もうと、<br>あの結果は変わらなかっただろう	VO_kamui-b.kamui-b_chara_1003
+044	…そうなの？	VO_hisham-b.hisham-b_chara_1009
+045	ああ、アレは生粋の戦士だ<br>あれほどの技量を手に入れるまでに、<br>血のにじむような鍛錬があったはずだ	VO_kamui-b.kamui-b_sys_0004
+046	彼女ほどの使い手はそうはいまい<br>俺の知る中ではイシドと同格か、あるいは…	VO_kamui-b.kamui-b_sys_0031
+047	イシド？　だれ、その人？<br>カムイ兄ちゃんの友達？	VO_hisham-b.hisham-b_chara_1009
+048	…………
+049	どうしたの？	VO_hisham-b.hisham-b_sys_0001
+050	…いつまでその呼び方を続けるつもりだ？<br>ここはもう闘技場じゃない<br>家族のふりをする必要はないぞ	VO_kamui-b.kamui-b_sys_0002
+051	…だって、呼びやすいし	VO_hisham-b.hisham-b_sys_0011
+052	…いいか、ヒシャーム<br>今に慣れてしまえば、そこに甘えが生まれる	VO_kamui-b.kamui-b_sys_0030
+053	最初は簡単に振り払えるだろう<br>自分は変わらないと、<br>前を向いていると思うかもしれない
+054	だがその甘えは次第に大きくなり、<br>いずれお前の心に諦めを誘う
+055	…諦め？	VO_hisham-b.hisham-b_sys_0031
+056	お前は記憶を取り戻して…家族に会いたい<br>そうだな？	VO_kamui-b.kamui-b_sys_0004
+057	うん	VO_hisham-b.hisham-b_sys_0043
+058	その想いは、今は強いかもしれない<br>決して変わらないと思うかもしれない<br>だが、そんなことはないんだ	VO_kamui-b.kamui-b_sys_0001
+059	甘えを重ねた分だけ、<br>妥協を積み重ねた分だけ、<br>想いは次第に薄れていく
+060	そして立ち止まってしまえば…<br>もう、そこから動けなくなる…
+061	…お前にはまだ、希望がある<br>帰れる故郷が、きっと<br>だから、まだ甘えるな	VO_kamui-b.kamui-b_sys_0002
+062	…でも、それってすごく辛くない？	VO_hisham-b.hisham-b_sys_0017
+063	なにかを想い続けるとは、そういうことだ<br>…できるな？	VO_kamui-b.kamui-b_sys_0030
+064	…頑張る	VO_hisham-b.hisham-b_sys_0018
+065	…よくわからないのですが、<br>結局おふたりはなんの話をしていたんですか？	VO_theona.theona_sys_0002
+066	うわぁっ!?<br>て、てて、テオナさん!?<br>闘技場のチャンピオンの…!?	VO_hisham-b.hisham-b_sys_0028
+067	どうして、この宿に…？	VO_kamui-b.kamui-b_sys_0027
+068	あ、お話はもうよろしいのですか？<br>では、私の要件を――コホン	VO_theona.theona_chara_1006
+069	闘技場ではろくにお話もできませんでした<br>ので…<br>決闘を前提に自己紹介しましょう
+070	…今、なんと？	VO_kamui-b.kamui-b_sys_0037
+071	ですから――正式な名乗りの上で、<br>今度こそ全力で勝負です！	VO_theona.theona_battle_0010

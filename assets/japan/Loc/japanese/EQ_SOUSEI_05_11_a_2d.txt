@@ -1,0 +1,101 @@
+﻿001	術式の解析は終わった<br>…パトリキウス王の言う通り、<br>この盾が活路になりそうだ	VO_nimuru.nimuru_sys_0001
+002	なるほど…<br>だが、少しばかり厄介だな	VO_kuienai.kuienai_sys_0031
+003	お前の腕でも、か？	VO_nimuru.nimuru_sys_0006
+004	すでに組み込まれた盾の術式と、<br>レヴィアタンの罪を剥奪する為の<br>対罪術式…	VO_kuienai.kuienai_sys_0004
+005	このふたつをひとつの盾の中で<br>十全に機能させるのは、難しい
+006	そうか…	VO_nimuru.nimuru_sys_0022
+007	どうする、<br>このまま盾の機能だけ修復するか？	VO_kuienai.kuienai_sys_0001
+008	いや、おそらくそれでは足りない<br>…そうだな、今まで試したことはないが	VO_nimuru.nimuru_sys_0031
+009	異なるふたつの武具を<br>一対のものとして組み上げる<br>これならどうだ？	VO_nimuru.nimuru_sys_0002
+010	ひとつの機能をふたつに別けた<br>『ライブラ』とは逆の機構か…	VO_kuienai.kuienai_sys_0006
+011	それは中々難儀な作業になるな	VO_kuienai.kuienai_sys_0030
+012	だが、お前ならできる<br>…そうだろう？	VO_nimuru.nimuru_sys_0007
+013	まあ、期待に応えられるよう努めるとも	VO_kuienai.kuienai_sys_0007
+014	足りない材料は、<br>“アレ”で補って構わないか？	VO_kuienai.kuienai_sys_0001
+015	ああ、もともとその為に持ってきたものだ<br>…断罪の武具が破損した時の為にな	VO_nimuru.nimuru_sys_0004
+016	ならば、早速取り掛かるとしよう<br>ニムルは――	VO_kuienai.kuienai_sys_0037
+017	失礼しますっ！	VO_dafne.dafne_sys_0001
+018	…訪ねてくるのは構わないが、<br>もう少し静かに頼む	VO_kuienai.kuienai_sys_0031
+019	危うく煮え湯を被るところだったぞ…	VO_kuienai.kuienai_sys_0030
+020	も、申し訳ありません！<br>でも、緊急事態なのです…！	VO_dafne.dafne_sys_0035
+021	…なんだって？	VO_nimuru.nimuru_sys_0006
+022	アドレイたちが、<br>レヴィアタンに追われている…!?	VO_nimuru.nimuru_sys_0025
+023	それは本当ですか、陛下
+024	うむ、騎士たちの報告ではアンデクス殿と<br>ともに憤怒罪域＜イラ・ベルト＞の<br>船を拿捕しに向かったと
+025	…その途中で、<br>レヴィアタンと遭遇したようだ	VO_hymnus.hymnus_sys_0004
+026	両者はすでに王都を離れ、<br>境界領域のほうに向かっているらしい<br>そうだったな、ダフネ
+027	…………
+028	…ダフネ？	VO_hymnus.hymnus_sys_0006
+029	あ、いえ、なんでもありません！<br>その、仰る通りですっ	VO_dafne.dafne_sys_0039
+030	我らも救援に向かいたいところだが…	VO_hymnus.hymnus_sys_0029
+031	…盾の修復は最終工程に入っているが<br>完成にはもう少し時間が必要だ<br>それに、罪獣を攻略する糸口もまだ…	VO_nimuru.nimuru_sys_0018
+032	今、俺たちが無理に追いかけたところで<br>共倒れになる可能性が高い…	VO_nimuru.nimuru_sys_0030
+033	見捨てる、のですか…？	VO_dafne.dafne_sys_0021
+034	そんなつもりは毛頭ないさ<br>“盾”の完成とともに、救援に向かう
+035	だが、間に合うのか？<br>ここから境界領域までは<br>かなりの距離があるぞ	VO_hymnus.hymnus_sys_0001
+036	間に合う――俺たちだけなら	VO_nimuru.nimuru_sys_0004
+037	あっ、時空操術で繋ぐ感じ？<br>『ライブラ』までの一方通行なら、<br>まあ行けるかな。でも――	VO_mela.mela_sys_0006
+038	多分四、五人が限界だと思う<br>それでマギルはすっからかん！
+039	やったあと、あたしとニクスは<br>丸一日くらい使い物にならなくなると<br>思うけど～…ダイジョーブ？	VO_mela.mela_sys_0030
+040	背に腹は代えられない<br>そして、送り出すのは――	VO_nimuru.nimuru_sys_0005
+041	あ、私…ですか？	VO_dafne.dafne_sys_0001
+042	あの大盾は、どうやら<br>アナタのマギル…力と深い縁で<br>結ばれているようなの	VO_eularea.eularea_sys_0004
+043	つまり、あの盾の真価を<br>発揮できるのは――お前だけだ	VO_nimuru.nimuru_sys_0002
+044	罪獣レヴィアタンから“罪”を<br>剥奪する役目は、お前にしか果たせない
+045	…っ
+046	息がつまる。呼吸が乱れる。<br>そんな大役を、私が…？<br>でも――
+047	わかり、ました！<br>私、行きます！	VO_dafne.dafne_sys_0004
+048	…どうやら方策は決まったようだな？
+049	では、そのように動くとしよう<br>ニムル殿は、盾の修理を急いで欲しい
+050	紫炎騎士団員は総員、<br>船団の準備に回すのだ
+051	ハッ！	VO_hymnus.hymnus_battle_0001
+052	此度こそ、我ら嫉妬の民とレヴィアタンの<br>因縁を終わらせる好機――<br>皆、決して気を抜くでないぞ
+053	…あとは、時間との勝負だ<br>なんとか盾の修復を、<br>間に合わせなければ	VO_nimuru.nimuru_sys_0005
+054	メラは、ダフネを<br>転移させる準備を頼む<br>エウラリアも補助を	VO_nimuru.nimuru_sys_0001
+055	りょ～かいっ！	VO_mela.mela_sys_0038
+056	うん、任せてニムルくん	VO_eularea.eularea_sys_0006
+057	…!?　この音は――<br>ニカイア姫の寝室のほうか!?	VO_nimuru.nimuru_sys_0025
+058	まずい、<br>あそこには今エンメルが――!?	VO_nimuru.nimuru_battle_0022
+059	…エンメル様？	VO_nicaia.nicaia_sys_0001
+060	はい、なんでしょう<br>どこか痛むのですか？	VO_emmer.emmer_sys_0005
+061	そうではないのです。ただ…<br>エンメル様のお力で、わたくしを<br>起き上がれるようには、できますか？	VO_nicaia.nicaia_sys_0039
+062	それは、難しいです<br>あなたの体は今、マギル――<br>生きる為に必要な力が足りていないの	VO_emmer.emmer_sys_0031
+063	それは、傷や痛みを消すのとはわけが違う<br>時間をかけて、<br>ゆっくりと癒していくしかないものなの	VO_emmer.emmer_sys_0001
+064	そう、ですか…	VO_nicaia.nicaia_sys_0017
+065	ダメですね、わたくしは<br>ダフネやイムヌスの助けになれればと、<br>そう思ったのだけれど	VO_nicaia.nicaia_sys_0030
+066	あなたは、十分<br>皆の助けになっていると思います	VO_emmer.emmer_sys_0002
+067	ダフネさんも、イムヌスさんも――<br>私の兄さんも、あなたに命を救われた
+068	だから、今は休んで<br>ここから先は、私たちに任せてください	VO_emmer.emmer_sys_0001
+069	ふふっ、お優しいのですわね<br>エンメル様は	VO_nicaia.nicaia_sys_0007
+070	そんなこと――	VO_emmer.emmer_sys_0025
+071	…ッ!?　一体、何が…？	VO_nicaia.nicaia_sys_0025
+072	っ、侵入者です！　窓から――<br>ニカイア様、どうか私のうしろに…！	VO_emmer.emmer_battle_0019
+073	――アァ、見ツケタゾ<br>大盾ハ砕ケ、獣ハ鎖ヨリ解キ放タレタ	VO_arius.arius_sys_0005
+074	残ル障害ハ、貴様ノ操ル霊獣ノミ――	VO_arius.arius_sys_0010
+075	“我は至高に希う――！”	VO_emmer.emmer_battle_0007
+076	異邦ノ巫女カ――邪魔ヲ、スルナ!!	VO_arius.arius_sys_0013
+077	この人は、<br>憤怒罪域＜イラ・ベルト＞の<br>軍勢を指揮していた――？	VO_emmer.emmer_sys_0006
+078	エンメル様、お逃げください！<br>あの者の狙いは、わたくしのようです<br>ですから…	VO_nicaia.nicaia_battle_0019
+079	それはダメ	VO_emmer.emmer_sys_0040
+080	エンメル様…？
+081	あなたが死んだら、悲しむ人が<br>たくさんいます<br>イムヌスさんも、きっと…	VO_emmer.emmer_sys_0002
+082	そんな思いは、もうたくさん	VO_emmer.emmer_sys_0042
+083	何かを失って、<br>見失って生きる人を見るのは、<br>もう…
+084	あなたは生きて、幸せになってください<br>それが、“私たち”の願いだった<br>だから――	VO_emmer.emmer_sys_0001
+085	私が守ります。必ず…！
+086	戯言…！
+087	…っ！	VO_emmer.emmer_battle_0019
+088	強サナキ願イ、覚悟ナキ理想ナド<br>所詮ハ下ラヌ絵空事ヨ…！	VO_arius.arius_sys_0031
+089	ホウ、棒切レガ空ヲ舞ウカ…<br>ダガ、話ニナラヌ	VO_arius.arius_sys_0010
+090	きゃっ!?	VO_emmer.emmer_battle_0025
+091	邪魔ダテスルノナラバ、<br>マズハ貴様カラダ――！	VO_arius.arius_battle_0040
+092	…鍛冶仕事を終えて外に出てみれば、<br>まさかこんな場面に出くわすとはな	VO_kuienai.kuienai_sys_0030
+093	イエナ…！	VO_emmer.emmer_sys_0025
+094	ここは俺が引き受けよう<br>エンメルは、ニカイア姫を連れて外へ	VO_kuienai.kuienai_sys_0002
+095	ありがとう！	VO_emmer.emmer_sys_0034
+096	オノレ、邪魔ヲ――<br>…貴様、“蛇”カ？	VO_arius.arius_sys_0013
+097	コノ歪ミ果テタ“マギル”ノ匂イ――<br>間違イナイ…<br>貴様、“アノ女”ニ逢ッタナ？	VO_arius.arius_sys_0001
+098	…………
+099	…マア良イ<br>貴様ガ何者デアロウトモ、<br>焼キ尽クシテシマエバ同ジコト――	VO_arius.arius_sys_0031
+100	…怒りは時に、炎にたとえられるが<br>それが貴方の<br>堕罪者としての力というわけか	VO_kuienai.kuienai_sys_0031
+101	だが、この身は錬鉄の道に身を捧げし者<br>炎の扱いならば、心得ている――！	VO_kuienai.kuienai_sys_0010

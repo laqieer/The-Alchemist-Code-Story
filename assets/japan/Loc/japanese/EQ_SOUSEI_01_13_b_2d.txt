@@ -1,0 +1,57 @@
+001	…っ、<br>なんとか穢れは追い出せたけど…	VO_emmer.emmer_sys_0042
+002	ダメ…飛空艇が今の衝撃で<br>さっきよりも<br>竜から離れてしまっている…！
+003	せめて、もう少し近づければ――	VO_emmer.emmer_battle_0019
+004	近づければ、良いのですね？	VO_julia.julia_sys_0031
+005	…え？	VO_emmer.emmer_sys_0025
+006	あの少年から、<br>緊急時の対処は教わっています<br>今は間違いなく緊急時、そうですよね？	VO_julia.julia_sys_0030
+007	え、ええ、そうだと思う、けど	VO_emmer.emmer_sys_0025
+008	では、とりあえずやってみましょう<br>私、実は不器用なのですが…<br>まあ、なんとかなるでしょう	VO_julia.julia_sys_0006
+009	あの、ジューリア？<br>今なんて…？	VO_emmer.emmer_sys_0001
+010	大丈夫です。ええ。問題ありません<br>あ、これですかね？　きっとこれでしょう<br>いいですよね、これで	VO_julia.julia_sys_0007
+011	少々荒療治かも知れませんが…<br>まあ、ほかの操作は習ってませんからね	VO_julia.julia_sys_0031
+012	待って、貴女…もしかして――	VO_emmer.emmer_sys_0027
+013	えいっ！	VO_julia.julia_battle_0004
+014	きゃぁぁぁぁっ!?	VO_emmer.emmer_battle_0025
+015	…あれ？　おかしいですね	VO_julia.julia_sys_0025
+016	今度は、なんだ!?	VO_waginao-c.waginao-c_sys_0026
+017	わからない…だが、どうやら<br>竜の動きは止まったようだ	VO_nimuru.nimuru_sys_0005
+018	待って!?　なんで飛空艇からの<br>緊急アラートが飛んできてんの!?<br>しかもこの損害状況――	VO_adlai.adlai_sys_0027
+019	まさか誰か、俺の飛空艇で<br>この竜に体当たりかましたんじゃ…!?	VO_adlai.adlai_sys_0018
+020	落ち着け、アドレイ	VO_waginao-c.waginao-c_sys_0001
+021	これが落ち着いていられるか！<br>帰りの足がなくなったかも<br>しれないんだぞ!?	VO_adlai.adlai_sys_0025
+022	ああ、それにエンメル！<br>彼女は無事なんだよな!?
+023	…大丈夫だ<br>竜は再びマターの拘束で動きを止めている<br>エンメルは無事だ	VO_nimuru.nimuru_sys_0004
+024	そ、そうかぁ…	VO_adlai.adlai_sys_0020
+025	だが、急いだ方がいいのは確かだ<br>このまま、最後の核へと向かうぞ！	VO_nimuru.nimuru_sys_0001
+026	んっ…あれ、私――	VO_emmer.emmer_sys_0042
+027	気がつかれましたか、エンメル様	VO_julia.julia_sys_0025
+028	…申し訳ありません<br>少々、操作を誤ったようです	VO_julia.julia_sys_0035
+029	少々…かな…？	VO_emmer.emmer_sys_0011
+030	ともかく、これで――	VO_julia.julia_sys_0006
+031	…エンっ！　アァ！<br>…っ、この！	VO_julia.julia_battle_0022
+032	ギ、ガァ…オチ、ロ
+033	オチロオチロオチロオチロオチロオチロオ<br>チロオチロオチロオチロオチロオチロオチロ<br>オチロオチロオチロオチロオチロオチロオ
+034	穢れが…！	VO_emmer.emmer_sys_0027
+035	ご安心を。すぐに済みます	VO_julia.julia_battle_0019
+036	…ジューリア？	VO_emmer.emmer_sys_0025
+037	貴方、その血…！	VO_emmer.emmer_sys_0021
+038	今の衝撃で、傷が開きましたか…	VO_julia.julia_battle_0022
+039	先日の黒騎士の襲撃での負傷です<br>どうやらあの男の剣、<br>穢れを操るもののようです
+040	練精術による治療も効かず、<br>さて、どうしたものやら…	VO_julia.julia_sys_0016
+041	ならどうして、ついて来たりなんか…！	VO_emmer.emmer_sys_0020
+042	それが私の使命であり――<br>私のしたかったことだからです	VO_julia.julia_sys_0006
+043	貴女とニムル様を、お守りしたかった<br>何か助けになれればと<br>…ただ、それだけなのですよ
+044	ダメ、そんな傷で穢れの浄化なんて…！<br>ジューリア…！	VO_emmer.emmer_sys_0042
+045	そんな顔を…なさらないでください<br>魂を罪に堕とされることなく…逝けるのです<br>この世界で、こんな幸せはありません…	VO_julia.julia_sys_0007
+046	違うっ！　そんなの、違うでしょう!?<br>だって貴女は…貴女はっ！<br>私の、代わりに…兄さんを…	VO_emmer.emmer_sys_0019
+047	――それは…<br>貴女の願いですよ、エンメル	VO_julia.julia_sys_0042
+048	…ッ！
+049	ふむ…今の私では、<br>浄化しきれませんか<br>では、仕方ありませんね…	VO_julia.julia_sys_0006
+050	ジューリア…堕罪者に触れたら、<br>…抱えたりなんてしたら<br>穢れが…!!	VO_emmer.emmer_sys_0027
+051	貴女の願いは、貴女自身が叶えなければ<br>だって、ねえ…<br>夢って、そういうものでしょう…？	VO_julia.julia_sys_0007
+052	ジューリア？　ジューリア…っ!!
+053	そんな…どうして<br>どうして、こんな…	VO_emmer.emmer_sys_0020
+054	命ある者は、必ず死という結末を迎える<br>それは逃れようのない“人の理”だ――	VO_uroboros-c.uroboros-c_sys_0031
+055	…誰!?	VO_emmer.emmer_sys_0027
+056	なんなの…？<br>一体、何がどうなっているの…！
+057	どうして、こんな…！	VO_emmer.emmer_sys_0018

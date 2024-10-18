@@ -1,0 +1,98 @@
+﻿001	うわあ…！
+002	ここが、今のわたしたちの住処<br>古代人が作った隠れ里の遺跡よ	VO_lizbeth.lizbeth_sys_0004
+003	すごい…！<br>なんか魔法の国みたい	VO_kasumi.kasumi_sys_0024
+004	戻ったぞ	VO_edgar.edgar_sys_0005
+005	おお、この娘が闇を封じる幻影兵か！	VO_mob-saga_omale.mog-saga_omale_sys_0026
+006	…ハァ	VO_edgar.edgar_sys_0031
+007	え…召喚できたんだよな…？	VO_mob-saga_omale.mog-saga_omale_sys_0025
+008	まさか…失敗？<br>連れて帰って来たってことは<br>村においておくつもり？	VO_mob_female.mob_female_sys_0021
+009	役に立たない奴を村においておく<br>余裕なんてないのに…	VO_mob-saga_omale.mog-saga_omale_sys_0016
+010	…………！	VO_kasumi.kasumi_sys_0042
+011	あ…カスミさん…！	VO_lizbeth.lizbeth_battle_0020
+012	…ハァ…
+013	キュ〜	VO_pata.pata_sys_0025
+014	…君、ひとりぼっちなの？
+015	わたしとおんなじだね	VO_kasumi.kasumi_sys_0008
+016	キュ〜！	VO_pata.pata_sys_0018
+017	ぱたぱた頑張るね<br>…そうだ、君のことはこれから<br>パタって呼ぶね	VO_kasumi.kasumi_sys_0005
+018	よろしく、パタ
+019	キュキュ？
+020	あ、あのぉ…	VO_lizbeth.lizbeth_sys_0001
+021	リズさん
+022	なんか…ごめんなさい！<br>こっちの都合で呼んでおいて<br>…なんだか好き勝手言っちゃって	VO_lizbeth.lizbeth_sys_0035
+023	…ううん、大丈夫！<br>役に立たないのは事実だし…	VO_kasumi.kasumi_sys_0011
+024	カスミさん…	VO_lizbeth.lizbeth_sys_0018
+025	でも、幻影兵ってすごく強かったり<br>偉かったりする人がなるんですよね？<br>どうして普通の高校生だったわたしが…	VO_kasumi.kasumi_sys_0003
+026	コーコーセー？	VO_lizbeth.lizbeth_sys_0031
+027	あ、んー<br>学校ってわかります？<br>っていうかごめんなさい変な話して	VO_kasumi.kasumi_sys_0033
+028	ううん、聞かせてほしいな<br>カスミさんの世界の話<br>学校はこっちの世界にもあるからわかるよ	VO_lizbeth.lizbeth_sys_0007
+029	高校に…毎日学校に通ってただけなんです<br>わたし、何ができるわけでもない普通の<br>高校生だった	VO_kasumi.kasumi_sys_0006
+030	今日も学校終わって、夜になって寝て…<br>そしたら、なんだか不思議な声が<br>聞こえてきて…
+031	それって、まさか…！	VO_lizbeth.lizbeth_sys_0025
+032	で、気がついたらここにいたってわけ	VO_kasumi.kasumi_sys_0029
+033	ごめんなさい！<br>それって、まだ生きてるカスミさんを<br>召喚しちゃったってことだよね…！	VO_lizbeth.lizbeth_sys_0035
+034	そうなんですか…？	VO_kasumi.kasumi_sys_0025
+035	でも…どうして…？<br>カスミさんは闇を封じる幻影兵じゃない<br>はずなのに	VO_lizbeth.lizbeth_sys_0031
+036	それとも…何かこの世界に来た<br>別の意味が…？
+037	そんなこと考える必要はない<br>早くこの幻影兵を消す方法を<br>考えるべきだ	VO_edgar.edgar_sys_0014
+038	…！
+039	村にも余裕はない<br>みんなギリギリの生活をしている<br>ひとり増えただけでも大問題だ	VO_edgar.edgar_sys_0031
+040	ちょっと、エドガーさん！	VO_lizbeth.lizbeth_sys_0002
+041	役立たずを抱えてる余裕なんて<br>…俺たちにはないんだよ	VO_edgar.edgar_sys_0042
+042	…もしかして…あの子たちの家族も？	VO_kasumi.kasumi_sys_0003
+043	…………
+044	…………！
+045	あ…カスミさん!?	VO_lizbeth.lizbeth_sys_0025
+046	あ、あの！<br>わたしに何かできることはない？	VO_kasumi.kasumi_sys_0001
+047	なんだこいつ？
+048	あ、さっき大人が話してた<br>役立たずの幻影兵じゃない？
+049	……う……	VO_kasumi.kasumi_sys_0042
+050	何にもできないんだろ？<br>できることったって…なあ？
+051	夜ご飯の支度がまだだけど…<br>あーあ、毎日いつものだもん<br>飽きちゃうよね…
+052	夜ご飯！<br>それならわたしだって…！	VO_kasumi.kasumi_sys_0005
+053	お、おい
+054	これは？
+055	コウラ虫のカラ<br>もう中身とっちゃったから<br>食べられないよ
+056	よし！<br>これを…こうして…	VO_kasumi.kasumi_sys_0031
+057	…っと<br>できた!!	VO_kasumi.kasumi_sys_0005
+058	うわあ〜！<br>なんだかいい匂い！<br>食べていい？
+059	もっちろん！<br>たっぷり召し上がれ！	VO_kasumi.kasumi_sys_0008
+060	…美味しい！<br>お姉ちゃん、すご〜い！
+061	わたしもいいかな？<br>…わ、すっごく美味しい！	VO_lizbeth.lizbeth_sys_0024
+062	…………
+063	エドガーさんも食べてみなよ！<br>すっごく美味しいから!!	VO_lizbeth.lizbeth_sys_0001
+064	…久しぶりに見たな<br>子供たちのあんなに明るい顔	VO_edgar.edgar_sys_0003
+065	え…？	VO_kasumi.kasumi_sys_0025
+066	…そろそろ戻るぞ<br>子供は寝る時間だ	VO_edgar.edgar_sys_0001
+067	は〜い！
+068	エドガーさん…
+069	…冷たく見えるかもしれないけど<br>許してあげてね。昔はあんな人じゃ<br>なかったんだ、エドガーさん	VO_lizbeth.lizbeth_sys_0018
+070	お調子者で、情に厚くて、涙もろくて<br>軽口ばっかり叩いてた
+071	エドガーさんが？	VO_kasumi.kasumi_sys_0010
+072	『女に涙は流させない<br>それ以上に大事なことなんて<br>この世にはないんだぜ？』
+073	昔のエドガーさんの口癖	VO_lizbeth.lizbeth_sys_0007
+074	…うっわ、マジ？<br>ヤバ…エドガーさんそんな人<br>だったんだ！	VO_kasumi.kasumi_sys_0030
+075	…みんなを助ける為に、<br>あちこちで闇の魔人と戦って<br>…大変な思いもいっぱいしてたみたい	VO_lizbeth.lizbeth_sys_0018
+076	…………そっか
+077	…あれ？<br>え…ええええええ!?	VO_lizbeth.lizbeth_sys_0026
+078	ど…どうしたんですか!?	VO_kasumi.kasumi_sys_0027
+079	かすかに…アルケミィが復活してる！<br>どうして…!?	VO_lizbeth.lizbeth_sys_0021
+080	え…でもバベルの塔がデストルークに<br>取り憑かれたせいで、アルケミィは<br>封じられたって…？	VO_kasumi.kasumi_sys_0025
+081	そう、だから不思議なの！	VO_lizbeth.lizbeth_sys_0004
+082	…もしかしたら、ブルームエースで<br>飛べるようになるかもしれない<br>ううん…それだけじゃない
+083	魔法だってまた使えるように<br>なるかもしれない!!
+084	空を…<br>リズさん、すごい人なんですね	VO_kasumi.kasumi_sys_0024
+085	そんなこと全然ないよ<br>…昔のわたしはダメダメで、学校でも<br>落ちこぼれだったんだから	VO_lizbeth.lizbeth_sys_0018
+086	え…本当に？	VO_kasumi.kasumi_sys_0025
+087	うん<br>ここまでこれたのは…みんなのおかげ	VO_lizbeth.lizbeth_sys_0004
+088	…そうなんですね	VO_kasumi.kasumi_sys_0044
+089	…わたしは…
+090	キュ!?<br>キュキュ!!　キュ〜!!	VO_pata.pata_sys_0026
+091	パタ!?<br>…いったい、何が…？	VO_kasumi.kasumi_battle_0022
+092	敵襲だ！<br>闇の魔人が現れた!!	VO_edgar.edgar_sys_0016
+093	!!
+094	どうしてここが…!?	VO_lizbeth.lizbeth_sys_0021
+095	手伝ってくれリズベット！<br>魔人どもを村に入れるわけにはいかない！	VO_edgar.edgar_sys_0003
+096	わかった！<br>奥にシェルターがあるから！<br>カスミさんはそこへ!!	VO_lizbeth.lizbeth_sys_0004
+097	あ…!!
+098	…………わたしは…！	VO_kasumi.kasumi_sys_0042

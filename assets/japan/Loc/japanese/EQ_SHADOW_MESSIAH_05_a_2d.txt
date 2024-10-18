@@ -1,0 +1,86 @@
+﻿001	…いかがでしょう…	VO_spica.spica_sys_0003
+002	…………!!
+003	美味い…	VO_niggle.niggle_sys_0004
+004	本当ですか!?	VO_spica.spica_sys_0025
+005	えっ!?<br>アタシも食べる！	VO_syrma.syrma_sys_0025
+006	あむっ…！<br>もぐもぐもぐ…<br>んっ!?
+007	…ホントだ！<br>すごい、美味しい…!!	VO_syrma.syrma_sys_0046
+008	どれ、オレも…<br>あぐっ…もぐっもぐっもぐっ…<br>んぐっ…！	VO_ila.ila_sys_0005
+009	うん…美味い！	VO_ila.ila_sys_0009
+010	よかった…	VO_spica.spica_sys_0011
+011	何をしているんだ	VO_zaharu.zaharu_sys_0002
+012	ザハル様!?	VO_spica.spica_sys_0026
+013	ずいぶん長旅でございましたね
+014	土産はある	VO_zaharu.zaharu_sys_0004
+015	スピカが作っているのは<br>お料理？	VO_laetitia.laetitia_sys_0001
+016	いや、これは…
+017	…………
+018	…この料理、スピカが作ったのか	VO_zaharu.zaharu_sys_0002
+019	は、はいっ	VO_spica.spica_sys_0004
+020	戻ったばかりで空腹だ<br>俺にももらえるか
+021	ぜ、ぜひ！
+022	…………
+023	ザハル様、そのっ──	VO_niggle.niggle_sys_1050
+024	スピカが料理をするとはな…<br>それも、何かの変化だろう	VO_zaharu.zaharu_sys_0007
+025	しかし、それでよかったのか…	VO_niggle.niggle_sys_0031
+026	よいかどうかなど、<br>今は考えずともよい	VO_zaharu.zaharu_sys_0010
+027	やがて、スピカが我らの“意志”を<br>新たなる世界に運ぶ──
+028	すべては新たなる秩序のもとに<br>決まるのだ	VO_zaharu.zaharu_sys_0004
+029	はい…
+030	そう…今はこれでよい<br>ニグルよ──	VO_zaharu.zaharu_sys_0002
+031	は──
+032	俺のいない間、<br>よくやってくれたようだな<br>これからも頼む
+033	御意…	VO_niggle.niggle_sys_0037
+034	ザハル様<br>お支度を──	VO_laetitia.laetitia_sys_0002
+035	ああ…
+036	ニグルに任せたことは<br>よろしかったのですか
+037	ああ<br>よく務めてくれている	VO_zaharu.zaharu_sys_0004
+038	何よりです	VO_laetitia.laetitia_sys_0007
+039	ニグルとスピカ──<br>ふたりがこのシャドウメサイヤのもと、<br>新世界を先導する	VO_zaharu.zaharu_sys_0007
+040	さぁ、お支度が調いました<br>“愛娘”のお料理が冷めないうちに──
+041	そうだな	VO_zaharu.zaharu_sys_0005
+042	──では、いただくとしようか
+043	ごくっ…	VO_spica.spica_sys_0016
+044	大丈夫だよ、お姉ちゃん！<br>あれだけ練習したんだからっ!!	VO_syrma.syrma_sys_0006
+045	う、うんっ…<br>でも…やっぱり、緊張します	VO_spica.spica_sys_0037
+046	…………
+047	お味は？	VO_laetitia.laetitia_sys_0002
+048	…ああ。美味だ	VO_zaharu.zaharu_sys_0004
+049	あぁ…！<br>ありがとうございます！	VO_spica.spica_event_1005
+050	スピカ──	VO_zaharu.zaharu_sys_0002
+051	はいっ！	VO_spica.spica_sys_0004
+052	また楽しみにしているぞ	VO_zaharu.zaharu_sys_0007
+053	ありがとうございます！	VO_spica.spica_event_1005
+054	ふぅ…	VO_niggle.niggle_sys_0016
+055	なんだ？<br>どうしてニグルまで<br>緊張してるんだ？	VO_ila.ila_sys_0001
+056	緊張など──
+057	いや、弟子の成果は気になるものだ	VO_niggle.niggle_sys_0031
+058	…そ、そうか…
+059	なんか、ニグル様…変？	VO_syrma.syrma_sys_0031
+060	変だな…	VO_ila.ila_sys_0005
+061	ところで<br>そろそろ教えていただけませんか<br>ザハル様
+062	どこで何をなされていたのかを
+063	これだ	VO_zaharu.zaharu_sys_0004
+064	これは…<br>聖教会の施設で見つけた<br>石…ですか	VO_niggle.niggle_sys_0006
+065	…なんだか、恐ろしいです	VO_spica.spica_battle_0021
+066	“黒星玉”という<br>かのセフィレジウムの変異体だ
+067	セフィレジウム…!?	VO_niggle.niggle_sys_0025
+068	何それ？	VO_syrma.syrma_sys_0003
+069	伝説的な鉱物──<br>いや、セフィロンの樹脂だ	VO_niggle.niggle_sys_0004
+070	その硬度は、生半可な鉱物より生成した<br>金属よりも高いという…
+071	純度の高いセフィレジウムほどではないが<br>この黒星玉の硬度は最高レベルだ	VO_zaharu.zaharu_sys_0004
+072	この黒星玉を使い、武具を生成した<br>俺たちだけの、最高の武具をな
+073	最高の武具──
+074	これが完成すれば、<br>聖教騎士団を滅するに<br>大いなる力のひとつとなろう	VO_zaharu.zaharu_sys_0007
+075	皆、受け取るがいい	VO_zaharu.zaharu_sys_0002
+076	はいっ…！	VO_spica.spica_sys_0004
+077	えっ──	VO_spica.spica_sys_0025
+078	何これ!?	VO_syrma.syrma_sys_0025
+079	ザハル様っ！<br>これは一体──	VO_niggle.niggle_sys_1050
+080	“穢れ”だ	VO_zaharu.zaharu_sys_0004
+081	“穢れ”!?<br>なんだこれ、<br>まとわりついて気持ちが悪いっ!!	VO_ila.ila_sys_0025
+082	耐えよ、そして“穢れ”をも飲み込め！<br>我らの武具──<br>“決戦兵装”を自らのものとするのだ!!
+083	穢れを…飲み込む──？	VO_spica.spica_sys_0006
+084	そうだ！<br>皆、その強き意志見せてみよ!!	VO_zaharu.zaharu_sys_0002
+085	わたし…!?	VO_spica.spica_sys_0025
+086	自らを──乗り越えよ！

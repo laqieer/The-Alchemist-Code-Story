@@ -1,0 +1,70 @@
+001	や…やはり“錬金術”！	VO_gluttony-o.gluttony-o_battle_0020
+002	…なに？	VO_kamui-b.kamui-b_sys_0027
+003	おのれ、聖教騎士団め…<br>やはり紛争に乗じて、<br>我が国に干渉しようと…！	VO_gluttony-o.gluttony-o_sys_0016
+004	俺が聖教騎士団、だと？<br>一体どうなっている…!?	VO_kamui-b.kamui-b_sys_0017
+005	（我らが練精術を見て、<br>そう判断したということか？<br>いや、しかし…）
+006	増援を呼べ！<br>相手は錬金術を使う！<br>数を武器として、疲弊させよ！	VO_gluttony-o.gluttony-o_sys_0012
+007	…ぐ、さすがにこの数は！	VO_kamui-b.kamui-b_battle_0022
+008	お困りのようだな？<br>どれ、ここは同郷のよしみ<br>ひとつ手を貸すとしよう	VO_waginao-b.waginao-b_sys_0001
+009	新手――いや、この声は！	VO_kamui-b.kamui-b_sys_0027
+010	あの装備は、見紛うはずもない<br>聖教騎士団のもの…！
+011	グラトニー軍が探していたのは、彼らか！	VO_kamui-b.kamui-b_sys_0045
+012	く、まだだ！<br>数の有利はこちらに――	VO_gluttony-o.gluttony-o_battle_0021
+013	いくら数が多かろうと、<br>こうして頭を潰せばこれこの通り	VO_waginao-b.waginao-b_sys_0010
+014	ワギナオ様、ほかのグラトニー兵は<br>いかがいたしましょう	VO_stknightm.stknightm_sys_0031
+015	…無理に追う必要はない<br>こちらを探していたということは、<br>ここに私がいることも知っていよう	VO_waginao-b.waginao-b_sys_0039
+016	はっ！	VO_stknightm.stknightm_battle_0002
+017	さて――
+018	ワギナオ殿！
+019	君にしては少々、詰めが甘いな<br>だが、怪我がないようでなによりだ	VO_waginao-b.waginao-b_battle_0016
+020	さて、久方ぶりの里帰りだ<br>出来れば君に案内して欲しいのだが、<br>構わないかな？	VO_waginao-b.waginao-b_sys_0007
+021	族長、ワギナオ殿をお連れしました	VO_kamui-b.kamui-b_sys_0003
+022	おお、遠路はるばるよく来られた<br>少々、問題はあったようだが…	VO_iakof.iakof_sys_0009
+023	なに、我らは秩序を旨とする騎士<br>であれば、後ろ暗い輩のやっかみには<br>慣れておりますよ	VO_waginao-b.waginao-b_sys_0007
+024	――では、俺は失礼いたします	VO_kamui-b.kamui-b_sys_0037
+025	いや、お主はここに残れ<br>…その為に、この方を呼んだのだ	VO_iakof.iakof_sys_0039
+026	では族長。彼が？	VO_waginao-b.waginao-b_sys_0006
+027	はい。この者が、次代の<br>“守り人”となる者でございます
+028	なるほど、たしかに彼ならば<br>新たな“慈愛”の担い手として<br>申し分なかろう	VO_waginao-b.waginao-b_sys_0045
+029	改めて自己紹介といこう<br>私はワギナオ――聖教騎士団に属する者だ	VO_waginao-b.waginao-b_sys_0005
+030	今は亡き守り人、イウダの後継<br>カムイと申します	VO_kamui-b.kamui-b_sys_0006
+031	このお方はな、<br>かつてこの里において“守り人”として<br>お役目に就かれていたお方なのだ	VO_iakof.iakof_sys_0045
+032	かつての“守り人”…？<br>ですが、先代のお役目はイウダ様であり<br>以降は空席であったはずでは	VO_kamui-b.kamui-b_sys_0037
+033	その、何代も前の話だ	VO_iakof.iakof_sys_0004
+034	何代も!?<br>サガの氏族の長が、お役目の為<br>そのような長命を得るとは聞きますが…	VO_kamui-b.kamui-b_sys_0027
+035	…錬金術とは奥が深く、業もまた深い<br>その道を究めんと邁進したこの身は、<br>いつしか人よりも精霊のそれに近くなった	VO_waginao-b.waginao-b_sys_0022
+036	いわばこれは“長命の呪い”<br>終わるべき時に終われなんだ、<br>我が不徳の為せる業よ
+037	だがそのお陰でこうして、<br>若き後進に道を説くことも出来るというもの
+038	守り人とは、先代が次代へと<br>その在り方を教え伝えるものだ<br>だが――	VO_iakof.iakof_sys_0004
+039	守り人の継承はすでに絶えている…
+040	だが、ここには幸運にも、<br>かつて守り人としてお役目を果たした<br>お方がいる
+041	このお役目はこれからの時代に<br>必要なもの<br>ここで喪わせるわけにはいかぬ	VO_waginao-b.waginao-b_sys_0004
+042	故にカムイよ、君への教導<br>このワギナオが引き継ごう
+043	はい、よろしくお願いいたします	VO_kamui-b.kamui-b_sys_0006
+044	とはいえ、<br>ワギナオ殿も長旅でお疲れであろう	VO_iakof.iakof_sys_0004
+045	此度は顔見せとして、<br>今はお互いに休まれるとよろしかろう
+046	はい、それでは失礼いたします	VO_kamui-b.kamui-b_sys_0006
+047	カムイ！<br>やっぱりここにいた！	VO_malta.malta_sys_1050
+048	グラトニーの軍に会ったって聞いたから、<br>それで私、心配で…
+049	ああ、大丈夫だ	VO_kamui-b.kamui-b_sys_0004
+050	ごめんなさい…<br>私があんなことを言わなければ	VO_malta.malta_sys_0018
+051	俺が勝手にしたことだ<br>それに――	VO_kamui-b.kamui-b_chara_1003
+052	そちら、イアコフ殿のご息女かな？<br>なるほど、その凛々しい立ち姿に面影がある	VO_waginao-b.waginao-b_sys_0044
+053	…あの、こちらは？	VO_malta.malta_sys_0006
+054	ワギナオ殿だ<br>聖教騎士団の方で、<br>危ないところを助けていただいた	VO_kamui-b.kamui-b_sys_0004
+055	それは、ありがとうございます<br>族長イアコフの娘、マルタでございます	VO_malta.malta_sys_0033
+056	――そして、“器の巫女”でもある<br>なるほど、なるほど…	VO_waginao-b.waginao-b_battle_0016
+057	イアコフ殿の言う通り、今代の<br>“器の巫女”はこれまでの巫女と比べて<br>特別、資質に恵まれておられるようだ
+058	これならば、“回生の儀”が必要となっても<br>なにも憂うことはないな<br>セフィロンもさぞ喜ぶことだろう…	VO_waginao-b.waginao-b_sys_0010
+059	…っ！<br>ワギナオ様は、知っておられるのですか？	VO_malta.malta_battle_0019
+060	これでもかつて、守り人を務めていた身<br>この里に伝わる秘伝はあらかた存じている	VO_waginao-b.waginao-b_sys_0004
+061	あの、カムイたちには…	VO_malta.malta_sys_1050
+062	そうかね？<br>巫女としての誉れだと思うのだが…<br>まあ、君がそういうのなら黙っておこう	VO_waginao-b.waginao-b_sys_0006
+063	だが、これだけは忘れぬよう<br>たゆまぬ覚悟と献身の先にあるモノこそが、<br>セフィロンには必要なのだ…	VO_waginao-b.waginao-b_sys_0010
+064	はい…
+065	では私はこれで失礼する	VO_waginao-b.waginao-b_sys_0005
+066	…………
+067	マルタ<br>ワギナオ殿となんの話を？	VO_kamui-b.kamui-b_sys_0002
+068	…ううん、なんでもないの。なんでも…	VO_malta.malta_sys_1050
+069	でも…なんでだろう	VO_malta.malta_sys_0020
+070	あの人を見ていると、すごく不安になるの<br>どうしてかしら…

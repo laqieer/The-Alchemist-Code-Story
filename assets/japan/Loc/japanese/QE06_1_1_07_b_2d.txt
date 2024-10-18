@@ -1,0 +1,144 @@
+﻿001	アマネ	VO_azami.azami_sys_0001
+002	………ぬぅっ<br>…これでもまだ甘いか！<br>ならば…!!	VO_amane.amane_sys_0031
+003	これでは…どうだっ!!	VO_amane.amane_battle_0007
+004	アマネ…？<br>アマネったら！
+005	隙ありっ!!<br>ハアアアアアアアッ!!	VO_amane.amane_sys_0032
+006	ぬうううううっ!!!<br>これでもダメかっ!!!!	VO_amane.amane_sys_0031
+007	アマネ!!!!
+008	!?
+009	うわあああああああっ!!<br>びっくりしたああああああっ!!	VO_amane.amane_sys_0028
+010	!!?<br>…いや、声大きいからワタシのほうが<br>びっくりしたから…	VO_azami.azami_sys_0025
+011	…何してるのよ、懲罰房の中で	VO_azami.azami_sys_0001
+012	いや、鍛錬を…って<br>アザミ…どうしてここに…？	VO_amane.amane_sys_0011
+013	…何も食べてないんでしょ？<br>はい、これ
+014	!!!	VO_amane.amane_chara_1006
+015	セリスの作った肉団子よ<br>今回のはいつも以上に美味しかっ…
+016	…!!<br>うまい!!　うまいぞ!!<br>今までの中でも群を抜いて絶品だ!!!
+017	人の話最後まで聞きなさいよ！<br>…まったく、食い意地ばかり張っちゃって	VO_azami.azami_sys_0030
+018	はっ!?<br>これは…隊規に違反しないのか？<br>懲罰房にいる者に食べ物を与えるなど…
+019	…食べ物じゃないわ<br>お祝いよ<br>だから違反はしてない
+020	お祝い…？	VO_amane.amane_chara_1006
+021	…“刃狐”入隊、おめでとう、アマネ	VO_azami.azami_sys_0007
+022	…ぶははははははははっ!!	VO_amane.amane_sys_0008
+023	な…何がそんなにおかしいのよっ！	VO_azami.azami_sys_0025
+024	食べ物ではなく、祝いか<br>いや、随分な詭弁だと思ってな	VO_amane.amane_sys_0007
+025	でも…ありがとう、アザミ	VO_amane.amane_sys_0034
+026	…でも、まさか合格するなんてね	VO_azami.azami_sys_0030
+027	やはり…合格しないほうがよかったか？	VO_amane.amane_sys_0031
+028	ええ	VO_azami.azami_sys_0004
+029	即答!?<br>もう少し言い方というかなんというか…<br>…拙者だって傷つくんだぞ…	VO_amane.amane_sys_0025
+030	…いつも心配しなきゃいけないじゃない<br>あなたが死んだりしないか…って<br>隊も違うのにさ
+031	心配、してくれているのか？	VO_amane.amane_sys_0001
+032	妹の心配するのは当たり前よ	VO_azami.azami_sys_0004
+033	…………!!<br>アザミ!!	VO_amane.amane_sys_0018
+034	ちょ…痛い痛い!!　離れて!!<br>あー!!　鼻水ついた!!<br>離れて…ってば!!	VO_azami.azami_sys_0025
+035	何も泣くことないじゃない…<br>大げさなんだから	VO_azami.azami_sys_0001
+036	…だって…“刃狐”に入隊してから…<br>全然話せなくなっていたし…<br>変わってしまったのだとばかり…
+037	何言ってるのよ<br>変わらないわ	VO_azami.azami_sys_0030
+038	あなたは、ワタシの妹よ<br>…わがままを言った、あの日から
+039	…お父さん<br>お母さん…	VO_azami-b.azami-b_sys_0018
+040	…!?
+041	（井戸の中から…声…!?）
+042	…誰かいるの!?	VO_azami-b.azami-b_sys_0001
+043	………ああ…あああ…
+044	…!!<br>待ってて!!!
+045	（…古いけど、ロープが…!!<br>これなら…!!!）
+046	…これに掴まって!!	VO_azami-b.azami-b_sys_0003
+047	…!!<br>く…っ!!!<br>あと…少し!!!	VO_azami-b.azami-b_sys_0029
+048	!!!
+049	!!	VO_amane-b.amane-b_sys_0026
+050	…ぐ…!!<br>離しちゃ…ダメよ!!!	VO_azami-b.azami-b_sys_0029
+051	…ハァ…ハァ…
+052	…あ…ありがとう…	VO_amane-b.amane-b_sys_0034
+053	…いつから、井戸の中に？	VO_azami-b.azami-b_sys_0001
+054	…………
+055	…………<br>あなたも…ひとりなの…？	VO_azami-b.azami-b_sys_0003
+056	…………
+057	…そう…ワタシと一緒ね…
+058	…必死で逃げてきたの<br>それで…気がついたら…	VO_amane-b.amane-b_sys_0020
+059	…………<br>そっか…
+060	…！<br>…こっちへ!!	VO_azami-b.azami-b_sys_0029
+061	グガアアアアーーッ!!	VO_utsushiogre.utsushiogre_battle_0003
+062	!?	VO_amane-b.amane-b_sys_0025
+063	…！<br>だ、大丈夫…!?	VO_azami-b.azami-b_sys_0027
+064	…どうして、拙者を…？	VO_amane-b.amane-b_sys_0012
+065	どうして…？
+066	グガガガガーッ!!!!	VO_utsushiogre.utsushiogre_battle_0001
+067	くっ…!!<br>…ああっ…!!	VO_azami-b.azami-b_sys_0043
+068	…！
+069	ハァ…ハァ…	VO_azami-b.azami-b_sys_0029
+070	お、お主…
+071	…ごめん…刀、飛ばされちゃった…<br>…もう、ダメかも<br>逃げたところで、すぐに見つかっちゃう…	VO_azami-b.azami-b_sys_0035
+072	どうして、拙者を助けるの…？<br>ひとりで、逃げたっていいのに…	VO_amane-b.amane-b_sys_0001
+073	…………
+074	…多分、ひとりは、嫌だから<br>…だと思う	VO_azami-b.azami-b_sys_0031
+075	…………
+076	…あなたも<br>…ひとりで逃げて来たんでしょう？	VO_azami-b.azami-b_sys_0003
+077	…うん
+078	手、握ってもいい？	VO_azami-b.azami-b_sys_0001
+079	…うん	VO_amane-b.amane-b_sys_0004
+080	…これで<br>…ひとりじゃない
+081	…よかった…<br>全部奪われて、ひとりで死んでいくなんて…<br>悲しすぎるもの	VO_azami-b.azami-b_sys_0018
+082	…あったかい	VO_amane-b.amane-b_sys_0007
+083	え…？
+084	お主の手が<br>…ひとりじゃないって<br>…いいね
+085	…ワタシ、アザミ<br>あなたは？	VO_azami-b.azami-b_sys_0001
+086	…アマネ
+087	…ねえ、わがまま言っていいかな…？
+088	アマネ…死ぬまでの間だけでいい<br>ワタシの妹としてそばにいて	VO_azami-b.azami-b_favorite_0001
+089	そのほうが、きっと、寂しくないから
+090	どうして…？	VO_amane-b.amane-b_sys_0001
+091	知らない誰かとふたりで逝くよりも<br>…あったかいから
+092	…そうだね<br>…あったかいほうが、いい	VO_amane-b.amane-b_sys_0004
+093	…ありがとう、アマネ	VO_azami-b.azami-b_sys_0034
+094	…………<br>あははははっ!!
+095	不思議…こんな時にでも<br>お腹は、空くんだね	VO_amane-b.amane-b_sys_0007
+096	ほんと、おっかしい	VO_azami-b.azami-b_sys_0007
+097	…!?	VO_amane-b.amane-b_sys_0025
+098	…どうかした？	VO_azami-b.azami-b_sys_0001
+099	いや…
+144	（何…この感じ…？<br>知らない『風景』が流れ込んで…？）	VO_amane-b.amane-b_sys_0025
+100	ようやく見つけたヨ	VO_ogre.ogre_battle_0001
+101	!?
+102	手こずらせてくれたガ…<br>貴様で、終いダ	VO_ogre.ogre_battle_0003
+103	………!!<br>ハアッ!!!	VO_azami-b.azami-b_sys_0029
+104	もう、術を存分に振るえないようだネ<br>“籠紫”の一族…忌々しイ…	VO_ogre.ogre_battle_0019
+105	しかし、もう終いだヨ<br>貴様の一族はすべて喰らってやっタ	VO_ogre.ogre_battle_0021
+106	そんな…!!	VO_azami-b.azami-b_sys_0027
+107	ミカボシ、スメラギ、カグツチ…<br>ワダツミ三種の神器のほかに…儂らに仇なす<br>“籠紫の術”…	VO_ogre.ogre_battle_0003
+108	これを滅ぼせば、儂らを邪魔する者は減ル
+109	残るは貴様のミ…<br>その術、儂らの邪魔にならぬように、<br>ここで一族を根絶させてもらうとしよウ	VO_ogre.ogre_battle_0002
+110	ハアアアアアッ!!!	VO_azami-b.azami-b_sys_0032
+111	無駄なあがきヨ	VO_ogre.ogre_battle_0001
+112	…………	VO_azami-b.azami-b_sys_0010
+113	気でも触れたカ…？<br>悔しくは…怖くはないのカ…？	VO_ogre.ogre_battle_0019
+114	悔しいに決まってるでしょう!!!	VO_azami-b.azami-b_sys_0027
+115	…だけどね、笑ってやる<br>お前の存在なんて、笑い飛ばしてやる
+116	だって…こんな子供に笑われる鬼は<br>滑稽でしょう？	VO_azami-b.azami-b_sys_0010
+117	そんな滑稽な鬼は、必ず誰かに滅ぼされる<br>…そう、信じてやる<br>ただじゃ、死んでやらないんだから
+118	…理解不能だネ<br>所詮は、子供の屁理屈ヨ	VO_ogre.ogre_battle_0020
+119	…アザミ
+120	大丈夫…怖くない<br>ひとりじゃないから	VO_azami-b.azami-b_sys_0018
+121	そう、ひとりじゃなイ<br>…貴様の一族が、先にあの世で待っていル	VO_ogre.ogre_battle_0002
+122	……う……ううう……!!<br>…お父…さん……お…母さ…ん…!!<br>…ぐ…ううう…う……!!	VO_azami-b.azami-b_sys_0019
+123	…鬼なんかに…やられるもんか…<br>こんな理不尽に…負けてたまるもんか…！	VO_azami-b.azami-b_sys_0018
+124	ワタシがここで死んでも…<br>きっと誰かがあなたたちを…!!<br>…う…うう…う…!!!
+125	…………
+126	このまま…何もしないで死ぬわけには!!	VO_amane-b.amane-b_sys_0016
+127	…アマネ？
+128	こんなの…<br>あまりにも悲しすぎる！<br>あまりにも悔しすぎる!!
+129	でも、もう…	VO_azami-b.azami-b_sys_0018
+130	…お主は拙者を妹だって言ってくれた<br>だったら、姉が悲しんでる時に<br>何もしないなんて…	VO_amane-b.amane-b_sys_0001
+131	拙者には、できないよ!!
+132	ハアアアアアアアーッ!!!	VO_amane-b.amane-b_sys_0032
+133	笑止	VO_ogre.ogre_battle_0001
+134	アマネーーーーっ!!!!
+135	心配しなくてモ<br>ふたりともここで喰らってやろウ	VO_ogre.ogre_battle_0003
+136	…う…く………	VO_amane-b.amane-b_sys_0016
+137	（…このまま…喰われる…の<br>…拙者たちは…？）
+138	（…こんなの…）
+139	『ああ…“あの人”が喰われていく…』
+140	『こんなの、あまりにも悲しすぎる<br>あまりにも悔しすぎる』
+141	…え…？	VO_amane-b.amane-b_sys_0025
+142	『この理不尽に…抗わなきゃ…!!!』
+143	…………

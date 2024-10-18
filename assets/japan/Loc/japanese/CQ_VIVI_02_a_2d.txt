@@ -1,0 +1,43 @@
+001	くっ！　ここはいったん引くか…！	VO_thiefm.thiefm_battle_0023
+002	くそっ！　逃げられたか！ <br>メイファン！　無事か？	VO_vivi.vivi_sys_0010
+003	当然だ	VO_meifan.meifan_sys_0010
+004	だよなー！<br>取り逃がしたのは悔しいが…<br>ま、無事で何よりだ！	VO_vivi.vivi_sys_0007
+005	うむ…<br>ヴィヴィ、軍議が終わるまで待っていろ<br>余の息抜きにつき合え	VO_meifan.meifan_sys_0004
+006	えっ！　あたしも仕事があるんだけど…<br>うーん…まいっか、友達の頼みだ！	VO_vivi.vivi_sys_0038
+007	ふたりで海でも行って遊ぶか！<br>先行って待ってるぜ	VO_vivi.vivi_sys_0037
+008	さて、メイファンが来る前に準備するか！<br>せっかくだし、<br>快適に過ごしてほしいからな…。さて！	VO_vivi.vivi_sys_0047
+009	街で買った果物を水で冷やして、安全で風が<br>気持ちいい場所にハンモックを設置っと…	VO_vivi.vivi_battle_0004
+010	で、メイファンの嫌がるなまこを排除っと！<br>ふんっ！　せいっ！　おりゃ！	VO_vivi.vivi_battle_0001
+011	よし、これでＯＫだな！	VO_vivi.vivi_sys_0007
+012	最後に周辺の安全を確認！　怪しい人影は…<br>見当たらないな。念の為、いくつか罠を<br>しかけておいて、と。よし、準備完了だぜ！	VO_vivi.vivi_sys_0023
+013	あ、メイファーン！　こっちだ！<br>いい場所あったぞー！	VO_vivi.vivi_sys_0046
+014	…うむ、なかなかよい場所ではないか	VO_meifan.meifan_sys_0033
+015	だろ？　じゃハンモックで休もうぜ！<br>心配すんなって、安全は確認済みだ！<br>ほら、大丈夫だからメイファンも来いよ！	VO_vivi.vivi_sys_0047
+016	なるほど、では余も座ってみるとするか…<br>おお…悪くない、風も心地よいぞ	VO_meifan.meifan_sys_0044
+017	そうだろー？　街で買った果物もあるぜ！<br>今毒味してやるからな！　うん、うまい！<br>ほら、メイファンも食べてみな！	VO_vivi.vivi_sys_0002
+018	おお！　これは冷えていてうまいな	VO_meifan.meifan_sys_0046
+019	んふふふっ！　だろー？	VO_vivi.vivi_sys_0047
+020	！　今の声は…？	VO_meifan.meifan_sys_0029
+021	魔物、か？　ちょっと見てくる！	VO_vivi.vivi_sys_0004
+022	おい！　油断するでないぞ！	VO_meifan.meifan_sys_0002
+023	あー、あたしの罠に引っかかったのか！<br>ごめんな、今外してやるから…<br>あ！　こら、暴れるな！	VO_vivi.vivi_sys_0035
+024	おい、ヴィヴィ！<br>魔物どもが集まってきておるぞ！	VO_meifan.meifan_sys_0002
+025	うわぁあっ!?　こんなにたくさん？<br>あんたら、あっち行けったら！	VO_vivi.vivi_sys_0026
+026	お主ら、行儀が悪いな…仕置きだ！	VO_meifan.meifan_sys_0035
+027	ふぅ、助かったー！<br>メイファン、ありがとな！	VO_vivi.vivi_battle_0018
+028	まったく、ヴィヴィといると退屈せんな	VO_meifan.meifan_sys_0007
+029	あはははは！<br>しかし、誰がこんな罠を<br>しかけたのかなぁ～？	VO_vivi.vivi_sys_0011
+030	危ないから罠を回収しながら<br>帰るとするかな！	VO_vivi.vivi_sys_0002
+031	よし、次で最後の罠だ！　…多分！	VO_vivi.vivi_sys_0030
+032	…ヴィヴィ、黙れ	VO_meifan.meifan_sys_0018
+033	？　…あ！　あいつ！<br>メイファンを襲った男だな…	VO_vivi.vivi_sys_0005
+034	よい機会だ、その最後の罠とやらに<br>あやつを捕らえてやろう	VO_meifan.meifan_sys_0004
+035	わかった、あたしはやつの背後に回る<br>メイファン、罠はあそこだ<br>あとは、わかるよな？	VO_vivi.vivi_sys_0037
+036	ふっ、誰に向かって口をきいておる？<br>お主こそ失敗するなよ	VO_meifan.meifan_sys_0038
+037	了解～！　じゃ、いくぜ…	VO_vivi.vivi_battle_0015
+038	…………
+039	（よし、頃合いか）	VO_meifan.meifan_sys_0016
+040	おい！　お主、どこを見ておる？<br>お主の獲物はこっちだぞ！	VO_meifan.meifan_sys_0001
+041	!?　くそっ！　まて！	VO_thiefm.thiefm_battle_0013
+042	そこだー！	VO_vivi.vivi_battle_0011
+043	何!?	VO_thiefm.thiefm_sys_0025

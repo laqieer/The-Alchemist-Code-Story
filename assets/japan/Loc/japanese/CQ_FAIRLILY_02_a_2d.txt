@@ -1,0 +1,39 @@
+001	ふう、さてと<br>アタシはダルタニアンだよっ	VO_dartaniun.dartaniun_sys_0030
+002	わたしはフェアリリィ、よろしくね	VO_fairlily.fairlily_chara_1001
+003	ところで、戦闘中思ったんだけれど、<br>ダルタニアンって身のこなしが猫みたいだね	VO_fairlily.fairlily_sys_0003
+004	はぁ!?<br>アタシは猫じゃないよ！<br>虎だからね！　ガオーーーン！	VO_dartaniun.dartaniun_battle_0012
+005	わわっ！　ごめんなさ～い	VO_fairlily.fairlily_battle_0019
+006	ふふっ、いいよ！	VO_dartaniun.dartaniun_sys_0007
+007	そういえばさ、<br>どうしてフェアリリィは、<br>戦闘中に力を抑えてるの？
+008	えっ？	VO_fairlily.fairlily_sys_0025
+009	さっきも力を抑えてたでしょ	VO_dartaniun.dartaniun_sys_0002
+010	うーん…実はわたし、自分の力が<br>上手くコントロールできないの…	VO_fairlily.fairlily_sys_0031
+011	草木やお花たちを<br>傷つけてしまったらって不安で<br>戦闘中も気になっちゃって…
+012	なるほどねえ<br>それで力を出し切れないんだね？	VO_dartaniun.dartaniun_sys_0045
+013	フェアリリィ…だったら鍛錬だよっ！	VO_dartaniun.dartaniun_sys_0007
+014	えっ!?	VO_fairlily.fairlily_sys_0025
+015	アタシはさ、獣人だから人身売買の組織に<br>よく狙われていたんだよね<br>だから自分の身を守る為に鍛錬したんだ	VO_dartaniun.dartaniun_sys_0031
+016	それでそんなに<br>強くなったんですか？	VO_fairlily.fairlily_sys_0044
+017	うん！　あ、あとそれにね、<br>エンヴィリアは違ったんだ！	VO_dartaniun.dartaniun_sys_0004
+018	獣人だから、とか<br>そういう目でアタシを見たりしない<br>アタシをアタシとして見てくれるんだ
+019	だからエンヴィリアを守りたい
+020	守る…	VO_fairlily.fairlily_sys_0020
+021	だからさっきあんなに激しい<br>鍛錬をしていたんだね…
+022	そうだ！<br>ねえ、フェアリリィも鍛錬一緒にしようよ	VO_dartaniun.dartaniun_chara_1008
+023	えっ!?	VO_fairlily.fairlily_sys_0025
+024	力をコントロールしたいんでしょ!?	VO_dartaniun.dartaniun_sys_0001
+025	う、うん！　がんばってみる…！	VO_fairlily.fairlily_sys_0004
+026	はぁー。も、もうだめー…<br>バナバナ…ううっ<br>全然上手くいかないバナよ…	VO_fairlily.fairlily_sys_0022
+027	がんばってフェアリリィ	VO_dartaniun.dartaniun_chara_1004
+028	今はダメかもしれないけれど<br>何度もあきらめずにやれば<br>いつかはコントロールできるようになるよ！
+029	踏まれても踏まれても、<br>力強く生きる草のようにね！
+030	うん。そうだね。ありがとう	VO_fairlily.fairlily_sys_0004
+031	自分の為に強くなるんじゃなくて<br>誰かの為と思えば必ず強くなれるんだ	VO_dartaniun.dartaniun_sys_0007
+032	アタシはエンヴィリアの為
+033	フェアリリィは、なんの為に<br>力をコントロールしたいの？	VO_dartaniun.dartaniun_sys_0001
+034	わたし…？	VO_fairlily.fairlily_sys_0006
+035	わっ!?	VO_fairlily.fairlily_battle_0019
+036	にゃっ!?	VO_dartaniun.dartaniun_sys_0026
+037	あいつ！　火を吐いた…！	VO_dartaniun.dartaniun_sys_0027
+038	大変！<br>早く倒さないと森が燃えちゃう！	VO_fairlily.fairlily_sys_0028
+039	急ぐよっ！　があああっ！	VO_dartaniun.dartaniun_battle_0012

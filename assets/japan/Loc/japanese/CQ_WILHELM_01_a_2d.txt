@@ -1,0 +1,59 @@
+﻿001	なぁなぁ、お前は<br>どうして聖教騎士になったんだ？
+002	もちろん、世界を守る為だ<br>この場にいる者は皆、志は同じはず<br>君もそうだろう？	VO_knightm.knightm_sys_0007
+003	…あぁ。いいと思うぜ、俺も<br>世界中のイイコちゃんが一堂に会してる<br>みたいで微笑ましくてたまらない	VO_wilhelm.wilhelm_sys_0037
+004	？　なんだそれ	VO_knightm.knightm_sys_0031
+005	誉め言葉さ<br>素直に受け取ってくれていい	VO_wilhelm.wilhelm_sys_0006
+006	理想を信じて突き進めるのは<br>才能だからな	VO_wilhelm.wilhelm_sys_0007
+007	…？
+008	（人々を救いたいとか、<br>本気で考えられるなんて<br>羨ましいもんだ）	VO_wilhelm.wilhelm_sys_0031
+009	（…にしても、<br>どこもかしこも似たような話ばかりだな<br>皆、目をキラキラさせちゃって）
+010	まぁ、新人聖教騎士の話題なんて<br>こんなもんか…	VO_wilhelm.wilhelm_sys_0010
+011	…ピンクの髪<br>ずいぶん派手な髪した奴がいるな
+012	あぁ、あれマグヌスだよ<br>アイツすごいんだぜ。ラーストリス軍から<br>直々に引き抜かれたって話だ	VO_knightm.knightm_sys_0004
+013	きっと、彼も世界を守る為に<br>軍人の立場を捨てて、<br>聖教騎士になったんだろうね	VO_knightm.knightm_sys_0044
+014	へぇ…<br>…………ん？	VO_wilhelm.wilhelm_sys_0044
+015	…………アイツ、欠伸してる	VO_wilhelm.wilhelm_sys_0025
+016	にしても、あんたすごいよな<br>元々ラーストリスの軍にいたんだろ？<br>それを直々に引き抜かれたって…	VO_knightm.knightm_sys_0007
+017	別にたいしたことじゃない	VO_magnus.magnus_sys_0010
+018	さっきの話、<br>俺も興味あるな	VO_wilhelm.wilhelm_sys_0002
+019	？　なんだアンタ、いきなり…<br>たいした話はしてないぜ	VO_magnus.magnus_sys_0005
+020	たいしたことあるだろ<br>聖教会がわざわざ引き抜くなんてさ	VO_wilhelm.wilhelm_sys_0001
+021	もっと大袈裟にアピールすりゃいい<br>俺は錬金術の天才だ、ってな	VO_wilhelm.wilhelm_sys_0007
+022	…………
+023	あー…けど、ここじゃ天才も珍しくないか<br>聖教騎士団には世界各国から<br>そういう奴が集まってくるもんな	VO_wilhelm.wilhelm_sys_0030
+024	正直、軍で上り詰めたほうが<br>待遇がいいかもしれないよな<br>なんでわざわざ聖教騎士団に？
+025	…………
+026	なぁってば	VO_wilhelm.wilhelm_sys_0002
+027	…ハァ。アンタ、なんなんだ<br>ケンカでも売ってるつもりか？	VO_magnus.magnus_sys_0012
+028	まさか。ただ楽しんでるだけさ<br>人と話すのが好きなんだ	VO_wilhelm.wilhelm_sys_0007
+029	適当に気軽に遠慮なく、今を楽しむのが一番<br>先のことなんて、<br>どうせ何もわからないんだから
+030	アンタだって、イイコちゃんの話に<br>欠伸するくらい退屈なら、<br>ちょっとくらい俺と話してもいいだろ？	VO_wilhelm.wilhelm_sys_0008
+031	…！	VO_magnus.magnus_sys_0026
+032	…さてはアンタ、面倒くさい奴だな？	VO_magnus.magnus_sys_0001
+033	よく言われる	VO_wilhelm.wilhelm_sys_0037
+034	…………
+035	いいぜ。じゃあ、賭けをしよう	VO_magnus.magnus_sys_0007
+036	もしアンタがこのハートのAを引けたら、<br>言うとおり仲良くしてやってもいい<br>簡単だろ
+037	…ギャンブルか	VO_wilhelm.wilhelm_sys_0031
+038	ギャンブルは得意じゃないってか？	VO_magnus.magnus_sys_0005
+039	そうでもないぜ<br>好きでもないけどな	VO_wilhelm.wilhelm_sys_0039
+040	…………
+041	――ああ、でも<br>こんなに堂々とイカサマを<br>仕掛けてくる根性は嫌いじゃない	VO_wilhelm.wilhelm_sys_0010
+042	…へぇ、驚いた	VO_magnus.magnus_sys_0046
+043	俺のイカサマを見抜いたのは<br>アンタが初めてだ。まさかこんな<br>くだらないことまで疑ってかかるとは
+044	…ックク！　いいなぁ、アンタ！　<br>やっぱり、ただの<br>イイコちゃんじゃなさそうだ	VO_wilhelm.wilhelm_sys_0008
+045	…少しは、楽しくなりそうだよ
+046	おい、そこ！<br>何をベラベラ喋ってる!!
+047	うわ、やべっ…！	VO_magnus.magnus_sys_0026
+048	訓練開始直前なのに<br>ダラダラと…<br>しかも、今日は訓練初日だ	VO_monzein.monzein_sys_0018
+049	俺が指導官として来たからには、<br>そんな腑抜けた態度は許さん！
+050	おい！<br>お前たち、鍛錬が終わったら<br>俺のところに来い！
+051	クソ、目をつけられたじゃねぇか<br>初めのうちは、<br>大人しくしてるつもりだったのに…	VO_magnus.magnus_sys_0016
+052	ご愁傷様	VO_wilhelm.wilhelm_sys_0007
+053	目をつけられたのはアンタもだぞ？	VO_magnus.magnus_sys_0012
+054	それはそれで面白くなるんじゃないか？	VO_wilhelm.wilhelm_sys_0002
+055	…さてはアンタ、<br>トラブルメーカーだな	VO_magnus.magnus_sys_0030
+056	それもよく言われる	VO_wilhelm.wilhelm_sys_0037
+057	さて、それじゃ<br>トラブルをメークしますか
+058	おいおい…	VO_magnus.magnus_chara_1010
+059	冗談だよ<br>少しは汗を流しますか	VO_wilhelm.wilhelm_sys_0010

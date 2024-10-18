@@ -1,0 +1,210 @@
+001	…………
+002	おかえり	VO_kuza.kuza_sys_0002
+003	…………
+004	クダン？
+005	………よかった、<br>生きていてくれて…！	VO_kudhanstein.kudhanstein_sys_0018
+006	こっちのセリフだ	VO_kuza.kuza_sys_0008
+007	俺が、どれだけ…！	VO_kudhanstein.kudhanstein_battle_0019
+008	おいおい泣くなよ	VO_kuza.kuza_sys_0024
+009	泣いてはいない	VO_kudhanstein.kudhanstein_battle_0016
+010	ああ…それより今、『カグラ』と…？	VO_kuza.kuza_sys_0007
+011	ああ…ワダツミ女王の…息女だ	VO_kudhanstein.kudhanstein_chara_0009
+012	ワダツミ王家の血を引く人間が<br>まだこの世に存命であったとは…<br>カグラ様…よくぞご無事で…！	VO_kuza.kuza_sys_0020
+013	そんな、かしこまらないで下さい<br>今は、聖教騎士団の一員ですから	VO_kagura.kagura_sys_1026
+014	今は、俺が率いる第四騎士団の<br>一員として戦っている
+015	ははっ、お前が団長か	VO_kuza.kuza_sys_0007
+016	文句あるか	VO_kudhanstein.kudhanstein_battle_0016
+017	お前が守ってるんだな	VO_kuza.kuza_sys_0010
+018	まあ、その…	VO_kudhanstein.kudhanstein_sys_0026
+019	守られてます
+020	そして…クダンの部下…か<br>何という巡り合わせだ
+021	アナタこそ…よく生きてて下さいました<br>ワダツミの者として、こんなに<br>嬉しいことはありません	VO_kagura.kagura_sys_0011
+022	もったいないお言葉…<br>ありがとうございます
+023	かしこまらなくていいと言われただろう<br>…それよりも、お前はあれから…	VO_kudhanstein.kudhanstein_sys_0010
+024	あの！　おふたりは、<br>お知り合いなんですか？<br>さっき『兄弟』って…	VO_kanon_3s_cano.kanon_chara_1006
+025	…義兄弟だ	VO_kudhanstein.kudhanstein_sys_0004
+026	えええええええええええ!?
+027	…そんなに驚くことでもないだろう	VO_kudhanstein.kudhanstein_sys_0027
+028	いや、驚きますよ！<br>ええええええっ!?<br>クダン団長に!?　義兄弟!?	VO_kanon_3s_cano.kanon_sys_0042
+029	アタシも知らなかった!!<br>え、何それ!?	VO_kagura.kagura_sys_0016
+030	こんなに驚かれるとは<br>…相変わらず人付き合いが悪いようだな	VO_kuza.kuza_sys_0027
+031	…放っておけ	VO_kudhanstein.kudhanstein_battle_0017
+032	どうやって知り合ったんですか？	VO_kagura.kagura_sys_0024
+033	…別にいいだろう
+034	いや、聞かせて下さいよ<br>ねえ、バシーニも知りたいでしょ？	VO_kanon_3s_cano.kanon_sys_0016
+035	興味はあります	VO_basini.basini_sys_0031
+036	ほら！	VO_kanon_3s_cano.kanon_sys_0008
+037	話してもいいのか？	VO_kuza.kuza_sys_0001
+038	…勝手にしろ	VO_kudhanstein.kudhanstein_battle_0016
+039	聞かせて下さい!!
+040	…クダンはその昔<br>ワダツミへ遊学に来ていた<br>聖教騎士としての修行を兼ねて	VO_kuza.kuza_sys_0004
+041	クダンは当時から<br>実力は折り紙つきでな…<br>ワダツミでも評判だったんだ
+042	その力を見込んだ者たちの計らいで<br>ワダツミの武家の出だった俺と<br>御前試合を組むことになった
+043	ふたりが試合を…<br>それって、どっちが勝ったの？	VO_kagura.kagura_sys_0046
+044	はは…昔のことだ<br>どうだったかは…	VO_kuza.kuza_sys_0007
+045	白々しい…その辺にしておけ<br>俺にそういう気を遣うのが、<br>昔からお前の悪い癖だ	VO_kudhanstein.kudhanstein_battle_0016
+046	え…もしかして…!?
+047	そうだ<br>俺はこいつに勝てなかった<br>…ただの一度もな	VO_kudhanstein.kudhanstein_sys_0004
+048	手打ちといこうか	VO_kuza.kuza_sys_0001
+049	…くそ…！<br>もう一度だ!!<br>勝つまで引くわけにいかない！	VO_kudhanstein.kudhanstein_sys_0016
+050	じき日が暮れる	VO_kuza.kuza_sys_0014
+051	構わん！	VO_kudhanstein.kudhanstein_chara_0009
+052	今夜は神宮で舞を見届けなきゃならんし<br>夜闇に光なしじゃあ辛い	VO_kuza.kuza_sys_0015
+053	もう一度だ！	VO_kudhanstein.kudhanstein_battle_0016
+054	…来い	VO_kuza.kuza_battle_0019
+055	真っ直ぐ過ぎるよ。お前は	VO_kuza.kuza_sys_0022
+056	何…!?	VO_kudhanstein.kudhanstein_sys_0026
+057	寄る辺がない<br>後ろ盾もない<br>頼る先もない	VO_kuza.kuza_sys_0031
+058	力なら	VO_kudhanstein.kudhanstein_sys_0031
+059	あるな<br>だが俺しか見ていない	VO_kuza.kuza_sys_0004
+060	当然だ。何が悪い	VO_kudhanstein.kudhanstein_sys_0004
+061	周りを見ないでいる	VO_kuza.kuza_sys_0039
+062	いい夕日だな	VO_kuza.kuza_chara_1008
+063	見飽きたな	VO_kudhanstein.kudhanstein_sys_0010
+064	情緒がねえな	VO_kuza.kuza_sys_0012
+065	毎日、同じ景色だろう
+066	ゲホッ、ゲホゲホッ!?	VO_kudhanstein.kudhanstein_battle_0019
+067	そら、違う景色になった	VO_kuza.kuza_sys_0010
+068	ゴホゴホッ！<br>クウザ、お前…！<br>エホエホ！
+069	ゲーホゲホゲーホ!!
+070	ククッ<br>…ゼータクしなきゃあ
+210	春は桜を見て団子、昼サボって夜動く夏<br>秋は落ち葉で芋焼いて、<br>冬は寝床でのんべんだらり…
+071	そうして眺める景色で酒がウマい<br>そんな、くだらない理由なんだよ
+072	なんの話をしている…？	VO_kudhanstein.kudhanstein_sys_0031
+073	なぜ、お前が俺に勝てないか	VO_kuza.kuza_sys_0004
+074	くだらん景色にうつつを抜かせと？	VO_kudhanstein.kudhanstein_sys_0010
+075	わかってないな<br>くだらねえから、アガんだろ？	VO_kuza.kuza_sys_0012
+076	…わからんな
+077	くだらん全てに目を向けてみろ<br>全てが愛しく見えてくる	VO_kuza.kuza_sys_0007
+078	…………
+079	ともにあれば、ともにあったぶんだけ<br>沸くのが愛着ってヤツだ<br>愛がくだることはない。上がる一方だろ？
+080	ふふっ、恥ずかしげもなく	VO_kudhanstein.kudhanstein_sys_0008
+081	俺には家族なんざいなくても、<br>家があって居場所がある	VO_kuza.kuza_sys_0004
+082	愛しいものは増える一方<br>守りたくもなる、お前みたいな奴は<br>…その為の力だ
+083	…クウザ
+084	…お前はなぜ、聖教騎士団に？	VO_kuza.kuza_sys_0001
+085	…………人々が笑って暮らせる世の為<br>…バベル大陸の平和を守る為、だ	VO_kudhanstein.kudhanstein_sys_0004
+086	本気か？	VO_kuza.kuza_sys_0010
+087	疑うのか？
+088	理想が高すぎるし、第一<br>…平和なツラをしていない	VO_kuza.kuza_sys_0031
+089	…………
+090	笑えよぉ	VO_kuza.kuza_sys_0012
+091	…少し怖いんだ<br>高みを常に見ていなければ、<br>堕ちていきそうで	VO_kudhanstein.kudhanstein_sys_0007
+092	大きく出たな	VO_kuza.kuza_sys_0010
+093	青臭いか
+094	いや？　最高だ	VO_kuza.kuza_sys_0009
+095	…………
+096	唯一の難題は、俺より強く<br>ならなきゃいけないことぐらいか	VO_kuza.kuza_sys_0007
+097	勝ってみせるさ	VO_kudhanstein.kudhanstein_sys_0010
+098	俺たちふたりで強くなれば、済むことか	VO_kuza.kuza_sys_0004
+099	…そう、だな	VO_kudhanstein.kudhanstein_sys_0004
+100	だったら俺たちは、兄弟ってわけだ	VO_kuza.kuza_sys_0005
+101	は…？<br>シラフのお前に<br>勝負を挑んだつもりだったが
+102	俺は目に映るものを<br>お前は…大きなものを守る為に強くなる<br>俺たちの想いは同じ…そうだな？	VO_kuza.kuza_sys_0001
+103	…ああ	VO_kudhanstein.kudhanstein_sys_0004
+104	ともに高みを目指す、<br>義兄弟の契りを交わさないか	VO_kuza.kuza_sys_0003
+105	…………
+106	イヤか？	VO_kuza.kuza_sys_0001
+107	ひとつ、教えてくれ	VO_kudhanstein.kudhanstein_sys_0031
+108	兄弟に隠しごとはなしだ	VO_kuza.kuza_sys_0004
+109	…どっちが兄だ？
+110	…アッハッハッハ!!	VO_kuza.kuza_sys_0008
+111	笑うな！　きょ、兄弟だというなら…	VO_kudhanstein.kudhanstein_chara_0011
+112	もちろん、兄は俺	VO_kuza.kuza_sys_0007
+113	やはり酔っているな？	VO_kudhanstein.kudhanstein_battle_0016
+114	勝ったほう、強いほうが兄だろぉ	VO_kuza.kuza_sys_0044
+115	それとこれとは話が別だ！	VO_kudhanstein.kudhanstein_sys_0007
+116	駄々こねんなって	VO_kuza.kuza_sys_0024
+117	弟扱いするな!!	VO_kudhanstein.kudhanstein_battle_0016
+118	くくっ…
+119	家族ができた
+120	ワダツミの流儀はわからん<br>どうしたらいい	VO_kudhanstein.kudhanstein_sys_0031
+121	義兄弟として、<br>想いを交わし、刃に誓え	VO_kuza.kuza_sys_0004
+122	俺が刃を振るうのはっ、<br>この目に映る民と土地、<br>我が家ワダツミ守る為〜	VO_kuza.kuza_sys_0007
+123	酔ってるだろう	VO_kudhanstein.kudhanstein_battle_0016
+124	あとで飲ませてやるから	VO_kuza.kuza_sys_0012
+125	酔ってるんじゃないか！	VO_kudhanstein.kudhanstein_sys_0026
+126	続け続け	VO_kuza.kuza_sys_0001
+127	…俺が槍を振るうのは、この世界を救う為<br>全ての理不尽を叩き壊し、<br>全ての絶望を踏破する為…	VO_kudhanstein.kudhanstein_sys_0031
+128	ふたりで強くなることを誓おう	VO_kuza.kuza_sys_0037
+129	…ああ	VO_kudhanstein.kudhanstein_sys_0004
+130	この誓いは誰が為の正義か
+131	人々の笑顔の為に
+132	…………
+133	クーダーン	VO_kuza.kuza_sys_0012
+134	…この大陸の平和の為に	VO_kudhanstein.kudhanstein_sys_0031
+135	命を賭して我らの道を歩まん
+136	誰が為の正義のもとに…！
+137	そんなことが…<br>義兄弟なんて…憧れるなあ…<br>カグラも私と誓っとく？	VO_kanon_3s_cano.kanon_sys_0044
+138	いや、軽くない!?	VO_kagura.kagura_sys_1026
+139	…その後しばらくして<br>クダンはワダツミの地を離れた<br>離れざるを得なくなったというべきか	VO_kuza.kuza_sys_0004
+140	グリードダイクのワダツミ侵攻によって…
+141	…………！
+142	…俺は何ひとつ守ることができなかった	VO_kudhanstein.kudhanstein_battle_0019
+143	そんなことはない<br>お前は…カグラ様を救ってくれた<br>それだけでも十分だ	VO_kuza.kuza_sys_0001
+144	弱ければ奪われる…<br>だからクダン団長は“力”に魅せられる<br>…というわけですね	VO_basini.basini_sys_0045
+145	バシーニ…あなた…!!<br>クダン団長に対して、失礼すぎるわ	VO_kanon_3s_cano.kanon_sys_0017
+146	ごめんなさいクダン団長！<br>バシーニには後で私が<br>たっぷりお説教しておきますから！	VO_kanon_3s_cano.kanon_sys_0035
+147	ほら、謝りなさい、バシーニ！	VO_kanon_3s_cano.kanon_sys_0030
+148	僕、間違ったこと言いましたか？	VO_basini.basini_sys_0006
+149	いいから!!	VO_kanon_3s_cano.kanon_sys_0017
+150	…すみませんでした	VO_basini.basini_sys_0035
+151	…………
+152	…今のクダン団長には、私たちが<br>ついてますから！<br>だから…何も失わせません!!	VO_kanon_3s_cano.kanon_battle_0017
+153	立ち上がれないほどの闇に覆われても…<br>私が絶対に照らしてみせます！
+154	…オバカノン	VO_kagura.kagura_sys_0012
+155	何よ！	VO_kanon_3s_cano.kanon_sys_0012
+156	その根拠のない明るさはどっから来るのよ	VO_kagura.kagura_sys_0014
+157	やりたいことは、口に出してく主義なの！<br>暗いところがあれば、照らしたくなるのが<br>人のサガでしょ？	VO_kanon_3s_cano.kanon_sys_0013
+158	ふっ、俺は“暗いところ”扱いか？	VO_kudhanstein.kudhanstein_sys_0008
+159	えっ
+160	団長に対して失礼すぎでは？	VO_basini.basini_sys_0016
+161	………すみませんデシタ	VO_kanon_3s_cano.kanon_sys_0042
+162	…………!!
+163	？<br>…クウザさん？
+164	いや…なんでもない
+165	…お前は、今どうしてるんだ？	VO_kudhanstein.kudhanstein_sys_0031
+166	ワダツミの為に…<br>できることをな	VO_kuza.kuza_sys_0004
+167	ワダツミは今も<br>グリードダイクに統治という名の<br>圧政を強いられているんだ
+168	…最近じゃあワダツミの民を殺し、<br>不死兵の研究の材料さ…
+169	そんな…!!	VO_kagura.kagura_sys_0021
+170	不死兵って…<br>じゃあ…さっきの…!!	VO_kanon_3s_cano.kanon_sys_0025
+171	奴らは侵略だけじゃ飽き足らず、<br>俺たちを物のように扱い、<br>利用し尽くしている…	VO_kuza.kuza_sys_0018
+172	…!!
+173	そんな…許せない…！	VO_kanon_3s_cano.kanon_sys_0021
+174	だから、この現状を変える為に<br>動いている者がいるのさ。俺のようにな	VO_kuza.kuza_sys_0037
+175	…レジスタンス、ということか	VO_kudhanstein.kudhanstein_sys_0030
+176	そうだ。だが…グリードダイクも<br>その動きには気づいている。下手に動けば…<br>ワダツミ侵略が再び繰り返されるだろう	VO_kuza.kuza_sys_0004
+177	そんなこと…させてたまるか！	VO_kudhanstein.kudhanstein_sys_0016
+178	力を貸してくれるか、兄弟	VO_kuza.kuza_sys_0001
+179	当たり前だ…グリードダイクの不死兵、<br>そこに混じったワダツミの民のアルケミィ、<br>それに何よりお前の証言が確かな証拠	VO_kudhanstein.kudhanstein_chara_0009
+180	これで聖教騎士団としても、<br>正式に動くことができる
+181	まずは、報告に戻りましょう<br>その後、正式に聖教会の許可を得て、<br>ワダツミの支援を	VO_kanon_3s_cano.kanon_sys_0004
+182	ああ	VO_kudhanstein.kudhanstein_chara_0009
+183	…戻る前に、一度アジトへ案内したい<br>ワダツミの現状をよりわかって<br>もらう為にもな…いいか？	VO_kuza.kuza_sys_0001
+184	案内してくれ	VO_kudhanstein.kudhanstein_sys_0004
+185	こっちへ	VO_kuza.kuza_sys_0004
+186	…ワダツミを…どうか…お願いします…	VO_chihaya.chihaya_battle_0021
+187	…………
+188	貴方が好きと言ってくれた、<br>舞は、もう、踊れません…	VO_chihaya.chihaya_battle_0020
+189	チハヤ	VO_kuza.kuza_sys_0018
+190	ですから、せめて、<br>祈りを…	VO_chihaya.chihaya_battle_0019
+191	チハヤ…！	VO_kuza.kuza_sys_0019
+192	貴方の望む、高みまで…<br>辿り、つけます、よう…	VO_chihaya.chihaya_battle_0021
+193	…有力な情報はなし…か	VO_zain.zain_sys_0029
+194	どうするべきでしょうか	VO_yaurasu.yaurasu_sys_0016
+195	…………
+196	各地を調査しましたが、<br>どこにも遺跡調査団の<br>痕跡は見当たりませんでした	VO_monzein.monzein_sys_0030
+197	これだけ調査を進めて何も<br>出てこないとなると、証拠の隠滅を<br>図られている可能性もありますね	VO_caida.caida_sys_0030
+198	なるほど…オーティマの意見は？	VO_zain.zain_sys_0029
+199	やっぱり妙っすね。ここまで徹底して<br>証拠隠滅を図るんだったら、どうして<br>俺たちに一度見つかってるんですか	VO_ortima.ortima_sys_0031
+200	それは一理あるわね。ここまで<br>徹底しているのに、あの時だけ幻影兵の<br>姿すら晒しているなんて不自然だわ	VO_yaurasu.yaurasu_sys_0031
+201	何か、意図があると？
+202	…可能性はあるわね	VO_yaurasu.yaurasu_sys_0016
+203	その意図とはなんだ	VO_monzein.monzein_sys_0004
+204	この一連の出来事が、誰かに<br>仕組まれたことかもしれないってことっすよ<br>例えば…	VO_ortima.ortima_sys_0031
+205	…クダン団長を、ワダツミに<br>おびき寄せる為、とか
+206	くそ…こんなところにまで<br>グリードダイク兵が…!!	VO_kudhanstein.kudhanstein_sys_0016
+207	クウザさんと、分断されちゃいましたね	VO_kanon_3s_cano.kanon_battle_0016
+208	相当警戒されているということか…<br>まずはクウザと合流しなければ	VO_kudhanstein.kudhanstein_battle_0016
+209	来ます!!	VO_basini.basini_battle_0019

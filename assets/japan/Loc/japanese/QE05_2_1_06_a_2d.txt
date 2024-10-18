@@ -1,0 +1,55 @@
+001	…………
+002	大丈夫？　マルタ姉ちゃん	VO_hisham-b.hisham-b_sys_0001
+003	え、ええ…大丈夫よ<br>安心したら少し、気が抜けてしまっただけ	VO_malta.malta_chara_1009
+004	なら、いいんだけど…	VO_hisham-b.hisham-b_sys_0022
+005	なんかあったら、言ってね！<br>僕、マルタ姉ちゃんを守るって、<br>カムイ兄ちゃんと約束したんだから！	VO_hisham-b.hisham-b_sys_0002
+006	ええ…わかった	VO_malta.malta_sys_0004
+007	（…儀式の時に、<br>セフィロンに繋がって、わかった…）
+008	（大樹様のお命は、もう…<br>それに、誰かが今、祭壇で<br>とても嫌なことをしている…）
+009	（止めないと…ダメ<br>じゃないと、何かとても<br>酷いことが起こる気がする…）
+010	…なんとか、しないと
+011	――そちら、里の生き残りの方ですか!?	VO_theona.theona_sys_0002
+012	その声…テオナさん？	VO_hisham-b.hisham-b_chara_1009
+013	ヒシャームくん！<br>よかった、無事だったんですね！	VO_theona.theona_chara_1006
+014	貴女は…？	VO_malta.malta_chara_1009
+015	王都でお世話になった、剣闘士のお姉さん<br>闘技場のチャンピオンで、すごく強いんだ！	VO_hisham-b.hisham-b_sys_0007
+016	テオナと申します。貴女は――	VO_theona.theona_sys_0004
+017	…っ！　近くで戦端が開いたようです<br>こちらへ！<br>里の方々も避難してきています！	VO_theona.theona_chara_1010
+018	よかった！<br>テオナさんが一緒なら安心だよ、<br>マルタ姉ちゃん！	VO_hisham-b.hisham-b_sys_0007
+019	…………
+020	ど、どうしたのさ、テオナさん？<br>いきなり笑ったりなんかして	VO_hisham-b.hisham-b_chara_1009
+021	いえ、ヒシャームくんにも<br>ちゃんと家族が見つかったんだなって<br>そう思うと嬉しくって	VO_theona.theona_sys_0007
+022	うんっ！<br>マルタ姉ちゃんと、カムイ兄ちゃんと、<br>後はまあ、イシドも	VO_hisham-b.hisham-b_sys_0005
+023	みんなみんな、<br>僕の大切な“家族”なんだ！<br>だから、テオナさん…	VO_hisham-b.hisham-b_sys_0007
+024	ええ、守りましょう。必ず！	VO_theona.theona_sys_0005
+025	…ヒシャーム<br>先に、行ってくれる？<br>私は、このひとと話があるから	VO_malta.malta_sys_0001
+026	え？　でも…	VO_hisham-b.hisham-b_chara_1009
+027	大丈夫ですよ、ヒシャームくん<br>私がついていますから	VO_theona.theona_sys_0007
+028	…わかった<br>すぐ来てよーっ！	VO_hisham-b.hisham-b_sys_0031
+029	…死ぬつもりですか？
+030	そんなつもりはないけれど…<br>どうして、そう思ったの？	VO_malta.malta_chara_1009
+031	いえ、この数か月で人の死に慣れ過ぎました<br>私の目には、今の貴女の表情は、まるで…	VO_theona.theona_sys_0022
+032	死ぬつもりはありません。本当よ？<br>けど、まだやらなければならないことが<br>残っているの	VO_malta.malta_sys_0020
+033	…わかりました<br>ならば私も、一緒に行きます	VO_theona.theona_sys_0031
+034	え？　でも…	VO_malta.malta_chara_1009
+035	もとより私は、遊撃隊のようなもの<br>ある程度自由に動いた方が、攪乱になります
+036	それに、せっかくヒシャームくんに<br>出来た家族ですから<br>守ってあげたいじゃないですか	VO_theona.theona_sys_0007
+037	…ありがとう	VO_malta.malta_sys_1050
+038	お礼は、この戦いが終わった後で<br>まずはここを、生き残りましょう！	VO_theona.theona_sys_0007
+039	なんとか、大樹の麓までは来た、が！	VO_kamui-b.kamui-b_sys_0031
+040	本当に、こんな所にまでグラトニーの兵が<br>入り込んでいるのか…！	VO_ishido.ishido_sys_0027
+041	ワギナオ殿の見立て、<br>どうやら当たっているみたいだな…！
+042	だとすれば、セクリディスの狙いは明白だ<br>奴め、“クリフォネ”を<br>“呼ぶ”つもりだろう…	VO_waginao-b.waginao-b_sys_0045
+043	“クリフォネ”？	VO_kamui-b.kamui-b_sys_0037
+044	セフィロンはいわば光…<br>光あるところには、必ず闇が生まれる<br>それこそが、“クリフォネ”だ	VO_waginao-b.waginao-b_sys_0004
+045	闇…それはまさか、<br>セフィロンの裡（うち）に<br>眠るという？	VO_kamui-b.kamui-b_sys_0027
+046	左様。反転という形で漏れ出していた闇、<br>そのすべてを解き放つつもりだろう	VO_waginao-b.waginao-b_sys_0005
+047	だが、そんなことをして<br>なんになるのですか？
+048	どれほど大きな力も、制御できなければ<br>災いにしかなり得ない
+049	その為の用意があるのだろう<br>奴が持っていた“石”…あれは恐らく、<br>元々、聖石を――	VO_waginao-b.waginao-b_sys_0037
+050	さすがはワギナオ様<br>我らが犯した禁忌、<br>そこまで見抜いておられるか	VO_stknightm.stknightm_sys_0044
+051	ぬ――!?	VO_kamui-b.kamui-b_sys_0027
+052	こいつらは、一体…？<br>聖教騎士、ではないのか？	VO_kamui-b.kamui-b_sys_0020
+053	気を抜くな、カムイよ！	VO_waginao-b.waginao-b_sys_0018
+054	ワギナオ様――いや、ワギナオ<br>先ほどは上手く逃げられたが、<br>今度はそうはいかない	VO_stknightm.stknightm_sys_0010
+055	ここでその命、頂戴する！	VO_stknightm.stknightm_battle_0007

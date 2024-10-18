@@ -1,0 +1,36 @@
+001	…ふう<br>ルク、ケガはない？	VO_leonear.leonear_sys_0030
+002	なんの、あれしき	VO_lucretia.lucretia_sys_0010
+003	このところ盗賊団が暴れているのは<br>ルクも聞いていただろう？	VO_leonear.leonear_sys_0012
+004	お外は危ないから<br>王女殿下におかれましては<br>ひとりで外へ出るのはやめてね
+005	…って、ルク<br>そのうさぎは何？<br>いつの間に？	VO_leonear.leonear_sys_0025
+006	野うさぎがいたから捕まえた<br>いつ、というなら今だ	VO_lucretia.lucretia_sys_0004
+007	レオニアが戦い出したせいか<br>こちらへ逃げて来たのでな
+008	ちょうどよかった	VO_lucretia.lucretia_sys_0007
+009	逃げた先にいたのがルクって、<br>そのうさぎは不幸すぎるね	VO_leonear.leonear_sys_0029
+010	…ともかく、王女様が<br>ひとりで外に出るのはダメだからね？
+011	今後は善処しよう	VO_lucretia.lucretia_sys_0004
+012	ゼンショ…？<br>えぇと、とりあえず外に行くなら<br>私を連れて行ってくれ	VO_leonear.leonear_sys_0025
+013	わかったわかった	VO_lucretia.lucretia_event_1014
+014	早速この肉を活かす為の<br>食材を買いに行くから<br>ついて来るように	VO_lucretia.lucretia_sys_0002
+015	焼くなら塩と香草…煮込むならワインか？<br>料理長はビールで煮込むのも<br>いいと言っていたが
+016	レオニアには今度こそおいしいものを<br>食べさせてやろう	VO_lucretia.lucretia_sys_0007
+017	…ねぇルク
+018	なんだ	VO_lucretia.lucretia_sys_0006
+019	もう剣は置いていいんだぞ<br>貴女の代わりに剣を握る人間は<br>この国にはたくさんいるんだからさ	VO_leonear.leonear_sys_0016
+020	良き花嫁になりたいんだろう？<br>それなら刃物は包丁だけにした方が<br>うんと近道だと思うけど？
+021	なぜあなたは剣を置かせようとする？<br>私は剣も包丁も、どちらも置かぬ	VO_lucretia.lucretia_sys_0030
+022	それはルクのことが…
+023	盗賊団が出ただと！　こんな街中に!?	VO_leonear.leonear_sys_0025
+024	何っ！	VO_lucretia.lucretia_battle_0020
+025	ルクは城に戻って！	VO_leonear.leonear_sys_0012
+026	いいや、私も行く	VO_lucretia.lucretia_chara_1003
+027	だめだってば！	VO_leonear.leonear_sys_0015
+028	言っただろう！<br>私は剣と包丁、どちらも手放さぬ！	VO_lucretia.lucretia_sys_0012
+029	ねぇルク、お願いだ<br>貴女はこの国の大切な王女でもあるんだ<br>傷ついたら悲しむ人がたくさんいる	VO_leonear.leonear_sys_0020
+030	私もルクが傷ついたら悲しい
+031	…だからだ	VO_lucretia.lucretia_sys_0004
+032	私はこの国の王女だ<br>私が守るのは当然だろう
+033	…………!!
+034	でもルク自らが戦う必要はない！<br>その為に私のような人間がいるんだ！	VO_leonear.leonear_sys_0021
+035	そこの盗賊たちよ！<br>エンヴィリアの王女・ルクレティア自ら<br>成敗してくれよう!!	VO_lucretia.lucretia_battle_0010
+036	って人の話<br>全然聞いてないな…!?	VO_leonear.leonear_sys_0026
