@@ -1,0 +1,121 @@
+﻿001	…來了嗎	VO_orione.orione_sys_0010
+002	原來如此…<br>和您說的一樣<br>楓琉無法阻止他…	VO_waginao.waginao_sys_0044
+003	…喔哦哦哦！	VO_kudhanstein.kudhanstein_sys_0032
+004	奧萊伊恩！<br>瓦吉那歐…！
+005	…真是個騷動的客人呢<br>我應該說過<br>要好好招待的…	VO_orione.orione_sys_0001
+006	…這只是對你剛才的回禮而已<br>居然找刺客殺我…<br>可以說明是什麼意思嗎？	VO_kudhanstein.kudhanstein_sys_0010
+007	…看來是沒有傳達到下面去<br>我們搞錯了吧…抱歉	VO_waginao.waginao_sys_0034
+008	搞錯…？　爛藉口！	VO_kudhanstein.kudhanstein_sys_0013
+009	那麼…你在這裡<br>是為了拔槍相向的嗎？	VO_orione.orione_sys_0004
+010	…什麼…？
+011	那就沒話好說了<br>瓦吉那歐…交給你了	VO_orione.orione_sys_0010
+012	是	VO_waginao.waginao_sys_0004
+013	…！<br>…等等！	VO_kudhanstein.kudhanstein_sys_0026
+014	…怎麼？	VO_orione.orione_sys_0006
+015	…你說過<br>…我可以尋求淩駕於世界的<br>絕對的力量？
+016	…是的	VO_orione.orione_sys_0005
+017	我…<br>是為了確認這句話的意思<br>才來這裡的
+018	是嗎…<br>那就來說說吧	VO_orione.orione_sys_0004
+019	…切…	VO_kudhanstein.kudhanstein_sys_0016
+020	…我在外面等你<br>有事情立刻叫我	VO_reimay.reimay_sys_0001
+021	嗯	VO_kudhanstein.kudhanstein_sys_0004
+022	哼…<br>…你是要在奧萊伊恩陛下麾下<br>打算效忠投誠的嗎？	VO_waginao.waginao_sys_0010
+023	別誤會<br>我只是來聽事情的<br>並不想和你們共事	VO_kudhanstein.kudhanstein_sys_0010
+024	沒關係<br>那麼…你要問我什麼事？	VO_orione.orione_sys_0010
+025	你所說的<br>絕對的力量…到底是什麼？
+026	…太古時期就存在的<br>左右世界之理的強大力量	VO_orione.orione_sys_0005
+027	太古時期…？	VO_kudhanstein.kudhanstein_sys_0007
+028	…過去<br>…建造了巴貝爾塔的兄妹<br>你知道嗎？	VO_waginao.waginao_sys_0003
+029	…尼姆爾和艾梅爾…<br>鍊金術的始祖…建造了巴貝爾塔<br>想要統一世界的兄妹	VO_kudhanstein.kudhanstein_sys_0004
+030	…住在這個大陸的人<br>沒人不知道的吧？
+031	看到真理之門對面的尼姆爾…<br>感到非常絕望<br>於是想要毀滅世界	VO_orione.orione_sys_0004
+032	但是…他的意謀<br>被妹妹艾梅爾阻止了…
+033	然後艾梅爾<br>為了世界秩序而組織的…<br>就是你們聖教騎士團
+034	…我先說好<br>我可不是來聽故事的	VO_kudhanstein.kudhanstein_sys_0010
+035	不是故事…<br>是和現在相關的現實話題	VO_orione.orione_sys_0010
+036	我說的絕對的力量是指…<br>打算破壞世界的尼姆爾<br>在當時所擁有的力量
+037	…！<br>尼姆爾當時所擁有力量…？	VO_kudhanstein.kudhanstein_sys_0026
+038	嗯。我想把這個力量<br>納為己有<br>…這個能夠動搖世界的力量	VO_orione.orione_sys_0005
+039	不可能…？<br>這種力量要怎麼…	VO_kudhanstein.kudhanstein_sys_0029
+040	這個力量…<br>只要世界的平衡被打破就會出現	VO_waginao.waginao_sys_0010
+041	世界的平衡…？<br>怎麼回事…說我聽得懂的	VO_kudhanstein.kudhanstein_sys_0028
+042	這個世界<br>是藉著非常精細的力量平衡所以構成的<br>支撐著的就是『始祖鍊金術』	VO_orione.orione_sys_0030
+043	『始祖鍊金術』…？	VO_kudhanstein.kudhanstein_sys_0027
+044	以尼姆爾為軸心的…<br>想改變世界之理的“威力鍊金術”	VO_orione.orione_sys_0031
+045	還有以艾梅爾為軸心的…<br>想守護世界之理的“慈愛鍊金術”
+046	兩種性質的鍊金術所構成的<br>衍生出現在所謂的鍊金術
+047	威力和…慈愛…
+048	我的目標是<br>被稱為『始祖鍊金術』雙璧之一的…<br>“威力鍊金術”	VO_orione.orione_sys_0005
+049	尼姆爾所創造出的鍊金術…？<br>這種東西怎麼得到呢…	VO_kudhanstein.kudhanstein_sys_0027
+050	破壞平衡啊<br>這樣的話“力量”就會出現	VO_orione.orione_sys_0007
+051	『始祖鍊金術』的構成<br>兩種性質的鍊金術…
+052	因為力量始終平衡<br>世界才保持平靜
+053	反過來說…<br>哪個鍊金術擁有了力量<br>破壞了平衡的話…	VO_waginao.waginao_sys_0010
+054	這個鍊金術的“力量”就會具現化<br>然後影響世界
+055	而為了保持均衡、<br>這個世界就存在“審判者”…	VO_orione.orione_sys_0004
+056	只要那個人保持著『始祖鍊金術』的平衡<br>那麼<br>“力量”就不會具現化
+057	“審判者”…？	VO_kudhanstein.kudhanstein_sys_0026
+058	就是保持力量的平衡<br>調節亂世之人<br>現在…此人被冠以絕對正義之名	VO_orione.orione_sys_0010
+059	！？<br>難道…<br>是領主騎士…！？	VO_kudhanstein.kudhanstein_sys_0027
+060	是的。你把扎因給殺了<br>就是個最大的進步	VO_orione.orione_sys_0005
+061	這個男人身為“審判者”<br>卻想把“威力鍊金術”納為己有…	VO_waginao.waginao_sys_0004
+062	如果不是你下手的話…<br>現在的世界<br>就變成他為所欲為的了
+063	！！　等等…！<br>我會對世界的平衡產生影響…！？<br>我並沒有這種打算啊…	VO_kudhanstein.kudhanstein_sys_0026
+064	雖然你沒這意圖但是也一樣<br>你有打破世界平衡的宿命	VO_orione.orione_sys_0007
+065	宿命…！？　不可能！？	VO_kudhanstein.kudhanstein_sys_0029
+066	不管怎樣<br>尼姆爾的“威力鍊金術”<br>出現的時間接近了	VO_orione.orione_sys_0030
+067	我無論如何都要得到這個力量…<br>把世界引導為該有的樣子
+068	…你要…得到這個力量<br>然後創造怎樣的世界…？
+069	其實很簡單<br>…沒力量的人沒有資格生存<br>弱肉強食的世界	VO_orione.orione_sys_0011
+070	弱肉強食…！？	VO_kudhanstein.kudhanstein_sys_0027
+071	庫達恩修坦…<br>在你看來，世界是怎樣的？	VO_orione.orione_chara_1008
+072	憎恨、嫉妒、蔑視…下等的感情<br>骨肉相殘不斷持續
+073	…這就是世界平衡下現今的世界。<br>那麼到底<br>這算是理想的世界嗎…？
+074	…這個…	VO_kudhanstein.kudhanstein_battle_0019
+075	這個混亂所有的原因…<br>就是平衡的世界才會衍生出的<br>過於平等的精神
+076	沒有明確優劣<br>才產生無畏的爭執…<br>結果痛苦的悲劇就不斷重演
+077	不可能…<br>弱肉強食的世界<br>只會有更多爭鬥…	VO_kudhanstein.kudhanstein_sys_0029
+078	不是的<br>弱肉強食有著“力量”<br>這種絕對的指針	VO_orione.orione_sys_0030
+079	由力量強大的人率領<br>沒有力量的只能遵從…<br>這樣就沒有爭鬥的餘地
+080	看看世上的動物吧…<br>那才是<br>人類世界該有的樣子
+081	…………
+082	…綿津見的滅亡<br>…你尋求力量<br>就是那時開始的吧？	VO_orione.orione_sys_0010
+083	！	VO_kudhanstein.kudhanstein_sys_0007
+084	目睹綿津見的毀滅<br>卻什麼也做不了<br>軟弱的自己…
+085	這種痛苦的記憶<br>是你的根本
+086	…你一直守護綿津見王家的女兒・神樂<br>也是為了彌補自己的無力吧
+087	閉嘴！　別說的自以為是的話…	VO_kudhanstein.kudhanstein_sys_0012
+088	我沒打算否定<br>…人類本來就是如此<br>你想的是對的
+089	…什麼？
+090	責備沒有力量的自己<br>尋求改變未來的力量…<br>一點也不奇怪
+091	你…很好的理解了<br>力量才是絕對的指針<br>這一點
+092	…！	VO_kudhanstein.kudhanstein_sys_0007
+093	有你的強大意志<br>就不會墜入黑暗
+094	庫達恩修坦…<br>你應該追求強大的力量	VO_orione.orione_chara_1008
+095	…墜入黑暗…？	VO_kudhanstein.kudhanstein_sys_0027
+096	…卡達諾巴團長<br>經常說的話<br>…這是什麼意思？
+097	和我們追求的力量相對的…<br>有光和暗兩面	VO_waginao.waginao_chara_1012
+098	雙方保持平衡的話<br>就會作為純粹的力量幫助施法者
+099	…無法保持平衡呢…？
+100	內心就會被黑暗侵襲…<br>然後墜入到<br>永遠無法擺脫的黑暗世界	VO_waginao.waginao_sys_0010
+101	…！<br>這就是…“真理之門”<br>對面的世界嗎…？	VO_kudhanstein.kudhanstein_sys_0026
+102	…呵呵<br>…尋求超過自己的力量就好	VO_waginao.waginao_sys_0007
+103	有你這樣的意志<br>就可以得到超乎尋常的強大力量
+104	…！	VO_kudhanstein.kudhanstein_sys_0007
+105	但是…現在的你<br>卻非常的不安定	VO_orione.orione_sys_0031
+106	首先要好好保護你的<br>意志之源
+107	意志之源…？	VO_kudhanstein.kudhanstein_sys_0027
+108	就是神樂	VO_waginao.waginao_chara_1012
+109	為了救出被賢者之石封印的她…<br>聖教騎士們為了修復聖劍王者之劍<br>朝著拉姆普羅德山前進了
+110	當然…<br>是想利用她得到甕星
+111	！！<br>神樂…果然活著嗎！	VO_kudhanstein.kudhanstein_sys_0007
+112	…對話結束了<br>這樣很浪費時間	VO_orione.orione_sys_0010
+113	…別誤會<br>我可不會被你說幾句<br>就按你說的行動	VO_kudhanstein.kudhanstein_sys_0010
+114	當然。<br>…我們無法強迫你的意志	VO_orione.orione_sys_0005
+115	…我要走的路<br>我自己會找出來
+116	…打擾了
+117	…真是…不識趣的傢伙…	VO_waginao.waginao_sys_0012
+118	別在意	VO_orione.orione_sys_0007
+119	只要打破世界的平衡…<br>他完成這個使命就好了<br>其他什麼也不用
+120	…哼…看來一些討厭的客人<br>在接近這裡啊…<br>該怎麼辦？	VO_waginao.waginao_chara_1012
+121	…隨便你<br>我沒空陪這些雜魚	VO_orione.orione_sys_0010

@@ -1,0 +1,193 @@
+﻿001	逃吧<br>好，那就趁現在回到村裡…
+002	豈會讓你逃走！	VO_blanchett.blanchett_battle_0016
+003	…！　等一下，你！	VO_freed.freed_sys_0043
+004	不要阻止我！<br>我要殺狼！　殺…！<br>啊啊啊！　一隻不留！	VO_blanchett.blanchett_sys_0013
+005	已經夠了！<br>唔…好大的力氣…<br>誰來！　幫我一下！	VO_freed.freed_sys_0015
+006	走開！	VO_blanchett.blanchett_battle_0010
+007	嗚…	VO_freed.freed_battle_0026
+008	總算得救了…<br>那個，對不起，那個孩子給你們添麻煩了	VO_knightm.knightm_sys_0001
+009	沒事，但是那個狂亂的樣子…
+010	…到院裡來的時候就開始了<br>聽到狼遠遠的吼叫和身影，甚至只是在對話中<br>出現這個詞都會…	VO_knightm.knightm_sys_0030
+011	雖然想為她做點什麼，<br>但是不知道理由
+012	是這樣啊…
+013	呼…	VO_freed.freed_sys_0016
+014	工作辛苦了<br>變得很有男人味了嘛？	VO_vanekis.vanekis_sys_0007
+015	…第一次被打到臉了	VO_freed.freed_sys_0004
+016	我這有跌打藥<br>稍等
+017	不用了，就這樣吧<br>比起這個，白天沒說完的事現在告訴我吧
+018	…啊啊，這樣呢
+019	那個領主，<br>和聖教騎士團有私通…傳聞是這麼說的
+020	是事實嗎？	VO_freed.freed_sys_0007
+021	查不到內幕，但是可信度很高<br>為了取得這個情報，<br>有幾個人都沒能回來，所以…	VO_vanekis.vanekis_sys_0031
+022	原來如此。如果那是事實，<br>領主必定會拚命掩蓋	VO_freed.freed_sys_0045
+023	畢竟在現如今的拉斯特里斯，這件事要是被知道了<br>可是無法善後的事	VO_vanekis.vanekis_sys_0005
+024	這樣的話，我待在這裡的理由<br>恐怕會被懷疑<br>看來見領主不是個好主意啊	VO_freed.freed_battle_0019
+025	他也是、大家也是，都這麼急著…<br>到底是什麼讓他們這麼享受啊	VO_freed.freed_sys_0030
+026	呼呼，是這個時代讓他們這樣的<br>你聽不到嗎？<br>歷史驅趕我們的聲音	VO_vanekis.vanekis_sys_0007
+027	即使是這樣，<br>我也是只想塞住耳朵鑽進被窩哦	VO_freed.freed_sys_0010
+028	無欲無求<br>這樣的態度，<br>現在的立場很煩悶吧	VO_vanekis.vanekis_sys_0049
+029	我…
+030	是嗎，已經要回去了啊<br>沒怎麼好好招待你，<br>對不起…那麼是今晚就？	VO_knightm.knightm_sys_0031
+031	是的，<br>打算回王都了…	VO_freed.freed_sys_0004
+032	『石』的材料，<br>是怎麼從這裡<br>運送出去的？
+033	那是，進獻給陛下的
+034	這幾個月<br>都是由領主大人提供馬車，<br>護衛也是由領主大人準備的
+035	（…果然是這樣）	VO_freed.freed_sys_0045
+036	（『石』材料的消失<br>領主跟這件事有關…<br>絕對是這樣）
+037	啊，對了！<br>如果可以的話，<br>請和孩子們見上一面
+038	孩子們說弗里德大人救了我們，<br>一定要道謝呢	VO_knightm.knightm_sys_0007
+039	…怎麼辦啊，<br>我不擅長應付這種事啊	VO_freed.freed_sys_0042
+040	弗里德大人？	VO_knightm.knightm_sys_0001
+041	啊，不，是的	VO_freed.freed_sys_0007
+042	啊，弗里德大人！
+043	謝謝你救了我們！<br>我，一定要成為像弗里德大人<br>一樣的軍人！
+044	啊，這個…	VO_freed.freed_sys_0025
+045	…啊	VO_blanchett.blanchett_chara_2006
+046	啊…
+047	布蘭切特…
+048	…！	VO_blanchett.blanchett_sys_0042
+049	…………
+050	…………
+051	（果然，石頭有反應<br>是對這個孩子鍊金的力量<br>做出的反應嗎？）	VO_freed.freed_sys_0027
+052	能和你說幾句話嗎？	VO_freed.freed_sys_0002
+053	…為什麼到這裡來？<br>你說的話<br>其他的小孩子們都想聽的哦	VO_blanchett.blanchett_sys_0018
+054	我不習慣被這麼看著<br>說起來，我更偏向於文官	VO_freed.freed_sys_0016
+055	文官？	VO_blanchett.blanchett_sys_0005
+056	並非打戰的工作<br>陛下所賜予的	VO_freed.freed_sys_0004
+057	…我，不是很懂<br>是看一些很難的書的工作？	VO_blanchett.blanchett_chara_1003
+058	古文書的解讀也算是工作的內容<br>然後還有起草政策的草案，<br>整理收集到的情報等…	VO_freed.freed_sys_0031
+059	果然聽起來很難	VO_blanchett.blanchett_sys_0016
+060	習慣了就也挺享受的<br>比起揮劍有趣的多	VO_freed.freed_sys_0008
+061	那個，弗里德…先生	VO_blanchett.blanchett_sys_0031
+062	叫我弗里德就好了<br>我本來就沒有大家說的那麼偉大<br>也只是，沾了父母的光啦	VO_freed.freed_sys_0004
+063	我的父親是拉斯特里斯的軍人<br>他也是非常嚴厲的人<br>聽說在三傑得勢之前，是軍中核心
+064	是個可怕的人啊	VO_blanchett.blanchett_sys_0045
+065	是的<br>所以，小時候<br>誰也不靠近我	VO_freed.freed_sys_0004
+066	在其他小孩看來，<br>我就像抱著一顆炸彈一樣吧
+067	雖然現在我是不在意了…<br>但是，當時呢，非常脆弱
+068	…我，沒關係
+069	爸爸、媽媽，都在我心中<br>那天所看到的紅色，<br>一直刻印在我眼中…！
+070	（並且，『石』…<br>呼應著她情感的高昂，<br>是因為鍊金的激發？）	VO_freed.freed_sys_0025
+071	所以，<br>不管活下去有多寂寞、有多痛苦，<br>我都要活下去活下去活下去活下去…！
+072	我要用這雙手，這把剪刀！<br>把所有的『狼』都滅絕了…！
+073	（啊啊…這個孩子<br>失去了家人、失去了故鄉、失去了一切<br>卻還是選擇活下去啊）	VO_freed.freed_sys_0016
+074	…那個剪刀，一直帶在身上嗎？	VO_freed.freed_sys_0002
+075	…是媽媽給我的<br>這是比我的生命還重要的寶物	VO_blanchett.blanchett_sys_0004
+076	所以，我一定…<br>用這個把狼全部、全部、全部了結，<br>總有一天我就一定可以，回到那個家裡
+077	…是嗎	VO_freed.freed_sys_0007
+078	布蘭切特	VO_freed.freed_sys_0002
+079	…？
+080	把這裡這樣折進去…<br>好，然後把剪刀<br>放到這裡可以嗎？
+081	折紙？　為什麼要…	VO_blanchett.blanchett_sys_0005
+082	做下試試	VO_freed.freed_chara_1005
+083	…就一次	VO_blanchett.blanchett_sys_0018
+084	然後把這個展開…看	VO_freed.freed_sys_0033
+085	紙…兔子？	VO_blanchett.blanchett_chara_2006
+086	聽說這個叫做『剪紙』<br>怎麼樣，剪刀的這種用法<br>也不壞吧？	VO_freed.freed_sys_0004
+087	剪紙…<br>原來這個剪刀，還有這種用法啊…	VO_blanchett.blanchett_sys_0045
+088	不光是剪刀<br>你也是，你能做很多很多事情<br>復仇不過只是你所能做的一部分事情罷了	VO_freed.freed_sys_0023
+089	咦…？	VO_blanchett.blanchett_sys_0005
+090	就算你的復仇結束了，<br>你的人生一定還會繼續，所以，<br>現在就開始考慮復仇完之後的事情比較好哦
+091	…如果是你的話一定，<br>可以得出和我不一樣的答案的
+092	弗里…	VO_blanchett.blanchett_chara_2001
+093	哇啊，好可愛！<br>這個是布蘭姐姐做的嗎？
+094	啊，那個…	VO_blanchett.blanchett_chara_2006
+095	好棒，好厲害！<br>簡直像魔法一樣！<br>你會做松鼠嗎！？
+096	啊，那個…弗里德？	VO_blanchett.blanchett_sys_0005
+097	…抱歉<br>我只知道怎麼剪兔子	VO_freed.freed_sys_0035
+098	咦咦…什、什麼！<br>那個，松鼠…<br>大概，從這裡這麼剪…	VO_blanchett.blanchett_sys_0026
+099	哇啊！　是松鼠！　太厲害了！
+100	…你，不怕我嗎？	VO_blanchett.blanchett_chara_2001
+101	…因為，布蘭姐姐<br>保護了我們啊
+102	…！
+103	那時，雖然有點嚇到了，<br>但是姐姐就是姐姐，<br>我知道的
+104	所以，謝謝！<br>布蘭姐姐！<br>雖然可怕，但是很帥哦！
+105	…是嗎。是這樣嗎…	VO_blanchett.blanchett_sys_0018
+106	布蘭姐姐？<br>你怎麼哭了？
+107	沒、什麼啦<br>完全沒事…	VO_blanchett.blanchett_sys_0007
+108	啊啊，太好了	VO_freed.freed_sys_0008
+109	…咦？	VO_blanchett.blanchett_sys_0005
+110	你好好地待在這裡<br>在這裡，建立起新的關係<br>你的命，一定能成為某個人重要的東西
+111	我放心了<br>你的人生，一定比我的…<br>更加閃亮
+112	…弗里德？
+113	那麼，我要走了<br>保重，布蘭切特
+114	…你說的，是真的嗎
+115	嗯<br>今晚，那個孤兒院中<br>又會有孩子會被運往王都吧	VO_thiefm.thiefm_sys_0004
+116	成為那個不詳的鍊金術的結晶…<br>賢者之石的材料！
+117	那拉斯特里斯王家<br>沉溺於鍊金術的傳聞<br>是事實？	VO_zeke_young.zeke_sys_0025
+118	對了！　<br>我為了阻止這個惡行，<br>正私底下加強與聖教騎士團的聯繫…	VO_thiefm.thiefm_sys_0005
+119	沒想到，這麼早就開始動作了	VO_thiefm.thiefm_sys_0042
+120	聖教騎士團派兵的許可還未下達，<br>我的私兵又沒辦法與王家的近衛對抗
+121	這幾個月，<br>為了保護孩子們<br>用盡手段…
+122	…這個血液，<br>確實有很強的鍊金反應	VO_zeke_young.zeke_sys_0016
+123	今夜，這個血的主人…孤兒院的孩子們，<br>真的是要被運到王都嗎？	VO_zeke_young.zeke_sys_0031
+124	肯定沒錯了<br>現在在村外，拉斯特里斯的正規兵<br>正駐扎著不是嗎	VO_thiefm.thiefm_sys_0004
+125	…………
+126	拜託了，吉克大人！<br>請用您的力量，<br>拯救這些無罪的孩子們吧！	VO_thiefm.thiefm_sys_0041
+127	我是安比利亞的人<br>如果在拉斯領地內引起事端的話，<br>會引發戰爭的	VO_zeke_young.zeke_sys_0001
+128	或許是這樣<br>但是，如果不管這個惡行的話，許多的生命會被奪走！<br>人民就要變為鍊金毒牙的犧牲者了	VO_thiefm.thiefm_battle_0019
+129	這也是，為了守護瑪古那・柯德…<br>希望您為了大陸的安定<br>多多考慮！
+130	…拯救孩子，只要這樣就可以是嗎？	VO_zeke_young.zeke_sys_0004
+131	我只有這個願望	VO_thiefm.thiefm_sys_0004
+132	…好	VO_zeke_young.zeke_sys_0005
+133	…
+134	…看來很順利啊	VO_stknightm.stknightm_sys_0030
+135	…!?　你，原來是你…<br>怎麼樣，這樣就可以了吧？	VO_thiefm.thiefm_battle_0023
+136	啊啊，夠了	VO_stknightm.stknightm_sys_0037
+137	蒼炎的狼，吉克…<br>為了掀起與拉斯特里斯的戰端<br>再也沒有比你更合適的人才了
+138	然後…我以聖教騎士團的名義，<br>支配成為諾森布萊特領地的<br>拉斯特里斯…！	VO_thiefm.thiefm_sys_0023
+139	…………
+140	啊!?<br>什、麼…？	VO_thiefm.thiefm_battle_0026
+141	不需要的東西就要處理掉<br>這是理所當然的吧？	VO_stknightm.stknightm_sys_0025
+142	像你這樣被慾望所驅使的豬，<br>怎麼可能承擔我們聖教騎士團的榮耀	VO_stknightm.stknightm_sys_0010
+143	為了大陸的安寧，為了和平…<br>和憤怒的大國一起，沉入歷史吧
+144	…那個	VO_blanchett.blanchett_sys_0018
+145	啊呀。這麼晚怎麼了<br>現在是小孩的睡覺時間囉？
+146	我聽說<br>弗里德可能在這裡
+147	啊呀，難道你是，<br>布蘭切特？
+148	我是，怎麼了？	VO_blanchett.blanchett_sys_0004
+149	有寄放在這的東西<br>如果你來了，就把它交給你	VO_vanekis.vanekis_sys_0037
+150	咦？<br>看起來很難的書…和漂亮的石頭？	VO_blanchett.blanchett_sys_0005
+151	就算你問我，<br>我也不知道是什麼意思哦？<br>記得…他有說這是“護身符”
+152	太過分了…<br>明明還沒有好好地道別	VO_blanchett.blanchett_sys_0021
+153	有什麼，想和他說的話嗎？	VO_vanekis.vanekis_sys_0004
+154	不是這樣的。不是這樣…<br>只是在分別的時候，<br>有種他會消失的感覺	VO_blanchett.blanchett_sys_0018
+155	這麼難的書，我看不懂…	VO_blanchett.blanchett_sys_0016
+156	…還能見到的<br>不然直接，到他工作的地方去看看？	VO_vanekis.vanekis_sys_0007
+157	工作的地方？	VO_blanchett.blanchett_sys_0005
+158	他是國立圖書館的管理官哦<br>如果在意的話，就去見他吧<br>順便把那本書還給他
+159	國立圖書館…
+160	那麼，快點回去吧<br>太晚的話…
+161	敵襲!!<br>大家，快逃啊…嗚!?	VO_knightm.knightm_sys_0028
+162	什麼!?	VO_vanekis.vanekis_sys_0025
+163	…！　院裡的大家很危險！	VO_blanchett.blanchett_sys_0042
+164	啊，喂！　等一下！<br>現在跑出去很危險啊!!
+165	弗里德大人<br>出發的準備，已經完成了
+166	知道了<br>現在時間寶貴<br>馬上出發	VO_freed.freed_sys_0004
+167	是！<br>備好馬車！<br>我們現在，回王都！	VO_stknightm.stknightm_battle_0002
+168	…抱歉，內維爾<br>那個石頭，我送給她了	VO_freed.freed_sys_0035
+169	（…我為什麼<br>做了這件事呢）	VO_freed.freed_sys_0031
+170	…………
+171	…原來是，我看到她的光輝了啊<br>就算憎恨著什麼<br>也努力活下去的她	VO_freed.freed_sys_0007
+172	有那樣的孩子在…<br>啊啊，拉斯特里斯的未來也一定很光明
+173	呼<br>簡直就是快死的老人才會說的台詞啊	VO_freed.freed_sys_0010
+174	…我這樣的人，也會有嗎？<br>真正感受到『活著』的瞬間…	VO_freed.freed_sys_0016
+175	哦哦哦哦哦哦！	VO_zeke_young.zeke_sys_0032
+176	唔！　敵襲ー！<br>所有人員，準備戰鬥！<br>保護弗里德大人！	VO_stknightm.stknightm_battle_0026
+177	什…!?<br>這個時機!?	VO_freed.freed_sys_0027
+178	不要阻礙我！	VO_zeke_young.zeke_battle_0001
+179	把對戰控制在最低限度！<br>盡快壓制住運貨馬車，準備脫離！
+180	是！	VO_knightm.knightm_sys_0032
+181	你是，吉克！<br>蒼炎騎士團的團長，為什麼在這裡!?	VO_freed.freed_battle_0024
+182	我來解放<br>被你們帶走的孩子們…！	VO_zeke_young.zeke_sys_0013
+183	你在說什麼…	VO_freed.freed_sys_0025
+184	（…！　難道，是領主的指使…！<br>掌握了我們的行動，<br>在我們去向陛下報告前阻止我們！）	VO_freed.freed_sys_0042
+185	即便如此，<br>居然用上了安比利亞的兵，<br>這麼希望挑起戰爭嗎…！	VO_freed.freed_battle_0021
+186	哦哦！	VO_zeke_young.zeke_battle_0007
+187	嗚！	VO_freed.freed_battle_0026
+188	（我這個後勤，沒辦法匹敵！<br>這個時候就要用口才…傻了嗎！　<br>那個吉克，怎麼可能在戰場上改變主意！）
+189	嗚哦哦！
+190	弗里德大人，從留在村裡的兵那裡傳來消息！<br>有什麼人襲擊了村子…！
+191	什麼…!?	VO_freed.freed_sys_0027
+192	（唔！<br>如果這個是領主的企圖的話…）	VO_freed.freed_battle_0021
+193	她…孤兒院的孩子們危險！<br>不快點回到村裡的話…！	VO_freed.freed_battle_0020

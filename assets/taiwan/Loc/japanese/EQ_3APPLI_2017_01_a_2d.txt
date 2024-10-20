@@ -1,0 +1,118 @@
+﻿001	泳池，泳池！<br>溫水游泳池最棒啦！	VO_lizbeth.lizbeth_sys_0023
+002	這是比那斯魔法學校<br>今年第一次進行游泳課的日子
+003	阿爾瑪和瑞貝卡好慢啊<br>還不快點換衣服！	VO_lizbeth.lizbeth_sys_0031
+004	啊…？<br>什麼東西…掉下來了？	VO_lizbeth.lizbeth_sys_0005
+005	哇，金色的鑰匙！<br>是誰掉的東西呢？	VO_lizbeth.lizbeth_sys_0024
+006	好像，有著耀眼的光芒…<br>…哇啊!?	VO_lizbeth.lizbeth_chara_1008
+007	誰能…幫幫忙啊……<br>…這樣下去…太陽……<br>會消失光芒啊…！	VO_amaterasu.amaterasu_sys_0018
+008	請你在此之前……<br>把全部的『太陽鑰匙』……<br>……請你……！	VO_amaterasu.amaterasu_sys_0010
+009	…沒事吧？
+010	…啊？<br>你是…？	VO_lizbeth.lizbeth_sys_0025
+011	被什麼聲音給叫住的莉茲蓓特<br>注意到了這是個未知的空間
+012	我是<p_name><br>感覺像是誰在呼喚著我…<br>…回過神來就在這裡了
+013	我也是！<br>我在學校的泳池發現了這個鑰匙<br>然後鑰匙突然發出光芒…	VO_lizbeth.lizbeth_chara_1007
+014	我就被光芒包圍…<br>然後聽到誰在說著<br>『太陽鑰匙』什麼的…	VO_lizbeth.lizbeth_sys_0031
+015	你也是從“別處”<br>來到這裡的吧<br>…在這兒的好像只有4個人呢	VO_yuri.yuri_sys_0027
+016	…從大家的裝扮看來<br>都是從夏天的休閒活動中<br>來到這裡的吧…	VO_revatein.revatein_sys_0044
+017	…休閒活動？<br>嗯…我是莉茲蓓特<br>比那斯魔法學校的魔法師	VO_lizbeth.lizbeth_sys_0005
+018	本來是要上游泳課的…<br>你們呢？	VO_lizbeth.lizbeth_chara_1024
+019	“殺戮姬”，雷瓦汀…<br>原來學生們還沒有開始放暑假呢	VO_revatein.revatein_sys_0045
+020	啊…初次見面<br>我叫百合<br>是忍者村的“女忍者”	VO_yuri.yuri_sys_1047
+021	我是<p_name><br>並沒有什麼值得一提的稱呼<br>就只是普通人
+022	我也是在海水浴的時候<br>發現了金色的『鑰匙』<br>然後太陽般的光芒…
+023	…啊？<br>這麼一說…<br>『鑰匙』跑到哪裡去了？
+024	咦!?<br>哪兒都沒看見呢…	VO_yuri.yuri_sys_0025
+025	雖然把我們送到這裡來了<br>但是『鑰匙』…<br>被留在當初發現的地方了嗎？	VO_revatein.revatein_sys_0031
+026	…啊？　有了！<br>我這兒有『鑰匙』呢！	VO_lizbeth.lizbeth_chara_1008
+027	神秘的聲音說到的<br>『太陽鑰匙』<br>就是指這個吧？
+028	讓我看看？<br>…嗯，我想我看到的也是與這個相同的『鑰匙』
+029	像太陽那樣散發著強勁的光芒<br>所謂的『太陽鑰匙』…<br>對吧？
+030	對對，就是這麼一回事<br>大家都聽到了那個“聲音”<br>是這樣的對吧？	VO_yuri.yuri_sys_0031
+031	嗯	VO_lizbeth.lizbeth_sys_0004
+032	太陽的光芒會消失什麼的…<br>真的是很恐怖啊…<br>要是這樣就糟糕了	VO_yuri.yuri_sys_0030
+033	不過確實在發現鑰匙之前<br>太陽的光芒好像變弱了<br>不像是夏天的感覺…
+034	在我的國家是沒有夏天的…<br>跟平常相比…寒冷的天氣更多了…	VO_lizbeth.lizbeth_sys_0031
+035	我所在的地方陽光也很微弱<br>被黑雲籠罩著…<br>明明是夏天卻有些寒冷…	VO_revatein.revatein_sys_0004
+036	…看來是有什麼可怕的事情<br>正在進行著呢	VO_yuri.yuri_sys_0022
+037	但是…僅僅憑著這些訊息<br>完全不知道該怎麼辦呢…
+038	莉茲蓓特一邊說著這些<br>一邊盯著『太陽鑰匙』看<br>好像是在尋找線索一樣
+039	如果問問『鑰匙』的話<br>或許還能聽到那個“聲音”嗎!?	VO_lizbeth.lizbeth_chara_1007
+040	嗯…也許吧…	VO_yuri.yuri_sys_0031
+041	…應該沒有這麼簡單吧	VO_revatein.revatein_sys_0040
+042	…喂，呼喚我們的聲音！<br>如果聽的到話，請回答！<br>我們，該怎麼辦呢？	VO_lizbeth.lizbeth_sys_0001
+043	啊！<br>…我的聲音，傳達給你們了…<br>太好了…	VO_amaterasu.amaterasu_sys_0024
+044	!!	VO_lizbeth.lizbeth_battle_1017
+045	啊!?<br>鑰匙開始發光了…！<br>出現了女子的身影!?	VO_lizbeth.lizbeth_sys_0009
+046	…呼喚我們的，<br>就是你嗎？	VO_revatein.revatein_sys_0001
+047	是的！希望得到你們的幫助<br>向你們發出請求的，就是我
+048	…啊，抱歉！<br>我忘了自我介紹…<br>我叫做天照	VO_amaterasu.amaterasu_chara_1001
+049	我也被稱為<br>『掌管太陽之人』…
+050	這個稍後再說吧…<br>你說需要我們的幫忙嗎？<br>需要我們做什麼呢？	VO_revatein.revatein_sys_0016
+051	啊！是、是的！<br>…需要你們幫忙<br>取回『太陽鑰匙』！	VO_amaterasu.amaterasu_sys_0025
+052	這樣下去的話，<br>太陽的光芒會消失的…	VO_amaterasu.amaterasu_sys_0018
+053	話說回來，<br>太陽的光芒<br>似乎比之前弱了呢	VO_yuri.yuri_sys_0031
+054	這是因為『太陽鑰匙』<br>被拿走了的緣故嗎!?<br>…怎麼辦啊!!	VO_lizbeth.lizbeth_sys_0025
+055	這個『太陽鑰匙』<br>到底是什麼呢…？	VO_yuri.yuri_sys_0001
+056	啊…是呢<br>不解釋一下大家無法理解呢	VO_amaterasu.amaterasu_chara_1001
+057	『太陽鑰匙』<br>是控制世界的晝夜<br>必要的道具	VO_amaterasu.amaterasu_sys_0022
+058	每個世界都應該有一把的<br>但是全部都被拿走了…
+059	被拿走了…<br>這麼重要的東西？	VO_revatein.revatein_sys_0027
+060	…你說的話若是屬實，<br>那就不應該是<br>會輕易被奪走的東西啊	VO_revatein.revatein_event1013
+061	我也是完全沒想到<br>會變成這樣啊…！	VO_amaterasu.amaterasu_sys_0018
+062	存放『鑰匙』的『黃昏空間』<br>有強大的太陽保護<br>除了我以外，別人應該進不去的…
+063	但是『黃昏空間』<br>居然被負能量包圍<br>而失去了太陽保護
+064	真是預料之外…<br>並且能做出這種事的人<br>我也想不到…	VO_amaterasu.amaterasu_sys_0022
+065	嗯～，不是很理解<br>總之就是大意了吧？	VO_lizbeth.lizbeth_sys_0031
+066	嗚嗚！<br>…但、但是，不僅是如此啊！	VO_amaterasu.amaterasu_battle_0019
+067	晝夜交替的黃昏時分<br>是必須更集中精神工作的<br>這種時候被趁虛而入也是沒有辦法…
+068	果然就是大意了<br>是的吧？	VO_yuri.yuri_sys_0016
+069	嗚嗚…<br>我沒想過會這樣的…	VO_amaterasu.amaterasu_sys_0018
+070	不管是不是大意了…<br>…總之對方…技高一籌啊	VO_revatein.revatein_sys_0022
+071	那個…奪取『太陽鑰匙』的傢伙<br>是基於什麼目的，知道嗎？
+072	…這個剛才就說了<br>為了讓太陽失去光芒…	VO_amaterasu.amaterasu_sys_0022
+073	讓所有世界沒有陽光照射<br>都變成黑暗的世界…
+074	…變成黑暗的世界，<br>會有什麼問題呢？	VO_revatein.revatein_event1013
+075	黑暗的世界就是大問題啊！	VO_lizbeth.lizbeth_sys_0029
+076	這是必然的…<br>但是不僅僅是如此	VO_amaterasu.amaterasu_sys_0010
+077	在失去太陽光芒的世界，<br>人們的心，也會逐漸被黑暗侵蝕
+078	失去希望，思考悲觀的事物<br>只會哀嘆著不幸…
+079	…很悲慘的世界…
+080	這麼恐怖的事情<br>必須要阻止！	VO_lizbeth.lizbeth_sys_0027
+081	所以…這把鑰匙，<br>蘊含著這樣的力量…
+082	…大家的目光<br>轉移到莉茲蓓特所持有的『太陽鑰匙』上<br>這時…
+083	…哇!?<br>追兵…!!	VO_amaterasu.amaterasu_battle_0016
+084	!!
+085	突發的異變，<br>大家都了解了<br>她陷入了危險
+086	必須馬上救她…<br>不過，天照在哪裡呢？<br>不知道的話，怎麼幫忙啊!?
+087	快，快使用『鑰匙』！	VO_amaterasu.amaterasu_battle_0019
+088	擁有太陽之力的『太陽鑰匙』，<br>一定能指明掌管太陽的我<br>所在的方位的…
+089	那麼，馬上行動！
+090	『太陽鑰匙』…<br>請快把我們<br>帶到天照那裡吧!!	VO_lizbeth.lizbeth_sys_0041
+091	就像感受到了莉茲蓓特的祈求<br>『太陽鑰匙』開始發出光芒――
+092	光芒扭曲了空間，<br>出現了一扇黃金之門
+093	那是？	VO_revatein.revatein_sys_0025
+094	那是哪裡？	VO_yuri.yuri_sys_0031
+095	啊！　我在課堂上看到過同樣的畫面！<br>巴貝爾大陸…我的世界!!	VO_lizbeth.lizbeth_chara_1007
+096	你的世界…？	VO_revatein.revatein_sys_0044
+097	嗯！<br>…這麼說來，<br>天照是從巴貝爾大陸的哪裡來的嗎!?	VO_lizbeth.lizbeth_sys_0004
+098	那麼我們上吧…<br>前往巴貝爾大陸！
+099	但是沒問題嗎？<br>前往這樣未知的世界…？	VO_lizbeth.lizbeth_sys_0048
+100	我們原本就是來幫忙的<br>去哪裡都沒關係的	VO_revatein.revatein_sys_0004
+101	嗯，就是這樣<br>…比起誰都不知道的世界<br>去到莉茲蓓特的世界的話，也算安心了
+102	那我帶路！<br>那麼大家走吧!!<br>前往門的另一邊！	VO_lizbeth.lizbeth_sys_0004
+103	為了幫助天照，<br>４人衝向了門的另一邊
+104	等待著他們的命運到底是…!?
+105	…到底會如何發展呢<br>拭目以待吧
+106	啊…這是…？<br>哪裡的…海…？	VO_lizbeth.lizbeth_chara_1008
+107	是啊<br>說是沒有夏天的國度…<br>這不是莉茲蓓特的國家嗎？	VO_yuri.yuri_sys_0031
+108	是的…大概是附近的國家<br>…也許吧
+109	那麼，天照到底在哪裡呢？<br>必須馬上去幫助她…
+110	…那邊、在那邊停泊的船上	VO_revatein.revatein_battle_0001
+111	…不過好像，無法立刻幫助她啊？	VO_revatein.revatein_sys_0022
+112	唔啊啊啊!!
+113	真是的…怎麼突然！<br>別阻擋我啊!!	VO_lizbeth.lizbeth_battle_1017
+114	沒辦法避開它們，<br>用武力解決吧…<br>上吧！	VO_yuri.yuri_battle_1014
+115	好不容易來幫忙了…<br>我們也拿出真本事來吧…	VO_revatein.revatein_sys_0007
+116	喝啊啊啊！
+117	你們等等啊～！<br>啊，<p_name>別擔心<br>我會守護你的！	VO_lizbeth.lizbeth_sys_0002
+118	拿著各自的武器<br>她們衝了出去――

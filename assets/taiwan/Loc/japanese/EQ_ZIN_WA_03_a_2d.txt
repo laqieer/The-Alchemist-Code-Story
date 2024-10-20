@@ -1,0 +1,62 @@
+﻿001	我叫做聖<br>你是藥師嗎…？	VO_knightf.knightf_sys_0003
+002	…嗯…是的	VO_zin.zin_sys_0004
+003	拜託了…<br>救救我的村子…！	VO_knightf.knightf_sys_0019
+004	聖，到底怎麼了？<br>不詳細說的話不知道啊？	VO_aqil.aqil_sys_0003
+005	是…<br>我村子裡的許多人<br>都和我一樣生病了…！	VO_knightf.knightf_sys_1019
+006	我的村子一直以來<br>打造了許多刀具…！
+007	是綿津見有名的<br>鍛冶刀的村子…！<br>我的父親是很厲害的鍛冶師！
+008	這樣下去…村子…村子的技能就…！	VO_knightf.knightf_sys_0042
+009	知道了，聖<br>去村子吧。你的村子在哪裡呢？	VO_zin.zin_sys_0004
+010	在山的對面…<br>有個峽谷…	VO_knightf.knightf_sys_0018
+011	喂！　聖…！	VO_aqil.aqil_battle_1018 
+012	沒事的<br>只是睡著了…	VO_zin.zin_sys_0039 
+013	是嗎…那就好…	VO_aqil.aqil_sys_0020
+014	…頂著“鬼血病”的高熱<br>翻過山，再來到這裡…<br>需要相當的力氣啊…	VO_zin.zin_sys_0031
+015	嗯…<br>好的！　那麼去聖的村子吧！	VO_aqil.aqil_sys_0005
+016	你也去嗎…？<br>這個山裡<br>據說魔物很多啊	VO_zin.zin_sys_0025
+017	很危險的… 
+018	現在還說這些嗎<br>當然要去了？	VO_aqil.aqil_sys_0030
+019	聖的村子<br>不是這個國家知名的鍛冶村嗎？	VO_aqil.aqil_sys_0002
+020	綿津見的刀劍能在那裡買到的話<br>就是商機啊！
+021	是嗎…<br>你是<br>自由的旅行商人吧…	VO_zin.zin_sys_0010
+022	對對	VO_aqil.aqil_sys_0004
+023	…對我來說<br>我希望你快點<br>把鬼血病的藥丸給傳遞出去…	VO_zin.zin_sys_0030
+024	我有聽過<br>這個國家的諺語？	VO_aqil.aqil_sys_1014
+025	…？	VO_zin.zin_chara_1002
+026	『旅遊就是隨性的』！	VO_aqil.aqil_sys_0007
+027	既然這麼說的話<br>『旅行就要帶上我哦』
+028	哎…<br>好吧好吧…<br>來就來吧	VO_zin.zin_sys_0030
+029	聖由我來背著<br>你保護好自己
+030	好！<br>不會給你添麻煩的！<br>…只是	VO_aqil.aqil_sys_0004
+031	危險的時候要救我啊！	VO_aqil.aqil_sys_0041
+032	…………
+033	啊啊…這個山道…<br>也太長了…<br>跟沙漠比起來差好多…	VO_aqil.aqil_battle_0022
+034	…不稍微休息一會兒嗎？	VO_aqil.aqil_sys_0003
+035	…病人還在呢。分秒必爭<br>而且…	VO_zin.zin_sys_0040
+036	“不會添麻煩的”<br>是你說的吧？
+037	是的！　<br>不會添麻煩的！走吧！<br>這種程度我受得了！	VO_aqil.aqil_sys_0018
+038	別逞強…<br>…第一次看到你就覺得<br>你是沙漠來的？	VO_zin.zin_sys_0030
+039	對。在沙漠出生的	VO_aqil.aqil_sys_0005
+040	…果然<br>這樣就懂了	VO_zin.zin_sys_0009
+041	嗯？　怎麼了？	VO_aqil.aqil_battle_1018
+042	那個地方的人，就像沙漠之風一樣<br>不被任何事情所束縛<br>而且還很開朗	VO_zin.zin_sys_0005
+043	你就是沙漠人民的特性	VO_zin.zin_sys_0007
+044	沙漠之民<br>原本就是追逐水源的遊牧民族<br>不可能老待在同一個地方	VO_aqil.aqil_sys_0005
+045	而且那麼熱的沙漠<br>土地的枯竭越來越嚴重<br>怎麼受的了啊？　哈哈	VO_aqil.aqil_sys_0007
+046	聽你的口氣<br>似乎去過？	VO_aqil.aqil_sys_0001
+047	嗯。雖然時間很短	VO_zin.zin_sys_0004
+048	不錯的地方…<br>對我這的外來者<br>還是很照顧我
+049	你開心就好了！	VO_aqil.aqil_sys_0007
+050	對了<br>那邊的食物好吃嗎？<br>吃過羊嗎？	VO_aqil.aqil_battle_1018
+051	嗯…<br>不過不覺得羊肉好吃啊<br>呃…	VO_zin.zin_sys_0004
+052	我呢<br>喜歡燉豆子
+053	那個啊～<br>我對燉豆子比較不喜歡…<br>那麼小麥麵如何？	VO_aqil.aqil_sys_1014
+054	麵嗎<br>嗯…那個確實不錯<br>我也滿喜歡的	VO_zin.zin_sys_0031
+055	對吧!?<br>說到吃的東西<br>就開始流口水了呢…	VO_aqil.aqil_sys_0007
+056	即使出去旅行了<br>家鄉的味道還是難忘啊
+057	嗯…是呢…<br>我昨天剛到綿津見<br>立刻就吃了梅干飯糰…	VO_zin.zin_sys_0007
+058	太懷念了，眼淚都快掉出來了
+059	是嗎…	VO_aqil.aqil_sys_0020
+060	…！<br>小心…有什麼	VO_zin.zin_sys_0027
+061	…山裡的魔物？<br>來的好快…	VO_aqil.aqil_sys_0045
+062	…來了!!	VO_zin.zin_battle_0019

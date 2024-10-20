@@ -1,0 +1,224 @@
+001	那麼…接二連三暗殺國內貴族的<br>就是他一個人嗎…？
+002	的確如此。為了這種事情<br>讓你煩心真是抱歉…！　必須<br>要讓國家強大了，在這個重要的時刻…！	VO_stknightm.stknightm_sys_0027
+003	但是也不能這樣<br>放任不管。果然，還是需要蒼炎騎士團<br>出面應對嗎…
+004	讓蒼炎騎士團…!?　但是…他們<br>一旦離城的話…到時陛下和我們<br>就很可能成為目標了…!!	VO_knightm.knightm_sys_0025
+005	那麼你覺得應該怎樣呢…？<br>難道對城外的人<br>見死不救嗎…？	VO_thiefm.thiefm_sys_0031
+006	我可沒這樣說！　…但是…	VO_knightm.knightm_battle_0019
+007	但是…大規模出動蒼炎騎士團的話，<br>國民也會感到不安…<br>這件事必須秘密處理	VO_stknightm.stknightm_sys_0031
+008	所以就需要想個辦法啊…！<br>事態緊急…一旦延誤了，<br>一切就晚了…!!	VO_thiefm.thiefm_sys_0018
+009	…現在連法律都還沒有制定好…<br>蒼炎騎士團不在的情況下一旦發生什麼事情<br>其后果不可估量…
+010	…現在是緊急事態<br>為了保護城外居民，募集傭兵吧…<br>緊急傳令去吧！
+011	是!!
+012	啊…！　到底是誰…<br>為了什麼目的…！	VO_stknightm.stknightm_battle_0022
+013	果然…<br>“有那個的男人”就是不同啊…！	VO_natalie.natalie_sys_0023
+014	有那個…？	VO_vetel.vetel_sys_0025
+015	“運氣”啊，“運氣”！維特爾剛當上團長<br>就收到了國家的委托!?<br>這不是很厲害嗎…!?	VO_natalie.natalie_sys_0008
+016	…好像在說我運氣很差一樣	VO_gerard.gerard_sys_0002
+017	不過我們還沒有認同<br>他是團長啊…	VO_thiefm.thiefm_sys_1047
+018	你們真是小氣…<br>就是因為這樣才只能呆在這種<br>小小的傭兵團里啊	VO_natalie.natalie_sys_0030
+019	…娜塔莉你是什麼立場啊？	VO_gerard.gerard_sys_0031
+020	所以啦！　我們要完美地完成這次委托，<br>然後把“緋色之團”給做大啊！<br>但是暗殺者真的會來嗎…？	VO_natalie.natalie_sys_0016
+021	…安比利亞的要員和貴族<br>接連被暗殺也是事實	VO_vetel.vetel_sys_0031
+022	這麼大的事情蒼炎騎士團居然不出動…	VO_gerard.gerard_sys_0030
+023	雖然國家還沒有完全構建起來，<br>但是連國民都守護不了…<br>也太丟人了	VO_gerard.gerard_sys_0016
+024	別這麼說。他們肯定也不是<br>故意不出動的…	VO_vetel.vetel_sys_0030
+025	一定是城里的警戒很忙<br>想動也動不了。畢竟<br>獨立之后才沒多久呢
+026	…那也是多虧了如此我們才有生意呢<br>應該感謝他們	VO_gerard.gerard_sys_0010
+027	那麼…在這種時間…<br>…來我這裡有何貴干…？
+028	…！
+029	沒…最近一直都有事件發生<br>因此我們來此巡邏…<br>…你呢？	VO_vetel.vetel_event_1015
+030	這樣嗎。我…我是這間<br>別墅的傭人。我剛剛完成了<br>主人交代的任務…
+031	你也聽說過了吧，最近事件連連<br>晚上還是要小心	VO_gerard.gerard_sys_0002
+032	哎呀呀，感謝<br>你們的關心。…那麼…
+033	…這裡好像沒事呢<br>…我們也繞到后面去看看？	VO_natalie.natalie_sys_0002
+034	…就這樣吧<br>維特爾，拜托你指揮了	VO_gerard.gerard_sys_0004
+035	啊…？　杰拉德你呢？	VO_natalie.natalie_sys_0006
+036	我有些在意的事情…這裡交給你了	VO_gerard.gerard_sys_0039
+037	喂喂…!?<br>…杰拉德!!	VO_natalie.natalie_sys_0027
+038	算了。他不是沒有理由會亂來的人…<br>我們靜觀其變吧	VO_vetel.vetel_sys_0007
+039	啊…!?　真是的…作為原團長，<br>也太不穩重了…	VO_natalie.natalie_sys_0029
+040	我們還覺得他是團長呢	VO_thiefm.thiefm_sys_1047
+041	囉唆!!	VO_natalie.natalie_sys_0012
+042	…呼…。…睡一覺吧…
+043	…一點緊張感都沒有…真的是
+044	誰，你是誰…!?	VO_knightm.knightm_sys_0025
+045	…啊!!　無聊，無聊<br>無聊，無聊!!	VO_ren.ren_sys_0013
+046	真是一點都不讓人激動!!<br>你怎麼滿是破綻!?<br>動物的本能都沒有!?	VO_ren.ren_sys_0029
+047	偽裝…!?<br>你，你，到底是誰!?	VO_knightm.knightm_sys_0042
+048	我？　我是暗殺者啊<br>是你在世界上見到的最後一個男人…<br>這可是我的固定臺詞	VO_ren.ren_sys_0006
+049	但是用在你這種無聊的家伙上<br>真是有點浪費了	VO_ren.ren_sys_0030
+050	啊，暗殺者…!?<br>難道是最近事件的…!?	VO_knightm.knightm_sys_0020
+051	你的反應真沒意思啊!!　和那些死去的家伙<br>都是一個反應…<br>難道這很流行嗎？	VO_ren.ren_sys_0013
+052	哇…哇啊…！<br>救命啊!!	VO_knightm.knightm_sys_0028
+053	哇…連遺言都一樣啊…？<br>沒其他的嗎？	VO_ren.ren_sys_0028
+054	“休想得逞!! ”什麼的…<br>“我等待這個瞬間<br>已經很久了”什麼的？	VO_ren.ren_chara_1006
+055	哇啊…！　哇啊…!!	VO_knightm.knightm_sys_0019
+056	…果然沒反應。就這樣結束了<br>哎…又沒遇到。為什麼啊<br>這種無聊的任務！	VO_ren.ren_sys_0030
+057	…快點去死吧	VO_ren.ren_battle_0014
+058	哇啊…!!	VO_knightm.knightm_sys_0018
+059	…！　…啊…？	VO_ren.ren_sys_0025
+060	…你的話真多。你似乎<br>不適合做暗殺者吧？	VO_gerard.gerard_sys_0030
+061	哇啊…哇啊…！<br>救命啊…!!	VO_knightm.knightm_sys_0019
+062	不用你說我也會救你的，<br>好歹這是國家交給我的任務	VO_gerard.gerard_sys_0004
+063	…你是誰…？	VO_ren.ren_sys_0001
+064	…我是“緋色之團”副團長杰拉德<br>是安比利亞雇的傭兵	VO_gerard.gerard_sys_0010
+065	傭兵…？　…哈…。…呵呵…	VO_ren.ren_sys_0006
+066	…？	VO_gerard.gerard_sys_0006
+067	…！　呵呵…哈哈哈！<br>真棒…你太棒了！	VO_ren.ren_sys_0010
+068	太好了，太好了，太好了!!<br>這種緊張的壓迫感<br>我早就想嘗試一下了!!	VO_ren.ren_sys_0046
+069	你太棒了!!	VO_ren.ren_sys_0023
+070	…你怎麼了？	VO_gerard.gerard_sys_0002
+071	我還想問你啊！<br>為什麼看穿我了!?<br>我的假發暴露了!?	VO_ren.ren_sys_0006
+072	…那種滿是破洞的偽裝<br>覺得正常才奇怪了。記住…沒有哪個老頭<br>是可以不發出聲音走路的	VO_gerard.gerard_sys_0017
+073	腳步聲！ 原來如此!!	VO_ren.ren_sys_0045
+074	不，這只是小問題…	VO_gerard.gerard_sys_0016
+075	就算偽裝是完美的<br>但是你釋放出那麼強烈的殺氣<br>就好像叫人注意你一樣
+076	殺氣…!!<br>…你真了不起…	VO_ren.ren_sys_0025
+077	…什麼…？
+078	真棒，真棒，真棒，真棒…!!<br>你真是最棒了!!	VO_ren.ren_sys_0046
+079	這就是我所追求的狀況！<br>哇噢!!	VO_ren.ren_sys_0008
+080	來了，來了啊!!	VO_knightm.knightm_sys_0028
+081	是的…！　我所追求的不是我的目標<br>而是守衛目標的強大護衛！	VO_ren.ren_sys_0010
+082	擊敗強大的護衛<br>完美地完成工作，這種狀況<br>是我熱切期盼的！
+083	…謝謝了，愚蠢的貴族！<br>快點死掉滿足我吧！	VO_ren.ren_sys_0033
+084	…！	VO_ren.ren_sys_0026
+085	…我說過你太囉唆了吧？<br>…貴族大人快點跑吧，在這裡只會礙手礙腳	VO_gerard.gerard_sys_0002
+086	抱…抱歉！　謝，謝謝你!!	VO_knightm.knightm_sys_0027
+087	哎呀!?　站住啊…	VO_ren.ren_sys_0025
+088	不，不會讓你過去…<br>這也是我的任務	VO_gerard.gerard_sys_0039
+089	…哼!!　好啊!!<br>同樣是被雇傭的人，要進行代理戰爭嗎！<br>你真是太棒了!!	VO_ren.ren_sys_0024
+090	…虧你在戰鬥之前<br>能喋喋不休說這麼多	VO_gerard.gerard_sys_0030
+091	戰鬥之前…？　你說什麼呢，早就已經<br>分出勝負了啊	VO_ren.ren_sys_0006
+092	什麼…？	VO_gerard.gerard_sys_0027
+093	!?　…啊…！<br>怎麼會…你是何時…!?	VO_gerard.gerard_sys_0042
+094	你怎麼可以忘記呢！<br>我的職業可是暗殺者啊…！	VO_ren.ren_sys_0010
+095	我叫雷恩…是你在世界上<br>見到的最後一個男人
+096	嘔咕…！	VO_gerard.gerard_battle_0022
+097	真糟糕呀，因為你這個夜晚<br>變成最棒的啦！　…雖然很可惜，<br>但我必須去追那個貴族了	VO_ren.ren_sys_0008
+098	任務就是任務…必須要<br>當場完成的。…謝了！<br>什麼什麼團的副團長先生！	VO_ren.ren_sys_0030
+099	啊…？　…哇啊！	VO_ren.ren_sys_0025
+100	唔…。我是…<br>“緋色之團”的副團長…杰拉德…！<br>現在就讓你忘不掉…！	VO_gerard.gerard_battle_0019
+101	好痛…！　居然用力甩也甩不掉你…<br>但是…激動，激動，激動，激動<br>我越來越激動了啊!!	VO_ren.ren_sys_0042
+102	啊…！　你這張喋喋不休的嘴，<br>我會讓它閉上的…啊…！	VO_gerard.gerard_sys_0025
+103	嘔…！　在這種時候…<br>快動啊，我的腳…!!	VO_gerard.gerard_battle_0019
+104	哎，雖然我不想這麼快就結束<br>但是愉快的時間總是會迎來終結的<br>很遺憾，這樣就結束了副團長先生！	VO_ren.ren_sys_0030
+105	嘔唔…！　…可惡!!!	VO_gerard.gerard_battle_0019
+106	…!?	VO_ren.ren_sys_0026
+107	…你被逼到這個地步<br>可見是個很難纏的對手啊？	VO_vetel.vetel_battle_0002
+108	!?
+109	抱歉，我有點遲到了啊…？	VO_vetel.vetel_sys_0035
+110	恩…是太遲了啊，笨蛋	VO_gerard.gerard_sys_0004
+111	哎呀…伙伴登場了嗎…。看來<br>局勢要逆轉了…？　…但是，<br>這對我來說是更好的情況啊！	VO_ren.ren_sys_0025
+112	…“更好”…？	VO_vetel.vetel_sys_0025
+113	…這家伙廢話很多	VO_gerard.gerard_battle_0019
+114	雖然有些辛苦…<br>但是任務必須完成…<br>…抱歉，這樣就結束了！	VO_ren.ren_sys_0035
+115	啊…！　維特爾！<br>他很快的，小心!!	VO_gerard.gerard_sys_0025
+116	…！ 不會吧…你能看到我的動作…!?	VO_ren.ren_sys_0025
+117	恩…我在聖教騎士團<br>是和各種麻煩的敵人對峙過來的	VO_vetel.vetel_sys_0030
+118	哇!?　不是吧！<br>你是聖教騎士團員!?	VO_ren.ren_sys_0026
+119	我已經辭職了，是“原”團員	VO_vetel.vetel_sys_0004
+120	不會吧！　真的很厲害!!<br>那這招如何？	VO_ren.ren_sys_0025
+121	喝…!?	VO_vetel.vetel_sys_0042
+122	哇啊…！　果然，<br>幾乎都看得到啊！<br>你也好棒!!	VO_ren.ren_sys_0027
+123	維特爾是“緋色之團”的團長…<br>可不要小看他	VO_gerard.gerard_sys_0010
+124	…不…	VO_vetel.vetel_battle_0019
+125	…？
+126	…!!　你被打到了嗎…!?	VO_gerard.gerard_sys_0027
+127	糟糕啊…他的身手相當厲害	VO_vetel.vetel_sys_0042
+128	哇！<br>不會吧！　不會吧！　不會吧！　不會吧！	VO_ren.ren_sys_0023
+129	被聖教騎士認可真是太好了！<br>啊…是“原來的”。“原來的”！	VO_ren.ren_sys_0009
+130	別大意，維特爾…！　這家伙一邊說著<br>就會突然襲擊過來…	VO_gerard.gerard_sys_0002
+131	杰拉德！　維特爾！　沒事吧…!?	VO_natalie.natalie_sys_0016
+132	娜塔莉!?	VO_gerard.gerard_sys_0025
+133	哎呀…？　我的運氣來了…？<br>…你們的弱點，朝我<br>走過來了？	VO_ren.ren_sys_0006
+134	!?　快跑，娜塔莉!!	VO_gerard.gerard_sys_0027
+135	啊…!?	VO_natalie.natalie_sys_0025
+136	抱歉…對付那些內心強大的人<br>要讓他們大吃一驚才好呢<br>…別恨我哦？	VO_ren.ren_sys_0010
+137	!?　…不要!!!!	VO_natalie.natalie_sys_0028
+138	…！
+139	…啊…!!	VO_vetel.vetel_battle_0023
+140	維特爾！　…維特爾!!	VO_natalie.natalie_sys_0021
+141	太好了…！<br>這是超乎想象的收獲啊!!	VO_ren.ren_sys_0009
+142	不惜犧牲自己的手腕來保護女人…果然…！<br>你最棒啦!!	VO_ren.ren_sys_0008
+143	…很痛吧，維特爾…<br>但是，你只要再忍一下就好了	VO_gerard.gerard_sys_0036
+144	…！　想從背后打我嗎…？<br>休想…	VO_ren.ren_sys_0006
+145	…!?　無法拔劍…<br>放開我！　快放開我啊!!	VO_ren.ren_sys_0025
+146	…已經遲了	VO_gerard.gerard_sys_0010
+147	!?	VO_ren.ren_battle_0019
+148	這個距離你別想逃跑了…<br>結束了	VO_gerard.gerard_battle_0004
+149	哇啊…!?　…哇啊啊啊!!	VO_ren.ren_sys_0026
+150	…等等，杰拉德!!	VO_vetel.vetel_sys_0018
+151	怎麼…!?	VO_gerard.gerard_sys_0027
+152	!?
+153	…我想問一句…<br>你…是為了什麼揮劍的…？	VO_vetel.vetel_battle_0019
+154	…啊…？　是想問誰委托我的…？<br>不管怎麼樣這是不能說的…<br>這是我們這一行業的規矩	VO_ren.ren_sys_0025
+155	不是的…。你…你自己，<br>為了什麼而揮劍呢	VO_vetel.vetel_battle_0021
+156	為何…？<br>是…為了錢？<br>…額!!	VO_ren.ren_sys_0031
+157	別動!!<br>敢動我就要你命!!	VO_gerard.gerard_sys_0002
+158	…哇啊…真是頭疼啊…	VO_ren.ren_sys_0030
+159	…錢…。…就為了這種事情<br>要取人性命嗎…	VO_vetel.vetel_chara_1007
+160	那個…想說教就免了吧？<br>漂亮話誰不會說…比那個高聳入云的<br>巴貝爾塔還要高的漂亮話我都聽過了	VO_ren.ren_sys_0002
+161	話說回來…性命<br>不就是奪取或者被奪取的關系嗎？	VO_ren.ren_sys_0007
+162	你個混蛋…!!	VO_gerard.gerard_sys_0012
+163	等等，杰拉德!!　…我不是打算<br>對你說教。只是…問你<br>這樣做真的開心嗎	VO_vetel.vetel_sys_0014
+164	…開心…？	VO_ren.ren_sys_0025
+165	是啊…。…抱歉，我有點痛…<br>可以把劍從我手上拔出來嗎？	VO_vetel.vetel_battle_0019
+166	…好啊<br>…反正我亂動就會死唄？	VO_ren.ren_sys_0037
+167	是的！	VO_gerard.gerard_sys_0004
+168	別這樣。…好痛…。真是把厲害的劍…<br>保養的很好…	VO_vetel.vetel_sys_0014
+169	…謝謝…	VO_ren.ren_sys_0034
+170	而且還有這麼強大的實力…<br>你的才能…僅僅為了錢去使用<br>豈不是太可惜了？	VO_vetel.vetel_sys_0004
+171	啊…？	VO_ren.ren_sys_0025
+172	不管你如何為別人揮劍，<br>只不過是多收到一些紙幣罷了<br>比起這個…	VO_vetel.vetel_sys_0016
+173	如果你的劍能夠讓成百，成千…<br>甚至數萬人展現出自己的笑容…<br>那豈不是更有趣嗎…
+174	!?　…數萬的…笑容…？	VO_ren.ren_sys_0025
+175	目前才剛剛出動，<br>還只有數十人左右…	VO_vetel.vetel_event_1015
+176	但是…總有一天會變成<br>有如此巨大影響力的騎士團的
+177	…！
+178	比起活在陰暗處奪取他人的生命…<br>保護他人，在笑容的包圍中生活…	VO_vetel.vetel_sys_0001
+179	這樣豈不是…你所說的<br>“最棒”的感覺嗎？
+180	…！
+181	…你跟我說這些話<br>到底是想干嘛？	VO_ren.ren_sys_0001
+182	說話…？<br>不，我是想勸降你呢	VO_vetel.vetel_sys_0025
+183	啊…？	VO_ren.ren_sys_0025
+184	!?　喂，不是吧…	VO_gerard.gerard_sys_0027
+185	我們“緋色之團”需要他的力量<br>他在的話，我們定能如虎添翼…<br>是我的直覺吧	VO_vetel.vetel_sys_0004
+186	什麼!?	VO_gerard.gerard_sys_0012 
+187	如何…？　有反對的嗎？	VO_vetel.vetel_sys_0007
+188	反對!!　絕對反對!!<br>我差點被殺了啊!?	VO_natalie.natalie_sys_0040
+189	但是結果你沒事嘛…<br>未遂啦，未遂。我會讓他好好謝罪的？	VO_vetel.vetel_sys_0025
+190	不…你怎麼這麼傻!?<br>不是這個問題好吧!?	VO_natalie.natalie_sys_0029
+191	那是什麼問題	VO_vetel.vetel_sys_0031
+192	…哈哈…啊哈哈哈!!	VO_ren.ren_sys_0010
+193	…你笑什麼？<br>我是認真的啊？	VO_vetel.vetel_sys_0016
+194	抱歉，抱歉，抱歉，抱歉！ <br>不…我先說好，我可是殺手啊？	VO_ren.ren_sys_0035
+195	不好，我真的被你打動了…這麼<br>聚焦了有趣的人的傭兵團，<br>真是聞所未聞啊！	VO_ren.ren_sys_0008
+196	…！　那麼…	VO_vetel.vetel_sys_0007
+197	不，一碼歸一碼的	VO_ren.ren_chara_1006
+198	啊…!!	VO_vetel.vetel_battle_0022
+199	劍被…!!　…杰拉德!!	VO_natalie.natalie_sys_1034
+200	等等!!	VO_vetel.vetel_battle_0019
+201	額…！	VO_gerard.gerard_battle_0019
+202	…放心吧，和你們戰鬥<br>已經沒意義了。那個愚蠢的貴族<br>也已經逃跑了…	VO_ren.ren_sys_0007
+203	…額…這麼說<br>愚蠢的反而是我啦…!?	VO_ren.ren_sys_0006
+204	雖說這是你被委托的任務…<br>但我還是希望你放過他<br>我不想再和你戰鬥了	VO_vetel.vetel_sys_0001
+205	…你說的是認真的嗎…？<br>你真是很有趣呢	VO_ren.ren_sys_0016
+206	等等…！<br>剛才的…回答呢？	VO_vetel.vetel_sys_0042
+207	…怎麼說呢？　我要向委托方匯報<br>任務失敗…然後再說吧	VO_ren.ren_chara_1006
+208	…不過任務雖然失敗…<br>但今晚很開心！<br>謝謝了，奇怪的騎士們！	VO_ren.ren_chara_2006
+209	!?　等等…!!	VO_vetel.vetel_sys_0018
+210	誰奇怪…啊…
+211	維特爾!?　沒事吧!?	VO_natalie.natalie_sys_0026
+212	恩恩…。血流得<br>有點多啊…	VO_vetel.vetel_sys_0027
+213	真是的…<br>這個團長怎麼這麼傻？	VO_thiefm.thiefm_sys_0030
+214	是啊，很傻	VO_thiefm.thiefm_sys_0004
+215	超級傻	VO_thiefm.thiefm_sys_0045
+216	…我也是會生氣的哦？	VO_vetel.vetel_battle_0022
+217	啊…？　你們…剛才叫“團長”嗎…	VO_natalie.natalie_sys_0006
+218	…有啥辦法，不得不認同啊	VO_thiefm.thiefm_sys_0007
+219	為何…？
+220	不惜犧牲自己的手臂，也要救<br>娜塔莉…。看到這樣的舉動<br>誰還能反對呢？	VO_thiefm.thiefm_sys_0030
+221	你們…！	VO_gerard.gerard_sys_0009
+222	快起來…笨蛋團長	VO_thiefm.thiefm_sys_0016
+223	喂，娜塔莉…快點為這個<br>笨蛋團長治傷吧	VO_thiefm.thiefm_sys_0002
+224	…我也是會生氣的哦？	VO_vetel.vetel_battle_0022

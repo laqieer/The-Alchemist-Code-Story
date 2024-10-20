@@ -1,0 +1,40 @@
+001	…………
+002	那邊的新人！不要東張西望的！<br>接下來我要對作戰進行說明！	VO_thiefm.thiefm_sys_0002
+003	…啊，是！對不起！	VO_retzius.retzius_sys_0027
+004	聽好了，最近有一個手段殘忍的盜賊團<br>不清楚對方會出什麼招<br>也可能會因此喪命	VO_thiefm.thiefm_sys_0030
+005	不過，為了維護沙漠的秩序<br>此次的任務雖只是前哨戰<br>但也是為了打擊盜賊團的重要戰鬥！
+006	……！
+007	新人，你有認真在聽嗎？	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+008	啊，是！在聽！	VO_retzius.retzius_sys_0027
+009	要認真聽進去<br>因為不知道什麼時候會丟失性命<br>對方可是亡命之徒	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+010	是<br>…果然很厲害啊，大哥
+011	哎？	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+012	賭上性命去執行任務<br>我現在才第一次真正感受到
+013	…明明是這麼恐怖的事<br>卻能那樣酷地去完成工作	VO_retzius.retzius_sys_1019
+014	啊？你在說誰的事啊？	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+015	…我大哥的事	VO_retzius.retzius_sys_0007
+016	你要找的那個人<br>…在沙漠裡	VO_deneb.deneb_sys_0004
+017	額…話說<br>我想問的是更…<br>具體一點的住所之類的？	VO_retzius.retzius_sys_0025
+018	不需要著著急<br>相互吸引的星星<br>總有一天會相見的	VO_deneb.deneb_sys_0007
+019	哎，我想現在馬上<br>見到大哥啊！	VO_retzius.retzius_sys_0027
+020	現在還不是相遇的時候<br>…原來如此…這個星星的周圍…<br>雷修斯，你應該成為傭兵	VO_deneb.deneb_sys_0031
+021	成為傭兵？<br>為什麼要成為傭兵…	VO_retzius.retzius_sys_0025
+022	你是想現在馬上見到他，<br>讓他收你為徒弟嗎？	VO_deneb.deneb_event_1006
+023	…額，這個我會想辦法懇求他的！	VO_retzius.retzius_sys_0027
+024	比起去懇求，不如現在磨鍊技藝<br>比起著急找他，磨鍊自己方為上策	VO_deneb.deneb_sys_0022
+025	這樣真的會<br>再見到大哥嗎？	VO_retzius.retzius_sys_0030
+026	星星不會說不必要的話<br>當然，信與不信<br>都取決於你自己…	VO_deneb.deneb_sys_0005
+027	傭兵…嗎<br>啊…話說，大哥那時候<br>好像有說過『委托』這個詞…！	VO_retzius.retzius_sys_0031
+028	我不知道你們會以怎樣的方式相遇<br>但是一定會見到的<br>星星保證這一點
+029	德內普不能保證嗎	VO_retzius.retzius_sys_0030
+030	我只是聽從星星的聲音而已<br>	VO_deneb.deneb_sys_0007
+031	星星會指引你的，雷修斯<br>你的旅途中<br>會有星星的保佑
+032	真的謝謝你!!<br>我要是見到了大哥，一定會來告訴你的！<br>	VO_retzius.retzius_sys_0033
+033	謝謝<br>不過，你有這份心就夠了	VO_deneb.deneb_sys_0033
+034	我和你的星星就這樣相遇了<br>如果那個時候到來了<br>我們的星星也會相交的
+035	恩<br>…不過，我還是要再說一次<br>真的，很感謝你！	VO_retzius.retzius_sys_0037
+036	所以我…<br>一定要見到大哥!!<br>…也為了德內普！
+037	…不太清楚你發生了什麼<br>不過，你可別死掉了，新人<br>…馬上要開始戰鬥了	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+038	…我在改變<br>而且，我一定要成為大哥認可的男人<br>	VO_retzius.retzius_battle_0021
+039	那就開始作戰吧！<br>快速開始行動！
+040	…首次任務，一定要成功！<br>相信我的每一個行動<br>都與大哥有關！	VO_retzius.retzius_battle_0011

@@ -1,0 +1,93 @@
+﻿001	呼呼～…<br>終於脫離森林啦…	VO_seraphina.seraphina_sys_0030
+002	這裡…<br>好像離城市很遠啊…	VO_rin.rin_sys_0031
+003	什麼…？<br>在森林裡迷路了嗎…？	VO_killia.killia_sys_0025
+004	嗯…<br>但是繞個圈子就能走出去了吧！	
+005	呃…<br>還要走啊…<br>我已經很累了…	VO_seraphina.seraphina_sys_0022
+006	普利尼，背我吧	VO_seraphina.seraphina_sys_0001
+007	不要！<br>都說了我一個人不行的嘶！<br>那麼重…	VO_prinny.prinny_sys_0012
+008	遵命…！	VO_prinny.prinny_battle_0022
+009	啊？　剛才的聲音是…	VO_rin.rin_sys_0025
+010	別在意哪蹦<br>他們一直都這樣	VO_usalia.usalia_sys_0001
+011	…我倒是希望有人在意嘶…	VO_prinny.prinny_sys_0018
+012	喂，別囉嗦了<br>快點走！	VO_redmagnus.redmagnus_sys_0001
+013	…怎麼了…<br>突然變得這麼有精神啦…？	VO_seraphina.seraphina_chara_2001
+014	該怎麼說呢<br>就是這種荒涼的感覺？<br>讓我想起灼熱魔界～	VO_redmagnus.redmagnus_sys_0031
+015	灼熱魔界…，<br>是你的故鄉？	VO_rin.rin_chara_1024
+016	是啊！<br>是我統治的最強魔界！	VO_redmagnus.redmagnus_sys_0006
+017	這樣說吧～…像這樣大地被割裂、<br>岩漿噴起、火柱上升…<br>感覺很相似呢	VO_redmagnus.redmagnus_sys_0007
+018	…這個，<br>一點也不像啊	VO_seraphina.seraphina_sys_0022
+019	別在意細節！	VO_redmagnus.redmagnus_sys_0004
+020	一點細節都沒有啊！	VO_seraphina.seraphina_sys_0050
+021	嘻嘻…<br>感覺和你們在一起很開心呢	VO_rin.rin_sys_0007
+022	是嗎？	VO_usalia.usalia_sys_0025
+023	嗯！	VO_rin.rin_sys_0006
+024	…雖然說要繞圈子，<br>但城郊到底在哪裡…？	VO_killia.killia_sys_0001
+025	呃…<br>好吧！　我登上岩山<br>去看看吧！	VO_redmagnus.redmagnus_sys_0031
+026	看完回來了！	VO_redmagnus.redmagnus_battle_0017
+027	哇，好快啊…<br>…看到城郊了嗎…？	VO_seraphina.seraphina_sys_0025
+028	完全沒看到！	VO_redmagnus.redmagnus_sys_0006
+029	啊…！<br>你這個白癡!!	VO_seraphina.seraphina_sys_0012
+030	但是，<br>我看到有人過來了哦？	VO_redmagnus.redmagnus_sys_0031
+031	旅行者嗎…？<br>正好。可以問問路…	VO_killia.killia_sys_0025
+032	…？<br>哇啊…!?<br>是魔物…!?	VO_knightm.knightm_sys_0028
+033	叫我們魔物可是很失禮的！<br>我們是魔王！　<br>是住在魔界中的惡魔之王啊!!	VO_redmagnus.redmagnus_sys_0039
+034	哇啊…!?<br>請不要傷害我…!!	VO_knightm.knightm_battle_0023
+035	你幹嘛去嚇他!?	VO_seraphina.seraphina_sys_0050
+036	噗…！	VO_redmagnus.redmagnus_battle_0022
+037	哇…嗚嗚…!?	VO_knightm.knightm_sys_0019
+038	雪拉菲娜大人<br>你把他嚇得更慘嘶	VO_prinny.prinny_sys_0022
+039	抱歉嚇著你了…<br>我們不是什麼怪物	VO_killia.killia_sys_0036
+040	但是你們自稱…魔王…	VO_knightm.knightm_sys_0018
+041	呃…雖然如此…	VO_killia.killia_chara_1012
+042	不是怪物的魔王，<br>好像沒有說服力嘶…	VO_prinny.prinny_sys_0002
+043	啊？<br>我是鈴<br>你是行商的人嗎？	VO_rin.rin_chara_1009
+044	啊，啊…<br>是的…	VO_knightm.knightm_battle_0023
+045	行商的人…？<br>你是不是有賣調味料？<br>可以賣給我們嗎…	VO_killia.killia_sys_0025
+046	抱歉！<br>我是針織品的商人，<br>沒有調味料！	VO_knightm.knightm_sys_0018
+047	請別殺我啊!!	VO_knightm.knightm_sys_0027
+048	放心我們不會傷害你的…<br>這樣啊…沒有嗎…	VO_killia.killia_chara_1012
+049	那麼，城市的方向，<br>可以告訴我嗎？	
+050	啊!?　城市嗎…!?<br>難道想…侵略…？	VO_knightm.knightm_battle_0023
+051	不是。只是想要調味料	VO_killia.killia_sys_0027
+052	但是…你不是魔王嗎…？	VO_knightm.knightm_sys_0018
+053	哎…	
+054	你們等一下！<br>還是讓我來吧…！	VO_rin.rin_sys_0001
+055	…鈴，拜託了	VO_killia.killia_sys_0036
+056	行商人先生，<br>去城市該怎麼走呢？	VO_rin.rin_chara_1024
+057	我真的告訴你們，<br>就沒事了嗎…？<br>就是…從這邊走…	VO_knightm.knightm_sys_0001
+058	你到底在害怕什麼	VO_redmagnus.redmagnus_sys_0010
+059	你真是失禮啊！<br>侵略什麼的<br>我們才幹不出來呢	VO_seraphina.seraphina_sys_0016
+060	其實還不是你們<br>做了多餘的事情…	VO_killia.killia_sys_0030
+061	（熱熱的咖喱…）	VO_usalia.usalia_sys_0031
+062	…兔兔莉雅？	VO_prinny.prinny_sys_0004
+063	啊…!?<br>我們為什麼活著，到底要去哪裡<br>我在思考這些呢…！	VO_usalia.usalia_chara_1009
+064	…你對路線完全沒興趣嗎嘶？	VO_prinny.prinny_sys_0022
+065	…嗯！　知道了！<br>謝謝你，行商人！	VO_rin.rin_sys_0006
+066	那麼…	
+067	…趕緊去城市吧	VO_killia.killia_sys_0005
+068	真是遺憾<br>剛才的傢伙有調味料的話<br>就可以找他買了	VO_redmagnus.redmagnus_sys_0030
+069	嗯？	
+070	這麼說也沒轍啊<br>針織品是做不了咖喱的	VO_seraphina.seraphina_sys_0022
+071	啊…我要確認一下…<br>鈴…這個世界能用金幣嗎？	
+072	金幣？　就是錢吧？<br>用不了哦？	VO_rin.rin_sys_0005
+073	這樣啊…<br>那麼…鈴，你有帶錢嗎？	VO_killia.killia_sys_0020
+074	我沒有哦	VO_rin.rin_sys_0025
+075	…這樣啊…。糟糕了…<br>居然忘記了這麼重要的事情…	VO_killia.killia_sys_0025
+076	怎麼辦!?　去城市的話，<br>沒有這個世界的錢，<br>調味料也買不到啊!!	VO_seraphina.seraphina_sys_0020
+077	哇啊啊啊…!!	VO_knightm.knightm_battle_0026
+078	剛才的是…!?	VO_killia.killia_sys_0025
+079	是那個商人的聲音？	VO_redmagnus.redmagnus_sys_0004
+080	哇啊…救命…	VO_knightm.knightm_sys_0019
+081	行商人，<br>被幻影兵襲擊了…！	VO_rin.rin_battle_0019
+082	糟糕了！　<br>我們快去救援吧！	VO_seraphina.seraphina_sys_0009
+083	什麼啊<br>雪拉菲娜居然會主動想救人…<br>太不合理了	VO_redmagnus.redmagnus_sys_0025
+084	你真笨啊<br>他可是行商人啊？	VO_seraphina.seraphina_sys_0050
+085	幫助了他…<br>他絕對會給我們錢的啊!!	VO_seraphina.seraphina_sys_0010
+086	超級好的主意啊…!?	VO_redmagnus.redmagnus_sys_0026
+087	不能靠搶的<br>要幫助他啊！	VO_rin.rin_sys_0025
+088	搶不搶的先不說了<br>快點去吧!!	VO_usalia.usalia_sys_0003
+089	好！<br>我們去救你啦！	VO_redmagnus.redmagnus_battle_0018
+090	奇力亞大人！<br>您也快點!!	VO_seraphina.seraphina_sys_0012
+091	等等…！　我先吃下，<br>『蘑菇瑪坦戈醬奶油義大利麵』…！	VO_killia.killia_sys_0025
+092	不但味道濃郁<br>還有清爽的奶油…	VO_killia.killia_sys_0009
+093	別再說美食評論了嘶!!	VO_prinny.prinny_sys_0027

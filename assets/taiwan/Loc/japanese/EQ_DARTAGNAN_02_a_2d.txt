@@ -1,0 +1,82 @@
+﻿001	總算結束啦！	VO_dartaniun.dartaniun_chara_1018
+002	…………
+003	恩？　怎麼了？	VO_dartaniun.dartaniun_sys_0005
+004	就覺得你不愧是騎士呢<br>多虧了你傷害沒有擴大	VO_megistus.megistus_event_1006
+005	應該的…不過原因知道了嗎？	VO_dartaniun.dartaniun_sys_0031
+006	額，稍等一下	VO_megistus.megistus_sys_0004
+007	…這是	VO_megistus.megistus_sys_0050
+008	怎麼了？	VO_dartaniun.dartaniun_sys_0005
+009	這不是機器暴走…<br>是警衛兵的控制面板，<br>被非法改造了	VO_megistus.megistus_sys_1019
+010	然後呢…？	VO_dartaniun.dartaniun_sys_0025
+011	什麼…!?	VO_amis.amis_sys_0026
+012	阿彌絲的聲音…！	VO_dartaniun.dartaniun_chara_1008
+013	看來對面也出了什麼事情	VO_megistus.megistus_sys_0005
+014	阿彌絲！　怎麼了？	VO_dartaniun.dartaniun_sys_0001
+015	達爾達尼央，米基斯特斯…
+016	技術局的資料室中<br>關於飛艇的資料被拿走了<br>而且都是機密…	VO_amis.amis_sys_0018
+017	什麼…？<br>就是說現在的騷動	VO_megistus.megistus_sys_0012
+018	就是有人為了盜取資料<br>而制造的混亂<br>快排查設施內的外來者…
+019	…啊，咦<br>難道接下來，我就是重點懷疑對象…!?	VO_dartaniun.dartaniun_sys_0016
+020	不可能<br>我敢斷言絕不是你	VO_megistus.megistus_sys_0016
+021	米基斯特斯…？	VO_dartaniun.dartaniun_sys_0025
+022	(難道他是在保護我？<br>難道<br>他是個好人…)
+023	這傢伙有這種頭腦嗎？	VO_megistus.megistus_sys_0002
+024	這種理由!?<br>我真是看錯你了！	VO_dartaniun.dartaniun_sys_0026
+025	啊？　你生氣幹嘛？	VO_megistus.megistus_sys_0016
+026	你這樣說話我難道不生氣!?	VO_dartaniun.dartaniun_sys_0032
+027	當然<br>我也不覺得達爾達尼央與此事有關<br>技術局的人也不會	VO_amis.amis_sys_0011
+028	但是，不能對外公開
+029	所以就拜托你們<br>調查這件事了
+030	自己的清白<br>就要自己來證明！	VO_dartaniun.dartaniun_sys_0045
+031	等下，為何我也要？	VO_megistus.megistus_sys_0050
+032	因為，達爾達尼央<br>對這裡不熟悉啊？	VO_amis.amis_sys_0006
+033	而且我需要檢查受損情況<br>以及作出情報<br>整合的指示啊…
+034	現在你也閑著，<br>況且你熟人也多
+035	你這樣說，<br>就是把麻煩的事情<br>都丟給我…!?	VO_megistus.megistus_sys_0001
+036	我也要去確認下<br>設計圖有沒丟失啊!?
+037	這件事交給我<br>你就放心吧	VO_amis.amis_sys_0011
+038	這是接觸炮術之外的事情<br>的好機會啊。加油吧
+039	那麼，就拜托你們了！	VO_amis.amis_sys_0041
+040	不，那個…<br>可惡，已經走了	VO_megistus.megistus_event_1006
+041	沒辦法…喂，騎士大人<br>首先要調查什麼？	VO_megistus.megistus_sys_0029
+042	…………
+043	喂？	VO_megistus.megistus_sys_0002
+044	啊，啊，怎麼了？<br>調查什麼？	VO_dartaniun.dartaniun_sys_0025
+045	…其實你，根本不知道<br>現在的情況？	VO_megistus.megistus_sys_0003
+046	嗚嗚…<br>我本來就不擅長腦力勞動啊…	VO_dartaniun.dartaniun_battle_0022
+047	汗…聽好了？<br>現在非常地麻煩	VO_megistus.megistus_sys_0029
+048	珍藏的飛艇資料被盜走了<br>這個懂吧？
+049	恩恩…	VO_dartaniun.dartaniun_sys_0016
+050	一般會考慮普通的外來者<br>入侵並引起騷動…	VO_megistus.megistus_event_1017
+051	這次的事情卻不一樣<br>警衛兵的暴走是有人故意做的!
+052	啊？　為何？	VO_dartaniun.dartaniun_sys_0025
+053	我們每周都會檢查警衛兵<br>如果事先做手腳肯定會暴露<br>所以…	VO_megistus.megistus_sys_0004
+054	我們內部有叛徒<br>也就是間諜的存在
+055	怎麼會…背叛阿彌絲<br>這麼好的領導…！	VO_dartaniun.dartaniun_sys_0021
+056	但是，那個…<br>調查下不就好了？
+057	這就是問題了<br>間諜當然知道我們的內情<br>一旦公開調查，他肯定就躲起來了	VO_megistus.megistus_sys_0004
+058	不行嗎!?	VO_dartaniun.dartaniun_sys_0026
+059	然後，我這裡<br>有一個非常有趣的想法	VO_megistus.megistus_sys_0007
+060	…來到這裡的話，<br>應該就沒人追來了	VO_thiefm.thiefm_sys_0030
+061	但是，引起那麼多的騷動<br>居然還只有這點程度的警備…
+062	技術局的傢伙們<br>防備實在太鬆懈了<br>逃往國外真是正確…	VO_thiefm.thiefm_sys_0029
+063	…進展如何	VO_stknightm.stknightm_sys_0001
+064	!?　啊，是你啊<br>當然是成功了	VO_thiefm.thiefm_sys_0018
+065	你看，飛艇的情報<br>以及最新炮擊系統的圖紙
+066	有這個的話<br>我就能作為格拉特尼軍的重要人物<br>被你們接納了吧!?
+067	…啊，<br>之前有說過嗎	VO_stknightm.stknightm_sys_0005
+068	喂，拜托？<br>我為了這個，<br>可是差點丟命啊？	VO_thiefm.thiefm_battle_0020
+069	為何…	VO_thiefm.thiefm_battle_0026
+070	抱歉，我們需要的只是情報<br>我們可沒打算收編<br>你這樣的麻煩火種呢…嘿嘿嘿	VO_stknightm.stknightm_sys_0007
+071	只要有斯洛斯的兵器技術…<br>我們<br>掌握格拉特尼軍部的日子就不遠了…！
+072	看來不單是我們<br>在格拉特尼看來<br>你們也只是恐怖分子啊	VO_megistus.megistus_sys_0045
+073	啊，真是個嚴肅的話題啊<br>但是因此我也知道了<br>對你們沒必要手下留情
+074	正好可以試下<br>這個傢伙的威力如何…	VO_megistus.megistus_sys_0023
+075	你們所需要的技術<br>它們有多麼強大的力量<br>你們就切身體會下吧！	VO_megistus.megistus_battle_0014
+076	啊，遠距離的炮擊！<br>竟瞄準這裡…!?
+077	什麼…!?	VO_stknightm.stknightm_sys_0026
+078	當然不會這樣就結束了！<br>上吧，達爾達喵！	VO_megistus.megistus_sys_0007
+079	說過不要叫我喵了!!!!	VO_dartaniun.dartaniun_sys_0032
+080	彈藥是有限的！<br>一口氣沖到『那群人』頭上吧！	VO_megistus.megistus_sys_0002
+081	我知道的啦！	VO_dartaniun.dartaniun_sys_0010
+082	喝啊――！<br>我不是在這種地方<br>會失敗的男人…！	VO_stknightm.stknightm_battle_0028_c

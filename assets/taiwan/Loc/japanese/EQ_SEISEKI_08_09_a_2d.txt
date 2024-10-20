@@ -1,0 +1,124 @@
+﻿001	厲害…<br>一口氣把格里特達伊克兵給！<br>你是誰…！？
+002	這種事無所謂吧<br>而且…你為何認為<br>那不是國王陛下的真心話？
+003	啊…？
+004	你覺得陛下<br>是受脅迫才這樣說的…？<br>你的根據在哪裡？
+005	…我是<br>一直守護在陛下身邊的
+006	嗯…迪爾加跟我說了	VO_monzein.monzein_sys_0004
+007	陛下在我還是見習的時候…<br>就教導過我了
+008	對我這樣的人…<br>“騎士道要時常掛念在心中”<br>他這樣教導了我
+009	…什麼？	VO_monzein.monzein_sys_0025
+010	他說…世界的和平<br>不是單靠力量就能實現的
+011	人們善良的心…<br>以及有著守護這些的力量<br>如此才能實現真正的和平…
+012	…格里特達伊克的軍事力量<br>能帶來和平…？
+013	這種屁話…<br>我想陛下是絕不會說的！
+014	…！<br>原來如此…	VO_monzein.monzein_sys_0045
+015	真是…<br>服了你了<br>…不過這倒省事了	VO_basini.basini_sys_0017
+016	啊…？　…哇！	VO_monzein.monzein_sys_0026
+017	嗚嗚…！<br>…巴西尼…！？	VO_monzein.monzein_sys_0042
+018	混蛋…！
+019	你還是別動的好<br>這個人我隨時可以殺死的	VO_basini.basini_sys_0007
+020	奧萊伊恩陛下…！
+021	雖然費了點功夫…<br>但是聖教騎士團・第二騎士團長蒙澤因<br>我給您獻上了！
+022	…久違了，瓦吉那歐
+023	“豪腕的雷斧”蒙澤因團長嗎…<br>沒想到在這裡見到你	VO_orione.orione_sys_0024
+024	蒙澤因…！？<br>…你！？
+025	呃…！<br>你這個混蛋，想幹嘛！？	VO_monzein.monzein_battle_0019
+026	如你所見	VO_basini.basini_sys_0010
+027	很遺憾…<br>我可不是來和你們<br>一起被消滅的
+028	！？<br>難道，你又背叛了…！？	VO_monzein.monzein_sys_0027
+029	…怎麼回事？<br>你這個混蛋…你不是背叛我了嗎…？	VO_waginao.waginao_sys_0006
+030	背叛…？<br>呵呵…連瓦吉那歐都瞞過了<br>真是我最高的榮譽啊	VO_basini.basini_sys_0006
+031	…領主騎士以下<br>各騎士團長我都騙過了<br>如今如您所願的把他們都引來了
+032	！<br>…這個小鬼…不可原諒！<br>…喔哦哦哦！！	VO_monzein.monzein_battle_0010
+033	哎…！<br>…又在做無用功	VO_basini.basini_sys_0025
+034	…正因為如此<br>你才成了“棄子”…
+035	棄子…！？	VO_monzein.monzein_sys_0027
+036	你不知道嗎？	VO_basini.basini_sys_0005
+037	就因為你這種直腸子<br>所以才被利用了…<br>“敵人”也是、“夥伴”也是
+038	…！	VO_monzein.monzein_sys_0029
+039	…真是浪費時間<br>你就好好的被利用吧	VO_basini.basini_sys_0030
+040	…瓦吉那歐<br>援軍很快就會來	VO_basini.basini_sys_0001
+041	在其到來前<br>幹掉這個傢伙比較好…<br>讓他們會合就麻煩了
+042	援軍…？<br>…沒必要特地把意圖說出來	VO_waginao.waginao_sys_0044
+043	…你<br>真的沒有背叛嗎…？	VO_waginao.waginao_sys_0003
+044	所以<br>我不是說了嗎	VO_basini.basini_sys_0004
+045	那些傢伙太老實了…<br>潛入他們內部<br>太簡單了
+046	你這個混蛋…！<br>…“閃電之光·斧”！！	VO_monzein.monzein_sys_0042
+047	你在打哪裡呢…？<br>真是…憤怒的忘了自我嗎…	VO_waginao.waginao_sys_0010
+048	…！<br>快逃！<br>台階崩塌了！	VO_stknightm.stknightm_sys_0027
+049	什麼…！？	VO_waginao.waginao_sys_0026
+050	…幫大忙了	VO_basini.basini_sys_0034
+051	啊…！<br>…你個混蛋…巴西尼！！	VO_waginao.waginao_battle_0022
+052	抱歉…<br>我訂正一下剛才的話先	VO_basini.basini_sys_0036
+053	我不是背叛…<br>我只是找到自己的路
+054	…哼<br>…真是的…明明是個小鬼<br>還把我當“棄子”使…	VO_monzein.monzein_sys_0010
+055	抱歉<br>除此之外別無他法	VO_basini.basini_sys_0030
+056	我可不是為了滅團<br>才來這裡的…
+057	…加強戒備<br>目標是安比利亞國王	VO_orione.orione_sys_0001
+058	果然如此…？	VO_basini.basini_sys_0007
+059	什麼…？	VO_orione.orione_sys_0026
+060	啊…！？　為何對我…！？
+061	裝傻也沒用？<br>…聽說陛下被操控了<br>我就一直在尋找	VO_basini.basini_sys_0010
+062	只有你…<br>在陛下說話的時候<br>只有你一直低著頭…？
+063	這有什麼…！？
+064	而且<br>嘴裡還叨唸著什麼…<br>那是陛下說出的話吧？
+065	…你騙不了我<br>因為…我在瓦吉那歐那裡<br>可是修練過幻術的對策啊！
+066	可惡！<br>…居然有知情者存在<br>…我沒聽過啊？	VO_vier.vier_battle_0019
+067	！？<br>…消失了…！？	VO_basini.basini_sys_0025
+068	而且<br>居然是這麼可愛的孩子…<br>應該早點告訴我才是？	VO_vier.vier_sys_0022
+069	女的…！？<br>呃…！　…可惡！	VO_basini.basini_sys_0006
+070	遺憾…我已經不在那裡了<br>…我是『維達十戒眾』之一…<br>“香幻術的菲亞”	VO_vier.vier_sys_0007
+071	孩子…<br>多少有些興趣了嗎…？	VO_vier.vier_sys_0001
+072	『維達十戒眾』…！？<br>那是什麼…！？	VO_basini.basini_sys_0027
+073	…嘻嘻…女人身上都是秘密呢<br>想知道一切<br>可是會遭殃的哦	VO_vier.vier_sys_0008
+074	！？<br>糟糕…被包圍了…！？	VO_basini.basini_sys_0027
+075	啊…！<br>“閃電之光·斧”！！	VO_monzein.monzein_sys_0042
+076	快跑啊！<br>重整態勢…回來！	VO_monzein.monzein_battle_0019
+077	是…！	VO_basini.basini_sys_0018
+078	…逃跑…？<br>應該是你…需要跑吧？	VO_vier.vier_battle_1017
+079	什麼…？	VO_monzein.monzein_sys_0027
+080	嘻嘻…幻術的對策啊…<br>你就用這個對策<br>看看能不能迴避我吧…？	VO_vier.vier_sys_0008
+081	！？<br>啊…我的手…！？	VO_basini.basini_sys_0027
+082	！？
+083	哇！！	VO_monzein.monzein_sys_0042
+084	！！<br>蒙澤因團長…！	VO_basini.basini_battle_0019
+085	！？<br>被幻術控制了嗎…！？
+086	…哼哼…即使是被世人<br>稱頌的蒙澤因<br>被偷襲也是擋不住的嗎…	VO_orione.orione_sys_0007
+087	是的呢<br>菲亞…幹掉巴西尼<br>被他動起來可就麻煩了	VO_waginao.waginao_sys_0007
+088	哼…我可不會<br>什麼都聽你的哦？<br>用自己的士兵吧	VO_vier.vier_sys_0010
+089	…囂張的口氣…<br>“不死兵”部隊，上…！	VO_waginao.waginao_sys_0012
+090	！！<br>不死身的兵…那麼…！？
+091	…啊…！　快跑…！	VO_monzein.monzein_battle_0019
+092	但是…我的身體…！<br>…啊…！　團長！<br>你快跑吧！	VO_basini.basini_sys_0018
+093	啊…！？	VO_monzein.monzein_sys_0027
+094	援軍很快就會來了…<br>無論如何都要和亞烏拉斯團長會合啊！
+095	這樣一來…<br>奪回國王陛下的機會<br>一定會有的！
+096	啊…你想幹嘛!?	VO_monzein.monzein_sys_0029
+097	別管我…！<br>這是我的報應<br>…我在有覺悟！	VO_basini.basini_chara_1011
+098	報應…！？	VO_monzein.monzein_sys_0027
+099	是我太小看那個女的了<br>我太天真…！	VO_basini.basini_sys_0005
+100	而且…<br>曾經欺騙過聖教騎士團<br>也是對我過去的救贖…！
+101	當我決定和卡農大人一起的時候<br>…我就有覺悟了！
+102	…你…	VO_monzein.monzein_sys_0018
+103	…上！！	VO_waginao.waginao_sys_0010
+104	…！<br>你快走吧！	VO_basini.basini_sys_1019
+105	啊…！<br>別說傻話！　我怎麼能眼看部下被殺…	VO_monzein.monzein_sys_0029
+106	唉…真是頑固…	VO_basini.basini_sys_0017
+107	正好…<br>反正也快死了，就讓我說吧	VO_basini.basini_sys_0010
+108	我…<br>其實很討厭你這樣<br>頑固的腦子
+109	…啊…！？	VO_monzein.monzein_sys_0027
+110	哈哈…<br>你的石頭腦子<br>還是改改比較好啊…？	VO_basini.basini_sys_0011
+111	…永別了
+112	…！
+113	啊…！<br>…喔哦哦哦！！	VO_monzein.monzein_chara_1017
+114	啊…！？<br>你在想什麼呢！？	VO_basini.basini_sys_0025
+115	…奇妙啊	VO_monzein.monzein_sys_0010
+116	啊…？	VO_basini.basini_sys_0006
+117	我也很討厭你呢<br>…所以你這個混蛋的指示我才不聽呢？	VO_monzein.monzein_sys_0020
+118	笨蛋…！？<br>不行…！　不能過來啊!!	VO_basini.basini_sys_0020
+119	幹掉他們！
+120	哇…！　小鬼！<br>擋住這傢伙！<br>…咬緊牙關，巴西尼！	VO_monzein.monzein_battle_0019
+121	！？<br>…哇啊！！	VO_basini.basini_battle_0022
+122	好…！
+123	啊…！<br>…嗚嗚…！	VO_monzein.monzein_sys_0042
+124	團長！！	VO_basini.basini_sys_1019

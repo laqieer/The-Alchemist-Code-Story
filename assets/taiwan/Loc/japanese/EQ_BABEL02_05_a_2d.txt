@@ -1,0 +1,106 @@
+﻿001	沒事吧…？	VO_zaharu.zaharu_sys_0002
+002	你是…？<br>要救我嗎…？	VO_spica.spica_sys_0003
+003	恩。難為你了…<br>但是已經安全了<br>蕾迪亞	VO_zaharu.zaharu_sys_0004
+004	（從那日以來――）
+005	謝謝…你<br>我叫，絲碧卡<br>您的大名呢…？	VO_spica.spica_chara_1002
+006	扎哈爾	VO_zaharu.zaharu_sys_0004
+007	（我的世界充滿了光明<br>這個光明<br>并不是像太陽那樣溫暖而耀眼…）
+008	（而是照亮了我內心“生存意義”的<br>非常炫目的<br>非常重要的――）
+009	（黑暗之光）
+010	絲碧卡，做的好啊<br>今天開始<br>你也是獨當一面的拉斯特里斯騎士了	VO_zaharu.zaharu_sys_0008
+011	為了我們的國家而努力吧
+012	啊哇哇…<br>是，是的！<br>我一定會盡力的――	VO_spica.spica_sys_0047
+013	扎哈爾大人<br>馬上就是會議的時間了<br>然後要視察士兵的訓練	VO_spica.spica_sys_0003
+014	好的<br>現在就走	VO_zaharu.zaharu_sys_0037
+015	…………<br>真是能干啊，絲碧卡<br>你不這麼想嗎，軍師大人	VO_niggle.niggle_sys_0031
+016	本來就是要她干活的呀<br>要不然她在這裡干嘛呢<br>對吧副團長	VO_laetitia.laetitia_sys_0022
+017	不…<br>我只是很佩服把她推薦給團長的軍師大人<br>您的慧眼啊	VO_niggle.niggle_sys_0016
+018	多謝夸獎	VO_laetitia.laetitia_sys_0016
+019	你對絲碧卡<br>是怎麼想的	VO_niggle.niggle_sys_0001
+020	她能夠幫到扎哈爾大人…我確信這一點<br>才提拔她的	VO_laetitia.laetitia_sys_0007
+021	是真心話嗎？	VO_niggle.niggle_sys_0006
+022	你想說什麼？<br>我的真心，有多少<br>價值嗎？	VO_laetitia.laetitia_sys_0025
+023	你真是老樣子啊…。但是…她之后，<br>還能勝任嗎。被扎哈爾大人撫摸著頭<br>興高采烈的那個小姑娘	VO_niggle.niggle_sys_0010
+024	你覺得我會做無用功嗎？<br>她有她的使命	VO_laetitia.laetitia_sys_0030
+025	一切都是為了扎哈爾大人
+026	…你真是老樣子	VO_niggle.niggle_sys_0004
+027	多謝夸獎<br>然後就是…<br>安比利亞新騎士團的事情…	VO_laetitia.laetitia_sys_0007
+028	和安比利亞軍的戰鬥<br>這幾個月增多了――
+029	…………
+030	（…扎哈爾大人<br>從那時起一點都沒改變…）	VO_spica.spica_sys_1011
+031	（…啊<br>我在想什麼呢…現在是會議中）	VO_spica.spica_chara_1002
+032	…另外，在安比利亞<br>有個叫『緋炎騎士團』的新騎士團<br>建立起來了	VO_stknightm.stknightm_sys_0031
+033	這個『緋炎騎士團』的人<br>都是相當不錯的老手…<br>但還不是我軍的對手…
+034	『緋炎騎士團』…<br>和『蒼炎騎士團』不同？<br>有著什麼目的	VO_zaharu.zaharu_sys_0031
+035	目的嗎？<br>這個…	VO_stknightm.stknightm_sys_0025
+036	扎哈爾大人，這是『緋炎騎士團』<br>的資料	VO_spica.spica_sys_0003
+037	根據情報，某個傭兵團<br>以雇傭的形式<br>加入了安比利亞的正規軍	VO_spica.spica_chara_1003
+038	原本是傭兵…	VO_zaharu.zaharu_chara_1008
+039	但是他們的指揮<br>獨立于安比利亞軍<br>他們可以作為游擊軍團獨立行動	VO_spica.spica_sys_0004
+040	…………<br>呵	VO_zaharu.zaharu_sys_0010
+041	…？	VO_spica.spica_sys_0006
+042	『緋炎騎士團』…<br>是和扎哈爾大人交戰過的<br>前身是『緋色之團』的騎士團嗎…	VO_niggle.niggle_sys_0031
+043	會成為我們的阻礙嗎
+044	嘻嘻…<br>不論前方有多麼大的阻礙<br>都別想阻礙扎哈爾大人的步伐	VO_laetitia.laetitia_sys_0010
+045	…還會再次遇見的吧<br>他們所謂的“鋼鐵意志”是什麼…<br>這次讓我好好看看吧	VO_zaharu.zaharu_sys_0010
+046	那個，扎哈爾大人和『緋炎騎士團』<br>為何交戰呢…	VO_spica.spica_sys_0003
+047	絲碧卡…	VO_zaharu.zaharu_sys_0012
+048	啊！　抱歉<br>我問了句我不該問的話	VO_spica.spica_chara_1009
+049	沒事<br>遲早也要告訴你的	VO_zaharu.zaharu_chara_1001
+050	今天的任務到此結束了<br>你可以回去休息了
+051	是…	VO_spica.spica_chara_1002
+052	今天的會議辛苦了	VO_zaharu.zaharu_sys_0007
+053	…！<br>是！<br>那麼我先走了	VO_spica.spica_sys_1011
+054	我真是不理解…<br>那個小姑娘的利用價值是什麼…	VO_niggle.niggle_sys_0031
+055	價值嗎…呵<br>尼格爾啊，沒有這回事啊	VO_zaharu.zaharu_sys_0010
+056	？
+057	看看大局吧<br>一切都是為了無盡的遠方  
+058	…是啊	VO_niggle.niggle_sys_0010
+059	蕾迪亞，那個計劃如何了	VO_zaharu.zaharu_sys_0002
+060	很順利<br>但是還不夠	VO_laetitia.laetitia_sys_0005
+061	有更強大的力量…<br>有超越散落在大陸全境的“聖石”<br>之上的力量――	VO_zaharu.zaharu_sys_0031
+062	創造“黑暗聖石”吧
+063	（『致西爾瑪――<br>今天扎哈爾大人<br>表揚我了』）
+064	（『雖然任務很辛苦<br>但是能得到他的認可<br>我多累都能堅持下去…』）
+065	…………
+066	…明天也努力吧	VO_spica.spica_sys_1011
+067	（某一日，<br>扎哈爾大人親自出擊了<br>敵人就是那個『緋炎騎士團』）
+068	（那個時候的我<br>被賦予了別的任務<br>無法同行…）
+069	（雖然無法同行讓我很遺憾<br>但是我堅信扎哈爾大人不會輸<br>一定會帶著勝利回來…）
+070	（我堅信著）
+071	（…戰鬥結束了<br>扎哈爾大人回來了）
+072	（雖然是堅信著…<br>但是看到他平安的樣子<br>我才真正安心了）
+073	（但是…）
+074	扎哈爾大人，您沒事就好了	VO_spica.spica_sys_1011
+075	…………
+076	？<br>出什麼事了嗎…？	VO_spica.spica_sys_0006
+077	我遇到了個能讓我愉快的男人	VO_zaharu.zaharu_sys_0010
+078	讓您愉快的…男人
+079	那個男人…我會親手打倒…！<br>呵呵，呵呵呵…！<br>再次相遇吧…維特爾啊!!	VO_zaharu.zaharu_sys_0008
+080	!?	VO_spica.spica_chara_1009
+081	（那個時候，我第一次對扎哈爾大人<br>產生了“恐懼”的感覺…）	VO_spica.spica_sys_0022
+082	絲碧卡	VO_zaharu.zaharu_sys_0002
+083	啊，是…！	VO_spica.spica_chara_1009
+084	準備吧<br>近期會有大戰發生<br>為此而準備吧	VO_zaharu.zaharu_sys_0010
+085	大戰…<br>是<br>我知道了	VO_spica.spica_chara_1002
+086	呵呵呵…!!	VO_zaharu.zaharu_sys_0023
+087	…果然我們中的其中一人<br>還是應該同行啊	VO_niggle.niggle_sys_0029
+088	扎哈爾大人的心<br>被那個緋炎騎士團的維特爾<br>給奪走了…
+089	…嘻嘻<br>即便如此，那也是僥幸	VO_laetitia.laetitia_sys_0007
+090	就讓那個維特爾<br>成為墊腳石吧…
+091	為了讓扎哈爾大人<br>可以攀向更高的山峰	VO_laetitia.laetitia_sys_0010
+092	（然後…那個時刻終于來臨了）
+093	（…看見了<br>那是安比利亞軍…）
+094	（將拉斯特里斯視為“危險”<br>而襲來的人…<br>一定…要勝利）
+095	…那裡面就有維特爾<br>這次讓我聽聽他痛哭的聲音吧…<br>呵呵…	VO_zaharu.zaharu_sys_0010
+096	…左眼在刺痛<br>我內心的黑暗，在低語著<br>似乎要發生什麼…	VO_niggle.niggle_sys_0018
+097	副團長…<br>這一戰，保護扎哈爾大人<br>是最優先的	VO_laetitia.laetitia_sys_0029
+098	…明白	VO_niggle.niggle_sys_0037
+099	…開始吧<br>維特爾<br>你的墳墓就在這個基爾拉克啊！	VO_zaharu.zaharu_sys_0010
+100	喔哦哦哦哦哦哦哦<br>喔哦哦哦哦哦哦哦<br>喔哦哦哦哦哦哦哦…！！！！
+101	喔哦哦哦哦哦哦哦<br>喔哦哦哦哦哦哦哦<br>喔哦哦哦哦哦哦哦…！！！！
+102	（守護…扎哈爾大人！）	VO_spica.spica_battle_0019
+103	扎哈爾!!	VO_vetel.vetel_sys_0042
+104	維特爾啊！<br>上次的決斗，在今天了結吧！	VO_zaharu.zaharu_sys_0008
+105	如我所愿!! 	VO_vetel.vetel_sys_0010
+   

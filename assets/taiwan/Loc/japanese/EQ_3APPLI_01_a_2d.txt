@@ -1,0 +1,90 @@
+﻿001	拜托…救我……<br>用…那個……我──	VO_rena.rena_sys_0002
+002	是你的話肯定……
+003	（回過神來就已經身處一個陌生的空間<br>身邊站著3位少女）
+004	…這是哪裡？<br>我，為什麼會在這裡…？	VO_chloe.chloe_sys_0025
+005	誒…？
+006	（她們是誰…？　這些女孩子們…？）
+007	什麼啊…怎麼回事!?<br>做夢嗎…好痛？　這不是夢！	VO_sakura.sakura_sys_0020
+008	到底…發生了什麼…？<br>這裡是…哪裡…？
+009	喂，站在那邊的那個人！<br>你知道這裡是哪裡嗎!?	VO_sakura.sakura_sys_0001
+010	啊，不好意思～！<br>我叫櫻。你的名字是？
+011	<p_name><br>…這裡是…誒…哪裡呢…？
+012	看來你也不知道啊…<br><p_name><br>總之，多多關照！	VO_sakura.sakura_sys_0030
+013	喂！　那邊的兩個人，你們是？	VO_sakura.sakura_sys_0001
+014	我是提爾鋒	VO_tyrufing.tyrufing_sys_0004
+015	我是安比利亞緋炎騎士團<br>近衛部隊隊長<br>克蘿伊	VO_chloe.chloe_sys_0031
+016	炎…緋炎…這個衛…長…？<br>那個、克蘿伊和提爾…好長啊<br>叫你提爾可以吧？	VO_sakura.sakura_sys_0025
+017	可以啊。<br>櫻和克蘿伊。<br><p_name>	VO_tyrufing.tyrufing_sys_0037
+018	大家之中，<br>有人知道這裡是哪裡嗎…<br>…就是因為沒有，所以不知道怎麼辦啊…	VO_chloe.chloe_sys_0002
+019	那麼…，<br>以防萬一問一下<br>有誰知道怎麼回去嗎…？	VO_tyrufing.tyrufing_sys_0031
+020	…也，沒人是吧？	VO_sakura.sakura_sys_0022
+021	!?　喂，那邊<br>好像有什麼動了!?	VO_sakura.sakura_sys_0025
+022	我也看到了！<br>追上去！<br>大家跟在我身後──	VO_chloe.chloe_sys_0004
+023	站住！<br>可疑人!!	VO_sakura.sakura_battle_0001
+024	櫻!?<br>單獨行動很危險！	VO_tyrufing.tyrufing_sys_0027
+025	追上你咯～<br>老實出來吧！	VO_sakura.sakura_sys_0009
+026	那是…女生？<br>看起來不像是敵人…	VO_tyrufing.tyrufing_sys_0031
+027	我是安比利亞的騎士<br>克蘿伊<br>放心吧，已經沒事了哦	VO_chloe.chloe_sys_0002
+028	我們不會傷害你的<br>可以的話<br>跟我們說幾句話好嗎？	VO_chloe.chloe_sys_0007
+029	…你們不會，傷害我？	VO_rena.rena_sys_0029
+030	不好意思剛才追著你跑…<br>你也是回過神來<br>就已經在這裡了是嗎？	VO_sakura.sakura_sys_0035
+031	我們想知道詳細情況<br>能不能到這裡來？	VO_tyrufing.tyrufing_sys_0001
+032	…我明白了<br>如果不會傷害我的話…<br>但是，再離遠些	VO_rena.rena_sys_0037
+033	…你們，是誰？<br>為什麼會在這裡？	VO_rena.rena_sys_0002
+034	啊…你也和我們一樣啊…<br>我，櫻！　多多關照啦！	VO_sakura.sakura_sys_0030
+035	我是、玲奈…
+036	我是提爾鋒<br>玲奈，你知道<br>這是哪嗎?
+037	…不知道	VO_rena.rena_sys_0030
+038	玲奈也是誤入這個地方的啊<br>你好像是一個人呢…	VO_chloe.chloe_sys_0044
+039	我的名字是，克蘿伊<br>玲奈，你跟我們一起行動吧？
+040	…我並沒有、迷路<br>但是，我不知道這是哪兒<br>因為，這裡就是這裡嘛…	VO_rena.rena_sys_0012
+041	嗯～…<br>你在說什麼啊？	VO_sakura.sakura_sys_0031
+042	…大家，都想回到原來的世界吧？<br>我好像知道…那個方法	VO_rena.rena_sys_0002
+043	真的嗎!?<br>怎麼做…！	VO_tyrufing.tyrufing_sys_0025
+044	但是，現在不知道…<br>記憶模糊了…無法清楚想起來…	VO_rena.rena_sys_0031
+045	什麼啊，這個…<br>盡力想起來！　拜托了！	VO_sakura.sakura_sys_0014
+046	我也…想記起來…<br>…要是有什麼、契機就好了	VO_rena.rena_sys_0035
+047	啊、說起來…門	VO_rena.rena_battle_0022
+048	門？<br>哪裡有門嗎？	VO_chloe.chloe_sys_0025
+049	看、那裡就有	VO_rena.rena_sys_0006
+050	啊、我家鄉！
+051	拉古那大陸…	VO_tyrufing.tyrufing_sys_0027
+052	巴貝爾大陸也…	VO_chloe.chloe_sys_0020
+053	那扇門的對面…有能讓我想起來的<br>“鑰匙”…我感覺
+054	只是感覺？<br>什麼啊～…	VO_sakura.sakura_sys_0030
+055	那我們去哪扇門好？<br>還是我家鄉那裡好啊～果然
+056	不知道…<br>進哪扇門…	VO_rena.rena_sys_0031
+057	…是這樣啊<br>但是，玲奈的話是<br>我們手上為數不多的珍貴線索	VO_tyrufing.tyrufing_sys_0020
+058	應該有進去的價值吧	VO_chloe.chloe_sys_0004
+059	不知道開哪扇門的話<br>就數1、2、3！<br>…然後，一起把手放在門上試試？	VO_sakura.sakura_sys_0001
+060	就這麼做吧。請大家放心<br>你們的安全由我來保護<br>賭上我騎士的名譽	VO_chloe.chloe_sys_0004
+061	我也是個女忍者<br>自己的身體我自己能保護的<br>那麼，我們試試吧?!	VO_sakura.sakura_sys_0014
+062	那麼…<br>…1、2、3!!	VO_tyrufing.tyrufing_sys_0004
+063	已經，到了嗎？<br>那，這是哪個世界？	VO_sakura.sakura_sys_0025
+064	唔ー嗯…看起來…<br>不是我的國家…	VO_sakura.sakura_sys_0031
+065	看不到世界之樹…<br>應該不是拉古那大陸	VO_tyrufing.tyrufing_sys_0031
+066	看到巴貝爾之塔了！<br>這裡是巴貝爾大陸…應該是吧…	VO_chloe.chloe_sys_0009
+067	什麼啊<br>果然不是我的國家啊～<br>嘛，算了…	VO_sakura.sakura_sys_0044
+068	誒？　這個黑色的，什麼東西？　霧？<br>這個世界是因為霧所以黑？	VO_sakura.sakura_sys_0020
+069	不對，那種事…<br>到底是什麼…？	VO_chloe.chloe_sys_0025
+070	霧…？　黑色…	VO_rena.rena_sys_0025
+071	…！　離遠點！<br>不能碰那個東西！	VO_rena.rena_sys_0042
+072	誒？　為什…？	VO_tyrufing.tyrufing_sys_0025
+073	什麼聲音？	VO_chloe.chloe_battle_0022
+074	敵襲…!?	VO_sakura.sakura_sys_0043
+075	打啊啊啊啊!
+076	啊！<br>那邊有誰在打鬥！
+077	！<br>那個是…！	VO_tyrufing.tyrufing_sys_0027
+078	過去看看！	VO_chloe.chloe_sys_0042
+079	忒誒誒誒誒誒誒誒誒!!	VO_shekina.shekina_battle_0001
+080	咕啊啊啊啊…
+081	唔…<br>沒完沒了…！<br>怎麼回事啊，這敵人！	VO_shekina.shekina_battle_0019
+082	哇！<br>有一個穿著很華麗的姐姐在戰鬥！
+083	雪姬娜！
+084	提爾鋒…？<br>你怎麼會在這裡…？	VO_shekina.shekina_sys_0025
+085	小心…<br>又要來了…！
+086	咕嚕嚕嚕嚕…
+087	雪姬娜！<br>話待會再說吧！	VO_tyrufing.tyrufing_sys_0042
+088	是呢…！<br>首先是，把敵人打倒！	VO_shekina.shekina_sys_0004
+089	我也，賭上騎士的名譽戰鬥！	VO_chloe.chloe_sys_0038
+090	好！<br>我也給你們看看<br>女忍者的力量！	VO_sakura.sakura_sys_0009

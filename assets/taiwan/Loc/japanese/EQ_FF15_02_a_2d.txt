@@ -1,0 +1,40 @@
+001	什麼事？	VO_ignis.ignis_sys_0025
+002	發生了什麼!?	VO_prompt.prompt_sys_0029
+003	…你們是誰	VO_dios.dios_sys_0001
+004	你好像不打算把劍收起來啊	VO_gladiolus.gladiolus_sys_0031
+005	還沒分清楚敵我的時候<br>不可能會輕易收劍吧	VO_dios.dios_sys_0010
+006	再問一次<br>你們到底是什麼人	VO_dios.dios_sys_0007
+007	什麼人…
+008	…好吧，回答你<br>我們是旅人	VO_ignis.ignis_sys_0037
+009	不過似乎是迷路了<br>不知道這裡是什麼地方
+010	是從哪個國家來的	VO_dios.dios_sys_0017
+011	…國家嗎	VO_ignis.ignis_sys_0010
+012	連所屬的國家都不能回答嗎？	VO_dios.dios_sys_0001
+013	…………路希斯王國	VO_ignis.ignis_sys_0039
+014	…路希斯…？	VO_dios.dios_sys_0025
+015	別一副沒聽過的表情	VO_gladiolus.gladiolus_sys_0006
+016	現在輪到我們來問你了<br>…這是哪裡？
+017	這是諾森布萊特<br>距離斯洛斯修坦的國境<br>還差一點的地方	VO_dios.dios_sys_0004
+018	這是哪裡!?	VO_prompt.prompt_sys_0025
+019	真的什麼都不知道嗎	VO_dios.dios_sys_0001
+020	在我們的世界裡<br>沒有這個地名…	VO_ignis.ignis_sys_0005
+021	…再問你一件事<br>知道剛才的軍隊嗎？	VO_dios.dios_sys_0016
+022	是帝國軍的魔導兵吧<br>是來找我們的傢伙	VO_gladiolus.gladiolus_sys_0031
+023	看來你們知道軍隊的名字啊…
+024	（軍隊和怪物的出現<br>難道是和他們<br>有什麼關係嗎…？）
+025	話說，差不多該把你的劍給…	VO_prompt.prompt_sys_0020
+026	好吧<br>就相信你們所說的	VO_dios.dios_sys_0004
+027	我是迪歐斯<br>你們呢？
+028	…我叫伊格尼斯	VO_ignis.ignis_sys_0005
+029	啊，額，我是，普羅恩普特…	VO_prompt.prompt_sys_0025
+030	…我是諾克提斯	VO_noctis.noctis_sys_1041
+031	我叫格拉迪歐藍斯	VO_gladiolus.gladiolus_sys_0004
+032	接下來該怎麼辦？	VO_prompt.prompt_sys_1001
+033	只能去尋找回去的辦法了	VO_noctis.noctis_sys_0050
+034	回去的辦法嗎…<br>我是為了調查那個神秘的軍隊和怪物<br>才來到這裡的
+035	你們知道情況的話<br>那就再好不過了
+036	看來他們的出現<br>和你們有關啊
+037	是啊<br>看來我們和魔導兵來到這個世界<br>應該是有什麼關聯性的	VO_ignis.ignis_sys_0045
+038	你們回去的話<br>估計那些傢伙也會消失<br>為了調查，能讓我和你們同行嗎	VO_dios.dios_sys_0037
+039	這樣對我們也是好事	VO_ignis.ignis_sys_0037
+040	談話先到此為止<br>那些傢伙又來了	VO_gladiolus.gladiolus_sys_0018

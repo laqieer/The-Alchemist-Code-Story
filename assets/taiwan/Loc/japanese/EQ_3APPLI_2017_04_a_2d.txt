@@ -1,0 +1,48 @@
+001	…結果“墮罪者”的情報，還有對策什麼的<br>完全沒有頭緒…<br>這樣怎麼贏啊…	VO_revatein.revatein_sys_0022
+002	呼呼…為何我要參加這種冒險啊…<br>好想吃家鄉的味噌拉麵啊…	VO_yuri.yuri_sys_0022
+003	你們快提起勁來!!<br>別被黑暗吞噬了！	VO_lizbeth.lizbeth_sys_0014
+004	你們都變成這樣的話…<br>我也會沒幹勁的…	VO_lizbeth.lizbeth_sys_0018
+005	太陽慢慢地被月亮覆蓋，<br>現在已經變成新月的形狀了
+006	(…隨著太陽的光芒變細，<br>大家內心的光芒<br>也在逐漸消失…)	VO_amaterasu.amaterasu_sys_0010
+007	(除了<p_name>之外…)
+008	…距離『黃昏空間』只差一點點啦！<br>大家快鼓起勇氣吧!!
+009	…為什麼<br>你怎麼知道還差一點點了？	VO_yuri.yuri_battle_0016
+010	羅盤不是只指著這個方向嗎…？
+011	不可思議的是<br>…一直看著羅盤<br>就能感覺到距離了
+012	…也許只是心理作用吧！
+013	啊…這是什麼意思啊？	VO_revatein.revatein_sys_0008
+014	…算了<br>既然<p_name>都這麼說了…	VO_revatein.revatein_sys_0007
+015	…雷瓦汀<br>對於到達『黃昏空間』這件事<br>似乎覺得挺害怕的…？	VO_yuri.yuri_sys_0010
+016	…我才不是害怕呢<br>只是明知對手強大<br>卻毫無對策…	VO_revatein.revatein_sys_0016
+017	…既然如此，<br>遇上就消滅就好啦!!	VO_lizbeth.lizbeth_event_1002
+018	…是啊<br>…都到這一步了<br>只能盡力而為了…	VO_yuri.yuri_sys_0022
+019	…大家，<br>馬上就到『黃昏空間』了…	VO_amaterasu.amaterasu_sys_0010
+020	大家…做好準備吧
+021	…………
+022	這裡是…『黃昏空間』？<br>…說是太陽的管理處<br>還以為是什麼美好的地方	VO_yuri.yuri_sys_0026
+023	嗯…<br>好像空氣相當沉重啊…	VO_lizbeth.lizbeth_sys_0018
+024	…本來是很清爽的空間的<br>是微暗的祥和的氛圍，<br>現在卻有不安的騷動…	VO_amaterasu.amaterasu_sys_0022
+025	變得更暗了？<br>…不對…這是霧…？	VO_revatein.revatein_sys_0021
+026	(啊…這個濃霧是…)	VO_lizbeth.lizbeth_chara_1008
+027	這次就墜入黑暗吧…！
+028	啊!?<br>又是這個聲音…！	VO_lizbeth.lizbeth_chara_1007
+029	哇!!	VO_lizbeth.lizbeth_battle_0024
+030	和別的船撞到了!?<br>…在這種濃霧下是沒有辦法的	VO_revatein.revatein_sys_0028
+031	不是撞到了，<br>而是被撞了啊！	VO_yuri.yuri_sys_0016
+032	正面被擋住了<br>船無法前進的！<br>移開那個船吧!!
+033	要抓到對面的船長才行呢	VO_revatein.revatein_sys_0038
+034	上吧!!<br>天照和<p_name>都先等著！	VO_lizbeth.lizbeth_sys_0004
+035	３人跳入了對面的船裡<br>但是，濃霧中，馬上就走散了…
+036	…百合！<br>雷瓦汀!!<br>大家都去哪裡了啊…	VO_lizbeth.lizbeth_chara_2007
+037	…有答案了嗎？　莉茲蓓特
+038	!!<br>啊，螞蟻…!?	VO_lizbeth.lizbeth_chara_1007
+039	受到阿斯莫德斯的詛咒…<br>我們蟲子…變回人類…這種事…<br>你覺得可能嗎？
+040	可以的!!<br>我…會努力的！	VO_lizbeth.lizbeth_sys_0018
+041	呃！	VO_lizbeth.lizbeth_battle_0021
+042	在這種地方…<br>和不明來歷的傢伙…<br>繞著路…
+043	那麼…莉茲蓓特…<br>我們到底什麼時候能變回人類？
+044	嗯…這個…	VO_lizbeth.lizbeth_sys_0027
+045	我們明天也許就會死…<br>而莉茲蓓特卻讓我們等待…好過分…
+046	不是的…	VO_lizbeth.lizbeth_sys_0020
+047	那麼…在我們死之前…
+048	莉茲蓓特…你先去死吧!!

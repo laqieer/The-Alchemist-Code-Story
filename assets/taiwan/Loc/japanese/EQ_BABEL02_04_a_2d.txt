@@ -1,0 +1,107 @@
+﻿001	聖教騎士團的英杰…扎哈爾大人<br>今后要和您一起戰鬥<br>我感到非常榮幸	VO_thiefm.thiefm_sys_0008
+002	感謝你們熱烈的歡迎<br>為了報答你們的恩情<br>我就把我的身體化為利刃吧	VO_zaharu.zaharu_sys_0004
+003	喔哦，好強大的話語…！<br>今后就是伙伴了<br>一起為了拉斯特里斯的光榮而戰吧！	VO_thiefm.thiefm_sys_0009
+004	恩…	VO_zaharu.zaharu_sys_0004
+005	扎哈爾大人…到底是怎麼回事<br>可以說明下嗎	VO_niggle.niggle_sys_0031
+006	為何我們，<br>會受到拉斯特里斯的人<br>如此的歡迎
+007	我在數年之前<br>就開始推行這個計劃了	VO_zaharu.zaharu_sys_0016
+008	離開腐朽的聖教騎士團<br>趁機奪取拉斯特里斯
+009	為此我就把蕾迪亞<br>送到拉斯特里斯<br>召集和我有相同志向的人
+010	這種事情…<br>但是…這個蕾迪亞<br>到底是什麼人	VO_niggle.niggle_sys_0044
+011	…我和她認識很久很久了<br>是我的…對，心腹	VO_zaharu.zaharu_sys_0031
+012	心腹…  
+013	…………
+014	（扎哈爾大人的心腹…？<br>我的左眼疼…！<br>這個女人…深不見底…！）	VO_niggle.niggle_sys_0029
+015	尼格爾啊…<br>你的能力，也在這個拉斯特里斯騎士團<br>全力發揮吧	VO_zaharu.zaharu_sys_0002
+016	我期待著	VO_zaharu.zaharu_sys_0010
+017	我就是這麼打算的	VO_niggle.niggle_sys_0010
+018	尼格爾，蕾迪亞<br>我們的腳步就從這裡…<br>拉斯特里斯開始！	VO_zaharu.zaharu_sys_0002
+019	我們的夢想道路…在遙遠的前方<br>無盡的原野<br>在等著我們呢…嘻嘻	VO_laetitia.laetitia_sys_0004
+020	但是…聖教會會坐視不管嗎…	VO_niggle.niggle_sys_0016
+021	哼…<br>聖教會休想讓我們的意志折服…！<br>讓他們好好看看	VO_zaharu.zaharu_sys_0010
+022	…………
+023	（夢想之路…我黑暗的夢想<br>就賭在這個男人身上）
+024	（…扎哈爾大人成為拉斯特里斯騎士<br>很快就要進行基爾拉克戰役<br>馬上就要開始嶄露頭角）
+025	（…為了戒備聖教騎士團的介入<br>連鍊金術都不用…）
+026	嗚啊！	VO_knightm.knightm_battle_0024
+027	嘔唔…!?	VO_knightm.knightm_battle_0025
+028	哼！<br>毫無意思的家伙們	VO_zaharu.zaharu_sys_0010
+029	這個銀發男是…!?	VO_knightm.knightm_battle_0019
+030	好強…！<br>和之前的拉斯特里斯兵<br>完全不同!!	VO_knightm.knightm_sys_0027
+031	（…他的劍鋒以及智謀都更加銳利了<br>這位大人到底會變的多強…）	VO_niggle.niggle_sys_0021
+032	一段時間不見…<br>你變的更強了呢…嘻嘻<br>就好像是駿馬…白銀之鬃…	VO_laetitia.laetitia_sys_0025
+033	（蕾迪亞…本身就深不可測了…<br>戰鬥的技巧也無法看透…<br>能戰鬥嗎…？）	VO_niggle.niggle_sys_0031
+034	呀啊啊啊!!	VO_knightm.knightm_battle_0008
+035	別礙事	VO_laetitia.laetitia_battle_0010
+036	！	VO_knightm.knightm_battle_0024
+037	!?	VO_niggle.niggle_sys_1050
+038	（好快…!?<br>被扎哈爾大人稱為心腹<br>并且十分信賴的女人…）	VO_niggle.niggle_sys_0022
+039	嘻嘻…	VO_laetitia.laetitia_sys_0007
+040	!?
+041	（我也不能落后…!!）	VO_niggle.niggle_sys_0018
+042	什麼――!?	VO_knightm.knightm_sys_0043
+043	嘗嘗吧…我的黑暗之刃…!!	VO_niggle.niggle_battle_0004
+044	（在這次局部戰鬥中拉斯特里斯軍<br>完勝了安比利亞軍…）
+045	（之后我們也在戰場上馳騁，<br>引導拉斯特里斯走向勝利）
+046	（然後扎哈爾大人――）
+047	是扎哈爾大人！	VO_mob-saga_ymale.mob-saga_ymale_sys_0046
+048	扎哈爾大人回來啦！	VO_mob-saga_ymale.mob-saga_ymale_sys_0009
+049	扎哈爾大人是這個國家的英雄!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0008
+050	（扎哈爾大人在拉斯特里斯國中<br>被稱為“英雄”）
+051	扎哈爾大人，多虧了您<br>我國的鍊金術研究<br>有了飛躍式的進展	VO_knightm.knightm_sys_0007
+052	如果有您從聖教會<br>帶來的知識<br>就能有更進一步的發展了！
+053	能夠對所長大人有幫助就好<br>…那麼，想告訴我的是什麼事…？	VO_zaharu.zaharu_sys_0004
+054	請看！<br>這兩個數值顯示著鍊金的含有量<br>	VO_mob-saga_ymale.mob-saga_ymale_sys_0007
+055	這個數字…這是強制的――
+056	居然在秘密的進行這種研究…<br>應該不是單單為了拉斯特里斯吧？	VO_niggle.niggle_sys_0044
+057	…瑪格納法典、鍊金術師·命令<br>規定了各種“枷鎖”…<br>在扎哈爾大人的世界里是不需要的…	VO_laetitia.laetitia_sys_0004
+058	…我聽說你和扎哈爾大人一起<br>在聖教騎士團工作過<br>那你是什麼時候來這裡的	VO_niggle.niggle_sys_0001
+059	…………
+060	哼…沒必要回答我是嗎	VO_niggle.niggle_sys_0010
+061	喂	VO_laetitia.laetitia_sys_0001
+062	…？<br>真少見啊，你居然會主動找我說話	VO_niggle.niggle_sys_0006
+063	你的眼罩<br>是什麼意思？	VO_laetitia.laetitia_sys_0003
+064	…………<br>為了抑制自己的力量	VO_niggle.niggle_sys_0010
+065	力量…？<br>什麼樣的？	VO_laetitia.laetitia_sys_0025
+066	『邪眼』…雷恩哈特家每一代<br>都只有一個人能繼承的，是被詛咒之眼<br>以疼痛為代價，會給我力量	VO_niggle.niggle_chara_1006
+067	一旦解放…<br>我就會被黑暗吞噬
+068	是嗎…<br>真是厲害啊	VO_laetitia.laetitia_sys_0016
+069	…………<br>哼	VO_niggle.niggle_sys_0010
+070	（果然…是個深不見底的女人）	VO_niggle.niggle_sys_0029
+071	聖教騎士團…？	VO_niggle.niggle_sys_0025
+072	有情報說他們打算秘密襲擊拉斯特里斯<br>一個貴族的宅邸	VO_laetitia.laetitia_sys_0004
+073	這個貴族似乎就是<br>那個鍊金術研究所的所長
+074	…是誰泄露了情報呢	VO_niggle.niggle_sys_0031
+075	也不一定…<br>他們…特別是骸的情報收集能力<br>可不一般…	VO_zaharu.zaharu_chara_1001
+076	被他們盯上了嗎…
+077	該怎麼辦呢<br>敵人就是敵人<br>我們該出動嗎…還是…	VO_niggle.niggle_sys_0016
+078	我們不去就阻止不了<br>…對了，尼格爾，我們來欺騙一下這些<br>圖謀不軌的家伙如何？	VO_zaharu.zaharu_sys_0031
+079	欺騙…？　該怎麼辦？	VO_niggle.niggle_sys_0006
+080	我們<br>都穿上那身久違的服裝吧	VO_zaharu.zaharu_sys_0010
+081	偽裝…？	VO_niggle.niggle_sys_0006
+082	（沒想到…<br>又再次穿上這件衣服了…）	VO_niggle.niggle_sys_0016
+083	扎哈爾大人，似乎出現了…	VO_laetitia.laetitia_sys_0029
+084	…………
+085	啊…你們好快啊…	VO_stknightm.stknightm_sys_0025
+086	恩…<br>你們遲到了啊<br>這間宅邸已經沒人了…	VO_zaharu.zaharu_sys_0004
+087	什麼…？<br>怎麼回事!?	VO_stknightm.stknightm_sys_0026
+088     啊――!?<br>你干什麼!?	VO_stknightm.stknightm_battle_0022
+089	你個叛徒!!	VO_stknightm.stknightm_sys_0013
+090	哼…<br>居然被你們這些家伙稱為叛徒…<br>圖謀世界的你們才是叛徒！	VO_zaharu.zaharu_sys_0010
+091	大家快來打倒這個叛徒！	VO_stknightm.stknightm_battle_0025
+092	都收拾掉了嗎…<br>那我們回去吧	VO_niggle.niggle_sys_0016
+093	…………<br>扎哈爾大人，宅邸中有動靜	VO_laetitia.laetitia_sys_0002
+094	什麼…？	VO_zaharu.zaharu_sys_0025
+095	這是…!?	VO_niggle.niggle_sys_0026
+096	難道是…骸…！	VO_zaharu.zaharu_sys_0027
+097	…………<br>難道是想連同<br>企圖逃跑的人一起，把屋子都燒掉嗎	VO_laetitia.laetitia_sys_0029
+098	這群腐敗的家伙！<br>快走！	VO_zaharu.zaharu_sys_0019
+099	住手…別這樣啊！	VO_knightm.knightm_sys_0028
+100	…殺	VO_thiefm.thiefm_sys_0007
+101	啊…啊…！	VO_knightm.knightm_battle_0027
+102	…把屋子里的人全部滅掉	VO_thiefm.thiefm_sys_0002
+103	聖教會的走狗們…	VO_zaharu.zaharu_sys_0027
+104	扎哈爾，你…<br>居然敢攪亂我們的任務…	VO_thiefm.thiefm_sys_0016
+105	…不可原諒	VO_zaharu.zaharu_sys_0028
+106	我們不需要你原諒<br>正好。你也在這裡死掉吧	VO_thiefm.thiefm_sys_0029
+107	放屁…死的是你們！	VO_zaharu.zaharu_sys_0032

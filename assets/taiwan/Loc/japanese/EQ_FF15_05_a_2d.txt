@@ -1,0 +1,35 @@
+001	樣子有些奇怪呢	VO_ignis.ignis_sys_0011
+002	啊？	VO_noctis.noctis_sys_0006
+003	是魔導兵<br>和平時戰鬥的魔導兵<br>似乎有點不一樣	VO_ignis.ignis_sys_0005
+004	是吧<br>我也有同感<br>比平時的強一點	VO_gladiolus.gladiolus_sys_1045
+005	那些士兵不是人類…	VO_dios.dios_sys_0017
+006	只要戰鬥過就知道了<br>那裡面沒有人類<br>只是機械士兵	VO_ignis.ignis_sys_0005
+007	…聽說斯洛斯修坦裡<br>也有叫做阿爾卡洛德的<br>機械兵
+008	你們這裡也有機械兵嗎？	VO_prompt.prompt_sys_0025
+009	嗯。而且在斯洛斯修坦，<br>好像還有用鍊金能量<br>驅動的魔人	VO_dios.dios_sys_0037
+010	更詳細的話我就不便透露了
+011	雖然不太清楚，<br>但是像魔法那樣的嗎？	VO_noctis.noctis_sys_0031
+012	…嗯，差不多吧<br>總之去斯洛斯修坦吧	VO_dios.dios_sys_0004
+013	（魔人…阿爾卡洛德…魔導兵…）
+014	（和加比隆德所說的<br>斯洛斯修坦的<br>異變有什麼關係嗎…？）
+015	雖然不知道具體的情況<br>但還是快點趕去吧	VO_ignis.ignis_sys_0045
+016	迪歐斯坐助手位吧	VO_ignis.ignis_sys_0024
+017	…………！<br>我也坐這個…？	VO_dios.dios_sys_0025
+018	難道你想走著去嗎？	VO_prompt.prompt_sys_0025
+019	沒…但是…	VO_dios.dios_sys_0039
+020	快上去吧<br>這裡很狹窄的
+021	啊，好…	VO_dios.dios_event_1005
+022	吹風的感覺真好！	VO_prompt.prompt_sys_0046
+023	…嗯嗯	VO_dios.dios_sys_0004
+024	好，我拍照咯	VO_prompt.prompt_sys_0003
+025	這是什麼？	VO_dios.dios_sys_0002
+026	嗯？是相機啊<br>待會兒讓你看拍好的照片？	VO_prompt.prompt_chara_1010
+027	…？
+028	似乎可以看到街道了
+029	…好像在冒煙	VO_noctis.noctis_sys_0006
+030	哇～那就是之前說的街道？	VO_prompt.prompt_sys_0044
+031	恐怕是的	VO_dios.dios_sys_0037
+032	哎，不知道嗎？<br>沒有去過的街道，<br>讓人感覺有點激動呢	VO_prompt.prompt_sys_0025
+033	很遺憾<br>看來沒那麼容易到達啊？	VO_gladiolus.gladiolus_sys_0030
+034	又是這群傢伙…	VO_noctis.noctis_sys_0012
+  

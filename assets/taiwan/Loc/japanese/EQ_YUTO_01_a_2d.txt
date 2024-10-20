@@ -1,0 +1,125 @@
+﻿001	這裡…這裡也是…<br>這樣下去的話，就糟糕了…	VO_yuhto.yuhto_sys_0018
+002	看來你有結論了<br>我問你啊，尤特<br>這些樹怎麼了？	VO_peridot.peridot_chara_1007
+003	佩里德特…<br>這些樹被病痛侵襲了
+004	果然…	VO_peridot.peridot_chara_1028
+005	雖然為了治療森林，我很努力了…<br>但是這樣不長久…	VO_yuhto.yuhto_sys_0006
+006	這裡是我們太古森林之外<br>森林精靈的庇護無法到達的，與人界的邊境
+007	所以才遲遲沒有注意到…<br>這片土地的鍊金已經扭曲了	VO_peridot.peridot_sys_0031
+008	這些樹<br>吸收了太多鍊金了…<br>所以樹自身也開始枯竭…	VO_yuhto.yuhto_chara_1013
+009	可以治療嗎？	VO_peridot.peridot_chara_1001
+010	…………	VO_yuhto.yuhto_sys_0031
+011	在諾森林布萊特的書裡<br>有出現過和這個相同症狀的樹…
+012	現在也許<br>還能試試這種療法…
+013	需要在『古代的靈骨』上的靈草…<br>看來需要一些時間
+014	那就交給你把<br>…但真是驚訝啊	VO_peridot.peridot_sys_0010
+015	…？	VO_yuhto.yuhto_sys_0018
+016	高山的居民，因為環境的緣故<br>對外界幾乎不關心…<br>沒想到還有你這樣行走外界的人
+017	我只是想知道些事情<br>僅此而已…<br>那裡的樹草都很貧乏…	VO_yuhto.yuhto_sys_0007
+018	想知道的事情？	VO_peridot.peridot_sys_0004
+019	世界是很大的…<br>有我沒見過的自然與生活…<br>而且…	VO_yuhto.yuhto_sys_0006
+020	透過鍊金術…透過人類<br>改變了森林以及動物的景象<br>我見過很多
+021	這個索波…<br>松鼠們的森林，也被人類破壞了	VO_yuhto.yuhto_sys_0018
+022	…這裡
+023	不知道的話就無法應對…<br>為了知道這些，<br>就必須下山…
+024	僅此而已…
+025	這樣啊…那你就努力吧<br>你的知識確實能幫到森林	VO_peridot.peridot_sys_0006
+026	被佩里德特如此誇獎<br>就有自信了…	VO_yuhto.yuhto_sys_0033
+027	但是，想知道的事情…嗎…<br>確實有這樣的旅行呢	VO_peridot.peridot_sys_0045
+028	…佩里德特？	VO_yuhto.yuhto_chara_1002
+029	…別管這些了，樹木的醫生啊<br>一切就交給你了<br>如果需要傾聽森林之聲，就叫我吧	VO_peridot.peridot_sys_0041
+030	…知道了
+031	好久沒來這座山了……	VO_yuhto.yuhto_sys_0022
+032	嗚？
+033	是啊，奇波<br>我們不是來玩的呢……	VO_yuhto.yuhto_sys_0006
+034	你貓頭鷹般的眼力…<br>幫我看看吧
+035	靈草確實是在<br>對面山間裡…
+036	咻嗚！
+037	希埃諾？　感覺到什麼了？	VO_yuhto.yuhto_chara_1002
+038	你的鼻子<br>在撒加地方森林的狐狸中<br>也是數一數二的…告訴我怎麼了？
+039	…血的味道？　是真的嗎!?<br>帶我去…	VO_yuhto.yuhto_sys_0005
+040	…傭兵嗎<br>不像是被野獸襲擊的…<br>這是利刃的…是人幹的？
+041	…!?	VO_yuhto.yuhto_battle_0019
+042	哼？　居然擋住了<br>格拉特尼弗斯的傭兵<br>居然有你這樣的	VO_rusia.rusia_sys_0044
+043	你是…誰？	VO_yuhto.yuhto_sys_0003
+044	…恩？　你是什麼人<br>…難道是無關人員？	VO_rusia.rusia_event_1009
+045	不知道你在說什麼…<br>幹掉這些人的是你嗎…？	VO_yuhto.yuhto_sys_0012
+046	這座山是我們的故鄉<br>如果敢褻瀆的話…
+047	切，今天是倒楣日嗎…！	VO_rusia.rusia_sys_0016
+048	哇！等等！<br>兩人都住手!?	VO_alba.alba_sys_0028
+049	…阿爾巴？	VO_yuhto.yuhto_sys_0025
+050	…而且還是認識的<br>真是個倒楣日啊	VO_rusia.rusia_sys_0030
+051	…到底是？
+052	呃，尤特<br>其實現在很忙的…	VO_alba.alba_sys_0031
+053	要敘舊的話<br>還是先離開這裡吧<br>可能還有追兵啊	VO_rusia.rusia_sys_0002
+054	啊，是啊！<br>喂、尤特！　這裡！	VO_alba.alba_chara_1008
+055	啊啊…	VO_yuhto.yuhto_sys_0006
+056	…來到這裡就可以放心了	VO_rusia.rusia_sys_0007
+057	真的？<br>終於可以休息了	VO_alba.alba_sys_0025
+058	阿爾巴，到底是怎麼回事…<br>還有和你一起的琦琦和亞德爾呢…	VO_yuhto.yuhto_sys_0002
+059	他們今天都看家呢<br>抱歉，尤特。把你捲了進來	VO_alba.alba_chara_1001
+060	其實是受到附近村民的委託<br>來這邊討伐魔物的…
+061	但是那些傭兵<br>似乎是壞人…	VO_alba.alba_sys_0022
+062	工作剛結束<br>就來襲擊我們
+063	壞人…	VO_yuhto.yuhto_sys_0044
+064	…我都看到了<br>確實都不是好人	VO_rusia.rusia_sys_0002
+065	路西亞是自己人哦<br>保護了我<br>還帶我到山裡來	VO_alba.alba_sys_0007
+066	報酬方面<br>都已經事先給我了	VO_rusia.rusia_sys_0024
+067	…然後就拜託你了<br>收藏品送不到的話會很苦惱
+068	…收藏品，是那些銃嗎？<br>斯洛斯修坦的最新設計	VO_alba.alba_chara_2001
+069	據說是『機械之國的魔法師』所設計的<br>帶有連射功能的魔導銃…？	VO_alba.alba_chara_1008
+070	機械之國…	VO_yuhto.yuhto_chara_1002
+071	嗯？　怎麼了？	VO_alba.alba_chara_1006
+072	不…沒什麼<br>剛才說些無關的話…	VO_yuhto.yuhto_sys_1047
+073	聽說斯洛斯修坦的軍隊<br>已經正式採用了啊<br>稍微有點在意…
+074	來這裡賣軍需品的商人<br>是非常少的	VO_rusia.rusia_sys_0031
+075	之前就有點在意了<br>這麼多武器拿了是要幹嘛？	VO_alba.alba_sys_0002
+076	…興趣	VO_rusia.rusia_sys_0050
+077	因為興趣收集武器？	VO_alba.alba_sys_0025
+078	別以為我是個單純的收藏家？<br>我帶的武器我全部都用<br>是興趣和實際作用兼顧的	VO_rusia.rusia_chara_1002
+079	雖然鑒賞也是一種喜好<br>但是武器還是要拿來用的	VO_rusia.rusia_event_1005
+080	特別是最新設計，<br>都帶有實用性和實驗中的功能，<br>有時就會有難以想像的運用…
+081	嗯…所以你才<br>不斷訂購這些武器…	VO_alba.alba_sys_0008
+082	我願意一直被阿爾巴<br>雇傭的理由就是這個
+083	在我所知道的人當中<br>他的商業手段相當廣泛<br>放著不買太可惜了
+084	雖然商人是為了賺錢<br>但是在這裡我想說是<br>“為了友情”	VO_alba.alba_sys_0016
+085	商人準備報酬、傭兵為錢而動<br>比起友情<br>其實就是利益關係吧？	VO_rusia.rusia_sys_0011
+086	這種關係<br>現在變得靠不住了？	VO_alba.alba_sys_0006
+087	題外話了<br>不要把我和那群沒信用的<br>相提並論	VO_rusia.rusia_sys_0030
+088	路西亞…是吧<br>你的事情我知道了…	VO_yuhto.yuhto_sys_0001
+089	但是即使是惡人<br>也不會沒理由去殺人…
+090	是呢	VO_rusia.rusia_sys_0006
+091	剛才說了，傭兵為錢而動<br>所以說作為傭兵的理由――<br>是有誰這麼委託的吧
+092	關於這個<br>有什麼線索嗎？	VO_rusia.rusia_sys_0002
+093	也許是那個吧…
+094	最近，格拉特尼弗斯的惡毒商會聯手起來<br>在撒加地方地區進行不法的實驗<br>有這種傳聞	VO_alba.alba_sys_0031
+095	然後我探查的結果<br>很容易就把證據掌握了	VO_alba.alba_sys_0004
+096	但是僅靠這些<br>格拉特尼弗斯本國是不會出動的
+097	據說實驗場就在這附近<br>本來想趁著消滅魔物<br>順便收集進一步的鐵證	VO_alba.alba_sys_0010
+098	為何做這麼危險的事情…	VO_yuhto.yuhto_sys_0031
+099	剛才路西亞<br>說到傭兵的信用<br>作為商人也是如此
+100	如果讓他們為所欲為<br>就會影響到我們的信用<br>“信用”是商人的生命啊	VO_alba.alba_sys_0030
+101	…而且撒加地方是我們的地盤	VO_alba.alba_sys_0004
+102	因為那種慾望<br>就想肆意做買賣的人<br>也不可以不管
+103	…所以商會的傢伙們<br>就慌忙派刺客來了嗎…	VO_rusia.rusia_sys_0004
+104	擊退這種程度的魔物<br>為何需要我<br>一直有疑問…
+105	原來如此<br>反正付了報酬就好了	VO_rusia.rusia_sys_0045
+106	因為，路西亞你<br>絕對不會背叛委託人的？	VO_alba.alba_sys_0031
+107	…我先說好<br>我需要追加報酬	VO_rusia.rusia_sys_0023
+108	…對了<br>所以才把琦琦和亞德爾…	VO_yuhto.yuhto_sys_0045
+109	他們太顯眼了<br>不能帶來這種秘密調查	VO_alba.alba_sys_0004
+110	對了<br>尤特為何在山裡？<br>這個時期不應該是在撒加地方森林？	VO_alba.alba_chara_1001
+111	這個…	VO_yuhto.yuhto_chara_1013
+112	找到了！　商人小鬼！<br>路西亞也在！
+113	…不好！<br>話說太長了嗎？	VO_alba.alba_sys_0009
+114	還是逃跑啊…<br>只要過了對面山峰，就是撒加地方森林<br>不認識路的人絕對不敢追…	VO_yuhto.yuhto_sys_0017
+115	不行的<br>要在這裡消滅他們	VO_rusia.rusia_sys_0010
+116	…為什麼？	VO_yuhto.yuhto_sys_0005
+117	在這裡失去我們的蹤跡的話<br>他們會返回商會<br>報告我們的行蹤	VO_rusia.rusia_sys_0016
+118	即使我們安全撤離了<br>之後被追蹤的可能性還是很大
+119	為了委託人的安全<br>不可以讓追兵活著回去
+120	…但是
+121	抱歉，尤特<br>我也覺得路西亞是對的	VO_alba.alba_sys_0035
+122	…………	VO_yuhto.yuhto_sys_0031
+123	不喜歡的話就待著吧<br>那種程度的對手，我一個人就能應付	VO_rusia.rusia_sys_0002
+124	…我不能放著阿爾巴不管	VO_yuhto.yuhto_sys_0014
+125	是嗎<br>那就別拖我後腿哦！	VO_rusia.rusia_sys_0004

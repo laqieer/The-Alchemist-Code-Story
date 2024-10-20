@@ -1,0 +1,34 @@
+﻿001	（…總算是逼退第一陣了…<br>但是，敵方的大軍還在那邊…<br>什麼時候攻來…？）	VO_lucretia.lucretia_sys_0032
+002	（但是…<br>沒有站在前線，<br>真是不好戰鬥啊…）	VO_lucretia.lucretia_sys_0012
+003	原來您在這裡啊…	VO_gein.gein_sys_1047
+004	…是你啊…<br>怎麼了…？	VO_lucretia.lucretia_sys_0006
+005	沒有，剛才的戰鬥…<br>真是精彩的指揮<br>但是…	VO_gein.gein_event_1001
+006	士兵們有些迷惑呢<br>不管什麼時候，都在最前鋒的公主騎士大人<br>這次用不同的方式來戰鬥啊，這麼說著
+007	果然是在意著<br>近侍們的責備話語嗎？	VO_gein.gein_sys_0020
+008	…凱伊<br>你、為什麼到這裡來了？	VO_lucretia.lucretia_sys_0001
+009	你不是我的部下<br>應該沒有來這裡的理由
+010	我確實不是公主殿下的部下…<br>但是，我也是騎士<br>出戰是理所當然的吧？	VO_gein.gein_sys_0037
+011	…原來如此<br>確實是這樣…<br>那麼。我就直白地問了…	VO_lucretia.lucretia_sys_0004
+012	為什麼纏著我？<br>你的目的是…什麼？	VO_lucretia.lucretia_sys_0018
+013	…為了幫助公主…<br>這樣的理由怎麼樣？	VO_gein.gein_sys_0031
+014	你覺得我，需要你的幫助？	VO_lucretia.lucretia_sys_0010
+015	呼…您不接受這個理由啊	VO_gein.gein_sys_0020
+016	公主殿下很強…<br>應該不需要我的幫助什麼的吧…
+017	…
+018	那麼…我告訴您<br>我的目的	VO_gein.gein_sys_0016
+019	我的父親是，聖騎士<br>但是，沒有特別出眾的功績，<br>但也沒有失體面的事…
+020	忠義中庸的騎士…<br>這麼說聽起來好聽<br>但實際上是個無害、無益的平凡人…
+021	我…<br>不想成為像父親那樣的人！	VO_gein.gein_event_1013
+022	我要向上！<br>是的…！　<br>我要爬到頂峰為王…!!
+023	那就是我的夙願！<br>為了實現它…，<br>我會不擇手段…!!
+024	所以…我<br>接近了…盧克蕾蒂亞殿下	VO_gein.gein_sys_0020
+025	（為了夙願，<br>不擇手段…啊）
+026	噗…<br>呼呼…<br>啊哈哈哈哈…!!	VO_lucretia.lucretia_sys_0008
+027	很奇怪嗎？	VO_gein.gein_sys_0002
+028	不是…<br>只是覺得你說服人的這些話很是鼓舞啊！<br>你這份覺悟，我很中意！	VO_lucretia.lucretia_chara_1003
+029	來了嗎…！	VO_lucretia.lucretia_battle_0020
+030	安比利亞的士兵們!!<br>我與你們同在!!<br>跟隨我，安比利亞的公主・盧克蕾蒂亞!!	VO_lucretia.lucretia_battle_0015
+031	盧克蕾蒂亞殿下…<br>這樣好嗎？<br>又要被近侍們責備了	VO_gein.gein_sys_1047
+032	管他的<br>我想做的事<br>我就要去做！	VO_lucretia.lucretia_sys_0010
+033	凱伊！　你一起來！<br>想娶我的話<br>先把眼前的敵人擊潰再說!!	VO_lucretia.lucretia_sys_0002
+034	好…!!<br>騎士・凱伊，<br>奉陪到底!!	VO_gein.gein_battle_0002

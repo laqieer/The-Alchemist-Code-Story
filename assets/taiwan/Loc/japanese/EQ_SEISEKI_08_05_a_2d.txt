@@ -1,0 +1,67 @@
+﻿001	陛下！　請避難…！<br>格里特達伊克的傢伙<br>已經在…啊！	VO_courtmage.courtmage_battle_0022
+002	…失禮。魯斯特布魯格王國女王…<br>比娜絲・多塔・魯斯特布魯格陛下<br>就是你吧？
+003	…我和不知禮數的傢伙們<br>沒興趣說話<br>在幹嘛呢…快點幹掉	VO_venus.venus_sys_0010
+004	是！	VO_courtmage.courtmage_sys_0032
+005	…還希望事情能穩當的解決…<br>果然是個不聽話的主子啊	VO_stknightm.stknightm_sys_0031
+006	！？<br>我的魔法無效…！？	VO_courtmage.courtmage_sys_0020
+007	解決掉！	VO_stknightm.stknightm_sys_0001
+008	哇！！	VO_courtmage.courtmage_battle_0027
+009	…！	VO_venus.venus_sys_0027
+010	我們的目的<br>只是魯斯特布魯格的聖石『阿斯莫德斯』…<br>不是你的命
+011	老實點交出來的話<br>奧萊伊恩陛下也會饒你不死
+012	奧萊伊恩…那個混蛋<br>如此囂張…！<br>…消失吧無禮的傢伙！	VO_venus.venus_sys_0012
+013	作亂的傢伙！<br>讓我教教你們<br>會有何種下場…
+014	…真是個不通情理的女王	VO_stknightm.stknightm_sys_0030
+015	！？	VO_venus.venus_battle_0019
+016	抓起來<br>在『阿斯莫德斯』到手之前<br>絕不可以殺了	VO_stknightm.stknightm_battle_0025
+017	我的魔法無效…！？<br>…被施加了特殊的魔法防禦嗎…？<br>那麼…！	VO_venus.venus_sys_0027
+018	！？<br>這些大量的蟲…！？<br>你想幹嘛…！？	VO_stknightm.stknightm_sys_0028
+019	哼…這些人的身上<br>寄宿著鍊金之力	VO_venus.venus_sys_0010
+020	以他們為媒介的話<br>就憑你們這些格里特達伊克…
+021	“水氣減速”！	VO_ortima.ortima_sys_0032
+022	啊！！	VO_stknightm.stknightm_battle_0028_c
+023	！？<br>…凍住了…！？	VO_venus.venus_sys_0025
+024	你想把男人們獻祭掉<br>成為自己的力量嗎…？	VO_ortima.ortima_chara_1005
+025	…！　誰…！？	VO_venus.venus_sys_0042
+026	不可以的哦…<br>陛下應該是要守護國民的	VO_ortima.ortima_sys_0030
+027	而且…<br>既然宣布了緊急事態<br>迎擊格里特達伊克就是我的工作了
+028	…！<br>你是聖教騎士團的…！	VO_venus.venus_sys_0027
+029	哇！　等等啊！<br>全裸的抓起來就免了吧！<br>今天就不要搞什麼男子禁入…了吧！？	VO_ortima.ortima_battle_1028
+030	…你是歐提瑪？<br>為何你的招數<br>對他們有效…？	VO_venus.venus_sys_0001
+031	不…<br>其實是沒用的？
+032	我只是連這些人的魔法防禦一起<br>凍住了而已
+033	…但是…很奇怪啊…	VO_ortima.ortima_chara_1011
+034	奇怪…？	VO_venus.venus_sys_0025
+035	是。如此完美的<br>完全防禦我從未見過…
+036	這個世界的<br>任何防禦法<br>都不應該一點傷害沒有的
+037	…確實<br>…我的招數完全無效的情況<br>從未見過	VO_venus.venus_sys_0031
+038	而且這些人…<br>不是實驗體，而是普通的士兵	VO_ortima.ortima_sys_0031
+039	…到底是什麼人<br>施加了魔法防禦？
+040	…如此冷靜的判斷力<br>…還有這麼強大的魔法能量…
+041	！？
+042	…不愧是…歐提瑪團長	VO_acht.acht_sys_0044
+043	後面…！？<br>…啊！！	VO_ortima.ortima_battle_1028
+044	…！　誰…！？	VO_venus.venus_sys_0027
+045	『維達十戒眾』之一…<br>“七鬥術的阿哈特”…因為某些原因<br>現在和格里特達伊克一起戰鬥	VO_acht.acht_chara_1001
+046	！？<br>維、維達…十戒眾…！？	VO_ortima.ortima_battle_1013
+047	你這個混蛋…<br>就是你施加的魔法防禦…？	VO_venus.venus_sys_0012
+048	既然魔法無效…<br>就砍死你吧！	VO_venus.venus_battle_0004
+049	…“金屬手套”	VO_acht.acht_battle_0001
+050	義肢…！？　糟糕…！	VO_ortima.ortima_battle_1028
+051	啊…！<br>好厲害…	VO_venus.venus_battle_0019
+052	不行！　快趴下！	VO_ortima.ortima_battle_1013
+053	別阻止我！<br>只要把他們作為媒介…！	VO_venus.venus_sys_0027
+054	對了…<br>你好像是想把這些人的鍊金<br>化為己有是嗎	VO_acht.acht_sys_0016
+055	什麼…？	VO_venus.venus_sys_0027
+056	“散熱器”	VO_acht.acht_battle_0004
+057	…！<br>他想要放火燒！　快跑！	VO_ortima.ortima_battle_1028
+058	你們…！	VO_venus.venus_sys_0042
+059	呃！<br>…“水氣減速”！	VO_ortima.ortima_battle_0019
+060	…！
+061	把蟲子都凍住了！？<br>你…	VO_venus.venus_sys_0027
+062	抱歉我盡全力了<br>後面再慢慢治療吧	VO_ortima.ortima_sys_0035
+063	不好啊…只要他切換義肢<br>攻擊模式就會改變…<br>就無法掌握節奏	VO_ortima.ortima_sys_0022
+064	…而且你<br>…說了些令人在意的話啊
+065	“維達”…？	VO_acht.acht_sys_0004
+066	是的…<br>我也是“魯斯特布魯格”的出身<br>…和你相同
+067	…！

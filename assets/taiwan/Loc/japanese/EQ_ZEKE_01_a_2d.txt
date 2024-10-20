@@ -1,0 +1,146 @@
+﻿001	更重要的是，我們蒼炎騎士團<br>要去拉斯特里斯討伐餘黨！	VO_zeke.zeke_battle_0015
+002	根據傳聞據說《三傑》中的一員<br>雷轟將軍・弗拉德在那裡現身了。
+003	全員，打起精神幹活了！
+004	好...！
+005	...馬上就要初次作戰了	VO_logi.logi_sys_0016
+006	什麼呀，洛基。難道你在緊張嗎？	VO_dios.dios_sys_0005
+007	當然...<br>作為蒼炎騎士團團長的兒子<br>必須打合乎身份的戰鬥	VO_logi.logi_sys_0027
+008	我們可是從那位父親大人那裡<br>領受了劍的啟蒙。拿出自信來	VO_dios.dios_sys_0031
+009	話是這麼說...	VO_logi.logi_sys_0031
+010	放輕鬆，洛基	VO_zeke.zeke_sys_0001
+011	父親大人！
+012	而且迪歐斯<br>我知道你用劍的本領，但是千萬不要驕傲<br>戰場就是常常不知道會發生什麼狀況的地方	VO_zeke.zeke_sys_0010
+013	知道了，父親大人
+014	很好<br>能安心把奧爾多林堡壘的防衛交給你們<br>騎士團的一半交給你，隨你使用	VO_zeke.zeke_sys_0031
+015	是！　我知道了！
+016	一定，照您所期待的那樣戰鬥！
+017	...你們兩個，要用心聽	VO_zeke.zeke_sys_0005
+018	接下來<br>你們將浸入戰場的空氣<br>但是，不要被吞滅了
+019	嚴格要求自己<br>做該做的事
+020	如果你們做到了<br>才是第一次真正意義上<br>成為蒼炎騎士團的一員
+021	是
+022	而...<br>這是作為一名父親的一句話<br>一定，要活著回來！！	VO_zeke.zeke_sys_0031
+023	是！
+024	...去了嗎
+025	他們兩個人都一副很棒的表情<br>就像看到了年輕時的吉克大人一樣
+026	哼，讓開<br>我在他們那樣大的時候只是一個小孩<br>連理想什麼都沒有的小孩	VO_zeke.zeke_sys_0010
+027	如果這樣的話，蒼炎騎士團的未來就很光明	VO_knightm.knightm_sys_0007
+028	...可能吧
+029	堡壘的保衛兵那樣就行了<br>剩下的人怎麼做？	VO_knightm.knightm_sys_0001
+030	為了呼應此次的暴動<br>潛藏的拉斯的餘黨們<br>漸漸聚集起來了	VO_zeke.zeke_sys_0037
+031	我們率領剩下的騎士團<br>在他們匯合前逐個擊破
+032	好！	VO_knightm.knightm_sys_0032
+033	就在前面！　越過那個山丘的前面<br>布拉德將軍的陣容――！	VO_thiefm.thiefm_battle_0019
+034	經過長久的埋伏<br>再次把我們的土地奪回來...！
+035	...我們可不允許
+036	那是《血狼》的吉克？！<br>怎麼可能，為什麼在這裡...！	VO_thiefm.thiefm_battle_0022
+037	...二十年<br>早就不希望戰禍<br>也有人希望作為安比利亞的人民生存下去
+038	快投降<br>沒有必要再流無謂的血
+039	閉嘴！嗜血成性的野獸們！	VO_thiefm.thiefm_battle_0013
+040	全員，不管武器了！<br>盡量越過那個山丘<br>趕到布拉德將軍那裡！
+041	...吉克大人
+042	...盡量活捉<br>憤怒的開端，很久以前就結束了	VO_zeke.zeke_sys_0031
+043	哈！	VO_knightm.knightm_sys_0032
+044	血狼，過...
+045	（過去<br>在這個平原上我是嗜血成性的<br>直到被稱為《血狼》...）
+046	拉斯特里斯軍隊的情況怎麼樣	VO_zeke_young.zeke_sys_0001
+047	戰鬥開始時的激戰<br>現在沒有太大的動靜。但是...
+048	發生了什麼事？	VO_zeke_young.zeke_sys_0006
+049	我方的偵查部隊<br>全被擊退
+050	敵軍的士氣高昂<br>無機可乘	VO_knightm.knightm_battle_0019
+051	即使已經朝向領地侵占？<br>拉斯《三傑》，有那麼強的向心力	VO_zeke_young.zeke_sys_0012
+052	已經借助聖教騎士團的力量，竟然還...<br>冰蛇將軍內維爾――比傳聞還要厲害的戰士	VO_zeke_young.zeke_sys_0022
+053	怎麼辦？<br>我覺得這樣在敵人的領地內繼續佈下陣容<br>很危險	VO_knightm.knightm_sys_0031
+054	即使照這樣子戰鬥下去<br>只是掉入泥沼嗎...	VO_zeke_young.zeke_sys_0030
+055	...立刻從騎士中<br>聚集擅長馬術的。	VO_zeke_young.zeke_sys_0001
+056	難道，團長打算自己上場？！	VO_knightm.knightm_sys_0020
+057	沒有其他的手段<br>我不會放過違反大陸的絕對原則“鍊金術・命令”的人<br>	VO_zeke_young.zeke_sys_0005
+058	...我知道了	VO_knightm.knightm_sys_0016
+059	在這裡取下內維爾的首級<br>為了大陸的和平<br>也為了安比利亞的名譽！
+060	全員，跟著我來！	VO_zeke_young.zeke_battle_0015
+061	哦哦！
+062	什？！　蒼炎騎士團！<br>突、突襲ー！	VO_thiefm.thiefm_battle_0022
+063	別停下！　前進！<br>目標是敵人將軍<br>冰蛇將軍內維爾的首級！
+064	唔...停下！<br>不讓你去將軍那裡！	VO_thiefm.thiefm_battle_0023
+065	是吉克！<br>蒼炎的狼來了！
+066	不想死的話就讓出一條路來...！	VO_zeke_young.zeke_battle_0030
+067	吉克大人，把那個！	VO_knightm.knightm_battle_0020
+068	............
+069	內維爾...！
+070	（...有點奇怪<br>為什麼沒什麼抵抗？）	VO_zeke_young.zeke_sys_0027
+071	（我可不認為那個有名的大將<br>會什麼對策都沒有<br>就只是讓我們偷襲...）	VO_zeke_young.zeke_sys_0017
+072	照這樣子！　全員繼續！！	VO_zeke_young.zeke_sys_0016
+073	哦！！
+074	冰蛇將軍內維爾！　得到首級――
+075	――堆積起來拉斯的血！<br>今天就讓你明白它的意義！	VO_neville.neville_battle_0014
+076	什麼？！　這個是...！	VO_zeke_young.zeke_sys_0025
+077	...哦哦哦哦哦！
+078	什、什麼呀這傢伙？！<br>一個區區的戰士，這麼強？！	VO_knightm.knightm_sys_0043
+079	這難道是...鍊金術！	VO_zeke_young.zeke_sys_0026
+080	宗主國的狗<br>對禁術的味道很敏感啊	VO_neville.neville_sys_0007
+081	這些士兵已經達到實用階段了嗎！	VO_zeke_young.zeke_sys_0022
+082	阿...由拉斯特里斯的血淚<br>鍊成的士兵們<br>僅僅靠武器是殺不死的！	VO_neville.neville_sys_0010
+083	數量太多了...！<br>吉克大人！　這樣下去的話――哇！	VO_knightm.knightm_sys_0042
+084	哇！
+085	一直等著這個時刻，吉克！<br>你突擊的這個時刻！	VO_neville.neville_sys_0023
+086	像拉斯裡有我們三傑那樣，<br>安比利亞的支柱就是你！
+087	只要在這裡你死去的話<br>至今為止那樣的攻勢就維持不下去了！
+088	嗚，你...！	VO_zeke_young.zeke_sys_0013
+089	沒用的	VO_neville.neville_sys_0007
+090	嗚呼，這、這樣的地方...	VO_knightm.knightm_battle_0024
+091	啊，嗚...吉克...大人...	VO_knightm.knightm_battle_0028_b
+092	這樣，多少的補充都有效	VO_neville.neville_sys_0008
+093	啊，啊啊...	VO_zeke_young.zeke_sys_0043
+094	有耐性...但是到此為止<br>抓住吉克，英靈兵！！	VO_neville.neville_sys_0045
+095	嗚？！	VO_zeke_young.zeke_battle_0019
+096	被稱為血狼的你<br>被英靈兵抓住的話<br>身體也動不了吧
+097	那麼...血狼<br>讓你瞧瞧地獄...<br>我們看過的地獄！
+098	好好瞧瞧！！<br>你白死的部下們！<br>鍊成後讓他們和團長大人見面！	VO_neville.neville_sys_0001
+099	...什麼	VO_zeke_young.zeke_sys_0025
+100	那麼戰鬥吧！<br>同夥們，陣亡也好！！<br>直到所有的蒼炎騎士死亡為止！
+101	唔...真的假的...我方...的...<br>住、住手...嗚...	VO_knightm.knightm_battle_0024
+102	住手，讓開！<br>可惡...放開我，內維爾！！	VO_zeke_young.zeke_sys_0015
+103	你，踐踏騎士驕傲！<br>因為夥伴相殘是比死還讓人更難以忍受阿！！
+104	騎士的驕傲，早就扔掉了！<br>因為對你們討伐軍的仇恨！	VO_neville.neville_sys_0029
+105	那麼，數量減少了...<br>只剩眼前這些<br>血狼也只是滑稽的東西！
+106	嗚...吉克、大人...	VO_knightm.knightm_battle_0027
+107	已...已經、不行...了...	VO_knightm.knightm_sys_0018
+108	唔唔...只剩一會<br>血狼...不，蒼炎騎士團團長<br>幫不了別人了嗎？　沒有人能幫你了嗎？	VO_neville.neville_sys_0010
+109	住手！　停下！<br>只要我死了就行了吧<br>快把我殺了！！　內維爾！	VO_zeke_young.zeke_sys_0015
+110	不錯的味道阿，血狼...<br>這就是拉斯所受的血淚！<br>把你的部下不留一個全部殺死
+111	呃...！！
+112	唔唔唔...死吧，蒼炎騎士們！<br>讓你們體會到威脅拉斯特里斯的愚蠢！	VO_neville.neville_sys_0023
+113	唔...可怕的禁術...<br>可惡！！！	VO_zeke_young.zeke_sys_0043
+114	沒有用的<br>還不懂嗎...<br>你贏不了這個力量！！
+115	呃！	VO_zeke_young.zeke_sys_0027
+116	（可惡<br>連被稱為血狼的我...<br>這種程度就完了嗎！！）	VO_zeke_young.zeke_sys_0022
+117	...！　什麼呀...這裡是？	VO_zeke_young.zeke_sys_0025
+118	《真理之門》...給靈魂下審判的地方	VO_uroboros.uroboros_favorite_0008
+119	我是烏洛波洛斯...<br>連接真理和世界，看透命運的人	VO_uroboros.uroboros_favorite_0001
+120	真理之門...？<br>被稱為得到禁忌之力的...？！	VO_zeke_young.zeke_sys_0027
+121	看得見汝裡面有<br>『燃盡一切的嫉妬』<br>汝有獲得《力量》的資格	VO_uroboros.uroboros_sys_0006
+122	說我是嫉妒...？<br>這也是禁忌之力，鍊金術！	VO_zeke_young.zeke_sys_0012
+123	汝知道。汝曾尋求過支配這個世界的力量<br>把那個打破的力量
+124	只要有了那個《力量》...<br>哪怕只有一瞬間這樣的想法汝沒有嗎？
+125	...呃？！	VO_zeke_young.zeke_sys_0016
+126	汝那熊熊燃燒的感情衝天<br>不久就連《雷布亞坦》也能到手
+127	但是那個炎，現在正在崩潰<br>沒有力量的意識<br>輕易被時代的怒濤吞盡
+128	唔...全部沒有意義？<br>至今為止高舉的理想也<br>追隨我至死的騎士們也全部...！	VO_zeke_young.zeke_sys_0042
+129	不能原諒嗎？<br>無意義浪費的生命<br>無理由重複地流血	VO_uroboros.uroboros_sys_0006
+130	這才是世界的必定<br>沒有力量的人什麼都做不成<br>什麼都不留下的消失
+131	那...<br>那樣的事――我不允許！	VO_zeke_young.zeke_sys_0022
+132	禁忌之術...<br>如果現在說到想要的力量<br>我想要那個力量...止住流血！！
+133	是的<br>嫉妒之炎到達了那個門！	VO_uroboros.uroboros_sys_0038
+134	發問！<br>汝想要《力量》嗎？	VO_uroboros.uroboros_favorite_0002
+135	我<br>想要《力量》...<br>想要給流血帶來意義的《力量》...！	VO_zeke_young.zeke_chara_0016
+136	...好吧...現在在這裡<br>締結真理之契約！	VO_uroboros.uroboros_sys_0006
+137	開心就好，人類啊<br>汝現在踏出最初的一步通往不久將會到達真理之路留在歷史上！	VO_uroboros.uroboros_sys_0007
+138	什、什麼，這道光！<br>鍊金的士兵們！　殺死吉克！	VO_neville.neville_sys_0028
+139	變形了，這個突然的力量...！<br>但是，如果說現在需要這個的話――！	VO_zeke_young.zeke_sys_0010
+140	呃？！　你...那個力量...為什麼！	VO_neville.neville_battle_0023
+141	看到了鍊金術的《真理》...
+142	什麼？！　我們渴望卻到達不了的鍊金術的真理<br>為什麼你！！！	VO_neville.neville_sys_0029
+143	...你！　<br>但是，包含了拉斯特里斯的夙願的<br>賢者之石還在這！	VO_neville.neville_sys_0013
+144	結束啦，內維爾！	VO_zeke_young.zeke_battle_0012
+145	我憤怒<br>為了查明這個流血的意義
+146	即使我知道這是禁忌...<br>必須靠著這個力量往前行！！	VO_zeke_young.zeke_chara_0021

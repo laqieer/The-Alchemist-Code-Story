@@ -1,0 +1,103 @@
+﻿001	天氣真好。	VO_flamel.flamel_sys_0044
+002	呐，你也這麼想的吧？<br>好想一直這樣悠哉悠哉的...	VO_flamel.flamel_sys_0001
+003	呃...等下，我先睡一會...	VO_flamel.flamel_sys_0020
+004	哈！...睡一會？	VO_flamel.flamel_sys_0025
+005	您怎麼啦？<br>道士弗拉梅爾。	VO_stknightf.stknightf_battle_0020
+006	啊...沒什麼...	VO_flamel.flamel_sys_0039
+007	是嗎？<br>你的才能是無可取代，<br>不要太勉強自己。	VO_stknightf.stknightf_sys_0031
+008	是...抱歉...	VO_flamel.flamel_sys_0036
+009	為什麼大家每次看到我都會跟我打招呼呢...	VO_flamel.flamel_sys_0029
+010	（來到這個國家<br>已經很長時間了<br>還是完全沒有適應...）
+011	（每一天每一天，報告聯絡商談...<br>無論往哪裡去，<br>都要和別人打招呼這樣的事真是。）
+012	完全的實力主義，<br>不管別的能力，<br>難道不是這樣的嗎...	VO_flamel.flamel_sys_0030
+013	哈啊...好想回到自己房間...<br>不和任何人見面...	VO_flamel.flamel_sys_0029
+014	無可取代的才能，嗎...
+015	嘰！
+016	中午好，小鳥。	VO_flamel.flamel_sys_0007
+017	嘰？
+018	是呀，有點累了。	VO_flamel.flamel_sys_0029
+019	在宮廷內的話，<br>又不能把你們放出來的...
+020	能創造出動物們的，這個力量...
+021	偉大的人們，<br>擁有創造出精靈的異能<br>雖是這麼說...
+022	對我來說是，理所當然的。
+023	嘰...
+024	咦？！咦？<br>等一下，不要消失！	VO_flamel.flamel_sys_0025
+025	動物們，<br>不回應我了...<br>怎麼會，為什麼？
+026	怎麼辦...	VO_flamel.flamel_sys_0048
+027	就算去書庫找也不懂什麼治療法。	VO_flamel.flamel_sys_0022
+028	這個能力沒有前例，<br>只屬於我一個人的東西...
+029	如果這樣繼續下去，<br>再也見不到動物們的話，<br>這種事...	VO_flamel.flamel_sys_0018
+030	啊！
+031	啊呀，這不是弗拉梅爾大人嗎？<br>在這種地方做什麼呢？	VO_michael.michael_sys_0005
+032	啊，呃？	VO_flamel.flamel_battle_0019
+033	啊呀，嚇著您了嗎？<br>總感覺您好像很困惑的樣子。
+034	沒，沒什麼...	VO_flamel.flamel_sys_0039
+035	什麼？<br>啊，對了...	VO_michael.michael_sys_0004
+036	弗拉梅爾大人應該是撒加地方人吧？
+037	是，雖然是...怎麼啦？	VO_flamel.flamel_sys_0011
+038	不是那個，那個地方？<br>現在是棲息著太古的傳承的神秘的地方。	VO_michael.michael_sys_0007
+039	我想著給只專心於効率和術理的<br>學徒們講講古老的魔法的故事。
+040	但是這個，<br>薩滿，真是難解啊。	VO_michael.michael_sys_0031
+041	但是，我也不是很清楚...	VO_flamel.flamel_sys_0002
+042	聽得到精靈的...聲音嗎？<br>到底是什麼意思呢
+043	我覺得應該是什麼的比喻吧...
+044	！
+045	嗯？　怎麼啦？<br>啊，弗拉梅爾大人！您要去哪？！	VO_michael.michael_sys_0004
+046	是呀，<br>撒加地方的森林裡居住的薩滿 ...<br>它們的話，說不定...
+047	這裡，是哪裡...	VO_flamel.flamel_sys_0020
+048	撒加地方的森林，<br>有這麼深嗎...<br>一直都是動物們給我帶路的...
+049	啊...不行，腳已經...	VO_flamel.flamel_battle_0019
+050	我一個人...來這種地方果然做錯了嗎？
+051	...是呀，<br>我現在是一個人...	VO_flamel.flamel_sys_0018
+052	......
+053	果然，聽不見動物們的聲音，<br>什麼都聽不到...
+054	唔...
+055	在這裡做什麼，異邦的人。	VO_peridot.peridot_sys_0003
+056	...呃？！　誰，是誰？	VO_flamel.flamel_sys_0026
+057	我才想問，<br>你是誰呢...<br>為什麼進入我的森林？	VO_peridot.peridot_sys_0012
+058	啊，呃，那個...	VO_flamel.flamel_sys_0027
+059	答不出來嗎？<br>能夠看到背後黑暗的東西。	VO_peridot.peridot_sys_0044
+060	不，不是那樣的...	VO_flamel.flamel_sys_0039
+061	這裡，我可不覺得有人會約在這種地方見面。
+062	呼...那麼你就是迷路的人嗎？<br>真少見，雖然也並不是沒有這個可能。	VO_peridot.peridot_sys_0006
+063	那麼，我帶你到森林的外部吧，<br>不要再迷路闖進來了。
+064	啊，不對。	VO_flamel.flamel_battle_0021
+065	哪裡不對？<br>應該不會有俗人有事到這麼古老的森林來吧。	VO_peridot.peridot_sys_0004
+066	我，我是。<br>我聽說撒加地方的森林裡有薩滿能聽到精靈的聲音...
+067	...見到了你打算怎麼做。	VO_peridot.peridot_sys_0003
+068	那，那個...	VO_flamel.flamel_battle_0019
+069	我，有創造出動物們的能力<br>但是，現在不能用了...
+070	那些孩子們，那個，<br>因為是人工的精靈,<br>薩滿的話，可能能聽到聲音。
+071	...也就是說，什麼？<br>你能親自創造出精靈來？	VO_peridot.peridot_sys_0044
+072	呃，嗯...	VO_flamel.flamel_sys_0005
+073	這樣的話，讓人難以相信，<br>人類的孩子能夠創造出精靈來？<br>開什麼玩笑！	VO_peridot.peridot_battle_0024
+074	但，但是...	VO_flamel.flamel_battle_0019
+075	況且，穿著這種裝束的你，<br>應該是別國的人吧。	VO_peridot.peridot_sys_0010
+076	或許，該不會是古拉特尼弗斯的手下吧。
+077	我，我是從路斯特布魯格來的...	VO_flamel.flamel_sys_0039
+078	就算是說大話也太遠了吧！<br>你知道要越過幾個國家才能到這裡！	VO_peridot.peridot_battle_0021
+079	呃...特別遠...	VO_flamel.flamel_sys_0005
+080	唉，這種不清不楚的回答，<br>怎麼感覺回答跟沒回答一樣啊...	VO_peridot.peridot_battle_0022
+081	你，明明是在回答你的問題...	VO_flamel.flamel_sys_0018
+082	真是毫無進展啊，森林巫師。
+083	......
+084	呃？咦？<br>聲，是從哪裡傳出來的？
+085	你，能聽到嗎？	VO_peridot.peridot_sys_0027
+086	咦？
+087	（這麼說起來這個聲音...<br>有點像傳召出動物們時候的聲音...）
+088	咦，真少見，<br>也有撒加地方的血，<br>但也有混雜的東西。
+089	什麼？	VO_peridot.peridot_sys_0026
+090	巫師，這個人有我們同胞的血統，<br>和暴食的使徒的靈魂的顏色不一樣。
+091	...是嘛。	VO_peridot.peridot_sys_0031
+092	那個，相信我了，嗎？
+093	就信你不是古拉特尼弗斯的人吧，<br>但是...	VO_peridot.peridot_sys_0005
+094	巫師，森林在騷動？
+095	...呃！
+096	森林...？	VO_flamel.flamel_sys_0025
+097	...？！　...！
+098	嗚哇？！<br>從森林深處，<br>一群的魔獸...	VO_flamel.flamel_sys_0028
+099	嘎啊啊！
+100	動...動物們...<br>就算傳召它們也不會出現的！	VO_flamel.flamel_sys_0027
+101	啊啊啊？！
+102	哈啊，真沒辦法！<br>退下吧，迷路的人。	VO_peridot.peridot_sys_0022
+103	不管理由如何，<br>同為能聽到精靈的聲音的人，<br>我是不會見死不救的。

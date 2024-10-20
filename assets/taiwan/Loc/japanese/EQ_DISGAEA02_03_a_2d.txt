@@ -1,0 +1,61 @@
+001	啊…總算是逃出森林了嗎	VO_laharl.laharl_sys_0030
+002	殿下？<br>有沒有覺得肚子有點餓？	VO_etna.etna_sys_0002
+003	是啊…<br>確實感覺有點餓	VO_laharl.laharl_sys_0037
+004	難道<br>難道…<br>接下來…嘶	VO_prinny.prinny_sys_0029
+005	喂，普利尼	VO_laharl.laharl_sys_0001
+006	果然如此!?<br>什麼事嘶，殿下…？	VO_prinny.prinny_chara_1011
+007	去哪裡找些食物過來吧	VO_laharl.laharl_sys_0010
+008	如我所料嘶!!<br>不過，在這種荒蕪的地方<br>會有食物嗎…	VO_prinny.prinny_sys_0018
+009	…我的邪眼告訴我…<br>再往前走一些有個村子…	VO_rosa.rosa_sys_0011
+010	什麼？　真的嗎<br>這不是正好嗎<br>太好了，普利尼！　去那裡看看！	VO_laharl.laharl_battle_0022
+011	啊，好的<br>我知道了嘶！	VO_prinny.prinny_chara_1003
+012	你去的話，我也去	VO_rosa.rosa_sys_0007
+013	…首先我們成功潛入村子了嘶	VO_prinny.prinny_sys_0031
+014	喂…<br>有必要偷偷潛入嗎？	VO_rosa.rosa_sys_0002
+015	噓！　蘿莎大人，小聲點嘶！<br>我們等一下<br>要去偷食物嘶！	VO_prinny.prinny_sys_0027
+016	要是被發現就糟了嘶！	
+017	呃，要去偷啊<br>真是沒用	VO_rosa.rosa_chara_1002
+018	我可是魔王的家臣嘶！<br>而且，我沒有帶錢嘶	VO_prinny.prinny_sys_0008
+019	噢…？　你…	VO_thiefm.thiefm_sys_0006
+020	糟了嘶！　被發現了嘶!!<br>快點逃嘶!!	VO_prinny.prinny_sys_0023
+021	啊！　等一下…！	VO_thiefm.thiefm_battle_0022
+022	好慢啊！　還沒找到食物嗎！	VO_laharl.laharl_chara_1011
+023	與其等著，<br>不如直接去村子更快	VO_etna.etna_sys_0031
+024	咕嚕咕嚕!!<br>哇！　這個燉魚鍋<br>真的好好吃嘶!!	
+025	這個煎牛肉<br>雖然很簡單但是真的很好吃<br>嫩得還在滴血…	VO_rosa.rosa_chara_1002
+026	噢！　盡管多吃點!!	VO_thiefm.thiefm_sys_0024
+027	我開動啦嘶!	VO_prinny.prinny_sys_0033
+028	開動啦嘶!!<br>你在幹什麼!!	VO_laharl.laharl_sys_0040
+029	覺得太慢了才跑來找你！<br>你卻在這…!!	VO_laharl.laharl_chara_1003
+030	啊…！　殿下!?<br>我忘記了你在等了嘶…!!<br>剛才他突然就請我吃東西了…	VO_prinny.prinny_chara_1011
+031	怎麼，你們也是<br>這隻怪鳥的朋友嗎。辛苦啦	VO_thiefm.thiefm_sys_0023
+032	那麼，找到調味料了嗎？	
+033	…？<br>到底是怎麼回事？	VO_laharl.laharl_sys_0004
+034	殿下！<br>看起來這個人，是把普利尼<br>和我們錯當成誰了！	VO_etna.etna_sys_0001
+035	反正他也歡迎我們，<br>不如趁此機會吃點東西！	VO_etna.etna_sys_0007
+036	噢，對啊！　<br>那我們就不客氣了!!	VO_laharl.laharl_sys_0006
+037	呼～吃飽啦吃飽啦～	VO_laharl.laharl_sys_0030
+038	嗯～看來你們吃得很滿足啊<br>話說…	VO_thiefm.thiefm_sys_0023
+039	那隻小兔子還好嗎？	
+040	嗯!?<br>小兔子!?<br>黃色的那隻!?	VO_laharl.laharl_sys_0025
+041	啊…哎？<br>你們不是朋友嗎…	VO_thiefm.thiefm_sys_0006
+042	那隻黃兔子<br>去了哪裡!?	VO_laharl.laharl_sys_0001
+043	哎？　我想想…<br>安比利亞的城郊…	
+044	嗚哇!?<br>不好了!!<br>他們又出現了!!	VO_thiefm.thiefm_sys_0028
+045	又是幻影兵…？<br>就算是老天的安排<br>也真是受夠了…	VO_rosa.rosa_sys_0003
+046	不清楚情況…！<br>不過…	VO_almira.almira_sys_0022
+047	走這裡！<br>別亂說了<br>先去城郊吧！	VO_laharl.laharl_sys_0001
+048	哎!?<br>不戰鬥嗎!?	VO_almira.almira_sys_0025
+049	什麼？<br>為什麼本大爺一定要去戰鬥呢？	VO_laharl.laharl_sys_0012
+050	但是，這樣下去，這個村子會…！	VO_almira.almira_sys_0027
+051	比起這些<br>那隻黃兔子更重要！	VO_laharl.laharl_sys_0014
+052	真是薄情的人…	VO_rosa.rosa_sys_0010
+053	白吃了別人的飯！	VO_almira.almira_sys_0012
+054	不知報恩的人嘶！	VO_prinny.prinny_sys_0017
+055	普利尼!?<br>連你也這麼說…!?	VO_laharl.laharl_sys_0013
+056	這個村子的人<br>對我們有一頓飯的恩情嘶!!	VO_prinny.prinny_sys_0014
+057	為什麼身為魔王的我<br>要報恩呢…	VO_laharl.laharl_sys_0012
+058	殿下！<br>這可是收獲人心的好機會嘶！<br>展現一下魔王的寬廣胸懷嘶！	VO_prinny.prinny_sys_0002
+059	恩…是嗎？<br>既然這樣那就沒辦法了…<br>再說，飯確實好吃	VO_laharl.laharl_sys_0004
+060	做點飯後運動消化一下！　上吧！	VO_laharl.laharl_chara_1004
+061	…哎喲喂呀嘶…	VO_prinny.prinny_sys_0030

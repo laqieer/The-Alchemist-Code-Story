@@ -1,0 +1,88 @@
+﻿001	回溯到數日前…<br>格里特達伊克國境附近
+002	站住！　你這個混蛋，是誰！ 
+003	…庫達恩修坦<br>皇帝奧萊伊恩想要見我<br>我來找他了
+004	庫達恩修坦…！？<br>啊，是，我去問問！
+005	…奧萊伊恩在哪裡？	VO_kudhanstein.kudhanstein_sys_0010
+006	…是在王城<br>…“迪那姆・迪歐尼烏斯”<br>裡面吧
+007	！？	VO_kudhanstein.kudhanstein_sys_0027
+008	…！
+009	…真快…原來如此<br>…不愧是好槍法	VO_fengliu.fengliu_sys_0044
+010	…你是誰？	VO_kudhanstein.kudhanstein_sys_0007
+011	初次見面…<br>我是楓琉…	VO_fengliu.fengliu_chara_1024
+012	！！<br>楓…楓琉…！？<br>喂！快看…！
+013	難道…！？<br>真的實驗成功了嗎…！？
+014	…什麼？	VO_kudhanstein.kudhanstein_sys_0007
+015	…皇帝陛下…在王城等你<br>我…是來傳達的	VO_fengliu.fengliu_sys_0002
+016	…引路人嗎？<br>那就快點…	VO_kudhanstein.kudhanstein_sys_0031
+017	！？
+018	啊…！<br>你想幹嘛！？	VO_kudhanstein.kudhanstein_sys_0016
+019	想幹嘛！？<br>當然是殺你了…	VO_fengliu.fengliu_sys_0030
+020	！？<br>你這個混蛋…不是來帶路的嗎！？	VO_kudhanstein.kudhanstein_sys_0025
+021	皇帝陛下…<br>在等你的事情…我傳達到位了<br>現在開始…我執行自己的使命	VO_fengliu.fengliu_sys_0004
+022	使命…？	VO_kudhanstein.kudhanstein_sys_0027
+023	我的使命…<br>就是殲滅進入格里特達伊克領地的<br>他國的騎士
+024	你既然已經來了<br>那麼就是…我的殺戮對象	VO_fengliu.fengliu_battle_0001
+025	可惡…！<br>真令人火大！<br>…好吧	VO_kudhanstein.kudhanstein_battle_0016
+026	竟然敢阻止我，劈死你…<br>來吧…！	VO_kudhanstein.kudhanstein_sys_0032
+027	…好快！	VO_fengliu.fengliu_sys_0027
+028	啊…！	VO_fengliu.fengliu_battle_0025
+029	真無聊…<br>…這種無禮的歡迎真好啊<br>…奧萊伊恩…！	VO_kudhanstein.kudhanstein_sys_0016
+030	此時…<br>格里特達伊克王城<br>“迪那姆・迪歐尼烏斯”
+031	…報告<br>庫達恩修坦<br>已經出現了
+032	…和楓琉接觸了嗎？	VO_orione.orione_sys_0004
+033	是的	VO_waginao.waginao_sys_0004
+034	即使是庫達恩修坦<br>也很棘手的吧…<br>那個人的暗殺技術可不是好惹的	VO_waginao.waginao_sys_0007
+035	哼…<br>你們的“骸”的研究成果<br>如此值得誇口？	VO_orione.orione_sys_0010
+036	…嘿嘿…不好意思<br>“實驗體零號”的楓琉<br>也就是人造兵器…	VO_waginao.waginao_sys_0007
+037	即使是庫達恩修坦<br>也不是輕易能打倒的
+038	快點帶我去吧…<br>還是說…<br>你們也想被劈死嗎…？	VO_kudhanstein.kudhanstein_sys_0010
+039	…這個…<br>你該先打倒我…再說這種話吧	VO_fengliu.fengliu_sys_0010
+040	！？	VO_kudhanstein.kudhanstein_sys_0026
+041	啊…！？<br>怎麼回事！？<br>你的要害被我貫穿了才是…！？	VO_kudhanstein.kudhanstein_battle_0016
+042	他可是…多重實驗的結晶<br>誕生出來的究極戰士。	VO_waginao.waginao_sys_0007
+043	根據我們“骸”的技術<br>看到真理之門的那個男人<br>沒有“死”這種概念
+044	肉體不會死亡的最強戰士嗎…<br>庫達恩修坦會怎麼做…<br>真想看看	VO_orione.orione_sys_0024
+045	不可能…！？<br>我的槍確實貫穿他的心臟了！<br>你這個混蛋，到底…！？	VO_kudhanstein.kudhanstein_sys_0029
+046	！！<br>消失了…！？	VO_kudhanstein.kudhanstein_sys_0026
+047	…不管你多強<br>我都不會失敗	VO_fengliu.fengliu_battle_0013
+048	因為我…<br>死不了啊…<br>再見了
+049	啊…！！	VO_kudhanstein.kudhanstein_battle_0019
+050	…！<br>瞬間避開了要害嗎…<br>漂亮…防衛本能嗎	VO_fengliu.fengliu_sys_0029
+051	不會死…？<br>你個混蛋…幻影兵嗎！？	VO_kudhanstein.kudhanstein_sys_0028
+052	我是…幻影兵…？<br>…真是有趣的想法呢	VO_fengliu.fengliu_sys_0012
+053	可惡…！<br>…喔哦哦哦！	VO_kudhanstein.kudhanstein_sys_0032
+054	…！？	VO_kudhanstein.kudhanstein_sys_0026
+055	…我再說一次<br>你是…無法…殺死我的	VO_fengliu.fengliu_sys_0030
+056	啊…！！	VO_kudhanstein.kudhanstein_battle_0019
+057	…嗚哇…！　不對…<br>這這個身體，確實是肉身…！<br>你這個混蛋…不死身嗎…！？	VO_kudhanstein.kudhanstein_sys_0018
+058	楓琉嗎…<br>…真是個在諷刺的命運下<br>誕生的男人啊	VO_orione.orione_sys_0031
+059	您說的對	VO_waginao.waginao_sys_0004
+060	如果他的祖國不是<br>“魔女之國・魯斯特布魯格”的話…
+061	他的人生<br>就和暗殺無緣了
+062	…這個說話口氣<br>好像他就是為我們暗殺而生的？	VO_orione.orione_sys_0024
+063	身為男子<br>又被拋棄到了國外…<br>而我軍保護了他
+064	反而應該<br>值得稱讚吧？	VO_orione.orione_sys_0007
+065	但是…撿到他的<br>卻是格里特達伊克最強的<br>特殊暗殺部隊…
+066	…嘿嘿…<br>我可不是在數落他呢	VO_waginao.waginao_sys_0007
+067	因此<br>他在懂事之前就把暗殺技術<br>掌握到了身上…
+068	切…！	VO_kudhanstein.kudhanstein_sys_0016
+069	…不…<br>我不在…那邊	VO_fengliu.fengliu_sys_0039
+070	！？<br>…嗚啊！！	VO_kudhanstein.kudhanstein_sys_0026
+071	你再怎麼掙扎…<br>你也…贏不了我…<br>…放棄吧	VO_fengliu.fengliu_battle_0013
+072	啊…！<br>為何…無法感覺到你這個混蛋的氣息…！	VO_kudhanstein.kudhanstein_battle_0016
+073	但是…楓琉之後<br>就再也沒有新的實驗體了<br>…為何只有他生還？	VO_orione.orione_sys_0031
+074	當然…<br>作為暗殺者被培養長大的特異的人生<br>多少起了點作用
+075	小時候開始<br>就接受除去感情訓練的人類…<br>是很罕見的
+076	…其他的理由呢？	VO_orione.orione_sys_0006
+077	是。需要特別指出的是<br>暗殺技術所不具備的…	VO_waginao.waginao_sys_0004
+078	楓琉能成為實驗體零號<br>這麼稀有的種類…<br>多虧他對生命的執著
+079	對生命的執著…？	VO_orione.orione_sys_0025
+080	呼呼…呼呼…！　…可惡…！	VO_kudhanstein.kudhanstein_sys_0018
+081	…再繼續下去<br>…也沒意思的<br>…該結束了	VO_fengliu.fengliu_sys_0030
+082	可惡…！<br>…喔哦哦哦！！	VO_kudhanstein.kudhanstein_sys_0032
+083	…真是難纏<br>…你這麼拚命<br>…到底有…什麼意義？	VO_fengliu.fengliu_battle_0011
+084	閉嘴！<br>我不能在這裡倒下…<br>…哇…？	VO_kudhanstein.kudhanstein_sys_0012
+085	你的背後…都是破綻	VO_fengliu.fengliu_battle_0017
+086	啊！　…嗚嗚！<br>…怎麼…？　你的身體…？	VO_kudhanstein.kudhanstein_battle_0019
+087	…這樣…就結束了…	VO_fengliu.fengliu_battle_0014
+088	不但沒有體溫…心跳都沒有！？<br>你這個混蛋…難道已經是個死人了…！？	VO_kudhanstein.kudhanstein_sys_0028

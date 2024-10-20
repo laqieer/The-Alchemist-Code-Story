@@ -1,0 +1,68 @@
+﻿001	我、跑到路斯特布魯格這個地方<br>是在做什麼啊…	VO_albell.albell_sys_0029
+002	(居然依靠占卜什麼的外物<br>我也是那裡有點不對勁啊…)	VO_albell.albell_sys_0030
+003	(那個叫德尼布的人…<br>真的是“高超的占卜師”嗎…)	VO_albell.albell_sys_0031
+004	(怎麼看起來是個不怎麼可靠的人…<br>真的沒問題嗎…)
+005	…哎<br>…就算是這樣也已經遲了	VO_albell.albell_sys_0030
+006	(…但是、<br>如果她真的是如傳聞所說的占卜師的話…<br>該怎麼說她好呢…？)
+007	總覺得，變得麻煩起來了…<br>算了、回去吧…	VO_albell.albell_chara_1003
+008	讓你久等了～	VO_deneb.deneb_sys_0007
+009	(來了…<br>怎麼偏偏在這個時候啊…)	VO_albell.albell_battle_1018
+010	抱歉啦<br>讓你等我<br>等得不耐煩了吧？	VO_deneb.deneb_sys_0036
+011	也沒有…	VO_albell.albell_sys_0005
+012	那麼、請坐這裡<br>喝點茶之類的怎麼樣？<br>非、常好喝的香草茶哦	VO_deneb.deneb_chara_1006
+013	不用了…就不喝茶了…<br>其實…那個，<br>我想占卜的是…	VO_albell.albell_sys_0039
+014	你會看夜空嗎？	VO_deneb.deneb_sys_0002
+015	…哈？<br>夜空…？	VO_albell.albell_sys_0025
+016	(怎麼突然…？)	VO_albell.albell_chara_1001
+017	我、從小時候開始<br>就很喜歡看星星！	VO_deneb.deneb_sys_0007
+018	這麼一直觀察著自己最喜歡的星空<br>不知不覺間變成了天文學者，<br>成為了占星術師喲。嗬嗬	VO_deneb.deneb_sys_0008
+019	這、這樣啊…、那個…<br>我、來這裡是想讓你幫我占卜的…	VO_albell.albell_battle_1018
+020	請不要急<br>先稍微聊會天吧？	VO_deneb.deneb_sys_0003
+021	啊，聊天…？	VO_albell.albell_chara_1001
+022	恩！<br>你，喜歡什麼呢？	VO_deneb.deneb_sys_0005
+023	…機械工作…還有…修理之類的…
+024	機械？　嘛，很厲害啊！<br>我的天文望遠鏡要是故障了，<br>要不要拜托你修理呢！	VO_deneb.deneb_sys_0009
+025	…………
+026	那…<br>為什麼喜歡機械工作呢？	VO_deneb.deneb_event_1006
+027	這個…我父親是，機械工…<br>做的是機械工作和修理廠的工作<br>所以，我從小的時候開始…就一直接觸機械
+028	慢慢就變得喜歡了吧…<br>那個修理廠的空氣啊味道啊…<br>不知怎麼就是喜歡…沉浸在裡面…
+029	呼呼呼	VO_deneb.deneb_sys_0008
+030	呃…<br>你不要聽了就笑啊	VO_albell.albell_sys_0013
+031	啊，不好意思…但是<br>因為你說了兩次“喜歡”嘛<br>我就想你是真的很喜歡啊	VO_deneb.deneb_chara_1005
+032	啊…	VO_albell.albell_battle_1018
+033	你也是將從小就喜歡的事情<br>一直持續到現在呢<br>和我一樣。真高興，嗬嗬	VO_deneb.deneb_sys_0007
+034	(好麻煩…<br>果然要是回去就好了…)	VO_albell.albell_sys_0030
+035	那麼，覺得做機械開心的，<br>是什麼樣的時候？	VO_deneb.deneb_sys_0002
+036	誒…從來沒想過…	VO_albell.albell_sys_0025
+037	恩，恩…<br>組裝完成後能做出和設計一樣的動作<br>的…時候…吧	VO_albell.albell_sys_0031
+038	嗯嗯<br>然後呢？	VO_deneb.deneb_sys_0044
+039	…………<br>(啊啊、真的變的很麻煩了…)	VO_albell.albell_chara_1008
+040	那個，我果然還是…	VO_albell.albell_battle_1018
+041	那麼…<br>為什麼現在覺得、機械工作不有趣了呢？	VO_deneb.deneb_event_1006
+042	誒？<br>為什麼…我、還什麼都沒…<br>這個也是、用占卜…？	VO_albell.albell_sys_0026
+043	不是。不是占卜哦
+044	那麼…為什麼…	VO_albell.albell_sys_0025
+045	因為…你雖然說著你“喜歡”的<br>機械工作<br>看起來卻一點都不開心呢	VO_deneb.deneb_sys_0031
+046	…………
+047	想依賴占卜的時候…<br>就是有『想傾訴』的話<br>的時候哦？	VO_deneb.deneb_sys_0007
+048	…是這樣、呢…<br>恩…應該是你說的這樣…<br>可以重新、聽我說話嗎…？	VO_albell.albell_chara_1001
+049	當然<br>你就是為了這個來到這裡，<br>而我就在你的前面	VO_deneb.deneb_sys_0037
+050	啊！　對不起…	VO_deneb.deneb_sys_0042
+051	…？<br>怎麼了…？	VO_albell.albell_sys_0005
+052	不詳的星星的輪轉…<br>好像有客人不請自來了…	VO_deneb.deneb_sys_0030
+053	抱歉，我進來了…	VO_deneb.deneb_sys_0035
+054	(真的來了…<br>“不請自來的客人”…？)	VO_albell.albell_sys_0021
+055	是…
+056	(這些人是什麼…!?)	VO_albell.albell_sys_0025
+057	…請問有什麼事嗎？<br>我應該已經多次拒絕<br>你們的委托了	VO_deneb.deneb_sys_0003
+058	德尼布，<br>今天一定要請你跟我們走！	VO_thiefm.thiefm_sys_0002
+059	我現在有客人<br>請你們回去吧…	VO_deneb.deneb_sys_0015
+060	為什麼一定要拒絕!?<br>拉斯特裡斯<br>需要你的能力	VO_thiefm.thiefm_sys_0017
+061	你可以在拉斯有一個足夠的地位<br>我們也會有錢入賬，這不是一件很好的事嗎
+062	我不這麼想<br>星星也是…沒有給我這樣的指引	VO_deneb.deneb_sys_0040
+063	這怎麼可能！<br>說起來，你充其量不過是占卜師之流<br>拉斯…是國家要出錢哦!?	VO_thiefm.thiefm_sys_0012
+064	痛…！<br>你要做什麼!?<br>我是不會去的！	VO_deneb.deneb_sys_0043
+065	你說什麼…!?<br>喂，就算用武力也要把她帶回去 	VO_thiefm.thiefm_sys_0026
+066	等等<br>我，那個人有想傾訴的話！<br>不要把我帶走！	VO_albell.albell_sys_0002
+067	你小子是什麼人！<br>一邊去！	VO_thiefm.thiefm_sys_0006
+068	…是嗎。如果你想這麼做的話…<br>雖然很麻煩，<br>我也要動用武力了…！	VO_albell.albell_sys_0006

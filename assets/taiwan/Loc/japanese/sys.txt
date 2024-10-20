@@ -1,0 +1,3401 @@
+﻿CMD_ATTACK	攻擊
+CMD_MOVE	移動
+CMD_WAIT	待命
+CMD_SKILL	技能
+CMD_ITEM	物品
+CMD_GUARD	防禦
+CMD_RENKEI	連攜攻擊
+CMD_END	結束
+CMD_PICKUP	撿起
+NO_TARGET	無對象英靈
+SELECT_TARGET	請選擇對象英靈
+SELECT_UNIT_CHG	請選擇要替換的英靈
+CONFIRM_TURN_END	確定要結束回合？
+CONFIRM_SKILL	要使用{0}嗎?
+CONFIRM_ITEM	要使用{0}嗎?
+CONFIRM_ATTACK	要攻擊{0}嗎？
+CONFIRM_PARTY	隊伍已更改。<br>要反映更改內容嗎?
+CONFIRM_POINT	AP不足。<br>要消耗{0}個幻晶石回復<br>120點AP嗎?
+MSG_SELECT_TARGET	請選擇對英靈發動技能<br>還是對範圍發動
+COUNT_USELIMIT	剩餘次數：
+COUNT_USE	可使用回數：
+CASTSPEED	吟唱速度：
+CMD_UNIT	英靈
+CMD_GRID	範圍
+LV	Lv
+EXP	EXP
+GOLD	金幣
+COIN	幻晶石
+AP	AP
+TOUR_COIN	遠征幣
+ARENA_COIN	競技場幣
+MULTI_COIN	協力模式幣
+EVENT_COIN	活動幣
+PARAM_HP	HP
+PARAM_ATK	攻擊
+PARAM_DEF	防禦
+PARAM_MAG	魔攻
+PARAM_MND	魔防
+PARAM_REC	治癒力
+PARAM_DEX	靈巧
+PARAM_SPD	速度
+PARAM_CRI	會心
+PARAM_LUK	運
+PARAM_RANGE	射程
+PARAM_MOV	移動距離
+PARAM_ASSIST_FIRE	火屬性
+PARAM_ASSIST_WATER	水屬性
+PARAM_ASSIST_WIND	風屬性
+PARAM_ASSIST_THUNDER	雷屬性
+PARAM_ASSIST_SHINE	光屬性
+PARAM_ASSIST_DARK	暗屬性
+PARAM_ASSIST_POISON	毒屬性
+PARAM_ASSIST_PARALYSE	麻痹屬性
+PARAM_ASSIST_STUN	暈眩屬性
+PARAM_ASSIST_SLEEP	睡眠屬性
+PARAM_ASSIST_CHARM	魅惑屬性
+PARAM_ASSIST_STONE	石化屬性
+PARAM_ASSIST_BLIND	黑暗屬性
+PARAM_REGIST_FIRE	火耐性
+PARAM_REGIST_WATER	水耐性
+PARAM_REGIST_WIND	風耐性
+PARAM_REGIST_THUNDER	雷耐性
+PARAM_REGIST_SHINE	光耐性
+PARAM_REGIST_DARK	暗耐性
+PARAM_REGIST_POISON	毒耐性
+PARAM_REGIST_PARALYSE	麻痹耐性
+PARAM_REGIST_STUN	暈眩耐性
+PARAM_REGIST_SLEEP	睡眠耐性
+PARAM_REGIST_CHARM	魅惑耐性
+PARAM_REGIST_STONE	石化耐性
+PARAM_REGIST_BLIND	黑暗耐性
+CMD_RANKUP	升級
+CMD_UNLOCK	解放
+MSG_COND_JOB_UNLOCK	將{0}升級到Lv{1}！
+MSG_JOB_UNLOCK	「{0}」已解鎖！
+MSG_JOB_UNLOCK_SUCCESS	可以進行職業更換！
+MSG_EQUIP_UNLOCK	需要英靈等級：{0}
+MSG_JOB_CLASSCHANGE	{0}已進階為{1}！
+BTN_CREATE	合成
+BTN_CLOSE	關閉
+BTN_FGGID	去注冊頁面
+LEVEL_NOT_ENOUGH	需要將等級達到最大
+GOLD_NOT_ENOUGH	金幣不足
+ITEM_NOT_ENOUGH	所需物品不足
+LEVEL_CAPPED	等級達最大
+RARITY_CAPPED	達到稀有度上限
+KAKUSEI_CAPPED	達到界限突破上限
+CONFIRM_KAKUSEI	要消耗{0}{1}個，<br>將英靈進行界限突破嗎？
+CONFIRM_KAKUSEI2	要消耗以下物品進行界限突破嗎？
+CONFIRM_KAKUSEI3	未持有界限突破道具。
+CONFIRM_KAKUSEI4	界限突破道具不足。
+KAKUSEI_KAKERA_CHARA	{0}×{1}（持有數{2}）
+KAKUSEI_KAKERA_ELEMENT	{0}×{1}（持有數{2}）
+KAKUSEI_KAKERA_COMMON	{0}×{1}（持有數{2}）
+KAKUSEI_CONFIRM_ELEMENT_KAKERA	<color=#F6FF90>{0}</color><br>包含消耗素材。<br>要進行界限突破嗎？
+KAKUSEI_CONFIRM_COMMON_KAKERA	包含「{0}」，確定嗎？
+KAKUSEI_KAKERA_CONSUME	{0}×{1}
+KAKUSEI_KAKERA_AMOUNT	（持有數：{0}）
+KAKERA_AMOUNT	持有數：
+UNITKAKERA_AMOUNT	碎片持有數
+UNLOCK_JOBNAME	職業解鎖
+UNLOCK_RARITY	能力達「{0}」以上
+UNLOCK_AWAKELV	界限突破「{0}」次以上
+UNLOCK_CONDITION	職業「{0}」達等級「{1}」以上
+ABILITY_UNLOCK_RANK	{0}在等級（rank）{1}時習得
+UNIT_JOBMASTERBONUS_TITLE	職業專屬獎勵
+ITEM_CAP_OVER	達到物品持有上限
+RECIPE_ITEM_NOT_ENOUGH	素材物品不足
+RENAME_PLAYER_NAME	玩家名未設定或是包含錯誤的文字列
+CONTINUE_TITLE	繼續
+CONTINUE_MSG	要使用<color=#FFF080>{0}</color>個幻晶石繼續嗎？
+CONTINUE_HAVE	持有
+CONTINUE_DESC	不繼續時，會失去所獲得的物品。
+OUT_OF_STAMINA	AP不足。<br>要使用幻晶石1個回復120點AP嗎？
+OUT_OF_STAMINA_BUYCOIN	AP不足。<br>回復所需要的幻晶石不足，要購買幻晶石嗎？
+ABILITY_RANK_CAPPED	能力等級最大
+OUT_OF_ABILITY_RANKUP_COUNT	能力等級可成長次數不足
+OUT_OF_ABILITY_POINT	能力點數不足
+GAIN_GOLD_TITLE	取得金幣
+CONVERT_TO_GOLD	{0}金幣
+ITEM_TANI_1	個
+ITEM_TANI_2	張
+ITEM_TANI_3	個
+SEX_0	未知
+SEX_1	男性
+SEX_2	女性
+RARITY_STAR_0	★
+RARITY_STAR_1	★★
+RARITY_STAR_2	★★★
+RARITY_STAR_3	★★★★
+RARITY_STAR_4	★★★★★
+RARITY_STAR_5	★★★★★★
+UNIT_ELEMENT_0	無
+UNIT_ELEMENT_1	火
+UNIT_ELEMENT_2	水
+UNIT_ELEMENT_3	風
+UNIT_ELEMENT_4	雷
+UNIT_ELEMENT_5	光
+UNIT_ELEMENT_6	暗
+PLV	PLv
+ULV	ULv
+JLV	JobLv
+MINMAX_VALUE	{0}～{1}
+TILDE	～
+CM_HEIGHT	cm
+KG_WEIGHT	kg
+	
+QUEST_OUT_OF_DATE	活動時間結束。
+BEGINNER_QUEST_OUT_OF_DATE	已超過對象時間。
+	
+; 副本的時限	
+QUEST_TIMELIMIT_D	L{0}D
+QUEST_TIMELIMIT_H	L{0}H
+QUEST_TIMELIMIT_M	L{0}M
+	
+; 商店	
+BTN_SHOP_BUYITEM	購買物品
+BTN_SHOP_SELLITEM	物品出售
+BTN_SHOP_ENHANCE_EQUIPMENT	裝備強化
+BTN_SHOP_COMMERCIAL_TRANSACTION	特定商取引法
+BTN_SHOP_SETTLEMENT	資金決済法
+RETURN_ITEM_TITLE	強化物品的返還
+CONFIRM_ITEM_CONVERT	要將出售物品兌換成金幣嗎？
+CMD_YES	是
+CMD_NO	否
+CMD_DECIDE	是
+CMD_CANCEL	否
+CMD_BUY	購買
+CMD_BUY2	兌換
+CMD_SELL	賣出
+CMD_UPDATED	刷新
+CMD_UPDATE	刷新
+CMD_NOT_UPDATE	不刷新
+CMD_CLEARED	重置
+CMD_SORT	排序
+CMD_COIN_LIST	持有幣
+HAVE_AMOUNT	持有數
+UPDATE_TIME	預定刷新
+ITEM_HAVE_AMOUNT	物品持有數
+BUY_GOLD	購買金額
+BUY_PRICE	購買價格
+ITEM_PRICE	出售價格
+SELL_GOLD	獲得金幣
+SELL_PIECEPOINT	獲得靈魂幣
+SELL_PIECEPOINT_TOTAL	獲得靈魂幣合計
+SELL_PRICE	售出總額
+SELL_NUM	售出數
+SELECT_NUM	選擇數
+SORT_INDEX	類別
+SORT_RARITY	稀有度
+ADD_HAVE_SLOT	持有框＋{0}
+SHOP_BUY_TITLE	購買物品
+SHOP_SELL_TITLE	物品出售
+SHOP_BUY_CONFIRM_TITLE	購買確認
+SHOP_BUY_CONFIRM_TITLE2	兌換確認
+SHOP_SELL_SELECTNUM_TITLE	設定出售數
+SHOP_SELL_CONFIRM_TITLE	出售物品確認
+SHOP_SELL_CAUTION	包含稀有度3以上的物品。
+UPDATE_ITEMLIST_TITLE	刷新商品一覽
+UPDATE_ITEMLIST_MESSAGE	確定使用{0}{1}{2}<br>刷新商品一覽嗎？
+ENABLE_EQUIP_UNIT_TITLE	可裝備的英靈
+COMMERCIAL_TRANSACTION	特定商取引法
+SETTLEMENT	資金決済法
+FAILED_SHOP_TYPE	商店訊息不存在。
+FAILED_SOLDOUT	已購買。
+FAILED_SOLDOUT2	已兌換。
+FAILED_ITEM_CAP	達到持有上限。
+OUT_OF_TOURCOIN_MESSAGE	遠征幣不足。
+OUT_OF_ARENACOIN_MESSAGE	競技場幣不足。
+OUT_OF_PIECEPOINT_MESSAGE	靈魂幣不足。
+OUT_OF_MULTICOIN_MESSAGE	協力模式幣不足。
+OUT_OF_EVENTCOIN_MESSAGE	活動幣不足。
+FAILED_UPDATE	更新失敗
+FAILED_BUY_ITEM	購買失敗
+FAILED_BUY_ITEM2	兌換失敗
+	
+; 魂之兌換所	
+PIECE_POINT	靈魂幣
+PIECE_EXCHANGE_TITLE	兌換物品
+PIECE_CONVERT_TITLE	兌換魂之碎片
+PIECE_AMOUNT	持有數
+CMD_PIECE_CONVERT	兌換
+PIECE_CONVERT_HELP_MSG	界限突破等級最大的英靈的魂之碎片可兌換成靈魂幣
+PIECE_CONVERT_NONE_MSG	沒有可兌換的英靈的魂之碎片
+PIECE_NO_SELECTION	未選擇要兌換的魂之碎片
+	
+; 物品的出售	
+UNIT_SELECT_TITLE	英靈選擇
+GAIN_ABILITYPOINT_TITLE	獲得能力點數
+OUT_OF_COIN_CONFIRM_BUY_COIN	幻晶石不足。要購買嗎？
+OUT_OF_GOLD_CONFIRM_USE_COIN	金幣不足。<br>要使用幻晶石追加金幣嗎？
+UPDATE_PRODUCTS_LIST	刷新
+CONFIRM_CHANGE_PRODUCTS	確定使用{0}個幻晶石<br>刷新商品一覽嗎？
+CONFIRM_SELL_ITEM_NOT_SELECT	未選擇出售物品
+	
+; 裝備物品的強化	
+CMD_ENHANCE	強化
+CMD_ADD	增加
+CMD_SUB	減少
+FAILED_ENHANCE	強化失敗
+ENHANCE_EQUIPMENT_TITLE	裝備強化
+ENHANCE_EQUIPMENT_ADDITEM	追加強化素材
+ENHANCE_EQUIPMENT_MESSAGE	請選擇想要強化的裝備物品<br>
+ENHANCE_EQUIPMENT_COMPLETE	已強化{0}！
+DIABLE_ENHANCE_EQUIPED_MESSAGE	無法強化所選擇的裝備
+DIABLE_ENHANCE_RANKCAP_MESSAGE	無法繼續強化
+DIABLE_ENHANCE_MESSAGE	無法強化
+ENHANCE_ITEM_SELECTED_COUNT	將已選擇的<br>強化素材
+ENHANCE_ITEM_RARITY_CAUTION	已選擇3★以上的物品・進化素材・職業的證明作為強化素材。<br>確定嗎？
+DIABLE_ENHANCE_MESSAGE_UNIT	無可強化的裝備
+ENHANCE_EQUIPMENT_NOGOLD_TITLE	無法強化
+ENHANCE_EQUIPMENT_NOGOLD	裝備強化所需的金幣不足。
+	
+; 物品列表	
+ITEMLIST_TITLE	物品一覽
+ITEM_ALL	所有
+ITEM_USED	消耗品
+ITEM_EQUIP	裝備
+ITEM_MATERIAL	素材
+ITEM_EVOL_MATERIAL	進化素材
+ITEM_UNIT_PIECE	魂之碎片
+ITEM_ARTIFACT_PIECE	武具碎片
+ITEM_TICKET	禮券
+ITEM_OTHER	其他
+ITEM_ITEM_PIECE	材料
+	
+; 解鎖訊息	
+UNLOCK_SHOP	安娜的店
+UNLOCK_ARENA	競技場
+UNLOCK_TOUR	旅行
+UNLOCK_SHOPTABI	瑪麗亞的店
+UNLOCK_SHOPKIMAGURE	露伊莎的店
+UNLOCK_SHOPMONOZUKI	靈魂商店
+UNLOCK_CAVE	地底洞窟
+UNLOCK_TOWER	異層塔
+UNLOCK_MULTIPLAY	協力模式
+UNLOCK_UNITAWAKING	界限突破
+UNLOCK_UNITEVOLUTION	進化
+UNLOCK_ENHANCEEQUIP	裝備強化
+UNLOCK_ENHANCEABILITY	能力強化
+UNLOCK_ORDEAL	異層塔圈卡爾瑪
+UNLOCK_ARTIFACT	武具
+UNLOCK_SHOPAWAKEPIECE	魂之兌換所
+UNLOCK_LIMITEDSHOP	秘密商店
+UNLOCK_EVENTSHOP	活動幣兌換所
+UNLOCK_CONCEPTCARD	真理念裝
+UNLOCK_GALLERY	圖鑒
+UNLOCK_MULTIVS	對戰
+UNLOCK_KEYQUEST	鑰匙副本
+UNLOCK_TOWERQUEST	塔型副本
+UNLOCK_RANKMATCH	等級匹配
+; 屬性	
+Hp	HP
+HpMax	HP
+Mp	最大魔力
+MpIni	初始魔力
+Atk	物攻
+Def	物防
+Mag	魔攻
+Mnd	魔防
+Rec	治癒力
+Dex	靈巧
+Spd	速度
+Cri	會心
+Luk	運
+Mov	移動力
+Jmp	可移動高低差
+EffectRange	射程
+EffectScope	效果範圍
+Combi	連攜
+EffectHeight	可能效果高低差
+Assist_Fire	火屬性
+Assist_Water	水屬性
+Assist_Wind	風屬性
+Assist_Thunder	雷屬性
+Assist_Shine	光屬性
+Assist_Dark	暗屬性
+Assist_Element4	四屬性加成
+Assist_Element6	全屬性加成
+Assist_Poison	毒屬性
+Assist_Paralysed	麻痹屬性
+Assist_Stun	暈眩屬性
+Assist_Sleep	睡眠屬性
+Assist_Charm	魅惑屬性
+Assist_Stone	石化屬性
+Assist_Blind	黑暗屬性
+Assist_DisableSkill	沉默屬性
+Assist_DisableMove	禁止移動屬性
+Assist_DisableAttack	禁止攻擊屬性
+Assist_Zombie	僵屍化屬性
+Assist_DeathSentence	死亡宣判屬性
+Assist_Berserk	狂暴屬性
+Assist_Knockback	擊退屬性
+Assist_ResistBuff	增益屬性
+Assist_ResistDebuff	減益屬性
+Assist_Stop	停止屬性
+Assist_Fast	加速屬性
+Assist_Slow	減速屬性
+Assist_AutoHeal	自動回複屬性
+Assist_Donsoku	鈍足屬性
+Assist_Rage	憤怒屬性
+Assist_GoodSleep	快眠屬性
+Assist_ConditionAll	全狀態異常屬性
+Resist_Fire	火耐性
+Resist_Water	水耐性
+Resist_Wind	風耐性
+Resist_Thunder	雷耐性
+Resist_Shine	光耐性
+Resist_Dark	暗耐性
+Resist_Poison	毒耐性
+Resist_Paralysed	麻痹耐性
+Resist_Stun	暈眩耐性
+Resist_Sleep	睡眠耐性
+Resist_Charm	魅惑耐性
+Resist_Stone	石化耐性
+Resist_Blind	黑暗耐性
+Resist_DisableSkill	沉默耐性
+Resist_DisableMove	禁止移動耐性
+Resist_DisableAttack	禁止攻擊耐性
+Resist_Zombie	僵屍化耐性
+Resist_DeathSentence	死亡宣判耐性
+Resist_Berserk	狂暴耐性
+Resist_Knockback	擊退耐性
+Resist_ResistBuff	增益耐性
+Resist_ResistDebuff	減益耐性
+Resist_Stop	停止耐性
+Resist_Fast	加速耐性
+Resist_Slow	減速耐性
+Resist_AutoHeal	自動回復耐性
+Resist_Donsoku	鈍足耐性
+Resist_Rage	憤怒耐性
+Resist_GoodSleep	快眠耐性
+Resist_ConditionAll	全狀態異常耐性
+HitRate	命中率
+AvoidRate	迴避率
+CriticalRate	暴擊率
+GainJewel	靈魂魔力獲得量
+UsedJewelRate	靈魂魔力消耗量
+ActionCount	動作次數操作
+SlashAttack	斬擊攻擊加成
+PierceAttack	刺擊攻擊加成
+BlowAttack	打擊攻擊加成
+ShotAttack	射擊攻擊加成
+MagicAttack	魔法攻擊加成
+ReactionAttack	反擊攻擊加成
+JumpAttack	跳躍攻擊加成
+GutsRate	勇氣
+AutoJewel	自動魔力回復
+ChargeTimeRate	吟唱時間比例
+CastTimeRate	再次吟唱時間比例
+BuffTurn	增益效果回合
+DebuffTurn	減益效果回合
+CombinationRange	連攜範圍
+HpCostRate	HP消耗比例
+SkillUseCount	技能使用次數
+PoisonDamage	毒傷害比例
+PoisonTurn	毒效果回合
+Assist_AutoJewel	魔力自動回復屬性
+Resist_AutoJewel	魔力自動回復耐性
+Assist_DisableHeal	回復無效屬性
+Resist_DisableHeal	回復無效耐性
+Resist_Slash	斬擊耐性
+Resist_Pierce	刺擊耐性
+Resist_Blow	打擊耐性
+Resist_Shot	射擊耐性
+Resist_Magic	魔法耐性
+Resist_Reaction	反擊耐性
+Resist_Jump	跳躍耐性
+Avoid_Slash	斬擊回避率
+Avoid_Pierce	刺擊回避率
+Avoid_Blow	打擊回避率
+Avoid_Shot	射擊回避率
+Avoid_Magic	魔法回避率
+Avoid_Reaction	反擊回避率
+Avoid_Jump	跳躍回避率
+Assist_SingleAttack	單體攻擊屬性
+Assist_AreaAttack	範圍攻擊屬性
+Resist_SingleAttack	單體攻擊耐性
+Resist_AreaAttack	範圍攻擊耐性
+Assist_DecCT	CT減少属性
+Assist_IncCT	CT増加属性
+Resist_DecCT	CT減少耐性
+Resist_IncCT	CT増加耐性
+UNIT_SORT_WINDOW_TITLE	排序
+UsedJewel	魔力消耗值
+Assist_SingleAttack	單體攻擊屬性
+LevelMax	最大LV
+Assist_ESA_Fire	火属性特效加成
+Assist_ESA_Water	水属性特效加成
+Assist_ESA_Wind	風属性特效加成
+Assist_ESA_Thunder	雷属性特效加成
+Assist_ESA_Shine	光属性特效加成
+Assist_ESA_Dark	暗属性特效加成
+Resist_ESA_Fire	火属性特效耐性
+Resist_ESA_Water	水属性特效耐性
+Resist_ESA_Wind	風属性特效耐性
+Resist_ESA_Thunder	雷属性特效耐性
+Resist_ESA_Shine	光属性特效耐性
+Resist_ESA_Dark	暗属性特效耐性
+	
+; 英靈排序	
+FILTER_TITLE	篩選
+FILTER_ZENEI	前衛
+FILTER_TYUEI	中衛
+FILTER_KOUEI	後衛
+FILTER_FIRE	火
+FILTER_WATER	水
+FILTER_WIND	風
+FILTER_THUNDER	雷
+FILTER_SHINE	光
+FILTER_DARK	暗
+FILTER_ZAN	斬擊系
+FILTER_TOTSU	刺擊系
+FILTER_DA	打擊系
+FILTER_SHA	射擊系
+FILTER_MAG	魔法系
+FILTER_NONE	其他
+FILTER_ENV	安比利亞
+FILTER_WRATH	拉斯特里斯
+FILTER_SAGA	撒加地方
+FILTER_SLOTH	斯洛斯修坦
+FILTER_LUST	路斯特布魯格
+FILTER_WADATSUMI	綿津見國
+FILTER_DESERT	沙漠地帶
+FILTER_GREED	格里特達伊克
+FILTER_GLUTTONY	格拉特尼弗斯
+FILTER_OTHER	其他
+FILTER_EQUAL_CONCEPT_CARD	同一念裝
+SORT_TITLE	排序
+SORT_TIME	按時間順序
+SORT_LEVEL	等級
+SORT_TOTAL	綜合
+SORT_JOBRANK	JOB Lv
+SORT_HP	ＨＰ
+SORT_ATK	物攻
+SORT_DEF	物防
+SORT_MAG	魔攻
+SORT_MND	魔防
+SORT_SPD	速度
+SORT_AWAKE	界限突破
+SORT_COMBINATION	連攜
+SYOJUN	升序
+KOUJUN	降序
+FILTER_CLEAR	取消選擇
+FILTER_ALL	全選
+BTN_SORTFILTER	排序
+BTN_SORTFILTER2	篩選使用中
+FILTER_NOSUPPORT	沒有可選擇的傭兵
+FILTER_NOUNIT	不存在相應英靈
+RESET	重置
+OK	OK
+RAID_RESULT_INDEX	Battle{0}
+TODAY	本日
+TOMORROW	明日
+PLAYER_RESULT	PLAYER RESULT
+RAID_DROPITEM	獲得物品
+	
+; 副本任務	
+BONUS_NODEATH	全員生存
+BONUS_KILLALL	殲滅敵人
+BONUS_LIMITEDTURN	行動{0}次以內通關
+BONUS_COMBOCOUNT	發出{0}連擊以上
+BONUS_NOSKILL	不使用技能
+BONUS_MAXSKILLCOUNT	技能使用次數{0}以內
+BONUS_NOITEM	不使用物品
+BONUS_MAXITEMCOUNT	物品使用次數{0}以內
+BONUS_MAXPARTYSIZE	用{0}人以內的隊伍通關
+BONUS_LIMITELEMENT	僅用{0}屬性的英靈通關
+BONUS_LIMITUNIT	帶著{0}通關
+BONUS_NOMERCENARY	不使用傭兵通關
+BONUS_NOHEAL	不回復HP通關
+BONUS_TOTALHEALMAX	HP回復量在{0}以下
+BONUS_TOTALHEALMIN	最低回復HP{0}
+BONUS_TOTALDAMAGESMAX	給予的總傷害在{0}以下
+BONUS_TOTALDAMAGESMIN	給予的總傷害在{0}以上
+BONUS_TOTALDAMAGESTAKENMAX	受到的總傷害在{0}以下
+BONUS_TOTALDAMAGESTAKENMIN	受到的總傷害在{0}以上
+BONUS_KILLSTREAK	同時打倒{0}名敵人
+BONUS_CTMAX	增援前通關
+BONUS_NOCONTINUE	不復活的情況下通關
+BONUS_CONTINUEMAX	繼續{0}次以內通關
+BONUS_NONPCDEATH	通關，且NPC不死
+BONUS_TARGETKILLSTREAK	同時打倒{0}{1}名，通關
+;BONUS_NOTARGETDEATH	不打倒{0}，通關
+BONUS_NOTARGETDEATH	{0}生存的狀態下通關
+BONUS_BREAKOBJCLASHMAX	「{0}」的破壞數在{1}個以下，通關
+BONUS_BREAKOBJCLASHMIN	把「{0}」的破壞{1}個以上後通關
+BONUS_WITHDRAWUNIT	使{0}撤退
+BONUS_USEMERCENARY	雇傭傭兵通關
+BONUS_LIMITEDUNITID_MAINONLY	在主要的成員里編入「{0}」後通關
+BONUS_MISSIONALLCOMPLETEATONCE	1次戰鬥中達成所有副本任務條件
+BONUS_ONLYTARGETARTIFACTTYPE	使用武具種：「{0}」的英靈通關
+BONUS_ONLYTARGETARTIFACTTYPE_MAINONLY	主成員僅用武具種：「{0}」的英靈通關
+BONUS_ONLYTARGETJOBS	僅用職業：「{0}」的英靈通關
+BONUS_ONLYTARGETJOBS_MAINONLY	主成員僅用職業：「{0}」的英靈通關
+BONUS_ONLYTARGETUNITBIRTHPLACE	僅用出生地：「{0}」的英靈通關
+BONUS_ONLYTARGETUNITBIRTHPLACE_MAINONLY	主成員出生地：「{0}」的英靈通關
+BONUS_ONLYTARGETSEX	僅用「{0}」的英靈通關
+BONUS_ONLYTARGETSEX_MAINONLY	主成員僅用「{0}」的英靈通關
+BONUS_ONLYHEROUNIT	僅用劇情副本的主人公通關
+BONUS_ONLYHEROUNIT_MAINONLY	僅用主要成員為劇情副本的主人公通關
+BONUS_FINISHER	用「{0}」打倒最後的敵人通關
+BONUS_TOTALGETTREASURECOUNT	取得{0}個以上的寶箱通關
+BONUS_KILLSTREAKBYUSINGTARGETITEM	使用「{0}」打倒敵人
+BONUS_KILLSTREAKBYUSINGTARGETSKILL	使用「{0}」打倒敵人
+BONUS_MAXPARTYSIZE_IGNOREFRIEND	不含傭兵，用{0}人以內成員通關
+BONUS_NOAUTOMODE	不使用自動操作通關
+BONUS_NODEATH_NOCONTINUE	在不復活繼續的前提下全體生存
+BONUS_ONLYTARGETUNITS	僅用「{0}」通關
+BONUS_ONLYTARGETUNITS_MAINONLY	主要成員僅用「{0}」通關
+BONUS_LIMITEDTURN_LEADER	隊長英靈的行動次數在{0}次以內通關
+BONUS_NODEATHTARGETNPCUNITS	在{0}不被打倒的情況下通關
+BONUS_USETARGETSKILL	使用「{0}」
+BONUS_TOTALKILLSTREAKCOUNT	打倒{0}名以外敵人通關
+BONUS_TOTALGETGEMCOUNT_OVER	獲得地圖上的魔力個數在{0}個以上且通關
+BONUS_TOTALGETGEMCOUNT_LESS	獲得地圖上的魔力個數在{0}個以下且通關
+BONUS_TEAMPARTYSIZEMAX_INCMERCENARY	各個隊伍用{0}人以內的隊伍通關(包含傭兵)
+BONUS_TEAMPARTYSIZEMAX_NOMERCENARY	各個隊伍用{0}人以內的隊伍通關(不包含傭兵)
+	
+; 副本參加限制	
+QUEST_CHARACTER_CONDITION	{0}的英靈Lv在{1}以上
+QUEST_CHARACTER_CONDITION_OTHER	(有其他條件)
+	
+CONFIRM_CLASSCHANGE	<color="#ff0000">「{1}」的職業解鎖後<br>「{0}」被覆蓋，<br>將丟失能力和技能。</color><br><br>確定要從「{0}」進階到「{1}」<br>嗎？
+	
+; 英靈的解鎖	
+UNIT_UNLOCK_TITLE	鍊成英靈
+UNIT_UNLOCK_COMMENT	要鍊成這個英靈？
+UNIT_GAINED_QUEST_TITLE	獲得方法
+UNIT_GAINED_QUESTLIST_TITLE	可獲得的副本
+UNIT_GAINED_COMMENT	獲得處<br><color="#FFF080">・召喚<br>・安娜的店<br>・★★★　瑪麗亞的店<br>・★★★★、★★★★★　露伊莎的店<br>・協力模式的兌換所<br>・競技場的兌換所</color>
+UNIT_GAINED_QUEST_NOTHING	沒有可獲得的副本
+UNIT_UNLOCK_LIMIT	煉成可能期間
+	
+LEARNING_COND_TITLE	習得條件
+ABILITY_LEANING_COND1	{0}的JOB等級為{1}時習得
+ABILITY_LEANING_COND2	{0}CLEAR時習得
+SKILL_LEANING_LIST	習得的技能一覽
+SKILL_LEANING_CONDITION1	能力等級{0}時習得
+	
+; 實績	
+TROPHY_PLAYERLV	玩家等級達到{0}。
+TROPHY_KILLENEMY	打倒敵「{0}」{1}名。
+TROPHY_GETITEM	打倒敵人獲得物品「{0}」{1}個。
+	
+;指定多個條件時的相關文字	
+TROPHY_OR	」「
+	
+TROPHY_WINQUEST	副本「{0}」通關{1}次。
+TROPHY_WINQUEST_OR	副本「{0}」任一通關{1}次。　
+TROPHY_WINQUEST_NORMAL	通關普通副本{0}次。
+TROPHY_WINQUEST_ELITE	通關困難副本{0}次。
+TROPHY_WINQUEST_EVENT	通關活動副本{0}次。
+	
+TROPHY_LOSEQUEST	副本「{0}」中{1}次失敗。　
+TROPHY_LOSEQUEST_OR	副本「{0}」任一失敗{1}次。　
+TROPHY_LOSEQUEST_NORMAL	普通副本中失敗{0}次。
+TROPHY_LOSEQUEST_ELITE	困難副本中失敗{0}次。
+TROPHY_LOSEQUEST_EVENT	活動副本中失敗{0}次。
+	
+TROPHY_GACHA	召喚{0}次。※不論稀有、普通
+TROPHY_GACHA_NORMAL	召喚{0}次。
+TROPHY_GACHA_RARE	幻晶石召喚{0}次。
+TROPHY_GACHA_VIP	VIP召喚{0}次。
+	
+TROPHY_MULTIPLAY	進行{0}次協力副本。
+TROPHY_ABILITY	強化{0}次能力。
+TROPHY_SOUBI	強化{0}次裝備。
+TROPHY_BUYGOLD	購買{0}次金幣。
+	
+TROPHY_VIP	VIP等級{0}的獎勵。
+	
+TROPHY_STAMINA	{0}:00 ～ {1}:00
+TROPHY_REVIEW	寫評論得獎勵！
+TROPHY_FBBIND	綁定得獎勵！
+TROPHY_FBINVITE	邀請好友得獎勵！
+TROPHY_OUTDATED	獎勵領取時間結束。
+TROPHY_FOLLOWTWITTER	關注官方Twitter帳號獲得獎勵!!
+TROPHY_FGGID	FgGID注冊和協作獲得獎勵！！
+TROPHY_DownAll	進行完整資源包下載！
+TROPHY_UNITLV	{0}的英靈等級達到{1}。
+TROPHY_EVOLUTIONCNT	{0}的進化達到　★{1}。
+TROPHY_JOBLV	{0}的英靈職業{1}等級達到　{2}。
+TROPHY_LOGINCNT	玩家的登錄天數達到　{0}。
+	
+TROPHY_UNITLVUP	英靈{0}的等級提升{1}。
+TROPHY_UNITLVMAKE	使英靈{0}的等級為{1}。
+TROPHY_EQUIP	給英靈{0}裝備{1}個裝備品。
+TROPHY_JOBLVUP	英靈{0}Job{1}Lv提升{2}。
+TROPHY_JOBLVMAKE	使英靈{0}Job{1}Lv為{2}。
+TROPHY_LIMITBREAK	使英靈{0}進行{1}次界限突破。
+TROPHY_EVOLUTIONTIMES	使英靈{0}進行{1}次進化。
+TROPHY_CHANGEJOB	英靈{0}的職業更換進行{1}次。
+TROPHY_CHANGEABILITY	更改英靈{0}的能力設置
+TROPHY_ABILITYLV	使英靈{0}的能力{1}等級為{2}。
+TROPHY_WINSOLIDER	帶著傭兵通過{0}次副本。
+TROPHY_WINMULTI	協力模式副本{0}通關{1}次。
+TROPHY_BUYATSHOP	在商店{0}中購買物品{1}{2}個。
+TROPHY_AFORDRILL	進行武具{0}鍊成{1}次。
+TROPHY_AFSTRENGTHEN	武具{0}強化進行{1}次。
+TROPHY_AFVOLUTION	武具{0}進化進行{1}次。
+TROPHY_WINMULTIMORE	協力模式副本{0}用{1}人以上通關。
+TROPHY_WINMULTILESS	協力模式副本{0}用{1}人以下通關。
+TROPHY_COLLECTUNITS	收集英靈{0}名。
+TROPHY_TOTALUNITLVS	使英靈的合計等級為{0}以上。
+TROPHY_TOTALJOBLV11	將英靈{0}名設為職業等級11。
+TROPHY_CHILDRENCOMP	通關挑戰任務吧。
+	
+TROPHY_ARENA	玩{0}次競技場。
+TROPHY_WINARENA	競技場中獲勝{0}次。
+TROPHY_LOSEARENA	在競技場中失敗{0}次。
+	
+TROPHY_WINTOWER	通關{0}「{1}」{2}次。
+TROPHY_WINTOWER_NORMAL	塔型副本通關{0}次。
+TROPHY_LOSETOWER	{0}「{1}」中失敗{2}次。
+TROPHY_LOSETOWER_NORMAL	塔型副本中失敗{0}次。
+	
+TROPHY_VS	玩{0}次對戰。
+TROPHY_VSWIN	對戰中勝利{0}次。
+TROPHY_VSLOSE	對戰中失敗{0}次。
+TROPHY_EXTRA_CLEAR	　
+TROPHY_EXTRA_CLEAR_NOCON	僅用{0}的英靈在{1}種類的額外副本中無繼續且通關
+TROPHY_MULTITOWER_HELP	協力塔中幫助未通關者{0}次
+TROPHY_MULTITOWER	協力塔玩{0}次
+	
+TROPHY_WINSTORY_EXTRA	劇情額外副本通關{0}次。
+TROPHY_DAMAGE_OVER	1次給予{0}以上的傷害
+TROPHY_COMPLETE_ALL_QUESTMISSION	在1次戰鬥中，達成副本{0}的全部任務條件
+TROPHY_HAS_GOLD_OVER	所持金幣達{0}以上。
+	
+TROPHY_DAILYALL	通關所有的每日任務。
+TROPHY_NOT_ACHIEVEDQUEST	無已通關的副本。
+	
+; 協力模式	
+DEFAULT_ROOM_COMMENT	歡迎參加！
+	
+MP_SELECT_CONTINUE	要使用幻晶石<fix:continue_cost>個<br>繼續戰鬥嗎？
+MP_SELECT_REVIVE	要使用幻晶石<fix:continue_cost_multi>個，<br>復活死亡的英靈嗎？
+MP_SELECT_REVIVE	要使用幻晶石<fix:continue_cost_multi>個，<br>復活死亡的英靈嗎？
+MP_SELECT_CONTINUE_NOCOIN	幻晶石不足。要購買嗎？
+MP_FIRST_CONTACT_TITLE	協力副本
+MP_FIRST_CONTACT_MSG	與隊友進行協力模式並且首次獲得勝利！可從禮物箱中收取獎勵。
+	
+MP_LINE_TITLE	LINE PLAY
+MP_LINE_EXIT_QUEST	中止副本，開始LINE PLAY
+MP_LINE_SELECT_RETRY	無法進入房間。要再次試行嗎？
+MP_LINE_POST	透過LINE發送協力模式邀請訊息。好友可點擊您透過LINE發送的連結進入遊戲，快利用LINE徵集協力隊友吧！
+MP_LINE_POST_VERSUS	在LINE上分享給朋友嗎？
+	
+MP_START_QUEST_FEW_PLAYERS	未集齊全員，確定要開始副本嗎？
+	
+MP_LINE_HTTP	http://line.me/R/msg/text/?
+MP_LINE_TEXT	為了誰的鍊金術師中協力模式！<br>http://aldena.mobage.tw/home<br><br>安裝點此！<br>iOS<br>https://itunes.apple.com/app/id1174220058?ls=1&mt=8<br><br>android<br>https://play.google.com/store/apps/details?id=com.denachina.g23000114.android
+MP_LINE_VERSUS_TEXT	快來為了誰的鍊金術師和我對戰吧！<br>http://aldena.mobage.tw/multi-join/?param={0}<br><br>安裝遊戲請至下方網址！<br>http://m.onelink.me/96c82b39<br><br>更多遊戲訊息請見官方粉絲團：<br>https://www.facebook.com/ALDeNATW/
+	
+MP_LINE_INVITATION_TITLE	要用LINE邀請朋友嗎？
+MP_LINE_INVITATION	一起玩為了誰的鍊金術師吧！操作自己的英靈，挫敗對手的策略！一玩就放不下！https://www.facebook.com/ALDeNATW
+	
+MP_INVITATIONMSG_COPY	複製邀請文
+MP_INVITATIONMSG_COPYED	已將邀請文複製到剪貼板。
+	
+MP_REST_REWARD	今天的剩餘獎勵獲得次數是<color="#ff0000">{0}</color>次
+	
+RESTORE_ABILITY_RANKUP_NUM	要消耗幻晶石{0}個，恢復<br>能力強化次數嗎？
+RESTORE_ABILITY_NOCOIN	幻晶石不足。
+	
+MOVE_BLOCKED	無法移動到那裡。
+CONFIRM_GIVEUP	確定要撤退嗎?
+CONFIRM_GIVEUP_ARENA	確定要跳過嗎?
+	
+PLAY_LAST_DEMO_TITLE	跳過確認
+PLAY_LAST_DEMO_TEXT	跳過進行「再次挑戰！！」通關後的demo。<br>※跳過的通關後的demo<br>可以從「功能表/劇情回顧」裡播放。
+	
+; 幻晶石商店	
+TITLE_APP_PURCHASE	幻晶石購買
+BIRTHDAY_FORMAT	國曆{0}年{1}月{2}日
+CONFIRM_BIRTHDAY	確認一下生日是否是<birthday>。一旦註冊就無法更改，敬請注意。
+CONFIRM_PURCHASE	要購買<selected_product>嗎？
+REQUEST_PURCHASE_SUCCESS	已購買
+TITLE_AGREE	同意確認
+MSG_AGREE	未成年者要獲得監護人（父母）的同意噢！<br><br>20歲以下的人，未經同意不得購買。
+CROSS_NUM	×{0}
+VIP_REMAIN_D	剩餘{0}天
+VIP_EXPIRE_HHMM	{0}:{1:D2}前
+	
+LEANING_SKILL_TITLE	技能已解鎖
+	
+NEWGAME_DEBUGUSER	要作為debug用戶開始嗎?
+	
+ARENA_OUTOFTICKET	今天的挑戰券已用完。
+LEADERNOTSET	請設定隊長。
+	
+; 數據轉移	
+HIKKOSHICODE_EXPIRETIME	有效期限：{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}
+HIKKOSHI_SUCCESS	轉移已完成。
+HIKKOSHI_FAILED	轉移碼錯誤。
+HIKKOSHI_TITLE	請輸入轉移碼
+HIKKOSHI_WARNING_MESSAGE	輸入失敗3次，本客戶端的轉移碼輸入將被鎖定24小時。
+請注意。	
+	
+HIKKOSHI_TYPE_SELECT	數據協作
+HIKKOSHI_FGG	用FgGID轉移
+HIKKOSHI_CODE	輸入轉移碼
+HIKKOSHI_MAIL	信箱
+HIKKOSHI_PASS	密碼
+HIKKOSHI_FGG_REGISTER	FgGID未註冊的人請點此
+HIKKOSHI_FGG_ATTENTION	請輸入信箱和密碼
+	
+; 數據協作註冊	
+CHAINDATA_TITLE	數據協作
+CHAINDATA_SUBTITLE	請輸入資料協作所需要的密碼。
+CHAINDATA_WARNING	遊戲資料在協作的手機終端<br>啟動「為了誰的鍊金術師」，請輸入顧客碼和密碼。
+CHAINDATA_CAUTION	注意事項
+CHAINDATA_CAUTION_MSG	・通過資料協作，玩多個手機端和更換機子後，可以用同一個玩家資料。<br>・在不同平臺的手機上進行資料協作時，付費的・免費的「幻晶石」不通用。與購買時的手機端相同的平臺時，可以共用(通用部分的「幻晶石」)。<br>・已對所用手機上的「為了誰的鍊金術師」進行資料協作時，玩家資料會被覆蓋，目前為止的玩家資料會消失，請務必注意。<br>無法把多個手機終端的不同玩家資料整合成1個。<br>・選項的設定，會變成預設狀態。<br>・非法將遊戲資料進行交易的話，遊戲帳號將會被停掉。
+CHAINDATA_USERCODE	顧客碼
+CHAINDATA_PASSWORD	密碼
+CHAINDATA_MAXPASS	※8文字以上、12文字以下
+CHAINDATA_REGIST	密碼註冊成功。
+CHAINDATA_REGIST_EMAIL_FAILED	所指定的顧客碼錯誤。請用其他顧客碼設定。
+CHAINDATA_REGIST_PASS_FAILED	所指定的密碼錯誤，請設置其他密碼。
+CHAINDATA_REGIST_DUPLICATE_FAILED	所指定的ID已設置在其他終端上，請用其他ID設置。
+CHAINDATA_COPY	複製
+CHAINDATA_COPY_FINISH	複製完成
+CHAINDATA_COPY_MESSAGE	顧客碼已粘貼到剪貼板裡
+	
+; 數據協作執行	
+CHAINDATA_HIKITSUGI	用顧客碼協作
+CHAINDATA_INPUT_MSG	請輸入發放的顧客碼和密碼
+CHAINDATA_CHAIN_ERROR	資料協作錯誤
+CHAINDATA_CHAIN_FINISHED	資料協作的處理已完成。<br>用之前的資料繼續遊戲。
+CHAINDATA_FAILED	資料協作的處理失敗。
+CHAINDATA_CHAIN_IDPASS_FAILED	顧客碼或是密碼錯誤。<br>請在資料協作方的終端上再次輸入確認。
+CHAINDATA_MISSING	轉移方和被轉移方的終端是相同的。
+CHAINDATA_LOCKED	輸入錯誤超過規定次數，在本機上已將轉移碼輸入鎖定。<br><color="#FFF080">{0}</color>以後<br>在原機上再設定密碼時，請再次輸入。
+	
+; 數據協作註冊、數據協作執行	
+CHAINDATA_FAILED	數據協作處理失敗。
+	
+	
+; 功能解鎖	
+UNLOCK_LV	Lv{0}解鎖
+UNLOCK_VIP	VIP等級{0}時解鎖
+UNLOCK_REQLV	玩家Lv{0}時解鎖。
+UNLOCK_REQVIP	VIP等級{0}時解鎖。
+UNLOCK_TOWER_PROG	{0}的{1}通關後解鎖
+UNLOCK_COND	以下情況下可解鎖。<br>
+UNLOCK_COND_REQLV	・玩家等級達{0}
+UNLOCK_COND_TOWER_PROG	・{0}
+	
+; 競技場	
+ARENA_COOLDOWN	(還剩{0:D2}:{1:D2})
+ARENA_RESET_TICKETS	要消耗幻晶石{0}個重置挑戰次數嗎?
+ARENA_RESET_COOLDOWN	要消耗幻晶石{0}個縮短冷卻時間嗎?
+ARENA_RANKING_ALL	全體
+ARENA_RANKING_FRIEND	好友
+ARENA_TOTALATK	總攻擊力
+ARENA_RECORD_BESTRANK	過去最高名次
+ARENA_RECORD_RANK	當前名次
+ARENA_RECORD_REWARD	記錄更新的獎勵
+ARENA_BTN_RANKING	排行榜
+ARENA_BTN_HISTORY	記錄
+ARENA_BTN_SHOP	兌換所
+ARENA_BTN_SELECT_ATTACK	選擇對戰對手
+ARENA_LBL_TARGET_LIST	競技場 對戰
+ARENA_DSC_TARGET_LIST	請選擇對戰對手
+ARENA_BTN_REFRESH_LIST	再次檢索
+ARENA_LBL_ATTACK_TEAM	攻擊隊伍
+ARENA_LBL_DEFFENCE_TEAM	防禦隊伍
+ARENA_LBL_LV	Lv
+ARENA_LBL_TOTAL_ATK	總攻擊力:
+ARENA_LBL_RANK	名
+ARENA_BTN_BATTLE	對戰!!
+ARENA_BTN_BACK	返回
+ARENA_KOS	戰績
+ARENA_KOS_PARAM	{0}戰{1}勝
+ARENA_BATTLE_DATE	對戰時間
+ARENA_LBL_RANKING	競技場排行榜
+ARENA_LBL_HISTORY	競技場 對戰記錄
+ARENA_WAIT_COOLDOWN	請在可以對戰前稍等一會
+ARENA_DAYLIMIT	今天無法再進行對戰
+ARENA_LAST_BATTLE_DATE	最終對戰時間
+ARENA_HELP_CONTENT	競技場中最多可與其他玩家進行3對3的自動戰鬥。玩家編輯隊伍後，與對戰對手戰鬥，最終隊伍中還有英靈存活的為勝利。
+ARENA_ACTION_COUNT_REST	行動次數 剩餘：
+ARENA_COOLDOWN_STR	之後可對戰
+	
+PVP_LBL_TOTAL_STATUS	總攻擊力
+	
+PLAYTUTORIAL	要進行新手引導嗎?
+	
+AGREE_TERMS	本遊戲需要同意使用注意規則。<br>未同意的無法使用本遊戲
+	
+OKYAKUSAMACODE	顧客碼:{0}
+MSG_CLEARCACHE	要再次下載嗎？
+MSG_CLEARCACHE2	當檔案缺失或者其他顯示不正確等原因導致遊戲異常時，可嘗試進行修復。使用此功能將會自動刪除已下載的所有資源文件並重新下載。<br>確認修復嗎？
+	
+DL_MP	為了更好體驗協力模式，需要提前下載資源。需要{0}容量，要開始下載嗎？
+DL_ALL	下載全部資源需要{0}容量，要開始下載嗎？
+DL_NONEED	內容已是最新。
+DL_COMPLETE	下載已完成。
+	
+LASTLOGIN_DAY	最後登錄：{0}天前
+LASTLOGIN_HOUR	最後登錄：{0}小時前
+LASTLOGIN_MINUTE	最後登錄：{0}分前
+	
+; 登錄獎勵	
+LOGBO_TODAY	本月第{2}天的登錄獎勵！<br>獲得{0}{1}個！
+LOGBO_TOMMOROW	明天登錄，將獲得<br>{0}！
+LOGBO_TOMMOROW2	明天登錄，將獲得<br>{0}！
+LOGBO_LAST	本月已結束了！<br>等待下個月吧！
+	
+; 28日登入獎勵	
+LOGBO_GAIN_LASTITEM	28日登入可獲得<br>『{0}』！
+LOGBO_POPUP_MESSAGE	獎勵的<color="#FFF080">{0}{1}個</color>已<br>發送到禮物箱
+	
+; 每月登入獎勵	
+LOGBO_MONTH_TODAY	本月第{2}天的登入獎勵！<br>獲得{0}{1}個！
+LOGBO_MONTH_TOMMOROW	明天登入，將獲得<br>{0}！
+LOGBO_MONTH_TOMMOROW2	明天登入，將獲得<br>{0}！
+LOGBO_MONTH_LAST	本月已結束了！<br>等待下個月吧！
+	
+; 新手登入獎勵	
+LOGBO_BEGINNER_TODAY	第{2}天的登入獎勵！<br>贈送{0}{1}個！
+LOGBO_BEGINNER_TOMMOROW	明天也登入的話，可以獲得<br>{0}噢！
+LOGBO_BEGINNER_TOMMOROW2	明天也登入的話，可以獲得 {0}噢！
+LOGBO_BEGINNER_LAST	今後也要繼續努力噢！
+	
+; 衝刺登入獎勵	
+LOGBO_START_20160709_TODAY	第{2}天的登入獎勵！<br>贈送{0}{1}個！
+LOGBO_START_20160709_TOMMOROW	明天也登入的話，可以獲得<br>{0}噢！
+LOGBO_START_20160709_TOMMOROW2	明天也登入的話，可以獲得 {0}噢！
+LOGBO_START_20160709_LAST	今後也要繼續努力噢！
+
+; pok5日登入獎勵
+LOGBO_BEGINNER_0354_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0354_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0354_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0354_LAST	今後也要繼續努力噢！
+
+; pok7日登入獎勵
+LOGBO_BEGINNER_0355_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0355_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0355_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0355_LAST	今後也要繼續努力噢！
+	
+; 120萬登入獎勵
+LOGBO_BEGINNER_0356_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0356_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0356_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0356_LAST	今後也要繼續努力噢！
+
+; 異層塔7日登入獎勵
+LOGBO_BEGINNER_0357_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0357_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0357_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0357_LAST	今後也要繼續努力噢！
+
+; 聖石9章紀念1彈登入獎勵
+LOGBO_BEGINNER_0358_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0358_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0358_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0358_LAST	今後也要繼續努力噢！
+
+;聖石9章紀念2彈登入獎勵
+LOGBO_BEGINNER_0359_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0359_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0359_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0359_LAST	今後也要繼續努力噢！
+
+;附魔職業新開放紀念
+LOGBO_BEGINNER_0360_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0360_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0360_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0360_LAST	今後也要繼續努力噢！
+
+;滿滿感謝！歡慶父親節紀念
+LOGBO_BEGINNER_0361_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0361_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0361_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0361_LAST	今後也要繼續努力噢！
+
+;大運動會紀念
+LOGBO_BEGINNER_0362_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0362_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0362_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0362_LAST	今後也要繼續努力噢！
+
+;FFXV聯動紀念第一彈
+LOGBO_BEGINNER_0363_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0363_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0363_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0363_LAST	今後也要繼續努力噢
+
+;FFXV聯動紀念第二彈
+LOGBO_BEGINNER_0364_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0364_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0364_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0364_LAST	今後也要繼續努力噢
+
+;FFXV聯動紀念第三彈
+LOGBO_BEGINNER_0365_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0365_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0365_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0365_LAST	今後也要繼續努力噢
+
+;聖石外傳開放及FFXV聯動最後衝刺
+LOGBO_BEGINNER_0366_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0366_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0366_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0366_LAST	今後也要繼續努力噢
+
+;異層塔開放紀念
+LOGBO_BEGINNER_0370_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0370_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0370_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0370_LAST	今後也要繼續努力噢
+
+;三國序章開放紀念
+LOGBO_BEGINNER_0371_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0371_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0371_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0371_LAST	今後也要繼續努力噢
+
+;詭誕萬聖與聖石10章紀念7天登入獎勵
+LOGBO_BEGINNER_0380_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0380_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0380_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0380_LAST	今後也要繼續努力噢
+
+;殺戮魅影聯動紀念5天登入獎勵
+LOGBO_BEGINNER_0390_TODAY	第{2}天的登入獎勵！
+LOGBO_BEGINNER_0390_TOMMOROW	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0390_TOMMOROW2	明天也登入的話，可以獲得豐厚獎勵噢！
+LOGBO_BEGINNER_0390_LAST	今後也要繼續努力噢
+
+; 召回登入獎勵	
+LOGBO_COMEBACK_20161208_TODAY	歡迎回來！<br>能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20161208_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20161208_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20161208_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20170801_TODAY	歡迎回來！<br>能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20170801_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20170801_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20170801_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20170815_TODAY	歡迎回來！<br>能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20170815_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20170815_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20170815_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20171020_TODAY	歡迎回來！能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20171020_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171020_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171020_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20171101_TODAY	歡迎回來！<br>能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20171101_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171101_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171101_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20171222_TODAY	歡迎回來！能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20171222_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171222_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20171222_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+LOGBO_COMEBACK_20180128_TODAY	歡迎回來！<br>能再次見面真開心呢！<br>送給你<color="#A40000">{0}{1}個</color>，請收下！
+LOGBO_COMEBACK_20180128_TOMMOROW	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20180128_TOMMOROW2	期待著和你再次見面！<br>明天會準備好<color="#A40000">{0}</color>等你噢♪
+LOGBO_COMEBACK_20180128_LAST	這7天來能和你見面真的很開心！<br>明天一定要繼續來噢！<br>約好咯♪
+	
+VIPBONUS	※VIP可獲得的獎勵為2倍
+BONUSMSG	登錄獎勵將發送到收件箱。
+TRPYCOMP	達成「{0}」
+AWARD_GET	獲得稱號『{0}』咯！
+	
+; 返回過24點時的遊戲主頁對話	
+DAYCHANGE_RELOGIN	日期時間已更改
+	
+// 通知列表	
+NOTIFY_CONTENTSUNLOCK	「{0}」已開放！
+NOTIFY_SUPPORT	成為傭兵，獲得{1}金幣！
+	
+; 能力和技能的習得	
+LEARN_ABILITY_TITLE	習得新能力
+LEARN_SKILL_TITLE	習得新技能
+LEARN_SKILL	習得技能
+LEARN_ABILITY_MESSAGE	習得新能力！
+LEARN_SKILL_MESSAGE	習得新技能！
+	
+; 快捷選單	
+SHORTCUT_MISSION	任務
+SHORTCUT_ITEM	物品
+SHORTCUT_TEAM	隊伍編輯
+SHORTCUT_UNIT	英靈
+SHORTCUT_MAIL	禮物
+SHORTCUT_BUYCOIN	幻晶石商店
+SHORTCUT_ARTIFACT	武具
+SHORTCUT_SHOP	商店
+SHORTCUT_MULTIINVITATION	協力模式邀請通知
+SHORTCUT_CONCEPTCARD	真理念裝
+	
+NEXT_LEVEL	到下次等級前
+UNIT_ABILITY_LVUP	等級UP
+TIMER_RECOVER	回復
+	
+TUTORIALGACHA	獲得英靈
+	
+; 好友	
+FRIENDREQS	新的好友申請有 {0}件
+FRIEND_FRIENDINVITATION	邀請好友
+FRIEND_FRIENDLIST	好友一覽
+FRIEND_FRIENDNOTIFICATION	好友通知
+FRIEND_SEARCH	好友檢索
+FRIEND_NUM	好友
+FRIEND_DETAIL	好友詳情
+FRIEND_ID	ID：
+BTN_FRIEND_REMOVE	解除
+BTN_FRIEND_REQUEST	申請
+BTN_FRIEND_AGREE	同意
+BTN_FRIEND_REJECTION	拒絕
+BTN_FRIEND_REJECTION_ALL	批量拒絕
+BTN_FRIEND_COPY	複製
+BTN_FRIEND_SEARCH	檢索
+FRIEND_NONE_MESSAGE	暫時未添加好友
+FRIEND_AGREE_MESSAGE	要同意該玩家的申請嗎？
+FRIEND_AGREE_MESSAGE_LONG	確定要與該玩家成為好友嗎？？
+FRIEND_AGREED_MESSAGE	已同意好友申請
+FRIEND_NOTIFICATION_MESSAGE	沒有好友通知
+FRIEND_LIMIT_OTHER_MESSAGE	對方的好友數達上限。
+FRIEND_MYID	你的ID
+FRIEND_SEARCH_MESSAGE	檢索朋友的ID加為好友吧！
+FRIEND_NOTFOUND_MESSAGE	所輸入的玩家ID不存在。
+FRIEND_INPUT_MESSAGE	請輸入ID
+FRIEND_COPY_FINISH	複製完成
+FRIEND_COPY_MESSAGE	玩家ID已複製於剪貼板內
+FRIEND_FOUND_MESSAGE	要向該玩家發出好友申請嗎？
+FRIEND_ALREADY_FRIEND	已是好友。
+FRIEND_ALREADY_FOLLOW	已發出申請。
+FRIEND_REQUEST_MESSAGE	好友申請已發出！
+FRIEND_REMOVE_MESSAGE_LONG	將解除與該玩家的好友關係，確定嗎？
+; 邀請好友	
+FRIENDINVITATION_LINE	用LINE邀请
+FRIENDINVITATION_SMS	用SMS邀请
+FRIENDINVITATION_EMAIL	用E-mail邀请
+; 標記好友	
+FRIEND_FAVORITE	常用
+FRIEND_ALREADY_FAVORITE	已標記為常用。
+FRIEND_NO_FAVORITE	未標記為常用。
+; 好友排序	
+FRIEND_SORT_ENTRY_DATE	註冊日
+FRIEND_SORT_LAST_LOGIN	最終登錄時間
+FRIEND_SORT_PLAYER_LEVEL	玩家Lv
+; 好友禮物	
+FRIENDPRESENT_WINDOW_TITLE	禮物
+FRIENDPRESENT_TAB_RECIEVE	領取
+FRIENDPRESENT_TAB_SEND	贈送
+FRIENDPRESENT_WANT	想要的東西
+FRIENDPRESENT_WANT_SET	設定
+FRIENDPRESENT_BTN_RECEIVE	批量領取
+FRIENDPRESENT_BTN_SENDER	贈送禮品的人
+FRIENDPRESENT_BTN_SEND	批量發送
+FRIENDPRESENT_STATUS	屬性
+FRIENDPRESENT_STATUS_SENDING	發送中
+FRIENDPRESENT_STATUS_UNSENT	未發送
+FRIENDPRESENT_STATUS_SENTFAILED	發送失敗
+FRIENDPRESENT_STATUS_SENDED	已發送
+FRIENDPRESENT_WANTLIST_TITLE	物品選擇
+FRIENDPRESENT_RECEIVE_TITLE	已收取獎勵。
+FRIENDPRESENT_GAVELIST_TITLE	贈送禮品的人
+FRIENDPRESENT_SENDMSG_TITLE	禮物批量發送
+FRIENDPRESENT_SENDMSG_TEXT	禮物已發送
+; 首個好友獎勵	
+FRIEND_FIRSTBONUS_TITLE	首位好友<br>成立人數
+	
+CMD_NOTSELECT_SUPPORT	不選擇的狀態下前進
+FRIENDSUPPORT_NOTFRIEND_MESSAGE	因為不是好友<br>所以技能的效果不發動
+	
+UNIT_LEADERSKILL_TITLE	首領技能
+UNIT_LEADERSKILL_NOTHAVE_NAME	無
+UNIT_LEADERSKILL_NOTHAVE_MESSAGE	未持有隊長技能
+	
+; 禮物	
+MAILBOX_TITLE	禮物
+MAILBOX_NOT_PERIOD	無期限
+MAILBOX_PERIOD	有期限
+MAILBOX_READ	領取記錄
+MAILBOX_READALL	批量領取
+MAILBOX_RECEIVE	領取
+MAILBOX_RECEIVED	已打開
+MAILBOX_ITEM_NUM	個
+MAILBOX_ITEM_NUM_MAI	張
+MAILBOX_ITEM_OVER_MSG	物品持有數達上限。要直接領取嗎？（超過上限的部分會兌換成金幣）
+MAILBOX_ITEM_CONVERTED_MSG	超過持有上限的物品{0}已兌換成金幣。
+MAILBOX_LIMIT_TITLE	領取時間
+MAILBOX_LIMIT	前
+MAILBOX_RECEIVE_ALL_MESSAGE	要領取當前頁面所有禮物嗎？
+MAILBOX_RECEIVE_TITLE	禮物已領取
+MAILBOX_NOT_RECIEVE	受持有數限制，部分禮物無法領取。
+MAILBOX_NOT_RECIEVE_ALL	受持有數限制，沒有可領取的禮物。
+MAILBOX_ARTIFACT_OVER	受武具持有上限限製，無法領取武具。分解武具或出售後可領取。
+MAILBOX_CONCEPT_CARD_OVER	受真理念裝持有上限限制，無法領取真理念裝。分解真理念裝或出售後可領取。
+MAILBOX_RECEIVE_TIME_HOURS	{0}小時前
+MAILBOX_RECEIVE_TIME_MINUTES	{0}分前
+MAILBOX_RECEIVE_TIME_SECONDS	{0}秒前
+MAILBOX_ITEM_AWARD	稱號:
+MAILBOX_ITEM_AWARD_RECEIVE	稱號:
+MAILBOX_AREA_GIFTS	區域禮物
+	
+	
+ITEM_CREATESUCCESS	合成成功
+	
+QUEST_VICTORYCONDITIONS	勝利條件
+	
+QUEST_CHALLENGE_NO_RESET	今天無法再挑戰。
+QUEST_SPAN_CHALLENGE_NO_RESET	無法再挑戰。
+QUEST_CHALLENGE_RESET	要消耗{0}個幻晶石重置挑戰次數嗎？（還剩{1}次）
+	
+QUEST_AP_CONDITION	玩家等級未滿{0}，在此副本中不消耗AP。
+	
+QUESTDETAIL_TITLE	副本詳情
+QUESTDETAIL_MISSION	副本任務
+QUESTDETAIL_DROPITEM	獲得物品
+QUESTDETAIL_INFO	副本信息
+QUESTDETAIL_LIMIT	出擊限制
+QUESTDETAIL_CHAR_LIMIT	挑戰條件
+	
+QUESTTYPE_EVENT	活動副本一覽
+QUESTTYPE_KEY	鑰匙副本一覽
+QUESTTYPE_AREA	區域副本一覽
+QUESTTYPE_TOWER	塔型副本一覽
+QUESTTYPE_RANKING	排行榜副本一覽
+QUESTTYPE_BEGINNER	新手副本一覽
+QUESTTYPE_ORDEAL	異層圈卡爾瑪
+KEYQUEST_UNLOCK	鑰匙副本開放
+KEYQUEST_OUTOFKEY	道具持有數不足。
+KEYQUEST_AVAILABLE_CAUTION	超過開放時間。
+KEYQUEST_UNLCOK_TIMER_D	<color="#FFF080">消耗{0}</color><color="#FFF080">{1}</color>個<br>開放副本{2}天。
+KEYQUEST_UNLCOK_TIMER_H	<color="#FFF080">消耗{0}</color><color="#FFF080">{1}</color>個<br>開放副本{2}小時。
+KEYQUEST_UNLCOK_TIMER_M	<color="#FFF080">消耗{0}</color><color="#FFF080">{1}</color>個開放副本<br>{2}分鐘。
+KEYQUEST_UNLCOK_COUNT	<color="#FFF080">消耗{0}</color><color="#FFF080">{1}</color>個開放副本。
+KEYQUEST_TIMEOVER_D	超過開放時間。<br>要消耗<color="#FFF080">{0}</color><color="#FFF080">{1}</color>個，再次挑戰嗎？<br>
+KEYQUEST_TIMEOVER_H	超過開放時間。<br>要消耗<color="#FFF080">{0}</color><color="#FFF080">{1}</color>個，再次挑戰嗎？<br>
+KEYQUEST_TIMEOVER_M	超過開放時間。<br>要消耗<color="#FFF080">{0}</color><color="#FFF080">{1}</color>個，再次挑戰嗎？<br>
+KEYQUEST_TIMEOVER_COUNT	超過開放時間。<br>要消耗<color="#FFF080">{0}</color><color="#FFF080">{1}</color>個，再次挑戰嗎？<br>
+KEYQUEST_UNLCOK_ITEM_AMOUNT	持有數：
+KEYQUEST_CAUTION_NOTQUEST	無開放中的活動
+	
+RESET_STAMINA	要消耗{0}個幻晶石回復<br>AP{1}點嗎?<br><br>AP最大只能回復到1000。
+STAMINAFULL	無需回復
+BUYGOLD	要用{0}個免費幻晶石<br>兌換{1}金幣嗎?<br><br>付費幻晶石 {2}個／免費幻晶石 {3}個
+GOLDBOUGHT	已購買{1}金幣
+OUTOFCOIN	幻晶石不足
+OUTOFFREECOIN	免費幻晶石不足
+STAMINARECOVERED	AP已回復。
+STAMINA_BUY_LIMIT	今天無法再購買AP。
+GOLD_BUY_LIMIT	今天無法再購買金幣。
+	
+; 菜單標題	
+CONFIG_BTN_PLAYER	玩家訊息
+CONFIG_BTN_PLAYER_CENTER	用戶中心
+CONFIG_BTN_NEWS	遊戲公告
+CONFIG_BTN_FACEBOOK	綁定Facebook
+CONFIG_BTN_FANSURL	粉絲團連結	
+CONFIG_BTN_SUPPORT_SET	選擇傭兵英靈
+CONFIG_BTN_LOGINBONUS	本月登入獎勵
+CONFIG_BTN_LOGINBONUS28DAYS	登入獎勵
+CONFIG_BTN_HELP	遊戲幫助
+CONFIG_BTN_OPTION	遊戲設定
+CONFIG_BTN_CHAT	聊天設定
+CONFIG_BTN_HIKKOSHICODE	數據轉移
+CONFIG_BTN_MENU	菜單
+CONFIG_BTN_SERIALCODE	輸入序列碼
+CONFIG_BTN_REVIEW	評論
+CONFIG_BTN_CHECKCOIN	幻晶石詳情
+CONFIG_BTN_COPYRIGHT	版權
+CONFIG_BTN_TERMS	玩家守則
+CONFIG_BTN_OFFICIALSITE	官方網站
+CONFIG_BTN_DOWNLOAD	全資源包下載
+CONFIG_BTN_CACHECLEAR	再次下載
+CONFIG_BTN_INVITATIONCODE	邀請碼輸入
+CONFIG_BTN_ITEMBOOK	物品圖鑒
+CONFIG_BTN_UNITBOOK	英靈圖鑒
+CONFIG_BTN_STORY	石之記憶
+CONFIG_BTN_COMMERCIAL_TRANSACTION	特定商取引法
+CONFIG_BTN_SETTLEMENT	資金決済法
+CONFIG_BTN_CONTACT	客服
+CONFIG_BTN_PRIVACY_POLICY	隱私保護政策
+CONFIG_BTN_FGGID	FgGID
+CONFIG_BTN_REPLAY	劇情一覽
+CONFIG_BTN_TITLE	返回遊戲
+	
+; 菜單內容	
+CONFIG_PLAYER_LV	玩家Lv
+CONFIG_PLAYER_EXP	玩家經驗值
+CONFIG_PLAYER_UNITLEVEL	最大英靈Lv
+CONFIG_PLAYER_VIPRANK	VIP等級
+CONFIG_PLAYER_CHANGENAME	名字的變更
+BTN_CONFIG_PLAYER_CHANGENAME	變更
+CONFIG_HIKKOSHI_PROCESS	數據轉移流程
+CONFIG_HIKKOSHI_CODE	轉移碼
+CONFIG_HIKKOSHI_LIMIT	有效期限
+CONFIG_HIKKOSHI_ISSUE	轉移碼發放
+CONFIG_HIKKOSHI_ATTENTION	注意事項
+CONFIG_OPTION_INVITANIO	協力設定
+CONFIG_OPTION_SOUND	聲音設定
+CONFIG_OPTION_SE	ＳＥ
+CONFIG_OPTION_BGM	ＢＧＭ
+CONFIG_OPTION_VOICE	ＶＯＩＣＥ
+CONFIG_OPTION_AUTOBATTLE	自動戰鬥設定
+BTN_CONFIG_OPTION_AUTOBATTLE	自動戰鬥
+CONFIG_OPTION_AUTOBATTLE_MSG	自動戰鬥設為ON的話<br>戰鬥開始時會自動進行對戰。
+CONFIG_OPTION_PUSH	推送通知變更
+CONFIG_OPTION_PUSH_AP	ＡＰ全部恢複
+CONFIG_OPTION_PUSH_NEWS	新訊息
+CONFIG_CHAT_EDIT_TEMPLATE_MESSAGE	聊天文字範本的編輯
+CONFIG_CHAT_EDIT_COMPLETE	文字範本已更改。
+CONFIG_CHAT_EDIT_FAILED_NGWORD	輸入不合適的文字，已取消更改。
+CONFIG_CHAT_REGIST_TEMPLATE_MESSAGE	文字範本最多可輸入6個字。
+BTN_CONFIG_CHAT_TEMPLATE_CHANGE	變更
+CONFIG_CHECKCOIN	未使用幻晶石
+CONFIG_CHECKCOIN_PAY	付費獲得的
+CONFIG_CHECKCOIN_FREE	免費獲得的
+CONFIG_CHECKCOIN_COM	通用免費幻晶石
+CONFIG_CHECKCOIN_MESSAGE	※幻晶石優先從免費獲得的部分開始消耗。<br>購買幻晶石時獎勵的幻晶石為免費獲得的。
+CONFIG_ACHIEVEMENT_TITLE	實績
+CONFIG_ACHIEVEMENT_DESC	進行實績的確認
+CONFIG_ACHIEVEMENT_BTN	實績確認
+CONFIG_OPTION_INVITANIO_SETTING	協力模式邀請受理設定
+CONFIG_OPTION_INVITANIO_COMMENT	留言設定
+CONFIG_INVITATION_POPUP	可收到協力邀請的通知。
+	
+CONFIG_FAQ_TITLE	幫助
+CONFIG_FAQ_DESC	常見問題
+CONFIG_FAQ_BTN	幫助
+CONFIG_CODE_BTN	兌換
+CONFIG_CODE_INPUT_TITLE	請輸入兌換碼
+CONFIG_CODE_TITEL	兌換禮包
+CONFIG_CONTACT_TITLE	客服
+CONFIG_CONTACT_DESC	諮詢前請先查看<color=#FFFF00>常見問題</color>。
+CONFIG_CONTACT_BTN	客服
+CONFIG_SHOW_OKYAKUSAMACODE_TEXT	顯示顧客碼
+CONFIG_SHOW_OKYAKUSAMACODE_BTN	顯示
+	
+SWITCH_ITEM	顯示
+SETTLEMENT_TITLE	資金決済法為基礎的顯示
+COMMERCIAL_TRANSACTION_TITLE	特定商取引法為基礎的顯示
+	
+; 輸入名字	
+INPUT_PLAYERNAME_MESSAGE	請輸入名字
+	
+; 客服	
+CONTACT_TITLE	客服
+	
+; 利用規約	
+TERMOFUSE_TITLE	玩家守則
+CMD_AGREE	同意
+CMD_NOTAGREE	不同意
+	
+; 任務	
+TROPHY_DAILY	日常
+TROPHY_MISSION	成就
+TROPHY_MISSION_COMPLETED	已達成
+TROPHY_COMPLETED_TILTLE	已達成的任務
+TROPHY_BTN_CLEAR	達成!!
+MISSION_CLEAR_TITLE	完成獎勵
+TROPHY_BTN_GO	挑戰!!
+TROPHY_BTN_REVIEW	寫評論
+TROPHY_BTN_FOLLOWTWITTER	關注
+TROPHY_BTN_FGGID_LOGIN	連攜
+TROPHY_REWARD_AP_CAPPED	AP已達上限，獎勵無法領取
+TROPHY_REWARD_AP_OVERFLOW	超過AP上限的部分將被丟棄，確定嗎？
+TROPHY_REMAINING_DAY	剩餘{0}天
+TROPHY_REMAINING_HOUR	剩餘{0}小時
+TROPHY_REMAINING_MINUTE	剩餘{0}分
+TROPHY_STAR5	用5★支援
+TROPHY_DISSATISFIED	有任何意見建議請點此
+TROPHY_NOTSUPPORT	不支援
+	
+; 任務詳情	
+TROPHY_DETAIL_TITLE	任務詳情
+TROPHY_DETAIL_CONDITIONE	通關條件
+TROPHY_DETAIL_REWARD	獎勵
+TROPHY_DETAIL_EXP	玩家EXP
+TROPHY_DETAIL_CROSS	×
+	
+; 任務分類	
+TROPHY_CATEGORY_STORY	劇情
+TROPHY_CATEGORY_EVENT	活動
+TROPHY_CATEGORY_TRAINING	養成
+TROPHY_CATEGORY_MULTI	協力模式
+TROPHY_CATEGORY_CAMPAIGN	特殊
+TROPHY_CATEGORY_OTHER	其他
+	
+; 任務獎勵	
+TROPHY_REWARD_CAUTION	因為達到持有數上限，部分獎勵將發送至禮品箱。
+	
+; 副本結果	
+QUESTRESULT_MISSION_TITLE	副本任務
+QUESTRESULT_PLAYER_REWARD	玩家獎勵
+QUESTRESULT_REWARD_EXP	獲得經驗值
+QUESTRESULT_UNITEXP	英靈經驗值
+QUESTRESULT_REWARD_ITEM	獲得物品
+QUESTRESULT_REWARD_ITEM_HAVE	(持有:{0})
+QUESTRESULT_UPLOAD_TEAM_INFO	公開通關資訊
+CMD_BACK	返回
+BTN_MISSION	任務
+CMD_RETRY	再挑戰1次!!
+CMD_QUESTEND	副本結束
+	
+; 輸入生日	
+BIRTHDAY_CHECK_TITLE	請輸入生日
+BIRTHDAY_CHECK_CAUTION	未成年者購買幻晶石時，<br>需要監護人（父母）的同意。<br>為了確認年齡，請輸入出生年月日。
+BIRTHDAY_AD	國曆
+BIRTHDAY_YEAR	年
+BIRTHDAY_MONTH	月
+BIRTHDAY_DAY	日
+	
+CMD_OK	是
+BTN_VIP	VIP
+BTN_JOB	JOB
+	
+UNIT_KAKUSEI_MAXLV	最大等級
+	
+GAIN_ITEM_TITLE	已領取物品
+	
+; 物品領取	
+ITEM_RECIEVE_MSG_UNIT	個
+ITEM_RECIEVE_EXCHANGE	已兌換成金幣
+	
+VIP_RANK	VIP等級
+VIP_RANKUP	VIP等級已提升！
+	
+CONFIRM_CHANGE_PLAYER_NAME	要更改玩家名嗎？
+TITLE_CHANGE_PLAYER_NAME	玩家名更改確認
+	
+LOCAL_NOTIFICATION_IOSACTION	運行遊戲
+	
+; 玩家等級提升	
+PLAYER_LVUP_LV	等級
+PLAYER_LVUP_AP	當前的AP
+PLAYER_LVUP_MAXAP	最大AP
+PLAYER_LVUP_FRIEND	最大好友框
+PLAYER_LVUP_UNLOCK	解鎖下個
+	
+LOCAL_NOTIFICATION_STAMINA	AP已回復至最大
+LOCAL_NOTIFICATION_STAMINA_IOS_ACT	運行遊戲
+	
+; 英靈列表	
+UNITLIST_TAB_LOCK	碎片英靈
+UNITLIST_TAB_UNLOCK	英靈
+UNITLIST_USE	編輯中
+UNITLIST_PIECE	碎片：
+UNITLIST_AP_NEED	需要：
+UNITLIST_AP_UNLOCK	需要：
+UNITLIST_SKIN_WARNING	即使更換skin，有時會有用更換前的外表進行的動畫演示。敬請知悉。
+UNITLIST_SKIN_GET_TITLE	獲得英靈的skin
+UNITLIST_SKIN_GET	獲得{0}。<br><br>※skin的設定可從英靈詳情中進行。
+UNITLIST_SKIN_TITLE	更換
+UNITLIST_SKIN_DEFAULT_NAME	{0}普通裝扮
+UNITLIST_QUEST_STORY	劇情
+UNITLIST_QUEST_PIECE	魂之碎片
+UNITLIST_DATA_REWRITE	通關副本，以下將被覆蓋，要挑戰嗎？<br><br>{0}
+UNITLIST_REWRITE_TARGET	・<color=#F6FF90>{0}「{1}」</color><br>
+UNITLIST_REWRITE_JOB	職業
+UNITLIST_REWRITE_SKILL	技能
+UNITLIST_REWRITE_ABILITY	能力
+UNITLIST_REWRITE_LEADERSKILL	隊長技能
+UNITLIST_REWRITE_MASTERABILITY	專屬能力
+UNITLIST_EXPOVERFLOW_WARNING	超過當前英靈最大等級所需要的經驗，確定嗎？
+	
+UNITLIST_PIECE_DESC	用魂之碎片鍊成英靈
+UNITLIST_NOTIFY_UNLOCK_CC_JOB	解鎖{0}！
+	
+SKILL_UNLOCKCOND_UNITLV	英靈等級{0}以上
+SKILL_UNLOCKCOND_ABILITYLV	能力：{0}的等級{1}以上
+SKILL_UNLOCKCOND_CLEARQUEST	通關所有副本：
+	
+	
+; 英靈進化	
+UNITEVOLUTION_TITLE	進化
+UNITEVOLUTION_MESSAGE	要消耗進化素材和金幣進化嗎？
+UNITEVOLUTION_ITEM_NEED	需要的進化素材
+UNITEVOLUTION_GOLD	持有金幣
+UNITEVOLUTION_GOLD_NEED	消耗金幣
+CMD_EVOLUTION	進化
+DISABLE_EVOLUTION	無法再進行進化
+	
+; 英靈的界限突破	
+UNITAWAKE_TITLE	界限突破
+UNITAWAKE_RESULT	界限突破結果
+UNITAWAKE_RESULT_0	最大等級　＋1
+UNITAWAKE_RESULT_1	連攜值　＋1
+CMD_AWAKE	界限突破
+DISABLE_AWAKE	無法再進行界限突破
+UNITAWAKE_USEITEM_MSG	要消耗以下物品進行界限突破嗎？
+UNITAWAKE_CAUTION_MSG	界限突破所需要的道具<br>不足
+	
+PAYMENTCHECK_TITLE	付費注意與確認
+	
+FRIEND_REQ_TITLE	好友申請
+FRIEND_REQ_MESSAGE	要申請成為好友嗎？
+	
+ITEMDETAIL_TITLE	物品詳情
+	
+RAIDRESULT_UNITEXP	英靈經驗值
+RAIDRESULT_GOLD	獲得金幣
+	
+NEWS_TITLE	新訊息
+	
+MISSIONDETAIL_TITLE	副本任務
+MISSIONDETAIL_REWARD	獎勵：
+ABILITYDETAIL_TITLE	能力詳情
+SKILLUNLOCKCOND_TITLE	技能習得條件
+INDEX_MP	MP：
+	
+; 物品裝備頁面	
+UNIT_EQUIPMENT_TITLE	裝備
+UNIT_EQUIPMENT_RECIPE	素材合成
+UNIT_EQUIPMENT_HOWTOGET	獲得方法
+UNIT_EQUIPMENT_MESSAGE	裝備具有提升屬性的功能<br>集齊6個，職業等級會提升
+UNIT_EQUIPMENT_NEED	需要
+UNIT_EQUIPMENT_AMOUNT	持有
+UNIT_EQUIPMENT_HAVEAMOUNT	持有數
+UNIT_EQUIPMENT_EQUIPLV	可裝備Lv
+UNIT_EQUIPMENT_QUEST	可獲得的副本
+UNIT_EQUIPMENT_CREATE_MESSAGE	已製成{0}！
+BTN_EQUIP	裝備
+BTN_HOWTOGET	獲得方法
+BTN_RECIPE	素材合成
+BTN_MADE	合成
+BTN_MIX	合成
+BTN_MADE_ALL	單擊合成
+DISABLE_QUEST_CHALLENGE	不可挑戰的副本
+DISABLE_QUEST_DATE_UNLOCK	不在開放期間的副本
+TEXT_COMPOSE	合成
+TEXT_COMMON	合成
+BTN_EQUIP_DECIDE	裝備
+	
+; 物品批量合成	
+UNIT_ITEM_TRANSMUTE_TITLE	批量合成
+UNIT_ITEM_TRANSMUTE_MSG	要消耗以下的物品進行批量合成嗎？
+UNIT_ITEM_TRANSMUTE_COST	批量合成費用
+UNIT_ITEM_TRANSMUTE_COST_ONE_TAP	一鍵合成費用
+	
+; 批量裝備職業等級升級	
+UNIT_ALLEQUIP_TITLE	批量裝備
+UNIT_ALLEQUIP_CONFIRM	要消耗以下的道具<br>提升職業等級嗎？
+UNIT_ALLEQUIP_UNLOCK_CONFIRM	要消耗以下的道具<br>解鎖職業嗎？
+UNIT_ALLEQUIP_CHANGE_CONFIRM	要消耗以下的道具<br>進階嗎？
+UNIT_ALLEQUIP_MSG	（職業等級達上限時，只進行批量裝備）
+UNIT_ALLEQUIP_NO_GOLD	※金幣不足
+	
+; 副本UI	
+QUEST_PLATE_FLIP	切換
+	
+; 副本的暫停選單	
+BTN_RETIRE	撤退
+BTN_RETIRE_ARENA	跳過
+BTN_AUTOBATTLE_ON	自動戰鬥ON
+BTN_AUTOBATTLE_OFF	自動戰鬥OFF
+BTN_OPTION	選項
+QUESTMENU_TITLE	副本選單
+QUESTMENU_CHARGE_DISP	範圍效果的顯示
+BTN_CHARGE_DISP_ON	ＯＮ
+BTN_CHARGE_DISP_OFF	ＯＦＦ
+	
+; 協力戰UI	
+MULTI_BATTLE_TIMELIMIT	剩餘時間：
+MULTI_BATTLE_THINKING	思考中...
+MULTI_BATTLE_THINKING_COM	COM思考中...
+MULTI_BATTLE_YOURTURN	距你的回合還有
+MULTI_BATTLE_NOWYOURTURN	的回合
+MULTI_BATTLE_THINKING_CONTINUE	繼續思考中...
+MULTI_BATTLE_THINKING_REVIVE	復活思考中...
+MULTI_BATTLE_STAMP	蓋章
+MULTI_BATTLE_NOWTURN	的回合
+MULTI_BATTLE_TAISHUTSU	已退出房間
+MULTI_BATTLE_ROOM	你變成房主
+MULTI_REWARDCOUNTZERO_MSG	今天的獎勵已全部領取
+MULTI_BATTLE_RESUME	P回歸了
+MULTI_BATTLE_RESUME_HOST	成為房主
+MULTI_BATTLE_RESUME_SUCCESS	已回歸。
+MULTI_BATTLE_RESUME_SUCCESS_HOST	你變成房主
+MULTI_BATTLE_RESUME_ONLY	※其他玩家全體退出房間，<br>所以從初始狀態開始。
+MULTI_BATTLE_WAIT_OTHERPLAYER	通信中…
+MULTI_CONFIG_OPTION_STAMP_STATE	使用圖章
+MULTI_CONFIG_OPTION	協力戰鬥
+	
+; 協力模式的準備頁面	
+MULTI_READY	
+MULTI_PASSCODE	PASS：
+MULTI_EDIT_COMMENT	留言
+MULTI_EDIT_RECRUIT	徵集中
+BTN_READY	準備中
+BTN_READY_OK	準備完成
+BTN_EDITTEAM	編輯
+BTN_GO	出戰
+BTN_EXIT	退出房間
+MULTI_EDIT_NOTJOIN	不可參加
+MULTI_INPUT_CODE	輸入密碼
+MULTI_INPUT_COMMENT	輸入留言
+MULTI_QUEST_READY_OK	準備完成
+MULTI_QUEST_WAIT_PLAYER	期待參加
+MULTI_QUEST_CODE_MESSAGE	讓朋友輸入這個密碼吧!
+MULTI_QUEST_CODE_MESSAGE_UNLOCKED	任何人都可以參加!
+MULTI_QUEST_CODE_MESSAGE_NOT_OWNER	只有房主可以進行留言的編輯和出擊
+MULTI_QUEST_EDIT	編輯中
+BTN_COMMENT_EDIT	編輯
+BTN_PLAYER_INFO	查看訊息
+MULTI_BTN_CLEAR_UNIT	人氣通關隊伍排行
+MULTI_CLEAR_RANK	第{0}名
+MULTI_CLEAR_UNIT_NAME	{0}({1})
+MULTI_CLEAR_AGGREGATING	統計中
+MULTI_SELECT_VERSUS	對戰
+MULTI_VERSUS_FREE	自由對戰
+MULTI_VERSUS_RANK	等級對戰
+MULTI_VERSUS_FRIEND	好友對戰
+MULTI_VERSUS_RANKMATCH	等级匹配
+MULTI_VERSUS_CPU	訓練對戰
+MULTI_VERSUS_MATCH	對戰開始！
+MULTI_VERSUS_ERROR	匹配失敗。
+MULTI_VERSUS_MATCHING	匹配中・・・
+MULTI_VERSUS_UNIT	英靈配置
+MULTI_VERSUS_MAP	變更
+MULTI_VERSUS_PARTY	英靈編緝
+MULTI_VERSUS_NEXT_RANK	到下個等級還有
+MULTI_VERSUS_FRIEND_CREATE	創建房間
+MULTI_VERSUS_FRIEND_MODE	與好友對戰
+MULTI_VERSUS_SAME_POS	不同的英靈配置在相同的位置了，對戰之前請先檢查英靈配置位置。
+MULTI_VERSUS_CANCEL	沒有對戰對手。
+MULTI_VERSUS_WINCNT	勝
+MULTI_VERSUS_RANKPOINT	段位積分
+MULTI_VERSUS_PLAYERINFO	玩家信息
+MULTI_VERSUS_SCORE	戰績
+MULTI_VERSUS_RANKVIEW	等級一覽
+MULTI_VERSUS_INFO	訊息
+MULTI_VERSUS_MAP_INFO	MAP詳情
+MULTI_VERSUS_MAP_SETTING	設定到這個地圖上。
+MULTI_VERSUS_COUNTDOWN	還有 <color=#FFF080> {0} </color> 秒開始！
+MULTI_VERSUS_CONFIRM_RESUMEQUEST	可返回對戰。<br>要返回去嗎？
+MULTI_VERSUS_RESUME_TITLE	對戰中斷返回
+MULTI_VERSUS_RESUME_FAILURE	對戰的中斷返回失敗。
+MULTI_VERSUS_RESUME_FAILURE_NOMEMBER	其他玩家退出房間，對戰結束。
+MULTI_VERSUS_UPDATE_MAP	地圖的更新
+MULTI_VERSUS_UPDATE_MAP_FAILURE	地圖的更新失敗
+MULTI_VERSUS_INV	在這裡獲得的特別URL轉發給好友，<br>點擊URL後，你就可以和好友對戰了！
+MULTI_VERSUS_URL	複製URL
+MULTI_VERSUS_FRIEND_INV	呼叫好友
+MULTI_VERSUS_COPY_FINISH	已粘貼到剪貼板裡
+MULTI_VERSUS_MAP_SELECT	地圖選擇
+MULTI_VERSUS_VS_PLAYER_INFO	玩家信息
+MULTI_VERSUS_PHOTON_ERR	ID獲取失敗
+MULTI_VERSUS_FRIEND_TITLE	邀請好友對戰吧！
+MULTI_VERSUS_TITLE_HELP	自由對戰
+MULTI_VERSUS_HELP	在自由對戰中，可以和隨機匹配的其他玩家對戰。最大行動次數以內還無法定勝負的情況下，剩餘HP較多的為勝利。剩餘HP一樣的情況下，定為平局。
+MULTI_VERSUS_HELP_TOWER	TOWER匹配中，可以與隨機匹配的其他玩家對戰。結束時的玩家所在樓層將決定賽季獎勵。在實時PvP中奪取勝利，登上人生巔峰吧。
+MULTI_VERSUS_FRIEND_HELP_TITLE	好友對戰
+MULTI_VERSUS_FRIEND_HELP	好友對戰中，可以邀請好友參與對戰。創建房間，分享密碼，輸入密碼後就可以進行對戰。
+MULTI_VERSUS_FORCE_WIN	對戰對手已撤退
+MULTI_VERSUS_STATUS	戰績
+MULTI_VERSUS_ALREADY_END	對戰已經結束。
+MULTI_VERSUS_TOWER	TOWER匹配
+MULTI_VERSUS_AWARD	獎勵一覽
+MULTI_VERSUS_KEYNAME	勝利的鑰匙
+MULTI_VERSUS_GET	獲得勝利的鑰匙！
+MULTI_VERSUS_NOW	當前
+MULTI_VERSUS_FLOOR	層
+MULTI_VERSUS_FLOOR_ARRIVAL	層達到！！
+MULTI_VERSUS_FLORR_FALL	層（下降！！）
+MULTI_VERSUS_REWARD_WIN	勝利獎勵
+MULTI_VERSUS_REWARD_JOIN	獎勵
+MULTI_VERSUS_REWARD_GET	領取獎勵
+MULTI_VERSUS_SEASON_REWARD	賽季獎勵獲得！
+MULTI_VERSUS_SEND_GIFT	賽季獎勵已發送到禮物
+MULTI_VERSUS_REWARD_NAME	<color=#FFFF00>{0}</color>
+MULTI_VERSUS_RECEIPT_PERIOD	賽季獎勵領取期間
+MULTI_VERSUS_REWARD_GET_MSG	已獲得道具
+MULTI_VERSUS_ARRIVAL_REWARD	達成獎勵獲得！
+MULTI_VERSUS_END_AT	活動時間:　<color=#FFFF00>{0}年{1}月{2}日 {3:D02}:{4:D02}</color>結束
+MULTI_VERSUS_REWARD_GET_AWARD	已獲得了稱號。
+MULTI_VERSUS_ARRIVED_NAME	達成獎勵
+MULTI_VERSUS_SEASON_NAME	賽季獎勵
+MULTI_VERSUS_DETAIL	詳細
+MULTI_VERSUS_TOWER_DETAIL	TOWER詳情
+MULTI_VERSUS_FRIEND_NAME	{0}<br>其他{1}名
+MULTI_VERSUS_REMAIN_COIN	<color=#FFFF78>今日剩餘次數: </color>{0}/{1}
+MULTI_VERSUS_NOTOPEN_TOWER	TOWER匹配未開始
+MULTI_VERSUS_NOTOPEN_TOWER_MSG	暫未開放
+MULTI_VERSUS_NEXT_TOWER_MSG	請等待下次開放
+MULTI_VERSUS_LASTFLOOR	TOWER匹配達到{0}層！
+MULTI_VERSUS_EXIT	退出
+MULTI_VERSUS_COMFIRM_EXIT	要退出觀戰模式嗎？
+MULTI_VERSUS_AUDIENCE	觀戰
+MULTI_VERSUS_COMFIRM_AUDIENCE	要觀看此對戰嗎？
+MULTI_VERSUS_AUDIENCE_LIST	可觀戰的對戰一覽
+MULTI_VERSUS_ADUIENCE_FREE	自由對戰觀戰中
+MULTI_VERSUS_ADUIENCE_TOWER	塔匹配觀戰中
+MULTI_VERSUS_ADUIENCE_FRIEND	好友對戰觀戰中
+MULTI_VERSUS_AUDIENCE_HELP	觀戰列表相關的幫助
+MULTI_VERSUS_AUDIENCE_FAILURE	無法開始觀戰
+MULTI_VERSUS_AUDIENCE_NOT_PASSCODE	未找到指定房間
+MULTI_VERSUS_AUDIENCE_DISBANDED	房間已解散
+MULTI_VERSUS_AUDIENCE_END	無法繼續觀戰
+MULTI_VERSUS_AUDIENCE_ENABLE	允許觀戰
+MULTI_VERSUS_AUDIENCE_DISABLE	此對戰的設定已更改<br>不允許觀戰
+MULTI_VERSUS_AUDIENCE_DISABLE_JOIN	此對戰不允許觀戰
+MULTI_VERSUS_AUDIENCE_RETIRE	{0}已撤退
+MULTI_VERSUS_AUDIENCE_NAME	觀戰者數
+MULTI_VERSUS_AUDIENCE_NUM	{0}/<color=#FFFF78>{1}</color>
+MULTI_VERSUS_AUDIENCE_ERROR_MAX	觀戰者數達最大，無法觀戰
+MULTI_VERSUS_TOWER_NOW_FLOOR	{0}<size=28>層</size>
+MULTI_VERSUS_REWARD_UNIT	英靈:{0}
+MULTI_VERSUS_REWARD_ARTIFACT	武具:{0}
+MULTI_VERSUS_REMAIN_AT_DAY	剩餘{0}天
+MULTI_VERSUS_REMAIN_AT_HOUR	剩餘{0}小時
+MULTI_VERSUS_REMAIN_AT_MINUTE	剩餘{0}分
+MULTI_VERSUS_NEXT_AT	下回開放:<color=#FFFF00>{0}年{1}月{2}日 {3:D02}:{4:D02}</color>
+MULTI_VERSUS_NEXT_NONE	下回開放:<color=#FFFF00>未定</color>
+MULTI_VERSUS_WINRATE	勝率
+MULTI_VERSUS_STATUS	玩家訊息
+MULTI_VERSUS_MAP	變更
+	
+; 協力模式相關錯誤	
+MULTI_ERR_PHOTON_SERVER_MAKE	連接伺服器失敗，<br>無法創建房間。
+MULTI_ERR_INVALID_MAKE	連接網路失敗，<br>無法創建房間。
+MULTI_ERR_FAILURE_MAKE	房間註冊失敗，<br>無法創建房間。
+MULTI_ERR_COMMENT_MAKE	留言有問題，<br>無法創建房間。
+MULTI_ERR_QUEST_MAKE	副本有問題，<br>無法創建房間。
+	
+MULTI_ERR_NOROOM	沒有找到房間<br>無法進入。
+MULTI_ERR_PHOTON_SERVER	連接伺服器失敗，<br>無法進入房間。
+MULTI_ERR_FULLMEMBER	房間已滿<br>無法進入。
+MULTI_ERR_QUEST	副本有問題，<br>無法進入房間。
+MULTI_ERR_INVALID	連接網路失敗，<br>無法進入房間。
+	
+MULTI_ERR_NOROOM_LINE	沒有找到房間<br>無法進入。<br>要再試試嗎？
+MULTI_ERR_PHOTON_SERVER_LINE	連接伺服器失敗，<br>無法進入房間。<br>要再試試嗎？
+MULTI_ERR_FULLMEMBER_LINE	房間已滿<br>無法進入。<br>要再試試嗎？
+MULTI_ERR_INVALID_LINE	房間訊息已失效，<br>暫時無法進入。
+	
+MULTI_ERR_PHOTON_SERVER_LINE_MAKE	連接伺服器失敗，<br>無法創建房間。<br>要再試試嗎？
+MULTI_ERR_INVALID_LINE_MAKE	連接網路失敗，<br>無法創建房間。<br>要再試試嗎？
+MULTI_ERR_FAILURE_LINE_MAKE	房間註冊失敗，<br>無法創建房間。<br>要再試試嗎？
+MULTI_ERR_COMMENT_LINE_MAKE	留言有問題，<br>無法創建房間。<br>要再試試嗎？
+	
+; 协力模式菜單	
+MULTI_MENU_CREATE	召集玩家
+MULTI_MENU_JOIN	參加隊伍
+MULTI_MENU_GPS	募集隊伍
+MULTI_MENU_LINE	線下募集
+MULTI_BTN_SHOP	兌換所
+MULTI_BTN_UPDATEROOM	刷新房間列表
+MULTI_TELOP_CREATE_OR_JOIN	請選擇要自己組隊伍<br>還是要參加別人組的隊伍<br>
+MULTI_TELOP_ABOUT_KEY	將入室限制設置為ON時，<br>則拒絕其他玩家自動加入房間。
+MULTI_QUEST_RAID	協力副本
+MULTI_QUEST_VERSUS	對戰副本
+MULTI_QUEST_TITLE	副本一覽
+MULTI_QUEST_LIST	協力副本一覽
+MULTI_MENU_JOINROOM	輸入密碼
+MULTI_INPUT_ROOMID	請輸入密碼
+MULTI_INPUT_PASS	輸入密碼
+MULTI_CONFIRM_RESUMEQUEST	協力副本可返回。<br>要返回去嗎？
+MULTI_RESUME_TITLE	協力副本的中斷返回
+MULTI_RESUME_FAILURE	協力副本的中斷返回失敗。
+MULTI_RESUME_FAILURE_NOMEMBER	其他玩家全員退出，協力副本結束
+MULTI_FAILED_START	協力副本的開啟失敗。<br>請再次嚐試
+MULTI_VERSUS_FAILED_START	對戰的開啟失敗。<br>請再次嚐試
+MULTI_UNIT_LV	英靈Lv
+MULTI_CLEAR_ONLY	僅通關經驗者
+MULTI_SET_PASS	密碼設定
+MULTI_ROOM_LIMIT	入室條件設定
+MULTI_ROOM_CREATE	創建房間
+MULTI_JOINLIMIT_NONE	無設定
+MULTI_JOINLIMIT_OVER	以上
+MULTI_JOIN_ALLEVENT	活動全選
+MULTI_JOIN_ALLQUEST	副本全選
+MULTI_JOIN_LIMIT_CLEAR	通關經驗
+MULTI_JOIN_LIMIT_FRIEND	僅好友
+MULTI_JOIN_LIMIT_OK	僅顯示可參加
+MULTI_JOIN_LIMIT_ONLY_CLEAR	有
+MULTI_ROOM_CREATE_TERM	入室條件設定
+MULTI_PLAY_STYLE	選擇玩法
+MULTI_SEARCH_ROOM_ZERO	沒有可參加的房間。<br>要創建房間嗎？
+MULTI_SEARCH_NO_ROOM	沒有可參加的房間<br>
+MULTI_NOROOM_MSG	要點擊更新按鈕嗎<br>想創建房間時<br>請選擇徵集成員
+MULTI_SEARCH_ALL_ROOM	徵集中一覽
+MULTI_NOROOM_MSG2	想尋找房間時<br>請點擊更新按鈕
+MULTI_LIMIT_ERROR	無法設置比持有的英靈更高的等級
+MULTI_PASS_NONE	無
+	
+MULTI_TOWER_RECOMMEND	推薦： Lv {0} / JobLv {1}
+MULTI_TOWER_SOLO	單人
+MULTI_TOWER_MULTI	協力
+MULTI_TOWER_RETRY	繼續挑戰下個
+MULTI_TOWER_ENEMYINFO	出現敵情報
+MULTI_TOWER_FLOORINFO	詳細
+MULTI_TOWER_CONFIRM_RESUMEQUEST	協力塔副本可中斷後返回。<br>要返回去嗎？
+MULTI_TOWER_RESUME_ERROR	協力塔副本的中斷返回失敗。
+MULTI_TOWER_OPEN	公開
+MULTI_TOWER_LOCK	非公開
+MULTI_TOWER_SELECT_FLOOR	選擇樓層
+MULTI_TOWER_FLOOR_DETAIL	詳細
+MULTI_TOWER_CREATE	創建隊伍
+MULTI_TOWER_JOIN	隨機參加
+MULTI_TOWER_NOT_CHALLENGE	因為設定了無法挑戰的樓層，<br>無法進入。
+MULTI_TOWER_SAME_POS	在相同格裡設置了英靈，<br>無法開始。<br>請更改配置。
+MULTI_TOWER_ENTRYCONDTION	包含有出擊限制的英靈。
+MULTI_TOWER_NOT_CHALLENGE_FLOOR	因為設定了無法挑戰的樓層。<br>請更改樓層。
+	
+MULTI_TOWER_REWARD	報酬獲得
+MULTI_TOWER_REWARD_GET_AWARD	已獲得了稱號。
+MULTI_TOWER_GIFT	已發送到禮物箱
+MULTI_TOWER_REWARD_GET_MSG	已獲得道具
+MULTI_TOWER_REWARD_NAME	<color=#FFFF00>{0}</color>
+MULTI_TOWER_WAIT_RESULT	結果確認中…
+MULTI_TOWER_WAIT_SELECTFLOOR	樓層選擇中…
+MULTI_TOWER_FAILED_START	副本的開啟失敗。<br>請再次嘗試
+MULTI_TOWER_OUTOFDATE	在活動時間外。
+MULTI_BTN_PASSRELEASE	解除
+MULTI_BTN_INVITATION	邀請
+MULTI_TOWER_PASS_NONE	-----
+MULTI_INVTATION_COMMNET	一起暢玩吧！
+MULTI_FIRST_MOBIUS	異層界梅比烏斯
+	
+MULTI_POPUP_ROOMLOCK_TEXT	<br>房間未鎖定<br>要設置密碼嗎？
+	
+MULTI_POPUP_PASSRELEASE_TEXT	<br>要解除密碼設置嗎？
+MULTI_POPUP_PASSRELEASE_FAILED	無法解除密碼設置
+	
+MULTI_GPS_LINE_MAKE	正在創建協力區域副本的房間。<br>使用GPS確認位置嗎？
+MULTI_GPS_LINE_JOIN	正在進入協力區域副本的房間。<br>使用GPS確認位置嗎？
+MULTI_GPS_QUEST_NOT	協力區域副本無法查看。<br>請確認以下內容。<br><br>・GPS設定有效<br>・進入指定區域<br>要再試試嗎？
+MULTI_GPS_CHECK_QUEST	使用GPS確認位置嗎？
+	
+MULTI_VS_CPU	[CPU]
+	
+; 等級匹配用	
+RANK_MATCH_LBL_MAP_INFO	對戰地圖時間表
+RANK_MATCH_ENABLE_TIME	{0:D02}:{1:D02}～{2:D02}:{3:D02}
+RANK_MATCH_MISSION_COUNT 第[XXX]貝	
+RANK_MATCH_MISSION_TITLE PVP 等級匹配任務一覧	
+RANK_MATCH_MISSION_COTENTS　任務內容	
+RANK_MATCH_MISSION_RECEIVE　領取	
+RANK_MATCH_MATCHING_CONFIRM	匹配成立後，<br>切斷網路會被判定為失敗。<br>推薦在網路環境良好的地方<br>或者Wi-Fi環境下遊戲。
+RANK_MATCH_MATCHING_CONFIRM_FREE	在自由對戰中Score的變動不會發生。
+RANK_MATCH_MATCHING_NOTOPEN	等級匹配未開始
+RANK_MATCH_MATCHING_MAP_INFO	MAP詳情
+RANK_MATCH_MATCHING_START	匹配開始
+RANK_MATCH_MATCHING_CEASEFIRE	停戰中
+RANK_MATCH_MATCHING_RANK	名
+RANK_MATCH_MATCHING_HELP	幫助
+RANK_MATCH_MATCHING_EVENT_INFO	活動詳情
+RANK_MATCH_MATCHING_SEASON	季度
+RANK_MATCH_MATCHING_UNTIL	前
+RANK_MATCH_MATCHING_SEASONTIME	{0}月{1}日 {2:D02}:{3:D02}～{4}月{5}日 {6:D02}:{7:D02}
+RANK_MATCH_MATCHING_TOP	剩餘
+RANK_MATCH_MATCHING_MINUTE	分
+RANK_MATCH_MATCHING_CHALLENGE_POSSIBLE_COUNT	可挑戰次數
+RANK_MATCH_MATCHING_NEXT_TIME	下次開放
+RANK_MATCH_MATCHING_COMPLETED	達成!!
+RANK_MATCH_MATCHING_TITLE_MISSION	任務一覽
+RANK_MATCH_NEXTRANKPOINT	到下個等級還有
+RANK_MATCH_RANKUP_MSG	已升級到！
+RANK_MATCH_RANKDOWN_MSG	被降級了。
+RANK_MATCH_SEASOM_REWARD	季度獎勵
+RANK_MATCH_SCORE_RANKING	積分排行榜
+RANK_MATCH_RANKING_REWARD	排名獎勵
+RANK_MATCH_HISTORY	本次戰績
+RANK_MATCH_IN_SESSION	開放中！
+RANK_MATCH_IN_AGGREGATING	統計中
+RANK_MATCH_MAP_INFO	MAP時間表
+RANK_MATCH_RECEIVE_TITLE	等級匹配季度結果
+RANK_MATCH_RECEIVE_MESSAGE	獲得獎勵了。
+RANK_MATCH_HELP_CAPTION	關於等級匹配
+RANK_MATCH_HELP_CONTENT	在等級匹配中，和其他玩家戰鬥比拼積分。<br>勝負會導致積分的增減，根據積分會改變所屬的級別。<br>季度結束後，會根據最終排行榜確定所屬的級別來發佈獎勵。<br>加油哦。
+RANK_MATCH_LAST_MATCH_DATA_TIME	最終對戰時間
+RANK_MATCH_BATTLE	戰
+RANK_MATCH_WIN	勝
+RANK_MATCH_LOSE	敗
+RANK_MATCH_SLASH	/
+RANK_MATCH_NOTHING_MATCHING	未找到對戰對手
+RANK_MATCH_CHANGE_SCHEDULE	對戰時間表變更了。
+RANK_MATCH_RANKING_RANK	{0}位
+	
+MSG_GETGPS	獲取位置訊息…
+MSG_CONNECTING	通信中…
+MSG_EXECUTING_CLEARCACHE	清除暫存中…
+MSG_ASSETS_DOWNLOADING	下載需要的文件…
+MSG_OPTIMIZE_DATA	進行資料的最優化…
+	
+	
+BANSTATUS_OKYAKUSAMACODE	顧客碼
+BANSTATUS_TIME	解封時間
+	
+SUPPORT_CONFIRM1	要雇用{0}嗎？
+SUPPORT_CONFIRM2	要花{1}金幣雇傭{0}嗎？
+SUPPORT_NOGOLD	金幣不足。
+TEAMNAME	隊伍{0}
+	
+; 主頁菜單按鈕	
+HOMEBGUI_FRIEND	好友
+HOMEBGUI_GACHA	召喚
+HOMEBGUI_QUEST	副本
+HOMEBGUI_MULTI	協力模式
+HOMEBGUI_SHOP	商店
+HOMEBGUI_ARENA	競技場
+HOMEBGUI_GALLEY	追憶
+HOMEBGUI_SHOP_KIMAGURE	露伊莎的店
+HOMEBGUI_SHOP_TABI	瑪麗亞的店
+HOMEBGUI_SHOP_MONOZUKI	靈魂商店
+HOMEBGUI_ARTIFACT	武具
+HOMEBGUI_SHOP_KAKERA	魂之兌換所
+HOMEBGUI_ENHANCE_EQUIPMENT	裝備強化
+HOMEBGUI_MULTI_VERSUS	對戰
+HOMEBGUI_BD_KNIGHTS	騎士團(體驗)
+	
+	
+STAMINA_NOT_ENOUGH	AP不足。<br>要消耗{0}個幻晶石回復<br>AP{1}點嗎?
+	
+; 戰鬥跳過確認關係	
+NO_RAID_TICKET	{0}不足。
+RAIDNUM	{0}次
+CONFIRM_RAID	要消耗{1}AP，跳過{0}次副本嗎?
+TICKET_PLAYERRESULT	玩家獎勵
+TICKET_UNITRESULT	英靈獲得經驗值
+BTN_NEXT	確定
+SKIPBATTLE_TITLE	使用掃蕩券
+SKIPBATTLE_TICKET	持有禮券
+SKIPBATTLE_AP	消耗體力
+SKIPBATTLE_MESSAGE	是否消耗掃蕩券和體力<br>跳過副本？
+SKIPBATTLE_HEAL_NUM	使用幻晶石{0}回復
+	
+; 英靈的資料頁面	
+UNITPROFILE_PLACE	出生地
+UNITPROFILE_HEIGHT	身高
+UNITPROFILE_WEIGHT	體重
+UNITPROFILE_BIRTHDAY	生日
+UNITPROFILE_SEIZA	星座
+UNITPROFILE_BLOODTYPE	血型
+UNITPROFILE_FAVORITE	喜歡
+UNITPROFILE_HOBBY	興趣
+	
+; 出擊頁面	
+PARTYEDITOR_ITEMTAB_ALL	所有
+PARTYEDITOR_ITEMTAB_HEAL	回復
+PARTYEDITOR_ITEMTAB_DAMAGE	攻擊
+PARTYEDITOR_ITEM_TITLE	物品選擇
+PARTYEDITOR_UNIT_TITLE	英靈選擇
+PARTYEDITOR_SUPPORT_TITLE	傭兵選擇
+PARTYEDITOR_BTN_QUESTDETAIL	副本詳情
+PARTYEDITOR_BTN_GO	出擊!!
+PARTYEDITOR_BTN_REMOVE	移除
+PARTYEDITOR_BTN_REMOVE_SUPPORT	移除傭兵<br>
+PARTYEDITOR_BTN_SUPPORT	雇傭兵<br>!!
+PARTYEDITOR_MSG_SUPPORT	可以通過支付雇用金，讓英靈作為傭兵參加隊伍。
+PARTYEDITOR_MSG_MULTI	無法使用物品
+PARTYEDITOR_SANKAFUKA	隊伍裡包含無法參加副本的英靈。確定直接開始嗎?
+PARTYEDITOR_CANTSTART	不存在可參加副本的英靈，無法開始副本。
+PARTYEDITOR_NOHERO	英靈：未持有{0}所以無法出擊。
+PARTYEDITOR_SLOT_LOCKED	不可使用
+PARTYEDITOR_PARTYNOTFULL	隊伍裡有空位置，<br>確定直接開始嗎？
+PARTYEDITOR_PARTYNOTFULL_INVALID	隊伍中有空員。
+PARTYEDITOR_DROP_TABLE	副本掉落的道具，最後確認的那個東西發生變更。
+PARTYEDITOR_BATTLE_SKIP	跳過戰鬥
+PARTYEDITOR_BTN_MAPEFFECT	地圖效果
+	
+PARTYEDITOR_PLV	未滿足玩家等級條件。
+PARTYEDITOR_ULV	未滿足英靈等級條件。
+PARTYEDITOR_ELEM	未滿足英靈屬性條件。
+PARTYEDITOR_JOB	未滿足英靈職業條件。
+PARTYEDITOR_UNIT	未滿足英靈條件。
+PARTYEDITOR_SEX	未滿足英靈性別條件。
+PARTYEDITOR_RARITY	英靈稀有度未滿足條件。
+PARTYEDITOR_HEIGHT	英靈的身高未滿足條件。
+PARTYEDITOR_WEIGHT	英靈的體重未滿足條件。
+PARTYEDITOR_JOBINDEX	未滿足英靈的職業號碼條件。
+PARTYEDITOR_BIRTH	未滿足英靈的出生國條件。
+	
+PARTYEDITOR_TEAM_RENAME	變更隊伍名
+PARTYEDITOR_FIX_PARTY	不可編輯
+	
+; 副本訊息	
+PARTYEDITOR_COND_LIMIT	【出擊限製】<br>
+PARTYEDITOR_COND_NO_LIMIT	【出擊限製】<br>無
+PARTYEDITOR_COND_FIXED	【強制出擊】<br>
+PARTYEDITOR_COND_NO_FIXED	【強制出擊】<br>无
+PARTYEDITOR_COND_DETAIL	【關卡信息】<br>
+PARTYEDITOR_COND_MAP_EFFECT	【地形】<br>
+PARTYEDITOR_COND_MAP_EFFECT_HEAD	<color=white>
+PARTYEDITOR_COND_MAP_EFFECT_BOTTOM	</color>
+PARTYEDITOR_COND_WEATHER	【天候】<br>
+PARTYEDITOR_COND_WEATHER_HEAD	<color=white>
+PARTYEDITOR_COND_WEATHER_SEP	，
+PARTYEDITOR_COND_WEATHER_BOTTOM	</color>
+PARTYEDITOR_COND_PLV	玩家等級：
+PARTYEDITOR_COND_ULV	英靈等級：
+PARTYEDITOR_COND_ELEM	屬性：
+PARTYEDITOR_COND_JOB	職業：
+PARTYEDITOR_COND_UNIT	英靈：
+PARTYEDITOR_COND_SEX	性別：
+PARTYEDITOR_COND_RARITY	稀有度：
+PARTYEDITOR_COND_HEIGHT	身高：
+PARTYEDITOR_COND_WEIGHT	體重：
+PARTYEDITOR_COND_JOBINDEX	職業號碼：
+PARTYEDITOR_COND_BIRTH	出生國：
+PARTYEDITOR_COND_JOBINDEX_VALUE	第{0}職業
+PARTYEDITOR_COND_UNLOCK_TEXTFRAME	【{0}】
+PARTYEDITOR_COND_UNLOCK_PARENT	{0}：{1}{2}習得
+PARTYEDITOR_COND_UNLOCK_TITLE	{0}全部滿足以下條件
+	
+; 自動戰鬥設定	
+PARTYEDITOR_AUTOBATTLE_TITLE	自動設定
+PARTYEDITOR_BATTLESET_TITLE	戰鬥設定
+PARTYEDITOR_BATTLESET_AUTO	自動戰鬥
+PARTYEDITOR_BATTLESET_PROHIBIT	首次不可自動戰鬥
+PARTYEDITOR_BATTLESET_AUTOSET	自動戰鬥設定
+PARTYEDITOR_BATTLESET_AUTOSET_TREASURE	寶箱優先
+PARTYEDITOR_BATTLESET_AUTOSET_UNUSESKILL	不使用技能
+PARTYEDITOR_BATTLESET_DIRECTION	技能動畫
+	
+; 隊伍公開	
+PARTYEDITOR_CHECK_AUTOONLY	僅自動
+PARTYEDITOR_CHECK_ALLSURVIVE	全員生存
+PARTYEDITOR_CHECK_MISSIONCOMPLETE	副本任務全達成
+PARTYEDITOR_CHECK_MISSIONCOMPLETE_SHORT	任務全達成
+PARTYEDITOR_BUTTON_OPEN	公開信息
+PARTYEDITOR_CONFIRMATION_MESSAGE	要公開通關資訊，確定嗎？
+PARTYEDITOR_UPLOAD_COMPLETE_MESSAGE	通關資訊已公開。
+PARTYEDITOR_RECENT_CLEARED_PARTY_TITLE	最近的通關編隊
+PARTYEDITOR_RECENT_CLEARED_PARTY_OWNED_UNIT_ONLY	僅所持英靈
+PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND	沒有公開的通關編隊
+PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT	沒有該編隊
+PARTYEDITOR_RECENT_CLEARED_PARTY_DATE	通關日
+	
+; 英靈的簡易等級頁面	
+UNITTOOLTIP_ABILITY_TITLE	能力
+UNITTOOLTIP_NONEABILITY_MSG	能力未被設置
+	
+; 英靈副本	
+CHARQUEST_UNLOCK_MSG	英靈劇情已開放
+CHARQUEST_UNLOCK	開放條件
+CHARQUEST_EP_NUM	Episode{0}
+CHARQUEST_CLEAR_ABILITY	能力習得!!
+CHARQUEST_CLEAR_ABILITYUPDATE	能力強化!!
+CHARQUEST_CLEAR_SKILL	技能習得!!
+CHARQUEST_CLEAR_SKILL_UPDATE	技能強化!!
+CHARQUEST_CLEAR_LEADERSKILL	隊長技能習得!!
+CHARQUEST_CLEAR_LEADERSKILL_UPDATE	隊長技能強化!!
+CHARQUEST_CLEAR_MASTERABILITY	專屬能力習得!!
+	
+; 英靈強化頁面	
+UNIT_INVENTORY_BTN_EVO	進化
+UNIT_INVENTORY_BTN_AWAKE	界限突破
+UNIT_INVENTORY_TAB_JOBLVUP	職業
+UNIT_INVENTORY_TAB_ITEM	英靈強化
+UNIT_INVENTORY_TAB_ABILITY	能力
+UNIT_INVENTORY_TAB_ABILITYSET	能力設置
+UNIT_INVENTORY_BTN_JOBLVUP	JOB LV UP
+UNIT_INVENTORY_BTN_UNLOCK	職業解放
+UNIT_INVENTORY_BTN_ALLEQUIP	批量裝備
+UNIT_INVENTORY_BTN_CHARAQUEST	英靈副本
+	
+UNIT_INVENTORY_JOB_TITLE	裝備
+UNIT_INVENTORY_ITEM_TITLE	英靈強化
+UNIT_INVENTORY_ABILITY_TITLE	能力
+UNIT_INVENTORY_ABILITYSET_TITLE	能力設置
+UNIT_INVENTORY_SKILLUP	剩餘<br>技能點
+UNIT_INVENTORY_ABILITYSET_SET	點擊想要更換的能力
+	
+UNIT_INVENTORY_BTN_DETACH	移除
+	
+UNIT_INVENTORY_FAVORITE_ON	已記錄到常用英靈
+UNIT_INVENTORY_FAVORITE_OFF	已解除常用英靈的記錄
+	
+UE_JOB_NOT_UNLOCKED	職業未解放。
+UE_JOBCHANGE_REQITEM	<br><color="#fff080">用{0}{1}個</color>
+UE_JOBCHANGE_REQGOLD	{0}金幣
+UE_JOBCHANGE_CONFIRM	{0}職業更換嗎?
+	
+UE_JOBCHANGE_NOITEM	物品不足
+UE_JOBCHANGE_NOGOLD	金幣不足
+UE_JOBCHANGE_NOITEMGOLD	物品和金幣不足
+	
+UE_HELP_HPMAX	<color=#ffa500ff>HP</color> ：英靈的體力。HP為0時，是「無法戰鬥」的狀態
+UE_HELP_MP	<color=#ffa500ff>MP</color> ：英靈的魔力。發動魔法等時會消耗
+UE_HELP_ATK	<color=#ffa500ff>物攻</color> ：用武器攻擊對手時的威力
+UE_HELP_DEF	<color=#ffa500ff>物防</color> ：對武器攻擊的防禦力
+UE_HELP_MAG	<color=#ffa500ff>魔攻</color> ：魔法的威力
+UE_HELP_MND	<color=#ffa500ff>魔防</color> ：對魔法攻擊的防禦力
+UE_HELP_SPEED	<color=#ffa500ff>速度</color> ：數值越高行動回合輪得越快
+UE_HELP_DEX	<color=#ffa500ff>靈巧</color> ：影響攻擊的威力和命中率
+UE_HELP_CRI	<color=#ffa500ff>會心</color> ：影響暴擊的發生率
+UE_HELP_REC	<color=#ffa500ff>回複</color> ：回復的說明
+UE_HELP_LUCK	<color=#ffa500ff>運</color> ：運氣會影響行動
+UE_HELP_RENKEI	<color=#ffa500ff>連攜</color> ：影響連攜攻擊的發生率
+UE_HELP_MOVE	<color=#ffa500ff>Move</color> ：移動力
+UE_HELP_JUMP	<color=#ffa500ff>Jump</color> ：可移動高低差
+	
+AB_RANKUPCOUNT	{0}次
+UNIT_INVENTORY_MSG_JOBLIMIT	JOB Lv達上限
+UNIT_INVENTORY_MSG_NONEABILITY	沒有可裝備的能力<br>
+UNIT_INVENTORY_BTN_ABILITYSET	能力設置
+UNIT_INVENTORY_ABILITYINVAILED	無法設置
+UNIT_INVENTORY_ABILITYLOCK	不可移除
+	
+HARDQUEST_COUNT_INDEX	挑戰次數
+	
+CONFIRM_RESUMEQUEST	副本中斷。<br>要再次開始嗎？
+	
+; 2D demo	
+BTN_SKIP	跳過
+	
+; 召喚	
+GACHA_COST_TEXT_FREE	免費
+GACHA_CAPTION_GOLD_NOT_ENOUGH	金幣不足
+GACHA_TEXT_GOLD_NOT_ENOUGH	金幣不足
+GACHA_CAPTION_COIN_NOT_ENOUGH	幻晶石不足
+GACHA_TEXT_COIN_NOT_ENOUGH	幻晶石不足。要購買嗎？
+GACHA_CAPTION_PAIDCOIN_NOT_ENOUGH	付費幻晶石不足
+GACHA_TEXT_PAIDCOIN_NOT_ENOUGH	付費幻晶石不足。要購買嗎？
+BTN_SINGLE_GACHA	1次召喚
+BTN_MULTI_GACHA	{0}次召喚
+BTN_CHARGE_GACHA	活動中
+BTN_TICKET_GACHA	禮券召喚
+BTN_STEPUP_GACHA	{0}次召喚
+BTN_BUY_COIN	幻晶石購買
+BTN_GACHA_BACK	返回
+BTN_GACHA_OK	OK
+GACHA_PAID_AT	<br>上次召喚的時刻 {0}
+CONFIRM_GACHA_COIN_P	稀有召喚可召喚3~5★的英靈<br>。<br><br>要消耗{0}{1}個進行召喚嗎？{2}<br>
+CONFIRM_GACHA_COIN	要消耗{0}{1}個進行召喚嗎？<br>
+CONFIRM_GACHA_TICKET	要消耗{0}{1}枚進行召喚嗎？
+CONFIRM_GACHA_GOLD	要消耗{0}金幣進行召喚嗎？
+TITLE_GACHA_PAID_LIMITOVER	付費石召喚
+MSG_GACHA_PAID_LIMITOVER	付費石召喚在 0點重置後可再次抽取。
+MSG_GACHA_PAID_LIMITOVER_BIGNNER	付費石召喚於創角7日內在0點、4點、8點、12點、16點、20點重置後可再次進行召喚。創角7日後恢復爲1日1次召喚。
+GACHA_COST_COIN	幻晶石
+GACHA_COST_PAIDCOIN	付費幻晶石
+GACHA_COST_TICKET	禮券
+GACHA_RESULT_TAP_NAVI	點擊圖標查看詳情
+GACHA_RESULT_TITLE	召喚結果
+GACHA_RESULT_LIMIT_CAUTION	因為達到持有數上限，部分武具/真理念裝將發送至禮品箱。
+GACHA_STEPUP_HEAD	Step
+GACHA_STEPUP_STATE	{0} / {1}
+GACHA_CHARGE_HEADER	用付費幻晶石召喚!
+GACHA_CHARGE_POSSERSS	付費持有
+GACHA_CHARGE_NUM	個
+GACHA_FREE_TIMER_AT	距免費
+GACHA_FREE_LIMIT_HEAD	免費次數 還有
+GACHA_FREE_NUM	回
+GACHA_SHARD_COUNT	{0}/{1}
+GACHA_TEXT_SHARD_AWAKE	職業 {0}<br>可開放。<br>突破界限解放職業吧！
+GACHA_TICKET_POSSERSS	持有扭蛋禮券
+GACHA_TICKET_CONFIRM	使用禮券召喚。<br>請選擇消耗張數。
+GACHA_TICKET_NUM	張
+GACHA_TICKET_SELECT_CONFIRM	※最多可消耗10張。
+GACHA_TICKET_SELECT_TITLE	{0}召喚
+GACHA_LIST_FAILED  <br>召喚資訊的獲取失敗。<br>返回主頁。	
+TEXT_GACHA_CAUTION	※幻晶石從免費獲得的部分先開始消耗。
+TEXT_GACHA_AMOUNT	所持幻晶石
+TEXT_GACHA_SUMMON_COIN	持有幣
+BTN_DECIDE_GACHA	召喚
+BTN_ONEMORE_GACHA	再次召喚
+CONFIRM_GACHA_COST_ZERO	要免費召喚嗎？
+GACHA_SUMMON_NEW_COIN_CHANGED_TEXT	{0}到期的<br>召喚幣轉換為幻晶石
+GACHA_SUMMON_OLD_COIN_CHANGED_TEXT	{0}到期的<br>舊・召喚幣換成幻晶石
+GACHA_SUMMON_COIN_CHANGE_CAUTION	※被轉換的幻晶石會發送至禮品箱(有時效限制)
+	
+; err.txt里包含的例外訊息	
+TITLE	錯誤
+TITLE_CONNECTION_ERROR	網路錯誤
+MSG_CONNECTION_ERROR	請到網路情況良好的地方重試。
+	
+TARGET_GRID_BLOCKED	無法移動到那
+	
+INVALID_QUEST	當前此副本無法玩
+GPS_FAILED	無法獲取位置訊息
+GPS_DENIED	位置訊息的獲取未被允許
+JOIN_LOBBY_FAILED	無法獲取房間訊息
+SET_ROOM_COMMENT_FAILED	房間留言無法刷新
+SET_ROOM_COMMENT_ILLEGAL_COMMENT	所輸入的內容<br>無法作為留言使用。
+PASSCODE_NOT_MATCH	密碼錯誤
+CREATE_ROOM_FAILED	無法創建房間
+START_QUEST_FAILED	無法開始副本
+DISCONNECTED	網路中斷(<photon_err>)
+ROOM_OWNER_EXIT	房主已退出
+UPDATE_PARTY_FAILED	隊伍編輯失敗
+JOIN_ROOM_FAILED	無法進入房間
+CHEAT_QUEST	副本的進行中有問題發生(0:SequenceError)
+SEQUENCE_ERROR	副本的進行中有問題發生(1:PacketError)
+MP_CONTINUE_FAILED	無法繼續
+	
+TITLE_REQUEST_PURCHASE_ERROR	購買錯誤
+MSG_REQUEST_PURCHASE_ERROR	購買錯誤。請確保網路通暢後再嚐試。
+MSG_REQUEST_PURCHASE_ALREADY_OWN	已購買物品。再次下載數據。
+MSG_REQUEST_PURCHASE_DEFERRED	物品的購買待確認。請稍等。
+MSG_GET_PRODUCT_LIST_WAITING_FOR_SET_UP	無法獲取可購買的物品的列表。請先確認客戶端的帳號，再到網路良好的地方稍等一會再重試。
+MSG_GET_PRODUCT_LIST_EMPTY	沒有可購買的物品。請先確認客戶端的帳號，再到網路良好的地方稍等一會再重試。
+MSG_PURCHASE_CONNECTING	購買處理中…
+MSG_PURCHASE_CONFIRM	購買{0}，<br>使用{1}來購買。<br>確定嗎？
+	
+;DMM関係	
+MSG_REQUEST_PURCHASE_INSUFFICIENT	DMM點不足，要充值嗎？
+	
+TITLE_NONAGE	付費注意與確認
+MSG_NONAGE_YN	向gumi確認
+	
+TITLE_LIMIT_OVER	超過上限額
+MSG_LIMIT_OVER	月內的使用金額達上限，無法再進行購買。
+	
+NOT_IMPLEMENTED	未安裝
+	
+NO_UNIT	沒有指定的英靈
+ILLEGAL_PARTY	隊伍的構成錯誤
+	
+QUEST_UNAVAILABLE	副本未開放。<br>移動到最新的劇情副本。
+EQUEST_UNAVAILABLE	副本未開放。<br>移動到最新的劇情副本。
+EVENT_UNAVAILABLE	副本未開放。<br>移動到最新的活動副本。
+	
+; 物品幫助	
+ITEMTOOLTIP_SLOT_NONE	無
+ITEMTOOLTIP_SLOT_NONE_MSG	物品未被設定
+ITEMTOOLTIP_SECRET_NAME	？？？
+ITEMTOOLTIP_SECRET_DESC	副本通關後即可知曉…！？
+	
+EXIT_APP	要結束遊戲嗎？
+EXIT_TO_TITLE	要中止並返回遊戲首頁嗎？
+	
+CHECKING_FILES	確認內容。<br><br>請稍等…
+	
+; GoogleReview確認	
+CONFIRM_GOOGLE_REVIEW	寫評論，獲得幻晶石250個！<br>點擊『決定』按鈕<br>跳轉到Google Play的APP頁面<br>※獎勵只可領取一次
+	
+; AppStoreReview確認	
+CONFIRM_APPLE_REVIEW	寫評論，獲得幻晶石250個！<br>點擊『決定』按鈕<br>跳轉到App Store的APP頁面<br>※獎勵只可領取一次
+	
+; 各頁面的幫助	
+BTN_HELP	幫助
+HELP_UNITINVENTRY_TITLE	英靈裝備頁面
+HELP_UNITINVENTRY_MSG	通過「裝備」可提升英靈的參數。集齊6個裝備可提升職業等級，可裝備新的裝備品。
+HELP_MULTI_TITLE	協力模式
+HELP_MULTI_MSG	協力模式中，和其他玩家組成最多4人的隊伍，通關副本。通關的話可獲得掉落的物品和協力模式幣。協力模式幣可兌換稀有物品。
+HELP_QUESTLIST_TITLE	副本
+HELP_QUESTLIST_MSG	<color="#FFF080">關於劇情副本</color><br>劇情副本裡有「普通」和「困難」模式的各難度副本。通關特定普通副本可玩困難副本。<br><br><color="#FFF080">關於活動副本</color><br>活動副本中有限定時間的「進化素材副本」和「轉職副本」，也分為初級、中級、高級等難度，難度越高的副本中可獲得更稀有的物品。並且可大幅獲得金幣和經驗值的「黃金潮」和「蘋果的帝園」等的活動也會不定期舉行。今後還會有新的活動副本開放。<br><br><color="#FFF080">■「蘋果的帝園」開啟時間</color><br>「蘋果的帝園」將在活動時間內，全天開放。
+HELP_PARTYEDITOR_TITLE	出擊頁面
+HELP_PARTYEDITOR_MSG	<color="#FFF080">劇情副本</color><br>劇情副本中，可編輯物語的主人公1名、主力3名、加1名傭兵，以及當英靈死亡後登場的候補隊員2名的最大7名隊員的隊伍。<br><br><color="#FFF080">活動副本</color><br>活動副本中，可編成英靈4名（主人公也可以選擇）和傭兵1名、英靈死亡後時登場的候補隊員2名的最大7名隊員的隊伍。<br><br><color="#FFF080">競技場</color><br>競技場中，可編輯英靈3名（主人公也可以選擇）。<br><br><color="#FFF080">協力模式</color><br>協力模式中，選擇英靈1名（主人公也可以選擇），和其他玩家一起編輯最多4人的隊伍。<br><br><color="#FFF080">・塔型副本『異層塔』</color><br>塔型副本『異層塔』是限時開放的副本。<br>可編成等級20以上的英靈5名，加上英靈無法行動時登場的候補隊員2名的最多7名隊員的隊伍。各副本中的HP連續使用，生存著的全部英靈可挑戰。<br><br><color="#FFF080">・對戰</color><br>對戰中、最多可以編輯5人。沒有傭兵的選擇。通過編輯頁面的「英靈配置」、可以在地圖上配置英靈。
+HELP_MISSION_TITLE	任務
+HELP_MISSION_MSG	「任務」是指，根據達成的特定條件可獲得「達成獎勵」。<br>每日任務在每天0點更新後可再次挑戰。
+HELP_PVP_CPU_SELECT_TITLE	訓練対戦
+HELP_PVP_CPU_SELECT_MSG	<color="#FFF080">・关于訓練對戰</color><br>「Easy」「Normal」「Hard」的3中難度中<br>選擇任意隊伍進行對戰<br>對戰對手的英靈由CPU控制
+HELP_SHOP_TITLE	商店
+HELP_SHOP_MSG	商店中可使用「金幣」和「幻晶石」購買「物品」和英靈的「魂之碎片」。並且通過「裝備品強化」，可提升裝備品的屬性值。
+HELP_FRIEND_TITLE	好友
+HELP_FRIEND_MSG	好友功能，可與其他玩家成為好友。成為好友後，則可作為「傭兵」在副本出擊中選擇，並且所需金幣可以減半。
+HELP_UNITLIST_TITLE	英靈列表
+HELP_UNITLIST_MSG	可查看英靈和碎片英靈的一覽。碎片英靈的一覽中可查看「魂之碎片」的持有數。並且，「魂之碎片」收集到特定數的話，可鍊成英靈。
+HELP_UNITEQUIP_TITLE	職業（裝備）
+HELP_UNITEQUIP_MSG	通過「裝備」可提升英靈的參數。集齊6個裝備可提升職業等級，可裝備新的裝備品。
+HELP_UNITEXP_TITLE	強化
+HELP_UNITEXP_MSG	英靈強化是指，使用『蘋果』獲得EXP，可提升英靈的Lv。<br>並且，英靈最多可提升到與玩家等級相同的等級。
+HELP_ABILITYLIST_TITLE	能力
+HELP_ABILITYLIST_MSG	能力有『行動』『反應』『支援』3種。各能力的Lv可通過消耗『金幣』來提升，可以習得新技能，提升性能。
+HELP_ABILITYSET_TITLE	能力設置
+HELP_ABILITYSET_MSG	能力設置中，可設置1個職業固有的能力和習得的行動能力。並且可以設置1個『反應能力』，和最多2個『支援能力』。
+HELP_ARTIFACT_TITLE	武具
+HELP_ARTIFACT_MSG	「武具」是指可更換的裝備品。武具主要在召喚和副本中獲得，「武具強化」和「武具進化」中可強化。不需要的武具可通過「武具分解」變成碎片。
+HELP_ARTI_TRANSMUTE_TITLE	武具煉成
+HELP_ARTI_TRANSMUTE_MSG	「武具煉成」中，使用「武具分解」和副本中獲得的武具的碎片，製作可裝備的武具。
+HELP_ARTI_EXP_TITLE	武具強化
+HELP_ARTI_EXP_MSG	「武具強化」中，使用大馬士革礦石等強化物品可提升武具的等級。提升武具的等級可提升武具的屬性值。武具的最大等級根據稀有度而變動。
+HELP_ARTI_DECOMPOSE_TITLE	武具分解
+HELP_ARTI_DECOMPOSE_MSG	「武具分解」中，可將獲得的武具分解成「碎片」。碎片可用於「武具進化」。
+HELP_ARTI_RARITYUP_TITLE	武具進化
+HELP_ARTI_RARITYUP_MSG	「武具進化」中，使用獲得的武具的「碎片」，可提升武具的稀有度。武具的稀有度提升，除了武具的最大等級提升外，武具也會發生特殊效果。
+HELP_ARTI_POSSESS_TITLE	武具一覽
+HELP_ARTI_POSSESS_MSG	武具一覽中，可查看所持有的武具。裝備中的武具，其上部將顯示所裝備的英靈。
+HELP_SUPPORTLIST_TITLE	傭兵列表
+HELP_SUPPORTLIST_MSG	可以通過支付雇傭金，讓角色作為傭兵參加隊伍。
+	
+HELP_KAKERA_SHOP_TITLE	魂之兌換所
+HELP_KAKERA_SHOP_MSG	魂之兌換所中，將界限突破到最大的英靈的「魂之碎片」兌換成靈魂幣，使用這個幣可兌換高稀有度的物品等。靈魂幣的兌換從「兌換魂之碎片」進行。
+HELP_LIMITED_SHOP_TITLE	秘密商店
+HELP_LIMITED_SHOP_MSG	秘密商店是限時登場的特別的商店。消耗金幣和幻晶石可在限定次數內購買「物品」和「裝備品」、英靈的「魂之碎片」等。並且，祕密商店無法手動進行商品列表的刷新。
+HELP_EVENT_SHOP_TITLE	活動幣兌換所
+HELP_EVENT_SHOP_MSG	兌換所是限時登場的特別商店。消耗活動幣可購買「道具」和「裝備」、英靈的「魂之碎片」等。
+HELP_UNITLIST_SKIN_TITLE	換裝
+HELP_UNITLIST_SKIN_MSG	『換裝』中，可給英靈換上從商店和活動等中獲得的特殊的skin。換裝適用於所有職業的衣服。並且，skin無有效期限製，可不限次數換裝。
+	
+; 競技場幫助	
+HELP_ARENA_WINDOW_TITLE	幫助
+HELP_ARENA_WINDOW_TEXT	競技場中、攻擊隊伍和防禦隊伍可以各自由3個英靈來組成。<br><br>攻擊隊伍：可以反映出鬥技場以外的職業進階。<br>防禦隊伍：職業是可以被存儲記錄的、所以可以個別設定。<br><br>※鬥技場以外的功能中進行職業進階也無法反映到防禦隊伍中。
+	
+; TUTORIAL	
+TUT_REPLAY	要再次播放動畫嗎？<br>要播放的話，<br>請點擊『是』按鈕。
+TUT_STREAMERR	發生網路錯誤。<br>請查看網路的連接環境<br>。
+TUT_MISSION	要播放關於『任務』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_HEIGHT1	要播放關於『高低差』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_EVOLVE1	要播放關於『進化』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_AWAKE1	要播放關於『限界突破』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_JOBRANK1	要播放關於『裝備』和『職業等級』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_ABILITY1	要播放關於『能力』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_ATTACK1	要播放關於『攻擊』和『移動』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_ATTACK2	要播放關於『攻擊手段』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_ATTACK3	要播放關於『攻擊方法』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_MAGIC1	要播放關於『魔法』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_PARTY1	要播放關於『編成』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_AUTOPLAY1	要播放關於『自動戰鬥』的<br>說明動畫嗎？ <br>要播放的話請<br>點擊『是』按鈕。
+TUT_QE_ST_NO_010002	以後難度會逐漸提高噢。<br>用這樣的裝備沒問題嗎？<br>※大多數玩家在此副本之後<br>會通關失敗。<br>用「裝備品」來提升參數值吧？<br>
+TUT_QE_ST_NO_010003	以後難度會逐漸提高噢。<br>用這樣的裝備沒問題嗎？<br>※大多數玩家在此副本之後<br>會通關失敗。<br>用「裝備品」來提升參數值吧？<br>
+	
+; ARTIFACT	
+ARTI_MAXRULV	最大強化等級
+ARTI_EXPFULL1	達等級限制。<br>請進化吧。
+ARTI_EXPFULL2	等級達最大。
+ARTI_RARITYUP	進化
+ARTI_RARITYUP_COST	進化費用
+ARTI_RARITYUP_REQ	使用{0}<br>{1}個進化。
+ARTI_RARITYUP_NOGOLD	進化所需的金幣不足。
+ARTI_RARITYUP_NOMTRL	進化所需的素材不足。
+ARTI_RARITYUP_NOLV	進化所需的等級不足。
+ARTI_RARITYUP_MAX	進化等級達最大。
+ARTI_RARITYUP_CONFIRM	確定要將{0}進化<br>嗎？
+ARTI_RARITYUP_MSG	進化等級達最大
+ARTI_TRANSMUTE_REQ	使用{0}<br>{1}個鍊成。
+ARTI_TRANSMUTE_NOKAKERA	{0}的<br>鍊成所需的碎片不夠。
+ARTI_TRANSMUTE_NOGOLD	{0}的<br>鍊成所需金幣不足。
+ARTI_TRANSMUTE_MAXNUM	{0}無法再進行<br>鍊成。
+ARTI_TRANSMUTE_CONFIRM	確定要鍊成{0}<br>嗎？
+ARTI_FULL	無法再進行鍊成。
+ARTI_NOKAKERA_ERR	鍊成所需碎片不足。
+ARTI_SELL_CONFIRM	確定要出售所選的武具嗎？
+ARTI_SELL_CONFIRM2	所選擇的武具已被英靈裝備著。<br>確定要繼續出售嗎？
+ARTI_NOTHING2SELL	未選擇要出售的東西。
+ARTI_DECOMPOSE_HELP	將{0}<br>更換為{1}{2}個<br>。
+ARTI_DECOMPOSE_NODEC	所選擇的武具無法分解。
+ARTI_DECOMPOSE_NOGOLD	武具分解所需要的金幣不足。
+ARTI_DECOMPOSE_CONFIRM	確定要分解所選擇的武具嗎？
+ARTI_DECOMPOSE_CONFIRM2	所選擇的武具已被英靈裝備著。<br>確定要繼續出售嗎？
+ARTI_TRANSMUTE_TITLE	武具煉成
+ARTI_TRANSMUTE_REQGOLD	煉成費用
+ARTI_DECOMPOSE_TITLE	武具分解
+ARTI_DECOMPOSE_REQGOLD	分解費用
+ARTI_CANT_EQUIP	所選擇的武具不可裝備。
+ARTI_EQUIP_CONFIRM	所選擇的武具被{0}[{1}]裝備著。<br>確定要繼續裝備嗎？
+ARTI_JOB	可裝備職業
+ARTI_AMOUNT	持有
+ARTI_SELL_TITLE	武具出售
+ARTI_SELL_SELLNUM	選擇數
+ARTI_SELL_GETGOLD	獲得金幣
+ARTI_EXP_TITLE	武具強化
+ARTI_EQUIPJOB_ALL	所有
+ARTI_BTN_TRANSMUTE	鍊成
+ARTI_BTN_CLEAR	重置
+ARTI_BTN_SELL	賣出
+ARTI_BTN_DECOMPOSE	分解
+ARTI_MENU_TRANSMUTE	武具煉成
+ARTI_MENU_EXP	武具強化
+ARTI_MENU_RARITYUP	武具進化
+ARTI_MENU_DECOMPOSE	武具分解
+ARTI_MENU_SELL	賣出
+ARTI_MENU_LIST	武具一覽
+ARTI_MENU_DETAIL	武具詳情
+ARTI_MENU_HELP_TRANSMUTE	從碎片製作武具！
+ARTI_MENU_HELP_EXP	提升武具的等級強化！
+ARTI_MENU_HELP_RARITYUP	解放隱藏的武具的力量！
+ARTI_MENU_HELP_DECOMPOSE	將武具兌換成碎片！
+ARTI_KYOKA_MSG	強化等級達最大
+ARTI_OWNER_KAKERA	所持碎片
+ARTI_NOT_DECOMPOSE_MSG	沒有可分解的武具
+ARTI_NOTHING_MSG	沒有武具
+ARTI_NOT_SELL_MSG	沒有武具
+ARTI_TRANSMUTE_RESULT	武具煉成
+ARTI_MAX_LV	MAX Lv
+	
+; 武具裝備	
+ARTI_EQUIP_TITLE	武具裝備
+ARTI_EQUIP_REMOVE	移除
+ARTI_EQUIP_MSG	請從右邊的列表中選擇想要裝備的武具。
+ARTI_EQUIP_EXCLUDE_EQUIPED	移除裝備中的武具
+	
+; 召喚彈窗	
+BTN_GACHA_DETAIL	召喚詳情
+BTN_GACHA_DESCRIPTION	召喚簡介
+TITLE_POPUP_GACHA_DETAIL	召喚詳情
+TITLE_POPUP_GACHA_DESCRIPTION	召喚簡介
+	
+; FgG登錄引導窗口	
+FGG_WISH_TITLE	協作的請求
+FGG_WISH_LATER	之後
+FGG_WISH_SETUP	連攜
+	
+; 轉移時的警告窗口	
+HIKITSUGI_WARNING_TITLE	數據協作相關注意事項
+	
+; FgG窗口	
+FGG_TITLE	FgGID
+FGG_NOT_SYNCHRONIZED_MSG	『FgGID』綁定未完成。<br>從遊戲頁面登錄FgGID，進行FgG APP的綁定，FgG APP期間可獲得各種獎勵。<br><br>點擊『決定』按鈕，可返回遊戲頁面。
+FGG_SYNC_REQUEST_MSG	遊戲數據消失！？即使這個時候<br>只要登錄FgGID，就能保存數據！<br>FgGID的登錄和協作完成後，可以獲得幻晶石250個！<br>※登陸後請進行FgGID協作
+	
+; VIP相關的付費訊息	
+TITLE_VIP_REMAINS	關於幻晶石300個+30天內每天獎勵
+MSG_VIP_REMAINS	幻晶石300個+30天內每天獎勵有效期<br> 剩餘3日過期之後，請購買。
+	
+APP_VERSION	ver:
+	
+; 限定商店	
+HOMEBGUI_LIMITED_SHOP	秘密商店
+TITLE_LIMITED_SHOP_BUY_COMPLETE	購買完成
+MSG_LIMITED_SHOP_GIFT_SEND	以下的物品已發送到禮物
+MSG_LIMITED_SHOP_LOCK	準備中…
+MSG_LIMITED_SHOP_ARTIFACT	武具詳情
+MSG_LIMITED_SHOP_ITEM	物品詳情
+MSG_LIMITED_SHOP_DETAIL	點擊圖標顯示詳情
+MSG_LIMITED_SHOP_ARTIFACT_JOB	可裝備職業
+; 活動專用商店	
+HOMEBGUI_EVENT_SHOP	活動幣兌換所
+TITLE_EVENT_SHOP_BUY_COMPLETE	購買完成
+MSG_EVENT_SHOP_GIFT_SEND	以下的物品已發送到禮物
+MSG_EVENT_SHOP_LOCK	準備中…
+COINLIST_SHOP_BTN	去商店
+COINLIST_ARENA	競技場中可獲得的競技場幣
+COINLIST_MULTI	協力模式中可獲得的協力幣
+COINLIST_ARENA_LOCK	玩家Lv{0}時開放。
+	
+; 商店名	
+SHOPNAME_NORMAL	安娜的店
+SHOPNAME_TABI	瑪麗亞的店
+SHOPNAME_KIMAGURE	露伊莎的店
+SHOPNAME_MONOZUK	靈魂商店
+SHOPNAME_TOUR	旅行
+SHOPNAME_ARENA	競技場
+SHOPNAME_MULTI	協力模式
+SHOPNAME_KAKERA	魂之兌換所
+SHOPNAME_ARTIFACT	武具
+SHOPNAME_LIMITED	秘密商店
+SHOPNAME_EVENT	活動幣兌換所
+	
+MSG_ASSETS_DOWNLOADING2	根據網路情況可能比較耗時，<br>建議在Wi-Fi環境下下載。
+	
+; 劇情瀏覽	
+REPLAY_CATEGORY_STORY	劇情副本
+REPLAY_CATEGORY_EVENT	活動副本
+REPLAY_CATEGORY_CHARA	英靈副本
+REPLAY_CATEGORY_MOVIE	短片
+REPLAY_CHECK	確定要播放劇情嗎？
+REPLAY_NOT_EXIST	沒有可播放的劇情。
+	
+; 挑戰任務	
+CHALLENGE_LOCKED	<color="#808080">？？？？？</color>
+CHALLENGE_DETAIL_TITLE	任務詳情
+CHALLENGE_DETAIL_REWARD_TITLE	任務達成時獎勵
+CHALLENGE_DETAIL_REWARD	{0}×{1}
+CHALLENGE_DETAIL_REWARD_UNIT	★{0}英靈『{1}』
+CHALLENGE_DETAIL_REWARD_UNIT_BR	★{0}英靈<br>『{1}』
+CHALLENGE_DETAIL_REWARD_CONCEPT_CARD	真理念裝『{0}』×{1}
+CHALLENGE_DETAIL_REWARD_GET	獲得道具{0}
+	
+CHALLENGE_REWARD_GOLD	{0}金幣
+CHALLENGE_REWARD_EXP	EXP {0}
+CHALLENGE_REWARD_COIN	幻晶石{0}個
+CHALLENGE_REWARD_STAMINA	AP {0}
+CHALLENGE_REWARD_ITEM	{0}×{1}
+CHALLENGE_REWARD_CONCEPT_CARD	真理念裝『{0}』×{1}
+CHALLENGE_TRY	挑戰
+CHALLENGE_REWARD_TITLE	任務獎勵
+CHALLENGE_REWARD_PIECE	<color="#F4ED82">{0}×{1}</color>
+CHALLENGE_REWARD_NOTE	<color="#E0DE01">英靈從「英靈列表」的「碎片英靈」中可鍊成</color>
+CHALLENGE_HELP_RECEIVE	獎勵領取
+CHALLENGE_HELP_REWARD_TITLE	獎勵：
+CHALLENGE_HELP_PROGRESS_TITLE	達成度：
+	
+CHALLENGE_MSG_ALL_CLEAR	任務全部達成！<br>接下來，就朝著更高的目標<br>前進吧！
+CHALLENGE_MSG_CLEAR	任務達成了！<br>點擊領取獎勵吧！
+CHALLENGE_MSG_REWARD_ITEM	獎勵{0}×{1}！<br>快領取吧！
+CHALLENGE_MSG_REWARD_CONCEPT_CARD	任務獎勵的真理念裝{0}×{1}！<br>快領取吧！
+CHALLENGE_MSG_REWARD_OTHER	獎勵{0}！<br>快領取吧！
+CHALLENGE_MSG_INFO	任務完成，可以領取{0}！
+CHALLENGE_REWARD_ITEM	{0}×{1}
+	
+; 挑戰任務的條件所對應的幫助ID	
+CHALLENGE_HELP_WINQUEST	11
+CHALLENGE_HELP_WINQUESTSOLDIER	11
+CHALLENGE_HELP_WINELITE	11
+CHALLENGE_HELP_WINEVENT	12
+CHALLENGE_HELP_GACHA	96
+CHALLENGE_HELP_MULTIPLAY	85
+CHALLENGE_HELP_WINMULTI	85
+CHALLENGE_HELP_WINMULTIMORE	85
+CHALLENGE_HELP_WINMULTILESS	85
+CHALLENGE_HELP_ABILITY	58
+CHALLENGE_HELP_MAKEABILITYLEVEL	58
+CHALLENGE_HELP_SOUBI	67
+CHALLENGE_HELP_BUYGOLD	98
+CHALLENGE_HELP_ARENA	77
+CHALLENGE_HELP_WINARENA	77
+CHALLENGE_HELP_UPUNITLEVEL	44
+CHALLENGE_HELP_MAKEUNITLEVEL	44
+CHALLENGE_HELP_CHANGEABILITY	59
+CHALLENGE_HELP_UNITEQUIP	65
+CHALLENGE_HELP_UPJOBLEVEL	53
+CHALLENGE_HELP_MAKEJOBLEVEL	53
+CHALLENGE_HELP_LIMITBREAK	50
+CHALLENGE_HELP_EVOLTIONTIMES	49
+CHALLENGE_HELP_CHANGEJOB	55
+CHALLENGE_HELP_BUYATSHOP	97
+CHALLENGE_HELP_ARTIFACTTRANSMUTE	72
+CHALLENGE_HELP_ARTIFACTSTRENGTH	73
+CHALLENGE_HELP_ARTIFACTEVOLUTION	74
+	
+; 挑戰任務的任務程式說明	
+CHALLENGE_HOWTO_WINQUEST	【副本達成x次的程式】
+CHALLENGE_HOWTO_WINQUESTSOLDIER	【帶著傭兵完成N次副本的程式】
+CHALLENGE_HOWTO_WINELITE	【無盡副本達成x次的程式】
+CHALLENGE_HOWTO_WINEVENT	【活動副本達成x次的程式】
+CHALLENGE_HOWTO_GACHA	【進行扭蛋x次的程式】
+CHALLENGE_HOWTO_MULTIPLAY	【進行協力模式x次的程式】
+CHALLENGE_HOWTO_WINMULTI	【通過協力模式N次的程式】
+CHALLENGE_HOWTO_WINMULTIMORE	【協力模式用N人以上通關的程式】
+CHALLENGE_HOWTO_WINMULTILESS	【協力模式用N人以下通關的程式】
+CHALLENGE_HOWTO_ABILITY	【能力強化x次的程式】
+CHALLENGE_HOWTO_MAKEABILITYLEVEL	【能力等級為LvN的程式】
+CHALLENGE_HOWTO_SOUBI	【將裝備強化x次的程式】
+CHALLENGE_HOWTO_BUYGOLD	【消耗付費幣購買遊戲內貨幣的程式】
+CHALLENGE_HOWTO_ARENA	【玩競技場n次的程式】
+CHALLENGE_HOWTO_WINARENA	【競技場中勝利n次的程式】
+CHALLENGE_HOWTO_UPUNITLEVEL	【英靈的等級提升N的程式】
+CHALLENGE_HOWTO_MAKEUNITLEVEL	【英靈的等級設為N的程式】
+CHALLENGE_HOWTO_CHANGEABILITY	【變更能力設置的程式】
+CHALLENGE_HOWTO_UNITEQUIP	【給英靈裝上N個裝備的程式】
+CHALLENGE_HOWTO_UPJOBLEVEL	【將英靈的JobLv提升N的程式】
+CHALLENGE_HOWTO_MAKEJOBLEVEL	【將英靈的JobLv設為N的程式】
+CHALLENGE_HOWTO_LIMITBREAK	【界限突破N次的程式】
+CHALLENGE_HOWTO_EVOLTIONTIMES	【使英靈進化N次的程式】
+CHALLENGE_HOWTO_CHANGEJOB	【進行N次職業更換的程式】
+CHALLENGE_HOWTO_BUYATSHOP	【商店中購買N個的程式】
+CHALLENGE_HOWTO_ARTIFACTTRANSMUTE	【武具煉成進行N次的程式】
+CHALLENGE_HOWTO_ARTIFACTSTRENGTH	【武具強化進行N次的程式】
+CHALLENGE_HOWTO_ARTIFACTEVOLUTION	【武具進化進行N次的程式】
+	
+	
+; 召喚結果 英靈詳情	
+TITLE_GACHA_UDETAIL_1	第1職業
+TITLE_GACHA_UDETAIL_2	第2職業
+TITLE_GACHA_UDETAIL_3	第3職業
+	
+; 商店排列	
+TITLE_SHOP_LINEUP	總覽
+MSG_SHOP_LINEUP_CAUTION	※關於總覽內容，有多個記載的道具有機率登場。
+	
+	
+; 聊天	
+BTN_ADD_BLOCK	屏蔽
+BTN_REMOVE_BLOCK	屏蔽解除
+BTN_ADD_FRIEND	好友申請
+BTN_REMOVE_FRIEND	解除好友
+FRIEND_BLACKLIST	屏蔽列表一覽
+TITLE_CHAT_PLAYER_DETAIL	玩家詳情
+BTN_SEND_MESSAGE	發送
+CHAT_POSTAT_DAY	{0}天前
+CHAT_POSTAT_HOUR	{0}小時前
+CHAT_POSTAT_MINUTE	{0}分前
+CHAT_POSTAT_SECOND	{0}秒前
+CHAT_POSTAT_NOW	剛剛
+LASTLOGIN_SECOND	{0}秒前
+TEXT_CHAT_FUID	[ID:****{0}]
+TEXT_NONE_BLACKLIST	沒有在屏蔽列表中
+TITLE_SELECT_CHANNEL	頻道選擇
+TEXT_SELECT_CHANNEL	CH{0}～{1}
+CONFIG_OPTION_CHAT	聊天功能
+TEXT_CHAT_CHANNEL_TEMP	{0}～{1}
+TEXT_PAGER_TEMP	{0}/{1}
+CONFIG_OPTION_CHAT_STATE	使用聊天功能
+MESSAGE_NOUSED_CHAT	聊天功能為無效<br>選項頁面中可設置聊天功能為有效
+NAME_CHAT_OFFICAL	系統通知
+MESSAGE_MAINTENANCE_CHAT	當前聊天功能正在維護
+MESSAGE_ADD_BLOCK	追加到屏蔽列表
+MESSAGE_REMOVE_BLOCK	從屏蔽列表中解除
+TITLE_REMOVE_FRIEND	好友關係解除
+MESSAGE_SELECT_REMOVE_FRIEND	將解除與該玩家的好友關係，確定嗎？
+HELP_CHAT_TITLE	聊天
+HELP_CHAT_MSG	聊天功能需要玩家等級達到20級後，才能發送訊息。在訊息發送後，10秒內無法再次發送。加入屏蔽名單後的的玩家，其發佈的訊息將不會顯示在您的聊天室中。
+TITLE_CHAT_TAB_WORLD	世界
+TEXT_CLOSED_SHOW_MESSAGE_STAMP	[{0}]已發送圖章
+TEXT_CLOSED_SHOW_MESSAGE	[{0}]:{1}
+	
+; 召喚首頁 武具類型	
+TITLE_ARTIFACT_TYPE	種類：{0}
+	
+; 塔	
+TOWER_REWARD_TITLE	獎勵獲得
+TOWER_RECOVER_TIME	距免費回復:
+TOWER_RECOVER_FREE	免費
+TOWER_RESET_FREE	免費
+TOWER_ALIVE_UNITS	生存英靈
+TOWER_REWARD_TEXT	通關獎勵
+TOWER_UNKNOWN_TEXT	通關{0}層後可查看敵訊息。<br>
+TOWER_RECOMMENDATION_TEXT	推薦： Lv {0} / JobLv {1}
+MSG_TOWER_RECOVER	使用<color="#fff080">{0}個</color>幻晶石<br>可回復全部英靈。<br><br>要回復嗎？
+MSG_TOWER_RECOVERED	全部英靈的體力已回復。<br>幻晶石使用 <color="#fff080">{0}個。</color>
+MSG_TOWER_COIN_NOT_ENOUGH	幻晶石不足。
+CAPTION_TOWER_RECOVERED	英靈回復
+CAPTION_TOWER_COIN_NOT_ENOUGH	幻晶石不足。
+CAPTION_TOWER_EVENT_DETAIL	活動詳情
+ERROR_TOWER_DEAD_UNIT	包含不可出擊的英靈。
+TOWER_CLEAR_DESC	{0}最上層<color="#fff080">{1}</color>通關!
+TOWER_CHALLENGE	挑戰！
+TOWER_RESET	從1層起再挑戰！
+TOWER_RESET_CHECK	重置塔的通關狀態，<br>再次從1層開始玩。<br>進行重置，需要幻晶石<color="#fff080">{0}</color>個。<br>要進行重置嗎？<br>※重置後的各階層的通關獎勵<br>與首次通關獎勵不同。
+ERROR_TOWER_TIME_OUT_TITLE	活動時間結束
+ERROR_TOWER_TIME_OUT	“異層塔”活動時間結束，無法恢復。請等待下次開始。
+TOWER_STATUS	數據
+TOWER_RANK_LABEL	名
+TOWER_RANK_SCORE	得分詳細
+TOWER_RANK_TURN	行動次數
+TOWER_RANK_DIED	英靈不能戰鬥次數
+TOWER_RANK_RETIRE	撤退次數
+TOWER_RANK_RECOVER	所有英靈回複數
+TOWER_RANK_NOW	現在的分數
+TOWER_RANK_BEST	最好得分
+TOWER_RANK_SPEED	速度排行榜
+TOWER_RANK_TECH	技術排行榜
+TOWER_RANK_MSG	排行榜
+TOWER_RANK_SPD	速度
+TOWER_RANK_TEC	技術
+TOWER_RANK_TOTAL_TURN	累計行動次數
+TOWER_RANK_TOTAL_DIED	英靈不能戰鬥數
+TOWER_RANK_NOT_DATA	統計中
+TOWER_RANK_LBL_LV	Lv 
+TOWER_BACK	返回
+	
+;英靈召喚	
+GET_UNIT_WINDOW_TITLE	請選擇要召喚的英靈
+GET_UNIT_WINDOW_UNLOCK	召喚確認
+GET_UNIT_WINDOW_PIECE	確定要更換成魂之碎片嗎？
+GET_UNIT_OK	召喚
+GET_UNIT_CANCEL	否
+GET_UNIT_WINDOW_DESC	點擊圖示瞭解詳情
+GET_UNIT_WINDOW_DESC2	※已有英靈時，<br>可能會獲得魂之碎片。
+GET_UNIT_WINDOW_UNIT_NAME	要召喚{0}嗎？
+GET_UNIT_HELP_TITLE	可選擇的召喚禮券
+GET_UNIT_HELP	可選擇的召喚禮券，是指可從所顯示的英靈中選擇一只。已持有時，將獲得魂之碎片。<br>※魂之碎片個數：★★★＝15、★★★★＝20、★★★★★＝25。
+	
+;道具選擇	
+GET_ITEM_WINDOW_TITLE	請選擇想要獲取的道具
+GET_ITEM_WINDOW_UNLOCK	可選擇的道具禮券
+GET_ITEM_OK	OK
+GET_ITEM_CANCEL	否
+GET_ITEM_WINDOW_DESC	點擊圖標了解詳情
+GET_ITEM_WINDOW_CHECK	確定是這個道具嗎？
+GET_ITEM_HELP_TITLE	可選擇的道具禮券
+GET_ITEM_HELP	可選擇的道具禮券，可以從顯示的道具中選擇1個。<br>隻能選擇1次想要的道具，按下OK按鈕後，直接贈送道具。
+GET_ITEM_RESULT	已獲得以下道具
+	
+;武具選擇	
+GET_ARTIFACT_WINDOW_TITLE	請選擇想要召喚的道具
+GET_ARTIFACT_WINDOW_UNLOCK	可選擇的武具禮券
+GET_ARTIFACT_OK	召喚
+GET_ARTIFACT_CANCEL	否
+GET_ARTIFACT_WINDOW_CHECK	要召喚這個武具嗎？
+GET_ARTIFACT_HELP_TITLE	可選擇的武具召喚禮券
+GET_ARTIFACT_HELP	可選擇的武具召喚禮券，可以從顯示的武具中選擇1個。<br>被召喚的武具將直接發送，達到武具最大持有數時，發送到禮物。
+GET_ARTIFACT_DETAIL	武具詳情
+GET_ARTIFACT_RESULT	已召喚以下武具？
+	
+;傭兵選擇	
+SUPPORT_SET_TITLE	選擇傭兵英靈
+SUPPORT_SET_PICKER_TITLE	選擇傭兵英靈
+SUPPORT_CHANGE	變更
+;WebView	
+MSG_NOT_WEBVIEW_URL	當前頁面準備中
+	
+;真理念裝選擇	
+GET_CONCEPTCARD_WINDOW_TITLE	請選擇想要召喚的真理念裝
+COCEPTCARD_AMOUNT	持有數：
+GET_CONCEPTCARD_DETAIL_TITLE	要召喚這個念裝嗎？
+GET_CONCEPTCARD_RESULT	已召喚以下真理念裝
+GET_CONCEPTCARD_HELP_TITLE	可選擇的真理念裝禮券
+GET_CONCEPTCARD_HELP	可選擇的真理念裝召喚禮券，可以從顯示的真理念裝中選擇1個。<br>被召喚的真理念裝將直接發送，達到最大持有數時，發送到禮物。
+	
+;通用	
+TEXT_FREE	免費
+TEXT_PAID	付費
+TEXT_PCS	個
+TEXT_NAME	名稱
+TEXT_AMOUNT	所持
+	
+;稱號	
+TITLE_AWARD_LIST	稱號一覽
+TITLE_AWARD_DETAIL	稱號詳情
+CONFIRM_SELECT_AWARD	是否設定為這個稱號？
+BTN_SELECT_AWARD	稱號設定
+TEXT_AWARD	稱號
+TEXT_NO_AWARD	？？？
+TEXT_NOT_SELECT	未設置
+TEXT_REMOVE_AWARD	解除
+HELP_AWARD_TITLE	稱號
+HELP_AWARD_MSG	稱號可以通過活動或者任務獲得。設定的稱號在競技場或者協力模式中顯示
+	
+;召喚記錄	
+TITLE_GACHA_HISTORY	召喚記錄
+TEXT_GACHA_HISTORY_FOOTER	<color="#ffff00">{0}</color> {1}的結果
+TEXT_NO_GACHA_HISTORY	無上次召喚的記錄
+	
+;顧客碼複製	
+OKYAKUSAMACODE_COPY_TITLE	顧客碼
+OKYAKUSAMACODE_COPY_DESC	你的顧客碼
+OKYAKUSAMACODE_COPY_BTN_TEXT	複製
+OKYAKUSAMACODE_COPY_FINISH	複製完成
+OKYAKUSAMACODE_COPY_MESSAGE	顧客碼已粘貼到剪貼板裡
+	
+；英靈一覽	
+CHARA_QUEST_CHARA_TITLE	英靈劇情
+CHARA_QUEST_COLLABO_SKILL_TITLE	連攜技能英靈劇情
+CHARA_QUEST_FILTER_ALL	全顯示
+CHARA_QUEST_FILTER_UNLOCK	開放
+CHARA_QUEST_FILTER_LOCK	未開放
+CHARA_QUEST_FILTER_COMPLETE	通關
+COLLABO_SKILL_QUEST_CONDITION	通關{0}
+	
+	
+; 對戰次序	
+VERSUS_RANK_0	Beginner【0】
+VERSUS_RANK_1	Beginner【1】
+VERSUS_RANK_2	Beginner【2】
+VERSUS_RANK_3	Beginner【3】
+VERSUS_RANK_4	D【0】
+VERSUS_RANK_5	D【1】
+VERSUS_RANK_6	D【2】
+VERSUS_RANK_7	D【3】
+VERSUS_RANK_8	C【0】
+VERSUS_RANK_9	C【1】
+VERSUS_RANK_10	C【2】
+VERSUS_RANK_11	C【3】
+VERSUS_RANK_12	B【0】
+VERSUS_RANK_13	B【1】
+VERSUS_RANK_14	B【2】
+VERSUS_RANK_15	B【3】
+VERSUS_RANK_16	A【0】
+VERSUS_RANK_17	A【1】
+VERSUS_RANK_18	A【2】
+VERSUS_RANK_19	A【3】
+VERSUS_RANK_20	AA【0】
+VERSUS_RANK_21	AA【1】
+VERSUS_RANK_22	AA【2】
+VERSUS_RANK_23	AA【3】
+VERSUS_RANK_24	Master
+	
+	
+;登入彈窗	
+TEXT_LOGININFO_GACHA	去召喚
+TEXT_LOGININFO_LIMITEDSHOP	去秘密的店
+TEXT_LOGININFO_EVENTQUEST	去活動
+TEXT_LOGININFO_TOWERQUEST	去異層塔
+TEXT_LOGININFO_BUYCOIN	去幻晶石商店
+	
+;客服	
+CONTACT_SUBJECT_01	數據修複相關的問題
+CONTACT_SUBJECT_02	幻晶石購買相關的問題
+CONTACT_SUBJECT_03	BUG報告
+CONTACT_SUBJECT_04	FgGID相關的問題
+CONTACT_SUBJECT_05	意見・建議
+CONTACT_SUBJECT_06	其他
+	
+;體力回複	
+TEXT_APHEAL_CHECK_AP_HEAL	體力不足。<br>是否消耗體力恢複?
+TEXT_APHEAL_TITLE	AP回複
+TEXT_APHEAL_LACK	體力不足
+TEXT_APHEAL_LACK_POINT	不足體力 : {0}
+TEXT_APHEAL_ITEM_NUM	{0}
+TEXT_APHEAL_USE	使用{0}
+TEXT_APHEAL_CHECK_USE	是否使用{0}<br>來回複體力?
+TEXT_APHEAL_HEAL_NUM	體力回複量
+TEXT_APHEAL_RESULT_AP	
+TEXT_APHEAL_RESULT	AP已回複。
+TEXT_APHEAL_OVERFLOW	超過AP上限的部分將被丟棄，確定嗎？
+TEXT_APHEAL_CURRENT_AP	持有的AP
+TEXT_DENOMINATOR	{0}/{1}
+	
+;武具篩選	
+FILTER_AF_WEAPON	武器
+FILTER_AF_ARMOR	防具
+FILTER_AF_ACCESSORY	飾物
+FILTER_AF_FAVORITE	僅常用
+	
+;武具列表	
+ARTIFACT_TAB_LIST	一覽
+ARTIFACT_TAB_TRANSMUTE	煉成
+ARTIFACT_TAB_DECOMPOSE	分解
+ARTIFACT_TAB_SELL	賣出
+ARTIFACT_DETAIL_TAB_DEFAULT	詳細
+ARTIFACT_DETAIL_TAB_EVOLUTION	進化
+ARTIFACT_DETAIL_TAB_ENHANCE	強化
+ARTIFACT_FAVORITE	常用
+ARTIFACT_EVOLUTION_TEXT	要消耗以下物品進行武具進化嗎？
+ARTIFACT_EVOLUTION_NO_ITEM	未持有進化道具。
+ARTIFACT_PIECE	碎片：
+	
+;武具列表	
+EQUIP_ARTIFACT_SLOT_TOOLTIP	界限突破通過『{0}』開放
+	
+;武具用劍	
+SORT_LUCK	運
+SORT_TYPE	種類
+	
+;武具tool tip	
+TOOLTIP_ARIFACT_UNLOCK	解鎖職業
+	
+;動画	
+CONFIRM_MOVIE_SKIP	是否跳過動畫？
+	
+;射程顯示（文字）	
+TEXT_RANGE_DEFAULT	射程：<color=#FFFF00>{0}～{1}</color>
+TEXT_RANGE_MINMAX_EQUAL	射程：<color=#FFFF00>{0}</color>
+	
+;FgGID情況下設備追加	
+ACCOUNT_MANAGE	賬號管理
+FGG_ATTENTION	※設備管理中需要FgGID
+FGG_HIKITSUGI	繼承
+FGG_DEVICE_SUCCESS	數據協作完畢。<br><br><color=#FFFF00>請不要將郵箱地址和密碼告訴他人。</color>
+	
+;排行榜	
+RANKING_CLEAR_UNIT	人氣英靈排行榜
+RANKING_RANK	第{0}名
+RANKING_UNIT_NAME	{0}({1})
+RANKING_AGGREGATING	統計中
+RANKING_TAB_QUEST	副本
+RANKING_TAB_ARENA	競技模式
+RANKING_TAB_TOWER_MATCH	對戰
+	
+;稱號標籤	
+AWARD_TAB_NORMAL	普通
+AWARD_TAB_EXTRA	限定
+	
+;稱號一覽 空白時文字	
+TEXT_BLANK_AWARDLIST	未持有限定的稱號。
+	
+;隊伍解散	
+TEAM_BREAKUP_TITLE	隊伍解散
+TEAM_BREAKUP_MSG	隊伍內的英靈全員解散。<br>確定嗎？
+	
+;變更隊伍名	
+TEAM_CHANGE_NAME_TITLE	變更隊伍名
+TEAM_CHANGE_NAME_MSG_1	請輸入新的隊伍名。
+TEAM_CHANGE_NAME_MSG_2	請輸入8個字以內。
+	
+;GPS	
+GPS_CHECK	位置資訊確認中
+GPS_GIFT_NOT	無法查看區域獎勵。<br>請查看以下。<br><br>・GPS設定有效<br>・進入指定區域
+GPS_GIFT_RECEIVE_TITLE	獲得區域獎勵
+GPS_GIFT_RECEIVE	獲得區域獎勵！<br>請到禮物箱查看。
+GPS_GIFT_RECEIVED	區域獎勵已獲得。
+GPS_QUEST_NOT	無法查看區域副本。<br>請查看以下。<br><br>・GPS設定有效<br>・進入指定區域
+	
+;一鍵編輯	
+RECOMMEND_TEAM_TITLE	一鍵編輯
+RECOMMEND_TEAM_MSG_1	請選擇重視的專案和屬性
+RECOMMEND_TEAM_ELEMENT_ALL_TEXT	全部
+RECOMMEND_TEAM_ELEMENT_FIRE_TEXT	火屬性
+RECOMMEND_TEAM_ELEMENT_WATER_TEXT	水屬性
+RECOMMEND_TEAM_ELEMENT_WIND_TEXT	風屬性
+RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT	雷屬性
+RECOMMEND_TEAM_ELEMENT_SHINE_TEXT	光屬性
+RECOMMEND_TEAM_ELEMENT_DARK_TEXT	暗屬性
+RECOMMEND_TEAM_SORT_TOTAL_TEXT	綜合
+RECOMMEND_TEAM_SORT_ATTACK_TEXT	物攻
+RECOMMEND_TEAM_SORT_DEFENCE_TEXT	物防
+RECOMMEND_TEAM_SORT_MAGIC_TEXT	魔攻
+RECOMMEND_TEAM_SORT_MIND_TEXT	魔防
+RECOMMEND_TEAM_SORT_HP_TEXT	HP
+RECOMMEND_TEAM_SORT_SPEED_TEXT	速度
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT	斬擊系
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT	刺擊系
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT	打擊系
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT	射擊系
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT	魔法系
+RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT	其他
+	
+;通用裝備	
+COMMON_EQUIP_BUTTON	通用證代用
+COMMON_EQUIP_SOUL_CONFIRM	用{0}替換{1}裝備。確定嗎？
+COMMON_EQUIP_DESCRIPT	消耗{0}{1}個來變換裝備品嗎？
+COMMON_EQUIP_DESCRIPT_NOT_ENOUGH	通用裝備碎片不足。
+COMMON_EQUIP_NUM_LESS	通用裝備不足。
+COMMON_EQUIP_NAME	{0}×{1}
+COMMON_EQUIP_NUM	（持有數：{0}個）
+COMMON_EQUIP_SOUL_TITLE	裝備具有提升屬性的功能<br>集齊6個，職業等級會提升
+COMMON_EQUIP_SOUL_MESSAGE	收集6個職業之證可解鎖職業
+COMMON_EQUIP_COST	通用裝備費用
+COMMON_EQUIP_CHECK	{0}包含消耗素材。<br>要進行升級職業等級嗎？
+COMMON_EQUIP_CHECK_ONETAP	{0}包含消耗素材。<br>要進行一鍵合成嗎？
+COMMON_EQUIP_CHECK_MADE	{0}包含消耗素材。<br>要進行合成嗎？
+COMMON_EQUIP_CHECK_SOUL	{0}包含消耗素材。<br>要進行職業解鎖嗎？
+COMMON_EQUIP_USE	使用
+COMMON_EQUIP_EQUIP	合成
+COMMON_EQUIP_HELP	合成時所需的圖片和碎片不足時，不足部分將自動地用通用圖片和碎片來取代，圖示上用藍字顯示「合成＋」。通用圖片和碎片不足時無法進行素材合成。
+COMMON_EQUIP_HELP_TITLE	素材合成
+COMMON_EQUIP_CHECK_ITEM	{0}×{1}(所持數:{2}個)
+;英靈一覽	
+BTN_FILTER	篩選
+	
+;批量提升	
+TEXT_UNITAWAKE_RESULT_LV	最大等級　<color=#00FF00>＋{0}</color>
+TEXT_UNITAWAKE_RESULT_COMB	連攜值　<color=#00FF00>＋{0}</color>
+TEXT_UNITAWAKE_RESULT_SLOT	武具框　<color=#00FF00>＋{0}</color>
+BTN_ALL_IN_UP	批量強化
+BTN_BULK_JOBRANK	批量<br>LvUp
+TITLE_ALL_IN_UP_EXPITEM	英靈批量強化確認
+CONFIRM_ALL_IN_UP_EXPITEM	要消耗以下物品<br>進行英靈進化嗎？
+BTN_CANCEL_SELECT_EXPITEM	蘋果個數清除
+BTN_DECIDE_BULK_EXPITEM	強化開始
+	
+;武具批量升級	
+BTN_ALL_IN_ARTIFACT_LEVEL_UP	批量強化
+TEXT_ALL_IN_ARTIFACT_LEVEL_UP_EXP_KAKUTOKU	獲得EXP
+TEXT_ALL_IN_ARTIFACT_LEVEL_UP_EXP_USE_MAX	使用到MAX
+TEXT_ALL_IN_ARTIFACT_LEVEL_UP_CONFIRM	要消耗以下的道具<br>進行武具強化嗎？
+	
+;能力升級點追加	
+CONFIRM_ABILITY_RANKUP_POINT_ADD	要消耗<color=#ff0000ff>{0}</color>個幻晶石<br>追加技能可升級次數{1}次嗎？
+	
+;協力模式邀請	
+MULTIINVITATION_NOTIFY	收到好友發的協力副本邀請。
+MULTIINVITATION_SEND_TITLE	從好友一覽中邀請
+MULTIINVITATION_SEND_MSG	邀請打勾的好友
+MULTIINVITATION_SEND_BACK	否
+MULTIINVITATION_SEND_OK	邀請
+MULTIINVITATION_RECEIVE_TITLE	協力副本邀請
+MULTIINVITATION_RECEIVE_TAB_ACTIVE	邀請一覽
+MULTIINVITATION_RECEIVE_TAB_LOG	邀請記錄
+MULTIINVITATION_RECEIVE_JOIN	參加
+MULTIINVITATION_RECEIVE_MODE	協力副本
+MULTIINVITATION_RECEIVE_TIMEDAY	邀請時間：0日前
+MULTIINVITATION_RECEIVE_TIMHOUR	邀請時間：{0}小時前
+MULTIINVITATION_RECEIVE_TIMEMINUTE	邀請時間：{0}分前
+	
+;文字數限制的格式	
+CHAR_LIMIT_FORMAT_SIMPLE	{0}{1}
+CHAR_LIMIT_FORMAT_APPEND_SAIDAI	最大{0}文字{1}
+CHAR_LIMIT_FORMAT_APPEND_INAI	{0}文字以內{1}
+CHAR_LIMIT_FORMAT_NAVI_SAIDAI	<color=#FFFF00>※最大{0}文字{1}</color>
+	
+;文字種類限制的格式	
+CHAR_TYPE_RESTRICTED_FORMAT_NUMBER	僅半形數字
+CHAR_TYPE_RESTRICTED_FORMAT_ALPHANUMERIC	僅半形英文數位
+	
+;地圖(地形)效果	
+MAP_EFFECT_TITLE	地圖效果
+MAP_EFFECT_TERRAIN_TITLE	地形
+MAP_EFFECT_TERRAIN_DEFAULT	無
+MAP_EFFECT_EFFECT_TITLE	地圖效果
+MAP_EFFECT_BATTLE_BUTTON	MAP效果
+MAP_EFFECT_JOB	職業特性
+MAP_EFFECT_JOB_CH	特效
+MAP_EFFECT_JOB_OT	其他效果
+	
+;聲音播放功能	
+TITLE_PLAYBACK_UNITVOICE	聲音
+NOTIFY_UNLOCK_PLAYBACK_FUNCTION	{0}的聲音已解鎖
+NOTIFY_UNLOCK_PLAYBACK_UNITVOICE1	{0}的聲音「{1}」已解鎖
+NOTIFY_UNLOCK_PLAYBACK_UNITVOICE2	「{0}」的聲音{1}個，已解鎖
+	
+UNLOCK_CONDITIONS_PLAYBACK_FUNCTION	5★進化後解鎖
+UNLOCK_CONDITIONS_PLAYBACK_UNITVOICE_FORMAT_UNIT_LV	英靈等級{0}解鎖
+UNLOCK_CONDITIONS_PLAYBACK_UNITVOICE_FORMAT_JOB_MASTER	職業專屬解鎖
+	
+;副本標籤註冊功能	
+TITLE_QUESTBOOKMARK	困難副本一覽
+TITLE_QUESTBOOKMARK_EDITING	標籤編輯中
+BTN_QUESTBOOKMARK_BEGIN_EDIT	編輯
+BTN_QUESTBOOKMARK_END_EDIT	保存
+BTN_QUESTBOOKMARK_SECTION_BOOKMARK	標籤
+BTN_QUESTBOOKMARK_SECTION_1	第１章
+BTN_QUESTBOOKMARK_SECTION_2	第2章
+BTN_QUESTBOOKMARK_SECTION_3	第3章
+BTN_QUESTBOOKMARK_SECTION_4	第4章
+TXT_QUESTBOOKMARK_BOOKMARK_SET_FAILED	書簽的註冊失敗。
+TXT_QUESTBOOKMARK_BOOKMARK_NOT_FOUND	書簽未被註冊。
+TXT_QUESTBOOKMARK_BOOKMARK_NOT_AVAIABLE_SECTION	請開放第{0}章的困難副本。
+TXT_QUESTBOOKMARK_BOOKMARK_NOT_AVAIABLE_QUEST	請開放<color=yellow>{0} {1}</color>。<br>
+TXT_QUESTBOOKMARK_DESCRIPTION	可以通過圖示選擇副本。
+TXT_QUESTBOOKMARK_DESCRIPTION_EDIT	點擊圖示<br>可以追加或解除圖示。
+TITLE_QUESTBOOKMARK_PIECE_SELECT	獲得方法
+	
+; 競技場開始結束時間	
+ARENA_TIMELIMIT_D	剩餘{0}天
+ARENA_TIMELIMIT_H	剩餘{0}小時
+ARENA_TIMELIMIT_M	剩餘{0}分
+	
+;房間聊天	
+TITLE_CHAT_TAB_ROOM	房間
+CHAT_USEFUL_TAB_NAME_STAMP	蓋章
+CHAT_USEFUL_TAB_NAME_TEMPLATE_MESSAGE	文字範本
+CHAT_SYSTEM_MESSAGE_ENTRY_ROOM_SELF	已進入「{0}」<br>的聊天房間。
+CHAT_SYSTEM_MESSAGE_ENTRY_ROOM_OTHER	<color=yellow>{0}</color>已進來。
+CHAT_SYSTEM_MESSAGE_LEAVE_ROOM_SELF	已離開「{0}」<br>的聊天房間。
+CHAT_SYSTEM_MESSAGE_LEAVE_ROOM_OTHER	<color=yellow>{0}</color>已退出。
+CHAT_DISABLE_INPUT_FIELD_ROOM	協力模式進入房間可聊天
+	
+;聊天定型文的默認內容	
+CHAT_DEFAULT_TEMPLATE_MESSAGE_1	安安
+CHAT_DEFAULT_TEMPLATE_MESSAGE_2	我要認真了
+CHAT_DEFAULT_TEMPLATE_MESSAGE_3	徵求加好友
+CHAT_DEFAULT_TEMPLATE_MESSAGE_4	不好意思
+CHAT_DEFAULT_TEMPLATE_MESSAGE_5	辛苦你了，再來交給我吧
+CHAT_DEFAULT_TEMPLATE_MESSAGE_6	萬分感激
+CHAT_DEFAULT_TEMPLATE_MESSAGE_7	啊啊啊啊啊啊啊啊啊啊!
+CHAT_DEFAULT_TEMPLATE_MESSAGE_8	來進行等價交換吧
+	
+;属性別傭兵設定	
+SUPPORT_SETTING_ROOT_TITLE	傭兵設定
+SUPPORT_SETTING_ROOT_ALL_UNSET	全部移除
+SUPPORT_SETTING_ROOT_MSG	可按屬性分別設置傭兵。
+	
+; 排行榜副本	
+RANKING_QUEST_WND_CAPTION_TYPE_ACTION	行動次數排行榜
+RANKING_QUEST_WND_TYPE_ACTION	行動次數
+RANKING_QUEST_WND_UNIT_TOTAL	綜合值
+RANKING_QUEST_WND_TAB_TOP	TOP20
+RANKING_QUEST_WND_TAB_OWN	自己的排名
+RANKING_QUEST_WND_RANK	第{0}名
+RANKING_QUEST_WND_NOT_REGISTERED	未進入排行榜
+RANKING_QUEST_WND_NOT_SUMMARY_DATA	統計中
+RANKING_QUEST_RESULT_SHOW_RANK	排行榜確認
+RANKING_QUEST_REWARD_WINDOW	排行榜的參加獎勵已發送到禮物
+RANKING_QUEST_PARTY_ACTION_SUFFIX	次
+RANKING_QUEST_RESULT_TITLE	NEW RECORD
+RANKING_QUEST_QUEST_BANNER_DAY	還有<color=#ffd800ff>{0}天</color>
+RANKING_QUEST_QUEST_BANNER_HOUR	還有<color=#ffd800ff>{0}小時</color>
+RANKING_QUEST_QUEST_BANNER_MINUTE	還有<color=#ffd800ff>{0}分鐘</color>
+RANKING_QUEST_NO_CHALLENGEABLE	沒有可挑戰的排行榜副本
+	
+;活動副本	
+EVENTQUEST_TAB_NORMAL	養成
+EVENTQUEST_TAB_LIMITED	活動
+EVENTQUEST_TAB_SPECIAL	聯動
+	
+; 挑戰任務	
+CHALLENGEMISSION_ERROR_OUT_OF_DATE_RECEIVE	活動時間結束。
+	
+; 異層塔圈卡爾瑪	
+ORDEAL_QUEST_LIST_TITLE	異層圈卡爾瑪一覽
+ORDEAL_QUEST_DETAIL_BTN_PLAY_TITLE	出擊
+ORDEAL_QUEST_DETAIL_BTN_BUILD_TEAM_TITLE	編成
+	
+; 異層塔圈卡爾瑪編輯	
+CMD_TEAM_TITLE_01	隊伍①
+CMD_TEAM_TITLE_02	隊伍②
+CMD_TEAM_TITLE_03	隊伍③
+ORDEAL_PARTY_EDITOR_PARTY_CAUTION	請務必編成3個隊伍。<br>從隊伍①開始出擊。
+	
+;異層塔圈卡爾瑪的BOSS文本	
+ORDEAL_QUEST_BOSS_MESSAGE_QE_OR_SIREN_1	終於來了啊，小鬼。來接受我的試煉吧！
+ORDEAL_QUEST_BOSS_MESSAGE_QE_OR_SIREN_2	居然自己想來這個試練，還真是狂妄啊…好吧…就讓我看看人類的力量！
+ORDEAL_QUEST_BOSS_MESSAGE_QE_OR_SIREN_3	終於來了啊，小鬼。這是第3異層圈卡爾瑪！
+ORDEAL_QUEST_BOSS_MESSAGE_QE_OR_SIREN_4	終於來了啊，小鬼。這是第4異層圈卡爾瑪！
+	
+; 戰鬥結果	
+BATTLE_RESULT_GETUNIT_DETAIL_TITLE	獎勵獲得
+BATTLE_RESULT_GETUNIT_DETAIL_TITLE_SUB	獲得了英靈
+	
+; 真理念裝	
+CONCEPT_CARD_TITLE_LIST	真理念裝一覽
+CONCEPT_CARD_TITLE_ENHANCEMENT	強化素材選擇
+CONCEPT_CARD_TITLE_SELL	真理念裝賣出
+CONCEPT_CARD_HELP_TITLE	真理念裝
+CONCEPT_CARD_HELP_DESCRIPTION	英靈穿上真理念裝後，屬性會提升，還可以使用新技能。
+CONCEPT_CARD_CAUTION_NO_ITEM	沒有真理念裝。
+CONCEPT_CARD_CAUTION_NO_FILTER	沒有對應的真理念裝。
+CONCEPT_CARD_CAUTION_NO_ENHANCEMENT	沒有強化素材。
+CONCEPT_CARD_CAUTION_ENHANCEMENT_MAX	無法繼續強化
+CONCEPT_CARD_LIST_BTN_TITLE_SELL	賣出
+CONCEPT_CARD_LIST_BTN_TITLE_CLEAR	重置
+CONCEPT_CARD_LIST_BTN_TITLE_DESIDE	確定
+CONCEPT_CARD_LIST_BTN_TITLE_SORT	排序
+CONCEPT_CARD_LIST_BTN_TITLE_FILTER	篩選
+CONCEPT_CARD_LIST_VALUE_TITLE_SELECT	選擇數
+CONCEPT_CARD_LIST_VALUE_TITLE_ZENNY	獲得金幣
+CONCEPT_CARD_LIST_VALUE_TITLE_EXP	獲得EXP
+CONCEPT_CARD_LIST_VALUE_TITLE_TRUST	上升鍊金境界值
+CONCEPT_CARD_LIST_VALUE_TITLE_USED_ZENNY	強化費用
+CONCEPT_CARD_LIST_AMOUNT	持有數
+CONCEPT_CARD_LIST_BTN_TITLE_LIMIT	同一念裝
+CONCEPT_CARD_TRAST_TITLE	鍊金境界值
+CONCEPT_CARD_TRAST_REWARD_TITLE	幻象通關獎勵
+CONCEPT_CARD_TRAST_MASTER_TITLE	幻象通關獎勵獲取
+CONCEPT_CARD_TRAST_MASTER_TITLE_SUB	已獲得道具
+CONCEPT_CARD_FAVORITE_ON	已收藏到喜愛清單
+CONCEPT_CARD_FAVORITE_OFF	已从喜愛清單刪除
+CONCEPT_CARD_DETAIL_ABILITY_TITLE_UNIT	角色：
+CONCEPT_CARD_DETAIL_ABILITY_TITLE_JOB	職業：
+CONCEPT_CARD_DETAIL_ABILITY_TITLE_SUB	專用
+CONCEPT_CARD_DETAIL_ABILITY_DESCRIPTION_ALL_UNIT	可以在全部英靈使用
+CONCEPT_CARD_DETAIL_ABILITY_DESCRIPTION_ALL_JOB	可以在全部職業使用
+CONCEPT_CARD_DETAIL_SKIN_EX_TITLE	特殊念裝
+CONCEPT_CARD_DETAIL_BTN_GOTO_ENHANCEMENT_TITLE	強化
+CONCEPT_CARD_DETAIL_ENHANCEMENT_TITLE_GOTO	請按下【強化開始】按鈕
+CONCEPT_CARD_DETAIL_ENHANCEMENT_TITLE_SELECT	請選擇強化素材
+CONCEPT_CARD_DETAIL_ENHANCEMENT_BTN_TITLE_ENHANCEMENT	強化開始
+CONCEPT_CARD_CHECK_BTN_TITLE_CANCEL	取消
+CONCEPT_CARD_CHECK_DESCRIPTION_SELL	將賣出所選擇的真理念裝。<br>確定嗎?
+CONCEPT_CARD_CHECK_DESCRIPTION_ENHANCEMENT	要消耗所選擇的真理念裝來強化嗎？
+CONCEPT_CARD_SKIN_DESCRIPTION	英靈『{0}』專用的{1}
+CONCEPT_CARD_ARTIFACT_DETAIL_TITLE	武具詳情
+CONCEPT_CARD_SELECT_REMOVE_EQUIP	移除裝備中的真理念裝
+CONCEPT_CARD_EQUIP_CONFIRM	所選擇的真理念裝已由{0}裝備著。<br>確定要繼續裝備嗎？
+CONCEPT_CARD_CONFIRM_CHANGE_SKIN	{0}的專用皮膚可選擇。<br>切換專用皮膚嗎？
+CONCEPT_CARD_STATUS_DEFAULT_TITLE	通用裝備屬性
+CONCEPT_CARD_STATUS_ADDPARAM_TITLE	裝備時，通用裝備屬性可以加成
+CONCEPT_CARD_RARITY_CAUTION	★{0}以上的真理念裝已被選擇<br>確定嗎？
+	
+; 真理念裝的合成/真理念裝的警告文	
+CONCEPT_CARD_WARNING_HIGH_RARITY	包含稀有度4以上的真理念裝。
+CONCEPT_CARD_WARNING_GOLD	金幣不足。
+	
+;英靈詳情-真理開眼	
+UNIT_TOBIRA_BTN_GOTO	真理開眼
+UNIT_TOBIRA_BTN_OPEN	真理開眼<br>開放
+	
+;英靈詳情-真理念裝裝備	
+CONCEPT_CARD_EQUIP_TITLE	真理念裝裝備
+CONCEPT_CARD_EQUIP_REMOVE	移除
+CONCEPT_CARD_EQUIP_MSG	請從右邊的列表中選擇想要裝備的真理念裝。
+CONCEPT_CARD_EQUIP_REMOVE_EQUIP	移除裝備中的真理念裝
+CONCEPT_CARD_EQUIP_DETAIL_TITLE	真理念裝詳細
+	
+; 真理念裝中獲得英靈	
+CONCEPT_CARD_UNIT_GET_DESCRIPTION	因為已獲取真理念裝<br>「{0}」<br>、<br>「{1}」<br>已被召喚。
+	
+;真理開眼	
+TOBIRA_OPEN_CHECK_TITLE	真理開眼
+TOBIRA_OPEN_CHECK_MESSAGE	要消耗素材和金幣進行真理開眼嗎？
+TOBIRA_OPEN_CHECK_BTN_OPEN	開放
+	
+;真理开眼　(※按順序替入，一旦Key和名稱不一致)	
+CMD_TOBIRA_ENVY	嫉妒之門
+CMD_TOBIRA_SLOTH	色欲之門
+CMD_TOBIRA_LUST	暴食之門
+CMD_TOBIRA_GLUTTONY	憤怒之門
+CMD_TOBIRA_WRATH	怠惰之門
+CMD_TOBIRA_GREED	貪婪之門
+CMD_TOBIRA_PRIDE	傲慢之門
+	
+TOBIRA_INVENTORY_CONDITION_TITLE_LVUP	要消耗以下物品強化門嗎？
+TOBIRA_INVENTORY_CONDITION_TITLE_OPEN	開放條件
+TOBIRA_INVENTORY_OPEN_TITLE	開放{0}
+TOBIRA_INVENTORY_BTN_LV_UP	強化
+TOBIRA_INVENTORY_BTN_PARAM_CHECK_TITLE	效果
+TOBIRA_INVENTORY_BTN_OPEN_CHECK_TITLE	開放條件
+TOBIRA_INVENTORY_QUEST_TITLE	{0}開放副本
+TOBIRA_INVENTORY_MASTER_BONUS_TITLE	加成
+	
+TOBIRA_DETAIL_CAUTION_LV_MAX	{0}達成最大等級！！
+TOBIRA_DETAIL_BTN_TOBIRA_OPEN	{0}開放
+TOBIRA_DETAIL_BTN_LV_UP	升級
+	
+TOBIRA_ENHANCE_ITEM_BTN_ENHANCE_TITLE	強化
+TOBIRA_ENHANCE_ITEM_BTN_ENHANCE_MESSAGE	要消耗強化素材和金幣<br>強化{0}嗎？
+	
+TOBIRA_DETAIL_BTN_LV_UP	升級
+	
+TOBIRA_CONDITIONS_UNIT_LEVEL	使{0}的等級為{1}以上。
+TOBIRA_CONDITIONS_UNIT_AWAKE	把「{0}」的限界突破{1}次以上
+TOBIRA_CONDITIONS_JOB_LEVEL	使{0}的{1}的職業等級為{2}以上。
+TOBIRA_CONDITIONS_TOBIRA_LEVEL	使{0}的{1}的等級為{2}以上。
+TOBIRA_CONDITIONS_TOBIRA_LEVEL_MAX	使{0}的{1}的等級為{2}。
+TOBIRA_CONDITIONS_TOBIRA_OPEN	解鎖{0}的{1}
+TOBIRA_CONDITIONS_QUEST_CLEAR	副本「{0}」通關
+	
+TOBIRA_CONDITIONS_TEXT_COLOR_CLEAR	<color=#FFFF00>{0}</color>
+TOBIRA_CONDITIONS_TEXT_COLOR_NOT_CLEAR	<color=#FF0000>{0}</color>
+	
+TOBIRA_OPEN_CONDITION_UNIT_NOT_GET_CAUTION	未持有英靈
+TOBIRA_OPEN_CONDITION_JOB_NOT_OPEN_CAUTION	未開放
+TOBIRA_OPEN_CONDITION_TOBIRA_NOT_OPEN_CAUTION	未開放
+	
+TOBIRA_ENHANCE_ITEM_BTN_ENHANCE_TITLE	強化
+	
+TOBIRA_STATUS_CHECK_TITLE	真理開眼 效果一覽
+TOBIRA_STATUS_CHECK_NORMAL_STATUS_TITLE	基礎屬性提升
+TOBIRA_STATUS_CHECK_EFFECT_TITLE	效果：
+TOBIRA_STATUS_CHECK_ADD_LV	最大LV
+	
+TOBIRA_LEARN_NEW_LEADER_SKILL_TEXT	隊長技能被強化了！
+TOBIRA_LEARN_NEW_ABILITY_TEXT	習得新能力！
+TOBIRA_LEARN_OVERRIDE_NEW_ABILITY_TEXT	能力變化了！
+	
+TOBIRA_MASTER_NEW_LEADER_SKILL_TEXT	隊長技能強化
+TOBIRA_MASTER_NEW_ABILITY_TEXT	習得能力「<color=#FFFF00>{0}</color>」
+TOBIRA_MASTER_OVERRIDE_NEW_ABILITY_TEXT	能力「{0}」變化為「<color=#FFFF00>{1}</color>」
+	
+TOBIRA_CONDS_ERR_UNIT_LV	需要將等級達到{0}
+	
+; 觀眾	
+SUMMON_COIN_PERIOD_TEXT	使用期限　{0}　{1}為止
+	
+; 觀眾	
+GALLERY_BTN_TITLE_WEAPON	武具圖鑒
+GALLERY_BTN_TITLE_CONCEPTCARD	真理念裝
+GALLERY_BTN_TITLE_ITEM	物品圖鑒
+GALLERY_BTN_TITLE_MUSIC	音樂盒
+GALLERY_BTN_TITLE_STORY	劇情回想
+GALLERY_TEXT_MIGRATION_INPROGRESS	目前正在更新觀眾資訊。<br>請過一會兒再嘗試。
+	
+CONCEPT_CARD_SKILL_DESCRIPTION_CALC_ADD	+{0}
+CONCEPT_CARD_SKILL_DESCRIPTION_CALC_UP	{0}%UP
+CONCEPT_CARD_SKILL_DESCRIPTION_CALC_DOWN	{0}%DOWN
+	
+CONCEPT_CARD_SKILL_DESCRIPTION_EQUIP	裝備後
+CONCEPT_CARD_SKILL_DESCRIPTION_BIRTH	出生國是
+CONCEPT_CARD_SKILL_DESCRIPTION_ELEMENT	屬性
+CONCEPT_CARD_SKILL_DESCRIPTION_OF	的
+CONCEPT_CARD_SKILL_DESCRIPTION_OR	還有
+CONCEPT_CARD_SKILL_DESCRIPTION_COMMA	，
+CONCEPT_CARD_SKILL_DESCRIPTION_NEW_LINE	<br>
+CONCEPT_CARD_SKILL_DESCRIPTION_GROUP	{0}:{1}
+CONCEPT_CARD_SKILL_DESCRIPTION_LV	<color=#FF0000>LV{0}時解鎖</color>
+	
+; 觀眾：排序、篩選	
+SORT_NAME	按50音順序
+FILTER_POSSESSION	持有
+FILTER_UNOWNED	未持有
+	
+;念裝的排序	
+SORT_TRUST	鍊金境界值
+	
+;任務選擇頁面	
+QUEST_MENU_ORDEAL_LOCK	玩家Lv85時開放。
+	
+; 出自（整数値）	
+BIRTH_PLACE_1	安比利亞
+BIRTH_PLACE_2	拉斯特裡斯
+BIRTH_PLACE_3	斯洛斯修坦
+BIRTH_PLACE_4	路斯特布魯格
+BIRTH_PLACE_5	格拉特尼弗斯
+BIRTH_PLACE_6	格裡特達伊克
+BIRTH_PLACE_7	撒加地方
+BIRTH_PLACE_8	綿津見國
+BIRTH_PLACE_9	沙漠地帶
+BIRTH_PLACE_100	其他
+	
+; 初級購買活動	
+BUTTON_GET_REWARD	報酬受取
+TITLE_GET_REWARD	報酬獲得
+TEXT_FIRST_CHARGE_REWARD	已獲得首次購買獎勵。<br>※獎勵會發送至禮物。
+; 儲值活動	
+DENA_PAY_FIRST	首儲禮包
+DENA_PAY_SINGLE	單儲送禮
+DENA_PAY_GROW	成長基金
+DENA_PAY_MONTH	月卡福利
+DENA_PAY_DAY	每日儲值
+DENA_PAY_TOTAL	累積儲值
+DENA_PAY_CONSUME	累積消費
+ITEM_AMOUNT	持有數
+DENA_PAY_FST_GO	前往儲值
+DENA_BUY_GO	前往購買
+DENA_PAY_FST_GET	領取禮包
+DENA_PAY_GET_SUS	禮包已發送禮物箱
+DENA_PAY_GET_NONE	領取失敗
+DENA_PAY_GET_PAY	立即購買
+DENA_PAY_GROW_GET	領取
+DENA_PAY_MONTH_REMAIN	剩餘：{0}天
+DENA_PAY_MONTH_GET	領取獎勵
+DENA_PAY_DAY_DEC	今日已儲值<size=30><color=yellow><b><i>{0} </i></b></color></size>幻晶石，再儲值<size=30><color=yellow><b><i>{1} </i></b></color></size>幻晶石即可領取
+DENA_PAY_TOTAL_DEC	<size=28><color=yellow><b><i>{0} </i></b></color></size>幻晶石
+DENA_PAY_TOTALITEM_DEC	儲值<size=28><color=yellow><b><i>{0} </i></b></color></size>幻晶石
+DENA_PAY_CONSUMEITEM_DEC	消費<size=28><color=yellow><b><i>{0} </i></b></color></size>幻晶石
+DENA_PAY_DAY_GIFT_TITLE	禮包詳情
+DENA_PAY_NEWBIE	新手儲值
+DENA_PAY_REBATE	儲值返利
+DENA_PAY_TITLE	活動詳情
+DENA_PAY_GROW_HASPAY	不可重複購買成長基金
+DENA_PAY_LUCKYBAG	幸運福袋
+DENA_PAY_LUCKYBAG_CHARGE	幸運福袋
+DENA_PAY_LUCKYBAG_GET_TITLE	領取福袋
+DENA_PAY_LUCKYBAG_GET_SUCCESS	您已成功領取{0}個福袋，請打開它吧！
+DENA_PAY_LUCKYBAG_BAG_NAME	福袋×{0}
+DENA_PAY_LUCKYBAG_COST_YUAN	{0}NT$
+;序號碼	
+COMMON	發生錯誤
+CAMPAIGN_NOT_FOUND	所指定的活動不存在
+PLAYER_NOT_FOUND	所指定的用戶不存在
+COUNT_LIMIT_FOR_CODE	超過「兌換碼」的最大使用次數
+SERIAL_NOT_FOUND	不存在的「兌換碼」
+COUNT_LIMIT_FOR_PLAYER	超過活動最大使用次數
+TEMPORARY_DISABLE	一定時間內無法輸入「兌換碼」
+DISABLE_CODE	無法輸入「兌換碼」
+INVITE_FACEBOOK	邀請FB好友
+INVITE_FACEBOOK_TITLE	提醒
+INVITE_FACEBOOK_DEC	要發送遊戲邀請到Facebook嗎？
+FACEBOOK_HASLINK	已經綁定Facebook
+FACEBOOK_LINK_DES	『綁定Facebook帳號可領取成就獎勵，如需使用Facebook帳號登入遊戲，仍需於「用戶中心」內綁定Facebook之後才可使用FB帳號登入。』
+PURCHASE_LBALANCE	賬戶餘額:<color=#FFF97BFF>{0}</color>
+NEWBIE_PAY_TITLE	今日儲值<color=#FFF97BFF>{0}</color>付費幻晶石,可以額外領取
+NEWBIE_PAY_REMAINTIME	剩余时间：<color=#FFF97BFF>{0}</color>天
+DENA_FIRST_PAY_TEXT	充值附赠的免费幻晶石，不参与首充双倍活动。
+DENA_FIRST_PAY_HASGET	已经领取
+DENA_PLAY_MOVIE	視頻可能消化較大流量，建議在WIFI環境下播放
+DENA_DLC_ACHIEV	建議玩家進行全資源包下載，可獲得更好的遊戲體驗，並且下載完成還可獲得<color=#FF00FF>100幻晶石</color>的獎勵！是否立即開始下載？
+DENA_TITLE_REQUEST_PURCHASE_CANCLE	提示	
+DENA_MSG_REQUEST_PURCHASE_CANCLE	購買失敗，您已取消購買。
+RESPONSE_ILLEGAL	數據異常
+; 限定福袋商店	
+HOMEBGUI_BDFD_SHOP	福袋商店
+MSG_FD_SHOP_DETAIL	*購買後將直接打開所有福袋
+MSG_FD_SHOP_VIEW	可能抽取到:
+TITLE_FD_SHOP_BUY_COMPLETE	英靈福袋
+DENA_FDRAID_RESULT_INDEX	第{0}個福袋
+DENA_RENAME_PLAYER_NAME	角色名超過字數上限，請刪減再嘗試。
+TITEL_GRACE_FDSHOP	限時{0}折
+CONFIG_PLAYER_NAME	玩家Lv
+CONFIG_PLAYER_ID	玩家ID
+CONFIG_BTN_PLAYER_STORY	劇情一覽
+CONFIG_BTN_PLAYER_CODE	兌換禮包
+TROPHY_FBBIND	綁定得獎勵！
+TROPHY_FBINVITE	邀請好友得獎勵！
+:公會
+HOMEBGUI_GUILD	騎士團
+GUILD_HALL_TITLE	騎士團大廳
+DENA_GUILD_CHAMPIONSHIP_TITLE	榮譽之戰
+DENA_GUILD_SHOP_TITLE	紋章商店
+DENA_GUILD_TRAIN_TITLE	騎士之試煉
+DENA_GUILD_HALL_TITLE	榮譽大廳
+DENA_GUILD_NOTICE_TITLE	騎士團公告
+DENA_GUILD_DONATION_TITLE	捐獻
+DENA_GUILD_DONATION_ONE	捐獻1次
+DENA_GUILD_DONATION_ALL	全部捐獻
+DENA_GUILD_DONATION_GOLD	金幣捐獻
+DENA_GUILD_DONATION_COIN	幻晶石捐獻
+DENA_GUILD_NAME	騎士團名稱：
+DENA_GUILD_ID	騎士團ID：
+DENA_GUILD_MEMBER_COUNT	成員數：
+DENA_GUILD_LOG	日誌
+DENA_GUILD_OPTION	管理
+DENA_GUILD_QUIT	退出騎士團
+DENA_GUILD_RETURN_HALL	離開大廳
+DENA_GUILD_SETUP	設置
+DENA_GUILD_TOTAL_CONTRIBUTION	榮譽值：
+DENA_GUILD_EXP	當前經驗值
+DENA_GUILD_COST	消耗：
+DENA_GUILD_LEFT	剩余次數：
+DENA_GUILD_CONTRIBUTION_TIP	榮譽值
+DENA_GUILD_CONTRIBUTION_REMOVETIP	踢出騎士團
+DENA_GUILD_UP_TO_ELDER	升為副團長
+DENA_GUILD_UP_TO_LORD	升為團長
+DENA_GUILD_REMOVE_ELDER	撤銷副團長
+DENA_GUILD_CHECK_APPLY	查看申請
+DENA_GUILD_DISBAND_TIP	解散騎士團
+DENA_GUILD_APPLY_TITLE	團員申請
+DENA_GUILD_AGREE	同意
+DENA_GUILD_DISAGREE	拒絕
+DENA_GUILD_JOB_MEMBER	團員
+DENA_GUILD_JOB_ELITE_MEMBER	精英團員
+DENA_GUILD_JOB_ELDER	副團長
+DENA_GUILD_JOB_LORD	團長
+DENA_GUILD_LAST_LOGIN	上次登錄時間:{0}年{1}月{2}日 {3:D02}:{4:D02}
+DENA_GUILD_DONATION_SUCCESS	捐獻成功
+DENA_GUILD_LOG_DATE	{0:D02}月{1:D02}日
+DENA_GUILD_LOG_TIME	{0:D02}:{1:D02}
+DENA_GUILD_CONFIRM_TITLE	確認
+DENA_GUILD_UP_TO_LORD_CONFIRM	確認將該團員升為團長？
+DENA_GUILD_UP_TO_ELDER_CONFIRM	確認將該團員升為副團長？
+DENA_GUILD_REMOVE_ELDER_CONFIRM	確認撤銷該團員副團長？
+DENA_GUILD_REMOVE_MEMBER_CONFIRM	確認將該團員踢出？
+DENA_GUILD_SETUP_SUCCESS	設置成功
+DENA_GUILD_SETUP_GUILD_TITLE	管理騎士團
+DENA_GUILD_SAVE	保存
+DENA_GUILD_CHANGE_NAME_CANCLE	再考慮下
+DENA_GUILD_CHANGE_TIP	更換
+DENA_GUILD_CHANGE_MIN_LEVEL_TIP	已經是最小等級
+DENA_GUILD_QUIT_CONFIRM	確認退出該騎士團？
+DENA_GUILD_DISBAND_CONFIRM	確認解散該騎士團？
+DENA_GUILD_DISBAND_NEED_NO_MEMBER_TIP	您的騎士團還有團員存在，請清空後再解散。
+DENA_GUILD_CHANGE_NAME_COST	改名花費：
+DENA_GUILD_QUIT_SUCCESS_TIP	很遺憾！您的騎士團解散了！
+DENA_GUILD_ANNOUNCEMENT_LEN_TIP	騎士團公告不能超過{0}個字符
+DENA_GUILD_CHAMPIONS_HELP_TITLE	規則
+DENA_GUILD_REWARD_TITLE	獎勵
+DENA_GUILD_CHAMPIONS_RANK_REWARD_TITLE	排名獎勵
+DENA_GUILD_CHAMPIONS_BATTLE_REWARD_TITLE	戰鬥獎勵
+DENA_GUILD_CHAMPIONS_REWARD_CONTENT_TITLE	獎勵內容
+DENA_GUILD_CHAMPIONS_RANK_TITLE	名次
+DENA_GUILD_CHAMPIONS_RANK	排行榜
+DENA_GUILD_CHAMPIONS_RANK_POINT_TITLE	積分
+DENA_GUILD_CHAMPIONS_RANK_WIN_NUM_TITLE	總勝場次
+DENA_GUILD_CHAMPIONS_RANK_POINT_TIP	積分：
+DENA_GUILD_CHAMPIONS_RANK_WIN_NUM_TIP	{0}場
+DENA_GUILD_CHAMPIONS_SIGNUP_LIST_TITLE	報名名單
+DENA_GUILD_CHAMPIONS_SIGNUP_NUM_TIP	報名總人數：
+DENA_GUILD_CHAMPIONS_RETURN	返回
+DENA_GUILD_CHAMPIONS_ENTER_FORTRESS	進入榮譽之戰
+DENA_GUILD_CHAMPIONS_LOSE_TIP	不要放弃再接再厲
+DENA_GUILD_CHAMPIONS_BATTLE_RECORD_TITLE	戰鬥記錄
+DENA_GUILD_CHAMPIONS_LINEUP_TITLE	編隊介面
+DENA_GUILD_CHAMPIONS_ATTACK_TIP	進攻
+DENA_GUILD_CHAMPIONS_DEFFEND_TIP	防守
+DENA_GUILD_CHAMPIONS_LINEUP_TIP	佈置
+DENA_GUILD_CHAMPIONS_CHANGE_TEAM_TIP	調整
+DENA_GUILD_CHAMPIONS_ATTACK_TEAM_TIP	進攻隊伍
+DENA_GUILD_CHAMPIONS_DEFFEND_TEAM_TIP	防守隊伍
+DENA_GUILD_CHAMPIONS_TEAM_USE_TIP	使用
+DENA_GUILD_CHAMPIONS_TEAM_SEL_TIP	選擇
+DENA_GUILD_CHAMPIONS_LINEUP_TIP	編隊
+DENA_GUILD_CHAMPIONS_REFRESH_TIP	刷新
+DENA_GUILD_CHAMPIONS_SELF_TIP	我方
+DENA_GUILD_CHAMPIONS_ENEMY_TIP	敵方
+DENA_GUILD_CHAMPIONS_POINT_NUM_TIP	據點數
+DENA_GUILD_CHAMPIONS_KILL_NUM_TIP	擊殺隊伍
+DENA_GUILD_CHAMPIONS_SEIZE_TIME_TIP	據點佔領時間
+DENA_GUILD_CHAMPIONS_BATTLE_NUM_TIP	參戰人數：
+DENA_GUILD_CHAMPIONS_BATTLE_TEAM_TIP	參戰隊伍：
+DENA_GUILD_CHAMPIONS_EMBATTLE_TIP	英靈佈置
+DENA_GUILD_CHAMPIONS_UNEMBATTLE_TIP	撤回
+DENA_GUILD_CHAMPIONS_SELF_POINT_DEFFEND_TEAM_TIP	我方要塞防守隊伍
+DENA_GUILD_CHAMPIONS_MONSTER_POINT_TIP	中立據點
+DENA_GUILD_CHAMPIONS_ENEMY_POINT_TIP	敵方防守據點
+DENA_GUILD_CHAMPIONS_SELF_POINT_TIP	我方防守據點
+DENA_GUILD_CHAMPIONS_LEFT_TIME_TIP	剩餘時間：
+DENA_GUILD_CHAMPIONS_BATTLE_INFOMATION_TIP	戰鬥資訊
+DENA_GUILD_CHAMPIONS_BATTLE_OCCUPY_TIP	直接佔領
+DENA_GUILD_CHAMPIONS_WEEK_MON	週一
+DENA_GUILD_CHAMPIONS_WEEK_TUE	週二
+DENA_GUILD_CHAMPIONS_WEEK_WED	週三
+DENA_GUILD_CHAMPIONS_WEEK_THU	週四
+DENA_GUILD_CHAMPIONS_WEEK_FRI	週五
+DENA_GUILD_CHAMPIONS_WEEK_SAT	週六
+DENA_GUILD_CHAMPIONS_WEEK_SUN	週日
+DENA_GUILD_CHAMPIONS_HAVE_NOT_JOIN_TIP	抱歉，您未參與此次榮譽之戰
+DENA_GUILD_CHAMPIONS_HAVE_NOT_JOIN_SHORT_TIP	您未參與
+DENA_GUILD_CHAMPIONS_PREPARE_BUTTON_TIP	{0}開啟
+DENA_GUILD_CHAMPIONS_ACCOUNTING_TIP	正在結算
+DENA_GUILD_CHAMPIONS_COST_MINUTE_TIP	{0}分鐘
+DENA_GUILD_CHAMPIONS_COST_HOUR_MINUTE_TIP	{0}時{1}分
+DENA_GUILD_CHAMPIONS_RANK_IDLE_TIP	{0}
+DENA_GUILD_CHAMPIONS_WIN_IDLE_TIP	{0}
+DENA_GUILD_CHAMPIONS_SIGN_MEMBER_NO_MATCH_TIP	騎士團報名人數不足{0}人，無法參加此次榮譽之戰！不用灰心，下回記得叫大家來報名吧！
+DENA_GUILD_CHAMPIONS_GUILD_SIGN_NO_MATCH_TIP	全服騎士團報名數不足{0}個騎士團，故本次榮譽之戰無法開啟！
+DENA_GUILD_CHAMPIONS_BATTLE_CD_TIP	距離比賽結束還剩：
+DENA_GUILD_CHAMPIONS_NEXT_STAGE_CD_TIP	距離下個階段還剩：
+DENA_GUILD_CHAMPIONS_REWARD_RANK_TIP	第{0}名
+DENA_GUILD_CHAMPIONS_REWARD_RANK_TIP1	第{0}
+DENA_GUILD_CHAMPIONS_REWARD_RANK_TIP2	-{0}名
+DENA_GUILD_CHAMPIONS_LINEUP_FINISH_TIP	編隊完成
+DENA_GUILD_CHAMPIONS_LINEUP_TEAM_TITLE_TIP	隊伍{0}
+DENA_GUILD_CHAMPIONS_SET_ATTACK_TEAM_TIP	佈置進攻隊伍
+DENA_GUILD_CHAMPIONS_SET_DEFFEND_TEAM_TIP	佈置防守隊伍
+DENA_GUILD_CHAMPIONS_POINT_ENEMY_ATTACKING_TIP	該據點正在被敵方攻打，請選擇其他據點！
+DENA_GUILD_CHAMPIONS_SIGNUP_CHECK_TIP	是否報名參加榮譽之戰？
+DENA_GUILD_CHAMPIONS_SELF_POINT_DEFFEND_TEAM_TITLE_TIP	我方要塞
+DENA_GUILD_CHAMPIONS_POINT_NO_DEFFEND_TIP	無防守
+DENA_GUILD_CHAMPIONS_POINT_CANBOT_CHECK_TIP	戰鬥準備期間無法查看據點陣容！
+DENA_GUILD_CHAMPIONS_BATTLE_OCCUPY_CD_TIME_TIP	佔領時間：
+DENA_GUILD_CHAMPIONS_LINEUP_SELECTOR_ATTACK_TEAM_TIP	進攻{0}隊
+DENA_GUILD_CHAMPIONS_LINEUP_SELECTOR_DEFEND_TEAM_TIP	防守{0}隊
+DENA_GUILD_CHAMPIONS_BATTLE_SCROLL_TIP	{0}<color=“#00FF00”>（{1}）</color>佔領了<color=“#FFFF00”>{2}</color>
+DENA_GUILD_CHAMPIONS_EMBATTLE_ATTACK_TIP	出擊！！
+DENA_GUILD_CHAMPIONS_EMBATTLE_DEFFEND_TIP	防守！！
+DENA_GUILD_CHAMPIONS_SELF_POINT_FORTYRESS_NAME_TIP	我方要塞
+DENA_GUILD_CHAMPIONS_ENEMY_POINT_FORTYRESS_NAME_TIP	敵方要塞
+DENA_GUILD_CHAMPIONS_NEUTRAL_POINT_NAME_TIP	中立據點
+DENA_GUILD_CHAMPIONS_SELF_POINT_NAME_TIP	我方據點
+DENA_GUILD_CHAMPIONS_ENEMY_POINT_NAME_TIP	敵方據點

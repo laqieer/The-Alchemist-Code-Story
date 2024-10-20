@@ -1,0 +1,36 @@
+﻿001	呼！<br>怎麼樣？<br>我在關鍵時候也是很能幹的？	VO_alma.alma_sys_0010
+002	啊…唔…!!<br>怎麼會…被這種亂來的…魔法…!!	VO_courtmage.courtmage_battle_0027
+003	莉茲、情況如何？<br>休息一下了嗎？	VO_alma.alma_sys_0002
+004	…嗯！<br>謝謝你們！	VO_lizbeth.lizbeth_sys_0004
+005	那就快走吧！
+006	我想，監獄大概在地下<br>在去陛下房間的路上<br>並沒有看到監獄之類的房間	VO_alma.alma_sys_0004
+007	那先去找樓梯！
+008	嗯!!	VO_lizbeth.lizbeth_sys_0004
+009	莉茲、找到了？	VO_alma.alma_sys_0001
+010	門太多了，找不到啊!!	VO_lizbeth.lizbeth_sys_0029
+011	不可能一個個找啊！<br>瑞貝卡呢!?	VO_alma.alma_sys_0029
+012	啊!!	VO_courtmage.courtmage_battle_0024
+013	啊啊啊啊!?	VO_rebecca.rebecca_battle_0025
+014	瑞貝卡!?<br>這些都是你一個人解決掉的!?	VO_alma.alma_sys_0025
+015	呃…也不算吧…<br>敵人沒有裝備，就輕易地…	VO_rebecca.rebecca_sys_0025
+016	怎麼回事？	VO_lizbeth.lizbeth_sys_0005
+017	啊、謝謝！<br>這下就不用變成蟲子了…!!
+018	拿到說…那個是“夢魘女妖的儀式”…？<br>不…不可能…<br>怎麼會呢…	VO_rebecca.rebecca_sys_0022
+019	瑞貝卡…？	VO_lizbeth.lizbeth_sys_0001
+020	…悄悄進行吧，<br>莉茲，我們去找樓梯!!	VO_alma.alma_sys_0030
+021	啊？<br>等等，阿爾瑪!?	VO_lizbeth.lizbeth_sys_0025
+022	這扇門很奇怪	VO_alma.alma_sys_0031
+023	為什麼？	VO_lizbeth.lizbeth_sys_0005
+024	帶有魔力…<br>大概，碰的話――	VO_alma.alma_sys_0004
+025	哇!!<br>浮現了很多文字？	VO_lizbeth.lizbeth_battle_0024
+026	――暗號吧
+027	用這個文字做成的“密碼”鎖門，<br>輸入對的密碼就能像用鑰匙打開門一樣<br>我家裡也有
+028	瑞貝卡！<br>沒事了嗎？	VO_lizbeth.lizbeth_sys_0001
+029	…嗯，差不多	VO_rebecca.rebecca_sys_0037
+030	問題是這個密碼<br>如果這門連通著監獄，<br>密碼應該是陛下決定的…	VO_alma.alma_battle_0019
+031	有了！<br>莉茲蓓特一行!!<br>抓起來!!	VO_courtmage.courtmage_sys_0042
+032	追來了…!!	VO_rebecca.rebecca_battle_0021
+033	你們兩個先擋一下<br>我來開門	VO_alma.alma_sys_0002
+034	啊!?<br>可以開嗎!?	VO_lizbeth.lizbeth_sys_0026
+035	心裡大概有10個備案了，<br>全部試試看！<br>你們幫我爭取時間!!	VO_alma.alma_sys_0004
+036	雖然不太理解，<br>不過就交給我們吧!!	VO_rebecca.rebecca_sys_0031

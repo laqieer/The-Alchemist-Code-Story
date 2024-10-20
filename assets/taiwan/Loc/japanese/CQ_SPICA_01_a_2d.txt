@@ -1,0 +1,67 @@
+001	(是從何時起呢…<br>不知什麼時候就受傷了…)	VO_spica.spica_sys_0022
+002	…真是白跑一趟	VO_zaharu.zaharu_sys_0016
+003	對不起<br>扎哈爾大人…	VO_spica.spica_sys_0036
+004	不，這不是你的錯，絲碧卡	VO_zaharu.zaharu_chara_1001
+005	…真是對不起<br>接下來會進行徹底的事先調查	VO_spica.spica_event_1005
+006	啊啊…<br>…話說，那個貴族…<br>竟用錢討好聖教騎士團…	VO_zaharu.zaharu_sys_0004
+007	騎士團也腐敗了嗎<br>那些貴族的腐敗真是讓人看不下去啊…
+008	如您所說的那樣	VO_spica.spica_sys_0038
+009	…力量<br>想要使這個世界的腐敗<br>全部消失，需要力量！	VO_zaharu.zaharu_sys_0019
+010	誰都無法企及的…<br>徹底的力量…!!<br>強大的力量!!
+011	(…變瘋狂了…)	VO_spica.spica_sys_0022
+012	(…扎哈爾大人…<br>是對我有大恩的人…尊敬的人…<br>我所…信任的人…)
+013	(但是…)
+014	(我…<br>能…<br>在扎哈爾大人身邊待多久呢…)
+015	(不行…竟然會有這種想法…！<br>我對扎哈爾大人的忠誠<br>應該是不容置疑的…！)	VO_spica.spica_battle_0019
+016	…………
+017	…？<br>扎哈爾大人？怎麼了…	VO_spica.spica_sys_0006
+018	過來瞧一瞧，看一看了！<br>從世界各地采購的名品！<br>便宜賣了噢！
+019	…好像是陶器市場	VO_spica.spica_chara_1002
+020	…那就去看看<br>	VO_zaharu.zaharu_sys_0004
+021	知道了<br>那就…	VO_spica.spica_sys_0038
+022	你跟著我去也沒用	VO_zaharu.zaharu_sys_0002
+023	啊…不是的！<br>我是怕您會發生什麼事…<br>就讓我一起去吧！	VO_spica.spica_chara_1002
+024	這個怎麼樣？<br>從撒加地方來的青瓷壺～
+025	先生！請看一下噢～！<br>這個！可是綿津見的古董繪盤！<br>很漂亮吧？
+026	…………
+027	…………
+028	(…安靜平和的時間…<br>沒想到…能和扎哈爾大人…<br>度過這種時光…)	VO_spica.spica_sys_0007
+029	恩…	VO_zaharu.zaharu_sys_0031
+030	…怎麼樣？	VO_spica.spica_sys_0003
+031	現在沒有什麼能引起我的興趣<br>我已無期待…	VO_zaharu.zaharu_chara_1001
+032	這樣啊…	VO_spica.spica_chara_1002
+033	來看一看吧<br>喂！那邊的年輕夫婦！
+034	很適合你們<br>一對茶杯噢～！<br>這可是名品啊！怎麼樣!?
+035	夫、夫婦…!?<br>真是無禮啊…！	VO_spica.spica_sys_0026
+036	…？	VO_zaharu.zaharu_sys_0025
+037	？<br>扎哈爾…大人…？	VO_spica.spica_sys_0006
+038	…店主<br>那個，松鼠的擺件給我看下	VO_zaharu.zaharu_sys_0002
+039	噢！這個嗎!?<br>先生的眼光真是高啊!!<br>來請看請看！
+040	恩…	VO_zaharu.zaharu_sys_0031
+041	…絲碧卡<br>這個陶瓷的松鼠怎麼樣？	VO_zaharu.zaharu_sys_0002
+042	我…對陶瓷不太了解…	VO_spica.spica_sys_0036
+043	沒事，你就怎麼想的怎麼說	VO_zaharu.zaharu_sys_0004
+044	…我覺得很可愛	VO_spica.spica_chara_1003
+045	呼…<br>可愛嗎…	VO_zaharu.zaharu_sys_0007
+046	(啊…扎哈爾大人…在微笑…？)	VO_spica.spica_chara_1002
+047	這可是安比利亞的名匠之作<br>…店主
+048	哎！
+049	這是在哪里獲得的？	VO_zaharu.zaharu_sys_0001
+050	額，路斯特布魯格的某富豪<br>最近去世了…<br>這是他的遺物…
+051	原來如此…在路斯特布魯格嗎…	VO_zaharu.zaharu_chara_1008
+052	嗚哇!!
+053	!?
+054	…!?<br>怎麼了!?	VO_spica.spica_sys_0026
+055	強盜啊！<br>有強盜啊!!
+056	強盜…!?	VO_spica.spica_battle_0019
+057	(和扎哈爾大人<br>難得的時光…!!)	VO_spica.spica_sys_0012
+058	你們這些人！<br>竟擅自在此做生意!?	VO_thiefm.thiefm_sys_0002
+059	…真是名家之作啊<br>做工太精美了…<br>色彩的細膩感非同尋常…	VO_zaharu.zaharu_sys_0046
+060	啊哇哇…!?<br>先生！有強盜啊！<br>您怎麼還這麼淡定…!!
+061	…扎哈爾大人怎麼了？	VO_spica.spica_sys_0003
+062	…店主	VO_zaharu.zaharu_sys_0002
+063	哎…？
+064	一會我再來買<br>你一定要幫我留著
+065	哎…？<br>…額，等等！你要做什麼
+066	絲碧卡，趕走這些人	VO_zaharu.zaharu_sys_0010
+067	明白	VO_spica.spica_sys_0004
