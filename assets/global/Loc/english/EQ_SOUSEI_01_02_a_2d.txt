@@ -1,0 +1,224 @@
+﻿001	Finally... Finally! I'm finally here!	VO_adlai.adlai_sys_0046
+002	H-here they come!	VO_knightm.knightm_sys_0042
+003	Oi... Are you a friend of that blacksmith who lives outside the village?	VO_stknightm.stknightm_sys_0017
+004	You here to take us over?!	VO_thiefm.thiefm_sys_0018
+005	Stand back!	VO_stknightm.stknightm_sys_0001
+006	H-hey! Come on, now...	VO_adlai.adlai_sys_0001
+007	Don't move!	VO_knightm.knightm_battle_0019
+008	Keep your hands where we can see them, or this won't end well for you!	VO_stknightm.stknightm_sys_0012
+009	Just hold on a second, will ya? The name's Adaleigh!	VO_adlai.adlai_sys_0027
+010	I came here from the Acedia Belt Region!
+011	From the... Where? Acid...ear...?	VO_knightm.knightm_sys_0025
+012	Why have you come to the land of the Sephira?!	VO_stknightm.stknightm_sys_0001
+013	Sephira...? Oh, I get it. So this place is called Sephira, huh?	VO_adlai.adlai_sys_0050
+014	It's really beautiful! Everything is so green, as far as the eye can see! Not a chasm in sight!	VO_adlai.adlai_sys_0007
+015	Wow!	VO_adlai.adlai_sys_0002
+016	Wh-what...?	VO_stknightm.stknightm_sys_0027
+017	Do you guys get earthquakes?	VO_adlai.adlai_sys_0001
+018	Earth...quakes?	VO_stknightm.stknightm_sys_0025
+019	Well, occasionally.	VO_knightm.knightm_sys_0031
+020	Come to think of it, I don't think there's been one for several years.	VO_stknightm.stknightm_sys_0004
+021	Wow! So you don't have to worry about earthquakes here?!	VO_adlai.adlai_sys_0020
+022	Then this really is the place! I've finally found a world free from sin!	VO_adlai.adlai_sys_0009
+023	There is no such thing as a world free from sin. Not so long as there are people living in it.	VO_nimuru.nimuru_sys_0001
+024	Huh?!
+025	Who're you?	VO_adlai.adlai_sys_0001
+026	My name is Nimul. I am something of a leader to these people... To the Sephira. Well, I will be, soon.	VO_nimuru.nimuru_sys_0004
+027	I've been listening...
+028	And I would like to bid you welcome, visitor from the other side of the Barrier.
+029	This is the Sephira Village: a withering land beset by the corruption of sin.	VO_nimuru.nimuru_sys_0030
+030	The Sephira Village...? The corruption of sin?	VO_adlai.adlai_battle_1018
+031	Wait... Does this mean that there's a Cursed Beast here, too?!	VO_adlai.adlai_sys_0018
+032	There is, indeed.	VO_nimuru.nimuru_sys_0004
+033	Are you for real?! I can't believe this!	VO_adlai.adlai_sys_0042
+034	I came all the way out here for nothing!
+035	I would like very much to speak with you. I want to hear about your quest...	VO_nimuru.nimuru_sys_0002
+036	And about the place from which you came.
+037	All right. I can do that.	VO_adlai.adlai_sys_0030
+038	Excellent. Well, Adaleigh, if you would follow me back to my home, I'd be more than happy to accommodate you.	VO_nimuru.nimuru_sys_0005
+039	Sounds good. I... Ahh...	VO_adlai.adlai_sys_0004
+040	Is something...?
+041	H-hey! What's wrong?!	VO_waginao-c.waginao-c_sys_0027
+042	Are you alright? Hey!	VO_waginao-c.waginao-c_sys_0001
+043	Snnrk... Frrrr...
+044	Is he...asleep?	VO_waginao-c.waginao-c_sys_0006
+045	It can't have been an easy voyage.	VO_nimuru.nimuru_sys_0005
+046	He had to traverse the Dark Barrier, after all.
+047	(The Dark Barrier... It is said to be a wellspring of corruption.)
+048	(Yet this man passed through it to get here.)
+049	(What does that mean? What is the Dark Barrier, really?)
+050	Nimul... What should we do about him?	VO_waginao-c.waginao-c_sys_0001
+051	I'll take him back to my place. He should feel better after he's had a decent rest.	VO_nimuru.nimuru_sys_0004
+052	Hello? Hey! Where is everyone?! Hellooo!	VO_adlai.adlai_sys_0001
+053	What the...? No! Not another earthquake!	VO_adlai.adlai_sys_0027
+054	Arrrgghhh! This is really bad! This is the biggest one...ever!	VO_adlai.adlai_battle_0022
+055	...
+056	H-hey! Look out!	VO_adlai.adlai_sys_0001
+057	Urgh... Nnrgh...
+058	What the...?
+059	Uhhhhhhhhhhhhhhhhh...
+060	Fallen?!	VO_adlai.adlai_sys_0050
+061	Haaaarrrrgghhh!
+062	N-no! Aaaaaaahhh!	VO_adlai.adlai_sys_0026
+063	Aaaahhhhhhhhh!	VO_adlai.adlai_battle_0025
+064	You're finally awake.	VO_waginao-c.waginao-c_sys_0001
+065	H-huh? Where...am I?	VO_adlai.adlai_sys_0020
+066	You collapsed, so I carried you back to my house.	VO_nimuru.nimuru_sys_0004
+067	Oh, uh... Thanks. Haa...	VO_adlai.adlai_sys_0018
+068	It seemed as though you were having a nightmare.	VO_waginao-c.waginao-c_sys_0003
+069	Yeah, I... I had a terrible dream. It was about the place I came from.	VO_adlai.adlai_sys_0020
+070	There're all these chasms, which are just full of corruption...and in my dream, a man accidentally came into contact with the stuff, which turned him into one of the Fallen.
+071	The Fallen...? You mean to say that they exist in other regions?!	VO_waginao-c.waginao-c_sys_0012
+072	I would like to hear more about the region you came from...if you wouldn't mind.	VO_nimuru.nimuru_sys_0005
+073	Sure thing. I...
+074	Oops.	VO_adlai.adlai_sys_0050
+075	Perhaps you should have something to eat first.	VO_waginao-c.waginao-c_sys_0010
+076	Seems like that would be for the best. I'll bring him something right away.	VO_nimuru.nimuru_sys_0004
+077	Ungh...	VO_adlai.adlai_sys_0018
+078	Umgf! Hrmpf! Mmm... Umgf!
+079	You...must have been starving.	VO_waginao-c.waginao-c_sys_0022
+080	Sorry! Umgf... Can't help stuffing my face. Never seen anything like this before!	VO_adlai.adlai_sys_0007
+081	Make sure you chew, at least. Wouldn't want you to choke.	VO_waginao-c.waginao-c_sys_0003
+082	Urrgk! Ooorf... W-water!	VO_adlai.adlai_sys_0043
+083	What did I just tell you?	VO_waginao-c.waginao-c_sys_0030
+084	I guess he was just that hungry.	VO_nimuru.nimuru_sys_0007
+085	Haa... Haa... I thought I was gonna die!	VO_adlai.adlai_battle_0019
+086	Slow down. The food isn't going anywhere. Take it easy.	VO_waginao-c.waginao-c_sys_0010
+087	Yeah, yeah...	VO_adlai.adlai_sys_0018
+088	Adaleigh, while you eat... Take as much time as you need, but if you could please start telling us of the place from which you came...?	VO_nimuru.nimuru_sys_0002
+089	Okay...
+090	My home... The Acedia Belt Region... It was punished in the form of earthquakes.	VO_adlai.adlai_sys_0030
+091	The ground shook multiple times a day, every day. Big quakes, small quakes... They split open the earth.
+092	And from those chasms came the corruption of the Cursed Beast. It bubbled up from underground, black and sick...
+093	Shaken both mentally and physically by the constant tremors, terrified of falling into the yawning chasms... We lived amidst the corruption in a state of constant fear.
+094	...
+095	As I'm sure you can imagine, the Acedia Belt Region has none of the beauty and greenery of your village.	VO_adlai.adlai_sys_0018
+096	But I... I wanted to save it. The ruined earth, the suffering people...
+097	So I built an airship and set out to do just that.
+098	You...?!
+099	You made that ship?!	VO_waginao-c.waginao-c_sys_0025
+100	Sure did. I'm an engineer!	VO_adlai.adlai_sys_0004
+101	An engineer...? Hmm...	VO_nimuru.nimuru_sys_0005
+102	So... What was the purpose of your voyage? How did you plan to save your home and people with a ship?	VO_nimuru.nimuru_sys_0002
+103	I was hoping... I was hoping that there was somewhere peaceful out there, somewhere where sin wasn't running rampant and destroying people's lives!	VO_adlai.adlai_sys_0004
+104	I thought that if I found someplace like that, I'd be able to find a way to improve our situation, even just a little!
+105	But it seems like that...isn't gonna happen.	VO_adlai.adlai_sys_0020
+106	You're right, Nimul. Wherever people are, sin will find them. There's no such thing as a human utopia.
+107	Perhaps, but that is the way of this world. As it is now, that is.	VO_waginao-c.waginao-c_sys_0010
+108	Huh?
+109	Well, I'm not gonna give up! This is only the second place I've been to. I'm sure there's gotta be somewhere out there that—	VO_adlai.adlai_battle_0019
+110	This is the second place? So you landed somewhere else before arriving here?	VO_nimuru.nimuru_sys_0001
+111	Yeah, that's right. I've been to one other place.	VO_adlai.adlai_sys_0004
+112	According to the people I met there, it was called the Luxuria Belt Region.
+113	The Luxuria Belt Region...
+114	What was it like? I suppose that it was also burdened by sin.	VO_nimuru.nimuru_sys_0002
+115	That place...	VO_adlai.adlai_sys_0031
+116	It was frozen solid.
+117	The entire region was buried in ice and snow. It was nothing short of a frigid wasteland.
+118	That's how the Luxuria Belt Region was punished...with intense cold.
+119	You're leaving, aren't you, Adaleigh? It's a shame... I was really starting to like you.	VO_mela.mela_sys_0022
+120	Mira...
+121	You're right. I'm going. I need to find a place that's free from sin. There has to be somewhere out there!	VO_adlai.adlai_chara_1018
+122	That's why I built this ship... That's the reason I'm here!
+123	I know... I haven't forgotten.	VO_mela.mela_sys_0030
+124	You know what? I believe in you, Adaleigh! I know you can do it. I mean, time is infinite!	VO_mela.mela_sys_0004
+125	C'mon, Mira... Not this again. Human time is finite. You know that!	VO_nix.nix_sys_0030
+126	Shame on you, Nyx! Don't you believe in Adaleigh?!	VO_mela.mela_sys_0016
+127	It's not a question of belief.	VO_nix.nix_sys_0030
+128	Adaleigh... What you're doing is dangerous.	VO_nix.nix_sys_0001
+129	It doesn't matter who you are. There's no guarantee that you'll make it through your next trip.
+130	In fact, it's pretty much a miracle that you made it here in the first place.
+131	You think I don't know that? Still... If I have even the slightest chance of success, I have to try.	VO_adlai.adlai_sys_0004
+132	No... There's no "try" about it. I'm going to do it!
+133	I know I can!
+134	Well... It's not like I had any intention of stopping you.	VO_nix.nix_sys_0022
+135	I wish you all the best.	VO_nix.nix_sys_0007
+136	Thanks!	VO_adlai.adlai_sys_0007
+137	...
+138	Adaleigh...?	VO_nimuru.nimuru_sys_0006
+139	Oh, uh... Sorry. It's nothing.	VO_adlai.adlai_sys_0035
+140	Anyway, I wanna hear more about this Sephira village!	VO_adlai.adlai_sys_0002
+141	You called it a withering land, but it sure doesn't look that way to me. Is it really—?
+142	It is.	VO_nimuru.nimuru_sys_0004
+143	The only reason that the true state of this land isn't plain to the naked eye is thanks to the existence of the Tree of Life, Sephiron.
+144	Sephiron, huh?
+145	The combined powers of Sephiron and the Guardian Dragon Nidhogg are what suppress the corruption with which the Cursed Beast assaults us from its slumber beneath the earth.	VO_nimuru.nimuru_sys_0005
+146	S-suppress it?!	VO_adlai.adlai_sys_0025
+147	And the one who wields those powers is the priestess, known as the Vessel of Purification.	VO_waginao-c.waginao-c_sys_0037
+148	Vessel of...Purification...
+149	...
+150	Is that... Is that really possible?!	VO_adlai.adlai_sys_0001
+151	Indeed. Well, it is for we of the Sephira, who possess powers of purification.	VO_nimuru.nimuru_sys_0004
+152	So then... You mean the same thing wouldn't work for other lands?	VO_adlai.adlai_sys_0018
+153	Correct. It would be impossible.	VO_waginao-c.waginao-c_sys_0040
+154	No. Not impossible.
+155	What?
+156	I am currently in the process of researching Spiritbonding, and with said research, I am attempting to produce an entirely new technique.	VO_nimuru.nimuru_sys_0001
+157	Spiritbonding? A new... Huh?	VO_adlai.adlai_sys_0050
+158	Spiritbonding is the power of Mother Nature herself, of Sephiron.	VO_nimuru.nimuru_sys_0004
+159	It is an art native to these lands, and one that can be used only by the Sephira.
+160	However, the new Spiritbonding technique that I am developing is different; anyone will be able to acquire it.
+161	Once it is complete, it could even be used to suppress the onslaught of sin in—
+162	In other regions?! You think I could take it home with me and use it to save my people?!	VO_adlai.adlai_battle_1018
+163	I do.	VO_nimuru.nimuru_sys_0005
+164	No! Nimul, this cannot be allowed!	VO_waginao-c.waginao-c_sys_0015
+165	Huh?
+166	It is far too powerful! I cannot believe that you would even consider teaching it to an outsider!	VO_waginao-c.waginao-c_sys_0014
+167	Waginau...	VO_nimuru.nimuru_sys_0001
+168	He... Adaleigh has come all this way, just to find a way to save his home. Despite the untold danger in which he is placing himself, he is doing all he can to change this world for the better.
+169	So you see... He and I share the same ideal.
+170	Wh—?!
+171	Nimul, please! I need you to teach me this new technique!	VO_adlai.adlai_sys_0001
+172	I'm sorry, Adaleigh, but I can't.	VO_nimuru.nimuru_sys_0039
+173	Wh-what...?
+174	Not yet, at least. It is...not yet complete, and may not be for some time.	VO_nimuru.nimuru_sys_0030
+175	That is why I... No, why this world needs your help, Adaleigh.	VO_nimuru.nimuru_sys_0002
+176	Nimul...
+177	Okay. I'll do it. Whatever you need!	VO_adlai.adlai_sys_0006
+178	Thank you, Adaleigh. I appreciate that.	VO_nimuru.nimuru_sys_0033
+179	(An engineer who built his own airship... I can see him being very useful in completing my research.)
+180	But...	VO_adlai.adlai_chara_1018
+181	Yes?
+182	Before that... I wanna try it out.	VO_adlai.adlai_sys_0002
+183	Try out...what exactly?	VO_waginao-c.waginao-c_sys_0006
+184	Spiritbonding! What else? And that new technique of yours!	VO_adlai.adlai_sys_0004
+185	You doubt Sephiron's power? Hmph. How foolish.	VO_waginao-c.waginao-c_sys_0010
+186	I think I'd be more of a fool if I just believed everything I'm told without checking out the facts for myself.	VO_adlai.adlai_sys_0010
+187	You impudent little...!	VO_waginao-c.waginao-c_sys_0012
+188	Oh-ho! You wanna go?	VO_adlai.adlai_sys_0012
+189	Hmph. Be careful what you ask for, boy.	VO_waginao-c.waginao-c_sys_0010
+190	B-boy?! Who do you think you're calling boy?!	VO_adlai.adlai_sys_0025
+191	I merely call them as I see them.	VO_waginao-c.waginao-c_sys_0008
+192	You...! You take that back!	VO_adlai.adlai_sys_0013
+193	And why should I? You are behaving like a little boy, and so I name you such.	VO_waginao-c.waginao-c_sys_0007
+194	Will the two of you cut it out?	VO_nimuru.nimuru_sys_0001
+195	Ngh... I'm really ticked off—but that's just perfect! Hey, Nimul!	VO_adlai.adlai_battle_0019
+196	Yes...?
+197	Let's see how this jerk's Spiritbonding and your new technique hold up against my Engineer Soldier!	VO_adlai.adlai_sys_0001
+198	Your...what?	VO_nimuru.nimuru_sys_0006
+199	My Engineer Soldier! It's a masterpiece, and my life's work!	VO_adlai.adlai_sys_0007
+200	Interesting... Very well. Let's see what you've got.	VO_nimuru.nimuru_sys_0046
+201	What?! Surely you're not serious, Nimul!	VO_waginao-c.waginao-c_sys_0001
+202	Don't forget that you're the one who provoked him, Waginau.	VO_nimuru.nimuru_sys_0001
+203	Hmph.	VO_waginao-c.waginao-c_sys_0016
+204	What is taking him so long?!	VO_waginao-c.waginao-c_sys_0017
+205	You heard him. He's going to fight with his Engineer Soldier. I suppose he's still preparing.	VO_nimuru.nimuru_sys_0010
+206	This...Engineer Soldier... Have you heard of it before?	VO_waginao-c.waginao-c_sys_0001
+207	Of course not. How could I possibly have heard about it?	VO_nimuru.nimuru_sys_0006
+208	Hmph.	VO_waginao-c.waginao-c_sys_0030
+209	Hey! Sorry to keep you waiting!	VO_adlai.adlai_sys_0023
+210	Wh-what is that? A steel...doll?	VO_waginao-c.waginao-c_sys_0027
+211	Ah, so this must be your Engineer Soldier.	VO_nimuru.nimuru_sys_0046
+212	That's right! It's a real masterpiece!	VO_adlai.adlai_sys_0004
+213	It absorbs the magil in the atmosphere and uses it to attune the Soldier to my thoughts, so it can move about on its own!
+214	I...wasn't aware that such a substance existed in the atmosphere.	VO_nimuru.nimuru_sys_0005
+215	I suppose the fact that it can power this doll means that it can be converted into energy.
+216	Magil... Hmm... This bears further investigation. Thank you, Adaleigh.
+217	Get your head out of the clouds, Nimul! Do you really intend to fight this...thing?!	VO_waginao-c.waginao-c_sys_0001
+218	Heh... Pipe down, Waginau. All we need to do is win.	VO_nimuru.nimuru_sys_0010
+219	Are you so confident of that?	VO_waginao-c.waginao-c_sys_0022
+220	What? Think you can't beat something just because you've never seen it before?	VO_nimuru.nimuru_sys_0001
+221	Didn't think someone who stands at the forefront of the Sephira Guard would be such a coward.	VO_nimuru.nimuru_sys_0010
+222	Hmph. I'll teach this child to respect his betters!	VO_waginao-c.waginao-c_sys_0010
+223	Bring it on! Show me your Spiritbonding and this new technique!
+224	Go get 'em, Engineer Soldier!	VO_adlai.adlai_battle_1030

@@ -1,0 +1,98 @@
+﻿001	They must be absolved...as must I.
+002	A Few Days Earlier... Northern Pride - Inquisition Headquarters
+003	We will reaffirm our authority over the Holy Guard.
+004	You're sending me to Lustburg?
+005	There have been more than a few instances of inquisitors whom we have dispatched failing to return due to certain incidents occurring mid-mission.
+006	Ordinarily, such a thing would be unthinkable. Who could possibly best an inquisitor, when they possess both the status and power to bring justice down upon even the knights of the Holy Order?
+007	No one should be able to.
+008	Unless, that is, they happen to possess the same powers of Alchemy.
+009	The impact of the Lion Monarch's Charge has been immense. The world is unstable, and we have yet to truly recover.
+010	I would say that that makes now the perfect time to adhere stringently to the rules.
+011	The damage taken by the Holy Guard was, in a word, severe. We can expect that their reformation will take some time.
+012	It is unfortunate, but the Holy Order of Babel is currently far from a united front.
+013	This makes for the perfect foundation upon which excessive powers may run rampant.
+014	As such, we will be sending you alone, Inquisitor, to monitor the actions of the Holy Guard. Make certain that they do not become aware of your presence.
+015	Your task is twofold.
+016	First, you will infiltrate Lustburg and thoroughly investigate each and every Paladin for a fixed period of time.
+017	Second, you will work to expose their true purpose.
+018	And should another of these incidents take place?
+019	The Holy Guard must be held accountable.
+020	...
+021	This is a good opportunity, is it not?
+022	To distance yourself from your parents' dishonor.
+023	(Uncontrolled power.)
+024	(Excessive power. Alchemy.)
+025	Ravina has finally calmed down.	VO_rofia.rofia_sys_0032
+026	Dear me! It has been a while since this last occurred. It was a rather large outburst, too.	VO_michael.michael_sys_0008
+027	(Her powers, too, are out of control.)
+028	...
+029	Inquisitor?	VO_michael.michael_sys_0001
+030	Y-yes?	VO_cheryl.cheryl_sys_0006
+031	To pass judgment on others...
+032	Such is my duty.	VO_cheryl.cheryl_sys_0037
+033	Have you never doubted your own judgments?	VO_michael.michael_sys_0006
+034	I would be lying if I said that I had not.
+035	Perhaps there is something that you have reconsidered regarding the purpose of Alchemy, and the current state of the Holy Guard, then?	VO_michael.michael_sys_0005
+036	Recent events have certainly given me a lot to think about.	VO_cheryl.cheryl_sys_0005
+037	This young lady... Ravina...
+038	She naturally possesses incredibly powerful magic and Alchemia Particles both.
+039	She was once isolated for these powers—which she has no control over—by the people of her village.
+040	All that she had in this world was the kindness of her parents.
+041	One day, however, monsters attacked her village, and as she attempted to protect her parents, she descended into a frenzied panic.
+042	Her magic overheated and exploded, destroying everything in the vicinity—the monsters, the village, and her parents, all at once.
+043	...
+044	Ravina is young, but she feels the weight of the responsibility for her powers far more heavily upon her shoulders than most.
+045	Not to mention the weight of the guilt that she yet feels for failing to control her powers that day.
+046	So please... Do not take Ravina's words from earlier to heart.
+047	...
+048	She reminds me of someone.
+049	Of myself, in fact.
+050	Oh?	VO_michael.michael_sys_0004
+051	Hey.	VO_rofia.rofia_sys_0002
+052	Yes?
+053	What are the Cursed Beasts?
+054	Wh-what?	VO_cheryl.cheryl_sys_0006
+055	Not long ago, while exploring some ruins, I found a document detailing secrets about the Sacred Stone Asmodeus.
+056	Am I to be silenced if I speak on?	VO_rofia.rofia_sys_0031
+057	Wh-what do you—?	VO_cheryl.cheryl_sys_0002
+058	I'm not afraid anymore.
+059	I've already been killed once. There is no longer anything left for me to fear.
+060	I will learn the truth.
+061	I will protect this world.
+062	What of the reparations I am owed?
+063	...
+064	I received my mission from the Holy Order! I was merely carrying it out in secrecy!	VO_stknightm.stknightm_battle_0025
+065	Y-you're an inquisitor, aren't you? The Alchemy we use is one and the same! We are both loyal disciples of the Holy Order of Babel!
+066	You must understand! Do you have any idea what will happen to me—and to you—if you—?!
+067	This secret you speak of... I am afraid that I know nothing about it.	VO_cheryl.cheryl_sys_0035
+068	I thought that might be your answer.	VO_rofia.rofia_sys_0031
+069	Yet you became a target...of the Holy Guard, no less, for learning that truth?
+070	That's what it looks like to me.
+071	This is...troubling.
+072	As an inquisitor who passes judgment on Alchemy and those who wield it...	VO_rofia.rofia_sys_0002
+073	Don't you want to know?
+074	Are you trying to involve me in this?	VO_cheryl.cheryl_sys_0045
+075	I suppose that would be sinful of me, wouldn't it?
+076	I would like you to accompany me—so long as you have no objections, that is.
+077	You're the only lead I have.	VO_rofia.rofia_sys_0041
+078	Lady Lofia...	VO_michael.michael_sys_0001
+079	I need to know why they killed me.
+080	I can never meet Milis again in this life.
+081	That is...true.	VO_michael.michael_sys_0004
+082	...
+083	Very well.	VO_cheryl.cheryl_chara_2001
+084	I accept your request as reasonable and just.	VO_cheryl.cheryl_chara_3001
+085	Whether it be within power, people, systems, or organizations... Where corruption festers, one cannot deny that some violent action may be required to suppress it.
+086	There are rules for this very purpose, and I will follow them. I will pass judgment upon heresy and expose the darkness!
+087	Even should it lie within the organization of which I am part.
+088	I'd like to hear more about that.
+089	Who's there?!	VO_rofia.rofia_sys_0025
+090	Sorry to interrupt. I was looking for my sister.
+091	Identify yourself immediately!
+092	You want my name? Heh. You can call me Nyx.
+093	H-how did you get in here, young man?	VO_michael.michael_sys_0026
+094	Anyway, since I'm here and all, I really wanna know.
+095	I wanna know about the future of this world.
+096	What?	VO_rofia.rofia_sys_0025
+097	To put it bluntly...
+098	I'm running out of time.

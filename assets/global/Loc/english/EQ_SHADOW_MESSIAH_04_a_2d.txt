@@ -1,0 +1,63 @@
+﻿001	Hey, Letitia?
+002	Yes, Zahar?
+003	What's this?	VO_zaharu.zaharu_sys_0031
+004	That's an Obsidian Star.
+005	What's an Obsidian Star?	VO_zaharu.zaharu_sys_0006
+006	Well, a giant tree known as Sephiron once grew in the vicinity of this forest.	VO_laetitia.laetitia_sys_0004
+007	I know that. I read about it. They called it the Tree of Life.	VO_zaharu.zaharu_sys_0004
+008	That's right. Well, these dark stones are a material known as Sephirium, formed by the Sephiron's sap.
+009	Sephirium? But the book I read said that stuff glowed blue.	VO_zaharu.zaharu_sys_0031
+010	It normally does. The Obsidian Stars are mutations.	VO_laetitia.laetitia_sys_0016
+011	Mutations?	VO_zaharu.zaharu_sys_0044
+012	In fact...
+013	It is said that this substance was created when Sephiron was corrupted. The impure sap that flowed from the great tree solidified into these stones.
+014	Impure sap? So this glossy luster comes from corruption?	VO_zaharu.zaharu_sys_0031
+015	Yes... It is quite pretty, isn't it? Hee hee.	VO_laetitia.laetitia_sys_0007
+016	Impure sap... What a fitting substance for the two of us to pursue.	VO_zaharu.zaharu_sys_0010
+017	Eh, sister?
+018	Indeed, Zahar.	VO_laetitia.laetitia_sys_0004
+019	Lord Zahar! We've found them.	VO_knightm.knightm_sys_0001
+020	Hah. Good. Dig them up and we'll bring them back to our base.	VO_zaharu.zaharu_sys_0008
+021	Yes, my lord!	VO_knightm.knightm_battle_0002
+022	Aaaaaaaaahhh!	VO_knightm.knightm_sys_0028
+023	Wh—?!	VO_zaharu.zaharu_sys_0006
+024	H-help me!
+025	That's...!
+026	The corruption sealed within the Obsidian Stars.	VO_laetitia.laetitia_sys_0029
+027	Is that possible? I had no idea...	VO_zaharu.zaharu_sys_0016
+028	It would seem so. The corruption must be reacting to the darkness within us.
+029	Haha. Interesting...	VO_zaharu.zaharu_sys_0008
+030	Lord Zahar? What are you—?	VO_laetitia.laetitia_sys_0027
+031	Heed me, Corrupt Darkness! Your power will be mine!	VO_zaharu.zaharu_sys_0032
+032	Lord Zahar!
+033	Ngh! Aaaaaaaaaarghh!	VO_zaharu.zaharu_sys_0008
+034	Foul creature of sin...
+035	Foul creature of sin...
+036	Foul creature of sin...
+037	Is this... the voice of corruption?	VO_zaharu.zaharu_sys_0025
+038	Zahar...
+039	You! You're the High Elf I killed in the mansion.	VO_zaharu.zaharu_sys_0001
+040	Filthy half-elf! Unforgivable! You will not get away with this!
+041	Oh, Zahar... Corrupt child of mixed blood...
+042	Was it not enough to claim my daughter's life when you came into this world a cursed half-elf? What cause did you have to murder a noble High Elf in cold blood?
+043	May you rot in hell for your crimes, half-breed!
+044	Hah! I thought I recognized that old squawk. You're the decrepit elf who drove Letitia and I from the mansion.	VO_zaharu.zaharu_sys_0010
+045	Foul creature of sin!
+046	Foul creature of sin!
+047	Foul creature of sin...
+048	Foul creature of sin...
+049	Foul creature of sin...
+050	May your sins claim you!
+051	Hah! Are these bitter voices meant to make me reflect on my supposed sins?	VO_zaharu.zaharu_sys_0007
+052	Haha... Mwahahaha!	VO_zaharu.zaharu_sys_0008
+053	Don't be absurd!
+054	I walk the path of righteous conquest, the path that leads to the new order!	VO_zaharu.zaharu_battle_0007
+055	Mine is the true path! The path that exists to destroy the present and establish a new age!
+056	Pronounce me guilty of sin if you wish, but there are those who carry with them my will, and in the new world they will be the ones to turn darkness into light!
+057	Corruption? Sin? Bah! Such trifles are nothing to the King of Darkness!	VO_zaharu.zaharu_sys_0008
+058	I will devour them!	VO_zaharu.zaharu_sys_0010
+059	Lord Zahar! Are you all—?
+060	Don't worry yourself, Letitia. This corruption is powerless before my might.	VO_zaharu.zaharu_sys_0004
+061	L-Lord Zahar, the corruption is... mirroring us.	VO_laetitia.laetitia_sys_0029
+062	Hah! Interesting... We have to fight ourselves?	VO_zaharu.zaharu_sys_0044
+063	Then come, corruption! Your powers—and the magic of the Obsidian Stars—will be mine!	VO_zaharu.zaharu_battle_0007

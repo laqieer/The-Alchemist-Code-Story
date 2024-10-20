@@ -1,0 +1,83 @@
+﻿001	Why would you do something like this? Why rob your fellow countrym—	VO_vetel.vetel_sys_0001
+002	Why?! Isn't that obvious? There's no other way to survive!
+003	This war has left us with nothing! No home, no family! Nothing! Everything is gone! We don't have any other choice!
+004	...!	VO_vetel.vetel_battle_0021
+005	Ah...	VO_vetel.vetel_sys_0042
+006	...I see. You were also victims of this war.	VO_vetel.vetel_sys_0016
+007	The fact that I couldn't stop this world from forcing you into a life of crime is my sin to bear.
+008	...But that doesn't mean I can overlook it when you inflict harm upon others.	VO_vetel.vetel_sys_0030
+009	Gh... Curses...
+010	It is the duty of Scarlet Flame Guard to watch over the citizens of Envylia, after all.
+011	Captain Vettel! We apologize for our delay! Are you unharmed?
+012	I'm all right, though I can't say the same for these folks. Please look after them.	VO_vetel.vetel_sys_0004
+013	Of course they must be punished for their crimes, but they are still citizens of Envylia even if they had to turn to a life of crime.
+014	Yes, sir!
+015	They had no other way to survive, huh? This country is still a long way away from recovery...	VO_vetel.vetel_sys_0031
+016	U-um, C-Captain Vettel!
+017	My apologies, I was lost in thought—are you injured?	VO_vetel.vetel_sys_0035
+018	I'm safe and sound. Thank you so much for helping me!
+019	That's a relief. Huh? Why are you crying?	VO_vetel.vetel_chara_1007
+020	Sniff... B-because you got injured on my behalf...
+021	Huh? This little thing? Don't worry about it. I barely noticed it. I'm just happy you're safe.	VO_vetel.vetel_sys_0045
+022	Truly?
+023	Truly. If anything, your tears make my heart ache more than this wound ever could. So chin up and give me your best smile!	VO_vetel.vetel_sys_0007
+024	Okay... I will!
+025	Much better. That's what I like to see.	VO_vetel.vetel_sys_0008
+026	What do you mean much better?! You big idiot!	VO_natalie.natalie_sys_0012
+027	O-ouch! Natalie! H-hold on a sec—!	VO_vetel.vetel_battle_0027
+028	No, you listen up! One wrong move and you could've been seriously injured!
+029	No matter how many people you were facing, the fact that mere bandits could injure you at all is proof that you're too tired to be doing this!	VO_natalie.natalie_sys_0030
+030	Haha... I can't hide anything from you. I guess I'm a little tired.
+031	...I'll give you some medicine to help with the fatigue, but could you try not to worry me into an early grave?	VO_natalie.natalie_sys_0022
+032	Seriously... This is exactly why I've been saying that you should let other knights take care of your patrols for a bit. You need some rest.
+033	I know I do, but going on patrol meant that I could take care of these bandits. So it's not like nothing good came out of it.	VO_vetel.vetel_sys_0030
+034	If that's what it takes to keep the city safe, then a little bit of exhaustion is nothing.
+035	If anything, going outside and seeing the people I do this for gives me strength. Knowing that I could keep them safe is better than any medicine.	VO_vetel.vetel_sys_0007
+036	...At least take one of the other guards with you then. You shouldn't keep trying to do this alone...	VO_natalie.natalie_sys_0016
+037	Are you still hung up on the time Nina collapsed?	VO_natalie.natalie_sys_0002
+038	Right, that time she overdid it after you appointed her as Vice-Captain... But that's a different story.
+039	...
+040	...No, I should've known Nina would overwork herself. That's just the way she is.	VO_vetel.vetel_sys_1050
+041	Vettel...
+042	Hello everyone! I'm back!
+043	Vettel?! Are you okay? I heard you got injured!	VO_chloe.chloe_sys_0002
+044	Haha, word spreads quickly around here! This is getting embarrassing... It's just a couple of scratches, so don't worry about it. You have a message for me, right?	VO_vetel.vetel_sys_0011
+045	Ah! Yes, I do! My apologies.	VO_chloe.chloe_sys_0004
+046	I would like to give you my report on the Crown's Guard's cooperation with the Blue Flame Guard.
+047	We successfully ensured that the king's coronation went off without a hitch. As did all related ceremonies.
+048	That's right. I heard even the king praised the Crown's Guard efforts. Excellent work.	VO_vetel.vetel_sys_0004
+049	Th-thank you!	VO_chloe.chloe_sys_0006
+050	What about your team, Nina?
+051	We're successfully cooperating with the others to lead Envylia down the road of recovery!	VO_neena.neena_sys_0037
+052	I haven't been Vice-Captain for too long, and I face some troubles being in this position as a therian...
+053	But Victor has been super helpful in getting everyone to fall in line!	VO_neena.neena_sys_0007
+054	Oh? Sounds like you were a big help, Victor.
+055	It's no big deal! We're all just doing our best to rebuild this country!	VO_victor.victor_chara_1002
+056	Everyone is working so hard. Even Ren is traveling all over this continent to keep an ear on the ground.	VO_natalie.natalie_sys_0004
+057	I heard. I actually got a letter from him the other day. He should be coming home soon.	VO_natalie.natalie_sys_1034
+058	It does me good to see how hard everyone is working. As your captain, I couldn't be prouder!	VO_vetel.vetel_sys_0023
+059	Haaa...	VO_chloe.chloe_sys_0030
+060	Chloe? Is everything okay?
+061	Y-yes! Couldn't be better!	VO_chloe.chloe_sys_0037
+062	Are you sure? You're looking a little pale.	VO_vetel.vetel_sys_0001
+063	Hn...	VO_chloe.chloe_sys_0025
+064	That goes for you too, Nina. You're a hard worker, but I don't want you to overdo it either.	VO_vetel.vetel_sys_0030
+065	Victor, too. Don't be reckless just because you're confident in your abilities. If something happens it'll be too late...	VO_vetel.vetel_sys_0031
+066	...
+067	What? Why are you all looking at me like that?
+068	...Look who's talking. You're the last person they want to hear that from.	VO_natalie.natalie_sys_0031
+069	...Ah.
+070	Excuse me, Captain! A fight broke out near the Wratharis border! The men in the area are not equipped to handle this alone. We need to send reinforcements!	VO_knightm.knightm_sys_0003
+071	Understood. I'll go.	VO_vetel.vetel_sys_0037
+072	Vettel, come on! We just talked about this!
+073	Don't worry, I can handle this much. Besides, I just wrapped up my patrol. I have the time.	VO_vetel.vetel_sys_1050
+074	The rest of you should head back to base and take some time to rest.
+075	...Uh-uhm, Captain Vettel!	VO_victor.victor_chara_1004
+076	Hmm?
+077	...	VO_victor.victor_sys_0016
+078	Never mind.
+079	We'll see you later. Be careful out there.
+080	Thanks, Victor. Well then, I'm just going to check in on the situation. Vice-Captain, I'll be leaving you in charge while I'm gone.	VO_vetel.vetel_sys_0004
+081	Understood!
+082	Sigh... Every time with this guy...	VO_natalie.natalie_sys_0022
+083	...Leaving us all to worry out here.	VO_victor.victor_sys_0022

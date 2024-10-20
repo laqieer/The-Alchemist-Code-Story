@@ -1,0 +1,87 @@
+﻿001	Urgh, ngh! G-get off of me, you fool!	VO_taras.taras_sys_0042
+002	That's my line, you lop-sided ape! Your oversized widget is hitting my—who-ho-hoa!	VO_edgar.edgar_sys_0018
+003	Ahem. People are free to have whatever hobbies they like, yes, and I don't judge, but...	VO_tango.tango_sys_0030
+004	Huh?	VO_edgar.edgar_sys_0013
+005	Don, this is the middle of the street. I don't think the citizens appreciate seeing this...display. The gang's gonna get laughed at for this.	VO_tango.tango_sys_0029
+006	Tango?! N-no! You've got this all wrong, you idiot! We didn't do this to ourse—	VO_taras.taras_sys_0025
+007	Hey! That girl! Where did she go?! The one with black hair and a katana!	VO_edgar.edgar_sys_0042
+008	It looks like she left the city. We followed her, but she was too fast for us.	VO_tango.tango_sys_0006
+009	Argh! All this trouble and she got away?!	VO_edgar.edgar_sys_0016
+010	We were able to get some clues about what that girl's looking for though. Hey.	VO_tango.tango_sys_0010
+011	Eek! D-don't hurt me!	VO_thiefm.thiefm_sys_0027
+012	She asked me 'bout the Mikaboshi, but all I told her was that I don't know anything!	VO_thiefm.thiefm_sys_0018
+013	The Mikaboshi?	VO_edgar.edgar_sys_0025
+014	You ignoramus. It's a stone in Wadatsumi that is said to have power comparable to the Sacred Stones.	VO_taras.taras_sys_0030
+015	Power comparable to the Sacred Stones?! Are you serious?!	VO_edgar.edgar_sys_0026
+016	If we had that, then...!
+017	If such a thing really existed, I would have already informed Miss Fiona about it.	VO_taras.taras_sys_0012
+018	The Mikaboshi has been lost since the age of the Lion Monarch's Charge. Don't you know anything?
+019	Excuse me?! Whatever! Why would she be looking for some ancient relic anyways?!	VO_edgar.edgar_sys_0013
+020	Hey! Tell them everything!	VO_tango.tango_sys_0002
+021	Eek! I told her th-there was another guy that came by asking the same questions. She...	VO_thiefm.thiefm_sys_0027
+022	She suddenly became so violent!
+023	Another guy? Who?	VO_edgar.edgar_sys_0025
+024	He said he was a Holy Guard knight from Lustburg!	VO_thiefm.thiefm_sys_0018
+025	That said, he had long hair and didn't have any armor on, so he didn't really look like a knight to me...
+026	A long-haired...Holy Guard knight?	VO_edgar.edgar_sys_0031
+027	Didn't you come to Lustburg in order to revive this stone?	VO_dios.dios_sys_0001
+028	It's him!	VO_edgar.edgar_sys_0042
+029	I told her he mentioned heading to Gluttony Foss, and then...	VO_thiefm.thiefm_battle_0019
+030	Th-that's it! That's all I told her! Please let me go!
+031	Tango, do me a favor, would you? Get this idiot off of me! I'm starting to get sick. Hey! Comb-head, are you listening?!	VO_taras.taras_sys_0002
+032	Gluttony Foss...	VO_edgar.edgar_sys_0031
+033	Like I said, the city's almost completely restored. If it wasn't, I wouldn't be here dawdling around.
+034	It's so nice to see people helping each other!	VO_lizbeth.lizbeth_sys_0045
+035	Well, once the queen allowed us to make compromises for each other, things just sort of worked themselves out.
+036	That's such good news! Now all I need to do is get Voda to teach me how to change the insects back to human form!	VO_lizbeth.lizbeth_sys_0024
+037	That's nice, but aren't things worse here in Saga than in Lustburg? Saga suffered more direct damage to infrastructure and—
+038	No worries! All the tribes that were quarrelling with each other have come together to help rebuild!	VO_lizbeth.lizbeth_event_1002
+039	I bet everything will be back to normal by the time you come to trade again!	VO_lizbeth.lizbeth_sys_0007
+040	In a month? I doubt... Well, sure. Why not? Anyway, next time I'm in town, I'll bring you news about Lustburg.
+041	Thanks! Oh! If you see Alma or Rebecca, let them know I'm doing great!	VO_lizbeth.lizbeth_sys_0004
+042	I've told you, I don't know who those people are. Good day.
+043	Thanks, Mister! Oh man, I can't wait to hear more about all my friends!	VO_lizbeth.lizbeth_battle_0018
+044	If you wish to know more about Lustburg's current affairs, I may be able to help.	VO_amane.amane_sys_0044
+045	Huh?	VO_lizbeth.lizbeth_sys_0005
+046	Eek?! S-since when were you standing there?!	VO_lizbeth.lizbeth_battle_1017
+047	You are Lisbeth Finn Lustburg, I presume?	VO_amane.amane_sys_0003
+048	Huh? Uh, y-yes! Nice to meet you!	VO_lizbeth.lizbeth_sys_0025
+049	Nice to...meet you.	VO_amane.amane_sys_0027
+050	Uhm, who are you?	VO_lizbeth.lizbeth_sys_0031
+051	Never mind who I am. I will tell you news of Lustburg in exchange for information on a man named Dias Elysion.	VO_amane.amane_sys_0010
+052	Information about Dias?	VO_lizbeth.lizbeth_sys_0026
+053	While in Lustburg, I heard that you were close to this man. Could you tell me more about him?	VO_amane.amane_sys_0037
+054	Um...
+055	What do you intend to do about him?	VO_lizbeth.lizbeth_sys_2048
+056	Do not fear. I mean you no harm. I just wanted information about him before I met him.	VO_amane.amane_sys_0007
+057	I... I can't.	VO_lizbeth.lizbeth_sys_0014
+058	What?	VO_amane.amane_sys_0025
+059	I don't want to! I don't even know who you are, so it would be wrong for me to tell you anything about Dias!	VO_lizbeth.lizbeth_sys_0040
+060	You are just like that blond man.	VO_amane.amane_sys_0030
+061	Huh?	VO_lizbeth.lizbeth_sys_0025
+062	Hmph. I cannot reveal my identity.	VO_amane.amane_sys_0010
+063	If you know too much about me, harm may come your way. That is not my intention.
+064	You're lying.
+065	Huh?
+066	You were concerned about how close Dias and I were... You like him, don't you?	VO_lizbeth.lizbeth_sys_0001
+067	As...a love interest? Really, it surprises me that you've survived these violent times with such a naive soul.	VO_amane.amane_sys_0012
+068	Naive? You think a person can't fall in love unless they're naive?	VO_lizbeth.lizbeth_battle_0020
+069	Whatever. I simply wanted to gather information on the man in case I needed a contingency plan. Sorry to bother you.	VO_amane.amane_sys_0017
+070	Are you running away?	VO_lizbeth.lizbeth_sys_0022
+071	What?	VO_amane.amane_sys_0025
+072	Are your feelings for Dias something you can just cast aside like that?	VO_lizbeth.lizbeth_sys_0002
+073	What are you...? I was simply trying to keep you from getting too invo—	VO_amane.amane_sys_0030
+074	It's fine. I just want you to know that I won't let myself be outshone by someone who runs away from their feelings!	VO_lizbeth.lizbeth_sys_0016
+075	...
+076	You're so flat, though...	VO_amane.amane_sys_0004
+077	Huh?	VO_lizbeth.lizbeth_sys_0025
+078	Your chest. You have a flat chest. How can you be so confident with such inferior assets?	VO_amane.amane_sys_0010
+079	I...!!! How dare—?!	VO_lizbeth.lizbeth_chara_1007
+080	Even if we were to become rivals in love, I will never be bested by the likes of you. You have the figure of a boy.	VO_amane.amane_sys_0008
+081	I-it's not like you have any, ahem, assets!	VO_lizbeth.lizbeth_battle_0019
+082	Excuse me?!	VO_amane.amane_sys_0025
+083	You're flat-chested, too! Who gives you the right to judge me?!	VO_lizbeth.lizbeth_sys_0010
+084	I am not flat-chested!	VO_amane.amane_battle_0019
+085	Liar! You can hide behind that armor, but I can tell from your figure!	VO_lizbeth.lizbeth_battle_0021
+086	I am most certainly not! I wear a binder to—what are you making me say?!	VO_amane.amane_sys_0016
+087	This is a fight I cannot lose!	VO_lizbeth.lizbeth_sys_0013

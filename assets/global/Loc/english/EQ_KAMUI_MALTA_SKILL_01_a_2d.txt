@@ -1,0 +1,51 @@
+﻿001	Yeah, you're looking good. Nutrition levels are also fine.	VO_malta.malta_sys_0004
+002	You're free to walk around outside now.	VO_malta.malta_sys_0007
+003	Yes! Thank you, Miss Malta!	VO_hisham-b.hisham-b_sys_0008
+004	Oh, but don't go overboard, okay? It hasn't been long since you came to our village, and injuries are bound to happen in an unfamiliar place, Hisham.	VO_malta.malta_sys_0016
+005	Aw, but I'm not stupid! I can take care of myself!
+006	I'm sure you can, but you just recovered. Don't ruin it and rest up, okay?	VO_malta.malta_sys_0014
+007	Okaaaay.	VO_hisham-b.hisham-b_sys_0016
+008	Very good.	VO_malta.malta_sys_0004
+009	Kamui and Isidore should be back from their Spiritbonding training soon. Let's get ready for lunch.	VO_malta.malta_sys_0002
+010	What about you, Miss Malta? You don't need to go train?	VO_hisham-b.hisham-b_sys_0002
+011	Hm?	VO_malta.malta_sys_0006
+012	I was just wondering. I mean, I thought it was like a big deal or something.
+013	That Spirit-something whatever? Isn't it the duty of the people of this village to train?	VO_hisham-b.hisham-b_sys_0031
+014	Well, well, you know quite a lot, don't you? Did Kamui tell you?	VO_malta.malta_sys_0044
+015	Don't you worry! No matter how much they train, I'm still the best Spiritbonder in the village!	VO_malta.malta_sys_0007
+016	What? No way!
+017	No joke. When it comes to Spiritbonding, not even Kamui is a match for me!
+018	Really? Are you exaggerating?	VO_hisham-b.hisham-b_sys_0002
+019	What's with that suspicious look? You don't believe me?	VO_malta.malta_sys_0012
+020	Well, I've seen what Kamui can do.	VO_hisham-b.hisham-b_sys_0012
+021	You know he can blow up a bunch of beasts in a flash? Like boom! Kablam!
+022	There can't be that many people who can do what he can.
+023	I'm just saying, Miss Malta, you don't really look that strong. Weren't you the one just telling me not to overdo it?	VO_hisham-b.hisham-b_sys_0031
+024	...
+025	(I'm kind of offended that this is how Hisham sees me!)
+026	(Even though I'm the oldest and smartest, and therefore the most deserving of respect! Hm... I know!)	VO_malta.malta_sys_0016
+027	Fine, fine. Then I'll prove it to you!	VO_malta.malta_sys_0038
+028	Huh?	VO_hisham-b.hisham-b_chara_1009
+029	Hey! Hisham, we're back! I hope you've been behaving yourself—	VO_ishido.ishido_sys_0005
+030	Both of you, get ready right now! I'm going on patrol with the two of you today!	VO_malta.malta_sys_0001
+031	...
+032	...What?	VO_ishido.ishido_sys_0006
+033	C'mon, let's go!	VO_malta.malta_sys_0002
+034	Don't worry, Hisham. There's nothing to fear when you're with me!	VO_malta.malta_sys_0007
+035	Ah, uh... Okay...
+036	Hisham, what's going on here?	VO_ishido.ishido_sys_0001
+037	Uh... I don't really know. She just got really fired up for some reason.	VO_hisham-b.hisham-b_sys_0031
+038	Something about being best Spiritbonder in the village?
+039	Ah...	VO_ishido.ishido_sys_0011
+040	Malta is pretty competitive...	VO_kamui-b.kamui-b_sys_0031
+041	I'm sure she hates anyone thinking she's not the best in her own field of expertise.	VO_kamui-b.kamui-b_sys_0007
+042	I mean... I appreciate the help, but to waste her talents on beast patrol? That seems like a little much...	VO_ishido.ishido_sys_0031
+043	Wait, what? Is Malta actually really strong?	VO_hisham-b.hisham-b_chara_1009
+044	Well, you'll see.	VO_ishido.ishido_sys_0005
+045	You can run...but you can't hide, not from me!
+046	Gyarr?!	VO_Mwolf.Mwolf_battle_0028_c
+047	Wh-where is it?
+048	She sensed the Alchemia of the beast, most likely.	VO_kamui-b.kamui-b_sys_0037
+049	Even you didn't sense it, Kamui? We're really outclassed here... We'd better train more...
+050	Seriously?!	VO_hisham-b.hisham-b_sys_0026
+051	The time of daylight is our blessing; time quickens, allows us the provision of this time and place—	VO_malta.malta_battle_0007

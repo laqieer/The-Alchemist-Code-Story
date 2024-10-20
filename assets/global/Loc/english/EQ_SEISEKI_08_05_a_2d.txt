@@ -1,0 +1,67 @@
+﻿001	Your Highness! Please, evacuate! The Greed Dike soldiers will be here any minute now...agh!!!	VO_courtmage.courtmage_battle_0022
+002	Excuse me. You must be Queen Venus Lustburg, correct?
+003	I will not exchange words with such ill-mannered people as you. What are you doing...hurry up and eliminate them.	VO_venus.venus_sys_0010
+004	Understood!	VO_courtmage.courtmage_sys_0032
+005	I would've preferred to carry out matters peacefully...but it seems like you would prefer otherwise.	VO_stknightm.stknightm_sys_0031
+006	Our magic doesn't work on them...!	VO_courtmage.courtmage_sys_0020
+007	Take them out!	VO_stknightm.stknightm_sys_0001
+008	Aghh!!!	VO_courtmage.courtmage_battle_0027
+009	...!	VO_venus.venus_sys_0027
+010	Our sole aim is that of obtaining Lustburg's Sacred Stone Asmodeus. It's not to take your life.
+011	If you hand it over obediently, we've been ordered by Emperor Orion to spare your life.
+012	Orion...that scum with his cheeky words! Die! You ingrates!!!	VO_venus.venus_sys_0012
+013	You uncouth fools! I must teach you the price of your undiscerning words...
+014	Honestly, you still don't get it, do you?	VO_stknightm.stknightm_sys_0030
+015	?!	VO_venus.venus_battle_0019
+016	Restrain her. Do not kill her until she's given up the location of Asmodeus.	VO_stknightm.stknightm_battle_0025
+017	My magic doesn't work...?! Is this some kind of special magic defense?! In that case...!	VO_venus.venus_sys_0027
+018	What are all these insects...?! What are you doing?!	VO_stknightm.stknightm_sys_0028
+019	Hmph. These is plenty of Alchemia within these creatures.	VO_venus.venus_sys_0010
+020	With them, you stand no chance against me, you Greed Dike scum...
+021	Ill Atmosphere!!!	VO_ortima.ortima_sys_0032
+022	Aghh!!!	VO_stknightm.stknightm_battle_0028_c
+023	They froze...?!	VO_venus.venus_sys_0025
+024	So you're willing to sacrifice your men in order to obtain power?	VO_ortima.ortima_chara_1005
+025	Who's there?!	VO_venus.venus_sys_0042
+026	That's not a good move, Your Highness. You're supposed to be protecting your people.	VO_ortima.ortima_sys_0030
+027	More importantly...since a state of emergency has been declared...it's our job to intercept Greed Dike on your behalf.
+028	You're that Paladin from the Holy Guard...!	VO_venus.venus_sys_0027
+029	Whoa! H-h-hey, hold on! Please, don't strip me naked again! Just for today, can we remove the ban on men?!	VO_ortima.ortima_battle_1028
+030	Your name was Othima, wasn't it? Why do only your abilities work on them?	VO_venus.venus_sys_0001
+031	Oh, no...actually, to be honest, it's not working.
+032	I just froze their magic defenses along with them.
+033	But...that's odd...	VO_ortima.ortima_chara_1011
+034	Odd...?	VO_venus.venus_sys_0025
+035	Yes. I've never seen such complete protection before.
+036	I mean, no matter what kind of defense method is used, it should inflict at least some level of damage.
+037	It's true. I've never encountered someone who my magic didn't work on.	VO_venus.venus_sys_0031
+038	Plus, these aren't even prototypes. They're just regular soldiers.	VO_ortima.ortima_sys_0031
+039	Does it mean that someone armed them with magic defenses?
+040	Your calm judgment...and your outstanding magic abilities...
+041	?!
+042	I am deeply impressed, Captain Othima.	VO_acht.acht_sys_0044
+043	Behind...?! Agh!!!	VO_ortima.ortima_battle_1028
+044	Who are you...?!	VO_venus.venus_sys_0027
+045	I am one of the Veda Templars...Acht, the 7 Tactics Master.. Thus, my allegiances lie with Greed Dike.	VO_acht.acht_chara_1001
+046	The Veda Templars...?!	VO_ortima.ortima_battle_1013
+047	You are the one who equipped those scum with magic defenses?	VO_venus.venus_sys_0012
+048	If magic won't work on you...then I'll hack you to death instead!	VO_venus.venus_battle_0004
+049	...Gauntlet.	VO_acht.acht_battle_0001
+050	An artificial arm...?! Not good!	VO_ortima.ortima_battle_1028
+051	Ack...! What kind of attack is this...?	VO_venus.venus_battle_0019
+052	No! Please stand back and leave this to me!	VO_ortima.ortima_battle_1013
+053	Don't get in my way! I must use them as fuel!	VO_venus.venus_sys_0027
+054	Right. You are attempting to use their Alchemia to your advantage.	VO_acht.acht_sys_0016
+055	What...?	VO_venus.venus_sys_0027
+056	Radiator.	VO_acht.acht_battle_0004
+057	...! She's going to burn them all! Run!!!	VO_ortima.ortima_battle_1028
+058	My men...!	VO_venus.venus_sys_0042
+059	Ack! Ill Atmosphere!!!	VO_ortima.ortima_battle_0019
+060	...!
+061	You froze all the bugs?! You...	VO_venus.venus_sys_0027
+062	I'm sorry, that's the best I could do. Please heal them properly later.	VO_ortima.ortima_sys_0035
+063	Oh dear. Since she switches her artificial arm, her attack style keeps changing as well. I can't grasp a pattern.	VO_ortima.ortima_sys_0022
+064	That being said, you said something that drew my interest just now.
+065	Veda...?	VO_acht.acht_sys_0004
+066	Like you've observed...I am from Lost Blue...just like you are.
+067	...!

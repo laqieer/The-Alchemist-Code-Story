@@ -1,0 +1,48 @@
+﻿001	...
+002	What's the point of this?
+003	Wratharis - Ruins of an Ancient Babel Civilization
+004	Hm? You're the one who was with Will earlier.	VO_magnus.magnus_sys_0005
+005	Why are you doing this?
+006	I don't owe you an explanation, do I?	VO_magnus.magnus_sys_0010
+007	I want to know!
+008	If you knew you would be dead by the end of the day...	VO_magnus.magnus_sys_0031
+009	...
+010	If—knowing that—you came across a bet that could win you a fortune...
+011	You'd take it, right?	VO_magnus.magnus_sys_0001
+012	You'd throw in every last coin you have on you.
+013	That's how I feel right now.	VO_magnus.magnus_sys_0007
+014	I don't...get what...you're saying.
+015	It's called a crapshoot.	VO_magnus.magnus_sys_0037
+016	How can you keep going, even though you know there's no future laid out before you?
+017	I've been standing still for long enough.	VO_magnus.magnus_sys_0031
+018	Even geniuses need exercise.
+019	Huh?
+020	I'm gonna show them what my mind is capable of.	VO_magnus.magnus_sys_0023
+021	I started this game.
+022	I'm the only one with anything to win or lose.
+023	Besides, it's not like I have time to think this over anymore.
+024	...
+025	You're late.	VO_magnus.magnus_sys_0002
+026	How...gallant of you to wait for us.	VO_stknightm.stknightm_sys_0044
+027	Well, I just figured that you were tired of chasing after me.	VO_magnus.magnus_chara_1010
+028	You know too much.	VO_stknightm.stknightm_sys_0007
+029	Don't worry. I haven't told anybody.	VO_magnus.magnus_sys_0010
+030	I'm holding all the cards.
+031	Wha—?! You...! How do you have that stone?!	VO_stknightm.stknightm_sys_0027
+032	It came from the ruins of an ancient civilization in Slothstein.	VO_magnus.magnus_sys_0031
+033	I stole it from an old friend of mine.
+034	This is pretty inconvenient for you, isn't it?	VO_magnus.magnus_sys_0012
+035	Hand it over!	VO_stknightm.stknightm_sys_0012
+036	No way.	VO_magnus.magnus_sys_0039
+037	The odds of winning at any game come down to how masterfully you can place your opponent at a disadvantage.
+038	What are you—?!	VO_stknightm.stknightm_battle_0022
+039	You should have planned for this.
+040	No! The stone...!	VO_stknightm.stknightm_sys_0026
+041	Looks like my calculations were correct. I thought that I could make it shatter if I imbued it with just the right level of Alchemia from this angle.
+042	Why you...!	VO_stknightm.stknightm_sys_0020
+043	Now Slothstein's stone is out of play.	VO_magnus.magnus_sys_0007
+044	Deal with it.
+045	Surround him! We must kill him at all costs.	VO_stknightm.stknightm_battle_0025
+046	We cannot afford to let him live.
+047	Come on, then. Try me.	VO_magnus.magnus_sys_0037
+048	I'm the root of all your problems.

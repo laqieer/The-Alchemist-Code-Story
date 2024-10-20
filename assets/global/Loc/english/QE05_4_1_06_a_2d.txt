@@ -1,0 +1,39 @@
+﻿001	Phew...	VO_logi-b.logi-b_sys_0022
+002	Hi, Logi! Are you done with your duties for today?	VO_agasa-b.agasa-b_sys_0001
+003	Yeah, I finished up just now. Have you gotten used to this place yet?	VO_logi-b.logi-b_sys_0037
+004	Well, there's still a lot that perplexes me. I suppose that's because I still can't remember anything.	VO_agasa-b.agasa-b_sys_0030
+005	But everybody's so nice to me! Tina in particular seems to really be concerned for me.	VO_agasa-b.agasa-b_favorite_0008
+006	I see.	VO_logi-b.logi-b_sys_1011
+007	You look...tired.	VO_agasa-b.agasa-b_sys_0006
+008	Not at all! Uh... Well, that's a lie. To tell you the truth, I am a bit worn out.	VO_logi-b.logi-b_sys_0039
+009	I still haven't heard from the Blue Tongues, the friends I've traveled with for so long.
+010	You mean since those blobs attacked?	VO_agasa-b.agasa-b_sys_0025
+011	Yeah. Even with Kamui's network, we can't seem to find them.	VO_logi-b.logi-b_sys_0004
+012	O-oh.	VO_agasa-b.agasa-b_sys_0022
+013	Uhm... Logi?
+014	Yeah?	VO_logi-b.logi-b_sys_0005
+015	I'm sure they're fine! I mean, I don't have any basis for saying that, but you just have to believe, right?	VO_agasa-b.agasa-b_favorite_0007
+016	Yeah... Yeah, you're right. Thanks, Agatha.	VO_logi-b.logi-b_sys_0033
+017	They're doing all right somewhere, and we'll soon be seeing each other again. So for now, I just have to do what I—
+018	Captain Logi! Where is Captain Logi?!
+019	I'm here!	VO_logi-b.logi-b_sys_0025
+020	What's the matter?	VO_logi-b.logi-b_sys_0006
+021	The scouts from the east have reported signs of a group that very well may be the Blue Tongues!
+022	Is that true?!	VO_logi-b.logi-b_sys_0024
+023	Yes, sir! It's just...we didn't get much out of the reporting scout before he passed out.
+024	The scouts seemed to have been attacked, and he was the only survivor. His wounds are quite serious.
+025	I have to go!	VO_logi-b.logi-b_sys_0027
+026	Captain Logi, wait!
+027	Don't stop me! My friends could be in danger as we speak!	VO_logi-b.logi-b_sys_0019
+028	I understand how you feel, but please, go see our boss first.
+029	He's already making preparations for a rescue after hearing the report.
+030	All right! Sorry, Agatha. I gotta go now.	VO_logi-b.logi-b_sys_0018
+031	Please be careful.	VO_agasa-b.agasa-b_sys_0005
+032	Kamui!
+033	Logi. Good, you're here.	VO_kamui.kamui_sys_0037
+034	The scouts were stationed in a ruin northeast of here.
+035	They all know how and when to retreat. For them to be decimated like this—
+036	Means such a threat could be facing the Blue Tongues!	VO_logi-b.logi-b_sys_0018
+037	We should hurry. We desperately need their strength.	VO_kamui.kamui_sys_0004
+038	Let's go!	VO_logi-b.logi-b_sys_0004
+039	Don't get in my way!	VO_logi-b.logi-b_battle_0019

@@ -1,0 +1,307 @@
+﻿001	Captain Cadanova! I-I'm sorry, I failed to fulfill my duties again!	VO_kanon_3s_cano.kanon_sys_0018
+002	Nngh... As if I could...let things end...this way! I will...never...!	VO_kanon_3s_cano.kanon_battle_0016
+003	Justice will reign! As long...as Excalibur holds!
+004	O-Orion... I... I will never...let you accomplish your goals!	VO_kanon_3s_cano.kanon_sys_0017
+005	Uhn...uhh...
+006	Y-Your Majesty?! Nngh!	VO_kanon_3s_cano.kanon_sys_0018
+007	The Emperor still...lives! S-somebody, please! Medic!
+008	What is this? What happened here?!	VO_kagura_3s_kagu.kagura_sys_0025
+009	To have brought such a large force, Greed Dike must be serious about taking Northern Pride down today!	VO_reimay.reimay_sys_0027
+010	Even so, how can Northern Pride be so overwhelmed?!	VO_kagura_3s_kagu.kagura_sys_0022
+011	Our homeland is defended by the elite among the Holy Guard.
+012	Our forces should be able to match Greed Dike's army, no matter their number!
+013	Would you like to know why your situation is so dire?	VO_neun.neun_sys_0006
+014	Huh...?!	VO_kagura_3s_kagu.kagura_sys_1047
+015	Get back!	VO_reimay.reimay_sys_0026
+016	Urgh!	VO_reimay.reimay_battle_0019
+017	Northern Pride wasn't the one that hired us, that's the difference! Gwahahah!	VO_neun.neun_battle_0007
+018	You're one of Sol's...	VO_kagura_3s_kagu.kagura_sys_0026
+019	Who is this guy?	VO_reimay.reimay_sys_0001
+020	He's one of the Templars, a mercenary hired by Greed Dike!	VO_kagura_3s_kagu.kagura_sys_0042
+021	Templars?	VO_reimay.reimay_sys_0006
+022	Hey, samurai. It's impressive you can parry my attack, but...	VO_neun.neun_sys_0003
+023	Wha—?!
+024	He's gone?!	VO_kagura_3s_kagu.kagura_sys_0025
+025	Agh! Ughh!	VO_reimay.reimay_battle_0022
+026	Reimei!	VO_kagura_3s_kagu.kagura_sys_0027
+027	Ha, idiot. If you hadn't awkwardly tried to dodge, you could have died without writhing in pain like this.	VO_neun.neun_sys_0030
+028	Urgh, he's...so fast!	VO_reimay.reimay_battle_0024
+029	So, you're Kagura, right? I've been looking for you.	VO_neun.neun_sys_0001
+030	For me? Why?!	VO_kagura_3s_kagu.kagura_sys_0025
+031	I haven't done anything worthwhile in this fight yet.	VO_neun.neun_sys_0005
+032	I can't let Sol have all the fun!
+033	Fun...?	VO_kagura_3s_kagu.kagura_sys_1047
+034	I need to kill at least one captain to satisfy my bloodlust!	VO_neun.neun_sys_0010
+035	I don't care which one, but...you seem to be the only one left.
+036	I'll get to be the one with the last major kill!	VO_neun.neun_sys_0008
+037	Wh-what?! This isn't a game!	VO_kagura_3s_kagu.kagura_battle_0019
+038	I'm not playing around! Aren't you the one who ruined the Matter for us? That was supposed to be our payment!	VO_neun.neun_sys_0016
+039	We were gonna seek you out and kill you no matter what!	VO_neun.neun_sys_0007
+040	I'd like to see you try!	VO_kagura_3s_kagu.kagura_sys_1017
+041	R-run...	VO_reimay.reimay_battle_0021
+042	Huh?	VO_kagura_3s_kagu.kagura_sys_0025
+043	H-he's on...a whole other level... He'll...k-kill you!	VO_reimay.reimay_battle_0020
+044	Your warning comes a little too late.	VO_neun.neun_battle_0001
+045	Wha—?!
+046	Your death will make a nice souvenir.	VO_neun.neun_sys_0032
+047	Wh-wha—?	VO_kagura_3s_kagu.kagura_sys_0027
+048	Huzzzaaaaahh!!!	VO_basini.basini_battle_0004
+049	What the—?!
+050	Tch! He's caught up already?!	VO_neun.neun_battle_0019
+051	Captain Kagura! Are you all right?! Who is this guy?	VO_basini.basini_sys_0001
+052	Basheeny! This is Reimei. He kept me safe while I was travelling from the Desert Zone to come here.	VO_kagura_3s_kagu.kagura_sys_0042
+053	Uh...okay. Anyway, you should go on ahead. I have fought this man before and I know how to handle him.	VO_basini.basini_sys_0045
+054	Leave him to me, and head to the castle!
+055	The castle?	VO_kagura_3s_kagu.kagura_sys_0025
+056	Orion was seen marching in alone!	VO_basini.basini_sys_1019
+057	The Sacred Stone Lucifer and the Emperor are in danger! Please hurry!
+058	Got it!	VO_kagura_3s_kagu.kagura_battle_0019
+059	You brat! Get back here!	VO_neun.neun_sys_0016
+060	Flying Gear Assault!!!	VO_basini.basini_battle_0001
+061	Gnh! You?!	VO_neun.neun_sys_0043
+062	You're gonna have to go through me first!	VO_basini.basini_sys_0010
+063	Captain Kagura! Before you go, I have to know one thing.	VO_basini.basini_sys_0014
+064	Huh?	VO_kagura_3s_kagu.kagura_sys_1047
+065	I've heard that Captain Othima and Seida have...passed away. Is this true?	VO_basini.basini_sys_0001
+066	It is.	VO_kagura_3s_kagu.kagura_sys_0018
+067	I...see.	VO_basini.basini_sys_0027
+068	You should hurry! Reimei, was it? Please look after Captain Kagura!	VO_basini.basini_sys_0018
+069	Tch! There's no turning back now! We've gotta go!	VO_reimay.reimay_sys_0016
+070	Basheeny! You'd better survive this!	VO_kagura_3s_kagu.kagura_sys_0041
+071	As if I'd let you escape!	VO_neun.neun_sys_0032
+072	Grnh?! Why you little...!	VO_neun.neun_battle_0019
+073	We meet again... This won't be like the last time we fought. I've found the key to defeating you.	VO_basini.basini_sys_0007
+074	You may be imperceptibly fast, but I can still catch the moment you take action.
+075	Urgh...	VO_neun.neun_sys_0025
+076	I'm counting on you, Captain Kagura! Huzzaaahh!!!	VO_basini.basini_sys_0018
+077	Haaa... Haaa...	VO_spica.spica_battle_0019
+078	Sh-she's...?!	VO_miuna.miuna_sys_1028
+079	She's too strong!	VO_kazahaya.kazahaya_battle_0022
+080	Tell me. Has Captain Kagura of the 5th Regiment not yet returned?	VO_acht.acht_sys_0001
+081	Captain Kagura?	VO_kazahaya.kazahaya_sys_0025
+082	What do you want with her?	VO_miuna.miuna_sys_0025
+083	She is the one who destroyed what we were owed... The Matter.	VO_acht.acht_sys_0030
+084	Ha! So Captain Kagura was able to prevent you from plundering the Matter!	VO_kazahaya.kazahaya_sys_0007
+085	Whoa!	VO_kazahaya.kazahaya_battle_0025
+086	Perhaps this is amusing to you, but this is no laughing matter for us.	VO_acht.acht_sys_0012
+087	Obtaining the Matter was Sol's primary objective.
+088	We were at the brink of accomplishing that objective, and Kagura took it away from us. I will never forgive her.	VO_acht.acht_sys_0013
+089	This Sol... He is dear to you, isn't he?	VO_spica.spica_sys_0001
+090	He is. When I was orphaned by war, I had lost all purpose in life. Sol was the one who gave me hope for the future.	VO_acht.acht_sys_0004
+091	Sol is my sunshine. He is the reason I live. I'm sure you wouldn't understand.
+092	I do understand. Wanting to dedicate yourself to the person that gave you meaning in life? That is a feeling I truly understand.	VO_spica.spica_sys_0039
+093	You are the first person to say so. I am...pleased... However...	VO_acht.acht_sys_0007
+094	I cannot waste any time here. You will now die.	VO_acht.acht_battle_0012
+095	Uh-oh! Here she comes!	VO_kazahaya.kazahaya_battle_0020
+096	Wha—?!
+097	That's a cold weapon you've got there.	VO_miuna.miuna_sys_0029
+098	There's no way such a heartless weapon can beat mine! I made this weapon with my blood and soul!	VO_miuna.miuna_sys_0010
+099	Miuna!
+100	As a weaponsmith, it's my duty to make you understand that weapons are made to protect people!	VO_miuna.miuna_battle_0012
+101	Finally.	VO_orione.orione_sys_0030
+102	How many years has it been since I began this quest? How many have I slain along the way?
+103	Hmph. None of that matters now that I stand here on this ground.	VO_orione.orione_sys_0007
+104	Halt, Orion, you degenerate usurper! You are surrounded! Give yourself up!	VO_stknightm.stknightm_sys_0001
+105	The Leviathan of Envylia, the Matter of Saga, and the Mikaboshi of Wadatsumi have each been disabled.	VO_orione.orione_sys_0031
+106	Mammon of Greed Dike is mine, and now...
+107	Now Lucifer of Northern Pride is within my grasp!
+108	Surely the balance of power in this world cannot be any more destabilized than it is at this point!
+109	Tch! Did you not hear me?! Lay down your weapon or else—	VO_stknightm.stknightm_sys_0042
+110	Enough.	VO_orione.orione_sys_0029
+111	Wh-what is that thing?!	VO_stknightm.stknightm_sys_0026
+112	Aaaaahh!!!
+113	Nameless warriors, there is no need to lament. Your sacrifices will be the foundation of a new world.	VO_orione.orione_sys_0007
+114	The time has come! A new era is now upon us!
+115	O ancient tower of desires, show yourself to this world once more!
+116	Th-the Sacred Stones are...glowing?!	VO_stknightm.stknightm_sys_0046
+117	Look there! Is that...the Tower of Babel?!	VO_stknightm.stknightm_sys_0027
+118	Hahaha! I knew you were anticipating this moment as well!	VO_orione.orione_sys_0008
+119	Now, make your path to resurrection apparent!
+120	Founder of Alchemy, Nimul... Descend unto my being!
+121	Nnrgh...	VO_kanon_3s_cano.kanon_battle_0016
+122	Lord Commander Kanon!	VO_stknightm.stknightm_sys_0018
+123	Wh-where is Orion?	VO_kanon_3s_cano.kanon_sys_0018
+124	My apologies! We could not stand against his overwhelming power as he made his way toward the Babel Ruins!	VO_stknightm.stknightm_battle_0022
+125	Ngh...! N-no! We must s-stop him!	VO_kanon_3s_cano.kanon_sys_0042
+126	Lord Commander! Medic, over here! Hurry!	VO_stknightm.stknightm_sys_0018
+127	Never mind me! Get to the more seriously wounded first!	VO_kanon_3s_cano.kanon_sys_0017
+128	Kanon!	VO_kagura_3s_kagu.kagura_battle_0019
+129	K-Kagura?!	VO_kanon_3s_cano.kanon_battle_0016
+130	Are you okay?! Where is Orion?!
+131	He took Lucifer and headed to the Babel Ruins.	VO_kanon_3s_cano.kanon_sys_0018
+132	He took Lucifer?! What about the Emperor?!	VO_kagura_3s_kagu.kagura_sys_0025
+133	Medics are caring for him now. His wounds are deep, but they're not life-threatening.	VO_kanon_3s_cano.kanon_sys_0042
+134	Then...all is not yet lost.	VO_kagura_3s_kagu.kagura_sys_0022
+135	The Lion Monarch Orion... His aim is to topple this world from its foundations!	VO_reimay.reimay_sys_0030
+136	Conflicts within this continent mean nothing to him. He doesn't even blink at killing the leader of this suzerain nation.
+137	You are...Chihaya's...	VO_kanon_3s_cano.kanon_sys_0026
+138	Hey, it's been a while.	VO_reimay.reimay_sys_0001
+139	You two...know each other?	VO_kagura_3s_kagu.kagura_sys_1047
+140	We met once before, in Wadatsumi. It was before I started working with Kudanstein.	VO_reimay.reimay_sys_0004
+141	You were with Captain Kudan?!	VO_kanon_3s_cano.kanon_sys_0026
+142	For a while after Wadatsumi, yeah. By the way...I heard Kudanstein has returned to this world.	VO_reimay.reimay_sys_0045
+143	Did you have anything to do with that?	VO_reimay.reimay_sys_0002
+144	H-how do you know about that?!	VO_kanon_3s_cano.kanon_sys_0021
+145	I'm the one asking questions here.	VO_reimay.reimay_sys_0001
+146	As far as I know, that's just hearsay. There has been no chance for me to confirm that rumor.	VO_kanon_3s_cano.kanon_sys_0030
+147	It's the truth. I was saved by him just recently.	VO_kagura_3s_kagu.kagura_sys_0030
+148	By Captain Kudan?!	VO_kanon_3s_cano.kanon_sys_0025
+149	Kanon... Have you heard about Captain Othima and Seida?	VO_kagura_3s_kagu.kagura_sys_0018
+150	I have. That they...passed away. Is it true?	VO_kanon_3s_cano.kanon_sys_0042
+151	I'm...sorry.	VO_kagura_3s_kagu.kagura_sys_0018
+152	No!
+153	Captain Othima and Seida were both trying to save me.	VO_kagura_3s_kagu.kagura_sys_0019
+154	They gave their lives to... to...!
+155	There's no need to cry, Kagura.	VO_kanon_3s_cano.kanon_battle_0017
+156	Huh...?	VO_kagura_3s_kagu.kagura_sys_1047
+157	They are both alive within your heart, aren't they?	VO_kanon_3s_cano.kanon_sys_0001
+158	Wha—?!
+159	The fact you survived and made it this far is proof enough that their will lives on within you.	VO_kanon_3s_cano.kanon_battle_0017
+160	No matter how hard things get, we have to keep our eyes on the future. For their sake.
+161	You're right.	VO_kagura_3s_kagu.kagura_sys_0018
+162	I was about to be killed along with Captain Othima and Seida, but that's when Kudan came and...
+163	Wha—?!
+164	If Kudan had not arrived when he did, I would surely be dead now.	VO_kagura_3s_kagu.kagura_sys_0005
+165	Captain Kudan...? But why?	VO_kanon_3s_cano.kanon_sys_0021
+166	I don't know why he saved me. He even said he had no obligation to do so.	VO_kagura_3s_kagu.kagura_sys_0030
+167	He really can't be honest with himself, can he?	VO_reimay.reimay_sys_0030
+168	Anyway, this is no time to discuss this. We can talk later! Kagura, come with me to the Babel Ruins!	VO_kanon_3s_cano.kanon_sys_0042
+169	Orion has the Sacred Stone Lucifer!	VO_kagura_3s_kagu.kagura_sys_0025
+170	He plans to awaken the Tower of Babel, that which paves the path for Nimul's resurrection!	VO_kanon_3s_cano.kanon_sys_0004
+171	We must hurry!	VO_kagura_3s_kagu.kagura_battle_0019
+172	And...? What are you going to do? Destroy the Sacred Stones?	VO_sol.sol_sys_0044
+173	Who's there?!
+174	That voice...came from that guy all in black over there?	VO_reimay.reimay_sys_0027
+175	N-no...!	VO_kagura_3s_kagu.kagura_sys_0027
+176	Who is he? Do you know him?	VO_kanon_3s_cano.kanon_sys_0018
+177	It's...S-Sol!	VO_kagura_3s_kagu.kagura_sys_0018
+178	Wh-what?!	VO_kanon_3s_cano.kanon_sys_0026
+179	Urgh...!	VO_basini.basini_battle_0025
+180	I thought you said you were getting used to my speed. Don't make me laugh! I'm here to kill someone ranked Captain or higher! You're not worth my time!	VO_neun.neun_sys_0016
+181	I'm not worth your time? I'll prove you wrong!	VO_basini.basini_sys_0018
+182	What?	VO_neun.neun_sys_0025
+183	Urgh! Why, you little...	VO_neun.neun_sys_0027
+184	If I couldn't learn from the past, I wouldn't be able to face Captain Othima again!	VO_basini.basini_sys_1019
+185	I can't disappoint him—bless his soul—by losing to the likes of you!
+186	You...actually managed to...wound me.	VO_neun.neun_battle_0019
+187	He's gone?!	VO_basini.basini_sys_0025
+188	You really shouldn't have done that.	VO_neun.neun_sys_0032
+189	He's faster than before?! Whoa!	VO_basini.basini_sys_0020
+190	I'll shred you to pieces, brat!	VO_neun.neun_battle_0012
+191	Huzzzaaaaahh!!!	VO_victor.victor_battle_0007
+192	What?!
+193	Ack!	VO_neun.neun_sys_0026
+194	Hey, hey, hey! It's not like you to get beaten so badly!	VO_victor.victor_sys_0030
+195	Little frog?!	VO_basini.basini_sys_0006
+196	Stop calling me a frog!	VO_victor.victor_sys_0012
+197	Hmph! You think another kid in the fight is gonna change anything? Fools!	VO_neun.neun_chara_1004
+198	Behind me?!	VO_basini.basini_sys_0025
+199	Wh-whoa!	VO_victor.victor_sys_0028
+200	Some of us aren't kids anymore.	VO_vetel.vetel_sys_0010
+201	Urgh! Another one?!	VO_neun.neun_battle_0019
+202	We are the Scarlet Flame Guard of Envylia! We will now join the battle in support of the Holy Guard!	VO_vetel.vetel_battle_0030
+203	Soldiers of Greed Dike, prepare yourselves!!!
+204	Captain Vettel! Chloe!	VO_basini.basini_sys_0009
+205	We finally managed to subdue the Greed Dike forces in Envylia.	VO_chloe.chloe_sys_0007
+206	I apologize for the delay. We came as soon as we could to help!
+207	Th-thank you so much! This is definitely the boost we needed!	VO_basini.basini_sys_0033
+208	There's no need to thank us. Had Captain Monzein not been there to help us...	VO_vetel.vetel_event_1015
+209	Our country would be in complete ruin by now.
+210	It's only right that we would come to help during Northern Pride's time of need.
+211	Paladins of the Holy Guard, hear me!	VO_vetel.vetel_chara_1007
+212	Knights of Lustburg and Gluttony Foss are on their way, along with even more soldiers of a few other countries!
+213	Do not lose hope! We can and will drive back Greed Dike's forces! Hold fast, and victory will be ours!	VO_vetel.vetel_sys_0007
+214	This must be what Commander Kanon and Captain Monzein were talking about!	VO_basini.basini_sys_0045
+215	What?	VO_victor.victor_sys_0006
+216	Little frog, I finally understand.	VO_basini.basini_sys_0010
+217	This is what they meant when they said that caring for others is what gives us strength!
+218	Heh, nice. You finally get it. Also, stop calling me a frog.	VO_victor.victor_sys_0010
+219	Aaaaahh!!!
+220	!!!
+221	How long do you all intend to stand around and chat?	VO_neun.neun_sys_0013
+222	You really think the lot of you can defeat us? You, who have known nothing but lives of comfort and ease?	VO_neun.neun_sys_0040
+223	He's preparing to attack! Everybody watch out!	VO_chloe.chloe_battle_0022
+224	You've all ticked me off! I'm going to kill—!	VO_neun.neun_battle_0011
+225	Wh-what the...? What is he looking at?	VO_victor.victor_sys_0006
+226	Tch! Took you long enough!	VO_neun.neun_chara_1004
+227	Huh?	VO_chloe.chloe_sys_0025
+228	I'll kill you later. Just you wait.	VO_neun.neun_sys_0003
+229	Wha—?!
+230	He...ran away?	VO_victor.victor_sys_0025
+231	Captain Vettel, I'm going after him!	VO_basini.basini_battle_0019
+232	Right! We'll cover you! Knights, raise your swords! This is the battle that will decide the fate of this world!	VO_vetel.vetel_sys_0037
+233	We just received reports that the Scarlet Flame Guard have arrived from Envylia to support us!	VO_kazahaya.kazahaya_battle_0019
+234	Not only that, but knights from other countries are on their way as well!
+235	Looks like the wind's blowing in our favor. What are you going to do? Keep this up and you'll...	VO_miuna.miuna_sys_0024
+236	...
+237	Um, are you listening?	VO_miuna.miuna_sys_0001
+238	The fair wind is still on our side.	VO_acht.acht_sys_0007
+239	Huh?	VO_spica.spica_sys_0025
+240	It is settled. We have won. All of you should surrender for your own good.	VO_acht.acht_sys_0030
+241	What?! What are you talking about? We just said knights from around the world are headed this way.	VO_miuna.miuna_sys_0025
+242	There's no way you can win.
+243	It's not about numbers.	VO_acht.acht_sys_0016
+244	The fate of this world was sealed the moment he arrived.	VO_acht.acht_sys_0007
+245	Who?	VO_kazahaya.kazahaya_sys_0005
+246	No... You can't mean...	VO_spica.spica_chara_1009
+247	A new future is about to be created. Take pride in knowing you will bear witness to the birth of a new era.	VO_acht.acht_sys_0008
+248	She's gone?!	VO_kazahaya.kazahaya_sys_0025
+249	Miuna!	VO_spica.spica_battle_0019
+250	I know! Let's go after her!	VO_miuna.miuna_sys_0004
+251	Hey, redhead. We're in a tight spot because of what you did to the Matter. Do you understand?	VO_sol.sol_sys_0001
+252	Urgh...	VO_kagura_3s_kagu.kagura_battle_0019
+253	He's Sol? As in...	VO_kanon_3s_cano.kanon_sys_0026
+254	As in the leader of the Templars?!	VO_kagura_3s_kagu.kagura_sys_0018
+255	He's the one who killed Captain Yauras! He killed Captain Othima and Seida, too!
+256	Wha—?!
+257	You speak as though I'm some murderer. You lot started this, remember?	VO_sol.sol_sys_0012
+258	The leader of the Templars?!	VO_stknightm.stknightm_sys_0026
+259	He's the one that killed our Captains?!	VO_stknightm.stknightm_sys_0020
+260	A wise man sees his neighbor's residence on fire and checks his own hearth.	VO_sol.sol_sys_0010
+261	Huh?
+262	It means it would be wise to pluck the buds of distress before they bloom. I won't let you derail our plans again, redhead.	VO_sol.sol_sys_0007
+263	I'll kill you first.	VO_sol.sol_battle_0001
+264	You're not going to steal Lucifer in place of the Matter, are you?!	VO_kanon_3s_cano.kanon_sys_0026
+265	Of course I will. Mercenaries don't work for free.	VO_sol.sol_sys_0004
+266	We won't let you!	VO_stknightm.stknightm_battle_0022
+267	He's only one man! Get him!	VO_stknightm.stknightm_battle_0025
+268	S-stop! No!	VO_kagura_3s_kagu.kagura_sys_0027
+269	...Bang.	VO_sol.sol_battle_0004
+270	Aaaaahh!!!
+271	No!!!
+272	What the hell was that?!	VO_reimay.reimay_sys_0026
+273	He can cause explosions at will. Don't rush him without a plan!	VO_kagura_3s_kagu.kagura_battle_0019
+274	Don't worry, I don't plan to blow everything up indiscriminately. I just need you to die.	VO_sol.sol_sys_0010
+275	You...!	VO_kagura_3s_kagu.kagura_sys_0042
+276	We won't let you take her!	VO_kanon_3s_cano.kanon_sys_0042
+277	Get out of my way. I'd rather not kill women if I can avoid it.	VO_sol.sol_sys_0016
+278	I won't move! As the Lord Commander, I cannot let your barbarity continue!	VO_kanon_3s_cano.kanon_sys_0017
+279	Lord...Commander?	VO_sol.sol_sys_0027
+280	Kanon, you have to go! The situation at the Babel Ruins—!	VO_kagura_3s_kagu.kagura_sys_0025
+281	If we don't stop him here, he'll make his way to the Babel Ruins as well!	VO_kanon_3s_cano.kanon_battle_0016
+282	It would be better to take care of him here than to risk having him join Orion!
+283	So... You are Kanon. You're younger than I thought.	VO_sol.sol_sys_0020
+284	I guess there's no avoiding it. We Templars share a bond that was forged in steel.
+285	You caused the death of one of our own. I cannot allow you to live.
+286	Sorry, but you're going to die with the redhead there.	VO_sol.sol_sys_0010
+287	Can you do that without a head on your shoulders?	VO_reimay.reimay_sys_0044
+288	Reimei?!	VO_kagura_3s_kagu.kagura_sys_1047
+289	When did he sneak up on him?!	VO_kanon_3s_cano.kanon_sys_0025
+290	Didn't your parents teach you that it's dangerous to point a blade at someone?	VO_sol.sol_battle_1017
+291	Sorry, but I'm an assassin. I get paid to point blades at people. By the way, I have a question for you, too.	VO_reimay.reimay_sys_0010
+292	And what would that be?	VO_sol.sol_sys_0044
+293	I heard you fought against Kudanstein.	VO_reimay.reimay_sys_0004
+294	If you're here, does that mean you killed Kudanstein?	VO_reimay.reimay_sys_0002
+295	Kudanstein? He was a tiring one to deal with. I'll leave it up to your imagination.	VO_sol.sol_sys_0016
+296	In that case...your time's up.	VO_reimay.reimay_sys_0012
+297	Wh-where did he go?!	VO_reimay.reimay_sys_0026
+298	I forgot to tell you. I'm pretty confident about my speed as well.	VO_sol.sol_sys_0010
+299	How did he get...?	VO_reimay.reimay_sys_0025
+300	Agh! Gah!	VO_reimay.reimay_battle_0023
+301	Reimei!
+302	Reimei!!!	VO_kagura_3s_kagu.kagura_battle_0019
+303	I'll say it one last time. I only need you to die. No one else.	VO_sol.sol_sys_0002
+304	Urgh!	VO_reimay.reimay_battle_0022
+305	Wha—?!
+306	Are you prepared to die?	VO_sol.sol_battle_0007
+307	Ugh!	VO_kanon_3s_cano.kanon_battle_0016

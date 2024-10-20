@@ -1,0 +1,31 @@
+﻿MOVE	You can move by tapping somewhere in the blue grid.<br>Trying moving right in front of Dias.
+MOVE2	You can also move using the virtual joystick that appears<br>when you place your finger on the screen.
+ATTACK_TARGET_DESC	The red area represents the attack range.<br>Units that can be attacked within the attack range will have<br>"<b>Attack</b>" displayed.
+NORMAL_ATTACK_DESC	For attacks there are standard attacks and attacks with Abilities.<br>The red button is for standard attacks.
+ABILITY_DESC	The blue button is for Abilities.<br>Units with Abilities can use various attack skills.
+EXEC_NORMAL_ATTACK1	Let's try tapping the "Basic Shield" button to do an ability on Dias.
+EXEC_NORMAL_ATTACK2	Tap the "<b>OK</b>" button to attack.
+SELECT_DIR	Let's decide the direction to face by tapping the direction.<br>It's important to not have your back facing the enemy.<br>
+START_FREE_OPERATION	Let's defeat Dias.
+ATTACK	You can attack Dias by tapping the "<b>ATTACK</ b>" icon above his head.
+ATTACK2	Tap OK to start attacking.
+SETDIR	Tap an arrow to choose which direction Logi faces while waiting for his next turn.
+MOVE3	If you act without moving, you can also move after the action.
+PARTY	You can switch units by tapping another unit's icon.
+BACKSTAB	When you attack from behind, you can give more damage than usual. Try using Logi to defeat Vlad.
+JOB	Each job has different strengths. Use them to your<br>advantage in order to beat General Neville.
+PRIEST	Certain jobs like Crafter, Hunter, and<br>Sniper can perform ranged attacks. <br>Use them to defeat enemies from afar.
+WARRIOR	Soldiers excel in close combat with their good balance <br>of offense and defense.<br>Use them in the front lines.
+KUNREN01_1	Defeat the Rattys on the other side of the wall.
+KUNREN01_2	If archers are positioned on higher ground, they can attack in a wider area. <br>Position them on rooftops to defeat far enemies.
+KUNREN02_1	Deal massive damage by battling with the right elements to your advantage.<br>Try to use the water element "Blizzard" on fire-type Rattys.
+KUNREN02_2	The thunder element "Spark" against water-type Rattys is effective.<br>Control your unit's cast time so they don't run away.
+KUNREN03_1	Samurai uses Slash ATK. Predict the amount of damage <br>and defeat the enemies weak against Slash ATK.
+KUNREN03_2	Gunner uses Missile ATK. Predict the amount of damage <br>and defeat the enemies weak against Missile ATK.
+KUNREN04_1	The higher the AGI, the quicker it is for the Unit's next turn.<br>Watch for the fast Red Wolf's turns.
+KUNREN04_2	If you don't move and continue attacking, the next turn will come sooner. <br>Guard against the Red Wolf's multiple attacks.
+KUNREN05_1	Use the Chemist's "Vaccine" to protect against Poison or Sleep.<br>The effect lasts for three turns.
+KUNRENSP_1	Try various attacks against the trial enemy units.<br>To exit, step on the green panel.
+KUNRENSP_2	Get "Moon Star Armor Shards" in this quest.<br>Set up your team and get shards by defeating all enemies.
+NAV_CONFIRM	Listen to instructions
+NAV_CANCEL	Don't need instructions

@@ -1,0 +1,33 @@
+﻿001	Ah, I can hear his music! I should go and see him.	VO_nazario.nazario_chara_1003
+002	Leon. You came back.
+003	Ah, you're that high-elf—Nasario, was it? You came all the way out here to see me, huh?	VO_lion.lion_sys_0012
+004	Yes. Your music has a very unique sound, so I knew it was you right away.	VO_nazario.nazario_sys_0006
+005	What instrument is that? I've never seen anything like it.	VO_nazario.nazario_sys_0004
+006	This is the most recent addition to my collection. It has an interesting history.	VO_lion.lion_sys_0008
+007	It is said that whoever plays this instrument will stub their little toe on the corner of a dresser.
+008	And has that happened to you?	VO_nazario.nazario_sys_0025
+009	Not yet. I'm looking forward to it.	VO_lion.lion_chara_1021
+010	You are a very odd man.	VO_nazario.nazario_sys_0030
+011	You seem like the type of fellow who is always visiting different cities and towns. Tell me, bard, why do you strum away at instruments?	VO_nazario.nazario_sys_0001
+012	You've decided to start listening to what others have to say, huh?	VO_lion.lion_sys_0012
+013	I felt that it was something that I ought to do. The last time we met, I was...arrogant.	VO_nazario.nazario_sys_0006
+014	I meant to show you pity, yet I did not consider your feelings at all.	VO_nazario.nazario_sys_0036
+015	So, now you want to ask me questions. Is that it?	VO_lion.lion_sys_0044
+016	An elf with true pride does not show one-sided pity. Rather, they do what they can to understand the other party's circumstances, the better to show them compassion.	VO_nazario.nazario_sys_0006
+017	Hmph. I suppose it can't be helped that I'm pitied.	VO_lion.lion_sys_0007
+018	For a half-blood like me, even going into a human town causes shame. It makes you feel inferior for having elf blood.	VO_lion.lion_sys_0031
+019	Is that why you come to this forest to perform?	VO_nazario.nazario_sys_0045
+020	It is. On the day we met, I came here to play my new instrument.	VO_lion.lion_sys_0030
+021	The forest is nice and quiet. Maybe the reason I like it here so much is because of my elf blood.
+022	I see.	VO_nazario.nazario_sys_0031
+023	However, if my music is offensive to the high-elf ear, then I suppose I will have to find somewhere else to perform.	VO_lion.lion_sys_0004
+024	There is no need for you to leave this place. Nobody will... Well, I suppose that is not something that I can guarantee, but at the very least I will not deny you this place.	VO_nazario.nazario_sys_1047
+025	I should like to hear your music more. Would that be all right with you?	VO_nazario.nazario_sys_0002
+026	I hit my tambourine once... That means yes.	VO_lion.lion_chara_1001
+027	I expect a noble high-elf like you can remember something as simple as that.
+028	Give that to me for a moment, would you?	VO_nazario.nazario_sys_0001
+029	There! Now I have hit the tambourine once, too.
+030	I see. I guess you pick things up a little faster than others do, huh?	VO_lion.lion_sys_0045
+031	Thank you. Your words warm my heart.	VO_nazario.nazario_sys_0033
+032	I always believed that the noble timbre of the forest could not be rivaled by anything, let alone the music of man.	VO_nazario.nazario_sys_0022
+033	There is still more that I wish to know about you. I want you to let me hear your melody.

@@ -1,0 +1,43 @@
+﻿人族	Human
+モンスター	Monster
+魔人	Demon
+機械	Machine
+FOE	FOE
+亜人種	Demi
+壊せるオブジェクト	Breakable
+男性	Male
+女性	Female
+メタル	Metal
+不死者	Undead
+異族	Eldritch
+魔獣	Beast
+植物	Plant
+昆虫	Insect
+不定形	Amorphous
+浮遊	Airborne
+水棲	Aquatic
+十戒衆	Templar
+巨体	Gigantic
+雪	Snow
+正月	New Year
+神獣	Holy Beast
+<憤怒>	Wrath
+<嫉妬>	Envy
+<色欲>	Lust
+<暴食>	Gluttony
+<傲慢>	Pride
+<強欲>	Greed
+<怠惰>	Sloth
+ダーク	Dark
+魔動人形	Demon Golem
+下位魔神	Sub-Demon
+魔神	Demon
+＜憤怒＞	Wrath
+＜嫉妬＞	Envy
+＜色欲＞	Lust
+＜暴食＞	Gluttony
+＜傲慢＞	Pride
+＜強欲＞	Greed
+＜怠惰＞	Sloth
+鬼	Ogre
+オーク	Orc

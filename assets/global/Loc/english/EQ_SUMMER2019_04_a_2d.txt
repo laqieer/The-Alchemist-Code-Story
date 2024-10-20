@@ -1,0 +1,129 @@
+﻿001	An...octopus?
+002	Yeah! Apparently, there's a giant octopus living in some ruins in this area.	VO_shengmei.shengmei_sys_0006
+003	I also heard that the ruins are full of treasure! That's what I was talking about, not that Demon or whatever.
+004	I see.	VO_kaya.kaya_sys_0005
+005	This ancient site is where the archaic doctrine summoned and later sealed a Demon. That much I'm certain.
+006	This is the first time I am hearing about an octopus, however.	VO_kaya.kaya_sys_0031
+007	What are you doing here, Kaya?	VO_shengmei.shengmei_sys_0001
+008	I heard about the giant monster attacking beachgoers and immediately recalled the legend pertaining to these forgotten ruins.	VO_kaya.kaya_sys_0006
+009	Naturally, that was all the more reason for me to come here and see what I could do about it.
+010	I am well-versed in the lore of this site, so I was confident that I could deal with whatever I might encounter here.	VO_kaya.kaya_sys_0023
+011	Not to mention that I personally find these ruins fascinating.
+012	All right! Sounds to me like we came here with the same idea, Kaya!	VO_shengmei.shengmei_sys_0007
+013	Hm? What exactly do you mean?
+014	Well, you were thinking of taking down that monster yourself, right?	VO_shengmei.shengmei_sys_0006
+015	Not exactly.	VO_kaya.kaya_sys_0011
+016	Huh?	VO_shengmei.shengmei_sys_0025
+017	The only reason I was confident in acting alone was because I knew that I could entrust the beach patrol to my two colleagues in my absence.	VO_kaya.kaya_sys_0006
+018	Do you possess a different perspective?	VO_kaya.kaya_sys_0002
+019	Well, I...	VO_shengmei.shengmei_sys_0031
+020	I'm the captain! I've gotta be the one to protect my crew!	VO_shengmei.shengmei_sys_0007
+021	Especially Su Yi... She has a real hard time expressing herself, you know? Leave her alone for too long and all those suppressed words end up building up.
+022	That's why I thought I'd go on ahead and take care of things. I have to make sure they're safe!	VO_shengmei.shengmei_sys_0006
+023	Interesting. You are most kind. I wonder, though, if your course of action was entirely necessary...	VO_kaya.kaya_sys_0045
+024	Huh? What're you talking about?	VO_shengmei.shengmei_sys_0025
+025	If you will allow me a metaphor... A child who falls and scrapes their knee will not cry if there is an adult present to help them to their feet.	VO_kaya.kaya_sys_0006
+026	However, should they have no hand to grasp, they will likely begin to form some measure of independence.
+027	Well...
+028	I...
+029	Oh, my apologies. That was rather forward of me. I really shouldn't have said anything, given how little I know of your situation.	VO_kaya.kaya_sys_0036
+030	I am not really qualified to be giving advice on such matters.
+031	No, no! What you said made total sense.	VO_shengmei.shengmei_sys_0027
+032	I'm just...scared. She's a real fighter, you know?
+033	She ends up overthinking and pushing herself too far. I don't want something like that to happen again.	VO_shengmei.shengmei_sys_0020
+034	Su Yi! Are you okay?!
+035	She has a fever... She has pushed herself too far. Her illness may be cured, but her stamina is still quite low.	VO_lusheng.lusheng_sys_0031
+036	We have no choice but to stop over at the next port.
+037	No... We're so close... After all that research...finding the best possible route...	VO_siyi.siyi_sys_0022
+038	So what?! None of that matters now!	VO_lusheng.lusheng_sys_0012
+039	Ah!	VO_siyi.siyi_sys_0027
+040	I'm s-so sorry...	VO_siyi.siyi_sys_0036
+041	This isn't the end, okay? Don't worry. We can set sail again. In fact, our voyage has only just begun!	VO_shengmei.shengmei_sys_0007
+042	We're just taking a little break. Okay?
+043	...
+044	...
+045	What've you got there, Su Yi? Are these maps? Nautical charts? There are so many of them!	VO_berta.berta_sys_0006
+046	These show the area around this island, right? Why do you have so many?
+047	U-um...	VO_siyi.siyi_sys_0001
+048	I-I'm collecting them. I like looking at maps and nautical charts. Seeing how they, um, change over time.	VO_siyi.siyi_sys_0004
+049	When I found out that we were coming here, I...sort of thought I should do some research beforehand.
+050	Really? That's so cool! You're a real navigator!	VO_berta.berta_sys_0045
+051	N-no! It's not cool at all!
+052	Huh? What's wrong?	VO_berta.berta_sys_0025
+053	I-I'm...sorry.	VO_siyi.siyi_sys_0036
+054	It's fine. It's nothing...
+055	It doesn't look like nothing to me! You can't fool me. I was an instructor once, you know.	VO_berta.berta_sys_0031
+056	I-instructor?	VO_siyi.siyi_sys_0025
+057	I mean, okay, I wasn't all that good at it. But Sharon did say she was glad that I was the one who trained her!	VO_berta.berta_sys_0007
+058	Hearing that, I decided to be more confident in myself.
+059	...
+060	You should be more confident in yourself, Su Yi! You're the navigator for the Xiao Shenmei—that's pretty darn amazing if you ask me!	VO_berta.berta_sys_0003
+061	It...really isn't.	VO_siyi.siyi_sys_0018
+062	(Shenmei doesn't see me as a real crew member. She still thinks I'm just a kid.)
+063	(That's why I want to do this alone.)
+064	...
+065	Shenmei?
+066	...
+067	Hey! What's this X mark on the map for?	VO_berta.berta_sys_0001
+068	U-um, well...	VO_siyi.siyi_sys_0025
+069	I heard that there were ancient ruins in this area and found out what I could about them.	VO_siyi.siyi_sys_0006
+070	By comparing various sources of information, I pinpointed this spot as their possible location.
+071	Ruins? I haven't heard anything about any ruins.	VO_berta.berta_sys_0006
+072	The ruins of an ancient cult... They're currently occupied by a giant octopus.	VO_siyi.siyi_sys_0004
+073	I didn't find anything resembling an entrance in that area, though.
+074	What are the two of you doing out here?
+075	Sharon! How'd it go? Did you find any clues?
+076	Not a single one. Perhaps they've wandered into the octopuses' lair?	VO_sharon.sharon_sys_0031
+077	...
+078	Hmm...	VO_berta.berta_sys_0031
+079	Hey, Su Yi? Think you could show us whereabouts you got separated from Shenmei?	VO_berta.berta_sys_0001
+080	H-huh? Umm...	VO_siyi.siyi_sys_0025
+081	It was around...here. B-Bertha...?	VO_siyi.siyi_sys_0001
+082	I knew it. X marks the spot... In I go!	VO_berta.berta_sys_0044
+083	W-wait! What are you doing, Bertha?!	VO_sharon.sharon_sys_0025
+084	Look! You can get in through this gap in the rock!	VO_berta.berta_sys_0008
+085	Huh? R-really?!	VO_siyi.siyi_sys_0025
+086	It's pretty hard to notice...but I'm sure Shenmei must have got in through here!	VO_berta.berta_sys_0031
+087	Difficult to notice indeed... How did you find this little opening, Bertha?
+088	Hee hee hee... I'm not a gunner of the Envylia Royal Knighthood Artillery Regiment for nothing!	VO_berta.berta_sys_0023
+089	It takes a sharp pair of eyes to be able to scan the battlefield and fire on the optimal spot!
+090	True enough.	VO_sharon.sharon_sys_0045
+091	I'm not sure why she would have gone in alone, but...maybe she saw the hole and thought it seemed like a fun place to explore?	VO_berta.berta_sys_0031
+092	Bertha... Don't you think you ought to be a bit more respectful? That's her captain you're talking about.	VO_sharon.sharon_sys_0001
+093	I didn't mean anything by it! I'm sure she had her reasons!	VO_berta.berta_sys_0025
+094	I bet she went on ahead...to keep me from worrying.	VO_siyi.siyi_sys_0018
+095	But now you're worried, right?	VO_berta.berta_sys_0006
+096	Yes.	VO_siyi.siyi_sys_0004
+097	Then you've gotta tell them! Tell those two worrywarts how you feel.	VO_berta.berta_sys_0005
+098	I suppose I am one of those worrywarts?	VO_lusheng.lusheng_sys_0001
+099	Liu Shen...
+100	I understand. Thank you for filling me in.	VO_lusheng.lusheng_sys_0004
+101	If these are the only ruins in this area, then it stands to reason that Xiao-Xiao must have wandered in here.
+102	Knowing Xiao-Xiao, she must have caught sight of something suspicious and thoughtlessly followed them here.	VO_lusheng.lusheng_sys_0031
+103	Our captain has a tendency to attempt to take on everything by herself, you see.
+104	Shenmei...
+105	However, this location is also known to be the lair of some ferocious octopuses. Su Yi, you wait here.	VO_lusheng.lusheng_sys_0004
+106	No.	VO_siyi.siyi_sys_0017
+107	What?
+108	I'm going to go and look for Shenmei with you! I-I'm worried as well.	VO_siyi.siyi_sys_0018
+109	Besides...I'm the one who found this entrance!
+110	I'm a pirate too! I can take on a horde of ferocious octopuses any day of the week!
+111	Cause I'm... I'm the navigator for the Xiao Shenmei!
+112	...
+113	Well...	VO_lusheng.lusheng_sys_0030
+114	U-um...	VO_siyi.siyi_sys_0001
+115	Take us through the shortest possible route. It doesn't matter how dangerous it is. I will take care of anything that stands in our path.	VO_lusheng.lusheng_sys_0041
+116	We need to find Xiao-Xiao before nightfall. Searching for her in the dark would be much more difficult and dangerous.
+117	U-um... R-really?!	VO_siyi.siyi_sys_0025
+118	What? You are a superb navigator, Xiao-Xiao. I trust you.	VO_lusheng.lusheng_sys_0007
+119	Okay! Leave it to me.
+120	Whoo! So proud of you, Su Yi! Let's do this!	VO_berta.berta_sys_0008
+121	Is this really all right? You were so worried about her...	VO_sharon.sharon_sys_0001
+122	I still am. So worried I feel like my heart might give out.	VO_lusheng.lusheng_sys_0004
+123	Please don't die.
+124	However...I realize now that our worries have been burdening her.	VO_lusheng.lusheng_sys_0007
+125	She does seem quite happy to be leading us.	VO_sharon.sharon_sys_0010
+126	She does... You know, I never thought I'd see the day that Xiao-Xiao would speak her mind to me without hesitation.
+127	It just goes to show that there is still room for growth, even after becoming a Phantom Soldier.	VO_lusheng.lusheng_sys_0008
+128	Whoa! Look at them all!	VO_berta.berta_sys_0026
+129	You know what? I'm feeling rather generous. I'm only going to marinade you for thirty seconds before I put you on the grill!	VO_lusheng.lusheng_sys_0010

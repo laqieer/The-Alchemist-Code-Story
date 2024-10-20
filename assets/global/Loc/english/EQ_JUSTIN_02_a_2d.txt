@@ -1,0 +1,108 @@
+﻿001	Argh! You'll pay for this, Detective!	VO_thiefm.thiefm_battle_0013
+002	I wonder what he was even upset with in the first place.	VO_justin.justin_sys_0031
+003	Um, thank you for your help. Who are you?	VO_sutorie.sutorie_sys_0031
+004	Ah, my apologies. I'm Justin, one of the nation's Peacekeepers.	VO_justin.justin_chara_1008
+005	Right now, I just happen to be chasing down a criminal called Chat Noir. Have you seen any suspicious...
+006	...? Is something wrong?	VO_sutorie.sutorie_sys_0005
+007	N-no! That being said, my dear lady! Perhaps it would be best if you covered yourself a little more!	VO_justin.justin_battle_0019
+008	Do you think so? Does my outfit look bad on me?	VO_sutorie.sutorie_sys_0025
+009	I-it's not a matter of that! It's that...I have a hard time knowing where to look!	VO_justin.justin_sys_0047
+010	Oh, why is that? Would you please teach me what you mean by that?	VO_sutorie.sutorie_battle_1018
+011	St-stop! I told you to stop! I can also have you brought in for public altercation!	VO_justin.justin_sys_0027
+012	You're quite the exagger—
+013	Ehem! In any case, what is a lady like you doing alone in a back alley like this? You seem to be a foreigner. Is there anyone accompanying you?	VO_justin.justin_sys_0016
+014	No. I'm traveling alone. Is that odd?	VO_sutorie.sutorie_sys_0025
+015	Dressed like that?	VO_justin.justin_sys_0025
+016	What does my outfit have to do with anything?	VO_sutorie.sutorie_sys_0005
+017	Hmm... Anyway! This isn't a good neighborhood so let me take you to the main boulevard.	VO_justin.justin_sys_0031
+018	Are you going to walk with me? If so, I have a request I'd like to ask you...	VO_sutorie.sutorie_sys_0009
+019	Do you know where this city's toyshop is?	VO_sutorie.sutorie_sys_0002
+020	...Huh?
+021	All right, I've closed everything up and finished delivery preparation on orders. I've got my tickets and everything is ready.	VO_rish.rish_sys_0004
+022	Finally got tickets to see the Envylia Orchestra. I'm really gonna enjoy it.	VO_rish.rish_sys_0007
+023	Daisy, today I don't have time to...
+024	Um... Excuse me. Do you have a moment?	VO_justin.justin_sys_0039
+025	If I recall correctly, you’re the Peacekeeper...	VO_rish.rish_sys_0001
+026	Justin. Ah, I wanted to ask if you're closed today.	VO_justin.justin_chara_1001
+027	I'm sorry, but we are. I've got plans for the full day.
+028	The time is a little inconvenient. There's something I wanted to ask you to repair today.	VO_sutorie.sutorie_sys_0030
+029	...Who's that?	VO_rish.rish_chara_1009
+030	She goes by the name Strie. Apparently, she's in the middle of her solo travels...	VO_justin.justin_sys_0004
+031	An item of great nostalgia to me has broken and I came to this city wondering if I could have it fixed here.
+032	That's unfortunate. However, today is an extremely important day in my life...
+033	Wait, is that toy in your hand the one you want me to repair?
+034	Yes, it is. Is it something very rare?	VO_sutorie.sutorie_sys_0004
+035	I've never seen anything like it before.	VO_rish.rish_sys_0031
+036	On top of that, it seems to be well used and has extensive traces of careful repair... It appears to have been greatly cherished.
+037	Is it the inside mechanism that's broken? This...ack...I'll need to take it apart.
+038	That being said, what's this engraving right here? Is it the maker's mark?
+039	...! That engraving!	VO_justin.justin_sys_0006
+040	Have you seen it before, Detective?	VO_rish.rish_battle_1010
+041	N-no, it's nothing. Recently, my investigation has been yielding little results and I've been somewhat on edge.	VO_justin.justin_sys_0047
+042	Ah, I heard that you let Chat Noir escape again. You don't know when to give up, do you?
+043	Ack!	VO_justin.justin_battle_0019
+044	Well, will you take it on?	VO_sutorie.sutorie_sys_0031
+045	... ...
+046	I'll cancel my vacation. Having been shown something of this quality, it'll be a stain on my name as a toy maker if I were to send you away.	VO_rish.rish_sys_0038
+047	Instead, are you willing to look after my shop while I'm taking on the repairs? This is gonna be quite the job.
+048	The owner of this toy shop has taken custody of Chat Noir's package.
+049	It is the perfect opportunity to take it. Yet...that detective's presence is an interference.
+050	In that case, let's have our employee do a little work as well.
+051	So why am I the one looking after the shop?	VO_justin.justin_sys_0031
+052	Well, you got yourself involved, so isn't it good manners to see it through until the end?	VO_sutorie.sutorie_battle_1018
+053	Well, that's true, but...I need to find the whereabouts of Chat Noir...	VO_justin.justin_sys_0039
+054	Hey, how much is this toy?
+055	The price tag is right there. Do you have money on you?	VO_justin.justin_sys_0005
+056	Hey, this doll's hands came off! Can you please fix it!
+057	All right, all right. All the toys you want repaired, you can place here along with your name and address.	VO_sutorie.sutorie_sys_0007
+058	Okay!
+059	... ...
+060	...? Is there something on my face?	VO_sutorie.sutorie_sys_0005
+061	No, I'm just surprised to see that you're good at looking after children, contrary to your outfit and mannerisms.	VO_justin.justin_sys_0039
+062	Oh? Isn't it problematic if a detective were to judge people based on their appearances?	VO_sutorie.sutorie_battle_1018
+063	Well...you're right. I'm sorry.	VO_justin.justin_sys_0016
+064	Heheh. I was just teasing you. Don't worry about it.	VO_sutorie.sutorie_sys_0007
+065	In my village, we all participate in taking care of the children.
+066	That sounds like a nice village.	VO_justin.justin_sys_0005
+067	Who knows? It's very small and closed off from the rest of the world. They're always averting their eyes from what's going on outside of their village.
+068	That's why they've been left in the past and are no longer able to make strides forward.
+069	...Hm.	VO_justin.justin_chara_1008
+070	... ...
+071	Hey, little boy over there! Show me what you just took right now.	VO_justin.justin_sys_0003
+072	A-ah!
+073	So you stole something. Listen, kiddo. What you did just now...	VO_justin.justin_sys_0031
+074	Here you go. I paid and bought it for you.	VO_sutorie.sutorie_event_1008
+075	Huh...are you sure?
+076	Yes. But just today, all right?	VO_sutorie.sutorie_sys_0004
+077	O-okay!
+078	Strie!	VO_justin.justin_sys_0001
+079	He wanted that toy and I wanted to buy it for him. See? There's no problem, right?	VO_sutorie.sutorie_sys_0005
+080	But he won't learn his lesson then. Wouldn't you agree?	VO_justin.justin_sys_0016
+081	If he did it with evil intent then he must be scolded.
+082	However, scolding him alone might not help.
+083	What do you mean?	VO_justin.justin_sys_0006
+084	This shop is positioned right between the poor and rich districts.
+085	It's true. Left of here, the district spreads out into a place called Real Heavy.
+086	Redington City is a nice place...but there are those who suffer as well.
+087	There are those who cannot find work, who have their dreams stolen from them, and who have children who cannot buy toys.
+088	For them, in order to become happy, they must exhaust all means. Is that such a bad thing?
+089	Still, whatever the reasons may be, stealing is stealing.	VO_justin.justin_sys_0016
+090	Furthermore, we are trying to do everything we can rectify the problems of this city!
+091	It's true that there are disparities that force even some of the residents of Real Heaven to have to leave.
+092	Perhaps the result of that is Lost Blue..."the sunken city where light does not reach."<br>	VO_justin.justin_sys_0030
+093	Lost Blue...?	VO_sutorie.sutorie_sys_0025
+094	Oh, no, it's nothing! Please, forget what I just said.	VO_justin.justin_sys_0047
+095	Well, fine. But doesn't your brand of justice eventually result in the severing of the weak?
+096	Well, I'm doing my best to make sure that's not the case...	VO_justin.justin_sys_0031
+097	Ch-Chat Noir has made an appearance?!
+098	What?! Ack! There's no time to waste!	VO_justin.justin_sys_0016
+099	Hey, wait?! Come on! We can leave the shop unmanned for a little while, right?	VO_sutorie.sutorie_chara_1001
+100	Is that one of the prototypes for the Guard Droid?! But the way it's moving...has someone made it go rogue?
+101	Is Chat Noir behind this? I heard he was a thief, but I guess he's good with his hands as well.	VO_sutorie.sutorie_sys_0030
+102	No, this isn't him. He'd never do something like this.	VO_justin.justin_sys_0039
+103	Heheh. From the way you just spoke now, there seems to be some kind of trust between the two of you.	VO_sutorie.sutorie_sys_0007
+104	What?! Not at all! It's just...!	VO_justin.justin_battle_0019
+105	He has his own aesthetic when it comes to stealing...that's all.
+106	Heheh. I thought you just said, 'whatever the reason may be, stealing is stealing'?	VO_sutorie.sutorie_sys_0007
+107	Agh. That's true, but...!	VO_justin.justin_sys_0016
+108	Let's talk later! Right now, I need to handle this situation!

@@ -1,0 +1,918 @@
+﻿-2_TITLE	Time Out
+-2_MESSAGE	Connection timed out
+-1_TITLE	Error 002
+-1_MESSAGE	Your device has encountered an error. Returning to title screen.
+0_TITLE	Error
+1_TITLE	Error 001
+1_MESSAGE	An unknown error has occurred
+2_TITLE	Notice
+2_MESSAGE	Please update "THE ALCHEMIST CODE" to the latest version.
+3_TITLE	Notice
+3_MESSAGE	New download content available
+4_TITLE	Version Settings
+4_MESSAGE	Please update "THE ALCHEMIST CODE" to the latest version.
+200_TITLE	Maintenance Notice
+200_MESSAGE	Scheduled Maintenance. The game will be inaccessible during the time period above. To prevent any data loss, please refrain from trying to access the game then. For more updates, check out our Facebook page.
+201_TITLE	Maintenance Notice
+201_MESSAGE	Chat function is currently under maintenance. Please wait until end of maintenance.
+202_TITLE	Maintenance Notice
+202_MESSAGE	Multiplay function is currently under maintenance. Please wait until end of maintenance.
+203_TITLE	Maintenance Notice
+203_MESSAGE	VS Mode function is currently under maintenance. Please wait until end of maintenance.
+300_TITLE	Error 300
+300_MESSAGE	Unknown transmission has occurred
+400_TITLE	Error 400
+400_MESSAGE	Unknown transmission has occurred
+1000_TITLE	Attention
+1000_MESSAGE	Download has failed
+1100_TITLE	Notice
+1100_MESSAGE	Please update "THE ALCHEMIST CODE" to the latest version.
+1200_TITLE	Session Failure
+1200_MESSAGE	Initial connection failed
+1300_TITLE	Registration Closed
+1300_MESSAGE	New player registration is currently closed
+1301_TITLE	Notice
+1301_MESSAGE	Please wait until tomorrow
+1400_TITLE	Name Prohibited
+1400_MESSAGE	Please use a different name
+1451_TITLE	Duplicate Name
+1451_MESSAGE	This name already exists
+1402_TITLE	Name Error
+1402_MESSAGE	You are currently using this name
+1403_TITLE	Same Name
+1500_TITLE	No Mail Found
+1500_MESSAGE	No corresponding messages found
+1501_TITLE	Mail Read
+1501_MESSAGE	Message already read
+1600_TITLE	Friend Limit Max
+1600_MESSAGE	Maximum friend limit reached
+1601_TITLE	Friend List Full
+1601_MESSAGE	Cannot approve, because this player's friend list is full
+1602_TITLE	Friend Not Found
+1602_MESSAGE	No corresponding friends
+1700_TITLE	Friend Not Found
+1700_MESSAGE	No corresponding friends
+1701_TITLE	Attention
+1701_MESSAGE	You cannot send yourself a friend request
+1800_TITLE	Attention
+1800_MESSAGE	Specified unit does not exist
+1801_TITLE	Attention
+1801_MESSAGE	Party setup is invalid
+1900_TITLE	Attention
+1900_MESSAGE	You don't have any items
+2000_TITLE	Attention
+2000_MESSAGE	You don't have an evolve recipe
+2001_TITLE	Attention
+2001_MESSAGE	You don't meet the Player Lv req for this enhancement
+2100_TITLE	Attention
+2100_MESSAGE	You don't have any Shards
+2101_TITLE	Attention
+2101_MESSAGE	You don't meet the Player Lv req for this enhancement
+2200_TITLE	Attention
+2200_MESSAGE	Failed to enhance ability
+2201_TITLE	Attention
+2201_MESSAGE	Ability not found
+2300_TITLE	Attention
+2300_MESSAGE	Cannot change job
+2301_TITLE	Attention
+2301_MESSAGE	Cannot change job
+2302_TITLE	Attention
+2302_MESSAGE	Cannot change job
+2400_TITLE	Attention
+2400_MESSAGE	Cannot change ability
+2401_TITLE	Attention
+2401_MESSAGE	Cannot change ability
+2402_TITLE	Attention
+2402_MESSAGE	Cannot change ability
+2500_TITLE	Attention
+2500_MESSAGE	Cannot equip
+2501_TITLE	Attention
+2501_MESSAGE	No equip items
+2502_TITLE	Attention
+2502_MESSAGE	Already equipped
+2600_TITLE	Attention
+2600_MESSAGE	Cannot enhance
+2601_TITLE	Attention
+2601_MESSAGE	Cannot enhance
+2602_TITLE	Attention
+2602_MESSAGE	Enhance limit reached
+2603_TITLE	Attention
+2603_MESSAGE	You require more enhancement materials
+2604_TITLE	Attention
+2604_MESSAGE	You don't meet the Player Lv req for this enhancement
+2700_TITLE	Attention
+2700_MESSAGE	Cannot level up
+2701_TITLE	Attention
+2701_MESSAGE	Not yet fully equipped
+2702_TITLE	Attention
+2702_MESSAGE	You don't meet the Limit Break Lv Req
+2800_TITLE	Attention
+2800_MESSAGE	You don't have any sellable items
+2900_TITLE	Attention
+2900_MESSAGE	You require more Gems.
+2901_TITLE	Attention
+2901_MESSAGE	You cannot replenish beyond the replenishment count limit
+3000_TITLE	Attention
+3000_MESSAGE	You require more Gems.
+3001_TITLE	Attention
+3001_MESSAGE	You don't meet the VIP Lv Req
+3002_TITLE	Attention
+3002_MESSAGE	You don't meet the Player Lv Req
+3100_TITLE	Attention
+3100_MESSAGE	You require more Gems.
+3101_TITLE	Attention
+3101_MESSAGE	Box limit reached
+3200_TITLE	Attention
+3200_MESSAGE	Cannot fuse
+3201_TITLE	Attention
+3201_MESSAGE	You don't have any fuse materials
+3202_TITLE	Attention
+3202_MESSAGE	You require more gold
+3300_TITLE	Attention
+3300_MESSAGE	Cannot select quest
+3301_TITLE	Attention
+3301_MESSAGE	This quest is unavailable now
+3302_TITLE	Attention
+3302_MESSAGE	You have an uncompleted quest
+3303_TITLE	Attention
+3303_MESSAGE	Max attempts reached
+3304_TITLE	Attention
+3304_MESSAGE	Quest does not exist
+3305_TITLE	Attention
+3305_MESSAGE	You don't meet the requirements to start this quest
+3400_TITLE	Attention
+3400_MESSAGE	Quest already completed
+3500_TITLE	Attention
+3500_MESSAGE	Quest already completed
+3600_TITLE	Attention
+3600_MESSAGE	You require more coins
+3601_TITLE	Attention
+3601_MESSAGE	Cannot continue
+3602_TITLE	Attention
+3602_MESSAGE	Already unlocked
+3603_TITLE	Attention
+3603_MESSAGE	You lack the required items to unlock
+3604_TITLE	Attention
+3604_MESSAGE	Not unlocked
+3700_TITLE	Attention
+3700_MESSAGE	Error occurred with Multiplay Battle. Returning to title.
+3701_TITLE	Attention
+3701_MESSAGE	You don't meet the Multiplay Battle Lv Req
+3702_TITLE	Attention
+3702_MESSAGE	You have an uncompleted quest
+3703_TITLE	Attention
+3703_MESSAGE	Multiplay battle already concluded
+3704_TITLE	Notice
+3704_MESSAGE	Please update "THE ALCHEMIST CODE" to the latest version.
+3800_TITLE	Attention
+3800_MESSAGE	Cannot proceed
+3801_TITLE	Attention
+3801_MESSAGE	Battle in progress
+3802_TITLE	Attention
+3802_MESSAGE	Daily attempt limit exceeded.
+3803_TITLE	Attention
+3803_MESSAGE	In cooldown
+3804_TITLE	Battle Incomplete
+3804_MESSAGE	You have an uncompleted battle
+3805_TITLE	Attention
+3805_MESSAGE	Cannot select arena
+3806_TITLE	Attention
+3806_MESSAGE	You don't meet the VIP Lv Req
+3807_TITLE	Attention
+3807_MESSAGE	Your opponent's rank has changed. You cannot battle an opponent of lower rank.
+3808_TITLE	Attention
+3808_MESSAGE	Your opponent's rank has changed
+3900_TITLE	Attention
+3900_MESSAGE	Arena battle already concluded
+3901_TITLE	Attention
+3901_MESSAGE	Your opponent's rank has changed. You cannot battle an opponent who's rank has changed
+4000_TITLE	Attention
+4000_MESSAGE	Cannot select summon
+4001_TITLE	Attention
+4001_MESSAGE	You don't meet the cost
+4002_TITLE	Attention
+4002_MESSAGE	Item possession limit reached
+4003_TITLE	Attention
+4003_MESSAGE	Cannot proceed with free summon. Please wait.
+4004_TITLE	Attention
+4004_MESSAGE	Paid Gem Summon is reset at 12PM, 4AM, 8AM, 12AM, 4PM, and 8PM. You can draw again after these times.
+4005_TITLE	Level Limit Max
+4005_MESSAGE	Level limit exceeded
+4006_TITLE	Daily Limit Max
+4006_MESSAGE	Max day limit since start of game exceeded
+4007_TITLE	Sold Out
+4007_MESSAGE	Our apologies. Limited items have been sold out.
+4008_TITLE	Draw Limit
+4008_MESSAGE	You've reached the draw limit for this summon
+4100_TITLE	Reward Claimed
+4100_MESSAGE	Reward already claimed
+4101_TITLE	Outdated Results
+4101_MESSAGE	There are expired update results
+4102_TITLE	Results Rolled Back
+4102_MESSAGE	Some update results have been rolled back
+4110_TITLE	Outdated Results
+4110_MESSAGE	There are expired update results
+4111_TITLE	Attention
+4111_MESSAGE	All bingo items haven't been cleared yet
+4200_TITLE	Attention
+4200_MESSAGE	You don't meet the refresh cost
+4300_TITLE	Shop Sold Out
+4300_MESSAGE	Sold out
+4301_TITLE	Attention
+4301_MESSAGE	You don't meet the purchase cost
+4302_TITLE	Attention
+4302_MESSAGE	You don't meet the Lv Req to enter this shop
+4303_TITLE	Attention
+4303_MESSAGE	Shop not found
+4304_TITLE	Attention
+4304_MESSAGE	Selected product not available
+4400_TITLE	Insufficient coins
+4400_MESSAGE	You require more coins
+4401_TITLE	Attention
+4401_MESSAGE	Daily purchase limit reached
+4402_TITLE	Notice
+4402_MESSAGE	At the Soul Exchange Shop, you can only exchange Soul Shards into Soul Coins for units that meet the following 2 conditions. 1) Unit is at max rarity, including evolution 2) Limit Break is at Max Lv
+4403_TITLE	Attention
+4403_MESSAGE	Shop opening period has ended
+4405_TITLE	Attention
+4405_MESSAGE	Purchase limit reached
+4406_TITLE	Attention
+4406_MESSAGE	Because of items in your possession, you cannot purchase this product
+4500_TITLE	Caution
+4500_MESSAGE	Date setup invalid
+4600_TITLE	Caution
+4600_MESSAGE	Purchase limit reached due to age restrictions
+4601_TITLE	Caution
+4601_MESSAGE	Cannot purchase
+4700_TITLE	Caution
+4700_MESSAGE	Transfer code cannot be used
+4800_TITLE	Attention
+4800_MESSAGE	Cannot create room
+4801_TITLE	Caution
+4801_MESSAGE	Cannot enter comment
+4900_TITLE	Attention
+4900_MESSAGE	No rooms available
+5000_TITLE	No Device
+5000_MESSAGE	No device registration
+5001_TITLE	Authorize
+5001_MESSAGE	Transfer process has been completed, so you cannot proceed with this device. Start a new game?
+5002_TITLE	No Session ID
+5002_MESSAGE	Returning to title due to long inactivity
+5003_TITLE	Notice
+5003_MESSAGE	New download content available
+5004_TITLE	Notice
+5004_MESSAGE	The date has changed. Returning to title.
+5005_TITLE	ID Error 001
+5005_MESSAGE	Duplicate Related ID
+5006_TITLE	ID Error 002
+5006_MESSAGE	Missing Related ID
+5100_TITLE	Invalid Transfer Code
+5100_MESSAGE	Transfer code is invalid or has expired. Please confirm and try again.
+5101_TITLE	Transfer Error
+5101_MESSAGE	You cannot transfer data to the same device.
+5102_TITLE	Migrate Lock Code
+5102_MESSAGE	Maximum code attempts exceeded. This device is now restricted from entering code. After %s, please issue a new transfer code from original device and try again.
+5103_TITLE	Attention
+5103_MESSAGE	You have already migrated this account
+5200_TITLE	Attention
+5200_MESSAGE	Reserved For Register
+5300_TITLE	Attention
+5300_MESSAGE	Reserved For Access Token
+5400_TITLE	Attention
+5400_MESSAGE	Reserved For Device Info
+5500_TITLE	Attention
+5500_MESSAGE	You don't meet the cost
+5600_TITLE	Attention
+5600_MESSAGE	You require more tickets
+5700_TITLE	Attention
+5700_MESSAGE	Unit already unlocked
+5701_TITLE	Attention
+5701_MESSAGE	You require more Soul Shards to unlock unit
+5702_TITLE	Attention
+5702_MESSAGE	This unit cannot be unlocked
+5800_TITLE	Attention
+5800_MESSAGE	You don't meet the Multiplay Battle Lv Req
+5900_TITLE	Attention
+5900_MESSAGE	No corresponding friends
+5901_TITLE	Attention
+5901_MESSAGE	Friend Request not found
+5902_TITLE	Attention
+5902_MESSAGE	Maximum friend limit reached
+5903_TITLE	Attention
+5903_MESSAGE	Cannot approve, because this player's friend list is full
+6000_TITLE	Attention
+6000_MESSAGE	No corresponding friends
+6001_TITLE	Attention
+6001_MESSAGE	You cannot send yourself a friend request
+6002_TITLE	Attention
+6002_MESSAGE	You cannot send yourself a friend request
+7000_TITLE	Attention
+7000_MESSAGE	Process has duplicated
+8000_TITLE	Error 8000
+8000_MESSAGE	An error has occurred
+8001_TITLE	Attention
+8001_MESSAGE	Specified campaign does not exist
+8002_TITLE	Attention
+8002_MESSAGE	Specified user does not exist
+8003_TITLE	Attention
+8003_MESSAGE	Usage limit for this serial code has been exceeded
+8004_TITLE	Attention
+8004_MESSAGE	This serial code does not exist
+8005_TITLE	Attention
+8005_MESSAGE	You've reached the max usage limit for this campaign
+8006_TITLE	Attention
+8006_MESSAGE	Serial code entry temporarily unavailable
+8007_TITLE	Attention
+8007_MESSAGE	Serial code entry unavailable
+8100_TITLE	Error 8100
+8100_MESSAGE	An error has occurred
+8101_TITLE	Register
+8101_MESSAGE	Please register your date of birth
+8102_TITLE	VIP Card Validity
+8102_MESSAGE	VIP Card becomes available for purchase when you have valid period of 3d or less remaining
+8201_TITLE	Tower Locked
+8201_MESSAGE	Tower has not been unlocked
+8202_TITLE	Attention
+8202_MESSAGE	You don't meet the requirements to start this floor
+8203_TITLE	Attention
+8203_MESSAGE	Unit recovery is not permitted in this tower
+8211_TITLE	Attention
+8211_MESSAGE	This tower quest is currently not available
+8212_TITLE	Attention
+8212_MESSAGE	Reward data not found
+8213_TITLE	Caution
+8213_MESSAGE	Floor does not exist
+8214_TITLE	Caution
+8214_MESSAGE	Party data not found
+8221_TITLE	Caution
+8221_MESSAGE	Party data does not match
+8222_TITLE	Caution
+8222_MESSAGE	Control numbers do not match
+8231_TITLE	Amount Incorrect
+8231_MESSAGE	Coin amount is incorrect
+8232_TITLE	Incorrect Battle Param
+8232_MESSAGE	btlendparam parameter invalid
+8241_TITLE	Battle Cleared
+8241_MESSAGE	Already cleared
+8242_TITLE	Battle Concluded
+8242_MESSAGE	Battle already concluded
+8243_TITLE	Caution
+8243_MESSAGE	Failed to register attained number of people
+8244_TITLE	Reset Failed
+8244_MESSAGE	Cannot reset
+8500_TITLE	Invalid Channel
+8500_MESSAGE	Channel does not exist
+8501_TITLE	Invalid User
+8501_MESSAGE	User does not exist
+8502_TITLE	Caution
+8502_MESSAGE	Please wait 10s before messaging again
+8503_TITLE	Block List Full
+8503_MESSAGE	Your block list is full
+8504_TITLE	Sticker Error
+8504_MESSAGE	Sticker does not exist
+8800_TITLE	Attention
+8800_MESSAGE	This email address or password is incorrect.
+8801_TITLE	Attention
+8801_MESSAGE	The email address you entered has not been linked yet.
+8802_TITLE	Code Attempt Exceeded
+8802_MESSAGE	Maximum code attempts exceeded. This device is now restricted from entering code. Please try again after %s.
+8803_TITLE	Error 8803
+8803_MESSAGE	Authorization failed
+9000_TITLE	Gear Limit
+9000_MESSAGE	Possession limit for this gear reached
+9001_TITLE	Shard Shortage
+9001_MESSAGE	You require more shards
+9002_TITLE	Material Shortage
+9002_MESSAGE	You require more enhancement materials
+9003_TITLE	Item Not Available
+9003_MESSAGE	You don't possess the specified skin
+9010_TITLE	Item Not Available
+9010_MESSAGE	You don't possess the specified skin
+9011_TITLE	Job Not Available
+9011_MESSAGE	Specified job does not exist
+10000_TITLE	Battle Error
+10000_MESSAGE	You cannot battle yourself
+10001_TITLE	Invalid User
+10001_MESSAGE	User does not exist
+10002_TITLE	Invalid Battle Data
+10002_MESSAGE	Battle data has not been initialized
+10003_TITLE	Invalid Room
+10003_MESSAGE	Room data does not exist
+10004_TITLE	Invalid Room ID
+10004_MESSAGE	Failed to obtain room ID
+10005_TITLE	Attention
+10005_MESSAGE	Battle has already ended
+10006_TITLE	Invalid Quest
+10006_MESSAGE	Specified quest does not exist
+10007_TITLE	Invalid Photon Server ID
+10007_MESSAGE	Failed to obtain photon server ID
+10008_TITLE	Notice
+10008_MESSAGE	Please update "THE ALCHEMIST CODE" to the latest version.
+10009_TITLE	Caution
+10009_MESSAGE	Cannot enter comment
+10010_TITLE	Invalid Requirement
+10010_MESSAGE	You don't meet the VS Battle Lv Req
+10011_TITLE	Battle Incomplete
+10011_MESSAGE	You have an uncompleted battle
+10012_TITLE	Room Availability
+10012_MESSAGE	No rooms available
+10013_TITLE	Battle Session
+10013_MESSAGE	Battle has already ended
+10014_TITLE	Session Gift Error
+10014_MESSAGE	Failed to receive season gift
+10015_TITLE	Attention
+10015_MESSAGE	Tower session unavailable
+204_TITLE	Attention
+204_MESSAGE	The quest clear-setup data feature is currently under maintenance. Please wait until the maintenance has finished.
+205_TITLE	Attention
+205_MESSAGE	The multiplay features are currently under maintenance. Please wait until the maintenance has finished.
+206_TITLE	Attention
+206_MESSAGE	The multiplay tower features are currently under maintenance. Please wait until the maintenance has finished.
+207_TITLE	Attention
+207_MESSAGE	Corresponding quest is being calculated. Please wait until calculation has finished.
+401_TITLE	Attention
+401_MESSAGE	Location data cannot be accessed...
+402_TITLE	Attention
+402_MESSAGE	10s have not passed since previous update
+2703_TITLE	Attention
+2703_MESSAGE	Max limit break Lv has been reached
+2704_TITLE	Attention
+2704_MESSAGE	Exceeding max limit break Lv
+2705_TITLE	Attention
+2705_MESSAGE	Exceeding max specifiable Limit break Lv Area
+5703_TITLE	Attention
+5703_MESSAGE	Job Rank is ineffective
+9004_TITLE	Attention
+9004_MESSAGE	Evolution level is already at max
+9005_TITLE	Attention
+9005_MESSAGE	Enhancement level is insufficient for evolving
+9012_TITLE	Attention
+9012_MESSAGE	Specified unit cannot be set
+3306_TITLE	Attention
+3306_MESSAGE	Please confirm whether quest reward has not changed
+3307_TITLE	Attention
+3307_MESSAGE	Cannot start quest, because quest start-date does not exist
+3308_TITLE	Attention
+3308_MESSAGE	Area quest could not be confirmed. Please check the following: - Whether location settings are enabled - Whether you are in the specified area
+3309_TITLE	Attention
+3309_MESSAGE	Upload of Quest Clear Setup data is being restricted
+3311_TITLE	Attention
+3311_MESSAGE	Failed to obtain mercenary data
+3902_TITLE	Attention
+3902_MESSAGE	Arena: Change in own ranking (ALC_DEBUG-5906)
+4112_TITLE	Attention
+4112_MESSAGE	There are expired challenge missions
+4901_TITLE	Attention
+4901_MESSAGE	Maximum observers reached
+5104_TITLE	Attention
+5104_MESSAGE	Your account has been suspended
+8008_TITLE	Attention
+8008_MESSAGE	Reward claim period has expired
+8009_TITLE	Warning
+8009_MESSAGE	QR code is invalid
+8010_TITLE	Attention
+8010_MESSAGE	You cannot claim any more rewards
+8011_TITLE	Warning
+8011_MESSAGE	If you exceed a certain error count, you will be restricted from scanning for a certain period.
+8245_TITLE	Attention
+8245_MESSAGE	There is no ranking.
+8600_TITLE	Attention
+8600_MESSAGE	Area gift could not be confirmed. Please check the following: - Whether location settings are enabled - Whether you are in the specified area
+8601_TITLE	Attention
+8601_MESSAGE	Area gift was already received
+10016_TITLE	Attention
+10016_MESSAGE	You cannot continue battling against the same opponent.
+10017_TITLE	Attention
+10017_MESSAGE	Exceeding matching Area.
+10100_TITLE	Attention
+10100_MESSAGE	Selected number exceeds the limit
+10101_TITLE	Attention
+10101_MESSAGE	Max number has already been registered
+12001_TITLE	Attention
+12001_MESSAGE	You cannot play this floor
+12002_TITLE	Attention
+12002_MESSAGE	Quest already completed
+12003_TITLE	Attention
+12003_MESSAGE	No rooms available
+13001_TITLE	Attention
+13001_MESSAGE	This score is not a new record
+13002_TITLE	Attention
+13002_MESSAGE	This score was already submitted
+13003_TITLE	Attention
+13003_MESSAGE	Currently not available
+100_TITLE	Warning
+100_MESSAGE	Invalid session ID
+1603_TITLE	Attention
+1603_MESSAGE	Friend already registered
+1604_TITLE	Attention
+1604_MESSAGE	Friend request already sent
+4201_TITLE	Attention
+4201_MESSAGE	Insufficient Lv
+11000_TITLE	Attention
+11000_MESSAGE	DMM session has ended
+10018_TITLE	Season Ended
+10018_MESSAGE	Ranked Match Season has ended
+10019_TITLE	Out of Challenge
+10019_MESSAGE	No more challenges available for Ranked Match
+10098_TITLE	Duplicate Report
+10098_MESSAGE	Battle History has been reported
+10099_TITLE	Error
+10099_MESSAGE	Battle History doesn't belong to reporting player
+9020_TITLE	Attention
+9020_MESSAGE	Cannot carry any more Mementos
+2801_TITLE	Attention
+2801_MESSAGE	Includes an item that can't be automatically sold
+2802_TITLE	Attention
+2802_MESSAGE	Zeni limit will be exceeded, sale cancelled
+3312_TITLE	Attention
+3312_MESSAGE	Mercenaries cannot be hired for this quest
+4009_TITLE	Attention
+4009_MESSAGE	Currently this summon is not free
+4010_TITLE	Warning
+4010_MESSAGE	Resummon cannot be selected
+4902_TITLE	Attention
+4902_MESSAGE	Room not found. Cannot enter
+8012_TITLE	Attention
+8012_MESSAGE	You already have this skin
+8103_TITLE	Attention
+8103_MESSAGE	You don't have a valid first-time purchase bonus
+8104_TITLE	Attention
+8104_MESSAGE	No first-time purchase history
+8105_TITLE	Attention
+8105_MESSAGE	You've already received this first-time purchase bonus
+8106_TITLE	Attention
+8106_MESSAGE	Expired rewards will be sent to Gifts at a later date. We kindly ask for your patience.
+8107_TITLE	Attention
+8107_MESSAGE	PREMIUM is still valid
+8108_TITLE	Attention
+8108_MESSAGE	You don't have a valid PREMIUM bonus
+8246_TITLE	Attention
+8246_MESSAGE	You cannot reset battle
+8602_TITLE	Warning
+8602_MESSAGE	ID already exists
+14001_TITLE	Attention
+14001_MESSAGE	Compiling past and present data. Please wait a moment.
+20010_TITLE	Attention
+20010_MESSAGE	You already belong to a Port.
+20020_TITLE	Attention
+20020_MESSAGE	Not a member
+20021_TITLE	Attention
+20021_MESSAGE	Not a member
+20022_TITLE	Attention
+20022_MESSAGE	There were no guilds to join automatically
+20030_TITLE	Attention
+20030_MESSAGE	Could not withdraw
+20040_TITLE	Attention
+20040_MESSAGE	Data not found
+20050_TITLE	Attention
+20050_MESSAGE	Entry application has not been submitted
+20060_TITLE	Attention
+20060_MESSAGE	You do not have authorization
+20061_TITLE	Attention
+20061_MESSAGE	You do not have authorization
+20070_TITLE	Attention
+20070_MESSAGE	Already a member
+20080_TITLE	Attention
+20080_MESSAGE	Maximum members reached
+20081_TITLE	Attention
+20081_MESSAGE	Maximum Vice-Captains reached
+20090_TITLE	Attention
+20090_MESSAGE	Cannot disband
+20100_TITLE	Attention
+20100_MESSAGE	You cannot appoint yourself
+20101_TITLE	Attention
+20101_MESSAGE	You've already left
+20110_TITLE	Attention
+20110_MESSAGE	Data updated // disbanding a single person guild is allowed, leaving a guild is not allowed
+20120_TITLE	Attention
+20120_MESSAGE	The Captain cannot leave without appointing another member
+20121_TITLE	Attention
+20121_MESSAGE	The Captain cannot leave without appointing another member
+20130_TITLE	Attention
+20130_MESSAGE	Not a member
+20131_TITLE	Warning
+20131_MESSAGE	Failed to remove
+20132_TITLE	Warning
+20132_MESSAGE	You cannot remove yourself
+20133_TITLE	Warning
+20133_MESSAGE	Failed to remove
+20134_TITLE	Warning
+20134_MESSAGE	Vice-Captains cannot banish Vice-Captains
+20140_TITLE	Warning
+20140_MESSAGE	Please input another entry
+20150_TITLE	Warning
+20150_MESSAGE	Could not be appointed to Vice-Captain
+20151_TITLE	Warning
+20151_MESSAGE	Could not be appointed to Captain
+20152_TITLE	Warning
+20152_MESSAGE	Unable to appoint in general
+20200_TITLE	Warning
+20200_MESSAGE	Cannot invest in this facility
+20201_TITLE	Warning
+20201_MESSAGE	This facility has reached maximum level
+20202_TITLE	Warning
+20202_MESSAGE	Daily investment limit exceeded
+20210_TITLE	Warning
+20210_MESSAGE	Please try again (unable to unlock error)
+20220_TITLE	Attention
+20220_MESSAGE	You require more Gems.
+20230_TITLE	Attention
+20230_MESSAGE	Your level is not high enough to join or create an Alchemy Port
+20231_TITLE	Attention
+20231_MESSAGE	Your level does not meet the requirements to join
+20240_TITLE	Attention
+20240_MESSAGE	After leaving, you cannot join or create for a certain amount of time.
+20241_TITLE	Attention
+20241_MESSAGE	After joining, you can invest once a certain amount of time has passed.
+21010_TITLE	Attention
+21010_MESSAGE	Currently not available
+21020_TITLE	Attention
+21020_MESSAGE	Currently this boss cannot be challenged
+21030_TITLE	Attention
+21030_MESSAGE	Corrupted stats
+21040_TITLE	Attention
+21040_MESSAGE	Already cleared
+21050_TITLE	Attention
+21050_MESSAGE	Battle already concluded
+21060_TITLE	Attention
+21060_MESSAGE	Raid Boss already exists
+21070_TITLE	Attention
+21070_MESSAGE	Target Raid Boss has been defeated
+21080_TITLE	Attention
+21080_MESSAGE	Target Raid Boss cannot be found
+21090_TITLE	Attention
+21090_MESSAGE	Reward cannot be claimed
+21100_TITLE	Attention
+21100_MESSAGE	Aid forces have not been sent for this boss
+21101_TITLE	Attention
+21101_MESSAGE	Cannot send any more aid forces
+21102_TITLE	Attention
+21102_MESSAGE	Cancelled aid battle
+21110_TITLE	Attention
+21110_MESSAGE	Differs from area progress. Cannot collect rewards.
+21120_TITLE	Attention
+21120_MESSAGE	Cannot proceed to the next area because Area Boss has not been defeated.
+21130_TITLE	Attention
+21130_MESSAGE	Area Clear Reward has not been claimed. Cannot proceed.
+21140_TITLE	Attention
+21140_MESSAGE	This is the last area. Cannot proceed further.
+21150_TITLE	Attention
+21150_MESSAGE	Area Boss has not been defeated. Cannot retry.
+21160_TITLE	Attention
+21160_MESSAGE	Area Clear Rewards have not been claimed. Cannot retry.
+21170_TITLE	Attention
+21170_MESSAGE	This is not the last area. Cannot retry.
+21180_TITLE	Attention
+21180_MESSAGE	Incomplete
+21190_TITLE	Attention
+21190_MESSAGE	Insufficient BP
+21200_TITLE	Attention
+21200_MESSAGE	The next Raid Boss cannot be selected as the Area Boss has been defeated.
+21300_TITLE	Attention
+21300_MESSAGE	Aid forces will not display because current level is insufficient.
+21400_TITLE	Attention
+21400_MESSAGE	Cannot join aid forces because the selected Raid Boss can no longer be challenged.
+15001_TITLE	Attention
+15001_MESSAGE	TIPS not found
+5111_MESSAGE	THE ALCHEMIST CODE is unavailable in your country.
+0_MESSAGE	Maximum Vice-Captains reached
+4407_MESSAGE	Selected shards cannot be used.
+4408_MESSAGE	Selected shards cannot be exchanged.
+4409_MESSAGE	Selected unit soul shards cannot be exchanged.
+4410_MESSAGE	Selected unit soul shards cannot be exchanged due to the attributes not matching.
+12004_MESSAGE	Floor cannot be skipped.
+21031_MESSAGE	Incorrect parameters.
+16001_MESSAGE	Cannot be found in the Event Archives.
+16002_MESSAGE	This Event Archive is not unlocked.
+16003_MESSAGE	This Event Archive is unlocked.
+17001_MESSAGE	Incorrect parameters.
+17002_MESSAGE	Selected gear is not available.
+17003_MESSAGE	Selected skill is not available.
+17004_MESSAGE	Favorite gear is included.
+17005_MESSAGE	Incorrect gear for the enhancement materials.
+17006_MESSAGE	Cannot be enhanced as the skill level is at max level.
+17007_MESSAGE	Cannot reset.
+17008_MESSAGE	Insufficient funds.
+17009_MESSAGE	Gear cannot be added to the slot.
+17010_MESSAGE	Maximum slots are used and none more can be added.
+17011_MESSAGE	Cannot obtain funds.
+2503_MESSAGE	Cannot equip at current level.
+9021_MESSAGE	Limit break cannot be done with selected item.
+9022_MESSAGE	Selected Memento is not available.
+9023_MESSAGE	Max limit break is reached with the selected Memento.
+9024_MESSAGE	Exceeding max limit break.
+9025_MESSAGE	Incorrect amount of enhancement materials.
+9026_MESSAGE	Leader Skill cannot be set.
+3320_MESSAGE	Attempt limit cannot be restored any more today.
+3321_MESSAGE	More of the item %s is required.
+3322_MESSAGE	Attempts are still available.
+4011_MESSAGE	Discount cannot be applied.
+4012_MESSAGE	Discount has already been applied.
+4013_MESSAGE	This is not an item for discounting summons.
+4014_MESSAGE	Item cannot be used in this current period.
+4015_MESSAGE	This is not a discounted summon.
+4016_MESSAGE	Paid Gem Summon cannot be discounted.
+8109_MESSAGE	Purchase limit reached.
+8110_MESSAGE	This is no longer for sale.
+12005_MESSAGE	Failed to obtain room ID. Please make sure an ids table has been made.
+20091_MESSAGE	Cannot withdraw during the Raid Period.
+20102_MESSAGE	Cannot withdraw during the Raid Period.
+20135_MESSAGE	Cannot remove during the Raid Period.
+21011_MESSAGE	Currently not an entry period. Please wait until the next entry period.
+21500_MESSAGE	Ranking Rewards currently not available.
+21600_MESSAGE	Ranking Rewards have already been obtained.
+19001_MESSAGE	Currently not available.
+18001_MESSAGE	Selected box is not available.
+18002_MESSAGE	You don't meet the cost.
+18003_MESSAGE	Cannot select more than the remaining number of boxes.<br>
+18004_MESSAGE	Boxes cannot be reset due to requirements not being met.
+21001_MESSAGE	Currently not available.
+20001_MESSAGE	Bonus currently not available.
+20002_MESSAGE	Cannot claim due to bonus being incomplete.
+22001_MESSAGE	Rental currently not available.
+22002_MESSAGE	Rental has already been obtained.
+22003_MESSAGE	Already joined.
+22004_MESSAGE	Cannot join due to lack of likeability.
+22005_MESSAGE	Likeability achieved. Cannot withdraw.
+22006_MESSAGE	Selected rental unit does not exist.
+22007_MESSAGE	Corrupted stats.
+22008_MESSAGE	Cannot withdraw during the rental period.
+23001_MESSAGE	Currently not available.
+23002_MESSAGE	No more cards can be drawn today.
+27001_MESSAGE	Currently not available.
+27002_MESSAGE	Currently not an entry period. Please wait until the next entry period.
+27003_MESSAGE	Cannot make any more attempts today.
+27004_MESSAGE	Target boss has been defeated
+27005_MESSAGE	No bosses available.
+27006_MESSAGE	Insufficient number of attempts left.
+27030_MESSAGE	Already claimed.
+27031_MESSAGE	There is a unclaimed expired gift.
+22009_MESSAGE	Elemental Soul Shards, Rainbow Soul Shards cannot be used for rental units.
+24001_MESSAGE	The rewards have already been claimed.
+24002_MESSAGE	Reward cannot be claimed due to insufficient amount of stars collected.
+24003_MESSAGE	Rewards from after tomorrow cannot be claimed.
+24004_MESSAGE	Star Mission is currently not available.
+25001_MESSAGE	Login Bonus is currently not available.
+25002_MESSAGE	Compensation cannot be claimed due to insufficient amount of compensation amount.
+25003_MESSAGE	Already claimed.
+25004_MESSAGE	Future Login Bonuses cannot be compensated.
+26001_MESSAGE	Auto Repeat cannot be used for this quest.
+26002_MESSAGE	All missions have not been completed.
+26003_MESSAGE	Auto Repeat already in progress.
+26004_MESSAGE	Auto Repeat is not activated.
+26005_MESSAGE	Invalid number of laps at present.
+26006_MESSAGE	Auto Repeat isn't unlocked.
+26007_MESSAGE	Invalid number of laps.
+26008_MESSAGE	Auto Repeat cannot be activated.
+403_MESSAGE	Corrupted stats.
+1401_MESSAGE	Please enter a different comment
+1802_MESSAGE	The selected unit is not part of the party setup.
+9027_MESSAGE	Wrong Memento selected for the equipment.
+9028_MESSAGE	Cannot equip the same Memento.
+9029_MESSAGE	Memento slot is locked.
+8603_MESSAGE	The selected ticket is not available.
+14101_MESSAGE	You do not have the selected BGM track.
+14102_MESSAGE	There isn't a playlist.
+14103_MESSAGE	You do not have the selected BGM track in the playlist.
+14104_MESSAGE	The BGM track is already in the playlist.
+20092_MESSAGE	Cannot withdraw during the Port Battle period.
+20103_MESSAGE	Cannot withdraw during the Port Battle period.
+20136_MESSAGE	Cannot remove during the Port Battle period.
+28000_MESSAGE	Currently not available.
+28001_MESSAGE	Cannot join.
+28002_MESSAGE	A unit that that cannot be used is included.
+28003_MESSAGE	Unit conditions do not match.
+28004_MESSAGE	The number of units exceeds the limit.
+28010_MESSAGE	Already in battle.
+28011_MESSAGE	Number of times to battle per day is exceeded.
+28012_MESSAGE	Currently not in period for battle.
+28013_MESSAGE	Not authorized to declare war.
+28014_MESSAGE	Cannot battle.
+28015_MESSAGE	Currently in a cooldown period.
+28016_MESSAGE	Cannot battle due to not being in an adjacent space.
+28018_MESSAGE	Cannot battle on the day you join the port.
+28020_MESSAGE	The maximum number of defense teams has been reached.
+28021_MESSAGE	Not in battle.
+28022_MESSAGE	Offensive team cannot be changed.
+28023_MESSAGE	Cannot set offensive attacks on the day you join the port.
+28030_MESSAGE	Unoccupied space,
+28031_MESSAGE	Cannot set defensive attacks on the day you join the port.
+28032_MESSAGE	The minimum number of defense units has not been reached.
+28040_MESSAGE	Currently not in period for battle.
+28042_MESSAGE	Defeated.
+28043_MESSAGE	Other user is attacking.
+28044_MESSAGE	Occupied by other user.
+28045_MESSAGE	The defense team has been set up so the space cannot be occupied. Please update.
+28046_MESSAGE	Currently in a cooldown period.
+28047_MESSAGE	Offensive team is not organized.
+19002_MESSAGE	You do not have the required item.
+19003_MESSAGE	You do not have enough.
+19004_MESSAGE	Conditions to skip have not been cleared.
+21002_MESSAGE	You do not have the required item.
+21003_MESSAGE	You do not have enough.
+21004_MESSAGE	Conditions to skip have not been cleared.
+21005_MESSAGE	Already claimed.
+26009_MESSAGE	The maximum number of drop slots has been reached.
+26010_MESSAGE	You require more Gems.
+29001_MESSAGE	Cannot equip.
+29002_MESSAGE	Cannot equip in selected placement.
+29003_MESSAGE	Enhance limit reached
+29004_MESSAGE	You require more enhancement materials
+29005_MESSAGE	Not enough Zeni or Gems.
+29006_MESSAGE	You do not have that Rune.
+29007_MESSAGE	Duplicate Runes equipped.
+29008_MESSAGE	Rune awakening limit reached.
+29009_MESSAGE	Cannot be awakened due to not being enhanced enough.
+29010_MESSAGE	Contains already equipped Rune.
+29011_MESSAGE	Max number of Runes.
+29012_MESSAGE	No awakening effect in the specified space.
+29013_MESSAGE	Storage limit reached.
+29014_MESSAGE	You require more Gems.
+29015_MESSAGE	Favorites cannot be separated.
+29016_MESSAGE	Not enough in the gauge.
+404_MESSAGE	Invalid account.
+3323_MESSAGE	You require more Gems.
+4017_MESSAGE	This is not for anything featured.
+4018_MESSAGE	Selected featured item does not exist.
+4019_MESSAGE	Specified featured item is incorrect.
+4020_MESSAGE	Featured summon cannot be selected.
+4021_MESSAGE	Featured item cannot be changed.
+4411_MESSAGE	The merchant shop's setting is unavailable.
+3705_MESSAGE	Cannot enter due to the game being a different version.
+3706_MESSAGE	There are too many support units.
+8111_MESSAGE	Extension function is still valid.
+8112_MESSAGE	Your level is not high enough to make a purchase.
+20250_MESSAGE	You cannot attend on the day you join.
+20251_MESSAGE	Port attendance is currently not available.
+20260_MESSAGE	On the corresponding day and time, only captains or vice-captains may claim the rewards.
+20261_MESSAGE	Captain reward is currently not available.
+20270_MESSAGE	Port Battle attendance settings cannot be changed during battle.
+27007_MESSAGE	Battle cannot be started.
+28005_MESSAGE	Currently in a preparation period.
+28019_MESSAGE	Cannot battle in the current cooldown period.
+28048_MESSAGE	Cannot attack during half time.
+2303_MESSAGE	The job has been unlocked.
+9030_MESSAGE	Gate has not been unlocked.
+3313_MESSAGE	Battle power does not meet the condition to unlock
+3324_MESSAGE	Unit does not meet the condition to unlock.
+31000_MESSAGE	Currently not available.
+31001_MESSAGE	Cannot battle.
+31002_MESSAGE	Daily attempt limit exceeded.
+31003_MESSAGE	Battle still in progress.
+31004_MESSAGE	Player Level is not high enough.
+31005_MESSAGE	Arena battle has already ended.
+31006_MESSAGE	Please wait a moment until the battle can start.
+31007_MESSAGE	Ranking is being calculated.
+31008_MESSAGE	Arena schedule cannot be found.
+4022_MESSAGE	Discount not available when holding summon items.
+4412_MESSAGE	Purchase has been cancelled due to exceeding Zeni limit.
+8113_MESSAGE	Item cannot be purchased.
+20280_MESSAGE	Incomplete mission.
+20281_MESSAGE	Mission rewards from before yesterday cannot be claimed.
+20282_MESSAGE	Already claimed.
+28006_MESSAGE	Contains items that cannot be used (gear/Memento/Truth Seal).
+28007_MESSAGE	No battles today.
+30000_MESSAGE	Currently not available.
+30050_MESSAGE	Currently not in period for attempts.
+30051_MESSAGE	Corrupted stats.
+30003_MESSAGE	Target boss cannot be found.
+30004_MESSAGE	Target boss has been defeated
+30006_MESSAGE	The unit has already been used.
+30007_MESSAGE	Battle has already ended.
+30008_MESSAGE	Last boss hasn't appeared yet.
+30010_MESSAGE	Gate of Pride hasn't been mastered
+32000_MESSAGE	You require more materials
+32001_MESSAGE	Level is already at max
+32002_MESSAGE	Currently not open
+32003_MESSAGE	You require more Zeni
+32004_MESSAGE	Cannot be reset
+32005_MESSAGE	Rewards are claimed
+32006_MESSAGE	Incomplete mission
+33000_MESSAGE	Currently not open
+33001_MESSAGE	Unit is currently deployed
+33002_MESSAGE	There are no units ready to be deployed
+33003_MESSAGE	Currently on expedition
+33004_MESSAGE	Deployment conditions haven't been met
+33006_MESSAGE	Expedition has not finished
+33007_MESSAGE	Deployment expansion is at max
+33008_MESSAGE	Expedition has already finished
+33009_MESSAGE	Expedition hasn't started
+9031_MESSAGE	All gates have been mastered
+9032_MESSAGE	Item cannot be used in this current period
+3325_MESSAGE	Maximum number of bulk skip checks<br>
+8114_MESSAGE	This premium sale item is currently not available
+8115_MESSAGE	Premium sale conditions haven't been met
+8116_MESSAGE	Products that can be purchased do not match<br>
+8505_MESSAGE	You cannot use the chat function at this time because you violated the terms of use<br>
+10021_MESSAGE	Includes a unit that cannot be deployed
+26011_MESSAGE	Auto Repeat in progress
+36000_MESSAGE	You require more points to claim rewards
+36001_MESSAGE	Reward is already claimed
+36002_MESSAGE	You require more points for the port
+35000_MESSAGE	Currently not open
+34000_MESSAGE	Selected unit cannot be trained
+34001_MESSAGE	The same unit cannot be trained<br>
+34002_MESSAGE	The energy limit is exceeded<br>
+34003_MESSAGE	The selected item cannot be used
+34004_MESSAGE	The selected space has not been unlocked
+34005_MESSAGE	There are unclaimed rewards

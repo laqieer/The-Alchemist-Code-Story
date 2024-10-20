@@ -1,0 +1,31 @@
+﻿001	Yes! Did it! I love making weapons! It's the best!	VO_lucille.lucille_sys_0008
+002	Excuse me.	VO_suiran.suiran_sys_0003
+003	What in the world...? Who are you?!	VO_lucille.lucille_sys_0025
+004	I am Suiran. I’m a blacksmith from Wadatsumi. I am looking for the blacksmith Lucia.	VO_suiran.suiran_sys_0002
+005	Uh... That's me. What can I do for you?	VO_lucille.lucille_sys_0004
+006	Oh! Nice to meet you! Recently, your weapons have been the talk of the town—among blacksmiths, at least. I wanted to stop by and take a look at your workshop.
+007	So you're a blacksmith as well, huh? If you don't mind me asking, what's with that giant hammer?	VO_lucille.lucille_sys_0044
+008	This is what I use to smith. I employ various mechanisms on this hammer to make my weapons. What do you use, Lucia?	VO_suiran.suiran_sys_0044
+009	Wow, that's so interesting! I've never seen anything like that. I guess every blacksmith has their own style! As for me, I don't use any tools.
+010	What? How can you smith without tools?!	VO_suiran.suiran_sys_0031
+011	Huh? Oh, I'll show you!	VO_lucille.lucille_sys_0037
+012	There we go!
+013	Th-that's...amazing! It was like the iron had a life of its own—like it just shaped itself into something new. It's more like magic than blacksmithing!	VO_suiran.suiran_sys_0046
+014	I'm sure that your weapons will just keep getting more and more popular...
+015	Yeah? It's totally normal to me, though. Whatever! Let me see your hammer!	VO_lucille.lucille_sys_0001
+016	Wow, wow, wow! So how do you use it?
+017	I'm surprised you don't know! While the iron's hot, I shape the weapon by striking it like "clank, bang, clunk!" and "wham, bam, thunk!" I'm really proud of my hammer!
+018	I like to keep things simple, so I always use my hammer to make my weapons and it's done in a jiffy!
+019	As much pride as I take in my work, more than anything, I just love seeing my clients happy!
+020	So long as they are pleased with my work, I’m satisfied, even if I'm making a weapon that will be used for war.	VO_suiran.suiran_sys_0010
+021	Huh? I don't get that mindset at all!	VO_lucille.lucille_sys_0031
+022	I don't think about that stuff. I just make what I make because I think it's fun!
+023	What? That's no good!
+024	A weapon that's made with that kind of unfocused feeling can never be good, no matter how popular it might be!	VO_suiran.suiran_sys_0031
+025	I don't know. I think what I make is pretty great.	VO_lucille.lucille_sys_0012
+026	There's no way that your arms are better than mine, though!	VO_suiran.suiran_sys_0012
+027	How dare you!	VO_lucille.lucille_sys_0016
+028	I guess I have no choice but to prove my weapons are the best by defeating you in battle!
+029	Fine. Let's go outside.	VO_lucille.lucille_sys_0037
+030	Don't forget, the winner is the one with the better weapons!	VO_suiran.suiran_sys_0006
+031	I know, I know! There’s no way I’m losing to you!

@@ -1,0 +1,87 @@
+﻿001	Gluuuurrrp!
+002	Was that the last one? Wow, I'm a long way from the village.	VO_tina.tina_sys_0030
+003	(The threat of the Jam still lingers in Saga. I can't just leave...)
+004	Hm? This is...	VO_tina.tina_chara_1009
+005	Oh, yeah... I used to come here with Father, all the time.
+006	Urgh!
+007	What's the matter, Tina? Is that all you've got?	VO_adne.adne_sys_0030
+008	Only with a pure, well-trained body can you control Ouija.
+009	You will eventually become a Shaman and lead the Toxotes tribe.	VO_adne.adne_sys_0001
+010	Do you think I can let someone who gives up this easily be the next Chief? Now, come at me!
+011	Right!	VO_tina.tina_sys_0005
+012	Nngh!	VO_adne.adne_sys_0027
+013	Father!	VO_tina.tina_sys_0027
+014	I'm fine. Just as I thought... You will grow to be a Shaman greater than me.
+015	Greater than...? I-I couldn't!	VO_tina.tina_sys_0025
+016	No, that is how it should be. The younger generations have always been the ones sustaining the land of Saga.	VO_adne.adne_sys_0039
+017	Father...
+018	Tina, do you love Saga?	VO_adne.adne_sys_0001
+019	I do! Of course!	VO_tina.tina_sys_0005
+020	The Toxotes, Father, and everyone else!
+021	Kiki, Adel, Leoferes... I love everything and everyone in this vast, natural land!
+022	Then you must become stronger. Earn the strength to protect those whom you love.	VO_adne.adne_sys_1023
+023	There will come a time when you must shoulder the fate of Saga. That is, if you can indeed manage to become stronger than me.
+024	I'm not so old as to let my child defeat me.	VO_adne.adne_sys_1047
+025	Right! I will keep your words in my heart and train even harder!	VO_tina.tina_sys_0007
+026	That's the spirit! But, never forget, Tina...	VO_adne.adne_sys_0037
+027	You, too, are part of Saga.
+028	Those who cannot defend themselves cannot defend others.
+029	I'm...part of Saga.	VO_tina.tina_chara_1009
+030	Do not think too hard about it, as you tend to do...	VO_adne.adne_sys_0030
+031	Though, some would say that's a good quality of yours.
+032	Thank you, Father.	VO_tina.tina_sys_0005
+033	Well, this is nostalgic. It's been a while since I've been here.	VO_tina.tina_sys_0007
+034	I'm part of Saga, huh?	VO_tina.tina_sys_0031
+035	Father, I love this land of Saga, even more so now than before.
+036	I just can't leave this place.	VO_tina.tina_sys_0029
+037	I have to let Mocca know.
+038	(Now...where is she?)
+039	...
+040	(Is he...threatened by me?)	VO_tina.tina_battle_1016
+041	What do you want?	VO_knightm.knightm_sys_0004
+042	(No, the boundaries among the tribes are dissolving, but... I guess he just still isn't sure how to act about it.)
+043	(Saga is changing. The Wind Matter has been restored, and the stiffened hearts of the people are starting to melt.)
+044	Is Mocca here?	VO_tina.tina_sys_0001
+045	Yeah... Mocca should be at the wind shrine.
+046	I see. Thank you.	VO_tina.tina_sys_0007
+047	Hey, uh...
+048	Yes?
+049	Thank you. I heard that if it weren't for you, Saga would be...
+050	Well... You know what I'm trying to say.
+051	Thank you. As comrades living in Saga, let's continue to work together to protect our home.	VO_tina.tina_battle_0018
+052	Y-yeah!
+053	Nnk!
+054	Concentrate! You must contain the Matter's power.	VO_voda.voda_sys_0001
+055	When you're manipulating the Matter's power within you, you must be aware that it may run wild, tearing you to shreds.
+056	Yes, Voda.	VO_tamith.tamith_sys_0029
+057	Haa...! Haa...! I'm...sorry. I just can't seem to get it right.	VO_tamith.tamith_sys_0035
+058	It's fine. Reabsorbing the Matter you discharged back into your body takes time to master.	VO_voda.voda_sys_0039
+059	We don't have the luxury of time. This one must become the Wind Sprite Alia.	VO_terre.terre_sys_0001
+060	There's no rush. Tamis is doing just fine.	VO_hoo.hoo_sys_0030
+061	That's exactly the kind of talk that comes under the title of "luxury." It is imperative that we get the Sprite Quartet assembled to rebuild Saga.	VO_terre.terre_sys_0029
+062	It doesn't help to be hasty. What we should do for the time being is watch over Saga with care.	VO_hoo.hoo_sys_0012
+063	Now, don't get started, you two. Tehre has a point.	VO_voda.voda_sys_0030
+064	We can't keep meeting here while the reconstruction is still underway.
+065	We do need her to be able to carry the Matter within her.
+066	Do you think I will be able to?	VO_tamith.tamith_sys_0030
+067	Don't worry, I have faith in you. I know you can do it.	VO_moca.moca_sys_1011
+068	That's right! Be confident, Miss Tamis!	VO_lizbeth.lizbeth_sys_0004
+069	Mocca... Lisbeth... I'll do my best!	VO_tamith.tamith_sys_1011
+070	Well, we will come again to train you. It is about time we return to our temples to store our various Matters.	VO_voda.voda_sys_0005
+071	We seem to have a visitor.	VO_terre.terre_sys_0001
+072	Excuse me...
+073	Miss Tina! What are you doing here?	VO_lizbeth.lizbeth_sys_0047
+074	Hey, Liz. I had something to talk about with Mocca.	VO_tina.tina_chara_1009
+075	With me?	VO_moca.moca_chara_1009
+076	Tina, Mocca... Can that talk wait for just a moment?	VO_tamith.tamith_battle_0019
+077	What's the matter, Tamis?	VO_moca.moca_sys_0006
+078	I...sense an ominous wind from outside.	VO_tamith.tamith_sys_0029
+079	The Jam?! We can talk later! Let's go, Tina!	VO_moca.moca_sys_0027
+080	Got it!	VO_tina.tina_sys_0037
+081	I'm coming, too!	VO_lizbeth.lizbeth_sys_1048
+082	Huh, how reliable. It seems our help isn't needed.	VO_hoo.hoo_sys_0007
+083	Hm...
+084	What is the matter, Tehre?	VO_voda.voda_sys_0006
+085	It is just... Something has caught my attention.	VO_terre.terre_sys_0022
+086	Something bothering you?	VO_hoo.hoo_sys_0005
+087	Mm...

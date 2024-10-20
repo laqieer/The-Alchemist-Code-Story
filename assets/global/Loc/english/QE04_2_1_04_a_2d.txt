@@ -1,0 +1,33 @@
+﻿001	I, Mocca of the Neva tribe, have returned. Is Fuu here?
+002	... ...
+003	Where is Fuu?	VO_moca.moca_sys_0002
+004	... ...
+005	I know you can hear me. What rudeness prompts you to ignore my question?	VO_moca.moca_sys_0001
+006	Hmph. We have no words to spare for one who holds discourse with other factions.	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+007	Exactly! Why would we let someone like you meet with Fuu! Don't make me laugh!	VO_mob-saga_omale.mog-saga_omale_sys_0037
+008	Right now, all of Saga is...ack! Aghh!	VO_moca.moca_sys_0012
+009	Hey... He's brought the blight with him.	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+010	We, the faction of Fuu, are warriors! How dare you soil our name with your blight! You should be ashamed of yourself!	VO_mob-saga_omale.mog-saga_omale_sys_0040
+011	Don't come near us. You'll spread your blight!	VO_mob-saga_ymale.mob-saga_ymale_sys_0016
+012	Hmph! Haa! Hoo!	VO_hoo.hoo_chara_1002
+013	Fuu! It is I, Mocca from the Neva tribe. So, you are here.	VO_moca.moca_sys_0002
+014	Mocca, is it? Have you concluded your investigation into the massive outbreak of the Jam?	VO_hoo.hoo_sys_0005
+015	Regarding my investigation, I still have not reached a definite conclusion yet.	VO_moca.moca_sys_0005
+016	However, I've come to issue a report regarding valuable information that I've obtained.
+017	The Gluttony army is behind the massive outbreak of the Jam.
+018	The Gluttony army... Hmph. If only the cursed Tehre faction hadn't engaged in trade with Gluttony this could've all been prevented.	VO_hoo.hoo_sys_0045
+019	Voda must have her hands full with the Jam wreaking havoc in her forests. If only they'd keep their problems to themselves.	VO_hoo.hoo_sys_0022
+020	Fuu...perhaps that's a somewhat selfish take on the situation.	VO_moca.moca_sys_0002
+021	I merely speak the truth. You've performed well. Now, stand down.	VO_hoo.hoo_sys_0007
+022	Although we may belong to a different faction, we all live in the same land of Saga. Does this situation not concern you in the least?	VO_moca.moca_sys_0042
+023	I said stand down.	VO_hoo.hoo_sys_0001
+024	Fuu...will you say the same if or when such an outbreak occurs at Lilith's Hill?!	VO_moca.moca_sys_0029
+025	Hyahahahahahah! Don't worry. If or when such an outbreak occurs, I'll take care it.	VO_hoo.hoo_sys_0008
+026	Fuu!	VO_moca.moca_battle_0019
+027	Do not underestimate the power of the Sprite Trio. We of the Fuu will protect the land of Saga.	VO_hoo.hoo_sys_0001
+028	There is one who's foreseen the destruction of Saga.
+029	Saga will not be destroyed. I will not allow it.
+030	She also foresaw Voda's death at the hands of General Georgios of the Gluttony army!
+031	Fuu, I'm sure that even you have noticed something is going on! There's a crisis that threatens to destroy all of Saga!	VO_moca.moca_battle_0019
+032	... ...!
+033	...We've got to hurry.	VO_tina.tina_battle_1016

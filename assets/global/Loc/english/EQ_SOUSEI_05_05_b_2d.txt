@@ -1,0 +1,75 @@
+﻿001	Whew, all done!	VO_adlai.adlai_sys_0006
+002	...I still have no clue why you wanted to collect a bunch of sea creatures all of the sudden.	VO_nix.nix_sys_0001
+003	Well, did you notice how little corruption there is in this area?	VO_adlai.adlai_sys_0007
+004	Fair enough, we haven't seen a single Fallen since coming here.	VO_kuienai.kuienai_sys_0005
+005	It was similar in the Luxuria Belt, but that was just 'cause there weren't any people around, but that's not exactly the case here.	VO_adlai.adlai_sys_0002
+006	This place is all totally thriving and prospering, right?
+007	So I figured it must be something about this ocean.	VO_adlai.adlai_sys_0031
+008	Now let's take a look at the results...
+009	Bingo! I had a feeling it'd be something like this. The deeper down the creature lives, the worse the corruption is.	VO_adlai.adlai_sys_0008
+010	So what does that mean?	VO_nix.nix_sys_0003
+011	It means that the source of the corruption in the Invidia Belt is...
+075	A large source of sinful magil at the bottom of the ocean.
+012	Back in my village, we believed that running water can banish evil... I can't help but be reminded of that.	VO_kuienai.kuienai_sys_0004
+013	According to my people, life is born on the surface of the water, while sin is swept by its currents and accumulates at the bottom of it.
+014	That must be where our Leviathan is! The shrine must be at the bottom of the ocean!	VO_adlai.adlai_sys_0007
+015	...How are we supposed to get there? Though I suppose we might not have to go... We did say we wouldn't kill the Cursed Beast this time.	VO_nix.nix_sys_0001
+016	Hm, about that... Well, I guess diving would be impossible anyway. The airship's hull wasn't built to withstand that kind of water pressure.	VO_adlai.adlai_sys_0016
+017	Not to mention it'd be hard to exit the ship and fight it, even if we did get there. Compared to the others, Leviathan will be a real tough nut to crack.	VO_kuienai.kuienai_sys_0031
+018	We'll have to keep all that stuff in mind.	VO_adlai.adlai_sys_0031
+019	You guys look like you're having fun.	VO_nimuru.nimuru_sys_0002
+020	Oh, Nimul. Sorry 'bout dumping this on you, but I'd like to hear your opinion too.	VO_adlai.adlai_sys_0004
+021	Anytime, but first I have a favor to ask as well.	VO_nimuru.nimuru_sys_0005
+022	A request?	VO_adlai.adlai_sys_0005
+023	Yes, I want you to think of a way to disable to magitek the Ira Belt knights were using.	VO_nimuru.nimuru_sys_0004
+024	Hm...	VO_dafne.dafne_sys_0030
+025	Hey there, little lady. You're looking awfully worried over there. What's up?	VO_andechs.andechs_sys_0002
+026	Eek—!	VO_dafne.dafne_sys_0027
+027	Hey now, what kinda response is that? You're going to hurt my feelings here.	VO_andechs.andechs_sys_0011
+028	Oh, my apologies... I was simply lost in thought.	VO_dafne.dafne_sys_0035
+029	You really lack confidence this bad, huh?	VO_andechs.andechs_sys_0003
+030	...H-huh? How did you come to that conclusion—	VO_dafne.dafne_sys_0001
+031	Anybody could tell. You've got a face on that's all 'I don't know why people are depending on me, so I'm feel very lost and worried about it".	VO_andechs.andechs_sys_0005
+032	...
+033	Ah, I'm not trying to insult you or anything, it's just that, you know—	VO_andechs.andechs_sys_0035
+034	It kinda looks like you're driving yourself into a corner here, that's all.	VO_andechs.andechs_sys_0031
+035	That's, well, perhaps...
+036	It's simply that I don't understand. I don't think I could become someone like you...	VO_dafne.dafne_sys_0030
+037	Oh?	VO_andechs.andechs_sys_0006
+038	I think your resolve is incredible. You are prepared to bid farewell to the place you were born and raised, all for the sake of justice.	VO_dafne.dafne_sys_0001
+039	I think that is truly what a knight should be like, but...I don't think that I...	VO_dafne.dafne_sys_0029
+040	Wait, hold up. I think we're dealing with a misunderstanding here.	VO_andechs.andechs_sys_0016
+041	Huh?
+042	All that stuff is just my own resolve! Knights, beliefs, justice, none of that's got anything to do with it!	VO_andechs.andechs_sys_0002
+043	E-excuse me?	VO_dafne.dafne_sys_0025
+044	All that stuff was just me choosing my own answers! There's no need for you to imitate me.	VO_andechs.andechs_sys_0005
+045	You should do things your own way. The right answer isn't going to fall down from the sky if you just wait for it.
+046	You've gotta pick your own ideals, accept yourself, and figure out the right answer yourself.
+047	An answer that you can be proud of. One that you can fight for without regrets.	VO_andechs.andechs_sys_0007
+048	I should...find my own answer...?	VO_dafne.dafne_sys_0001
+049	Yup. I'll admit that's a pretty arrogant way to think about things, but that's just another form of a knight's honor.	VO_andechs.andechs_sys_0031
+050	It's fine if you act a little more selfishly. If you want something, say it. If you want to scream, that's fine too.	VO_andechs.andechs_sys_0001
+051	You can run away if you're scared and it's fine to fall to your knees if you're in despair.
+052	But if you're scared, if you're suffering, and you don't want to give up? It's fine not to give up too.	VO_andechs.andechs_sys_0002
+053	When things get hairy, you should ask the people around you for help too. Especially me, I'm kind of super free all the time, so just give me a call and I'll come running.	VO_andechs.andechs_sys_0008
+054	That's... I...
+055	Some food for thought, right?	VO_andechs.andechs_sys_0006
+056	Yes, thank you. I will... I will take some time to think about what I want to do.	VO_dafne.dafne_sys_0033
+057	Then I can rest easy. Oh, by the way, you don't have to tell anyone when you reach a conclusion if you don't want to.	VO_andechs.andechs_sys_0005
+058	Since secret vows are pretty cool too, you know.	VO_andechs.andechs_sys_0004
+059	Haha.	VO_dafne.dafne_sys_0007
+060	His words calmed me down a little bit.
+061	At that time, I could've chosen to run away...
+062	But my answer... The thing I want to protect...
+063	If I can find my answer, I think I might just have a way to still these trembling hands of mine...
+064	...
+065	Deliver your report...	VO_arius.arius_sys_0001
+066	Y-yes, sir! Thanks to the serpent's assistance, all ships are cleared to leave port!
+067	They did not notice our vanguard approach. We believe that our ambush will go swimmingly as well—
+068	No—	VO_arius.arius_sys_0014
+069	...Wh-what?	VO_stknightm.stknightm_sys_0025
+070	No. No no no no no!! Forget about that!	VO_arius.arius_sys_0015
+071	The enemy will notice! They will bare their fangs!	VO_arius.arius_sys_0010
+072	Deploy all troops! We will trample their lands!	VO_arius.arius_sys_0001
+073	Y-yes, sir! I'll tell all troops to set sail! We'll launch our attack at once—!	VO_stknightm.stknightm_sys_0018
+074	Aaahh.... Andechs....! I will... I wiiiiiiill....!	VO_arius.arius_sys_0018

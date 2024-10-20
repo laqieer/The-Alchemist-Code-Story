@@ -1,0 +1,70 @@
+﻿001	"I beseech the supreme..."	VO_kamui-b.kamui-b_favorite_0001
+002	"The kingdom shall inherit the crown, and the heavenly gates shall open for the souls of the pure. Save us, heal us, spare us!"	VO_kamui-b.kamui-b_favorite_0002
+003	"Sephiron, our great Mother, the Tree of Life, crowned supreme; we who pass into temptation, beyond the tertium sephirah, beyond the crossroads."	VO_kamui-b.kamui-b_favorite_0003
+004	"Save us, the lost souls!"	VO_kamui-b.kamui-b_favorite_0004
+005	Grr...	VO_jam.jam_battle_0008
+006	I-Is it over?	VO_hisham-b.hisham-b_sys_0020
+007	Yes. I believe so.	VO_kamui-b.kamui-b_sys_0004
+008	I see... So the regrets and anguish of those who attempted to protect Hisham that day were partially absorbed into his Alchemia, which resulted in Sephiron calling him here.
+009	Then the Jam just now were the result of Beelzebub's curse?	VO_kamui-b.kamui-b_sys_0037
+010	Yes. However, the altar has returned to its usual purified state.	VO_malta.malta_sys_0005
+011	Um... I'm sorry, I...	VO_hisham-b.hisham-b_sys_0001
+012	You were not at fault. To feel pain is normal. The burden you now carry... I am sorry that it is so heavy.	VO_kamui-b.kamui-b_favorite_1007
+013	Kamui, I... I...	VO_hisham-b.hisham-b_sys_0020
+014	Hisham?!	VO_kamui-b.kamui-b_sys_0027
+015	He's fine. He just needs some rest.	VO_malta.malta_sys_0016
+016	That's...good to hear.	VO_kamui-b.kamui-b_sys_0045
+017	You did well, Kamui.	VO_iakof.iakof_sys_0045
+018	Chief?! I-I must apologize for such a ruckus near our sacred altar.	VO_kamui-b.kamui-b_sys_0027
+019	There is no need. I have seen for myself what happened here.	VO_iakof.iakof_sys_0039
+020	Malta, take Hisham back to his home. Kamui and I still have some things to discuss.	VO_iakof.iakof_sys_0001
+021	Understood. Hisham?
+022	Uhm, mmhm...	VO_hisham-b.hisham-b_chara_1002
+023	I see. So it was Hisham's grief that affected Sephiron so greatly.	VO_iakof.iakof_sys_0031
+024	Affected...? What happened, Chief? I have never heard of such a thing happening before.	VO_kamui-b.kamui-b_sys_0037
+025	You wouldn't have. That is the secret darkness that Sephiron holds.	VO_iakof.iakof_sys_0004
+026	Only those trusted to be the head of the tribe are trusted with this information.
+027	Kamui, you are aware that Sephiron has powers of purification, correct?	VO_iakof.iakof_sys_0001
+028	Yes, and that its power suppresses the curse of Beelzebub.	VO_kamui-b.kamui-b_sys_0006
+029	Therefore, we of the Sephira tribe have hidden ourselves and protected Sephiron for generations.
+030	Yes. That is correct. However, there is also a dark side to this story.	VO_iakof.iakof_sys_0004
+031	Sephiron wields the power of purification, which means she has the ability to identify and purify evil and corruption.
+032	However, there are some things that Sephiron cannot purify.	VO_iakof.iakof_sys_0022
+033	Such as...?	VO_kamui-b.kamui-b_sys_0027
+034	No matter how pure or just, there are none who do not hold the potential for darkness within their hearts.	VO_iakof.iakof_sys_0031
+035	That deep sadness carved into his heart, the lingering regret... This combination threw Hisham's Alchemia into a frenzy.
+036	Then, when he touched Sephiron, the purification powers of the great tree were corrupted into emitting misfortune instead.
+037	This is a result of Hisham's distorted Alchemia reacting to the curse of Beelzebub buried deep within Sephiron.
+038	So that is what caused this upheaval?	VO_kamui-b.kamui-b_sys_0027
+039	Yes. Any great quantity of Alchemia is enough to transform this world.	VO_iakof.iakof_sys_0004
+040	We, the Sephira, are able to control this phenomenon with our Spiritbonding, to a certain extent.
+041	However, Hisham has not been trained the way we have. He does not yet know what he can do.
+042	The despair within him must have awakened the darkness sleeping within Sephiron.
+043	Something that has been the source of blessings for our village has perhaps become...a liability.	VO_iakof.iakof_sys_0022
+044	However, our duty includes returning Sephiron to her original state in times like these.
+045	That is what it means to be the Protector of Sephiron.
+046	Ah... I believe I remember Isidore's father Judah saying something like that about his role as Protector.	VO_kamui-b.kamui-b_sys_0037
+047	Yes, but he did not finish training a successor before he died saving my beloved Malta.	VO_iakof.iakof_sys_0037
+048	And unfortunately, Isidore was not suited for such a role, so I had thought that perhaps this would be the end of the Protectors...
+049	...
+050	However, considering his instruction of you, it seems he saw that you would be able to take on the burden of Protector in his stead.	VO_iakof.iakof_sys_0031
+051	Well...	VO_kamui-b.kamui-b_sys_0027
+052	You impressed me with how you dealt with the curse just now. I did not see only Kamui, I saw the Protector.	VO_iakof.iakof_sys_0004
+053	You have proven yourself to me.	VO_iakof.iakof_sys_0001
+054	There is only one who is capable of connecting to the decimum sephirah and making use of the full potential of the sephirah.
+055	They bear the mark of one who has been chosen by Sephiron, their proof of having been chosen as Emmel's successor. Judah had the same mark.
+056	I...? The successor of Emmel...?	VO_kamui-b.kamui-b_sys_0021
+057	For one such as you, born to a distant relative of ours, to be saved by Judah that day...	VO_iakof.iakof_sys_0005
+058	I still remember the look in Judah's eyes when he informed me we would be taking you in.
+059	Perhaps it was Sephiron herself that led him to you.	VO_iakof.iakof_sys_0031
+060	That is why I have entrusted so many tasks to you that led you to the outside world.
+061	All so that you would be prepared to take on the role of protecting this village, and so protect the stability of this place which safeguards Sephiron.
+062	Yes, but...I am yet inexperienced and unprepared in many ways.	VO_kamui-b.kamui-b_sys_0018
+063	You understand, do you not, Kamui?	VO_iakof.iakof_sys_0039
+064	Hisham witnessed the darkness of Sephiron. This makes it clear that Sephiron is currently unstable.
+065	If his heart wavers again, it is possible that Sephiron may respond the same way she did today.
+066	When that happens, if Sephiron cannot be purified, Beelzebub's curse will overwhelm the great tree and this land will begin to die.
+067	If we are to take that boy into our village, we must have someone to subdue the curse.
+068	You have only one of two choices. Either succeed the role of Protector, or be prepared for Hisham to be expelled from the village.
+069	Those are my only choices?	VO_kamui-b.kamui-b_battle_0019
+070	Which will you choose? I will allow you to take some time to consider this, Kamui.	VO_iakof.iakof_sys_0031

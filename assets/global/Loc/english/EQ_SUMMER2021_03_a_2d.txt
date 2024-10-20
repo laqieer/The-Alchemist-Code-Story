@@ -1,0 +1,69 @@
+﻿001	Land ho! This should be where the cave with the treasure is!	VO_shengmei.shengmei_sys_0032
+002	We're finally here... I can feel my heart pounding.	VO_siyi.siyi_sys_0018
+003	Well, before we head into the cave, we should alert Albea and the others as to our arrival.	VO_shengmei.shengmei_sys_0023
+004	Um... How exactly do we do that again? Liu Shen!	VO_shengmei.shengmei_sys_0025
+005	Never fear. Leave it to me!	VO_lusheng.lusheng_sys_0030
+006	This seems like it might take some time.	VO_neferty.neferty_chara_1005
+007	How about we go ahead, survey the surrounding area and assess the situation?
+008	B-By yourself? That could be dangerous...	VO_siyi.siyi_sys_0025
+009	Thank you for your concern, but I'll be fine. I'm more than capable of defending myself.	VO_neferty.neferty_sys_0005
+010	You should do as Shenmei has instructed. Please.	VO_neferty.neferty_sys_0002
+011	I wonder if this is okay...
+012	Hmm... As I expected, the lay of the land here isn't that different from the desert.	VO_neferty.neferty_sys_0045
+013	But the humidity inside the cave is much higher than outside. There's likely some water pooled, making it muggy and sticky.
+014	Is that...? A demon?! No, it's...
+015	An octopus? It's my first time seeing one, but there is something unsettling about how it moves about.
+016	What the...? Is it coming this way?	VO_neferty.neferty_sys_0006
+017	It doesn't seem like a dangerous foe. But if it gets its tentacles on me... Hah!	VO_neferty.neferty_chara_1005
+018	Pfew...	VO_neferty.neferty_sys_0030
+019	Nefertiti!
+020	Sorry you had to investigate on your own! Everything okay? Any octopuses?	VO_shengmei.shengmei_sys_0035
+021	No problem at all. I was just curious, so I went ahead to take a look around.	VO_neferty.neferty_sys_0005
+022	The cave seems precariously unstable. We should be safe to search, but I think we should conclude our business as quickly as we can.
+023	I don't see any new footprints or signs of a struggle, so I don't think the other pirates have come yet. Still, there are some unusual traces.
+024	Oh? What did you find?	VO_lusheng.lusheng_sys_0006
+025	It's only a small amount, but there's soil from a different location mixed in here.	VO_neferty.neferty_sys_0004
+026	It's different from the earth and sand outside the cave. It may've been stuck to something and fallen off inside.
+027	That's all I know. I was planning to investigate a little more and eliminate potential dangers next.	VO_neferty.neferty_sys_0031
+028	A-Astounding! You were able to discern so much in such a short time.	VO_siyi.siyi_sys_0009
+029	It's nothing. I just like to do what I can to be ready. I like to be prepared.	VO_neferty.neferty_sys_0007
+030	I suppose, I grew up in an environment where that was very important.
+031	I see. Impressive... It's certainly not something I could do.	VO_shengmei.shengmei_sys_0044
+032	Looking ahead and plotting the first move... You like to play it by ear too much for that, Xiao-Xiao.	VO_lusheng.lusheng_sys_0007
+033	Gah! I know it's true, but it hurts to hear it. I feel like some fool, leaving everyone else to take care of things.	VO_shengmei.shengmei_sys_0016
+034	...
+035	(But what if I were able to be more like Nefertiti?)
+036	(I wonder if things would go better that way.)
+037	Shenmei? What is it?	VO_siyi.siyi_sys_0002
+038	Huh? Oh! No, it's nothing!	VO_shengmei.shengmei_sys_0005
+039	Let's get this show on the road! Time to solve the mystery of the map!
+040	W-Wait up, Shenmei!	VO_siyi.siyi_battle_0019
+041	She certainly has some pep.
+042	...
+043	Nothing seems particularly out of the ordinary in the cave so far... But there's a fork in the road?	VO_shengmei.shengmei_sys_0031
+044	Which way do we go? Okay, time to rely on my gut!
+045	Don't do that.	VO_lusheng.lusheng_sys_0015
+046	Hmm... How about we go to the left?	VO_neferty.neferty_sys_0005
+047	Huh?! How did you decide so fast?	VO_shengmei.shengmei_sys_0026
+048	I feel a breeze coming from up ahead. If we go that way, the cave should open up. That seems like the best path to search first.
+049	That makes sense... That being the case, I think we should go left.	VO_shengmei.shengmei_sys_0045
+050	Hmm... I'd thought that I was the one with all the treasure-hunting experience...
+051	Isn't relying on your intuition how you've become lost in caves before?	VO_lusheng.lusheng_sys_0003
+052	Oh, is that true?	VO_neferty.neferty_sys_0006
+053	I recall the cave seeming shaky, as well. And then the exit was blocked by a cave in...	VO_siyi.siyi_sys_0031
+054	We knew the rocks could be unstable, so we tried to move quickly. However, our captain cheerfully sauntered into the unknown...	VO_lusheng.lusheng_sys_0010
+055	Oh... Is that what happened?
+056	B-But! We found another way safely out! It was fine! I suppose I should try to take in my surroundings, though...	VO_shengmei.shengmei_sys_0039
+057	Oh, Nefertiti! As we go further in, could I ask you to survey the geology of the cave?	VO_shengmei.shengmei_sys_0001
+058	I'd like you to find potential alternate ways out, and see what we can do to avoid a cave in.
+059	I don't mind at all. I was already thinking about that myself.	VO_neferty.neferty_sys_0005
+060	Thank you! You said things seemed precarious, so we should be prepared for any eventuality!	VO_shengmei.shengmei_sys_0034
+061	Hmm... The ground is a little weak here, and the humidity is much higher than at the entrance.
+062	And this wall is really dangerous... A little knock could have a massive effect.
+063	Oh my!	VO_neferty.neferty_sys_0042
+064	Hey! Your fight is with us! Don't worry Nefertiti, we'll take care of the octopuses! Let's have at it!	VO_shengmei.shengmei_sys_0038
+065	Well... That's fine teamwork. I'll take you at your word and focus on my survey of the cave.
+066	...Huh?	VO_neferty.neferty_sys_0006
+067	This is...
+068	Ah! There are octopuses here, too?!	VO_neferty.neferty_sys_0021
+069	Did they get separated from their group? I wish I could simply do my investigating, but... I suppose I must deal with this first.	VO_neferty.neferty_sys_0045

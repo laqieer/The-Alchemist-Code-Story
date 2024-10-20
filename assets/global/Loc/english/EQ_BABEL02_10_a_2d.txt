@@ -1,0 +1,101 @@
+﻿001	...
+002	(I cannot stop myself from treading down this path. Even if I lose all of my comrades and am forced to walk it alone, I must continue to bear the hopes of the many.)
+003	I must forge on... Isn't that right, Letitia?	VO_zaharu.zaharu_sys_0027
+004	...
+005	Vettel!	VO_ren.ren_battle_0019
+006	Ren...?
+007	What happened?! Why the hell weren't you there?! Why were they there instead?!	VO_ren.ren_sys_0013
+008	"They"...?	VO_vetel.vetel_sys_0025
+009	They were clad in what looked like Paladin armor. I think they called themselves the Corpse.	VO_ren.ren_sys_0018
+010	You say...they were Paladins?!	VO_vetel.vetel_sys_0026
+011	Why would they send Paladins? Could they have a plan in motion? No...that can't be...	VO_vetel.vetel_sys_0042
+012	What are you babbling about?	VO_ren.ren_sys_0025
+013	We've...been outmaneuvered.	VO_vetel.vetel_chara_1007
+014	Outmaneuvered...? By who?	VO_ren.ren_sys_0006
+015	It must have been the Blue Flame Guard... No. The minister. We were originally ordered by the Minister to disregard Shadow Messiah.	VO_vetel.vetel_sys_0030
+016	No way...	VO_ren.ren_sys_0025
+017	What happened to Zah...to Shadow Messiah?
+018	Most of them were killed...when the Philosopher's Stone mine exploded.	VO_ren.ren_sys_0030
+019	Zahar...Zehn, Ila...and those who remained behind at the stronghold are all that's left.
+020	What about the one named Corvus?
+021	Dead. He was killed by the Paladins who call themselves the Corpse.	VO_ren.ren_sys_0018
+022	I see...
+023	So? What's our move, boss?	VO_ren.ren_sys_0002
+024	If I were able to make any moves, I would. However, we have been consigned to a joint drill with the Holy Guard.	VO_vetel.vetel_chara_1007
+025	We depart for Northern Pride immediately.
+026	Wait...what?	VO_ren.ren_sys_0016
+027	Regardless, I cannot allow you continue on such a perilous mission.	VO_vetel.vetel_sys_0030
+028	That's not—!	VO_ren.ren_sys_0025
+029	Shadow Messiah are waning in power. They won't try anything for the time being. Besides...	VO_vetel.vetel_event_1015
+030	Besides, what?
+031	I know for certain that I will once again face Zahar on the battlefield. I feel it in my bones.	VO_vetel.vetel_sys_0031
+032	How...did this...happen? Why...? Why are you so bruised and battered?!	VO_ila.ila_sys_0020
+033	Ugh... Lord Zahar...	VO_knightm.knightm_sys_0019
+034	Tell me. What has transpired here?!	VO_zaharu.zaharu_sys_0027
+035	It was...a surprise attack...by the Holy Guard.	VO_knightm.knightm_sys_0018
+036	The Holy Guard! Again!
+037	...?!	VO_zaharu.zaharu_battle_0019
+038	They have shattered my Sacred Darkstone! You...will rue this day, you holy curs!	VO_zaharu.zaharu_sys_0019
+039	We simply cannot have you doing whatever you please.	VO_waginao.waginao_sys_0010
+040	Who might you be?
+041	Zahar, this would be our first meeting in person.	VO_waginao.waginao_sys_0007
+042	I see. I have heard of you before. You are the mastermind behind the Holy...no. Behind the Corpse.	VO_zaharu.zaharu_sys_0031
+043	You go by the name Waginau, I believe.	VO_zaharu.zaharu_sys_0002
+044	Indeed, I do.	VO_waginao.waginao_sys_0004
+045	What is your purpose in all this?	VO_zaharu.zaharu_sys_0018
+046	Equilibrium in the world.	VO_waginao.waginao_chara_1012
+047	Ha. Lies. Your organization is bent on wide-scale conquest, and you are the one who pulls the strings from the shadows.	VO_zaharu.zaharu_sys_0010
+048	You have it wrong.	VO_waginao.waginao_sys_0022
+049	How so? You sow the seeds of war and ensure that chaos runs rampant throughout the world.	VO_zaharu.zaharu_chara_1008
+050	You boast of building an orderly society, yet you commit the kinds of heinous acts that can only promote anarchy.
+051	Within chaos, lies truth. Conflict is the stabilizer of this world. Order, under the guise of chaos, is essential to generate conflict...which in turn affords us equilibrium.	VO_waginao.waginao_sys_0010
+052	Such hypocrisy will not lead to truth, nor could it ever result in true order. I will be the one to bestow upon this world its new order.	VO_zaharu.zaharu_sys_0013
+053	The truths we both seek, Zahar, are in fact one and the same. Zahar... Won't you join me?	VO_waginao.waginao_chara_1012
+054	...
+055	I have had my eye on you ever since you rose through the ranks as a knight in the Holy Guard. Will you not take my offer?	VO_waginao.waginao_sys_0007
+056	I will not serve you like some mongrel dog, nor do I have any interest in becoming one of your animated dead.	VO_zaharu.zaharu_sys_0029
+057	Such is not my intention. Under my guidance, you would be molded into a true King of Darkness.	VO_waginao.waginao_sys_0022
+058	This is a waste of time.	VO_zaharu.zaharu_sys_0016
+059	So be it. I was aware from the beginning that this would be your answer.	VO_waginao.waginao_sys_0010
+060	I am the savior of the shadows, and I will claim the title of King of Darkness without your help.	VO_zaharu.zaharu_sys_0010
+061	How disappointing to hear. However, Zahar, I concede that you are truly a hero of the darkness.	VO_waginao.waginao_sys_0030
+062	I shall see that your name is carved unto the hearts of our people, and allow your memory to endure the test of time.
+063	Even so... you may not be the one to control the darkness of this world, for the darkness within you is too intense.
+064	Once I have finished with you, my pure darkness will shine upon the world, make no mistake.	VO_zaharu.zaharu_battle_0006
+065	Fare thee well.	VO_waginao.waginao_sys_0010
+066	This world will be remade in my image.	VO_zaharu.zaharu_sys_0016
+067	Lord Zahar! Lord... Lord Zahar!!!	VO_ila.ila_sys_0018
+068	Ila...?
+069	I can’t find Mia nowhere. They musta taken her!	VO_ila.ila_battle_0019
+070	What did you say?	VO_zaharu.zaharu_sys_0026
+071	The Holy Order has truly rotted right down to the core if they have the audacity to kidnap a little girl!	VO_zen.zen_sys_0022
+072	Please! I'm beggin' ya... Save Mia!	VO_ila.ila_sys_0041
+073	We will pursue immediately. Mia will not be lost on my watch.	VO_zaharu.zaharu_sys_0037
+074	Lord Zahar... Why can’t I join the Shadow Messiah?	VO_mea.mea_sys_0002
+075	Mia, let me ask you: Why do you want to join us?	VO_zaharu.zaharu_sys_0007
+076	Why? Because...I want to be useful to you, just like Ila.	VO_mea.mea_sys_0025
+077	In that case, I want you to remember: One's worth is not limited to the field of battle.	VO_zaharu.zaharu_sys_0022
+078	It's...not?	VO_mea.mea_sys_0031
+079	That it is not. At this moment, we have no choice but to fight, in order to change the world.	VO_zaharu.zaharu_sys_0004
+080	We, Shadow Messiah, will form the cornerstone of the new world...but your role must be different.
+081	But...why?	VO_mea.mea_battle_1018
+082	You will stand atop the foundations we lay. You will live in the world we strive to build.	VO_zaharu.zaharu_sys_0007
+083	When that time comes, you must obey the laws we establish and contribute to society in an orderly manner. That is how you can be of use to me. Do you understand?
+084	Sorry... I don't...think I get it.	VO_mea.mea_sys_0035
+085	Hm. That's fine. You don't have to understand right now.	VO_zaharu.zaharu_sys_0008
+086	Lord Zahar...	VO_mea.mea_sys_0018
+087	Are you awake?	VO_thiefm.thiefm_sys_0029
+088	?!	VO_mea.mea_battle_0020
+089	No need to be frightened, little one. We don't want to hurt you. Nor will we have to, if you behave.	VO_thiefm.thiefm_sys_0030
+090	Wh-why did you kidnap me?	VO_mea.mea_battle_0026
+091	You must already know, precious bait. To lure Zahar out, of course.	VO_thiefm.thiefm_sys_0010
+092	B-bait...?
+093	Oh, look...he's biting. Hehehe. Just like we planned.	VO_thiefm.thiefm_sys_0008
+094	Oh no!	VO_mea.mea_sys_0025
+095	Lord Zahar! Ila!!! Stay away!!!	VO_mea.mea_battle_0020
+096	Mia, we're comin' ta save you!	VO_ila.ila_battle_0019
+097	It never ceases to amaze me how low you lot are willing to stoop.	VO_zaharu.zaharu_sys_0019
+098	Hehehe. We must eliminate interlopers like you, for the sake of peace!	VO_thiefm.thiefm_sys_0023
+099	So you'll do whatever you decide to be correct? It is my understanding that Waginau would prefer to have me under his command...	VO_zaharu.zaharu_sys_0027
+100	No matter. However strong you might be, or how powerful your alchemy, it won't be enough to polish my boots! Bow before me, for mine is the way of truth!
+101	I shall reign supreme over the darkness, and become a god of blight to eradicate the old world!	VO_zaharu.zaharu_sys_0032

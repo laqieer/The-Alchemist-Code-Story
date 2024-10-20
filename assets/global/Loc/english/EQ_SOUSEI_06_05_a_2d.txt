@@ -1,0 +1,106 @@
+﻿001	There's an entire underground area! Look how big it is!	VO_mela.mela_sys_0025
+002	They must've built it here to avoid that eruption from before.
+003	You've got it.	VO_andechs.andechs_sys_0005
+004	Everybody moved underground to avoid the fire and corruption.
+005	But what's with this lack of security?	VO_mela.mela_sys_0045
+006	Shouldn't there be, like, guards shouting at us? "Identify yourselves, scoundrels!" or something. You know what I mean?
+007	It may be because of Imnus's diversion. Or, at least I'd like to hope so.	VO_kuienai.kuienai_sys_0031
+008	Yes. Let's hope that's all there is to it.	VO_nimuru.nimuru_sys_0004
+009	Which way to the castle?
+010	This way.	VO_andechs.andechs_sys_0004
+011	...
+012	...
+013	This place is totally different from the mining facilities in the Acedia Belt.	VO_adlai.adlai_sys_0044
+014	Probably because people actually live here.
+015	But you can see that it's started crumbling here and there. Are they just neglecting the upkeep?	VO_nix.nix_sys_0004
+016	It's also awfully quiet for a city. You'd expect at least a little bit of hustle and bustle.	VO_kuienai.kuienai_sys_0005
+017	No, this is very unusual... Where is everyone?	VO_andechs.andechs_sys_0031
+018	This is one of the few places where people can still survive in the Ira Belt, so why...
+019	It may be suspect, but it's also the best chance we have to venture deep into the Ira Belt.	VO_nimuru.nimuru_sys_0005
+020	However... Trap or not, it's definitely unusual.
+021	Maybe they encountered something unexpected.	VO_nimuru.nimuru_sys_0031
+022	...Mt. Shinai burned them all.
+023	Were you following us?	VO_andechs.andechs_sys_0006
+024	A few days ago, Mr. Shinai started spewing vast quantities of corruption.
+025	The knights who stood guard were the first to die. Then the retired knights.
+026	Soon, even the women and children also had to pick up a sword.
+027	And they couldn't handle it because most of the troops were busy with the invasion of Invidia. That really backfired on them...	VO_andechs.andechs_battle_0019
+028	But why is this happening? Didn't Quence say that he was in control of Satna?	VO_nimuru.nimuru_sys_0001
+029	Why would he allow it to harm the citizens of the Ira Belt?
+030	Maybe his control isn't as good as he implied. Perhaps that's why he needed Libra?
+031	That, or these sacrifices were part of his plan.	VO_kuienai.kuienai_sys_0030
+032	...If that's the case, we should contact the queen. Teres, right?	VO_nimuru.nimuru_sys_0005
+033	We might be able to negotiate.
+034	Then you should hurry. There's nothing left to see in this place.
+035	So the castle is completely deserted, too...	VO_andechs.andechs_sys_0016
+036	...
+037	...Here it is.
+038	So you've come.
+039	It's an honor, Queen of the Ira Belt. Allow me to introduce myself—	VO_nimuru.nimuru_sys_0004
+040	I know who you are.
+041	You are the ones who aided the Invidia Belt in vanquishing my troops.
+042	The ones that Quence called the Pursuers of Truth.
+043	We have some unresolved business with this Quence. I understand that the two of you are working together. Is that right?	VO_nimuru.nimuru_sys_0002
+044	That's right. The two of us conspired to invade the Invidia Belt.
+045	So, what business do you have with me? Have you come to cut my head off in retaliation?
+046	We did not come to fight. We'd rather talk.	VO_nimuru.nimuru_sys_0014
+047	I firmly believe that we can save this region if we work together.
+048	King Patricius of the Invidia Belt has already sworn to cooperate.	VO_nimuru.nimuru_sys_0005
+049	He will provide territory and all the living necessities for the refugees from the Ira Belt.
+050	So, please. What do you say?	VO_nimuru.nimuru_sys_0002
+051	...I see. You are much like my brother.
+052	Someone that believes in the good of humans, that virtue will be rewarded, and the delusion that everyone can live happily ever after.
+053	Those are lovely little dreams for peacetime. But I fear we are at war.
+054	I fear that cooperation means little when your head could be on the chopping block the next day.
+055	I'm not someone who carries that much faith in others.
+056	When humans are driven into a corner, dignity and pride are the first things that are thrown away.
+057	Of course there are some that stick to their principles right up till the very end or the sentimental fools that will continue to try and help others despite everything.
+058	But they are not in the majority.
+059	Mixing those of different cultures and backgrounds will inevitably lead to conflict, which will once more lead to destruction.
+060	The strongest are the only ones to rise from those ashes. Those left behind are those capable of ruling.
+061	They are the only ones worthy of surviving.
+062	...And that's us?	VO_andechs.andechs_sys_0001
+063	I don't get it. There must've been a way for you to carry on the king's aspirations after he fell to the corruption.
+064	So why didn't you?!	VO_andechs.andechs_sys_0042
+065	There's no point to all this banter.
+066	Quence. I got you your private audience with the pursuers. Just like you asked for.
+067	You take care of the rest.
+068	Of course, Queen Terese.
+069	Hello, pursuers. I've been waiting for you.
+070	Quence!	VO_nimuru.nimuru_battle_0022
+071	Give Libra back, jerk!	VO_mela.mela_sys_0013
+072	I'm terribly sorry, but that won't be possible. Besides—
+073	Once my plan is completed, you will no longer have need for such a weapon.
+074	What is that supposed to mean?	VO_nimuru.nimuru_sys_0006
+075	Oops, little slip of the tongue.
+076	Please, forgive me. My grand plan is so close to coming to fruition. I suppose my lips have gotten a little loose.
+077	Oh no! Nimul! Look out!	VO_eularea.eularea_sys_0029
+078	Huh?!
+079	Get away from him!	VO_dafne.dafne_battle_0004
+080	Corrupted flames? But how? This quantity would—
+081	GROOOOAAAAAH!!!	VO_dirtyflame.dirtyflame_battle_0028_a
+082	Loathsome living. Accursed humans...
+083	This world has long since fallen. Creation has forgotten its providence.
+084	I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL I WILL—	VO_dirtyflame.dirtyflame_battle_0028_c
+085	—make you perish, burn it all to the ground! All those within these purifying flames will be rendered little more than ashes!	VO_dirtyflame.dirtyflame_battle_0003
+086	Huh? Those flames took on a shape—
+087	The Cursed Beast.	VO_andechs.andechs_battle_0022
+088	That there is Satna. The mortal enemy of all those living in the Ira Belt.
+089	(It can't be.)	VO_dafne.dafne_battle_0019
+090	(I saw it. Back when it was fighting Leviathan at the border. This is not the same Cursed Beast.)
+091	(Is this truly Satna? Then what was the beast that I saw—?)
+092	This is Satna? It's different from the Cursed Beasts we've encountered so far.	VO_kuienai.kuienai_sys_0006
+093	Isn't this just a being made of flames?
+094	Well, I can't really speak for the other Cursed Beasts. I don't know many after all.	VO_andechs.andechs_sys_0031
+095	The only other one I witnessed for half a sec was the one in the Invidia Belt—
+096	And I gotta admit, that Leviathan was pretty different from what we're dealing with here.
+097	But this is definitely Satna.	VO_andechs.andechs_sys_0005
+098	This is what me and the other knights have been fighting this entire time.
+099	Fighting while never knowing when our next compatriot will succumb to its corruption.	VO_andechs.andechs_battle_0019
+100	It stinks... It stinks... This stench of the living... That which fuels my wrath—	VO_dirtyflame.dirtyflame_battle_0002
+101	Uhm, guys? I think it noticed us!	VO_adlai.adlai_sys_0027
+102	If that is truly a Cursed Beast, then Mesarthim's divine protection will stop its attacks!
+103	I will protect you!	VO_dafne.dafne_sys_0001
+104	I'll help, too.	VO_eularea.eularea_sys_0006
+105	Whatever that form is supposed to be, it's basically just a writhing mass of corruption! That means my Spiritbonding should be effective here!
+106	Thanks! Here it comes!	VO_nimuru.nimuru_sys_0004

@@ -1,0 +1,85 @@
+﻿001	You wish to see Lord Fraise? State your business.
+002	Uh, y-yes! I have a letter for him!	VO_leychel.leychel_sys_0005
+003	A letter, huh… If that's the case, I can deliver it for you.	VO_knightm.knightm_sys_0006
+004	No! It's very urgent! That's why I've got to deliver it to him personally.
+005	It's super-duper important. I need to ensure the sender that it was properly delivered. So--	VO_leychel.leychel_sys_0042
+006	Hmmm…	VO_knightm.knightm_sys_0031
+007	…I can tell you're skeptical. Maybe my face gives off a certain vibe…but I promise I'm not trying to trick you.
+008	Alright. If that's all you want, then let me speak with Lord Fraise.	VO_knightm.knightm_sys_0037
+009	That was quick! A-Are you sure?	VO_leychel.leychel_sys_0025
+010	I was expecting more of a back-and-forth… Things would never go this smoothly in Lustburg--no way.	VO_leychel.leychel_sys_0016
+011	Is that right? Well, if you do anything fishy, we'll lock you up on the spot…
+012	But your face does give the impression that you really need to deliver that letter.
+013	Th-Thanks for your understanding!	VO_leychel.leychel_sys_0007
+014	I hope that frown turns upside down after you complete your task. Our job is to bring smiles to the people.	VO_knightm.knightm_sys_0007
+015	I better get going then. Why don't you watch a training session while you wait?
+016	…So, they bring smiles to the people, huh? That's so cool.	VO_leychel.leychel_sys_0044
+017	They train this hard to protect their country and their people…and they fight with pride.
+018	On the opposite side of the spectrum, the witches drive away outsiders and place limitations on their own people.
+019	I know they're trying to protect Lustburg in their own way, but still…	VO_leychel.leychel_sys_0031
+020	…These knights are waaay cooler.
+021	Miss Rachel? Lord Fraise has completed his training. You may see him now. Please follow me.	VO_knightf.knightf_sys_0003
+022	Ah, yes! …Wait, you're a woman?	VO_leychel.leychel_sys_0005
+023	Is something wrong?	VO_knightf.knightf_sys_0025
+024	Oh, no. I just didn't know there were women in the knight's order. It's hard to tell…what with the helmets and all…
+025	The desire to protect this country is the same for men and women.	VO_knightf.knightf_sys_0007
+026	…Copy that.
+027	The commander of the Scarlet Flame Imperial Guard that was created to supplement the Blue Flame Guard is a female knight, you know.	VO_knightf.knightf_sys_0004
+028	It was Commander Chloe's idea to create the special unit in the first place.
+029	Interesting…	VO_leychel.leychel_sys_0045
+030	Well, well. Speak of the devil…
+031	Keep up the good work. How's everybody today?	VO_chloe.chloe_sys_0002
+032	Doing great! We always appreciate you looking out for us, so we're doing our best with today's training.	VO_knightf.knightf_battle_0002
+033	I'm happy to hear that! As long as we keep doing our best, we can protect our people--
+034	Hm? Who're you?	VO_chloe.chloe_sys_0001
+035	Ah! Er…I'm from Lustburg. I came to deliver a letter…and, um…	VO_leychel.leychel_sys_0025
+036	Wow, you traveled quite a ways, didn't you? Be careful on the roads, okay? Let us know if you ever need anything.
+037	Well, I've got to get going. See ya.
+038	She's so…COOL!	VO_leychel.leychel_sys_0024
+039	Sir, your visitor has arrived.
+040	Welcome. You must be Rachel. I've been told you have something you'd like to discuss with me…	VO_frayze.frayze_sys_0001
+041	N-Nice to meet you. I'm here to deliver a letter from Eve.
+042	Eve?	VO_frayze.frayze_chara_1007
+043	…
+044	…I see. If that's what she desires, then I…	VO_frayze.frayze_sys_0030
+045	…What's the matter?
+046	…! My apologies. I was lost in thought.	VO_frayze.frayze_sys_0042
+047	Thank you very much for taking the trouble to deliver this letter all the way from Lustburg. I'll arrange for someone to escort you on your way back.
+048	Er…um…	VO_leychel.leychel_sys_0003
+049	…What did it say? That should have been a love letter, but you don't look very happy!
+050	…I'm sorry. It's a private matter.	VO_frayze.frayze_sys_0031
+051	Yeah...b-but--It's my problem, too!	VO_leychel.leychel_sys_0016
+052	Because…Moa is my friend!
+053	You're a friend of Moa?
+054	Moa has been really worried about Eve lately--saying she isn't her usual self. If things don't work out between you two, Moa will be devastated. So…	VO_leychel.leychel_sys_0042
+055	…
+056	Fraise!
+057	…She said that was her final letter.	VO_frayze.frayze_battle_0020
+058	…Huh?	VO_leychel.leychel_sys_0025
+059	W-Wait! Let me see!
+060	My dearest Fraise,<br>Are you well? This may be sudden, but...this will be the last letter you receive from me.
+061	I'm so glad I met you. You made me really happy! Thank you for all the great memories.
+062	Please never change and always be the wonderful, honest man I love. Farewell.<br>Love,<br>Eve
+063	On the back of the stationery teardrops seem to have blurred tiny letters reading:
+064	"I love you."
+065	No way…	VO_leychel.leychel_sys_0018
+066	…
+067	…Are you gonna let things end like this?
+068	…If that is what she's decided, then I respect her decision.	VO_frayze.frayze_sys_0004
+069	You've gotta be kidding me! First of all, you totally don't get how Eve really feels.	VO_leychel.leychel_sys_0014
+070	She loves you enough to cry about it. You think she really wants to break up?!	VO_leychel.leychel_sys_0001
+071	…
+072	Secondly, rule #12 in the book of love states, " If a woman tells you goodbye, she wants you to chase her!"
+073	R-Really?	VO_frayze.frayze_sys_0025
+074	Of course! If you don't go now, who will bring a smile to Eve's face?	VO_leychel.leychel_sys_0005
+075	…
+076	Sir, it's almost time.	VO_knightm.knightm_sys_0003
+077	…Forgive me. It's time for training. We'll have to leave it at that.	VO_frayze.frayze_sys_0035
+078	Fraise!
+079	…You're more than welcome to watch, if you'd like. You did travel all the way to Envylia, after all.
+080	Today's training will include members of the Blue Flame Guard and the Scarlet Flame Guard. It should be a worthwhile spectacle.	VO_frayze.frayze_sys_0007
+081	Whoa…When will I get a chance like this again?
+082	…So, today I'm sparring with you, Vic? Wouldn't you prefer someone else?	VO_frayze.frayze_sys_0001
+083	I told you not to call me that. Besides…I can tell you're…	VO_victor.victor_sys_0016
+084	…Hm? What's wrong?
+085	…It's nothing. It's just…I have a feeling I won't lose to you today.	VO_victor.victor_sys_0031

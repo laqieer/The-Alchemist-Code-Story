@@ -1,0 +1,64 @@
+﻿001	Urk... Lady Tina! Fall back with His Highness and leave this to us!	VO_adalbert.adalbert_sys_0042
+002	Very well.	VO_tina.tina_sys_0004
+003	I am not such a coward as to turn my back on this battle!	VO_selliord.selliord_sys_0012
+004	Your Highness, I commend your loyalty, but there is no other option!	VO_adalbert.adalbert_favorite_0001
+005	Our country cannot afford to lose our king! Please, fall back!
+006	That's enough, Adelbert. I will no longer stand for your coddling. I may be little more than a figurehead here, but even I can understand the situation we are in.	VO_selliord.selliord_sys_0016
+007	The Liberation Army is at the end of its rope. The line is being held by little more than the fervor of our soldiers.
+008	If I retreat, what will become of them? I must stay, as a boon to their morale!
+009	It is only a matter of time before our ranks crumble, whether you stay or retreat! At least if you survive—!	VO_adalbert.adalbert_sys_0042
+010	Adelbert, you are wasting your breath. I shall not leave. The minute we began our advance, I made my decision to return victorious or not at all.	VO_selliord.selliord_battle_0019
+011	Your Highness...
+012	There must be some way we can still win!	VO_selliord.selliord_sys_0029
+013	Grrraaarrr?!	VO_jam.jam_battle_0027
+014	What?!
+015	Wind Ouija!!!	VO_moca.moca_battle_0007
+016	Is everyone all right?	VO_moca.moca_sys_0001
+017	Mocca! How?! Wait... If you're here, then...	VO_tina.tina_sys_1050
+018	I'm sorry to have kept you all waiting. I've brought reinforcements!	VO_moca.moca_sys_0004
+019	It looks like this is the source of the Jam.	VO_dios.dios_sys_0030
+020	Hmmm. Captain, I believe that we will be able to handle this. What are your orders?	VO_stknightm.stknightm_sys_0017
+021	Interesting. I didn't expect that you would be so eager to jump into the fray.	VO_dios.dios_sys_0005
+022	The Jam are the manifestations of the curse that threatens to consume this country. With this many of them present, it will not be long before it becomes a problem for the whole continent.	VO_stknightm.stknightm_sys_0018
+023	It's times like these that something as petty as borders and disputes between countries lose all importance.
+024	As knights of the Holy Guard who are charged with maintaining the order of Babel, our duty is to fight here against the enemy that endangers this entire continent!
+025	I see. Then I release you to such a noble duty. My only command is that you make sure to stay out of my way.	VO_dios.dios_sys_0010
+026	Understood. Knights of the Holy Guard, follow me!	VO_stknightm.stknightm_battle_0002
+027	I don't see Logi...	VO_agasa-b.agasa-b_sys_0025
+028	None of the Blue Tongues are here either. I suppose they have broken through the vanguard and are in the midst of the enemy.	VO_dios.dios_sys_0004
+029	Oh no!	VO_agasa-b.agasa-b_sys_0021
+030	Don't forget, he carries a Sacred Stone. Even a horde like this is unlikely to bring him to his knees.	VO_dios.dios_sys_0010
+031	Agatha, hide here and wait for me to return. Promise me you won't follow. If anything ever happened to you, Logi would never be the same.	VO_dios.dios_sys_0001
+032	O-okay.	VO_agasa-b.agasa-b_sys_0022
+033	The Holy Guard has come to our aid?!	VO_adalbert.adalbert_sys_0024
+034	Then, perhaps...	VO_tina.tina_sys_0037
+035	Blithering fools! With Cryphone awakened, no matter how many pests arrive to give you aid, this will be your end!
+036	Wh-what?! The Jam can talk?!	VO_stknightm.stknightm_sys_0026
+037	Do not falter! Whatever differences these might exhibit from the Jam that we have fought before hardly matter in the face of our Alchemy!	VO_dios.dios_sys_0017
+038	Hahaha... You are right in that Alchemy is a powerful weapon to use against us, but...
+039	What...is...?	VO_dios.dios_sys_0025
+040	Hahaha! You are far too outnumbered! We are limitless, we are multitude! Take one of us down, two, three, it doesn't matter! We feel no pain, and our loss is but temporary!
+041	Flail at us as much as you want!
+042	Don't underestimate us!	VO_dios.dios_battle_0021
+043	Hahahaha! Hahahahahahaha!
+044	Huzzah!	VO_logi-b.logi-b_battle_0008
+045	Huzzaaaahh!	VO_gaiorgeos.gaiorgeos_battle_0007
+046	Is everyone all right?!	VO_kamui.kamui_sys_0002
+047	Kamui! I would ask you the same, but your presence here is answer enough. Only...	VO_selliord.selliord_sys_0001
+048	Marie... So she really...
+049	We can save this conversation for later. First, let's get the Liberation Army out of here. Adelbert, are you ready?
+050	You have my gratitude, Kamui! With you and the Holy Guard here to cover us, we should be able to withdraw without too many casualties.	VO_adalbert.adalbert_battle_0018
+051	All soldiers, prepare to move out! Do not break formation! Advance more slowly!
+052	Leave behind anything you can! Our lances and swords are useless against them!
+053	Your Highness, hurry!
+054	Understood.	VO_selliord.selliord_sys_0001
+055	Now then...	VO_kamui.kamui_sys_0031
+056	I've always thought that I wouldn't see you again until it came time to fight you, but it doesn't seem like fate had the same plan.	VO_dios.dios_sys_0010
+057	The Holy Guard has come to relieve the rear guard on both flanks. I hope that will not be an issue.	VO_dios.dios_sys_0001
+058	It isn't. We and the Blue Tongues will handle the headquarters, then.	VO_logi-b.logi-b_sys_0004
+059	You are my opponents today? Show me what you can do!	VO_gaiorgeos.gaiorgeos_sys_0009
+060	Don't let yourself get too distracted here, Georgios. All we need to do is hold the line until the Liberation Army has successfully retreated.	VO_kamui.kamui_sys_0037
+061	Let's go!	VO_kamui.kamui_battle_0015
+062	The time has come for you to die before you ever understand what I have said to you... This is your end, Logi.
+063	What?! What was...? Was that...? No... Seida?!
+064	Oh well. I suppose justice is not so easily achieved, after all. I must see this through to its end.

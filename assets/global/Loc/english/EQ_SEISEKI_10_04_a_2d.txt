@@ -1,0 +1,86 @@
+﻿001	Northern Pride. Headquarters of the Holy Guard.
+002	Mistress!	VO_suzuka.suzuka_chara_1010
+003	I recalled that I'd heard of the Vessel of Reincarnation before.
+004	What is that you're holding?	VO_suzuka.suzuka_sys_0025
+005	It's a document that Lord Commander Zain entrust to me.	VO_kanon_3s_cano.kanon_sys_0004
+006	There is unique information in here regarding the station of a Lord Commander and other information that must not be released to the public.
+007	The Lord Commander's notes!	VO_kazahaya.kazahaya_sys_0026
+008	Does it mention the Vessel of Reincarnation?	VO_suzuka.suzuka_sys_0044
+009	Yes. The Vessel of Reincarnation concerns Nimul and Emmel.	VO_kanon_3s_cano.kanon_sys_0004
+010	The legendary siblings who created the Tower of Babel...?	VO_kazahaya.kazahaya_sys_0025
+011	Yes. According to history, they were the founders of Alchemy...said to be closest to god.	VO_kanon_3s_cano.kanon_sys_0004
+012	It's not public knowledge, but it has been said that every few hundreds of years their souls are reincarnated, thus returning to this world.
+013	Returning to this world...?!	VO_suzuka.suzuka_sys_0020
+014	The founders of Alchemy...?!	VO_kazahaya.kazahaya_sys_0025
+015	Yes. At least according to what Lord Commander Zain wrote here.	VO_kanon_3s_cano.kanon_sys_0004
+016	Apparently, Nimul and Emmel will descend in a Vessel that contains a Sacred Stone within their body.
+017	In that case...Lion Monarch Orion really is a Vessel of Reincarnation?!	VO_suzuka.suzuka_sys_0021
+018	At least he fits the criteria...that is if the legend is true.	VO_kanon_3s_cano.kanon_sys_0031
+019	Well, uh...what exactly happens when that reincarnation takes place.	VO_kazahaya.kazahaya_sys_0031
+020	If the reincarnation occurs, the Tower of Babel will ascend to the heavens... They will transcend the gods...eventually bringing about the end of this world.	VO_kanon_3s_cano.kanon_sys_0042
+021	That's what's written here. I don't know anything beyond that.
+022	The...end of this world...?!	VO_kazahaya.kazahaya_sys_0025
+023	The Tower of Babel will ascend to the heavens...	VO_suzuka.suzuka_sys_0031
+024	That's referring to that Babel Ruins in the center of Northern Pride, right?
+025	I've heard that those ruins are the decayed form of the former Tower of Babel.	VO_kazahaya.kazahaya_sys_0045
+026	That's why Orion's ultimate destination is Northern Pride.	VO_kanon_3s_cano.kanon_sys_0004
+027	He wants to gather all the Sacred Stones throughout the world in order destroy its equilibrium. Then, he plans to make his long-awaited march here.
+028	I-in other words...if he reaches Greed Dike...	VO_kazahaya.kazahaya_battle_0019
+029	This world will end...?!	VO_suzuka.suzuka_sys_0026
+030	No...there's no guarantee that's the case. Think about it...their reincarnation only occurs once every few hundred years.	VO_kanon_3s_cano.kanon_sys_0039
+031	If it was a certain thing, this world would've have been destroyed long ago.
+032	Right...but...what does it mean?	VO_kazahaya.kazahaya_sys_0030
+033	According to the secret history written in this document...	VO_kanon_3s_cano.kanon_sys_0031
+034	When Nimul's Vessel of Reincarnation appears, it has been said that Emmel's Vessel will appear at the same time.
+035	Emmel as well?	VO_suzuka.suzuka_sys_0025
+036	Yes. Both Nimul and Emmel...	VO_kanon_3s_cano.kanon_sys_0004
+037	One of the Alchemists will wield the Alchemy of Might and the other will wield the Alchemy of Compassion.
+038	The two forces will be like water and oil. They will slay each other and things will continue as they have always been.
+039	So Emmel will stop Nimul then?	VO_suzuka.suzuka_sys_0005
+040	That means...	VO_kazahaya.kazahaya_sys_0045
+041	There is a possibility that there is another individual in this world besides the Lion Monarch Orion who possesses a Sacred Stone within their body!
+042	You're right...!	VO_suzuka.suzuka_chara_1010
+043	The countries where the location of the Sacred Stone have not been made clear are Wratharis...and Slothstein...
+044	Even if we were to search both countries for the Vessel of Reincarnation...	VO_kanon_3s_cano.kanon_sys_0042
+045	I doubt we would find out anything in time for Greed Dike's assault, but...
+046	Kazahaya, just in case, send envoys to both countries.
+047	Understood!	VO_kazahaya.kazahaya_battle_0006
+048	I will report all of this to the Emperor. Suzuka, I'll leave matters here to you.	VO_kanon_3s_cano.kanon_sys_0041
+049	Got it!
+050	The Lion Monarch Orion seeks to destroy the equilibrium of power in this world and, by doing so, obtain Nimul's power.	VO_kanon_3s_cano.kanon_sys_0042
+051	It seems like this idea of his is more than a pipedream!
+052	Meanwhile...in Saga region. The Serenea Prairie.
+053	All of Saga is engulfed in a sinister atmosphere.	VO_caida.caida_chara_1004
+054	Something doesn't feel right. Is the Matter in danger again?
+055	...Uck...ahh...	VO_alexis.alexis_sys_0018
+056	...!
+057	...Ack... To-today is really a troublesome day.	VO_alexis.alexis_sys_0027
+058	I never thought a day like this would come.
+059	You're that doctor...!	VO_caida.caida_sys_1025
+060	Ye...yes... I...it's been a while...Se-Seida...	VO_alexis.alexis_sys_0046
+061	Are you hurt?! Hang in there!	VO_caida.caida_sys_0027
+062	N-no...it's nothing, really... M-my medicine would work...wonders on this.	VO_alexis.alexis_sys_1039
+063	Please! Don't move!	VO_caida.caida_chara_1011
+064	M-more importantly...you should hurry on ahead.	VO_alexis.alexis_event_1003
+065	At this rate...the w-water and w-wind factions will be destroyed...as well.
+066	What happened to the earth and fire factions?!	VO_caida.caida_sys_0027
+067	Th-they're on the brink of destruction...their lights just about to be...snuffed out.	VO_alexis.alexis_sys_0027
+068	What happened to the Spites?!	VO_caida.caida_sys_0021
+069	I-it seems their Matter was removed from their bodies. Their lives have been spared...	VO_alexis.alexis_sys_0042
+070	It appears your advice for them to be prepared...helped them escape the worst outcome.
+071	Orion...how could he?!	VO_caida.caida_sys_0018
+072	U...uck... Th-that's not exactly...correct.	VO_alexis.alexis_sys_0018
+073	How so...?	VO_caida.caida_sys_1025
+074	It...it was a man called Sol, all dressed in black, who attacked.	VO_alexis.alexis_sys_0006
+075	Of the Templars...?!	VO_caida.caida_sys_0027
+076	I-I'm not really familiar...with the Templars you refer to, but...	VO_alexis.alexis_sys_0031
+077	It appears that several of Gluttony Foss' armies were destroyed singlehandedly by that man.
+078	!!!
+079	In...in any case...y-you'd best hurry. That red-headed girl who's also from the Holy Guard appears to have been captured.	VO_alexis.alexis_sys_0018
+080	Kagura?! Ack! Where is Sol right now?!	VO_caida.caida_sys_1025
+081	He's either at the water or wind factions...	VO_alexis.alexis_sys_0031
+082	The Beast Tamer Melda is...appears to be pursuing him, although...it might be too late now.
+083	...!
+084	C-come...there's no time to waste. I-I'm going to have my hands full...looking after the...wounded.	VO_alexis.alexis_battle_0019
+085	Alexis!	VO_caida.caida_sys_0027
+086	...Sol!	VO_caida.caida_sys_1016

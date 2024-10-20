@@ -1,0 +1,54 @@
+﻿QE06_1_1_10_b_2d.txt	
+001	Sorry to gather you all to this remote base right after the banquet.	VO_celis.celis_sys_0035
+002	Enough with the formalities. Get to the point.	VO_ugachi.ugachi_sys_0001
+003	Our scouts report that one of the pure-blood demons, the Hidden Ogre, has been sighted in the castle town.
+004	What?!
+005	Then the one who attacked the Second Squad disguised as you was—	VO_tanosuke.tanosuke_sys_0014
+006	Most likely the Hidden Ogre.	VO_celis.celis_sys_0004
+007	I see. Any news on its current whereabouts?	VO_ugachi.ugachi_sys_0006
+008	Nothing. They have been unable to pick up its trail after losing sight of it.	VO_celis.celis_sys_0016
+009	We should take care of it before it can do serious harm.	VO_tanosuke.tanosuke_sys_0016
+010	Won't it make its way to Castle Aquila Rubrum eventually? We are its ultimate target, are we not?	VO_ugachi.ugachi_sys_0031
+011	...
+012	Are the demons after something?
+013	Seems so. The demons have definitely begun targeting Castle Aquila Rubrum specifically.	VO_judius.judius_sys_0002
+014	Any ideas why?	VO_judius.judius_sys_0031
+015	None at all.	VO_celis.celis_sys_0035
+016	Hm. I was really hoping you would.	VO_judius.judius_sys_0022
+017	Me particularly? Why is that?	VO_celis.celis_sys_0025
+018	I'm originally from Greed Dike. Considering its history with Wadatsumi, I wouldn't be surprised if people absolutely hated me.	VO_judius.judius_sys_0004
+019	But I cast off the shackles of the past and now dedicate myself to the betterment of Wadatsumi.
+020	So I want to see the threat of demons eradicated. I only regret that I can do nothing more than provide support.	VO_judius.judius_sys_0031
+052	I understand how deeply passionate you are about this issue. We absolutely will rid Wadatsumi of demons.
+053	That's good to hear. I honestly believe it was the best decision to make you the Blade Fox's commander.	VO_judius.judius_sys_0041
+021	Thank you.	VO_celis.celis_sys_0033
+022	We the people of Greed Dike have long wished peace for Wadatsumi as well.	VO_judius.judius_sys_0016
+023	In fact, it is something I wished for personally. You need not say any thanks.
+024	I still would like to thank you.
+025	If you find out anything at all, please let me know, for Wadatsumi's sake.	VO_judius.judius_sys_0005
+026	Even if the Hidden Ogre is headed towards this castle, we shouldn't just stand around and wait for it.
+027	Indeed. We don't know the extent of the damage it could cause on his way here.	VO_tanosuke.tanosuke_sys_0031
+028	We should go to where it was sighted tomorrow morning.	VO_ugachi.ugachi_sys_0001
+029	That's the plan. Make sure every soldier is on heightened alert.	VO_celis.celis_sys_0038
+030	This Hidden Ogre will be a foe unlike any we've ever faced.
+031	Demons in castle town?! Could this have something to do with the Hidden Ogre?	VO_amane.amane_battle_0019
+032	Captain Tanosuke!
+033	Let's hurry!	VO_tanosuke.tanosuke_battle_0010
+034	Second Squad, follow me! Azami, let's go!	VO_ugachi.ugachi_sys_0001
+035	Yes, sir!	VO_azami.azami_sys_0004
+036	You better not die on me.	VO_azami.azami_sys_0001
+037	Back at you.	VO_amane.amane_sys_0004
+038	We may have lost the initiative here. Tanosuke, I'm counting on you.	VO_celis.celis_battle_0019
+039	I've got this.	VO_tanosuke.tanosuke_sys_0038
+040	First Squad, accompany Tanosuke on this mission!
+041	What about you, Celis?	VO_amane.amane_sys_0001
+042	I'll hold the fort here. I can't let this castle fall while everybody's out after the enemy.	VO_celis.celis_sys_0004
+043	Got it! Captain Tanosuke, wait up!	VO_amane.amane_sys_0038
+044	All right, let's go!	VO_tanosuke.tanosuke_sys_0005
+045	No! P-please, it wasn't me!	VO_mob-saga_female.mob-saga_female_sys_0028
+046	Shut up! I know you're the one that killed my son!	VO_mob-saga_omale.mog-saga_omale_sys_0032
+047	I swear, it wasn't me! Believe me!	VO_mob-saga_female.mob-saga_female_sys_0018
+048	Screw you! There's no way I can— Gah!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+049	If none of you will believe me, I'll... I'll just kill you all!	VO_mob-saga_female.mob-saga_female_sys_0029
+050	What...is this...?!	VO_amane.amane_sys_0027
+051	This is Hell.	VO_tanosuke.tanosuke_sys_0042

@@ -1,0 +1,109 @@
+﻿001	Hmm. Who would've thought there'd be a forest in the desert? Oh, there's even a small lake.	VO_miuna.miuna_sys_0031
+002	Long ago, this land was not a desert. This is one of the few remaining remnants. One day, this too will wither away.	VO_uzma.uzma_chara_1008
+003	Perfect. The sun is about to go down. Let's spend the night here.
+004	All right, I'll take on the night watch, so I'm gonna get some rest now. Uff.
+005	Fine, fine. Good night, dad.	VO_miuna.miuna_sys_0005
+006	Zzz...
+007	I always imagined an oasis to be some kind of puddle in the middle of the desert...hmmm...	VO_miuna.miuna_sys_0031
+008	Miuna...what's the matter? Is there something inside the lake?	VO_uzma.uzma_sys_0001
+009	Oh, there it is! Uff!	VO_miuna.miuna_chara_1008
+010	Huh?! What should I do?! She fell into the lake... I-I need to rescue her...!	VO_uzma.uzma_sys_0025
+011	Eeek! A-a fish?!	VO_uzma.uzma_battle_0022
+012	Phew...! Look at this huge catch!	VO_miuna.miuna_sys_0007
+013	Huh...? Huh? Miuna, what are you doing?	VO_uzma.uzma_sys_0025
+014	What do you mean? I'm catching fish. That way we'll have something to eat for tonight's dinner, right?	VO_miuna.miuna_sys_0030
+015	Are we going to eat...dinner?	VO_uzma.uzma_sys_0001
+016	Of course. If we don't eat we die, right? I'm starving.	VO_miuna.miuna_sys_0017
+017	Come on. What are you staring at? How about you go collect some branches? I'll try and catch a few more.	VO_miuna.miuna_sys_0001
+018	O-okay...	VO_uzma.uzma_sys_0042
+019	It should be cooked soon. Hmm...munch...munch... Yeah! It's perfect.	VO_miuna.miuna_sys_0031
+020	.... ...
+021	Are you not gonna eat it? It's going to burn, you know?	VO_miuna.miuna_sys_0001
+022	Oh, okay...thank you.	VO_uzma.uzma_chara_1006
+023	Hey. Why are you always so frightened?	VO_miuna.miuna_sys_0001
+024	Huh...?	VO_uzma.uzma_sys_0025
+025	I understand why you'd be confused if you were suddenly attacked by a bunch of strangers, but...	VO_miuna.miuna_sys_0031
+026	We're here with you. You can a be a little more at ease, you know?
+027	N-no, it's not that....! I'm scared...	VO_uzma.uzma_sys_0042
+028	Yeah, I picked up on that, but...	VO_miuna.miuna_sys_0030
+029	No, you don't understand. I'm scared of...death. What I am frightened of is death...itself.	VO_uzma.uzma_sys_0040
+030	Huh?	VO_miuna.miuna_sys_0025
+031	I have foreseen the death of many people.	VO_uzma.uzma_sys_0018
+032	No, not just the death of others, but I've seen my own death as well. That's why I'm scared of dying!
+033	Um...so what you're scared of isn't this situation...but of death itself?	VO_miuna.miuna_sys_0031
+034	That pretty much sums it up. Although, of course, I'm scared of this situation as well...	VO_uzma.uzma_chara_1008
+035	But, hey, every living thing dies in the end, right?	VO_miuna.miuna_sys_0001
+036	...?! I'm sure you don't understand this fear that I feel, Miuna...	VO_uzma.uzma_sys_0029
+037	...Sorry, but I don't like you.	VO_miuna.miuna_sys_0030
+038	... ...
+039	I don't understand how you could be so frightened of dying while you're still alive.	VO_miuna.miuna_sys_0010
+040	I also don't like...people like you either...Miuna...	VO_uzma.uzma_sys_0010
+041	Fuwaaaah! Mmmm! Ahh...I slept well...
+042	Oh, smells good! Is it fish? All right! I'll have some as well! I'm starving!
+043	Zzz...zzz...	VO_miuna.miuna_chara_1007
+044	... ...
+045	Can't you sleep?
+046	...!	VO_uzma.uzma_sys_0042
+047	Well, a lot happened today. I'm sure you're feeling pretty overstimulated.
+048	...No, it's not that. I've always had trouble sleeping.	VO_uzma.uzma_sys_0016
+049	Are you scared of sleeping?
+050	Huh...? Y-yes... I guess you were listening.	VO_uzma.uzma_sys_0025
+051	Sorry. I didn't mean to, but I couldn't help picking up on your conversation with Miuna.
+052	Ever since I was young, I've traveled a lot while training as a blacksmith, looking for material for weapons and such...
+053	I've encountered dangerous situations on numerous occasions. Thus, I don't sleep very deeply when sleeping outdoors.
+054	Besides...more than anything, I was born with the sharpest of ears! Hyahahah!
+055	I...see.	VO_uzma.uzma_chara_1006
+056	In any case...the fact that you're afraid to sleep must mean that your fear of death is quite deeply rooted in you.
+057	I'm afraid that, if I were to sleep, I may not be able to wake up in the morning.	VO_uzma.uzma_sys_0018
+058	Still, I ultimately wake up the next morning having fallen asleep sometime during the night.
+059	I wake up somewhat disheartened thinking to myself, "It looks I survived today as well." I realize it's something of a contradiction.	VO_uzma.uzma_sys_0022
+060	Hmm. By the way, what about your parents?
+061	They're not around anymore. That is...there were killed.	VO_uzma.uzma_sys_0043
+062	I see. You wouldn't happen to be a survivor of the Sephira folk, are you?
+063	...?! U-um...	VO_uzma.uzma_sys_0027
+064	Don't worry, I'm not gonna hurt you if you are. I'm just curious.<br><br>
+065	Y-yes. The blood of Sephira runs through my veins.	VO_uzma.uzma_sys_0018
+066	I see. I've heard stories of them. Long ago, there were people here who worshiped the giant green tree of Sephiron.
+067	They were prosperous both in their wisdom and their technological advancements. Viewing them as a source of danger, the Gluttony army destroyed them...I think that was how the story went.
+068	Yes. I've heard about it as well. It happened before I was born...thus, I've only heard the stories from my mother.	VO_uzma.uzma_sys_0016
+069	Hmm. From what I've heard, the invasion of the Gluttony army was an appalling one.
+070	Even after the tree of Sephiron had gone extinct, the people of Sephira were driven off time and time again.
+071	It's no wonder that you're afraid of death. I'm sure you've seen more than your fair share in this life already.
+072	I agree, but it's not just that.	VO_uzma.uzma_sys_0022
+073	The Tree of Sephiron gave us wisdom. It was our cornerstone-we, the people of Sephira.
+074	However, it is now lost to us. My people have no choice but to idly perish away. We will die...and vanish from the face of this earth.
+075	I see. That being said, I wonder if it is truly death that you're afraid of.
+076	What...?	VO_uzma.uzma_sys_0025
+077	Due to my line of work, I've associated with many a knight and warrior.
+078	Amongst them, there are those who obsess over the way they will die.
+079	The way they will die...?	VO_uzma.uzma_sys_0042
+080	Yep. They wish to die in a spectacular and graceful way. As for myself, I'm a blacksmith. I couldn't care less about the way I die.
+081	I'm far more focused on what I can create while I'm still alive.
+082	Until the moment I die, I want to listen to the voice of the iron that I strike, weld, and sharpen! That is my way of living.
+083	Those that focus on how they die and I who focus on how I live...
+084	Actually, we're not that different. Do you know what I mean?
+085	...?	VO_uzma.uzma_sys_0016
+086	The way one dies is determined by the way they live. You know, Uzuma...
+087	Maybe what you're really afraid of is being alive.
+088	...Huh?	VO_uzma.uzma_sys_0025
+089	Or better put...you're so afraid of dying that you've become scared of living.
+090	That's how it appears to me.
+091	Scared of...living?	VO_uzma.uzma_sys_0017
+092	Are you...really alive right now? Or are you dead even as you live?
+093	...!	VO_uzma.uzma_sys_0042
+094	Hah...hyahahah! All jokes aside, these are just the foolish reprimands of an old fart! Forget about what I said!
+095	Ahh...?!	VO_uzma.uzma_sys_0027
+096	Hm? What's the matter? You look like you've seen a ghost.
+097	Ack. Ku Yogi! Soon...you're going to...!	VO_uzma.uzma_sys_0018
+098	...Hey. What are you lot doing sneaking about again?
+099	Huh...?	VO_uzma.uzma_sys_0025
+100	...So you've detected us.	VO_thiefm.thiefm_sys_0044
+101	...?!	VO_uzma.uzma_sys_0029
+102	We don't want to do anything unnecessary. All we need is you, Uzuma...you alone.	VO_thiefm.thiefm_sys_0002
+103	If you come with us, we'll leave peacefully.
+104	Ugh...n-no!	VO_uzma.uzma_sys_0042
+105	Jeez. You're a persistent bunch, aren't you? The young lady here doesn't want to go with you.
+106	I don't want to do anything unnecessary either. If you get my drift then you'd best clear off.
+107	I guess negotiations are off then. Kill them.	VO_thiefm.thiefm_sys_0030
+108	Miuna!
+109	Gotcha!	VO_miuna.miuna_sys_0004

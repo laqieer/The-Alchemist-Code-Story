@@ -1,0 +1,101 @@
+﻿001	They look surprisingly at peace. Almost as if they're asleep and dreaming.	VO_agasa-b.agasa-b_sys_0031
+002	Apparently they've dived into Mikaboshi's consciousness...whatever that means. The rookie's explanation of it was much too ambiguous for me to understand.	VO_ugachi.ugachi_sys_0004
+003	I'm sure it's necessary to learn Kagutsuchi, though.
+004	I've noticed you persist in referring to Amane as a rookie. Why is that? It seems to me she's served your group admirably thus far, and for quite some time.	VO_agasa-b.agasa-b_sys_0030
+005	Oh, she surely has. But her general lack of experience is undeniable, nonetheless.
+006	That doesn't warrant—
+007	Now, now! Captain Ugachi may have a sharp tongue, but it's clear he trusts Amane and her skills with everything he's got.	VO_edgar.edgar_sys_0002
+008	You, yourself, are an outsider, yet you speak as if you know me?
+009	Fair point. But even if I don't know you all that well yet, I've come to know Amane. And the way you talk about her, it seems like you see the same things in her that I do.	VO_edgar.edgar_sys_0004
+010	She's a stout-hearted one, but still young. Makes her a little careless sometimes as a result, so somebody really needs to keep an eye on her, right?
+011	Basically, you're tough because you care. Am I on the mark?
+012	...I said she has a lack of experience, and I meant it. Your speculations on my intentions are nothing more than wild fantasy.	VO_ugachi.ugachi_sys_0006
+013	Heheh! Aww, are you blushing, Captain Ugachi?	VO_edgar.edgar_sys_0007
+014	I am not.
+015	Suuuuure you're not. Anyway, Agatha, as you can see, you've got nothing to worry about!	VO_edgar.edgar_sys_0037
+016	There's a real bond among those of the Blade Fox. It may not always be self-evident, but it's definitely there.
+017	I see. That actually does put my mind at ease a bit. Thank you.
+018	Are you worried about Logi?	VO_edgar.edgar_sys_0003
+019	I am, but...	VO_agasa-b.agasa-b_sys_0005
+020	I have every faith in him. He'll be back. We share a very strong bond of our own.
+021	That's reassuring to hear. Well, then, there's only one thing for us to do right now.	VO_edgar.edgar_sys_0044
+022	We've gotta make sure the situation here is improved, even just a little bit, before Logi and Amane pop back outta that rock. Isn't that right, Captain Ugachi?
+023	I believe I've told you before, I am not your captain. But you are correct that that is what we should be focusing on.	VO_ugachi.ugachi_sys_0001
+024	I will make preparations for the restoration of Sumeragi. Kagutsuchi will only be needed for the final part.	VO_juubei.juubei_sys_0002
+025	We must repair the blade with the demon's horn before even getting to that point.
+026	You have experience smithing, Jubei?	VO_edgar.edgar_sys_0025
+027	The Black Star Clan's education is quite extensive.	VO_juubei.juubei_sys_0005
+028	Only the legitimate heir has the skill necessary to complete the restoration, however. Which leaves me out.
+029	It's thanks to you that we even have this opportunity, though.	VO_juubei.juubei_sys_0001
+030	Without you, the remnants of the Blade Fox would not have come together like this. We would have fallen to pieces, and each perished in some hopeless fight.
+031	Honestly, I believe you are far more worthy to lead the Blade Fox than I could ever be.
+032	No. It should be the strongest among us who leads. And though it pains me to admit it, that's you.	VO_ugachi.ugachi_sys_0030
+033	Gauche, yet honest, just like always. But even you must see that I'm simply not fit for command.
+034	I could never fill Lady Celis' shoes.	VO_juubei.juubei_battle_0022
+035	Jubei...
+036	I admit no such thing, Jubei. Raise that head of yours. You are, without question, the Blade Fox's Commander.
+037	I understand that's the role I've been given. And I will do all that I can to fulfill it. I owe Lady Celis that much, at least.	VO_juubei.juubei_sys_0030
+038	So get to work, then. We'll keep the place guarded.
+039	All right. Thank you.	VO_juubei.juubei_sys_0004
+040	...
+041	Well, what do we do now?	VO_edgar.edgar_sys_0002
+042	Protect the castle. Now that most of our essential fighting force is split between the Kagutsuchi and Sumeragi sides of things, we're a bit shorthanded.	VO_ugachi.ugachi_sys_0004
+043	The demons may take this opportunity to launch an assault on us, and we cannot under any circumstances allow them to halt our restoration of the Sacred Three.
+044	Aren't there members of the Blade Fox and Blue Tongues securing the immediate area? I can hardly believe they'd be easily surmounted.	VO_agasa-b.agasa-b_sys_0031
+045	One can never be too prepared for the unexpected around here.
+046	Reporting! Tamba has breached the outer lines, and is now in the process of— Urgh!
+047	Talk about timing.	VO_ugachi.ugachi_sys_0031
+048	Who's this?
+049	Physically, an old comrade. Though he now serves as a vessel for the Demon King.
+050	So an enemy in one sense, but an ally in another. That's a pretty rough spot to be in.	VO_edgar.edgar_sys_0012
+051	What is to be found here?
+052	We are. As you can see.	VO_ugachi.ugachi_sys_0006
+053	Spare me your witty repartee. I can...feel it.
+054	There's something of great worth here. Something related to me.
+055	Ah...!	VO_agasa-b.agasa-b_sys_0025
+056	Shush!
+057	If you know something, tell me, and I promise I'll let you live.
+058	Not sure I'd trust the word of big, scary demon like yourself.	VO_edgar.edgar_sys_0022
+059	And who might you be?
+060	A friend of Amane's.	VO_edgar.edgar_sys_0005
+061	This doesn't concern you. Step aside.
+062	I respectfully disagree, and no, I won't.	VO_edgar.edgar_battle_0001
+063	Then die where you stand.
+064	You first.	VO_edgar.edgar_sys_0010
+065	...!
+066	Have you forgotten where you are? Deep behind enemy lines, surrounded on all sides, and you're really taking the time to taunt?!	VO_ugachi.ugachi_sys_0001
+067	You still place yourself on the front line, even after losing one of your arms? You're an even bigger fool than I thought.
+068	You are free to think of me as such all you'd like.	VO_ugachi.ugachi_sys_0002
+069	Do you really think you can defeat me with only one arm?
+070	I can at least hold you back for a time. And that's all that's needed here.	VO_ugachi.ugachi_sys_0004
+071	What would you gain by stalling me?
+072	Comrades. Who would come to our aid and take you down.
+073	I was just gonna say that! We kinda think alike, Captain Ugachi, you know that?	VO_edgar.edgar_sys_0007
+074	...I hate that you remind me of him.
+075	Huh?	VO_edgar.edgar_sys_0025
+076	Why do you stand before me on behalf of Wadatsumi? You are not even of this land.
+077	Is it so unthinkable to want to protect the things your friends hold dear?	VO_edgar.edgar_battle_0019
+078	Even if it means you have to die for them?
+079	Hey, we'll see about that part.	VO_edgar.edgar_sys_0012
+080	Allow me to fight alongside you!
+081	You stay where you are, Agatha! Keep Logi and Amane safe!
+082	But...!	VO_agasa-b.agasa-b_battle_0019
+083	Captain Ugachi and I will handle this guy! If something happened to you, what would we tell Logi?	VO_edgar.edgar_sys_0003
+084	Or do you think we can't hold our own?
+085	No. I believe in you.
+086	Then leave this fight to us. We'll oust this demon. You can bet on it.	VO_edgar.edgar_sys_0005
+087	I take it I'm right to think there is something noteworthy here, then.
+088	And I take it that's none of your business!	VO_edgar.edgar_sys_0042
+089	Did you honestly think you could hit me with something like that?
+090	Not really.	VO_edgar.edgar_sys_0010
+091	Ngh!
+092	What's the matter? Can't dodge a few bullets?	VO_ugachi.ugachi_sys_0006
+093	So, you strike from melee as I'm preoccupied with ranged attacks? How...distasteful.
+094	I'll just have to kill you off one at a time.
+095	Quit spitting nonsense. You've angered me enough already.	VO_ugachi.ugachi_sys_0012
+096	Oh? How so?
+097	How so?! You cut down my comrades!
+098	Hyah!	VO_edgar.edgar_battle_0003
+099	Hrgh!
+100	I won't let you pillage any further!
+101	I will keep you glued to this spot, even if it costs me my life!	VO_ugachi.ugachi_sys_0037

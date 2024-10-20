@@ -1,0 +1,125 @@
+﻿001	There's a civil war in the Ira Belt?!	VO_mela.mela_sys_0006
+002	Exactly. Eh, I say civil war, but it's not as dangerous as it sounds.	VO_andechs.andechs_sys_0004
+003	It's more of a difference of opinion regarding what direction we should steer the country towards.	VO_andechs.andechs_sys_0030
+004	Hm... That's right, they said something about you being the pacifist faction.	VO_nix.nix_sys_0005
+005	Our faction has a bit of a different take on the recent unusual incident. We believe it'd be better to peacefully investigate, rather than engage in this war.	VO_andechs.andechs_sys_0005
+006	And the king I've sworn allegiance to, King Arius, agrees with this assessment.
+007	I suppose I should start by telling you a little more about the place I'm from.	VO_andechs.andechs_sys_0031
+008	The Ira Belt is a kingdom of mountain ranges and wastelands. Historically, we've always had few resources.
+009	Still, we have always been a peaceful folk, loath to spill blood, and we shared what little food we had with each other, and everyday we just prayed to live another day.
+010	But...	VO_andechs.andechs_sys_0016
+011	That all changed when the Satna reawakened. Our people had to scramble and fight amongst one another to survive.	VO_andechs.andechs_sys_0018
+012	Our dwindling population had to fight over our already scarce resources. We were facing our own demise.
+013	But the king rose to stop such a tragedy.
+014	He formed the knights, banned the citizens from fighting one another, and once more united the Ira Belt.
+015	That was our generous King Arius, the one who leads our lands...	VO_andechs.andechs_sys_0010
+016	The king told me this...
+017	"This sudden connection with the Invidia Belt is a wonderful thing, a new chance at survival. Let's hope that they'll agree to an alliance."
+018	I covertly travelled to this country in order to relay his wishes.	VO_andechs.andechs_sys_0002
+019	Why did you have to travel in secret?	VO_nimuru.nimuru_sys_0006
+020	I fear that our country is not so united in its wishes. There are some dangerous fellows among us.	VO_andechs.andechs_sys_0005
+021	The type that will take whatever they want. Well, to be fair, our country had a lot of those before King Arius took over too.	VO_andechs.andechs_sys_0017
+022	We thought they'd behave if we secured an alliance between us and the king of Invidia Belt.
+023	...But instead they came to murder our citizens.	VO_hymnus.hymnus_sys_0001
+024	I fear that you're correct.
+025	King Arius must have been removed from his seat of power, which means that the Ira Belt is now in the hands of another.	VO_andechs.andechs_sys_0018
+026	It may be his sister, Princess Terese.
+027	So you're saying she must've kicked him off the throne and seized power while you were gone?	VO_hymnus.hymnus_sys_0010
+028	Yes, but that doesn't mean I've given up on securing this alliance. Obtaining it is more vital now than ever.	VO_andechs.andechs_sys_0022
+029	Why's that?	VO_hymnus.hymnus_sys_0001
+030	Do I need to explain? The fact that our borders are touching all of the sudden is an abnormality.	VO_andechs.andechs_sys_0006
+031	Something strange is happening to this world. Things we've always taken for granted are changing...
+032	It's ridiculous for us humans to fight among each other in a situation like this. Now, of all times, is when we should unite and work together.	VO_andechs.andechs_sys_0002
+033	...Your words seem reasonable, but yet—	VO_hymnus.hymnus_sys_0045
+034	You still won't believe me? Hm, I guess can't be helped.	VO_andechs.andechs_sys_0001
+035	My country did just invade yours after all. I understand your hesitation.
+036	But I fear I cannot plead my cause any further than this, so please, believe me.	VO_andechs.andechs_sys_0022
+037	What do you think, Your Highness?
+038	A good question.
+039	If you truly wish to form an alliance, we'd be happy to oblige.
+040	But there remains one big problem.
+041	King Arius no longer rules over the Ira Belt.	VO_kuienai.kuienai_sys_0004
+042	And an alliance is a pact made between leaders.
+043	We can wish for peace all we want, but it'll mean nothing if the other side doesn't agree to it.	VO_kuienai.kuienai_sys_0031
+044	Andechs, any thoughts on that?	VO_nimuru.nimuru_sys_0001
+045	...Teres used to criticize the king's ideals as if they were little more than childish dreams. But...	VO_andechs.andechs_sys_0018
+046	She wasn't nearly as extreme as she is now?	VO_eularea.eularea_sys_0002
+047	Yes. I can only tell you what I know, but there was a certain other factor that caught my interest... A certain...serpent.	VO_andechs.andechs_sys_0005
+048	That can only be...	VO_nimuru.nimuru_sys_0020
+049	I think they called themselves something like the Infinite Serpent? One day a man who called himself part of the Infinite Serpent appeared within our borders. Before we knew it, he slithered his way into the position of the princess' counsellor.	VO_andechs.andechs_sys_0006
+050	I had some suspicions, but the princess is a smart cookie. I thought I was simply overthinking it...	VO_andechs.andechs_sys_0016
+051	So he manipulated her then?	VO_mela.mela_sys_0030
+052	We can't know that for sure, though. Maybe they just happened to get along and became fast friends.	VO_nix.nix_sys_0039
+053	Then I fear I'll have to get my hands dirty. I'll kill the princess and that serpent myself if that's the only way to stop this chaos.	VO_andechs.andechs_sys_0001
+054	Are you serious?	VO_hymnus.hymnus_sys_0006
+055	This invasion was a step too far. There's no justice or honor in their actions.	VO_andechs.andechs_sys_0005
+056	Most regular wars are a tragedy. A war without justice is mere cruelty.	VO_andechs.andechs_battle_0019
+057	As long as discipline regulates the battlefield, a fair war can be fought, no matter who has the upper hand.
+058	But when both parties antagonize each other so deeply that they won't even acknowledge the time to retreat? Then it's all over. War becomes nothing more than an quagmire that swallows everything whole.
+059	I don't want to keep seeing that kind of tragedy. If it seems like it'll come to a war like that again, then...	VO_andechs.andechs_sys_0017
+060	I will do whatever is necessary to stop it, even if it makes everyone despise me. That's what justice means to me.	VO_andechs.andechs_sys_0002
+061	...
+062	(Even if it makes everyone hate him...)
+063	(I could never do such a thing... Sticking so firmly to my beliefs that I could betray the world I grew up in?)	VO_dafne.dafne_sys_0030
+064	(My resolve just isn't strong enough...)	VO_dafne.dafne_sys_0018
+065	Is that why the shield won't listen to me?	VO_dafne.dafne_sys_0021
+066	(If that's the case then... What am I supposed to do?)	VO_dafne.dafne_sys_0031
+067	Daphne...
+068	Nimul, what do you think?	VO_hymnus.hymnus_sys_0002
+069	It doesn't seem like he's lying, but...it also doesn't seem wise to trust him completely.	VO_nimuru.nimuru_sys_0005
+070	So you believe he could still be a spy?	VO_hymnus.hymnus_sys_0004
+071	No, I wouldn't go that far.
+072	Taking into account the things we know about his personality, I have little doubt that he'd fight at our side again if the Ira Knights launched a second attack.	VO_nimuru.nimuru_sys_0031
+073	But that would mean killing his compatriots and countrymen with his own hands... I believe that to be a heavy thing.	VO_nimuru.nimuru_sys_0018
+074	Haa...	VO_hymnus.hymnus_sys_0007
+075	Imnus?	VO_nimuru.nimuru_sys_0006
+076	My apologies, it's nothing. I was just thinking about how all our visitors are so terribly kind.	VO_hymnus.hymnus_sys_0036
+077	Of course, I'd love to avoid the unnecessary spilling of blood. Forming a treaty like he said would absolutely be the best outcome.
+078	But the way things are now, all we can do is defend ourselves.	VO_hymnus.hymnus_sys_0045
+079	Don't forget that we're here to help.	VO_nimuru.nimuru_sys_0002
+080	Of course, and we're grateful for your aid. I'd like to start by requesting more information.	VO_hymnus.hymnus_sys_0004
+081	Not just about those serpents, but about the other things we don't know. Such as abilities you possess, tactics you know about...
+082	I wish to know all of it, so we can prepare for the unexpected.
+083	This is why I'm not asking you to strengthen our dwindling front lines. For the time being, I want you to lend us your knowledge so we may strengthen our city.	VO_hymnus.hymnus_sys_0002
+084	If you'd like to know more about foreign skills and abilities, then I'm sure Adaleigh and Yna can help.	VO_nimuru.nimuru_sys_0004
+085	I plan to leave any strategizing and counter-measures regarding the Ira Knight's equipment to them.
+086	Thank you. Whatever they used to cloak and hide themselves is a big threat to us in particular.	VO_hymnus.hymnus_sys_0033
+087	The fact that they made it to our ports unnoticed means they didn't just turn their soldiers invisible, but their ships too.	VO_hymnus.hymnus_sys_0030
+088	If we could destroy that mechanism, we could eliminate them in a sea battle before they got too close.
+089	Very well, in that case—	VO_nimuru.nimuru_sys_0005
+090	If this was their vanguard, then their main troops will arrive soon enough. I'll return to the knights and tell them to prepare for battle.	VO_hymnus.hymnus_sys_0045
+091	...Let's do everything in our power to help each other.
+092	Yes.	VO_hymnus.hymnus_sys_0004
+093	...
+094	Lady Nicaea? Did you call for me?	VO_dafne.dafne_sys_0001
+095	Come in, Daphne. You got here fast.	VO_nicaia.nicaia_sys_0044
+096	I had the rare chance to prepare some tea. I even used a new tea set for it...	VO_nicaia.nicaia_sys_0001
+097	Once all this mess is over, Emmel and the others promised to join me too, so we can all have a little tea party together!
+098	Um, I—
+099	...So, don't worry. It's going to be okay.	VO_nicaia.nicaia_sys_0007
+100	...
+101	She didn't say it, but it's clear enough what she wants to talk about.
+102	That shield you carry was passed down generations of Shield Maidens, all in order to protect our kingdom from Leviathan.
+103	I don't think it's a coincidence that it was passed down to you.	VO_nicaia.nicaia_sys_0008
+104	So please don't worry. If you wish for it to, I'm sure the shield will respond to your call.
+105	You really think so?
+106	Of course I do. I'm proud of you, my knight.	VO_nicaia.nicaia_sys_0037
+107	Why? Why is she so interested in me?
+108	I'm just a coward. A weakling. Of no use to anyone. Someone without a shred of pride in herself.
+109	All I do is recite the reasons why I can't do anything in my mind.
+110	My outlook is so dark, I can barely see tomorrow come. I practically tremble in fear before our enemies. I'm not sure there's a single thing I can do right.
+111	So why? Why?! Why does that girl still look at me with such a happy smile?
+112	Alrighty, we're all set!	VO_adlai.adlai_sys_0006
+113	What are you up to, Adaleigh?	VO_nix.nix_sys_0001
+114	Just a little something that caught my interest. I've wanted to investigate the water quality of the ocean.	VO_adlai.adlai_sys_0004
+115	I didn't see that one coming. Will this survey help us fight the Ira Belt forces?	VO_kuienai.kuienai_sys_0002
+116	Eh, that's a different matter. I figure we can leave that to Nimul and Imnus, ya know, the old dogs.
+117	...I wouldn't say they look that old.	VO_kuienai.kuienai_sys_0031
+118	You're really sensitive to that kind of thing, aren't you, Yna... Ah—! I got a bite!	VO_adlai.adlai_sys_0011
+119	A bite? What are you talking abou—	VO_nix.nix_sys_0003
+120	...
+121	...
+122	...Gnyu?
+123	Aw yeah! Time to start my research! I trust the two of you will lend a hand?	VO_adlai.adlai_sys_0002
+124	...You...
+125	You should really explain these things more clearly beforehand!	VO_nix.nix_sys_0025

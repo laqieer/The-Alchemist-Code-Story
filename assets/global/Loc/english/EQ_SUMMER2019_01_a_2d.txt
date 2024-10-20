@@ -1,0 +1,80 @@
+﻿001	It's so blue...!	VO_berta.berta_sys_0009
+002	Sharon, look! It's the sea!
+003	Nngh... There's no need to shout! I can hear you just fine!	VO_sharon.sharon_sys_0030
+004	Oops! Sorry, Sharon! I've never really been to the sea before, so I'm a little excited.	VO_berta.berta_sys_0008
+005	We are here to patrol the beach, correct?	VO_sharon.sharon_sys_0001
+006	Of course!	VO_berta.berta_sys_0005
+007	Apparently some unidentified monsters have been sighted around here at night.
+008	That's a very vague report. How am I supposed to prepare without any concrete information?	VO_sharon.sharon_sys_0030
+009	That's not my fault! You see...	VO_berta.berta_sys_0022
+010	I was having a balmy time on this beach with my babycakes, and those giant monsters just totally came out of nowhere.	VO_mob-saga_ymale.mob-saga_ymale_sys_0020
+011	Huh? What'd they look like? I dunno. I was too busy running for my life to, like, memorize random little details like that! Duh.	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+012	I was screaming bloody murder, running like a steam train in the opposite direction... My swimming trunks fell right off. Slid right down to my ankles, and then just...poof! Never saw them again...
+013	It was so terrifying! But my cuddlebug protected me, so it ended up being the best summer ever! Even without his swimming trunks.	VO_mob-saga_female.mob-saga_female_sys_0018
+014	Oh, babycakes...	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+015	Cuddlebug...	VO_mob-saga_female.mob-saga_female_sys_0010
+016	...
+017	That's not so much vague as...lovey-dovey...mush.	VO_sharon.sharon_sys_0031
+018	Yeah, it was a bit much... But you can't blame them! The beach in summer is a magical place!	VO_berta.berta_sys_0011
+019	Right... Whatever.	VO_sharon.sharon_sys_0030
+020	Anyway, I hope we can resolve this situation as quietly as possible, before any real harm is done.	VO_berta.berta_sys_0031
+021	I don't want anyone else's summer fun to be ruined by those monsters!
+022	Indeed. Let's put our best feet forward and patrol this beach to the best of our ability!	VO_sharon.sharon_sys_0004
+023	Come to think of it...weren't there meant to be three of us on patrol today?
+024	Oh, yeah. That'd be Kaya, but she's going to be doing her own thing. She said there was something she wanted to check out.	VO_berta.berta_sys_0005
+025	Huh? Check what out, exactly?	VO_sharon.sharon_sys_0005
+026	I, um, kinda forgot to ask her that.
+027	It'll be fine! I'm sure Kaya knows what she's doing.	VO_berta.berta_sys_0023
+028	Even so, she really ought to be following her superior's commands—that means you, Bertha!	VO_sharon.sharon_sys_0030
+029	(That's surprising, coming from Sharon. She's really come a long way. Ahh, they grow up so fast...)
+030	What is it? Why are you smiling at me like that?	VO_sharon.sharon_sys_0012
+031	Heheh. No reason!
+032	Anyway, never mind her! The beach looks peaceful enough. At this rate, we might have nothing to do.	VO_berta.berta_sys_0007
+033	I suppose...	VO_sharon.sharon_sys_0029
+034	Besides, it sounds like these monsters only start coming out at night. So for right now, all we can really do is...	VO_berta.berta_sys_0031
+035	Brrr! H-hey! Wh-what was that for?! Is that...a water cannon? Where did you...?	VO_sharon.sharon_sys_0026
+036	I brought it with me! We're at the beach, aren't we?	VO_berta.berta_sys_0007
+037	Once this job is over and done with, let's get to splashing in the sea!
+038	N-no! No, thank you.
+039	Huh? Why not? Oh! Unless...you can't swim?	VO_berta.berta_sys_0025
+040	Wh-what?! O-of course I can swim! I just hate getting my ears wet, that's all!	VO_sharon.sharon_sys_0025
+041	Really? Really, really?	VO_berta.berta_sys_0007
+042	Really, really, really!
+043	Ahoy there. Have either of you two ladies seen my captain?	VO_lusheng.lusheng_sys_0002
+044	Captain...? Oh! Are you talking about Shenmei? Haven't seen her.	VO_berta.berta_sys_0006
+045	I...see.	VO_lusheng.lusheng_sys_0022
+046	Xiao-Xiao... Where could that girl have gotten off to? Don't tell me she's gotten herself lost again. She knows this beach is infested with...
+047	Infested with...?	VO_sharon.sharon_sys_0025
+048	...
+049	Oh, um...?
+050	U-um... I...	VO_siyi.siyi_sys_0001
+051	What's the matter?	VO_berta.berta_sys_0001
+052	U-um... Well... I...	VO_siyi.siyi_sys_0018
+053	It's all right, Xiao-Xiao. No need to strain yourself. Leave the talking to me.	VO_lusheng.lusheng_sys_0007
+054	...
+055	Huh?
+056	It was decided that we would be joining your beach patrols. After all, no one knows the sea like pirates.	VO_lusheng.lusheng_sys_0004
+057	We'd planned to meet up with you landlubbers here, but somehow we managed to lose Xiao-Xiao along the way.
+058	Huh?	VO_berta.berta_sys_0006
+059	Um... When you say you lost Xiao-Xiao, are you talking about Shenmei?	VO_berta.berta_sys_0001
+060	Yes. Why?	VO_lusheng.lusheng_sys_0006
+061	W-well, then what about this girl?
+062	Oh, Xiao-Xiao? She's a navigator aboard the Xiao Shenmei and—	VO_lusheng.lusheng_sys_0004
+063	Wait, what?	VO_berta.berta_sys_0025
+064	Is something the matter?	VO_lusheng.lusheng_sys_0006
+065	Shenmei is Xiao-Xiao—but so are you?	VO_sharon.sharon_sys_0001
+066	U-um... I-I...	VO_siyi.siyi_sys_0025
+067	Ahh, it is all becoming clear to me now. You see, xiao-xiao means small. Little one.	VO_lusheng.lusheng_sys_0004
+068	I've been calling them both xiao-xiao for years now, so it has become something of an unshakeable habit.
+069	Even now, they're both rather small.	VO_lusheng.lusheng_sys_0031
+070	That is going to be a little confusing. What should we call you, Miss...?	VO_sharon.sharon_sys_0031
+071	S-Su...!
+072	Su?	VO_berta.berta_sys_0006
+073	M-my name is...Su Yi!	VO_siyi.siyi_sys_0006
+074	Got it! Nice to meet you, Su Yi!	VO_berta.berta_sys_0007
+075	My apologies. Xiao-Xiao here...ahem. That is to say, Su Yi is rather shy. Please address your concerns to me, if you will.	VO_lusheng.lusheng_sys_0035
+076	Okay... Very well. Earlier you mentioned—	VO_sharon.sharon_sys_0002
+077	Oh!	VO_siyi.siyi_sys_0025
+078	Huh? Aaaah! O-octopuses?!	VO_berta.berta_sys_0026
+079	Hmph. Finally. You're just in time for dinner. All I need is five seconds to chop you up!	VO_lusheng.lusheng_sys_0010
+080	Everyone in position—now!	VO_lusheng.lusheng_battle_0030

@@ -1,0 +1,145 @@
+﻿001	Son. My beloved Nimul, a new oracle has come to speak prophecies of you.
+002	Yes, Father.
+003	You are not the chosen one. Your shoulders will not be the ones to bear the weight of the world's remaking.
+004	Please understand that for this, I must strip you of your name.
+005	I understand.
+006	My dear, beloved son, you are the only one upon these lands to inherit my will.
+007	And yet, you were not the chosen one. It was not you. The oracle was so firm in that judgment...
+008	Father... What will become of me now?
+009	The same as the others. You will live as a bearer of the sin of Pride, and await the rebirth of the world alongside your brethren.
+010	And from this day forth, you shall be known as Ignacio.
+011	But Father, that's your name!
+012	Humans do not live long lives, and I am already old. In my current state, I do not believe I can withstand the suffering that will be wrought when the world is renewed.
+013	You shall be the one to carry on the legacy of this name...my legacy.
+014	...
+015	We of the name Ignacio are to lead the people of Pride to the flames, and celebrate the birth of a new order.
+016	I had hoped you might be able to escape that fate, but the world is fickle in nature, and it seems destiny catches up with us all.
+017	Listen well, my son. We are but the shadows. We are the evil that sows chaos amongst the living. We are but a pack of zombies that hungrily devour the flesh of those who cross our paths.
+018	You must protect the true Nimul—the Child of God. Take the suffering and misfortunes that fall upon him unto yourself.
+019	Our savior has already resolved himself to save the world. In return, you must dirty your hands...
+020	Even if the savior himself despises you for it.
+021	That is the destiny that awaits you now, my son. Know it well.
+022	I understand, Father.
+023	Please leave everything to me...to the one who now bears the name Ignacio.
+024	I ask again: who are you?
+025	(Yna Ku, formerly of the Infinite Serpent... The smithy who composed the very foundation of our plan, yet knows nothing of what he's done.)
+026	(...How I envy him.)	VO_ignacio.ignacio_sys_0022
+027	(How blissful ignorance must be! He has no idea how lucky he is.)
+028	(And on top of all that...)
+029	Well... I suppose there's no need for secrecy. If you must know...
+030	I am Ignacio. I'm an agent attached to an organization called the Infinite Serpent.
+031	The Infinite Serpent... Meaning, you're allied with Icona and Zafeiris, then?	VO_nimuru.nimuru_sys_0001
+032	Have you come here to get revenge for your comrade?	VO_nimuru.nimuru_sys_0003
+033	Surely you jest!
+034	(I'm just here to lead you to where you're supposed to be...)	VO_ignacio.ignacio_sys_0010
+035	...You want me to head to Gula Belt?	VO_ignacio.ignacio_sys_0005
+036	Yes. From what Emmel told me, you were the reason Nimul and his party went to Invidia Belt.	VO_kvense.kvense_sys_0006
+037	So it seems only fitting you should show up before them and ominously hint at our plot.
+038	Give Nimul a sense of impending doom, and with his own homeland coming together nicely, there should be nothing stopping him from heading out our way for a new fight.
+039	That's the mission I've got for you.	VO_kvense.kvense_sys_0010
+040	So in order to make sure the future doesn't get further distorted, I have to do the same thing my future self does?	VO_ignacio.ignacio_sys_0030
+041	Exactly. Should be an easy task for you, given how good you are at insinuating things without saying a single word.
+042	I want to refute that, but...I really can't. All right. I'll go. I'm quite interested to meet this Nimul fellow, if nothing else.	VO_ignacio.ignacio_sys_0031
+043	I'd say keep your expectations in check, but with a sister like Emmel, it should be no surprise that he's a bit of a larger-than-life figure. Definitely an interesting one, that Nimul.	VO_kvense.kvense_sys_0023
+044	...
+045	(My only role here is to bait them to go to another Belt Region so Emmel has more room to set the wheels in motion.)
+046	(And yet...)	VO_ignacio.ignacio_sys_0030
+047	Now that you understand the situation, I have a proposal for you.
+048	Work with us, Pursuers of Truth.
+049	(If this works, much will change. Our secret plan will remain the same, but the need for Nimul to fight his sister will be nullified.)	VO_ignacio.ignacio_sys_0020
+050	I will not.	VO_nimuru.nimuru_sys_0039
+051	Oh?	VO_ignacio.ignacio_sys_0004
+052	I have no reason to believe anything any of you say. Let me guess: you're going to try to trade information you've been withholding from me for our cooperation?	VO_nimuru.nimuru_sys_0030
+053	You could very well be attempting to lure us into a trap by providing false leads. Sorry, but we'll pass.
+054	I see... You do raise a good point.
+055	(I had a feeling it wouldn't go so easily. There's only one thing to do now.)	VO_ignacio.ignacio_sys_0022
+056	Then I suppose I'll back down quietly for today. I have other matters to attend to here as it is.
+057	It seems our comrades in Invidia Belt are having some difficulty handling the Cursed Beasts.	VO_ignacio.ignacio_battle_0010
+058	...!	VO_nimuru.nimuru_sys_0018
+059	(We're waiting for you, savior...for the moment you save this world from the brink.)
+060	What?! I thought the barrier of corruption had gotten thinner, but this...	VO_adlai.adlai_sys_0026
+061	Something's weird about the way the magil here flows. It's swelling and falling like ocean waves, almost.	VO_adlai.adlai_battle_1018
+062	Superbia Belt has a much deeper connection to the world's foundation than the other lands.
+063	Many note that there's considerably more corruption and magil swirling through the air here than elsewhere.
+064	Will the conditions worsen even more as we go on?	VO_nimuru.nimuru_sys_0006
+065	I cannot say definitively. After all, the lands of Ire Belt are not exactly the most hospitable to humans, either.
+066	Well, that region does have the scarcest amount of magil, what with Satna having burned away virtually all of it.	VO_andechs.andechs_sys_0005
+067	On the other hand, Superbia Belt is so full of magil that it seems fit to burst.	VO_waginao-c.waginao-c_sys_0045
+068	That's a bit concerning, since all of that is Pride magil, no?	VO_nix.nix_sys_0030
+069	Making it a fairly good indicator of just how powerful the region's Cursed Beast will be...
+070	Depending on how much that works out to, I fear the Gear of Judgment may not actually be effective.
+071	The base design for the Gear of Judgment was actually drafted specifically to exterminate the Cursed Beast of Pride.	VO_kuienai.kuienai_sys_0039
+072	So I don't think there's any reason for concern in that regard. It will serve its purpose.
+073	Really? That's the first I've heard of that.	VO_mela.mela_sys_0012
+074	You learned that when you were still part of the Infinite Serpent, I guess?	VO_eularea.eularea_sys_0002
+075	That's right.	VO_kuienai.kuienai_sys_0004
+076	Though at the time, I didn't fully grasp the true nature of the Gears.
+077	But now I do, and I've realized something: their magic is based off of dragon techniques.
+078	I have no idea why the same magic would be etched into the Abstinent Witch's own weapon, though.	VO_kuienai.kuienai_sys_0031
+079	You mean the Libra?	VO_nix.nix_sys_0003
+080	It's the only way it could possibly strip away the sin magil.
+081	Just one more way the master shows us she's the best! We've got a long way to go if we want to catch up.	VO_mela.mela_sys_0046
+082	...	VO_nix.nix_sys_0011
+083	Let's just treat this like any other time we've had to deal with a Cursed Beast. There's nothing about this one that seems likely to further complicate matters. The real concern here is—	VO_nimuru.nimuru_sys_0005
+084	How the Infinite Serpent will regard us.	VO_dafne.dafne_sys_0016
+085	Exactly. Up until now, they've been getting in our way wherever we've gone. Now we'll finally get to see what this strange organization's true motives are.	VO_nimuru.nimuru_sys_0004
+086	Can't Sunshine here just tell us before we get there? I mean, he claims he's our ally now. Why not spill the beans already?	VO_mela.mela_sys_0016
+087	Because I don't have anything to tell you.
+088	Come again?!	VO_mela.mela_sys_0006
+089	It's true. From the very start, the Serpent and I were just using one another. Given that, I saw no reason to delve any deeper into their organization than I had to. So, I didn't.
+090	Ugh, seriously?! You're so...so...gahh! Waginau, why is this guy the worst?!	VO_mela.mela_sys_0012
+091	Why are you asking me?!	VO_waginao-c.waginao-c_sys_0030
+092	If it helps put your mind at ease, there is one thing I can tell you that may be of some use.
+093	Namely, that the very land of Superbia Belt itself and the Infinite Serpent are, for all intents and purposes, one and the same.
+094	You mean to say they control the entire Belt Region?	VO_nix.nix_sys_0021
+095	Exactly. So once we cross that border, be very mindful of the fact that you won't have a single friend or ally to fall back upon.
+096	Trust no one.
+097	...	VO_nimuru.nimuru_sys_0018
+098	What?! The Ceremony of Creation requires all the people of Superbia Belt to be sacrificed?!	VO_nimuru.nimuru_sys_0012
+099	Yes. The dreamers who dwell there envision an ideal future for the world in which they, themselves, are no more. And so when the Ceremony occurs, this prophecy of theirs will be self-fulfilled.
+100	That proud, self-sacrificial population is truly what forms the basis of the Infinite Serpent.
+101	Let's judge them and their intentions with our own eyes and ears, just as we've done in all the other Belt Regions. That approach has done well to drive us forward thus far.	VO_nimuru.nimuru_sys_0031
+102	That goes for anyone we face, regardless of what they may be plotting. Let the charge be led by diplomacy, not arms.	VO_nimuru.nimuru_sys_0004
+103	We will find the right answer and discover the Truth of this world!
+104	That alone is the only path afforded us if we truly wish to save everyone from all the Belt Regions.
+105	All right, we're almost there. Just a bit more, aaand...	VO_adlai.adlai_sys_0006
+106	Welcome to Superbia Belt, everyone!	VO_adlai.adlai_sys_0007
+107	Let's see what it has in store for us.
+108	Whoa, what's that?! I think I've heard that noise somewhere before...	VO_mela.mela_sys_0025
+109	You heard it when we got a call from the leader of Acedia Belt. But who'd be calling us now?	VO_nix.nix_sys_0003
+110	Only one way to find out. Here we...go! We're connected.	VO_adlai.adlai_sys_0001
+111	Greetings, travelers! I've been waiting for you.	VO_chahele.chahele_sys_0004
+112	What a suspiciously warm and friendly welcome. I don't trust it one bit.	VO_andechs.andechs_sys_0016
+113	Whoever that is, I'm calling it right now: he's the bad guy. Mark my words.
+114	Huh?	VO_dafne.dafne_sys_0025
+115	What?	VO_andechs.andechs_sys_0006
+116	I do apologize for calling out of the blue. Actually, are we even connected properly? Can anyone hear me?
+117	I thought I'd managed to match the protocols of your machinery rather well...
+118	Who are you?	VO_nimuru.nimuru_sys_0002
+119	Oh, so we are connected! Thank goodness. Yes, please do allow me to introduce myself.	VO_chahele.chahele_sys_0024
+120	I'm Shahel, the leader of the Infinite Serpent. I intend to carry out the Ceremony of Creation in full, which makes me your enemy.
+121	...!	VO_nimuru.nimuru_battle_0019
+122	You must be wondering why I'd be reaching out to you like this, given that fact.
+123	And the answer is, to entreat your aid. I beg of you, please help! A mysterious group of people have taken over the Infinite Serpent's stronghold, and we are well and truly outmatched!	VO_chahele.chahele_sys_0022
+124	...
+125	...
+126	...
+127	...
+128	...
+129	Seriously?	VO_andechs.andechs_sys_0006
+130	Is this for real?	VO_eularea.eularea_sys_0025
+131	I'm asking you to help me, travelers! ...Ack, a primordial monster?! Please, wait! I beg of you!	VO_chahele.chahele_battle_0019
+132	Can you not see that I'm ill prepared for a fight?! Gaah! Please, come qui—!
+133	...Uhh, what should we do?	VO_adlai.adlai_sys_0002
+134	This is...pretty obviously a trap, right? Still... I mean...	VO_nix.nix_sys_0030
+135	That was a real scream, at least. Or else he's one heck of an actor.	VO_mela.mela_sys_0001
+136	Zafeiris, Yna. Can you confirm if that was the voice of the Infinite Serpent's current leader?
+137	I believe it was.
+138	It sounded like him, but I remember him having a bit more...dignity than that.	VO_kuienai.kuienai_sys_0039
+139	...
+140	His fighting ability is quite low, however. And the tone of his voice did suggest genuine peril.
+141	Then...let's go save him, I guess?	VO_nimuru.nimuru_sys_0030
+142	Are you sure, Nimul? There's every reason to believe that this is a strange sort of...reverse psychology ruse.	VO_eularea.eularea_sys_0002
+143	Oh, trust me, I know. I don't think it's possible to hear that and not doubt every part of it. But the fact is, we need more information on this region. And this should be a quick way to get it.	VO_nimuru.nimuru_battle_0022
+144	So let's just play along, and see what happens. Adaleigh, please direct the airship to his location.
+145	Yes, Sir! Based on the call coordinates... There we go! Hang on, everyone. This could get a bit bumpy.	VO_adlai.adlai_sys_0037

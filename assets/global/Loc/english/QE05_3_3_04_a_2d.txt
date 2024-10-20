@@ -1,0 +1,60 @@
+﻿001	Sir Dias! We have no intention of fighting with you.	VO_knightm.knightm_battle_0019
+002	Then answer me. What is your objective? Why have you come here? What exactly do you know?	VO_dios.dios_sys_0010
+003	You really think that we would tell you?	VO_knightm.knightm_sys_0010
+004	You have a point. I know that no amount of coercion could force you to sell out your comrades.	VO_dios.dios_sys_0031
+005	That is simply the kind of knights you are.
+006	However, you would be surprised to know that it only takes a slight shift in scenario for people to change. Let us take that woman over there, for example.
+007	Ah!	VO_mary.mary_sys_0042
+008	If you do not tell me where Logi is, her life is forfeit. What would you do if I said that?	VO_dios.dios_sys_0002
+009	Y-you...! What are you—?!	VO_knightm.knightm_sys_0013
+010	Resistance is futile. You do not have the capacity to take me on, to face the Captain of the Holy Guard.	VO_dios.dios_sys_0001
+011	Come, give me the information I seek. So long as you do that, no one will need to be harmed.
+012	Nngh!	VO_knightm.knightm_battle_0019
+013	You're soft.	VO_stknightm.stknightm_battle_0007
+014	Wh—?!	VO_dios.dios_sys_0025
+015	Urrggghhhh!	VO_knightm.knightm_battle_0023
+016	That is not how Corpse operates, Dias Elysion.	VO_stknightm.stknightm_sys_0001
+017	We only need let one would-be-informant live. There is no reason to spare the others.
+018	You...! Why are you here?!	VO_dios.dios_sys_0017
+019	Waginau has given the order to silence all who would interfere with our original mission.	VO_stknightm.stknightm_sys_0005
+020	Our...original mission? What do you mean?	VO_dios.dios_sys_0012
+021	It is not something that you need to know.	VO_stknightm.stknightm_sys_0010
+022	Ngh! We are under attack! Protect the perimeter! We are in the middle of a city! We must do what we can to keep damage to a minimum!	VO_knightm.knightm_sys_0042
+023	Lady Marie, over here! You should be a little safer inside the guild!
+024	Th-thank you!	VO_mary.mary_battle_0019
+025	Aaaarrrrggghhh! N-no!	VO_knightm.knightm_battle_0024
+026	Those who are injured should retreat immediately! Evacuation will be carried out by reinforcements!
+027	They're using Alchemy in the dang city! It's like they don't care about destroying the area at all!	VO_knightm.knightm_battle_0020
+028	Nnggh!	VO_dios.dios_battle_0020
+029	What are you doing, Dias Elysion? Surely you do not intend to turn your back on the Holy Guard?	VO_stknightm.stknightm_sys_0001
+030	That would be such a waste. Oh, yes. A waste of all the blood that you have spilled up until this point.
+031	Tch! I never intended to join your ranks. Stay the hell out of my way!	VO_dios.dios_battle_0003
+032	You...!	VO_stknightm.stknightm_sys_0012
+033	Urrggghh!	VO_dios.dios_battle_0020
+034	Then this is where it ends, Elysion. Dying with your former comrades ought to be an honor.	VO_stknightm.stknightm_battle_0011
+035	Hmph. It's been a while since I've been to the desert... I didn't realize there was a show on. What's all this?	VO_gaiorgeos.gaiorgeos_battle_0001
+036	Wha—?!	VO_stknightm.stknightm_battle_0020
+037	Geez, can't even take a holiday in peace anymore. This desert is the home away from home for my comrades. I'm not about to let you outsiders just do as you please.	VO_gaiorgeos.gaiorgeos_sys_0016
+038	Huh?! Who the hell are you?!	VO_knightm.knightm_sys_0025
+039	You're the Blue Tongues, right? How long are you gonna keep standing there with your tails between your legs? Get your butts back into formation and stop their attack!	VO_gaiorgeos.gaiorgeos_sys_0002
+040	If you don't, you'll lose everything. You won't be able to protect diddly-squat!
+041	H-huh?! Yes, um... Yes, sir! All right, team, let's bring it together! We're going to crush every last one of them!
+042	Get into formation! The enemy may be strong, but we have the numbers! Let's overwhelm their few with our many!
+043	Hmph. Not bad. I guess I'll join in for once, too.	VO_gaiorgeos.gaiorgeos_sys_0009
+044	G-Georgios...?	VO_mary.mary_sys_0006
+045	Is that you, Marie?	VO_gaiorgeos.gaiorgeos_sys_0006
+046	Are you all right? I heard that you had disappeared from Saga, and I thought...	VO_mary.mary_sys_0044
+047	You're such a worry wart, you know that? You really think I'd go dying so easily?	VO_gaiorgeos.gaiorgeos_sys_0016
+048	N-no! Of course not! I... I'm happy to see you again, Georgios!	VO_mary.mary_sys_0018
+049	All right, so... What're you gonna do?	VO_gaiorgeos.gaiorgeos_sys_0009
+050	Hmm...
+051	Are you going to fight me here? Or are you going to change sides? I don't really care which, but...	VO_gaiorgeos.gaiorgeos_sys_0001
+052	It doesn't look like that sword in your hand likes what they're doing.
+053	Hmph. You don't need to tell me that. I follow my own brand of justice!	VO_dios.dios_sys_0010
+054	Grrrrnnnnggghhhh!
+055	I have a goal of my own, and right now, you're standing in my way!	VO_dios.dios_battle_0005
+056	You're an interesting one, I'll give you that. I especially like how you don't understand your own duty. That really hits the spot!	VO_gaiorgeos.gaiorgeos_battle_0013
+057	Now it's starting to look like you're the ones who are at a bit of a disadvantage, isn't it? What are you gonna do about that, huh?
+058	There! That's the Gluttony Foss border!
+059	What are we going to do? We can hardly declare ourselves a merchant caravan with these numbers!	VO_kamui.kamui_sys_0002
+060	We will just have to push through! I am counting on you!

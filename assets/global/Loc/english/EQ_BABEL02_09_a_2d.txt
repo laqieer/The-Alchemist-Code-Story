@@ -1,0 +1,191 @@
+﻿001	(I was born into the dark elf aristocracy.)	VO_laetitia.laetitia_sys_0030
+002	(When I was young, our age-old blood feud with the high elves spurred us to challenge them to a war...which we lost.)
+003	(As a condition for our surrender and an offering of peace, like a slave, I was given unto the high elves. Then...)	VO_laetitia.laetitia_sys_0018
+004	(I met him.)
+005	(My eternity.)
+006	Our next target will be the cleric of the Holy Order, based in Wratharis.	VO_zaharu.zaharu_sys_0002
+007	This man is a former aristocrat of Wratharis. He works in the shadows with the affluential elite of other provinces, all lining their own pockets.
+008	However, money isn't the only thing they've stockpiled. They've also managed to acquire a Philosopher's Stone.
+009	We're going to ambush him and take the stone for ourselves!
+010	Failure is not an option!	VO_zaharu.zaharu_sys_0010
+011	As you command.	VO_laetitia.laetitia_sys_0005
+012	(What we desire is power... Immense power; enough to make the world tremble before us. Our ultimate goal...)
+013	(Is to create a perfectly balanced world.)
+014	Ila, our mark will have the Holy Guard protecting him, so don’t be reckless.	VO_niggle.niggle_sys_0002
+015	Got it.	VO_ila.ila_sys_0004
+016	Heh. You’ve grown.	VO_niggle.niggle_sys_0007
+017	What?! Shaddap! I don't like the way you're talkin'.	VO_ila.ila_sys_0025
+018	Don’t slack off on your prep.	VO_niggle.niggle_sys_0010
+019	Ila!	VO_mea.mea_sys_0002
+020	What do you want, squirt?!	VO_ila.ila_sys_0006
+021	I just wanted to tell you to be careful... Come back safely, all right?	VO_mea.mea_sys_0010
+022	Course! I'll be seeing ya in a bit.	VO_ila.ila_sys_0007
+023	See you soon!	VO_mea.mea_sys_1006
+024	...
+025	You all right, Sis?	VO_syrma.syrma_sys_1011
+026	Hmm...?	VO_spica.spica_sys_0006
+027	You're looking a little pale.	VO_syrma.syrma_sys_0031
+028	Don't worry about me; I'm fine. I have to keep fighting until the bitter end for Lord Zahar's sake.	VO_spica.spica_sys_0022
+029	If you say so...
+030	(Shadow Messiah... An underground organization led by Zahar, former Holy Guard dude, and Hero among the Knights of Wratharis.)	VO_ren.ren_chara_1006
+031	(Still don't know what they're after, but it's likely they wanna ambush the former aristocracy of Wratharis or high-ranking Holy Order members to steal their Philosopher's Stone. That's the sort of evil association they are.)
+032	(But then, they also have a sense of comradery! I don't get them at all... What the heck are they exactly?!)	VO_ren.ren_sys_0018
+033	Coren...	VO_niggle.niggle_sys_0002
+034	Yes, Corvus? What can I do you for?	VO_ren.ren_sys_0004
+035	This will be your first battle. Show me what an assassin of Wadatsumi can do!	VO_niggle.niggle_sys_0010
+036	Leave it to me, sir! I won’t let you down!	VO_ren.ren_sys_0005
+037	Good, we’ll be heading out soon.	VO_niggle.niggle_sys_0004
+038	Sir, yes, sir!	VO_ren.ren_sys_0007
+039	(Corvus... An ex-Paladin and a comrade of Zahar from his days in the Holy Guard... He's the second son of the Leonhart household, a family of renowned assassins who've since given up the trade.)	VO_ren.ren_chara_1006
+040	(He was the vice-captain of the Knights of Wratharis and continues to be the right hand of Zahar to this day. His role is to keep the rest of the Shadow Messiah in line.)
+041	(And last but not least...)
+042	Zahar...	VO_laetitia.laetitia_sys_0002
+043	What's the matter?	VO_zaharu.zaharu_sys_0006
+044	...
+045	I see... I understand.	VO_zaharu.zaharu_sys_0031
+046	(Letitia... A woman whose identity is a total mystery, but who's never far from Zahar's side. Commonly referred to as...)
+047	...
+048	(Jeepers! Our eyes met! Has she found me out?!)	VO_ren.ren_sys_0026
+049	Tch...	VO_ren.ren_sys_0029
+050	(I should stay clear of her, especially if she's worked out my true motives...)
+051	(Letitia...also known as the Holy Mother of Darkness. What a cool name!)	VO_ren.ren_sys_0007
+052	Who was that?	VO_laetitia.laetitia_sys_0001
+053	Who? Oh. Coren? He was once an assassin of Wadatsumi. I thought we could use him, so I recruited him.	VO_niggle.niggle_sys_0006
+054	I see... You must keep an eye on him.	VO_laetitia.laetitia_sys_0016
+055	What? You got a problem with him?	VO_niggle.niggle_sys_0006
+056	Do your shadows not whisper to you...?	VO_laetitia.laetitia_sys_0022
+057	What do you expect them to say?	VO_niggle.niggle_sys_0002
+058	No, never mind...	VO_laetitia.laetitia_sys_0030
+059	I won't, then.	VO_niggle.niggle_sys_0029
+060	Lord Zahar, all preparations have been completed.
+061	Good. Let us be off on our way.	VO_zaharu.zaharu_battle_0010
+062	(Vettel, I think I'm gonna need you! Don't leave me hanging here, man!)	VO_ren.ren_sys_0030
+063	Ack! Zahar, stop this already!	VO_vetel.vetel_sys_0042
+064	Hahaha! Try and stop me...if you can!	VO_zaharu.zaharu_sys_0008
+065	I shall usher in a new age! A world that craves eternal darkness! As supreme ruler, I shall herald the truth of the world! I will not be stopped by the likes of you!	VO_zaharu.zaharu_sys_0032
+066	You will never succeed! I won't let you!	VO_vetel.vetel_battle_0019
+067	Pl-please save me! I'm begging you! Look, I have gold—all this and more!	VO_mob-saga_omale.mog-saga_omale_sys_0019
+068	J-just take it and leave m—
+069	How pitiful... Did you not understand? Your money holds no sway over us.	VO_niggle.niggle_sys_0030
+070	Eeeeek!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+071	N-no! Do you know who I am?! I am a cleric of the Holy Order!
+072	My power should be enough to—
+073	Urgggh...	VO_mob-saga_omale.mog-saga_omale_sys_0043
+074	We shall take the Philosopher's Stone off your hands.	VO_laetitia.laetitia_sys_0007
+075	Ngh...	VO_mob-saga_omale.mog-saga_omale_sys_0018
+076	Bah.	VO_niggle.niggle_sys_0010
+077	We have accomplished what we came here for.	VO_laetitia.laetitia_sys_0030
+078	Very well. I shall finish you another time, Vettel.	VO_zaharu.zaharu_sys_0010
+079	You dare flee, Zahar?!	VO_vetel.vetel_battle_0019
+080	Be grateful, Vettel. I'm letting you live...until we meet again.	VO_zaharu.zaharu_sys_0008
+081	Dangit!	VO_gerard.gerard_sys_0042
+082	Vettel... We failed in protecting the cleric.	VO_natalie.natalie_sys_0018
+083	Curses! This is what you call justice, Zahar?!	VO_vetel.vetel_sys_0018
+084	...
+085	Hey!
+086	R...Ren.	VO_natalie.natalie_sys_1034
+087	Stay strong...Ren.
+088	Hey... Has Lord Zahar seemed in a bad mood to you, ever since getting back?	VO_syrma.syrma_sys_0003
+089	Well, he must get tired just like the rest of us.	VO_ila.ila_sys_0005
+090	Of course.	VO_syrma.syrma_sys_0007
+091	I'm a little worried. What if I brought out Woody? Do you think Woody would cheer him up?	VO_mea.mea_sys_0031
+092	Um... I don't think that's such a great idea.	VO_syrma.syrma_sys_0011
+093	Lord Zahar...playin' with a plushie... I can't see that ever goin' down!	VO_ila.ila_sys_0029
+094	I can't stand it anymore. I'm going to go see if he's okay!	VO_spica.spica_sys_0003
+095	Hey, wait! Sis! Get back here! You're only going to infuriate him!	VO_syrma.syrma_sys_0025
+096	She's gone, you know...	VO_ila.ila_sys_0030
+097	Spica... You really do love him, don't you?	VO_mea.mea_sys_0008
+098	...
+099	(How long have I watched over you from the shadows?)
+100	(Such anguish... Such sadness... Such uneasiness... All the emotions you try to hide from everyone—I know all about them.)
+101	Heheh... Muahahah!	VO_zaharu.zaharu_sys_0008
+102	The most beautiful things are also the most beautiful when destroyed. No two exist in this world. I will witness the moment that I destroy its existence.	VO_zaharu.zaharu_sys_0010
+103	This is the highest pleasure that has been provided to the chosen. The powerful are the ones who rewrite history!	VO_zaharu.zaharu_sys_0023
+104	I will eliminate everything that stands in my way and bring myself closer to perfection!
+105	(Even your subtle quirks are no secret to me. Since your escape from that extravagant prison in your youth, you have pressed ever on toward your destiny.)
+106	(There's only one thing I haven't told him yet, but I suspect he already knows...)
+107	(To become a dark elf is to shorten one's lifespan.)
+108	(Furthermore, only half of your lineage is elven... There is simply no telling when your life will draw to a close.)
+109	(I know that what you wish to destroy...is not the world itself, but rather...yourself.)
+110	(You seek a graceful way of ending your existence... Zahar, you've already come to that realization, but decide to play the fool instead.)
+111	(If that is what you desire, I'll play along, too. Your wish to change the world is yet another sliver of the true you, shining through.)
+112	(Yes... That guileless promise from long ago...)
+113	(A beautiful lie you told for my sake...but a lie which drove you to come this far for me.)
+114	(We've been together for almost an eternity, and yet, I have to apologize: I've told you one lie.)
+115	(No... My feelings for you have transcended the realm of simple words.)
+116	(However, if I were to put them into words...)
+117	What is on your mind?	VO_laetitia.laetitia_sys_0001
+118	I...need more power.	VO_zaharu.zaharu_sys_0018
+119	I do not have the strength to defeat Vettel, the Scarlet Flame Guard, and the Holy Order... Perhaps I do not have the power to establish an order of darkness.
+120	You are the conqueror who shall become the King of Darkness. You must have the strength to bear that burden.	VO_laetitia.laetitia_sys_0007
+121	Listen to me, Zahar...	VO_laetitia.laetitia_sys_0037
+122	...
+123	You and I were destined to meet. It is my fate to become your strength.	VO_laetitia.laetitia_sys_0001
+124	Thank you... My dearest sister.	VO_zaharu.zaharu_sys_0007
+125	Just promise me that my death will be quick and painless.	VO_laetitia.laetitia_sys_0004
+126	(I offer you my life. I have lived for this moment, and know that this was the reason for us meeting.)
+127	However...	VO_zaharu.zaharu_sys_0004
+128	Letitia, you were the only one in that prison who would smile at me. You are everything to me.	VO_zaharu.zaharu_sys_0018
+129	(You have no idea how long I have waited for this moment.)
+130	(My life will be part of your life. My strength your strength. I will live on forever, inside of you.)
+131	(There's no point in saying anything...but even if there isn't...forgive me.)
+132	I adore you.	VO_laetitia.laetitia_sys_0007
+133	Aaaaaaaaaaaaaah! Aaaaaaaaarrrrrrrrrgh! Aaaaaaahhhhhhhhhh!	VO_zaharu.zaharu_sys_0028
+134	Wha—?! Eeeek! What’s going on...?	VO_spica.spica_sys_0020
+135	(Lord Zahar... He... He murdered Letitia!)	VO_spica.spica_sys_1021
+136	Lord Za-Zahar...! Wait! Don't go!	VO_spica.spica_sys_0018
+137	(No! This isn't me! I'm loyal at heart! I only live to serve him!)	VO_spica.spica_battle_0019
+138	(Yet... Yet...!)	VO_spica.spica_sys_0019
+139	Letitia... That's not fair at all.
+140	(You...get to be with him forever.)
+141	I...killed Letitia.	VO_zaharu.zaharu_sys_0018
+142	What...?!	VO_niggle.niggle_sys_1050
+143	Her powers of alchemy now reside in me.	VO_zaharu.zaharu_battle_0019
+144	Le...titia...	VO_niggle.niggle_sys_0029
+145	(I will never forgive you, from now until the end of time.)
+146	Are you really going?	VO_ila.ila_sys_0001
+147	But why?! Spica, why do you have to go?!	VO_mea.mea_sys_0019
+148	I'm sorry... I cannot stay by his side any longer.	VO_spica.spica_sys_0035
+149	...
+150	Lord Zahar must keep moving forward. However, I’m...afraid. I’m not worthy of being by his side.	VO_spica.spica_sys_0022
+151	I’m really...really...sorry.	VO_spica.spica_sys_0035
+152	What are you saying?! I don’t accept this! You hear me?!	VO_ila.ila_sys_0020
+153	...
+154	Are you really sure, though, Sis?	VO_syrma.syrma_sys_0030
+155	I am. I know now, I can never be like him.	VO_spica.spica_sys_0018
+156	I felt your ambition beating in my chest. For a hollow blade such as mine, it is just cause.	VO_zen.zen_sys_0031
+157	You called yourself...Zehn? What is it you want from me?	VO_zaharu.zaharu_sys_0031
+158	I simply seek one thing: to know the truth behind each swing of my sword. That is the destination of my travels.	VO_zen.zen_sys_0010
+159	(If I follow him, perhaps I could regain that which I have lost to the darkness...)
+160	Heh heh... By all means. I, Zahar, will take you with me into the future!	VO_zaharu.zaharu_sys_0008
+161	In that case, I offer you my services and vow to wield my sword in your name, until the day I am consumed by darkness.	VO_zen.zen_sys_0037
+162	Welcome. Heh heh.	VO_zaharu.zaharu_sys_0004
+163	(Since that day, Lord Zahar’s darkness has only grown deeper.)	VO_niggle.niggle_sys_0016
+164	With my power over darkness, I shall cleanse the world by converting its false light into darkness, thus exposing the truth to the world. Therein lies the path to the undistorted truth.	VO_zaharu.zaharu_sys_0023
+165	I shall serve you faithfully.	VO_zen.zen_sys_0038
+166	(The mine, eh? They're going after the motherload of Philosopher's Stones! Whelp! Now that I've reported it to Vettel, the Scarlet Flame Guard will stop Zahar in his tracks!)	VO_ren.ren_sys_0031
+167	(Still... Can’t quite put my finger on it...but I’m getting a real spooky vibe...)	VO_ren.ren_sys_0030
+168	(Letitia's gone, and core members like Spica and Silma, have disappeared, too. Now, there’s this newbie... Zehn.)
+169	(Things have changed drastically around here since I joined the crew. Zahar himself, too...)
+170	(That’s it...fear. The only thing I feel around him anymore, is fear. It's a bit of a shocker... Could I...of all people...fear someone?)	VO_ren.ren_sys_0018
+171	(What in the blazes is going on in Shadow Messiah?)
+172	Ila! Are you really going to leave?	VO_mea.mea_sys_0002
+173	Do you even need ta ask? 'Course I’m going!	VO_ila.ila_sys_0012
+174	I can't really explain it, but I feel like something bad is about to happen... Look, even Woody thinks so, too! Please, don’t go!	VO_mea.mea_sys_0018
+175	Don't be daft! I'll be back, silly! You just sit tight and wait for me.	VO_ila.ila_sys_0030
+176	...
+177	Lord Zahar... What is going on?	VO_niggle.niggle_sys_1050
+178	There's not a single Philosopher's Stone here!	VO_ila.ila_sys_0017
+179	We've been deceived...	VO_zaharu.zaharu_sys_0018
+180	What...?!
+181	Arghhh!!!	VO_knightm.knightm_battle_0025
+182	L-Lord Zahar!!!	VO_knightm.knightm_battle_0027
+183	(Vettel, what's the big idea?! This wasn't the plan!)	VO_ren.ren_sys_0026
+184	You?!	VO_zaharu.zaharu_battle_0019
+185	Lord Zahar! The mine's about to collapse! Quick, we must escape!	VO_niggle.niggle_battle_0019
+186	Full retreat!	VO_zaharu.zaharu_sys_0019
+187	So...it was you people after all.	VO_zaharu.zaharu_battle_0021
+188	Zahar, this is the end for you.	VO_thiefm.thiefm_sys_0010
+189	Words from a decaying corpse mean naught to me.	VO_zaharu.zaharu_sys_0029
+190	Indeed... Words are not needed where you're going!	VO_thiefm.thiefm_battle_0007
+191	My path of conquest...will not end here!	VO_zaharu.zaharu_sys_0032

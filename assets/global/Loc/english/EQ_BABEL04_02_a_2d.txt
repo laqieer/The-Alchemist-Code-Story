@@ -1,0 +1,129 @@
+﻿001	...
+002	Hmm, I suppose that will do for today. Let's leave the Demon Calming Ceremony there. That was good work.	VO_knightm.knightm_sys_0031
+003	Lady Yomi, you did very well.
+004	Why is it necessary for us to do this?	VO_yomi.yomi_sys_0002
+005	It's necessary in order to suppress the power that lurks within you.	VO_knightm.knightm_sys_0016
+006	All of Wadatsumi's people are descended from demons. Among them, one clan has a particularly strong lineage—and that is our clan, the Kagomurasaki.	VO_mob-saga_omale.mog-saga_omale_sys_0005
+007	Demons used to devour humans. It is said that they did this in order to harvest their Alchemia.
+008	So that's why the Alchemia, or Chakra, in our bodies is like this?	VO_yomi.yomi_sys_0031
+009	The Discarnate Power responds strongly to hatred. At present, the actions of one man are forcing all of Wadatsumi to face the hardship of invasion yet again.	VO_knightm.knightm_sys_0004
+010	Discarnate Power responds strongly to hatred. At present, the actions of one man are forcing all of Wadatsumi to face the hardship of invasion yet again.
+011	His intention is to make your emotions unstable, and thereby force your power to manifest.
+012	No!
+013	For breaking his oath and spilling the blood of his blood, he is the enemy of all of Wadatsumi.	VO_knightm.knightm_sys_0017
+014	The invader, Jin.
+015	J-Jin!	VO_yomi.yomi_sys_0042
+016	By the gods! Th-this demonic energy!	VO_mob-saga_omale.mog-saga_omale_sys_0026
+017	This is proof that evil has been growing within you, Lady Yomi. That is why the Demon Calming Ceremony is necessary. Please understand.
+018	That's right. This may be uncomfortable, but it is for the sake of all Wadatsumi and the world at large.	VO_knightm.knightm_sys_0004
+019	The Discarnate Power is the source of all corruption. Should it manifest, this world will be overrun by demons.
+020	Well then, Lady Yomi, you must be tired. Please return to your quarters and have a nice, long rest. We shall take care of the clean up.	VO_mob-saga_omale.mog-saga_omale_sys_0020
+021	I don't see any of the soldiers from Greed Dike.	VO_yomi.yomi_sys_0002
+022	They left several hours ago. We told them repeatedly that we have no intention of handing over Sumeragi or yourself, my lady. For the moment, we are safe.	VO_mob-saga_omale.mog-saga_omale_sys_0004
+023	Yes, you are far too young to take on such responsibilities, so they have been chased away.	VO_knightm.knightm_sys_0010
+024	Right.	VO_yomi.yomi_sys_1011
+025	She's gone. She couldn't possibly be aware of our plan, could she?	VO_knightm.knightm_sys_0016
+026	I'm sure she has her suspicions, but I don't think it's possible that she knows everything.	VO_mob-saga_omale.mog-saga_omale_sys_0004
+027	As for Sumeragi...
+028	I have relieved Lady Yomi of its care, and have stored it safely away.	VO_mob-saga_omale.mog-saga_omale_sys_0005
+029	I told her that I was worried about her condition worsening, what with those soldiers from Greed Dike barging in.
+030	I will milk Lady Yomi's usefulness for all it is worth, until the very end...	VO_mob-saga_omale.mog-saga_omale_sys_0010
+031	...
+032	Wait!	VO_yomi.yomi_sys_0001
+033	Yomi...?	VO_rifa.rifa_chara_1008
+034	What? You have something to say? You already kicked us out.
+035	We haven't finished our discussion.	VO_yomi.yomi_sys_0003
+036	Well, it was finished for us, thanks to those old geezers. I guess you can't expect to communicate with heathens.	VO_rifa.rifa_sys_0010
+037	Heathens this, heathens that.	VO_yomi.yomi_battle_0021
+038	We are taught that Wadatsumi is a heretical land, plagued by evil ideas.	VO_rifa.rifa_sys_0004
+039	Evil ideas?	VO_yomi.yomi_sys_0025
+040	We are taught that it is a land of fanatical heathenism and savagery, a land where violence is used to encourage adherence to tradition.	VO_rifa.rifa_sys_0010
+041	It is said that they will happily kill even their own blood for breaking tradition. Just like you are trying to do now.
+042	How dare you! You're the savages who are all too happy to turn a blind eye to your past!	VO_yomi.yomi_sys_0012
+043	What?!	VO_rifa.rifa_sys_0012
+044	You took our country from us!	VO_yomi.yomi_sys_0013
+045	That's...!
+046	The past won't change just because you make some pretty little speech about holding hands!	VO_yomi.yomi_battle_0023
+047	...
+048	Who would happily kill their own blood?! No one!	VO_yomi.yomi_battle_0020
+049	Wh-what?	VO_rifa.rifa_sys_0012
+050	It is simply that what must be done will be so! They cannot be forgiven!	VO_yomi.yomi_sys_0042
+051	Otherwise we cannot move on!
+052	I have to kill that man. As the head of the Kagomurasaki Clan, in accordance with the oaths we have sworn, and for his crime.
+053	Yet I cannot kill him if I don't hate him.
+054	Oh...
+055	That's just how it has to be!	VO_yomi.yomi_sys_0018
+056	I...see.	VO_rifa.rifa_sys_1011
+057	Leafah, listen to me. It doesn't matter how many strong techniques you master—what's important is that you don't misuse them.	VO_fuelie.fuelie_sys_0002
+058	It's meaningless if you only use them for the benefit of yourself and the country in which you were born.
+059	What? Then...for what purpose do you train?	VO_rifa.rifa_sys_0025
+060	I train so that I can lead this world into a peaceful future—so that I can create a world in which people can join hands and overcome their differences.	VO_fuelie.fuelie_sys_0004
+061	Join hands...	VO_rifa.rifa_sys_0031
+062	It shouldn't matter which country you were born in, we're all people of Babel, right? I'm sure we can understand each other!	VO_fuelie.fuelie_sys_0007
+063	...
+064	The world doesn't rule people. People create the world.	VO_fuelie.fuelie_sys_0044
+065	Their suffering, sorrow, ire, joy... These burdens overlap, and when they connect...that is how the world of humans is made.
+066	Leafah. When you lose your way, heed the voices of the people.	VO_fuelie.fuelie_sys_0007
+067	If you do that, the answer you seek should come to you all on its own.
+068	Hmph. So even now I cling to the words of she who sought a different kind of peace.
+069	What is it?	VO_yomi.yomi_sys_0025
+070	N-nothing...	VO_rifa.rifa_sys_1011
+071	So...you have your own burden to bear.
+072	Of course I do.	VO_yomi.yomi_sys_0007
+073	You live in Wadatsumi... I suppose it is obvious.	VO_rifa.rifa_sys_0004
+074	Even though you're still so young...
+075	I could say the same for you, right?	VO_yomi.yomi_sys_1011
+076	I'm not a child.	VO_rifa.rifa_sys_0012
+077	Wha—? Huh? I didn't say that you were a—?	VO_yomi.yomi_sys_0025
+078	Don't treat me like a child! I just have a baby face, so I look younger than I am!	VO_rifa.rifa_chara_1006
+079	Wh-what are you talking about all of a sudden?	VO_yomi.yomi_sys_0025
+080	It's just my face! My face!	VO_rifa.rifa_chara_2003
+081	Okay! I get it already! I didn't mean anything by it!	VO_yomi.yomi_battle_0022
+082	You called me the Baby General, didn't you?!	VO_rifa.rifa_chara_1003
+083	I did not! How would I even come up with something like "Baby General"?!	VO_yomi.yomi_sys_0016
+084	Hey! I knew it! See, you just said it again!	VO_rifa.rifa_battle_0019
+085	Wh-what is your problem?!	VO_yomi.yomi_sys_0029
+086	Hmph.	VO_rifa.rifa_sys_1011
+087	Do you feel better now?	VO_yomi.yomi_sys_0022
+088	I guess I...lost my composure for a second there.	VO_rifa.rifa_sys_0018
+089	Obviously.	VO_yomi.yomi_sys_0006
+090	I'm...sorry. Please forget everything that just happened.	VO_rifa.rifa_sys_0036
+091	It seems that we both have burdens to bear.	VO_yomi.yomi_sys_1011
+092	I can understand why you wouldn't believe me, considering what Greed Dike did to Wadatsumi in the past.	VO_rifa.rifa_sys_0030
+093	And I'm young—well, I look young—I mean it's just my fa—!
+094	Enough of that already!	VO_yomi.yomi_sys_0022
+095	I'm not enough to gain the trust of the people both in and outside of Greed Dike.	VO_rifa.rifa_battle_0019
+096	But you're the General, aren't you?	VO_yomi.yomi_sys_0025
+097	In name only.	VO_rifa.rifa_sys_0010
+098	I was appointed General as a symbolic gesture to mark the start of a new Greed Dike that is to be projected to the rest of the world. That's all.
+099	In name...? Symbolic?	VO_yomi.yomi_sys_0025
+100	At present, our nation is adopting the principle of transparency, and laying bare the sins of its past. We are working to atone for the mistakes we have made in order to earn back trust.	VO_rifa.rifa_sys_0030
+101	So they wanted a young person for the position of General, to emphasize the rebirth of Greed Dike.
+102	Still, I can't stand not being taken seriously just because I'm young. Age doesn't matter when it comes to caring about your country.	VO_rifa.rifa_battle_0019
+103	I was saved by the strength of this nation, and I was supported by its righteous justice.
+104	That's why it's us, the new generation, who want to restore faith in our proud nation as quickly as possible.
+105	I want to encourage the people who have lost faith in us, and bring smiles back to their faces. That's what drives me!
+106	I might be young, but I'll take on any and every responsibility in order to rebuild this great nation. It's us who will be in charge of the world from now on, after all.
+107	Even if we're ridiculed for being young. Even if we embarrass ourselves. It's still us.
+108	...
+109	I won't try to force you to trust me. I just want you to understand.	VO_rifa.rifa_sys_0001
+110	But I'm a heathen...right?	VO_yomi.yomi_sys_0003
+111	I knew that there were people still troubled by the past, driven by their anger.	VO_rifa.rifa_sys_0010
+112	I was ignorant, but I didn't try to understand or to learn. I just stood in your way. I realize that now.
+113	...
+114	For that, I am sorry.	VO_rifa.rifa_sys_0030
+115	Grrrrrrraaaaaaaawwwwwwwwww!
+116	Uhoh. We've been surrounded.	VO_rifa.rifa_sys_0027
+117	When did they—?!
+118	Yomi, where is Sumeragi?!	VO_rifa.rifa_sys_0001
+119	I...I left it with the old-timer.	VO_yomi.yomi_battle_0019
+120	There's a lot of them... Think we can handle it?	VO_rifa.rifa_battle_0019
+121	I rarely ever used Sumeragi in the first place. I'll be fine with just a short sword.	VO_yomi.yomi_sys_0022
+122	Let's call a brief truce and join forces. How about it?	VO_rifa.rifa_sys_0010
+123	...
+124	I...still can't forgive you.	VO_yomi.yomi_sys_0003
+125	I understand.	VO_rifa.rifa_sys_0004
+126	I'm not at liberty to help you.
+127	I-I see...	VO_rifa.rifa_sys_0018
+128	That's why I need you to understand that this is just temporary...	VO_yomi.yomi_sys_1011
+129	But you can trust me to watch your back for now!

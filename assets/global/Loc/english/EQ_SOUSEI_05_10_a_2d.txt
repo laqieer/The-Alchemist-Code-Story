@@ -1,0 +1,67 @@
+﻿001	I've finished analyzing the composition of this shield, but...
+002	There's no mistaking it. It's Sephirium.	VO_kuienai.kuienai_sys_0004
+003	I never thought we'd find this material in the Invidia Belt.
+004	And it's very similar in form to that which Ambrosia showed us in the Luxuria Belt.	VO_nimuru.nimuru_sys_0004
+005	What is going on here?
+006	...
+007	King Patricius said this shield was once part of an "ark" that saved their people.	VO_nimuru.nimuru_sys_0002
+008	So the question is, what was this ark? Who was able to build such a thing back when the Cursed Beasts first awakened?
+009	We'll have to go without an answer for the time being. As of now, there are more pressing matters to focus on.	VO_kuienai.kuienai_sys_0039
+010	Right. We've got to focus on what we can do in the time we have left.	VO_nimuru.nimuru_sys_0031
+011	Let's get started on the Silver Shield. It's time to fix up this ancient treasure!	VO_nimuru.nimuru_sys_0037
+012	Don't forget that even if it does resemble some things we encountered in the past, it's not something we know very well.
+013	We'll have to work quickly and carefully.
+014	Yes, I know. Leave this to me.	VO_kuienai.kuienai_sys_0004
+015	There you are. Did you get us a ship?
+016	I'm sorry... It seems that the tidal wave from before has rendered most of our vessels unable to take to sea.	VO_dafne.dafne_sys_0036
+017	Yikes, that's no good. What do we do now? Start swimming?
+018	While wearing armor? We'd sink like a pair of bricks.	VO_dafne.dafne_sys_0025
+019	I've come up with another idea. Wait here!
+020	Got it, I won't move an inch.	VO_andechs.andechs_sys_0005
+021	Huh? What are you doing here?	VO_adlai.adlai_sys_0001
+022	You're, uh... Adaleigh, right? I should be asking you that question.	VO_andechs.andechs_sys_0003
+023	I'm getting ready to observe the Leviathan. It's out at sea, you know? But it's just a quick hop and a skip away for my airship!	VO_adlai.adlai_sys_0004
+024	...
+025	That's it!
+026	Wh-whoa! What's gotten into you?!	VO_adlai.adlai_sys_0025
+027	I'm back! Good news, I arranged a fishing boat we can borrow and...huh?
+028	Sorry for getting you wrapped up in something so dangerous, Adaleigh.
+029	It's fine, it's fine. Nothing wrong with lending a helping hand!	VO_adlai.adlai_sys_0037
+030	It's not like I disagree with that, but shouldn't you have checked in with Nimul first?	VO_nix.nix_sys_0039
+031	Eh, but it'd be a pain to explain everything. In an emergency situation like this it's better to do first, explain later!
+032	Besides, this is a great chance to observe the Leviathan too! Two birds, one stone!
+033	That's what I'm planning to say when Nimul yells at me later, at least!	VO_adlai.adlai_sys_0007
+034	Yeah, yeah... I got it, it's fine.	VO_nix.nix_sys_0011
+035	This is just like that time in the Acedia Belt Region. Engineers, always just doing whatever they think is right without thinking twice...
+036	They say blood is thicker than water, but it doesn't seem like it made a real difference in your case...	VO_nix.nix_sys_0030
+037	Did you just compare me to Icona?! That's insensitive! And I'm nothing like her!
+038	Anyway, how much longer do you think it'll take us?	VO_andechs.andechs_sys_0001
+039	Over to the eastern reefs, right? Take a look, you can see it already—
+040	Restore power to the engines! The wind is against us! Leviathan will catch up at this rate!	VO_stknightm.stknightm_sys_0001
+041	The fact it hasn't noticed us yet is the one small mercy we have going for us... We're like mere pebbles on a rocky road to that thing.
+042	But just our proximity to it is making the waters extremely turbulent! This is not good!	VO_stknightm.stknightm_sys_0043
+043	Grrrooooooggghhh!	VO_leviathan.leviathan_battle_0001
+044	Will it be unable to follow us if we get closer to land?!
+045	Oh dear, this won't do. You're going to strand yourselves on the reefs if you keep going this way.	VO_andechs.andechs_sys_0014
+046	Andechs?! Damn it, he's come to take our heads!
+047	Now, now, you think your heads are valuable enough to risk getting mauled by a Cursed Beast to get them?	VO_andechs.andechs_sys_0017
+048	Then what are you up to?! Don't tell me you actually came to save us?	VO_stknightm.stknightm_sys_0012
+049	Ouch. Is that really so hard to believe? This is a reconnaissance ship, right? Not too many people in the crew?	VO_andechs.andechs_sys_0004
+050	We'll drop a ladder from the airship, so I suggest that everybody who wants to live hold on tight.
+051	Huh? You're serious?!	VO_stknightm.stknightm_sys_0026
+052	First you betray us and kill your brethren, and now you're coming to save us?! Make up your mind!
+053	We're kinda in a hurry here, you know... But if you must know, I'll tell you.	VO_andechs.andechs_sys_0012
+054	I just do what I think is right. Nothing too complicated.
+055	I won't act against my own sense of justice, even if that means dunking my reputation right down into the mud.
+056	...Justice? That's why you came to rescue us—?	VO_stknightm.stknightm_sys_0029
+057	Are you going take this chance to survive or not?
+058	Ngh, fine! I might regret this, but...everybody gather here! We're escaping to the skies!	VO_stknightm.stknightm_sys_0042
+059	There's a good boy. Adaleigh, get us out of here!
+060	Hm, I'm trying to lower the ladder, but...	VO_adlai.adlai_sys_0004
+061	Is there a problem?	VO_andechs.andechs_sys_0006
+062	A whole swarm of monsters managed to peel away from the Leviathan, and they're headed straight for the ship!	VO_adlai.adlai_sys_0042
+063	We're going to be overrun before we evacuate everyone!
+064	I see... In that case, someone is going to need to guard the rear.	VO_andechs.andechs_sys_0005
+065	What are you planning?
+066	You all, climb up! I'll take care of this!
+067	Gyuuuuaaa!

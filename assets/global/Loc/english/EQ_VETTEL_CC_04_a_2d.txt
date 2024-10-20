@@ -1,0 +1,70 @@
+﻿001	Hn... I can barely keep my eyes open...	VO_vetel.vetel_chara_1007
+002	Vettel, you look like the living dead. Don't you think it's time you got some rest?	VO_natalie.natalie_sys_0002
+003	Got it, got it... After I finish up this last bit of work...	VO_vetel.vetel_sys_0030
+004	After you finish all of THIS? Look at that pile of paperwork! That's not going to be done any time soon.	VO_natalie.natalie_sys_0031
+005	Hold up! Vettel! You totally forgot to sign this paper! And this one, too! And this one!	VO_natalie.natalie_sys_1034
+006	S-sorry...	VO_vetel.vetel_sys_0035
+007	Good grief, you're barely capable of doing paperwork at your best. You really shouldn't be doing it while you're half-asleep.	VO_natalie.natalie_sys_0022
+008	Yeah... I used to leave this kind of stuff up to Gerald, but... Well. It's my responsibility now.	VO_vetel.vetel_sys_0031
+009	Ha. Well, he wasn't that great at it either. I used to help him with it all the time.	VO_natalie.natalie_sys_0002
+010	Wait, what?! Really?!	VO_vetel.vetel_sys_0025
+011	He did it because he knew you had more important things to be doing.	VO_natalie.natalie_sys_0005
+012	Things that only you, the Captain of the Scarlet Flame Guard, are capable of doing.
+013	Things only I can do?	VO_vetel.vetel_sys_0016
+014	You're still not in bed? You know morning's gonna come soon, right? Don't you have to help with the restoration efforts again?	VO_ren.ren_sys_0006
+015	Hm, yeah, I do...	VO_vetel.vetel_event_1015
+016	See, even Ren agrees with me. Ren, he's been like this all the time lately.	VO_natalie.natalie_sys_0016
+017	Excuse my interruption! Captain! We've got an emergency over in the village!	VO_knightm.knightm_sys_0001
+018	...!
+019	Wh-what is this?!	VO_natalie.natalie_sys_0021
+020	H-help!
+021	Natalie! We'll handle this for now. You go call for reinforcements!	VO_vetel.vetel_sys_0042
+022	Got it!	VO_natalie.natalie_sys_0005
+023	Protecting the villagers is our top priority! I won't have a single life lost as long as we're here!
+024	Yessir!	VO_knightm.knightm_battle_0002
+025	Very curious. So many bandits all in one place? And I find it very unlikely that the average bandit knows how to fight like that.	VO_ren.ren_chara_1006
+026	...
+027	Why don't you enlighten us? What are you really here for?	VO_ren.ren_sys_0001
+028	No point in enlightening someone who's 'bout to die, kid.	VO_stknightm.stknightm_sys_0010
+029	I didn't want to use this after I went outta my way to find it but...guess I got no choice.	VO_stknightm.stknightm_sys_0031
+030	Huh?	VO_ren.ren_sys_0006
+031	Uwaaaaahhh!	VO_knightm.knightm_sys_0028
+032	What?! A demon?! What's that doing here?!	VO_vetel.vetel_sys_0020
+033	Eeeek!	VO_mob-saga_ymale.mob-saga_ymale_sys_0027
+034	Watch out!	VO_vetel.vetel_sys_0042
+035	Agh...	VO_vetel.vetel_sys_0043
+036	Captain!
+037	This demon's got its eyes set on me! Take this opportunity to get the villagers to safety!
+038	Ngh!	VO_vetel.vetel_battle_0023
+039	Vettel!
+040	...It's fine! You make sure the other knights are safe!
+041	Uh, are you serious?! Do you need your eyes checked? That's one big mother—	VO_ren.ren_sys_0025
+042	If we fight this thing together, there won't be enough people left to protect the villagers from the bandits! So leave this guy to me!	VO_vetel.vetel_sys_0041
+043	Grrroooorrrggghhhh! Grrroooooaaaar!
+044	Nnrk!	VO_vetel.vetel_battle_0022
+045	Please do not panic! The Scarlet Flame Guards will protect you!
+046	Easier said than done—
+047	We're at a severe disadvantage with these numbers. Plus, our opponents seem determined to raze this place to the ground.	VO_ren.ren_sys_0029
+048	To the point that they're willing to summon something like that over there.	VO_ren.ren_sys_0030
+049	Ren and I are too busy with our own problems to take command of the Guard...	VO_vetel.vetel_battle_0019
+050	But if we just ignore this demon, there will be huge casualties...
+051	If only Nina and Chloe were here...
+052	Nrgh! If I can just stop this demon here in its tracks, somehow...!	VO_vetel.vetel_sys_0042
+053	Vettel! Are you okay?! I brought reinforcements!
+054	What?! You big idiot! You're fighting that thing all by yourself?!	VO_natalie.natalie_sys_0027
+055	Captain Vettel!	VO_chloe.chloe_sys_0042
+056	He must've been trying to protect the others by distracting that thing.	VO_victor.victor_battle_0019
+057	It's pretty clear what we've gotta do!	VO_victor.victor_sys_0003
+058	Lady Natalie, please lead the villagers out of here! Commander Chloe, we'll handle the bandits!
+059	As soon as the villagers are safe, we'll return to help Vettel with the big guy!
+060	That way we can protect everyone!	VO_victor.victor_battle_0004
+061	As is our duty...	VO_chloe.chloe_sys_0031
+062	That's right. Vettel would certainly tell us to do the same. A knight's duty is to protect everyone!
+063	Everyone! Let's do as he said!	VO_chloe.chloe_sys_0032
+064	Agh... It's keeping me on the defensive. I'm not going to last at this rate!	VO_vetel.vetel_battle_0026
+065	(I wonder if the villagers managed to get to safety...)
+066	Huzzaaaaahh!	VO_victor.victor_battle_0004
+067	?!
+068	Captain Vettel! We've evacuated all the villagers!
+069	This guy is the last thing on the to-do list! Let's give it a beating it won't soon forget!	VO_victor.victor_sys_0007
+070	Right!	VO_vetel.vetel_sys_0004

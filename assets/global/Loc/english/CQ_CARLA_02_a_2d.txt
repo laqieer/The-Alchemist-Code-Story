@@ -1,0 +1,71 @@
+﻿001	Phew, we made it! I never thought we'd be attacked by so many bandits!	VO_alba.alba_sys_0007
+002	Thanks for everything back there, Miss Carla!	VO_alba.alba_sys_0033
+003	You sure are strong. Those guys didn't stand a chance.	VO_alba.alba_sys_1050
+004	Well, I grew up in these parts, so I'm pretty used to it.	VO_karla.karla_sys_0007
+005	In your case, I wouldn't underestimate the desert if I were you, kid. It's pretty dangerous.	VO_karla.karla_sys_0002
+006	I know you've got to make a living, but at least get yourself a chaperone, kid…	VO_karla.karla_sys_0031
+007	Believe me, I take this place seriously. Us merchants are pretty light on our feet, you know.	VO_alba.alba_chara_2001
+008	Besides, I'm not a kid.
+009	Actually, we might be closer in age than you think. I've got several years under my belt…	VO_alba.alba_sys_0011
+010	You don't say?	VO_karla.karla_sys_0044
+011	Here, take a look at my wares. You think a kid could nab all these?
+012	Lately, I've had a lot of weapons sales.	VO_alba.alba_sys_0031
+013	See, what do you think?
+014	Hm. Not bad! They're all high quality! Not to mention--	VO_karla.karla_sys_0031
+015	Well, I'll be! Don't see goods like that 'round here. How much are you selling that for?
+016	This? I think I could let it go for about this much.	VO_alba.alba_sys_0037
+017	Deal! Never thought I'd get my hands on one of these babies.
+018	Impressive! With wares like these, I'm sure you'll sell out in no time.
+019	*Chuckle* Traveling the world gives me an edge over the competition!	VO_alba.alba_sys_0007
+020	If I catch wind of a popular item, I'll book it to that region and judge for myself if it's worthwhile.
+021	Oh yeah? That's good news for you, but I bet the guilds are none too happy.	VO_karla.karla_sys_0045
+022	I'm sure it's fine. I rarely make it out here to the desert, anyway.	VO_alba.alba_sys_0031
+023	Oh? Is that right?	VO_karla.karla_sys_0025
+024	Besides, the guilds have all the power around here. I don't have much of a leg to stand on.	VO_alba.alba_sys_0006
+025	If you include travel expenses and the like, I can barely turn a profit.	VO_alba.alba_sys_0016
+026	Yikes...
+027	Wait a sec. Then why did you come all the way out here, kid?	VO_karla.karla_sys_0004
+028	Why bother if you can't even make money?
+029	Actually, I came here to deliver a special order to a customer.	VO_alba.alba_sys_0031
+030	During his travels, this customer discovered a delicious tea made in a settlement in Saga.
+031	But the guild doesn't do business with the settlement, so I stocked up and came here to sell it!	VO_alba.alba_sys_0007
+032	You went to all that trouble for one customer? You sure are nice, kid.
+033	Nice? Nah… Sure, I like to put a smile on my customers' face, but that's not all there is to it.	VO_alba.alba_chara_2001
+034	What do you mean?	VO_karla.karla_sys_0039
+035	It might seem like a lot of work to please one customer.
+036	But I think I'll benefit in the long run.
+037	?	VO_karla.karla_sys_0004
+038	Hey, you!	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+039	You can't set up shop here without the guild's permission!	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+040	Huh? You've got the wrong idea. I'm just showing my wares to a friend.	VO_alba.alba_sys_0025
+041	We saw you conducting business with a customer just a minute ago.	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+042	Well, that was…actually…	VO_alba.alba_sys_0031
+043	I suggest you educate yourself and abide by the guild's rules if you want to do business here.	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+044	Tell you what--you sell us your wares wholesale, and we forget this ever happened. Capiche?	VO_mob-saga_ymale.mob-saga_ymale_sys_0004
+045	What's your problem? You think you can talk to him like that because he's an outsider?
+046	Butt out, missy. Besides, I think it's a reasonable offer.	VO_mob-saga_ymale.mob-saga_ymale_sys_0016
+047	Tch. Seems that jerk is intent on buying from you. What'll you do, Aruba?	VO_karla.karla_sys_0030
+048	Um, thanks...but no thanks.	VO_alba.alba_sys_1050
+049	What!?	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+050	How come? Weren't you just saying how hard it was to turn a profit out here?	VO_karla.karla_sys_0025
+051	That's true--at least, for now.	VO_alba.alba_sys_0004
+052	Then why?	VO_karla.karla_sys_0031
+053	A merchant needs to be patient, Miss Carla.
+054	…!
+055	Live in the desert long enough and you become impatient--your heart starts to dry up…
+056	For me, watering this seed is like praying to return some life to the desert.
+057	(This kid has the same determined look in his eyes. Just like Hawk…)	VO_karla.karla_sys_0007
+058	…
+059	Damn… if we go easy on him now, he'll get cocky…	VO_mob-saga_ymale.mob-saga_ymale_sys_0012
+060	Don't think outsiders like you can do business here. We'll drive you out!
+061	Alright, boys. Take care of him!	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+062	Aieeeee!	VO_alba.alba_sys_0027
+063	Wait a damn minute! This isn't right!	VO_karla.karla_sys_0025
+064	Shut up! We pay our dues to the guild in order to do business here.
+065	We're not going to be disrespected by some outsider!	VO_mob-saga_ymale.mob-saga_ymale_sys_0016
+066	I thought it was your tone that I disliked, but it's this whole corrupt system.	VO_karla.karla_sys_0030
+067	I bet you were hoping to make money off of Aruba's wares, weren't you?
+068	Shut your mouth unless you want to wind up like him!
+069	Resorting to violence to settle this, huh? Pathetic.	VO_karla.karla_sys_0017
+070	Aruba is just trying to make an honest living…
+071	It's thanks to people like you the desert is in this sad state!	VO_karla.karla_sys_0013

@@ -1,0 +1,95 @@
+﻿001	...
+002	Where is the intruder?!	VO_knightm.knightm_sys_0017
+003	We've sealed every corridor, but we still haven't found her!	VO_knightm.knightm_sys_0001
+004	Urgh... That woman has some sort of mystical power! We have to think outside the box to catch her!	VO_knightm.knightm_battle_0019
+005	Yes, sir!	VO_knightm.knightm_sys_0032
+006	...
+007	Found her! Over here—grk!	VO_knightm.knightm_sys_0042
+008	Haaa... Haaa...	VO_amane.amane_battle_0019
+009	Stop! We've got you surrounded! Seize her!	VO_knightm.knightm_sys_0010
+010	Ack...!	VO_amane.amane_sys_0042
+011	She jumped out the freaking window?! Quick, we need to send soldiers after her!	VO_knightm.knightm_sys_0025
+012	...
+013	...
+014	Where'd she...? Impossible! There should be no way to get around the blockades!	VO_knightm.knightm_battle_0019
+015	She'll head to the border! Send more soldiers to bulk up the defense on the wall!	VO_knightm.knightm_sys_0031
+016	(Something's not right.)	VO_amane.amane_sys_0031
+017	Haaa... Haaa... There it is!	VO_amane.amane_battle_0019
+018	Oh no!
+019	Insolent girl! How dare you defy the authority of Greed Dike?!	VO_knightm.knightm_sys_0012
+020	Your blasphemy is unforgivable! You have earned the wrath of the great Sun King!	VO_knightm.knightm_sys_0029
+021	Tch!	VO_amane.amane_sys_0016
+022	(What is this sensation? I feel uneasy...)
+023	What a peculiar thing to say. I, Zechs, would be very grateful if you might elaborate on what you mean by that.
+024	You...! Hah!	VO_amane.amane_sys_0032
+025	Urgh! I-it's just a dust cloud, push through! Don't let her escape! Kill her!	VO_knightm.knightm_sys_0042
+026	(This, too...)
+027	To be honest, this is child's play compared to—
+028	Beast Art Evocations! Book One, Ophiuchus!	VO_amane.amane_battle_0007
+029	What?!
+030	She allowed herself to be swallowed whole...?
+031	No! She intends to escape beyond our walls! After her!
+032	(Here, too...)
+033	Haaa... Haaa...	VO_amane.amane_battle_0019
+034	(This is all going better than I expected. Almost too well.)	VO_amane.amane_sys_0031
+035	Thank you, Orochi.	VO_amane.amane_sys_0034
+036	...
+037	Maybe I'm overthinking it... I must...hurry.	VO_amane.amane_sys_0016
+038	I'm impressed. You managed to steal the Mikaboshi from right under the noses of all those Greed Dike soldiers.	VO_edgar.edgar_sys_0010
+039	Huh?!
+040	Who's there?!	VO_amane.amane_sys_0027
+041	Really, how short-sighted can you be? Did you really think it would be that easy to make it out of here alive?	VO_edgar.edgar_sys_0030
+042	Edgar L. Leonhart!	VO_amane.amane_sys_0025
+043	Your end game leaves a lot to be desired. It's like you're not even trying to escape death.	VO_edgar.edgar_sys_0002
+044	Edgar?! Don't tell me you've become loyal to the Sun King!	VO_amane.amane_sys_0026
+045	Loyal to...? Don't be ridiculous! I'm the only one who decides when to pull the trigger!	VO_edgar.edgar_sys_0013
+046	Then...you always planned to—!	VO_amane.amane_sys_0020
+047	You just couldn't lie low, could you?! Go to hell!	VO_edgar.edgar_battle_0010
+048	What?!
+049	Again...? Why must our noble will be defied yet again?	VO_amane.amane_sys_0020
+050	Nevertheless, this sorrow...will not be forgotten. It will be passed down through generations.	VO_amane.amane_sys_0018
+051	Even if this life is to come to an end...the flames of this soul will...never...die.
+052	Nnrk...!
+053	Huh?!
+054	I'd really appreciate it if you could pass that message on to your so-called Sun King.	VO_edgar.edgar_battle_0008
+055	Wh-what the...?!	VO_amane.amane_sys_0025
+056	I told you! Death was chasing you!	VO_edgar.edgar_chara_1004
+057	You didn't even try to run! Unbelievable. Just muttering about "the flames of this soul" instead, like you had all the time in the world!
+058	I-I was just—forget it! It's nothing!	VO_amane.amane_sys_0027
+059	Here they are! Found 'em!	VO_knightm.knightm_battle_0019
+060	Ah, crap. This is why we need to lie low! Why do you just never listen?! Come on, jump on!	VO_edgar.edgar_sys_0012
+061	Huh...?
+062	Do you want to get caught?! Get on!	VO_edgar.edgar_sys_0002
+063	Urk...!	VO_amane.amane_sys_0016
+064	Nnnrgh... G-get...them!
+065	Ha! You wish! Just try and catch us with the wind on our side! Let's go!	VO_edgar.edgar_sys_0010
+066	R-right...
+067	I'm not seeing any of our pursuers... Looks like we're in the clear for now.	VO_edgar.edgar_sys_0031
+068	...
+069	Hey, so... I wasn't expecting anything over the top or whatnot, but...I mean, I did save your life. A "Thank you!" might be nice.	VO_edgar.edgar_sys_0001
+070	How strange.	VO_amane.amane_sys_0031
+071	Excuse me?	VO_edgar.edgar_sys_0013
+072	This is all going better than I expected. Almost too well.	VO_amane.amane_sys_0030
+073	Wh-what is this?!	VO_amane.amane_sys_0025
+074	Huh?	VO_edgar.edgar_sys_0013
+075	Oh...!
+076	It is said that the Sacred Stones of this world will call out to one another when the balance of power has been disrupted.
+077	The disruption of that power balance will cause the founders of Alchemy to descend upon this world...
+078	N-no...	VO_amane.amane_battle_0025
+079	What's happening? You okay?!	VO_edgar.edgar_sys_0025
+080	P-please... Keep...gura...from...the...kaboshi...
+081	No... No!!!
+082	Noooooooooooooooooo!!!	VO_amane.amane_sys_0019
+083	What?! What should I do?!	VO_edgar.edgar_sys_0049
+084	G-get...	VO_amane.amane_sys_0042
+085	What?	VO_edgar.edgar_sys_0025
+086	Get out of my sight! Get away!	VO_amane.amane_sys_0018
+087	I can't do that. I'm not the kind of guy that can just ignore a woman's tears. That's part of my code.	VO_edgar.edgar_chara_1004
+088	I don't need your pity! These aren't my tears!	VO_amane.amane_battle_0022
+089	What? What are you even saying? Those right there are definitely tears.	VO_edgar.edgar_sys_0013
+090	You're wrong! These are just—!	VO_amane.amane_sys_0016
+091	Look, I didn't just save you out of the goodness of my heart, okay?	VO_edgar.edgar_sys_0010
+092	I accidentally made a big show out of it, but I'm also thinking about whether or not you're planning to use the Mikaboshi for ill-gain.
+093	Are you saying you refuse to do as I request?	VO_amane.amane_battle_0019
+094	Then I have no choice but to remove you by force!	VO_amane.amane_battle_0007
+095	Are you serious? Is this really necessary?!	VO_edgar.edgar_sys_0016

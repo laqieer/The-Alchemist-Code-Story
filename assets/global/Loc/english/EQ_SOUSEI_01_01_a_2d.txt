@@ -1,0 +1,460 @@
+﻿001	Emmel!
+002	Emmel...! Emmel!
+003	How...? Why?! How could you...? Emmel! Agh! Aaaah! Nng... Why...?!	VO_nimuru.nimuru_sys_0019
+004	How can this...? This...?!	VO_nimuru.nimuru_sys_0016
+005	This is the Truth?!
+006	This is the Truth of this world?!
+007	Answer me, Emmel! Is this what you wish to protect?!	VO_nimuru.nimuru_sys_0018
+008	...
+009	Emmel!
+010	I...can't see.	VO_emmer.emmer_sys_0018
+011	I can't see anything.
+012	I can't hear.
+013	Nimul? Where are you? Answer me, Nimul!	VO_emmer.emmer_sys_0042
+014	Julia... Julia! Waginau!
+015	Please! Somebody, answer me!	VO_emmer.emmer_battle_0019
+016	I'm...so scared...Nimul.	VO_emmer.emmer_sys_0018
+017	...
+018	Huh?!	VO_emmer.emmer_sys_0025
+019	Is... Is someone there?	VO_emmer.emmer_sys_0001
+020	...
+021	Nimul...?	VO_emmer.emmer_sys_0042
+022	...
+023	Wh-who...?	VO_emmer.emmer_sys_0025
+024	Humans... Those vile beings who infest this world.	VO_uroboros-c.uroboros-c_sys_0031
+025	They dare defy the Truth.
+026	What?!
+027	Who are you?!	VO_emmer.emmer_sys_0027
+028	I am the magistrate over this world.
+029	The...magistrate?	VO_emmer.emmer_sys_0025
+030	I am your Truth. You are my corruption.	VO_uroboros-c.uroboros-c_sys_0037
+031	Behold, human. You, who carry stagnant, corrupted, faltering sin.	VO_uroboros-c.uroboros-c_sys_0001
+032	Will you resist as you have, or will you accept?
+033	Will you run, or will you fight? Rejoice! Lament!
+034	If you dare oppose my Truth, if you dare oppose the world, then you shall bear judgment.	VO_uroboros-c.uroboros-c_sys_0010
+035	Struggle, humans! I dare you to oppose!	VO_uroboros-c.uroboros-c_battle_1040
+036	Fight this irreproachable Truth!
+037	Ah!!!
+038	...
+039	A...dream?	VO_emmer.emmer_sys_0025
+040	Good morning, Lady Emmel.
+041	Good...?
+042	Lady Emmel?	VO_julia.julia_sys_0025
+043	Oh... Julia.	VO_emmer.emmer_sys_0018
+044	Is something the matter?	VO_julia.julia_sys_0026
+045	I...had a dream.
+046	A dream?	VO_julia.julia_sys_0025
+047	Yes, a horrible dream.
+048	What happened?	VO_julia.julia_sys_0006
+049	I don't remember much, but...	VO_emmer.emmer_sys_0030
+050	Oh, right! I met someone!
+051	Who?	VO_julia.julia_sys_0025
+052	Um...	VO_emmer.emmer_sys_0031
+053	No... I just can't remember. Who could it have been?
+054	Well.
+055	I'm sorry, I'm being nonsensical.	VO_emmer.emmer_sys_0036
+056	You seem tired. Perhaps you should take a break from today's prayers?	VO_julia.julia_sys_0031
+057	I'm afraid I can't do that.	VO_emmer.emmer_sys_0014
+058	I am the Vessel of Purification, after all.
+059	Without my prayers, this land... The people will be afflicted by the corruption of sin.	VO_emmer.emmer_sys_0042
+060	But you must rest at some point.	VO_julia.julia_battle_0019
+061	If something should happen to you—
+062	I'm fine, Julia. Don't worry.	VO_emmer.emmer_sys_0007
+063	As you wish.
+064	I'll be changing now.	VO_emmer.emmer_sys_0030
+065	I have your clothes here, ma'am.
+066	About that dream...	VO_julia.julia_sys_0031
+067	Yes?	VO_emmer.emmer_sys_0006
+068	I believe you ought to be wary.
+069	It was just a dream.	VO_emmer.emmer_sys_0010
+070	As you've said earlier, you are the Vessel of Purification.	VO_julia.julia_sys_0039
+071	I believe that is reason enough to seriously consider what you see in your dreams.
+072	Heh. You worry too much, Julia.	VO_emmer.emmer_sys_0007
+073	...
+074	Thank you for being concerned, though.	VO_emmer.emmer_sys_0034
+075	I suppose... I may have been working a little too hard, recently.	VO_emmer.emmer_sys_0030
+076	I want to go outside.
+077	I will join you.	VO_julia.julia_sys_0006
+078	You don't have to. I'll just be out for a moment.	VO_emmer.emmer_sys_0007
+079	...
+080	(A peaceful day, as usual.)	VO_emmer.emmer_sys_0030
+081	(What a relief.)
+082	(Sephiron, please watch over us.)
+083	(Sephiron, the Guardian Dragon, and the Cosmic Egg...)	VO_emmer.emmer_chara_1010
+084	(As long as they watch over us, this world should be safe.)
+085	The Cosmic Egg...
+086	(I wonder...)
+087	What could be beyond it?
+088	Beyond the Cosmic Egg...?	VO_emmer.emmer_sys_0025
+089	What are you talking about, Nimul?	VO_emmer.emmer_sys_0007
+090	Have you never thought about it?	VO_nimuru.nimuru_sys_0002
+091	Emmel?	VO_nimuru.nimuru_chara_1007
+092	I think you're the only one who would think about such a thing.	VO_emmer.emmer_sys_0012
+093	You think so?	VO_nimuru.nimuru_sys_0006
+094	I think so.	VO_emmer.emmer_sys_0004
+095	Hmph... Sometimes, I daydream, you know?	VO_nimuru.nimuru_sys_0030
+096	I dream about leaving this village, and seeing what lies beyond the Cosmic Egg.
+097	You've always been such a romantic.	VO_emmer.emmer_sys_0007
+098	Yeah... I'm always thinking about things like this.	VO_nimuru.nimuru_sys_0005
+099	Really?
+100	What is the sin that we are burdened to shoulder? What if there were no sin in this world?
+101	...
+102	If that were to happen, you could—	VO_nimuru.nimuru_sys_0002
+103	No sin? That's... That's imposs... Nng!
+104	No! I...can't...collapse!	VO_emmer.emmer_battle_0019
+105	Haaa... Haaa... I need to go pray.
+106	As long as I live, I must protect...this village from the sin... From the corruption...!	VO_emmer.emmer_sys_0042
+107	...
+108	(The corruption of sin is eroding the earth.)
+109	(The soil, the shrubs, and the trees are all withering.)
+110	(Sin... Corruption... The things that ruin the land and threaten the people.)
+111	(The causes of Emmel's suffering.)
+112	(Is this our punishment? But why?)
+113	(What sin could we humans have been born with? What could we possibly be guilty of?)
+114	(If we are so sinful, then who is punishing us?)
+115	Something is just not right...	VO_nimuru.nimuru_sys_0018
+116	(Who...and for what reason...trapped us within the Cosmic Egg?)
+117	(Who did all this...)
+118	(Who trapped Emmel in this world?)
+119	(Who...?)
+120	It must be destroyed.
+121	I have to destroy this messed up world that Emmel is trapped in.
+122	I will win it for the both of us: a new world.
+123	To do that...
+124	I must remake this world.
+125	In times of old, as ephemeral as it was, life undeniably prospered.
+126	Those fleeting lives were at the mercy of every phenomenon the heavens invoked.
+127	In existence for longer than any could remember, the Cosmic Egg was said to have been made to protect such fragile lives.
+128	However, the shell also inflicted stagnation upon the circulation of the world.
+129	Life itself grew static, numb, and corrupted. Thus, the world saw the rise and rampancy of the Cursed Beast.
+130	The accumulated corruption became a wall, further hindering the circulation of not only the world, but of the people.
+131	And yet, without that shell, the Cursed Beast, or the wall, people could not survive in this world.
+132	It is a sin to be alive. Sin will forever be a close neighbor of life.
+133	That is the truth today...
+134	...and will forever be so.
+135	Growl! Grrrrrrrr!
+136	That way! Over there!	VO_stknightm.stknightm_sys_0001
+137	Be careful! Don't get hit by the corruption!	VO_thiefm.thiefm_sys_0018
+138	Where is it?!	VO_knightm.knightm_battle_0019
+139	Grrrrrrrrrrrrrrr...!
+140	Toula! Check your right! Watch out!	VO_waginao-c.waginao-c_sys_0001
+141	Nn?!	VO_knightm.knightm_sys_0042
+142	Grraur!
+143	Get lost, corrupted beast!	VO_knightm.knightm_battle_0006
+144	Toula!
+145	Don't worry! I won't let them bring ruin to our world!
+146	Take this! Lighting of the Victorious Kingdom!	VO_knightm.knightm_battle_0003
+147	Gyaahrr!
+148	Commander! I did it! I got it with my Spirit Bonding!	VO_knightm.knightm_sys_0009
+149	Toula! Get back! The corruption is not yet subdued!	VO_waginao-c.waginao-c_battle_0019
+150	Wha—?
+151	Wah! G-get off of me! N-no! Help me!	VO_knightm.knightm_battle_0024
+152	Toula! Toula!!!	VO_thiefm.thiefm_sys_0028
+153	Aaaah! Nnngh...! Haaaaaargh!!!	VO_knightm.knightm_battle_0026
+154	I...was too late.	VO_waginao-c.waginao-c_sys_0027
+155	Grrr... Argh...
+156	Tch...	VO_waginao-c.waginao-c_battle_0019
+157	Commander! T-Toula is...!	VO_thiefm.thiefm_sys_0018
+158	I'll save you, Toula!	VO_stknightm.stknightm_sys_0018
+159	Stop! You can't help him now! You'll just end up like him!	VO_waginao-c.waginao-c_sys_0015
+160	But...!
+161	Toula... No...	VO_stknightm.stknightm_sys_0019
+162	Grrraaaaahh!
+163	Toula...	VO_waginao-c.waginao-c_battle_0019
+164	Those who are touched by the corruption can never again be purified.
+165	Nimul.
+166	Kill him, Waginau.	VO_nimuru.nimuru_sys_0001
+167	I...!
+168	N-no!	VO_thiefm.thiefm_sys_0027
+169	T-Toula can still be...	VO_stknightm.stknightm_sys_0027
+170	He is no longer the friend you remember.	VO_nimuru.nimuru_sys_0015
+171	You know what you must do for him, don't you?
+172	I know. It is the way of our people.	VO_waginao-c.waginao-c_sys_0004
+173	Grrrrraaaaaaaahh!
+174	Perish! "The fair will reach the foundation...to conquer it!"	VO_waginao-c.waginao-c_battle_0004
+175	Grrrrr...!
+176	Forgive me, Toula.	VO_waginao-c.waginao-c_sys_0022
+177	Tree of life, Sephiron, I pray you, purify this soul.
+178	I must...
+179	Nimul? Did you say something?	VO_waginao-c.waginao-c_sys_0006
+180	Nothing. Let's go.
+181	R-right.	VO_waginao-c.waginao-c_sys_0004
+182	(I must destroy this world.)	VO_nimuru.nimuru_sys_0018
+183	(This world has gone mad.)
+184	(I will destroy the Truth of this world.)
+185	May Sephiron's blessing of purification be upon the soul of Toula, the brave Sephira warrior.
+186	...
+187	(Perhaps it's because I haven't seen her in a while, but she seems more gaunt than before.)
+188	Lady Emmel, our Vessel of Purification, I thank you for the cleansing of our warrior's soul.
+189	Though Toula had only recently joined the ranks of the guard, he valiantly defeated a corrupted beast.
+190	I see... Then it was a young citizen who became corrupted... How sad.	VO_emmer.emmer_sys_0022
+191	Lady Emmel, please do not be disheartened.	VO_julia.julia_sys_0042
+192	Thank you, Julia.	VO_emmer.emmer_sys_0034
+193	She's right, Emmel. It's not your fault.	VO_nimuru.nimuru_sys_0004
+194	I know, Nimul. This is just how this world is. It's the law of the land.	VO_emmer.emmer_sys_0004
+195	We do not know when the misfortune of corruption will befall us.
+196	But... Had I more power, I would be able to seal away and purify the corruption that bleeds out of the Cursed Beast that lies deep underground.	VO_emmer.emmer_sys_0042
+197	Emmel, you're doing just fine.	VO_nimuru.nimuru_chara_1007
+198	You have nothing to worry about. You have nothing to regret.	VO_nimuru.nimuru_sys_0018
+199	Nimul... Hrk!	VO_emmer.emmer_battle_0019
+200	Emmel?!	VO_nimuru.nimuru_sys_0025
+201	I'm...fine, Nimul.	VO_emmer.emmer_chara_1010
+202	Recently, she seems to be more exhausted than ever.	VO_julia.julia_sys_0042
+203	It has been three years since the last Godwolf Ceremony. Her connection with Sephiron may be fading.
+204	That could explain why we're seeing a rise in the number of corrupted beasts.	VO_waginao-c.waginao-c_sys_0022
+205	I won't have to hold out for much longer, though.	VO_emmer.emmer_sys_0042
+206	Yes, it's almost time for the Godwolf Ceremony.	VO_julia.julia_sys_0006
+207	Once you rekindle your bond with Sephiron, you should be fine.
+208	Emmel, please don't push yourself.	VO_nimuru.nimuru_chara_1007
+209	Thank you, Nimul.	VO_emmer.emmer_sys_0034
+210	My lady, further exertion will affect your health. Please, let us retire so that you may rest.
+211	I suppose you're right, Lila. Please send word to Toula's family.	VO_emmer.emmer_sys_0004
+212	Understood.
+213	Well, then...	VO_emmer.emmer_sys_0041
+214	Lord Nimul, our lady, the Vessel of Purification, needs her rest. Please take your leave.
+215	...
+216	Is there anything else?
+217	No. Let's go, Waginau.
+218	As you wish.	VO_waginao-c.waginao-c_sys_0004
+219	Oh, Nimul!
+220	What is it?	VO_nimuru.nimuru_sys_0006
+221	I will return before the Godwolf Ceremony.	VO_emmer.emmer_sys_0001
+222	Yeah, I can't wait to spend some quality time with my sister.	VO_nimuru.nimuru_sys_0004
+223	That's not what I mean. I'm talking about being here for your inauguration as chief.	VO_emmer.emmer_sys_0012
+224	Hah... I know, I know.	VO_nimuru.nimuru_sys_0007
+225	But I am looking forward to spending some time at home.	VO_emmer.emmer_sys_0007
+226	Yeah...	VO_nimuru.nimuru_sys_0004
+227	Once my bond with Sephiron is rekindled, this village will be peaceful again.	VO_emmer.emmer_chara_1010
+228	Please protect the people until then.
+229	Please be safe, Nimul... Waginau.
+230	We will be.
+231	Yeah, yeah.	VO_nimuru.nimuru_sys_0005
+232	Julia, will you escort my brother and Waginau out?	VO_emmer.emmer_sys_0002
+233	It would be my pleasure.	VO_julia.julia_sys_0004
+234	Tree of Life, Sephiron... Guardian Dragon Nidhogg... Please watch over our warriors and the people.	VO_emmer.emmer_battle_0011
+235	...
+236	Three years go by so fast.	VO_julia.julia_sys_0030
+237	Indeed. The corruption has become much more prevalent over time.	VO_waginao-c.waginao-c_sys_0004
+238	The area near Sephiron is untouched, but the further you get from her, less and less green can be seen.
+239	I see.	VO_julia.julia_sys_0042
+240	But it is as Lady Emmel said... We only need to endure a little longer until the Godwolf Ceremony.	VO_julia.julia_sys_0031
+241	We must ensure that the coming Ceremony for the Godwolf succeeds without a hitch.	VO_waginao-c.waginao-c_sys_0004
+242	Not to mention, we will soon have a new chief.
+243	True.	VO_julia.julia_sys_0025
+244	...
+245	The Vessel of Purification and the chief of the Sephira...	VO_waginao-c.waginao-c_sys_0010
+246	Emmel and Nimul may yet subdue the corruption if they combine their forces.
+247	Yes, I'm sure the village will see peaceful days again.	VO_julia.julia_sys_0004
+248	That should put my lady's mind at ease.
+249	Julia...	VO_nimuru.nimuru_sys_0001
+250	Y-yes?	VO_julia.julia_sys_0025
+251	Please take care of Emmel. She tends to overdo things.	VO_nimuru.nimuru_sys_0041
+252	Of course! I will protect her with my life!	VO_julia.julia_sys_0004
+253	I'm counting on you.	VO_nimuru.nimuru_sys_0004
+254	Lord Nimul...! Uhm...
+255	What is it?	VO_nimuru.nimuru_sys_0006
+256	Please, take care of yourself!
+257	...
+258	Y-you're destined to become the chief soon...so, uh...
+259	I understand.	VO_nimuru.nimuru_sys_0005
+260	Now, please excuse me.
+261	Nimul? Where are you going?	VO_waginao-c.waginao-c_sys_0001
+262	On patrol.	VO_nimuru.nimuru_sys_0004
+263	Then allow me to—	VO_waginao-c.waginao-c_sys_0006
+264	No. I will go alone.	VO_nimuru.nimuru_sys_0030
+265	What? Hey... Nimul!	VO_waginao-c.waginao-c_battle_1018
+266	Well, this is just perfect.	VO_waginao-c.waginao-c_sys_0030
+267	What is?	VO_julia.julia_sys_0025
+268	I had thought he would start acting a little more responsibly now that he is to become the chief.
+269	But he just goes off like that, and...
+270	Isn't patrolling through the village one of the chief's primary duties? It seems like he's trying to fulfill his responsibilities.	VO_julia.julia_sys_0031
+271	Patrolling is just a front.	VO_waginao-c.waginao-c_sys_0039
+272	Then what is he actually doing?	VO_julia.julia_sys_0026
+273	He's meeting someone in secret.	VO_waginao-c.waginao-c_sys_0004
+274	In s-secret...?! Who?!	VO_julia.julia_sys_0020
+275	Nimul has a...a paramour? Is she...? Are they...?	VO_julia.julia_sys_0018
+276	Calm down, Julia. He's not meeting a woman.	VO_waginao-c.waginao-c_sys_0001
+277	O-oh...	VO_julia.julia_sys_0025
+278	He's been having secret meetings with...the wanderer.	VO_waginao-c.waginao-c_sys_0004
+279	The...wanderer?
+280	...
+281	Fresh mountain cherries! Lovely and sweet!
+282	How about some girak mushrooms? This year's harvest tastes richer than a king's ransom!
+283	This meat wasn't hunted in a corrupted region, was it?	VO_knightf.knightf_sys_0001
+284	Of course not! I'd never sell something like that!	VO_thiefm.thiefm_sys_0018
+285	(At first glance, it appears that the people are living peaceful lives here. However...)	VO_nimuru.nimuru_sys_0005
+286	Hey, did you hear? The corruption's gotten to the fields to the west...	VO_stknightm.stknightm_sys_0001
+287	Yup. There won't be any more crops coming from out that way.	VO_knightm.knightm_sys_0030
+288	Have you heard? Apparently, some corrupted fish have been spotted out in the lake.	VO_stknightf.stknightf_battle_0019
+289	You serious? Guess we can't fish there anymore.	VO_thiefm.thiefm_sys_0025
+290	(In reality, all of them are living in the shadow of the corruption, which has slowly but surely come to encroach upon their daily lives.)
+291	(The corruption of the Cursed Beast threatens us all.)	VO_nimuru.nimuru_sys_0018
+292	(Not only that...)
+293	(But it is eating away at Emmel, and eventually...it will kill her.)
+294	Hm...?	VO_nimuru.nimuru_sys_0006
+295	O Great Tree, Life-Giver, Sephiron... Pray, take this young man of ours... Deliver his soul from the foul abyss of sin into which it has fallen, and restore it to eternal light.
+296	Another purification ritual...	VO_thiefm.thiefm_sys_0030
+297	Yeah, that kid... Toula, I think his name was... Sounds like he'd only just become a soldier.	VO_knightm.knightm_battle_0019
+298	But that's just the way things are, eh? It's the law of the land, and all that.	VO_stknightm.stknightm_sys_0031
+299	...
+300	Pardon me, Chief. I am... I...was...Toula's mother.
+301	I...see.	VO_nimuru.nimuru_sys_0022
+302	Was Toula... Was my son a brave warrior?
+303	Yes... Yes, he was, ma'am. He took down a corrupted beast. He was very brave.	VO_nimuru.nimuru_sys_0004
+304	Oh, Toula... My poor Toula... My little boy.
+305	...
+306	I'm sorry. I know... I know it can't be helped. It's the way of our people. Those who fall to sin must be...
+307	I...
+308	Chief...
+309	I'm not your chief, ma'am. Not yet.	VO_nimuru.nimuru_sys_0030
+310	But you will be soon, won't you? It's only a matter of time.
+311	Please... Lead us. Protect Sephiron and the Vessel of Purification from the corruption of sin.
+312	Please... I beg of you to do everything you can to spare us from more grief. Please... Please...
+313	I will do what I can.	VO_nimuru.nimuru_sys_0004
+314	(I would lead them even if nobody asked me to. That is, after all, why I wanted this position... To change the world.)
+315	(To shape it into the haven that it was always meant to be! A place free of sin!)
+316	(And above all... Emmel...)	VO_nimuru.nimuru_chara_1007
+317	(I will free you! I won't let you suffer any longer!)
+318	My brother's gone off somewhere again.	VO_emmer.emmer_sys_0022
+319	Waginau was all in a huff about it.	VO_julia.julia_sys_0004
+320	My brother really makes things difficult for him...	VO_emmer.emmer_sys_0029
+321	I'll have to tell him off when he comes back.
+322	Still... I must admit that I am a little relieved.	VO_julia.julia_sys_0007
+323	Hm?	VO_emmer.emmer_sys_0006
+324	Nimul hasn't changed a bit, has he?
+325	Julia...
+326	If he doesn't change, we're all in trouble!	VO_emmer.emmer_sys_0030
+327	He's going to be the chief!
+328	O-of course... My apologies.	VO_julia.julia_sys_0035
+329	You know, I think he has changed a little, though.	VO_emmer.emmer_sys_0007
+330	Y-you do?	VO_julia.julia_sys_0025
+331	Yes, I mean... It was a tremendous surprise to me when he suddenly started talking about becoming the village chief.
+332	Indeed...
+333	My brother has always been a strange one, ever since we were kids.	VO_emmer.emmer_sys_0007
+334	Taking an interest in what lies outside of the Cosmic Egg that enshrouds our world...
+335	Asking questions about why the Cursed Beast exists, and why humankind has to shoulder its sins...
+336	When I was chosen as the Vessel of Purification, he wondered why it had to be me.
+337	He has always asked questions and held doubts that others have not.
+338	Lord Nimul is a strange man, indeed.
+339	But you love him even so, do you not?	VO_emmer.emmer_sys_0006
+340	Wh-what?! I...! L-Lady Emmel, I'm not quite sure what you mean by that.	VO_julia.julia_sys_0026
+341	Hmhm... Unless I'm very much mistaken, you've loved my brother since childhood, have you not?	VO_emmer.emmer_sys_1009
+342	W-well, I...	VO_julia.julia_sys_0042
+343	My brother needs to change, for your sake, too.	VO_emmer.emmer_sys_0010
+344	For...my sake?	VO_julia.julia_sys_0025
+345	Of course. He needs to become a capable chief...and also a capable husband.	VO_emmer.emmer_sys_0004
+346	H-husband?! What are you talking about, Lady Emmel?	VO_julia.julia_sys_0026
+347	I... I am the Vessel's Shield. It is my duty to protect the Vessel of Purification—to protect you, my lady.
+348	I cannot afford to go off and... And... And get married!	VO_julia.julia_battle_0019
+349	Julia...
+350	Y-yes?
+351	You have always served me well. I only want you to be happy.	VO_emmer.emmer_sys_0002
+352	Lady Emmel...
+353	It's only natural that I should wish for my friend's happiness, isn't it?
+354	I...
+355	So, please... Don't worry about me. I have my ladies-in-waiting to tend to me.	VO_emmer.emmer_sys_0007
+356	Please, Julia... Consider your own happiness. For me.
+357	Lady Emmel... But his heart lies with...	VO_julia.julia_battle_0019
+358	Hm? What did you say?	VO_emmer.emmer_sys_0025
+359	Never mind. It was nothing of import.	VO_julia.julia_sys_0042
+360	Regardless of what you say, I will serve you as the Vessel's Shield.
+361	I will fulfill my duty to you, and that will be my happiness.
+362	Oh, Julia... You're so stubborn!	VO_emmer.emmer_sys_0012
+363	(Apologies, Lady Emmel. It is truly for the sake of my own happiness that I remain by your side.)
+364	(After all... Nothing is more important to Lord Nimul than your wellbeing.)
+365	...
+366	How's the smithing going?	VO_nimuru.nimuru_sys_0001
+367	...
+368	I'm coming in, Yna.	VO_nimuru.nimuru_sys_0005
+369	I don't like this world.	VO_kuienai.kuienai_sys_0030
+370	The fire, the stone, even my own hammer...
+371	Everything here refuses to bend to my will.
+372	And yet...you are as free to roam this land as a fickle breeze...	VO_kuienai.kuienai_sys_0031
+373	Freer even than me, and I am called wanderer.
+374	Heh.	VO_nimuru.nimuru_sys_0010
+375	Does the village chief really have nothing better to do?	VO_kuienai.kuienai_sys_0001
+376	I'm not the chief yet. There's nothing stopping me from coming here.	VO_nimuru.nimuru_sys_0006
+377	Well? What do you want this time?	VO_kuienai.kuienai_sys_0002
+378	Oh, you know... The wind blew me here. It's fickle like that.	VO_nimuru.nimuru_sys_0007
+379	The whimsy of the wind affects the flames of my forge and changes the moisture of the stones. It can even impact the blows of my hammer.	VO_kuienai.kuienai_sys_0030
+380	It is toying with me.
+381	I don't want to hear your complaints about the weather. I haven't seen you in a while, thanks to Waginau.	VO_nimuru.nimuru_sys_0010
+382	Now, I'm finally here, and I want to hear more about life outside the village.
+383	Of course you do. That's all you ever ask me about.	VO_kuienai.kuienai_sys_0002
+384	Why are you so interested in a place that you can't even visit?
+385	Sorry to answer your question with a question, but... Aren't you at all curious about things you don't know?	VO_nimuru.nimuru_sys_0002
+386	I seek only to improve my arts and talent as a blacksmith.	VO_kuienai.kuienai_sys_0039
+387	That is all this world means to me.
+388	Hmm... Don't you think that by limiting yourself to this narrow corner of the world, your talents will eventually stagnate?	VO_nimuru.nimuru_sys_0005
+389	Smithing allows me to see much of the world. Through those who wield the arms and armor I forge... Through the earth that forms the ore I use...	VO_kuienai.kuienai_sys_0004
+390	My world is expansive and has depths you cannot imagine. As I improve my talents, it grows and grows.
+391	Experiencing the world through smithing, huh?	VO_nimuru.nimuru_sys_0010
+392	I guess that means you don't care about anything else, right? You're a strange one, I'll give you that.
+393	It takes one to know one.	VO_kuienai.kuienai_sys_0039
+394	Still, it sounds like we have something in common. We share an inquisitive mind.	VO_nimuru.nimuru_sys_0031
+395	Tch.
+396	I want to know what lies outside of this village. I want to know about the other side of the shell that traps us here; about the sky that I can see, but never touch...	VO_nimuru.nimuru_sys_0002
+397	I want to know everything.
+398	And what will you do with that knowledge?	VO_kuienai.kuienai_sys_0002
+399	I will remake the world.	VO_nimuru.nimuru_sys_0004
+400	What?	VO_kuienai.kuienai_sys_0025
+401	Yna...	VO_nimuru.nimuru_sys_0002
+402	Why are we born with the weight of sin upon our shoulders? Why must we suffer the corruption of sin?
+403	I know of the seven sins committed by our ancestors, but we are not them. Why must we pay for their mistakes?
+404	Why are their ancient sins forever ours to bear?
+405	It is the way of this world.	VO_kuienai.kuienai_sys_0006
+406	I refuse to be chained by the sins of those long dead. I will carve out a new path in this world with my bare hands.	VO_nimuru.nimuru_sys_0030
+407	For is that not the way this world should be?
+408	Nimul...
+409	So long as we are bound by this false world order, our suffering will continue for all eternity.	VO_nimuru.nimuru_sys_0018
+410	If we are ever to have any respite, we must shape the natural order of this world with our own hands.
+411	What we need is a revolution. Do you not agree?	VO_nimuru.nimuru_sys_0002
+412	You would go against the way of this world—against sin itself?!	VO_kuienai.kuienai_sys_0027
+413	Yes. I will release the people of this world from the burden of sin.	VO_nimuru.nimuru_sys_0004
+414	Release them...from sin?	VO_kuienai.kuienai_sys_0021
+415	It must be done. If it is not...it will never end.	VO_nimuru.nimuru_sys_0004
+416	The Vessel of Purification will never be allowed to rest.
+417	But... How will you do it?	VO_kuienai.kuienai_sys_0030
+418	The sins of humankind... The Cursed Beasts... They assail us with corruption from their realm beneath the earth.
+419	There is nothing that can be done.
+420	There is a way.	VO_nimuru.nimuru_sys_0005
+421	And I suppose you know of it?	VO_kuienai.kuienai_sys_0025
+422	That is what I am currently researching. Once my efforts bear fruit, they will, without a doubt, make the revolution I envision possible. I will remake the world.	VO_nimuru.nimuru_sys_0004
+423	If you can do it, so can I. I will make the impossible happen, just as you did when you came here, Yna.
+424	...
+425	Tell me. How did you get through the Dark Barrier?	VO_nimuru.nimuru_sys_0002
+426	...
+427	Outside the bounds of the village of the Sephira, corruption wells up from beneath the earth.
+428	All who touch it are corrupted, becoming the Fallen.
+429	No one should be able to traverse that barrier, but somehow, you did, Yna... How?
+430	I...don't know.	VO_kuienai.kuienai_sys_0018
+431	What?	VO_nimuru.nimuru_sys_0006
+432	I remember touching the corrupted surface of the Dark Barrier, and yet...	VO_kuienai.kuienai_sys_0030
+433	I did not fall to sin, but awoke to find myself among the roots of the great tree herself.
+434	Was what I touched truly corruption? Or was it something else?
+435	I have no answers.
+436	I... I see.	VO_nimuru.nimuru_sys_0022
+437	(It might not have been corruption...?)
+438	(What else could it have been? Unless... Is there something we've misunderstood?)
+439	Hey... Nimul!	VO_kuienai.kuienai_sys_0025
+440	What is it? Did you remember something?	VO_nimuru.nimuru_sys_0006
+441	No... Look there.	VO_kuienai.kuienai_sys_0039
+442	There's something...outside.
+443	Oh, Nimul... Exactly how long are you planning on hiding out with that vagabond wanderer?	VO_waginao-c.waginao-c_sys_0030
+444	Was all that talk of becoming the village chief just that? Talk?
+445	Wh—?!	VO_waginao-c.waginao-c_sys_0027
+446	Corruption?!	VO_waginao-c.waginao-c_battle_0019
+447	Grrrrrrrrrrrrrrr!
+448	Ngh!	VO_waginao-c.waginao-c_sys_0027
+449	Grrrooooooo!
+450	Urgh!	VO_waginao-c.waginao-c_sys_0042
+451	Waginau!
+452	Nimul! Wanderer! Stay back, you fools!	VO_waginao-c.waginao-c_sys_0027
+453	The corruption will take you!
+454	I'm not going anywhere! I've got to get you out of here!	VO_nimuru.nimuru_sys_0018
+455	There are too many of them, Nimul. We're outnumbered.	VO_kuienai.kuienai_sys_0027
+456	Still, he needs our help... And I have a few blades I've been needing to test out!
+457	Heh... Glad to have you by my side.	VO_nimuru.nimuru_sys_0010
+458	But these numbers won't be a problem for me.
+459	Have you finally lost your mind?	VO_kuienai.kuienai_sys_0025
+460	Just watch and learn. I told you there's a way, didn't I?	VO_nimuru.nimuru_sys_0004

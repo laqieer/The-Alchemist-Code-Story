@@ -1,0 +1,71 @@
+﻿001	Huzzah!	VO_kamui-b.kamui-b_sys_0011
+002	...
+003	I should have known fighting a professional gladiator in her own domain would be a futile attempt.	VO_kamui-b.kamui-b_battle_0019
+004	So you say, but your sword work is very refined. I can tell you have honed your skills with much practice.	VO_theona.theona_sys_0010
+005	Urk!	VO_kamui-b.kamui-b_battle_0022
+006	You aren't taking this fight seriously, are you? It seems like it doesn't matter to you whether you win or lose.	VO_theona.theona_sys_0022
+007	Well...
+008	I do not know what your aim is, nor do I care to ask, but...	VO_theona.theona_sys_0010
+009	I do have my pride as the apex combatant of this Arena.
+010	I will force you to fight with all that you have!	VO_theona.theona_battle_0004
+011	Wha—?!	VO_kamui-b.kamui-b_battle_0019
+012	Urgh!	VO_kamui-b.kamui-b_sys_0042
+013	I take it that the sword is not your preferred weapon. That much is obvious.	VO_theona.theona_sys_0045
+014	What are you most skilled with? The spear? A bow? An axe or a scythe? Firearms, perhaps? What about the magical arts?
+015	There is no need to hold back. Come at me with everything you have!
+016	I will prove this Arena Champion can handle whatever you can throw!	VO_theona.theona_sys_0032
+017	Ngh!	VO_kamui-b.kamui-b_sys_0042
+018	(Her strikes are so precise! She's even throwing in feints!)
+019	I'm impressed by how well you can keep up with me! Then, why don't you try this on for size?	VO_theona.theona_sys_0010
+020	Uh-oh!	VO_kamui-b.kamui-b_sys_0020
+021	I've got you now!	VO_theona.theona_sys_0007
+022	(I won't be able to parry in time! She might actually kill me!)
+023	What was—?!	VO_theona.theona_chara_1010
+024	No, what have I done?!	VO_kamui-b.kamui-b_sys_0027
+025	You just—?!	VO_theona.theona_sys_0010
+026	I yield.	VO_kamui-b.kamui-b_sys_0030
+027	Your power in that instant, was that—?!	VO_theona.theona_sys_0002
+028	I am uncertain what you are referring to.	VO_kamui-b.kamui-b_sys_0037
+029	Why did you let me win?	VO_theona.theona_sys_0022
+030	That was not my intention. Well, it was in the beginning, but you have genuinely defeated me.	VO_kamui-b.kamui-b_chara_1003
+031	I was quite confident in my skill, but I now see that I am no match for an Arena Champion.
+032	...
+033	I thank you for this wonderful opportunity.	VO_kamui-b.kamui-b_sys_0011
+034	Hmm.	VO_waginao-b.waginao-b_sys_0005
+035	Is everything okay, sir?	VO_stknightm.stknightm_sys_0025
+036	That fight, what do you make of it?	VO_waginao-b.waginao-b_sys_0003
+037	I could not make out all the details of it, but I believe he was using a power related to Alchemy, sir.	VO_stknightm.stknightm_battle_0002
+038	You are not wrong. That is called "Spiritbonding", an art that has been lost over time. Only the Sephira retain its secrets now.	VO_waginao-b.waginao-b_sys_0010
+039	Shall we detain him and inquire about his origins?	VO_stknightm.stknightm_sys_0031
+040	That is unnecessary. There is no need to make a scene. His people are not the type to bring disorder to the world.	VO_waginao-b.waginao-b_sys_0039
+041	However, it is a rare sight to see a Sephira out of their village. I hope this is not a bad omen for things to come.
+042	That was so close, Kamui! It looked like you could've won!	VO_hisham-b.hisham-b_sys_0030
+043	No, it is impossible for me to win against her with a sword.	VO_kamui-b.kamui-b_chara_1003
+044	Really?	VO_hisham-b.hisham-b_chara_1009
+045	Yes. She is a natural-born warrior. It requires dedication and an incredible amount of training to become so accomplished.	VO_kamui-b.kamui-b_sys_0004
+046	There aren't many fighters as skilled as she is. She may even be equal to Isidore, if not stronger.	VO_kamui-b.kamui-b_sys_0031
+047	Isidore? Who's that? A friend of yours, Kamui?	VO_hisham-b.hisham-b_chara_1009
+048	...
+049	What's wrong?	VO_hisham-b.hisham-b_sys_0001
+050	How long do you intend to name me with such familiarity? We're far enough from the Arena now. There's no need to pretend to be brothers.	VO_kamui-b.kamui-b_sys_0002
+051	Oh...but...I'm starting to get used to it.	VO_hisham-b.hisham-b_sys_0011
+052	Hisham... If you get used to this, it'll hinder your drive to find your true family.	VO_kamui-b.kamui-b_sys_0030
+053	You may think nothing of it at first. I'm sure you believe you won't change your mind and that your heart will be strong...
+054	Until the day it leads you to forsake your quest.
+055	Forsake my...?	VO_hisham-b.hisham-b_sys_0031
+056	You want to reclaim your memory and find your family, correct?	VO_kamui-b.kamui-b_sys_0004
+057	Yeah.	VO_hisham-b.hisham-b_sys_0043
+058	That desire may be strong now. You may believe it will always be strong, but that is not the case.	VO_kamui-b.kamui-b_sys_0001
+059	The more you allow yourself to compromise and settle, your priorities will gradually shift.
+060	Soon, you will find that you no longer wish to venture out to find them.
+061	There is still hope that you have a home and family to return to. So do not allow yourself to give up yet.	VO_kamui-b.kamui-b_sys_0002
+062	But doesn't that seem...lonely?	VO_hisham-b.hisham-b_sys_0017
+063	That is what it means to remain dedicated to something. Can you do it?	VO_kamui-b.kamui-b_sys_0030
+064	I'll... try.	VO_hisham-b.hisham-b_sys_0018
+065	Hm? I don't really understand this conversation. What are you two discussing?	VO_theona.theona_sys_0002
+066	Wha—?! M-Miss Teona?! The Arena Champion?!	VO_hisham-b.hisham-b_sys_0028
+067	What are you doing here?	VO_kamui-b.kamui-b_sys_0027
+068	Oh, are you finished? Then I have something to discuss, myself. Ahem.	VO_theona.theona_chara_1006
+069	Allow me to introduce myself properly now, as we didn't have a chance to speak before our match. It is only polite to do so before a rematch.
+070	What did you just say?	VO_kamui-b.kamui-b_sys_0037
+071	A rematch! Now that we know each other better!	VO_theona.theona_battle_0010

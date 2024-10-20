@@ -1,0 +1,68 @@
+﻿001	Is this true?	VO_natalie.natalie_sys_0002
+002	Yes. I've since sent Nina to scout things out. There hasn't been any major commotion yet, but unease is spreading across the country.	VO_vetel.vetel_sys_0016
+003	Ugh! What could the Wratharis army be planning?!	VO_victor.victor_battle_0019
+004	Are the garrisoned troops on the border merely an attempt to rile us up, or are they a diversion for something bigger?
+005	We're all still on edge after the Lion Monarch's Charge... We could very well be overthinking this.	VO_natalie.natalie_sys_0022
+006	Still, there might be some meaning behind their presence, whether it be a provocation or a diversion.
+007	Not knowing their true aim is rather ominous, isn't it?
+008	There's not much to say at this point. Let's wait for Nina's report.	VO_vetel.vetel_sys_0031
+009	Is she all right? Work has really piled up on her since she became vice-captain.	VO_natalie.natalie_sys_0002
+010	You're looking pretty tired, too, Vettel.	VO_natalie.natalie_sys_0001
+011	Yes, but with the Blue Flame Guard practically out of commission, we have to pick up the slack.	VO_vetel.vetel_sys_0042
+012	It's hard, but we have to do all that we can for Envylia.
+013	We're back! It doesn't look like they're moving.
+014	We can't afford to start anything, but for the sake of our people's peace of mind, we can't just leave them be, either.	VO_vetel.vetel_sys_0030
+015	I'm moving out. We will observe the Wratharis army, and keep them in check.
+016	Should you really be the one to go? If something should happen elsewhere...	VO_natalie.natalie_sys_0002
+017	That's right! What are we supposed to do if it was just a distraction?	VO_victor.victor_sys_0026
+018	If my presence can help calm the tension, then I must go. Besides, you'll be fine without me. You have Nina here.	VO_vetel.vetel_chara_1007
+019	If it turns out to be a distraction, then Vice-Captain Nina will take the lead. I know that can trust her to take care of things while I am gone.
+020	Isn't that right, Nina?
+021	O-of course!	VO_neena.neena_sys_0038
+022	The rest is up to you. See you soon.
+023	I'll do my best! Oof...
+024	Hey! Are you okay?!	VO_victor.victor_sys_0003
+025	Eek!	VO_neena.neena_sys_0025
+026	Quiet, Victor. You're going to scare her. Are you all right, Nina?	VO_natalie.natalie_sys_0030
+027	S-sorry. I'm fine. I just got a little dizzy, that's all.	VO_neena.neena_sys_0036
+028	Don't overdo it. Haven't you been pushing yourself too hard of late? All that work you've been doing on top of training...	VO_natalie.natalie_sys_0039
+029	Your body is your most important asset. Don't destroy it by being reckless.	VO_natalie.natalie_sys_0004
+030	You're wrong! If I collapse after this amount of work, that's just proof that my determination wasn't strong enough!	VO_neena.neena_sys_0020
+031	I have to keep going! I have to try harder!
+032	This stubbornness... You really are turning into him—which means that it's pointless for me to argue with you. Here, drink this.	VO_natalie.natalie_sys_0022
+033	What is it?	VO_neena.neena_sys_0006
+034	I told you, didn't I? I will do my part by healing your wounds, just as I used to do for Gerald.	VO_natalie.natalie_sys_0016
+035	Not that you're injured, but here... He used to drink this a lot.
+036	This drink restores stamina, you see. It should help you push on.	VO_natalie.natalie_sys_0007
+037	Wow! Thank you!	VO_neena.neena_sys_0033
+038	Heheh... I've continued to improve upon it, over and over and over again, and now the effects are simply outstanding! Heheheheheh.	VO_natalie.natalie_sys_0008
+039	Is this what a mad scientist looks like?	VO_victor.victor_sys_0027
+040	Report! An army other than the garrisoned Wratharis army appears to be marching on Envylia!	VO_knightm.knightm_sys_0003
+041	According to our information, it appears to be a detached force from the Wratharis army! Awaiting your command!
+042	Wh-what?!
+043	Which direction are they approaching from?	VO_neena.neena_sys_0029
+044	They're not coming from the west where Captain Vettel is! They're advancing through the Desert Zone to our northern border!	VO_knightm.knightm_sys_0032
+045	There are a lot of therian villages out that way! They're going to get caught up in this if we don't hurry.	VO_neena.neena_sys_0027
+046	So the stationed troops were a decoy!	VO_natalie.natalie_sys_0006
+047	Those jerks! They're using our ongoing restoration as an opportunity to invade!	VO_victor.victor_battle_1028
+048	Nina!
+049	I understand. We're going to mobilize our remaining knights and move out!
+050	Natalie, secure a supply route. Victor, ready the troops.	VO_neena.neena_battle_0015
+051	Leave it to me!	VO_victor.victor_sys_0005
+052	Sound judgment, and delivered so quickly... We're counting on you, Vice-Captain.	VO_natalie.natalie_sys_0005
+053	Nina, what should I...?	VO_chloe.chloe_sys_0002
+054	I need you to stay here, Chloe. Please. For me.	VO_neena.neena_sys_0029
+055	Stay...? Why?! I can fight!	VO_chloe.chloe_sys_0026
+056	There's doubt in your sword arm right now. We can't afford to take someone with so much doubt along with us.	VO_neena.neena_sys_0031
+057	That's not true!	VO_chloe.chloe_battle_0020
+058	I've noticed, Chloe. As Vice-Captain, I watch everyone carefully.	VO_neena.neena_sys_0039
+059	Respect none who wield the sword without heart. I think that you would have a hard time standing on the battlefield right now.
+060	No, that's... That's not true! I have no doubts!	VO_chloe.chloe_sys_0016
+061	If that's the case, then show me here and now!
+062	N-Nina...?	VO_chloe.chloe_sys_0042
+063	Sorry for requesting this so suddenly, but I think it's something Sir Gerald would have done.	VO_neena.neena_sys_0036
+064	If you are truly free of doubts, then as one who bears the scarlet flame, I want you to prove it to me.
+065	If you can't do that, then you're staying here.	VO_neena.neena_sys_0012
+066	In this state...you would just be putting yourself and everyone else in danger.
+067	I-I...!
+068	Fine! I'll show you!	VO_chloe.chloe_battle_0024

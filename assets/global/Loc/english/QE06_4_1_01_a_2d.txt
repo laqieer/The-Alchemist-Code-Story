@@ -1,0 +1,100 @@
+﻿001	A way to restore Sumeragi?	VO_juubei.juubei_sys_0012
+002	Yes. The broken sword is currently kept in Castle Aquila Rubrum.	VO_amane.amane_sys_0004
+003	But it is tightly secured with layers of protective wards. There wouldn't be such rigorous security unless it were feared someone may one day succeed in restoring it.
+004	...!
+005	Is there not some lore about Sumeragi that has been passed down amongst the Black Star clan?	VO_amane.amane_sys_0001
+006	I think I may have heard something. But...could it really be true?	VO_juubei.juubei_sys_0004
+007	So there is a way, then?
+008	It seems hard to believe, but based on what we learned from Lady Celis and the legends passed down through the Black Star Clan...
+009	I believe another demon's horn may exist.
+010	That's it!
+011	You must find it, Jubei.	VO_amane.amane_sys_0041
+012	The issue is, I cannot say with any certainty that it will be able to restore Sumeragi.	VO_juubei.juubei_sys_0045
+013	Why not?	VO_amane.amane_sys_0025
+014	I have some concerns regarding the horn, based upon the Black Star Clan legends and Mikaboshi's memories.
+015	I believe it may be Tamba's horn.	VO_juubei.juubei_sys_0004
+016	What?!	VO_amane.amane_sys_0027
+017	Even if we find it, we don't know what effect making use of its power might have on Tamba.	VO_juubei.juubei_sys_0035
+018	It may do nothing but strengthen our enemy. We must proceed with caution.
+019	If it truly is Tamba's horn, I would like to believe his deepest intentions have not faltered.	VO_amane.amane_sys_0004
+020	His intentions?	VO_juubei.juubei_sys_0006
+021	The Tamba I saw within Mikaboshi's memories initially held a great hatred toward humans. However...
+022	By coming to understand Koga and Kaede's points of view, he overcame that hatred and desired instead to cooperate with the humans. It was only later that Malice once again warped his perspective.
+023	Tamba, at his truest, does not wish for humanity's destruction.	VO_amane.amane_sys_0002
+024	He simply wanted to protect that short-lived time of peace... That's what I believe, anyway.
+025	We can't risk making things worse, however, out of little more than hope and belief.	VO_juubei.juubei_battle_0022
+026	Which is why we must act now.	VO_amane.amane_sys_0006
+027	Amane...
+028	It won't be long before the Discarnate Power, Tamba, and Judius begin purging Wadatsumi of humans.
+029	If we don't move quickly, we'll lose our only chance for a counteroffensive. So I'll go, and recover Mikaboshi.	VO_amane.amane_sys_0004
+030	And I'll bring Logi Crowley back with me as well. That's why I need to rely on you, Jubei.
+031	We must restore Sumeragi and return peace to Wadatsumi!
+032	...!
+033	(It is just as Amane said. We must save Wadatsumi from the demons.)
+034	(It may be a foolish wager, but we must make it all the same.)
+035	So it really was true!	VO_juubei.juubei_sys_0022
+036	It shouldn't be possible, but here it is. Another demon's horn.
+037	To whomever this belonged, my apologies, but I'll be borrowing this horn. Please lend me your strength.	VO_juubei.juubei_sys_0035
+038	Let us bring peace to Wadatsumi once more!
+039	Eek! Y-you're one of the Blade Fox Corps!
+040	...
+041	Welcome back. How did it go?	VO_ogre.ogre_battle_0001
+042	I destroyed a village, just like you said to.
+043	You rather took your time, however, didn't you?	VO_ogre.ogre_battle_0002
+044	...
+045	Those who remain will be powerless. They will be exterminated sooner or later. Don't you think you should commit yourself to the desolation already?
+046	...
+047	...!
+048	You dare to hesitate, still?!	VO_ogre.ogre_battle_0019
+049	Of course not! I just...
+050	Huh?! What was that?
+051	What is it?	VO_ogre.ogre_battle_0001
+052	...
+053	(The Discarnate Power failed to sense anything? Then what could I be feeling?)
+054	(It's like a part of me has been awakened somewhere. This feeling, it's...)
+055	If you're so concerned, why don't you go see what it was for yourself?	VO_tanosuke.tanosuke_sys_0001
+056	You...!	VO_tanba.tanba_sys_0002
+057	Of course, if you're hesitant to confront whatever it might be, you could always just give me back my body.	VO_tanosuke.tanosuke_sys_0002
+058	I do not hesitate.	VO_tanba.tanba_sys_0005
+059	Then why am I able to talk to you right now?	VO_tanosuke.tanosuke_sys_0006
+060	...
+061	What is it you want? Do you want to exterminate them?	VO_tanosuke.tanosuke_sys_0003
+062	Or do you want to protect them?
+063	Shut up! You don't understand anything!
+064	I rather think I do. I've seen some of the memories you keep inside you. Besides...	VO_tanosuke.tanosuke_sys_0005
+065	I'm a demon too, remember.
+066	Then you should understand that as a demon, I must do this.
+067	Is that really how you feel? Or is that how someone else expects you to feel?	VO_tanosuke.tanosuke_sys_0001
+068	...
+069	You, of all people, should know the high price of leaving an opening.	VO_tanosuke.tanosuke_battle_0015
+070	Shut up! Don't pretend like you know what you're talking about!	VO_tanba.tanba_sys_0015
+071	...
+072	(Tamba's will has faltered. Is this my chance?)	VO_ogre.ogre_battle_0020
+073	(No, this is something different. I must wait for his will to be completely gone, leaving his body as nothing but a shell.)
+074	(If that body is able to host Tamba's will, then it would surely be a suitable vessel for the Demon King as well.)
+075	(I must not act impetuously.)	VO_ogre.ogre_battle_0001
+076	...
+077	Excuse me.	VO_judius.judius_sys_0036
+078	What are you doing here? I was not informed you would be visiting.	VO_ogre.ogre_battle_0002
+079	I come with urgent business. I believe you'll want to hear it.	VO_judius.judius_sys_0016
+080	I find it difficult to believe that something so urgent could happen in Wadatsumi as it is now.
+081	What if I told you the Spirit Stone Mikaboshi was taken from Greed Dike?	VO_judius.judius_sys_0002
+082	?!	タンバ・神鬼
+083	The Sacred Three of Wadatsumi: the Spirit Stone Mikaboshi, the Treasure Blade Sumeragi, and of course, the sacred art of Kagutsuchi...
+084	Sumeragi is broken, and it's said the art of Kagutsuchi has been lost, so it's unlikely we'll need to worry about either of them...	VO_judius.judius_sys_0031
+085	But if Mikaboshi were to be returned to Wadatsumi soil, it would become another variable we'd be forced to deal with.
+086	It seemed best to inform you of this development.
+087	And just why would Mikaboshi be returned to Wadatsumi soil?
+088	Oh, I suspect you know. And I think you also know who might orchestrate such a maneuver.	VO_judius.judius_sys_0001
+089	...
+090	Mm. Another variable to take into account, indeed.
+091	One can never be too careful, no? No matter how insignificant the problem may seem. At any rate, that is all I came to report.
+092	So, you expect us to deal with the situation while you watch on from the sidelines, is that it?	VO_ogre.ogre_battle_0019
+093	I said nothing about dealing with this. I simply inferred that you should take note, and take heed.
+094	Semantic nonsense. It's the same thing.	VO_ogre.ogre_battle_0002
+095	Not at all! Allowing an unknown variable to exist makes our plan less likely to succeed. Therefore, it seemed only wise to keep you abreast of the situation, thus making the variable known.	VO_judius.judius_sys_0016
+096	...
+097	I'll take care of it. It's no problem.
+098	Ah, a sensible response. I'm glad someone here was able to provide one. All is for Wadatsumi!	VO_judius.judius_sys_0010
+099	You'd see us exterminated in one go if you could. But I assure you, things will not progress as you expect them to.
+100	We will have the last laugh!	VO_ogre.ogre_battle_0021

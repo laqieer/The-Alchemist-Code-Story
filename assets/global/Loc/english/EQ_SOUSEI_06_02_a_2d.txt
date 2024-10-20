@@ -1,0 +1,163 @@
+﻿001	My, Quence. You look exhausted.
+002	My apologies. I merely spaced out a little bit.
+003	Satna seems to be in an awful mood lately. I've barely had a wink of sleep.
+004	Apparently the Cursed Beast's core is not happy with me.
+005	Controlling the Cursed Beast is essential to your plans, is it not?
+006	Can you do it in such a state?
+007	You'll just have to trust me for now.
+008	Eh, even if you don't, it's not like you have any choice but to follow my plans at this point.
+009	After all, this country is already at its limit.
+010	...
+011	Brother.
+012	The enemy approaches. Those who rejected the sin of Envy are headed our way.	VO_arius.arius_sys_0001
+013	Oh, so our guests of honor have finally arrived.
+014	I worried that they might get stranded in the Invidia Belt, but this means everything is still going according to plan.
+015	Will you be able to finish it this time?
+016	They are strong...and the world is governed by the strongest. I understand this law of nature.	VO_arius.arius_sys_0031
+017	But these lands have no use for them.
+018	The flames of my Wrath burn fierce. They will face my reckoning and they will be rewarded an existence as little more than ash.	VO_arius.arius_sys_0010
+019	Then I'll leave it to you. Though a single Fallen may struggle to deal with that Spiritbonding on his own.
+020	Understood. I will send help with him.
+021	...Sulva.
+022	Yes.
+023	Please accompany my brother and crush the invading army from Invidia, would you?
+024	Put that Red Blade of yours to some good use.
+025	Understood.
+026	...
+027	Then I suppose I have no choice but to continue with our plans.
+028	Soon these lands will meet their end.
+029	May it all turn to dust. Let's cause all the mayhem we can before that time arrives.
+030	...
+031	Land ho!
+032	Everyone, be on guard! This harbor is within the territory of the Ira Belt.	VO_hymnus.hymnus_sys_0001
+163	We don't know where their ships may be lying in wait!
+033	Yes, sir!
+034	So this is the border...	VO_nimuru.nimuru_sys_0005
+035	We were so busy fighting Leviathan from the airship the last time we passed over here, I barely had a chance to look around.
+036	This place where the lands of Wrath and Envy met in a clash, bringing the two together unexpectedly...
+037	It looks even worse than I imagined.	VO_nimuru.nimuru_sys_0018
+038	These scorching lands must be causing the sea to evaporate. Just look at all this steam. This is going to be a problem.	VO_kuienai.kuienai_sys_0004
+039	We'll probably get burned if we get any closer. We should try to avoid touching it at all cost.
+040	...
+041	O-OUCH!	VO_adlai.adlai_sys_0043
+042	I literally just told you...	VO_kuienai.kuienai_sys_0030
+043	Eulalia, what is the magil like in this area?	VO_nimuru.nimuru_sys_0001
+044	There's enough here, but I have a bad feeling about what lies further inland...	VO_eularea.eularea_sys_0030
+045	I think it may be exactly like Nimul said. It'll become harder and harder to use our powers as we head further in.
+046	Just as I thought...
+047	Sounds like magitek will still be A-OK then! Though it won't be able to extract any magil from the atmosphere.	VO_adlai.adlai_sys_0031
+048	But if we bring our own power source it shouldn't be an issue.
+049	That's a relief. There's a pretty good chance we'll get caught up in some nasty business sooner or later.	VO_andechs.andechs_sys_0004
+050	The more of us are capable of fighting, the better.
+051	Well then, as we discussed before, we will start constructing a base in this area.	VO_hymnus.hymnus_sys_0002
+052	Daphne and her knights will go with you to the heart of the Ira Belt.
+053	The shield regimen is ready whenever you are.	VO_dafne.dafne_sys_0004
+054	Can I trust you to take the lead?
+055	Yup, just leave it to me. Although, I have to say I'd be more shocked if any of us got lost.	VO_andechs.andechs_sys_0005
+056	What does that mean?	VO_nimuru.nimuru_sys_0006
+057	You'll find out soon enough.	VO_andechs.andechs_sys_0016
+058	They're here.	VO_arius.arius_sys_0005
+059	They dare step foot on these lands without a shred of fear for my wrath and retaliation... Fine. I'll show them the error of their ways.
+060	My liege. Is it time?
+061	Disperse the troops. The enemy has means to attack across a wide area, so spread yourselves out to meet them.	VO_arius.arius_sys_0004
+062	Understood.
+063	...
+064	Show me the King's Blade.	VO_arius.arius_sys_0001
+065	This?
+066	...
+067	—I understand. I am no longer deemed fit to be king.	VO_arius.arius_sys_0031
+068	You may carry that blade.
+069	...Yes, my liege.
+070	Tell the soldiers this! Those we'll face here are no less than our sworn enemy!	VO_arius.arius_sys_0032
+071	Loot! Kill! Pillage! Crush them with all you got! Take every ounce of wrath in your body and turn it into power! May it consume you till there's nothing left!
+072	Eek, the ground is actually on fire.	VO_mela.mela_sys_0029
+073	Little else but scorched earth as far as the eye can see. I see what you were saying now, Andechs...
+074	Remember not to touch it. I'm not just saying that to prevent more burns here; there is corruption in the flames that are spread throughout these lands.	VO_andechs.andechs_sys_0001
+075	One little accidental touch, and we've got someone losing themselves to corruption on our hands.
+076	N-no way! You're just trying to scare us, right? Right?!	VO_mela.mela_sys_0026
+077	M-my shield's protection will—
+078	No, preserve your energy. You're our trump card. Don't waste your skills lightly.	VO_nimuru.nimuru_sys_0039
+079	Right, Andechs?
+080	Yup, we're definitely gonna need you down the line, so just hold out a little longer, okay?	VO_andechs.andechs_sys_0005
+081	Understood...	VO_dafne.dafne_sys_0016
+082	But seriously, how far have we walked by now?	VO_adlai.adlai_sys_0001
+083	When are we doing to hit some civilization?
+084	If you'd come a few months earlier, you would've found plenty of it already.	VO_andechs.andechs_sys_0016
+085	You mean—
+086	It was all burned to the ground. That corrupted rain of fire razed these plains. A downpour that left nothing behind.	VO_andechs.andechs_battle_0019
+087	It burned down? Then...what happened to the people that lived here?	VO_emmer.emmer_sys_0006
+088	Those that survived fled to the capital city of the Ira Belt, Horeb.	VO_andechs.andechs_sys_0022
+089	The ones that weren't fast enough either burned alive or turned into Fallen.
+090	...!	VO_emmer.emmer_sys_0042
+091	This is the reality with which the Ira Belt has to cope. Ever since Satna's awakening, this place has become completely uninhabitable.
+092	Which is why they attacked the Invidia Belt.	VO_nimuru.nimuru_sys_0002
+093	Indeed. Living beings need food, shelter, clothes...all kinds of things. That which the land gives us.
+094	But this land has long since stopped giving us anythi—
+095	What's this?! An earthquake?!	VO_adlai.adlai_sys_0026
+096	Worse. Look at that mountain over there.	VO_kuienai.kuienai_sys_0039
+097	Huh? The mountain is spewing fire?!	VO_adlai.adlai_battle_0019
+098	That's Shinai, the sacred volcano that stands at heart of the Ira Belt.
+099	The forbidden land beneath which Satna sleeps.
+100	So that's where Satna is...	VO_dafne.dafne_battle_0019
+101	It's emitting a tremendous amount of burning magil. It feels like the Cursed Beast may wake up any moment now...	VO_nimuru.nimuru_sys_0005
+102	That's why we have to hurry. Even if we managed to evacuate the citizens of the Ira Belt, we may not have the time to strike it—	VO_andechs.andechs_sys_0005
+103	Wait.	VO_eularea.eularea_sys_0002
+104	Something is concealing their presence behind the mountain's magil—
+105	Oh no! Nimul! Look up!	VO_eularea.eularea_sys_0025
+106	Huh?!
+107	Th-that's—!	VO_nimuru.nimuru_battle_0022
+108	Ah, so you managed to dodge me...
+109	But for how long—	VO_arius.arius_sys_0010
+110	Shield regimen! Prepare for battle!	VO_dafne.dafne_sys_0042
+111	Yes, ma'am!
+112	We're surrounded! Is this because of—?
+113	It's that stealth magitek again! Dammit! I was so distracted by the weird magil in this area that I didn't notice them approach!	VO_adlai.adlai_battle_0019
+114	Andechs! This will be your grave!	VO_arius.arius_battle_0004
+115	Your Highness. Why are you doing this?
+116	Excuse me?	VO_arius.arius_sys_0006
+117	You always cared so much about your citizens. You were trying to quell the conflict in these lands.
+118	So why?!	VO_andechs.andechs_battle_0019
+119	It is simple human nature.	VO_arius.arius_sys_0005
+120	What?
+121	I finally realized it after I fell to the corruption and gave in to wrath.	VO_arius.arius_sys_0004
+122	There will never be an end to the conflict in the Ira Belt!
+123	There is joy in stealing! Superiority is reserved for those that trample others! There is no greater delight than taking back that which was stolen!	VO_arius.arius_sys_0007
+124	This is simply humanity's essence! We who are descendants of the Beasts, we who were forged in their image!
+125	You're wrong! Humans were made to help one another! The strong are supposed to protect the weak!	VO_andechs.andechs_battle_0022
+126	Reach out to whoever seeks our aid. Wield our sword for whoever is in need. Those are the ideals you taught me—
+127	That was what we believed in! The ideals all knights were supposed to strive for!
+128	Face the facts, Andechs. We're not helping one another. We are simply animals competing for survival.	VO_arius.arius_sys_0001
+129	Then I will bring an end to that! Mark my words!	VO_andechs.andechs_sys_0005
+130	Nimul, I'm counting on you for backup!
+131	Got it!	VO_nimuru.nimuru_sys_0004
+132	"I am Transcender of the Gate of Envy!"
+133	Mwuahahaha! Still trying that same old trick?!	VO_arius.arius_sys_0008
+134	What?! He managed to block a full frontal blow like it was nothing?!	VO_andechs.andechs_sys_0025
+135	These flames that fell from the skies only fuel my Fallen!
+136	It is nothing like the playthings you faced in the Invidia Belt!	VO_arius.arius_sys_0010
+137	Furthermore—
+138	Sulva!	VO_arius.arius_battle_0004
+139	Yes, my liege. I will follow the plan.
+140	Huh?! A child?	VO_nimuru.nimuru_battle_0019
+141	...I missed.
+142	Oh? So you managed to avoid our ambush? Then it will be all the more satisfying to crush you.	VO_arius.arius_sys_0031
+143	These guys are nothing like they were back in the Invidia Belt!	VO_adlai.adlai_sys_0042
+144	They've got the home-field advantage... These scorched lands are what they know best.
+145	Running across wide open fields without any places to duck for cover. They know how to utilize every corner of this place... This is going to be tough.
+146	Shield regimen, reform the lines! Don't let the formation crumble by chasing them too far!	VO_dafne.dafne_sys_0042
+147	But—!
+148	The enemy possesses superior mobility. If you chase them, the formation will fall apart and they'll pick you off one by one!
+149	At this rate, they're going to—	VO_nimuru.nimuru_battle_0022
+150	That just means we've got to stop them from moving, right?!	VO_mela.mela_sys_0001
+151	Can you do it?	VO_nimuru.nimuru_sys_0006
+152	I don't know, but we've got to try! Nyx?!
+153	Got it! Good thing we brought Libra along from the airship.	VO_nix.nix_sys_0038
+154	Space-Time Manipulation: Ignition!	VO_nix.nix_sys_0032
+155	We just need a tiny opening—there! Stand still!	VO_mela.mela_sys_0032
+156	Ghn! This power—!	VO_arius.arius_battle_0022
+157	Nimul! This is it!
+158	Got it! Andechs? Are you ready?	VO_nimuru.nimuru_sys_0004
+159	Always!	VO_andechs.andechs_sys_0004
+160	Mad king Arius, you who have forgotten our ideals.
+161	It's time for you to rest in peace!	VO_andechs.andechs_sys_0032
+162	You impudent fool!	VO_arius.arius_sys_0032

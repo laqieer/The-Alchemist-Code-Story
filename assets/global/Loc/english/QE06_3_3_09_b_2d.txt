@@ -1,0 +1,249 @@
+﻿001	So they've come. I'll go and see to them.	VO_tanba.tanba_sys_0044
+002	...
+003	You intend to go alone?	VO_ogre.ogre_battle_0001
+004	It's a good opportunity for me to acquaint myself with this new body. Besides which, I think it best to sever all external bonds to its previous occupant.	VO_tanba.tanba_sys_0037
+005	Oh?	VO_ogre.ogre_battle_0002
+006	...
+007	I won't hold back this time. I will deliver certain death.	VO_tanba.tanba_sys_0016
+008	This is the place, right?
+009	Beyond this point, there's no turning back. Are you sure about this?	VO_azami.azami_sys_0001
+010	Of course I am.	VO_amane.amane_sys_0004
+011	We are the Blade Fox Corps. Everything has led us to this moment.
+012	Plus...it's not just the two of us.
+013	...
+014	Right. Let's go.
+015	Wait.	VO_ugachi.ugachi_sys_0001
+016	Captain Ugachi!	VO_amane.amane_sys_0026
+017	You're okay!	VO_azami.azami_sys_0025
+018	Nonsense! Do I look okay?!	VO_ugachi.ugachi_sys_0027
+019	Please, wait for us here. The two of us can handle this on our own.	VO_amane.amane_sys_0001
+020	I'd ask you to wait until I can move again, but time is not on our side. I'll be right behind you as soon as I'm able.	VO_ugachi.ugachi_sys_0004
+021	Do your best to hold the line until I can join you.	VO_ugachi.ugachi_sys_0041
+022	Yes, Sir!
+023	Tch. Blasted wounds! Hurry up and heal!	VO_ugachi.ugachi_sys_0027
+024	Captain Ugachi...
+025	What are you still doing here? Get a move on!	VO_ugachi.ugachi_sys_0001
+026	Before I go, I just wanted to say...if something should happen to me, I'd like you to look after Amane.
+027	Why are you asking me?	VO_ugachi.ugachi_sys_0005
+028	Because you're the person I trust most in this world.	VO_azami.azami_sys_0004
+029	Well, you'll have to look elsewhere, as I have no time for that kind of hassle in my life. And I'll hear no more of this pessimistic poppycock, either!	VO_ugachi.ugachi_sys_0006
+030	You are my right arm. Failure is inconceivable. Even if you were to die, I've no doubt you'd still complete your mission from beyond the grave. Such is the faith I have in Second Squad.	VO_ugachi.ugachi_sys_0002
+031	...!	VO_azami.azami_sys_0025
+032	So right now, you need only concern yourself with carrying out your duty as vice-captain. And that's an order!
+033	Y-yes, Sir!
+034	...
+035	Azami?
+036	Sorry to keep you waiting. Let's go.	VO_azami.azami_sys_0036
+037	Let's go reclaim that happy everyday life we once had.
+038	I've had my fill of this.	QE06_1_1_01_a_2d.amane_story0601_0001
+039	We'll be fine.	QE06_1_1_01_a_2d.amane_story0601_0002
+040	We won't go down. Not yet.	QE06_1_1_01_a_2d.azami_story0601_0001
+041	At least not until we've fulfilled our oaths.	QE06_1_1_01_a_2d.azami_story0601_0002
+042	You're shaking, Amane.	QE06_1_1_01_a_2d.azami_story0601_0003
+043	So are you, Azami.	QE06_1_1_01_a_2d.amane_story0601_0003
+044	Hmph.	QE06_1_1_01_a_2d.amane_azami_story0601_0004
+045	It's just adrenaline, that's all.	QE06_1_1_01_a_2d.amane_azami_story0601_0005
+046	That's one!	QE06_1_1_01_a_2d.azami_story0601_0006
+047	Two!	QE06_1_1_01_a_2d.amane_story0601_0006
+048	Three, and—	QE06_1_1_01_a_2d.amane_story0601_0007
+049	Four!	QE06_1_1_01_a_2d.azami_story0601_0007
+050	That's five!	QE06_1_1_01_a_2d.amane_azami_story0601_0008
+051	I was quicker than you on that last one!	QE06_1_1_01_a_2d.azami_story0601_0009
+052	What are you talking about?! It was me!	QE06_1_1_01_a_2d.amane_story0601_0009
+053	No, it was me!	QE06_1_1_01_a_2d.azami_story0601_0010
+054	No, me!	QE06_1_1_01_a_2d.amane_story0601_0010
+055	Six!	QE06_1_1_01_a_2d.azami_story0601_0011
+056	Seven!	QE06_1_1_01_a_2d.amane_story0601_0011
+057	Eight!	QE06_1_1_01_a_2d.azami_story0601_0012
+058	Nine!	QE06_1_1_01_a_2d.amane_story0601_0012
+059	Ten!	QE06_1_1_01_a_2d.amane_azami_story0601_0013
+060	What the...?!	QE06_1_1_01_a_2d.amane_azami_story0601_0014
+061	A single meal is mightier than the single blade.	QE06_1_1_01_a_2d.celis_story0601_0001
+062	I say it's time for lunch.	QE06_1_1_01_a_2d.celis_story0601_0002
+063	N-not yet!	QE06_1_1_01_a_2d.azami_story0601_0015
+064	Ready your katana!	QE06_1_1_01_a_2d.amane_story0601_0015
+065	But I'm so hungry...	QE06_1_1_01_a_2d.celis_story0601_0003
+066	Who cares about lunch! Today's the day that—	QE06_1_1_01_a_2d.amane_story0601_0016
+067	Excuse me?	QE06_1_1_01_a_2d.celis_story0601_0004
+068	I said who cares about lunch! We have more—	QE06_1_1_01_a_2d.amane_story0601_0017
+069	Amane, don't.	QE06_1_1_01_a_2d.azami_story0601_0016
+070	Oh, uh.	QE06_1_1_01_a_2d.amane_story0601_0018
+071	Who cares about lunch?	QE06_1_1_01_a_2d.celis_story0601_0005
+072	Shouldn't have said that.	QE06_1_1_01_a_2d.azami_story0601_0017
+073	Amane, I still see hesitation in your blade.	QE06_1_1_01_a_2d.celis_story0601_0006
+074	Observe your opponent and read their intentions as though you are them. Then end them with one deadly strike.	QE06_1_1_01_a_2d.celis_story0601_0006_01
+075	Okay.	QE06_1_1_01_a_2d.amane_story0601_0019
+076	Azami, you should yield more of yourself to your comrades. Allow them to cover your back. You must do so to your opponent, as well.	QE06_1_1_01_a_2d.celis_story0601_0007
+077	To my opponent?	QE06_1_1_01_a_2d.azami_story0601_0018
+078	Yes. Yield to their movements and you will be able to prevent or parry their strikes with smooth, fluid motions.	QE06_1_1_01_a_2d.celis_story0601_0008
+079	Try not to be so obstinate.	QE06_1_1_01_a_2d.celis_story0601_0008_01
+080	I understand.	QE06_1_1_01_a_2d.azami_story0601_0019
+081	The hands that grip your weapon, those mouths that talk back, and the brains that you need to keep coming up with half-baked ideas... All of those are made of the meals you eat.	QE06_1_1_01_a_2d.celis_story0601_0009
+082	If you do not eat, you will have no strength to even lift a finger. Do you understand?	QE06_1_1_01_a_2d.celis_story0601_0009_01
+083	We do.	QE06_1_1_01_a_2d.amane_azami_story0601_0020
+084	Life is nothing if you don't live it, and food is what keeps you alive.	QE06_1_1_01_a_2d.celis_story0601_0010
+085	So, to insult food is to insult life.	QE06_1_1_01_a_2d.celis_story0601_0010_01
+086	Do you think someone who would insult life itself can be a proper member of the Corps?	QE06_1_1_01_a_2d.celis_story0601_0010_02
+087	No, we don't.	QE06_1_1_01_a_2d.amane_azami_story0601_0021
+088	Three meals a day is the foundation of life! Strength of mind and body comes from a hearty meal! Say it!	QE06_1_1_01_a_2d.celis_story0601_0011
+089	Strength of mind and body comes from a hearty meal!	QE06_1_1_01_a_2d.amane_azami_story0601_0022
+090	Meals and blades are made to what?!	QE06_1_1_01_a_2d.celis_story0601_0012
+091	To vanquish all demons who bring pain and suffering!	QE06_1_1_01_a_2d.azami_story0601_0023
+092	To bring about blissful days of joy!	QE06_1_1_01_a_2d.amane_story0601_0023
+093	With our blades, we will clear the way for Wadatsumi's future!	QE06_1_1_01_a_2d.amane_azami_story0601_0024
+094	Good! Now let's have lunch.	QE06_1_1_01_a_2d.celis_story0601_0013
+095	All right!	QE06_1_1_01_a_2d.amane_azami_story0601_0025
+096	I've made your favorites today.	QE06_1_1_01_a_2d.celis_story0601_0014
+097	All of your dishes are my favorites, though...	QE06_1_1_01_a_2d.amane_story0601_0026
+098	Oh, I know.	QE06_1_1_01_a_2d.celis_story0601_0015
+099	So what did you make?	QE06_1_1_01_a_2d.azami_story0601_0026
+100	A lot!	QE06_1_1_01_a_2d.celis_story0601_0016
+101	Those who can't appreciate the value of their everyday life can't protect their everyday life.	QE06_1_1_01_a_2d.celis_story0601_0017
+102	Aaaaaaahh!	QE06_1_1_01_a_2d.azami_story0601_0027
+103	What?!	QE06_1_1_01_a_2d.amane_story0601_0027
+104	Azami!	QE06_1_1_01_a_2d.amane_story0601_0028
+105	Ngh! Gah!	QE06_1_1_01_a_2d.azami_story0601_0028
+106	Come on... Doesn't matter how many of you there are, I'll take all of you on!	QE06_1_1_01_a_2d.azami_story0601_0029
+107	Move! Get out of my way!	QE06_1_1_01_a_2d.amane_story0601_0029
+108	Azami!!!	QE06_1_1_01_a_2d.amane_story0601_0030
+109	Taste the Kagomurasaki's secret art...	QE06_1_1_01_a_2d.azami_story0601_0030
+110	Amane!	QE06_1_1_01_a_2d.azami_story0601_0031
+120	Wh-why?!	QE06_1_1_01_a_2d.amane_story0601_0038
+121	?!	QE06_1_1_01_a_2d.amane_story0601_0039
+122	Agh! A-Azami!	QE06_1_1_01_a_2d.amane_story0601_0040
+123	Azami...you...	QE06_1_1_01_a_2d.amane_story0601_0041
+124	Ngh... N-nrrgh...	QE06_1_1_01_a_2d.azami_story0601_0034
+125	I can't believe this... I-I'm not edible, you know?	QE06_1_1_01_a_2d.amane_story0601_0042
+126	Grrrrgh... Grrrraaaaagh!	QE06_1_1_01_a_2d.azami_story0601_0035
+127	L-let's go home. Please? We can have a really delicious meal once we get back.	QE06_1_1_01_a_2d.amane_story0601_0043
+128	Gaaahhh!!!	QE06_1_1_01_a_2d.azami_story0601_0036
+129	Azami, stop! No... Please! Azami!	QE06_1_1_01_a_2d.amane_story0601_0044
+130	We're supposed to vanquish all demons who bring pain and suffering, remember?!	QE06_1_1_01_a_2d.amane_story0601_0045
+131	We swore to bring about blissful days of joy! Don't you remember?!	QE06_1_1_01_a_2d.amane_story0601_0046
+132	We said that with our blades, we will clear the way for Wadatsumi's future!	QE06_1_1_01_a_2d.amane_story0601_0047
+133	We swore it together, Azami!!!	QE06_1_1_01_a_2d.amane_story0601_0048
+134	N-no...	QE06_1_1_01_a_2d.amane_story0601_0049
+135	Don't say it...	QE06_1_1_01_a_2d.amane_story0601_0050
+136	"Kill me."	QE06_1_1_01_a_2d.azami_story0601_0037
+137	N-no!	QE06_1_1_01_a_2d.amane_story0601_0051
+138	Please...! Don't say such a thing!	QE06_1_1_01_a_2d.amane_story0601_0052
+139	What...?!	QE06_1_1_01_a_2d.amane_story0601_0053
+140	Fate cannot be overturned.	QE06_1_1_01_a_2d.uroboros_story0601_0001
+141	Y-you again?!	QE06_1_1_01_a_2d.amane_story0601_0054
+142	None can turn falsity into truth.	QE06_1_1_01_a_2d.uroboros_story0601_0002
+143	If one's hopes are severed without ever knowing the truth, then one will travel down a path far different from what they were meant for.	QE06_1_1_01_a_2d.uroboros_story0601_0003
+144	Hopes...severed...?	QE06_1_1_01_a_2d.amane_story0601_0055
+145	Indeed. Even I cannot measure the impact such a thing would have upon this world.	QE06_1_1_01_a_2d.uroboros_story0601_0004
+146	Is that why you're here, talking to me?	QE06_1_1_01_a_2d.amane_story0601_0056
+147	Do you or do you not seek the true path?	QE06_1_1_01_a_2d.uroboros_story0601_0005
+148	Will you live a life of falsehood?	QE06_1_1_01_a_2d.uroboros_story0601_0006
+149	Or will you choose death?	QE06_1_1_01_a_2d.uroboros_story0601_0007
+150	Death...	QE06_1_1_01_a_2d.amane_story0601_0057
+151	Without fulfilling my oath?	QE06_1_1_01_a_2d.amane_story0601_0058
+152	That is indeed an option.	QE06_1_1_01_a_2d.uroboros_story0601_0008
+153	I... I...	QE06_1_1_01_a_2d.amane_story0601_0059
+154	An empty fate in which you are destined to fade without reaching the truth. A life which will end without ever seeing the future.	QE06_1_1_01_a_2d.uroboros_story0601_0009
+155	It is your choice to make.	QE06_1_1_01_a_2d.uroboros_story0601_0010
+156	I... I choose to see the future.	QE06_1_1_01_a_2d.amane_story0601_0060
+157	Then I shall observe every aspect of the choice you make.	QE06_1_1_01_a_2d.uroboros_story0601_0011
+158	Now, child molded by the land of sin...	QE06_1_1_01_a_2d.uroboros_story0601_0012
+159	Show me the answer the truth guides you to.	QE06_1_1_01_a_2d.uroboros_story0601_0013
+160	Amane, I still see hesitation in your blade.	QE06_1_1_01_a_2d.celis_story0601_0006
+161	Observe your opponent and read their intentions as though you are them. Then end them with one deadly strike.	QE06_1_1_01_a_2d.celis_story0601_0006_01
+162	Okay.	QE06_1_1_01_a_2d.amane_story0601_0019
+163	Azami, you should yield more of yourself to your comrades. Allow them to cover your back. You must do so to your opponent, as well.	QE06_1_1_01_a_2d.celis_story0601_0007
+164	I... I choose to see the future.	QE06_1_1_01_a_2d.amane_story0601_0061
+165	Wadatsumi's future...	QE06_1_1_01_a_2d.amane_story0601_0062
+166	With our blades...	QE06_1_1_01_a_2d.amane_story0601_0063
+167	We will clear the way!	QE06_1_1_01_a_2d.amane_story0601_0064
+168	That is my choice!	QE06_1_1_01_a_2d.amane_story0601_0065
+169	"Thank...you..."	QE06_1_1_01_a_2d.azami_story0601_0038
+170	!!!	QE06_1_1_01_a_2d.amane_story0601_0066
+171	I...choose to live.	QE06_1_1_01_a_2d.amane_story0601_0067
+172	Live and clear the way for Wadatsumi's future...	QE06_1_1_01_a_2d.amane_story0601_0068
+173	With our blades...	QE06_1_1_01_a_2d.amane_story0601_0069
+174	With our... Our...	QE06_1_1_01_a_2d.amane_story0601_0070
+175	Celis... Azami...	QE06_1_1_01_a_2d.amane_story0601_0071
+176	Hnngh... Nnnh...!	QE06_1_1_01_a_2d.amane_story0601_0072
+177	Whaaaaaaaaaaaahh!!!	QE06_1_1_01_a_2d.amane_story0601_0073
+178	Aaaahh! Waaaaaaaaaahhh!!!	QE06_1_1_01_a_2d.amane_story0601_0074
+179	...	VO_amane.amane_sys_0018
+180	Why are you crying? You came here prepared to kill, didn't you? Then you should also be prepared to die.
+181	Captain Tanosuke...	VO_amane.amane_sys_0020
+182	That person is no longer here. And I aim to sever the ties that bind him.
+183	...
+184	Will you not ready your weapon, at the very least?
+185	I...
+186	Very well. Then death it shall be.
+187	I thought I'd killed you last time. It seems I haven't yet acclimated to this new host.
+188	But there won't be a next time!
+189	Tch.	VO_ugachi.ugachi_sys_0027
+190	Ah...	VO_amane.amane_sys_0027
+191	I follow you all the way here just to find you loafing about, rookie? Ready your weapon!	VO_ugachi.ugachi_sys_0002
+192	Captain Ugachi...
+193	Where's Azami?	VO_ugachi.ugachi_sys_0001
+194	Over...there.
+195	!!!	VO_ugachi.ugachi_sys_0026
+196	So right now, you need only concern yourself with carrying out your duty as vice-captain. And that's an order!
+197	Y-yes, Sir!
+198	All the more reason to ready your weapon, rookie!
+199	But...	VO_amane.amane_sys_0027
+200	Don't you see? Azami isn't truly dead!
+201	What...?
+202	Have you forgotten our most crucial creeds?!	VO_ugachi.ugachi_sys_0002
+203	Never turn your back on a demon! Not under any circumstances!
+204	But, I—
+205	Turning your back on a demon is no different than throwing away your life!
+206	Turning your back on a demon is turning your back on all those noble souls who've departed us along the way.
+207	So take responsibility! Bear this burden! If you don't get up this instant, then Azami really will just be dead, and she'll have died in vain!
+208	!!!
+209	Weren't you going to save Wadatsumi?! Well, if that's all the resolve you've got in you...
+210	...then I don't see how you'll be able to save anything at all!
+211	Captain Ugachi...
+212	"A member of the Blade Fox that is bitten by a demon must be purged by their squad before they themselves turn into a demon." You did what you had to do.
+213	And the souls of the lives you take reside in your sword. So Azami still lives! You've seen to it that she'll be with you forever.
+214	Therefore, you mustn't lose heart! You must fight on, for you and for her alike! Brandish the pride of the Blade Fox!
+215	How absurd. "Mustn't lose heart"? You're living in a fantasy. Though you won't need to live in it much longer.
+216	And you can shut your mouth! We are humans. And Blade Fox, at that!	VO_ugachi.ugachi_sys_0025
+217	You should know what that means, if you have any connection at all to the person whose body you now inhabit!
+218	We fight to the end as Blade Fox. If we don't, then our very existence has served no meaning from the start. And that's one thing I will never accept.
+219	We are Blade Fox until our very last gasp. That is the tribute we offer to the souls who came before us.
+220	No. All it is is hogwash.
+221	Are you really gone, Tanosuke? Is there really no part of you that remains in there?	VO_ugachi.ugachi_sys_0003
+222	Just remember I won't hold back if you turn on us.	VO_ugachi.ugachi_sys_0001
+223	Of course—I wouldn't have it any other way.	VO_tanosuke.tanosuke_sys_0004
+224	If Tanosuke is truly gone...then I will show you no mercy.
+225	...
+226	Let's see what you're made of!
+227	Ngh!	VO_ugachi.ugachi_sys_0027
+228	I told you this was absurd.
+229	I really...do...hate you.	VO_ugachi.ugachi_sys_0042
+230	Captain Ugachi!
+231	That just leaves you.
+232	I'd suggest you not resist. You'll be at peace soon enough.
+233	Beast Art Evocations! Book One, Ophiuchus!	VO_amane.amane_favorite_0001
+234	What?! That technique...
+235	Book Two, Tigris!
+236	...I can't die yet.
+237	This is all completely useless. You're wasting what little time you have left.
+238	Hyaaaaaah!	VO_amane.amane_sys_0032
+239	!!!
+240	It's over.
+241	?!
+242	What?!
+243	That's...what you get.	VO_ugachi.ugachi_sys_0027
+244	You... You took my last blow...on purpose!
+245	Heh. You know what they say. Lose the battle, but win the war.	VO_ugachi.ugachi_sys_0042
+246	...!
+247	Urgh...	VO_ugachi.ugachi_sys_0027
+248	Captain Ugachi!
+249	Well? Not bad for a human, huh?
+250	Inconceivable...
+251	Urk!!!
+252	No! Captain Ugachi! Your sword arm...!
+253	Playing possum is a dirty trick. But you can't offer any more resistance when you can't even hold a blade.
+254	Ngh! How...dare you...	VO_ugachi.ugachi_sys_0042
+255	No...
+256	That little ploy bought you a few seconds, but that's as much leeway as you get.
+257	It's time to die.
+258	!!!

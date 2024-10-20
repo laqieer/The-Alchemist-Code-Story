@@ -1,0 +1,96 @@
+﻿001	I crawled my way forward to where I stand now, my soul ever rooted in the battlefield.
+002	I once believed I loved to fight, and even after learning that such love was little more than a fleeting infatuation, I still couldn't bear to leave it behind.
+003	I knew of no other way to end conflict, so I continued to swing my axe, through storm and calm alike.
+004	And one of the aspects of that I enjoyed most, all this time, was sparring with you every now and again.
+005	It always made me feel almost as though I'd grown wings on my back.
+006	Urk...	VO_lamia.lamia_battle_0020
+007	What's the matter, Lamia? Surely this isn't your limit!	VO_teresa.teresa_sys_0005
+008	Not even close!
+009	You will most definitely mourn after taking my life. But remember: though a flower may fall, its petals will continue to flutter and dance upon the wind...	VO_teresa.teresa_sys_0029
+010	...even if but for a brief moment in time.
+011	You must fly on, Lamia. You won't tread on flowers anymore, so long as you remain in the air.	VO_teresa.teresa_battle_0019
+012	Ride the winds of battle, and bring ruination where new growth is needed, for yet another thousand nights!
+013	Huzzaaaah!	VO_lamia.lamia_battle_0009
+014	You, and you alone, will never fall to ruin in my eyes.	VO_lamia.lamia_sys_0001
+015	In the language of flowers, you are my happiness...my jasmine.
+016	Lamia. I want you to have this.	VO_teresa.teresa_sys_0001
+017	This pendant! Isn't this your...?	VO_lamia.lamia_sys_0002
+018	Will you listen...to one last request?
+019	Yes, of course!
+020	Wratharis will surely face a great conflict in the near future. Countless innocent people will be affected.	VO_teresa.teresa_sys_0003
+021	I want you to protect those who are unable to protect themselves. Fight on, as fiercely as is needed, to bring an end to the conflict.
+022	I will. I promise.
+023	Hatred does not suit you. Had I fallen by the hands of another, I suspect this poppy would have been stained with hate.	VO_teresa.teresa_sys_0002
+024	There can be no doubt of that. But I believe those other two would have carried on your mission, regardless.	VO_lamia.lamia_sys_0004
+025	I'm so sorry...to have burdened you with so much... I just...
+026	It's no burden. Truly.
+027	I will carry on your will. I will fight to the end.	VO_lamia.lamia_sys_0037
+028	So long as I know you rest in peace, I will fight on with no hatred and no regrets.
+029	Thank you.	VO_teresa.teresa_sys_0033
+030	Heh. There really is nothing more I can teach you, is there?	VO_teresa.teresa_sys_0016
+031	Soon after that day, just as Theresa said, Wratharis was enveloped in war.
+032	Experiments conducted by an underground organization rooted in Wratharis were suddenly exposed as a national endeavor.	VO_kalmia.kalmia_sys_0030
+033	Gluttony Foss then denounced Wratharis, claiming the research to have been stolen from their labs.
+034	Other nations may have been involved as well, but they stayed silent—even the Holy Guard said nothing—so Gluttony Foss felt justified placing the blame squarely on Wratharis, and summarily invaded.
+035	Gluttony Foss demanded all documents and research relating to the experiment be handed over, but Wratharis denied the experiments even occurred, playing innocent to the bitter end.	VO_kalmia.kalmia_battle_0019
+036	Having exhausted most of its resources in the already drawn-out war with Envylia, Wratharis was at a disadvantage during the initial stages of the conflict, which led most to believe it would end quickly.
+037	However, a single knight wielding a spear valiantly fought on, unyielding even against the opposing military juggernaut.
+038	She displayed great determination and willingness to put her life on the line in the name of protecting those who couldn't protect themselves.	VO_kalmia.kalmia_sys_0006
+039	Her inspiring conviction roused the other knights, bringing them back to their feet and giving them the inspiration to fight on.
+040	The war brought great devastation to both armies, and continued until the king of Gluttony Foss ordered a full retreat.
+041	In the end, Wratharis succeeded in keeping Gluttony Foss' army from advancing much beyond the border.	VO_kalmia.kalmia_sys_0005
+042	This extended conflict later came to be known as the Thousand Nights.
+043	I finally had the opportunity to come see you.	VO_lamia.lamia_sys_0030
+044	I did it. I inherited your will, and fought to the end with it...the end of one war, at least.	VO_lamia.lamia_sys_0003
+045	Oh! Hello, Kalmia.
+046	I'll be leaving this country soon, so I figured I'd come pay my respects.
+047	Thank you.	VO_lamia.lamia_sys_0033
+048	For what? The flowers?
+049	Ah, well... That too, but that's...not what I meant.	VO_lamia.lamia_sys_0047
+050	Then what?
+051	I wanted to thank you for fighting with us back then.	VO_lamia.lamia_sys_0002
+052	That's nothing to thank me for. I didn't do it for you.	VO_kalmia.kalmia_sys_0007
+053	We did what we felt was right in the name of ending conflict. Not as Envylian knights, but as fellow opponents to war.
+054	Mm. So you did.	VO_lamia.lamia_sys_0006
+055	What do you plan to do next?
+056	Nothing much different from what I'm doing now. I'll continue to protect Wratharis as a knight. There's still a ways to go before her wishes are completely fulfilled, after all.	VO_lamia.lamia_sys_0004
+057	I see.
+058	Wh-what? Did I say something wrong?	VO_lamia.lamia_sys_0011
+059	Not at all. I just think she'd be very pleased with that answer.
+060	O-oh. Well, it's your turn now! What will you be doing?	VO_lamia.lamia_sys_0001
+061	Mmm... Something only those who've survived the harshest of battles can do.	VO_kalmia.kalmia_sys_0004
+062	If we're to end all wars, we have to look toward the future. We can't be fixated on the past.
+063	Hmm? What's that?
+064	Hold that side! Lift on three, okay? Here we go! One... Two... Three!	VO_priscilla.priscilla_sys_0004
+065	We did it! Nice work. Now the people of this village can get to the main road!
+066	Right, but why are we knights of Envylia helping Wratharis rebuild? It doesn't make a lot of sense.
+067	I understand how you feel, but you heard our captain.	VO_priscilla.priscilla_sys_0003
+068	Now that the war has ended, Envylia is hoping to form an amicable bond with Wratharis. We are to be the bridge facilitating that bond.
+069	Right...
+070	Both countries have been scarred by the fighting. People on both sides of the border are sure to resent the other in some way. But we have to look beyond that and find our common ground.	VO_priscilla.priscilla_sys_0001
+071	Besides which, turning a blind eye to those in need isn't exactly the knightliest thing to do, now, is it?
+072	You're absolutely right.
+073	Would you look at that...
+074	If you hate, all you receive is hate in return. If you rage, all you see is anger from those around you. It's a never-ending cycle.
+075	(The wounded hearts of the people are gradually healing. However, the eyes of those who lost loved ones still show a dark shadow of animosity within them.)	VO_kalmia.kalmia_sys_0030
+076	(And although the fighting may have ended here, there are still battles taking place in distant lands, forever changing the lives of the people who live there. Which is why...)
+077	(...I will keep your will to end all wars alive in my heart. I will end the fighting through whatever means I can.)
+078	All right, everyone! Still a lot of rebuilding left to do, so let's keep at it! How about we take this over to—?	VO_priscilla.priscilla_sys_0007
+079	W-wait! Don't move that yet! It'll lose balance and—!
+080	Huh? Whoa! Aaaaaagh!	VO_priscilla.priscilla_sys_0025
+081	The road to peace is not an easy one to tread. Especially now.	VO_kalmia.kalmia_sys_0011
+082	Phew! I'm glad you came back, Kalmia. Thanks for pulling me out of harm's way!	VO_priscilla.priscilla_sys_0022
+083	When you focus on one thing, you still can't quite see the forest through the trees, can you, Priscilla?
+084	Hey, that's not nice! But, whatever; there's actually something I wanted to show you!	VO_priscilla.priscilla_sys_0016
+085	Oh? What is it?
+086	It's over here! Come on!	VO_priscilla.priscilla_sys_0008
+087	Is this...a garden? Did you make this? When did you even find the time?!	VO_kalmia.kalmia_sys_0025
+088	Lamia was saying she wanted to plant flowers, so we did just that, together.
+089	I know there are more important things that need to be rebuilt first, but...I couldn't quite resist.	VO_priscilla.priscilla_sys_0031
+090	I just thought people might want something nice to look at in times like these. What do you think?
+091	Hmm...
+092	You're right. There are definitely other things that should've been prioritized over this.	VO_kalmia.kalmia_sys_0004
+093	Urgh... I knew it! It was a terrible idea, wasn't it?	VO_priscilla.priscilla_battle_0022
+094	Actually, I think it was a lovely thing to build. Thanks to you knocking this ahead on the list, these flowers can now help the people feel at peace, if but for a moment.
+095	Besides, the more time people spend admiring the flowers, the less time they'll spend on hate, right?	VO_kalmia.kalmia_sys_0008
+096	Yes... Yes, that's exactly right! I knew you'd understand.	VO_priscilla.priscilla_sys_0005

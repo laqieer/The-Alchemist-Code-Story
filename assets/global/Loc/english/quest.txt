@@ -1,0 +1,423 @@
+﻿EFF_UP	Up
+EFF_DOWN	Down
+;バフの説明	 
+BUFF_None	None
+BUFF_Hp	Max HP
+BUFF_HpMax	HP
+BUFF_Mp	MP
+BUFF_MpIni	MP
+BUFF_Atk	ATK
+BUFF_Def	DEF
+BUFF_Mag	MATK
+BUFF_Mnd	MDEF
+BUFF_Rec	Healing Potency
+BUFF_Dex	DEX
+BUFF_Spd	AGI
+BUFF_Cri	Critical
+BUFF_Luk	LUCK
+BUFF_Mov	MOVE
+BUFF_Jmp	JUMP
+BUFF_Assist_Fire	Fire
+BUFF_Assist_Water	Water
+BUFF_Assist_Wind	Wind
+BUFF_Assist_Thunder	Thunder
+BUFF_Assist_Shine	Light
+BUFF_Assist_Dark	Dark
+BUFF_Assist_Poison	Poison
+BUFF_Assist_Paralysed	Paralyze
+BUFF_Assist_Stun	Stun
+BUFF_Assist_Sleep	Sleep
+BUFF_Assist_Charm	Charm
+BUFF_Assist_Stone	Petrify
+BUFF_Assist_Blind	Blind
+BUFF_Assist_DisableSkill	Disable Skills
+BUFF_Assist_DisableMove	Disable Move
+BUFF_Assist_DisableAttack	Disable Attack
+BUFF_Assist_Zombie	Infect
+BUFF_Assist_DeathSentence	Death
+BUFF_Assist_Berserk	Berserk
+BUFF_Assist_Knockback	Knockback
+BUFF_Assist_ResistBuff	Buff Res
+BUFF_Assist_ResistDebuff	Debuff Res
+BUFF_Assist_Stop	Stop
+BUFF_Assist_Fast	Quicken
+BUFF_Assist_Slow	Delay
+BUFF_Assist_AutoHeal	Auto Heal
+BUFF_Assist_Donsoku	Slow Move
+BUFF_Assist_Rage	Rage
+BUFF_Assist_GoodSleep	Deep Sleep
+BUFF_Resist_Fire	Fire Res
+BUFF_Resist_Water	Water Res
+BUFF_Resist_Wind	Wind Res
+BUFF_Resist_Thunder	Thunder Res
+BUFF_Resist_Shine	Light Res
+BUFF_Resist_Dark	Dark Res
+BUFF_Resist_Poison	Poison Res
+BUFF_Resist_Paralysed	Paralyze Res
+BUFF_Resist_Stun	Stun Res
+BUFF_Resist_Sleep	Sleep Res
+BUFF_Resist_Charm	Charm Res
+BUFF_Resist_Stone	Petrify Res
+BUFF_Resist_Blind	Blind Res
+BUFF_Resist_DisableSkill	Silence Res
+BUFF_Resist_DisableMove	Bind Res
+BUFF_Resist_DisableAttack	Daze Res
+BUFF_Resist_Zombie	Infect Res
+BUFF_Resist_DeathSentence	Death Res
+BUFF_Resist_Berserk	Berserk Res
+BUFF_Resist_Knockback	Knockback Res
+BUFF_Resist_ResistBuff	Buff Res
+BUFF_Resist_ResistDebuff	Debuff Res
+BUFF_Resist_Stop	Stop Res
+BUFF_Resist_Fast	Quicken Res
+BUFF_Resist_Slow	Slow Res
+BUFF_Resist_AutoHeal	Auto-Heal Res
+BUFF_Resist_Donsoku	Slow-Move Res
+BUFF_Resist_Rage	Rage Res
+BUFF_Resist_GoodSleep	Deep-Sleep Res
+BUFF_EffectRange	Range
+BUFF_EffectScope	Area
+BUFF_EffectHeight	Height
+BUFF_HitRate	Accuracy
+BUFF_AvoidRate	Avoid
+BUFF_CriticalRate	CRIT%
+BUFF_SlashAttack	Slash
+BUFF_PierceAttack	Pierce
+BUFF_BlowAttack	Strike
+BUFF_ShotAttack	Missile
+BUFF_MagicAttack	Magic
+BUFF_ReactionAttack	Reaction
+BUFF_JumpAttack	Jump ATK
+BUFF_GainJewel	Jewels Gained
+BUFF_GainJewelRate	Jewels Gained
+BUFF_UsedJewelRate	Jewels Spent
+BUFF_UsedJewel	Jewels Spent
+BUFF_ActionCount	Action
+BUFF_GutsRate	Guts
+BUFF_AutoJewel	Auto Jewel
+BUFF_ChargeTimeRate	Charge Time
+BUFF_CastTimeRate	Cast Time
+BUFF_BuffTurn	Buff Duration
+BUFF_DebuffTurn	Debuff Duration
+BUFF_CombinationRange	Combo Range
+BUFF_HpCostRate	HP Rate
+BUFF_SkillUseCount	Skill Count
+BUFF_PoisonDamage	Poison Dmg
+BUFF_PoisonTurn	Poison Duration
+BUFF_Assist_AutoJewel	Auto Jewel
+BUFF_Resist_AutoJewel	Auto-Jewel Res
+BUFF_Assist_DisableHeal	Disable Heal
+BUFF_Resist_DisableHeal	Disable Heal Res
+BUFF_Resist_Slash	Slash Res
+BUFF_Resist_Pierce	Pierce Res
+BUFF_Resist_Blow	Strike Res
+BUFF_Resist_Shot	Missile Res
+BUFF_Resist_Magic	Magic Res
+BUFF_Resist_Reaction	Reaction Res
+BUFF_Resist_Jump	Jump Res
+BUFF_Avoid_Slash	Slash Avoid
+BUFF_Avoid_Pierce	Pierce Avoid
+BUFF_Avoid_Blow	Strike Avoid
+BUFF_Avoid_Shot	Missile Avoid
+BUFF_Avoid_Magic	Magic Avoid
+BUFF_Avoid_Reaction	Reaction Avoid
+BUFF_Avoid_Jump	Jump Avoid
+BUFF_Assist_SingleAttack	Single Target Skill
+BUFF_Assist_AreaAttack	Area Skill
+BUFF_Resist_SingleAttack	Single Target Skill Resist
+BUFF_Resist_AreaAttack	Area Skill Resist
+BUFF_Assist_DecCT	CT-Down
+BUFF_Assist_IncCT	CT-Up
+BUFF_Resist_DecCT	CT-Down Res
+BUFF_Resist_IncCT	CT-Up Res
+BUFF_Assist_ESA_Fire	Strong vs Fire
+BUFF_Assist_ESA_Water	Strong vs Water
+BUFF_Assist_ESA_Wind	Strong vs Wind
+BUFF_Assist_ESA_Thunder	Strong vs Thunder
+BUFF_Assist_ESA_Shine	Strong vs Light
+BUFF_Assist_ESA_Dark	Strong vs Dark
+BUFF_Resist_ESA_Fire	Strong vs Fire Res
+BUFF_Resist_ESA_Water	Strong vs Water Res
+BUFF_Resist_ESA_Wind	Strong vs Wind Res
+BUFF_Resist_ESA_Thunder	Strong vs Thunder Res
+BUFF_Resist_ESA_Shine	Strong vs Light Res
+BUFF_Resist_ESA_Dark	Strong vs Dark Res
+BUFF_UnitDefenseFire	Modify Fire Unit DEF
+BUFF_UnitDefenseWater	Modify Water Unit DEF
+BUFF_UnitDefenseWind	Modify Wind Unit DEF
+BUFF_UnitDefenseThunder	Modify Thunder Unit DEF
+BUFF_UnitDefenseShine	Modify Light Unit DEF
+BUFF_UnitDefenseDark	Modify Dark Unit DEF
+BUFF_Assist_MaxDamageHp	Max HP Dmg
+BUFF_Assist_MaxDamageMp	Max MP Dmg
+BUFF_Resist_MaxDamageHp	Max HP Dmg Res
+BUFF_Resist_MaxDamageMp	Max MP Dmg Res
+BUFF_Tokkou	Strong vs
+BUFF_Assist_SideAttack	Side ATK
+BUFF_Assist_BackAttack	Back ATK
+BUFF_Resist_SideAttack	Side ATK Res
+BUFF_Resist_BackAttack	Back ATK Res
+BUFF_Assist_ObstReaction	REACTION BLOCK
+BUFF_Resist_ObstReaction	REACTION BLOCK RESIST
+;状態の説明	 
+COND_Poison	Poison
+COND_Paralysed	Paralyze
+COND_Stun	Stun
+COND_Sleep	Sleep
+COND_Charm	Charm
+COND_Stone	Petrify
+COND_Blindness	Blind
+COND_DisableSkill	Disable Skills
+COND_DisableMove	Disable Move
+COND_DisableAttack	Disable Attack
+COND_Zombie	Infect
+COND_DeathSentence	Death
+COND_Berserk	Berserk
+COND_DisableKnockback	Disable Knockback
+COND_DisableBuff	Disable Buffs
+COND_DisableDebuff	Disable Debuffs
+COND_Stop	Stop
+COND_Fast	Quicken
+COND_Slow	Delay
+COND_AutoHeal	Regenerate
+COND_Donsoku	Slow Move
+COND_Rage	Rage
+COND_GoodSleep	Deep Sleep
+COND_AutoJewel	Regenerate
+COND_DisableHeal	Disable Heal
+COND_DisableSingleAttack	Disable Single Target Skills
+COND_DisableAreaAttack	Disable Area Skills
+COND_DisableDecCT	Disable CT-Down
+COND_DisableIncCT	Disable CT-Up
+COND_DisableEsaFire	Disable [Strong vs Fire]
+COND_DisableEsaWater	Disable [Strong vs Water]
+COND_DisableEsaWind	Disable [Strong vs Wind]
+COND_DisableEsaThunder	Disable [Strong vs Thunder]
+COND_DisableEsaShine	Disable [Strong vs Light]
+COND_DisableEsaDark	Disable [Strong vs Dark]
+COND_DisableMaxDamageHp	Disable Max HP Dmg
+COND_DisableMaxDamageMp	Disable Max MP Dmg
+COND_DisableSideAttack	Disable Side ATK
+COND_DisableBackAttack	Disable Back ATK
+COND_DisableObstReaction	DISABLE REACTION BLOCK
+COND_DisableForcedTargeting	DISABLE FORCED TARGET
+;CT減少/増加表示	 
+POP_DEC_CT	CT {0} Down
+POP_INC_CT	CT {0} UP
+;オブジェクト関連の説明	 
+UN_GM_GEM	Recover Soul Jewels
+UN_GM_GEM_HEAL	Bonus HP Recovery Effect
+UN_GM_GEM_HEAL_BLACK	If you take this, the Black Knight will...!
+UN_GM_GEM_MOVE	Bonus MOVE Effect
+UN_GM_GEM_CRITICAL	Bonus CRIT Rate Effect
+UN_GM_GEM_YUTO01	Switch α
+UN_GM_GEM_YUTO02	Switch β
+UN_GM_GEM_BARRIER	Misc Jewels
+UN_GM_GEM_TRAP_01	? Jewels
+UN_GM_GEM_TRAP_02	? Jewels
+UN_GM_GEM_TRAP_03	? Jewels
+UN_GM_GEM_TRAP_04	? Jewels
+UN_GM_GEM_KAIMON_SWITCH	Gate Switch
+UN_GM_GEM_ALSO_SPRACH_04_MOVE	Bonus MOVE Effect
+UN_GM_GEM_ALSO_SPRACH_04_ATK	Bonus PATK Effect
+UN_GM_GEM_ALSO_SPRACH_04_DEF	Bonus PDEF Effect
+UN_GM_GEM_ALSO_SPRACH_04_MAG	Bonus MATK Effect
+UN_GM_GEM_ALSO_SPRACH_04_MND	Bonus MDEF Effect
+UN_GM_GEM_ALSO_SPRACH_04_HEAL	Bonus HP Recovery Effect
+TELOP_WITHDRAW	Retreat
+;ユニット詳細表示関連	 
+BUD_LS_NO_NAME	None
+BUD_ELEMENT	Elemental Res
+BUD_TAG	Type
+BUD_ATK_DETAIL	Current Buffs and Debuffs
+BUD_COND	Current Statuses
+BUD_AD_SLASH	Slash
+BUD_AD_STAB	Thrust
+BUD_AD_BLOW	Strike
+BUD_AD_SHOT	Missile
+BUD_AD_MAGIC	Magic
+BUD_AD_JUMP	JUMP
+BUD_AD_ASSIST	ATK Power
+BUD_AD_RESIST	Res
+BUD_AD_AVOID	Evasion
+BUD_AD_ALL_HIT	All Hit
+BUD_AD_ALL_AVOID	All Evasion
+BUD_AD_ALL_RECOVER	Healing
+BUD_AD_UP	Up
+BUD_AD_DW	Down
+BUD_COND_SHIELD_DETAIL	Shield ({0})
+BUD_COND_SHIELD_DETAIL_COUNT	{0}x left
+BUD_COND_SHIELD_DETAIL_HP	HP {0}
+BUD_COND_SHIELD_DETAIL_LIMIT	Limit: {0}
+BUD_COND_SHIELD	Shield
+BUD_COND_FORCED_TARGETING	Forced Target
+BUD_COND_BE_FORCED_TARGETED	Be Forced Target
+BUD_COND_PROTECT	Cover
+BUD_COND_GUARD	Covered Position
+BUD_COND_POISON	Poison
+BUD_COND_PARALYSED	Paralysis
+BUD_COND_STUN	Stun
+BUD_COND_SLEEP	Sleep
+BUD_COND_CHARM	Charm
+BUD_COND_STONE	Petrify
+BUD_COND_BLINDNESS	Blind
+BUD_COND_DISABLESKILL	Silence
+BUD_COND_DISABLEMOVE	Bind
+BUD_COND_DISABLEATTACK	Daze
+BUD_COND_ZOMBIE	Infect
+BUD_COND_DEATHSENTENCE	Death Sentence
+BUD_COND_BERSERK	Berserk
+BUD_COND_DISABLEKNOCKBACK	Knockback Immunity
+BUD_COND_DISABLEBUFF	Disable Buffs
+BUD_COND_DISABLEDEBUFF	Disable Debuffs
+BUD_COND_STOP	Stop
+BUD_COND_FAST	Quicken
+BUD_COND_SLOW	Delay
+BUD_COND_AUTOHEAL	Auto Heal
+BUD_COND_DONSOKU	Slow
+BUD_COND_RAGE	Rage
+BUD_COND_GOODSLEEP	Slumber
+BUD_COND_AUTOJEWEL	Jewel Auto Charge
+BUD_COND_DISABLEHEAL	Disable Heal
+BUD_COND_DISABLESINGLEATTACK	Disable Single Target ATK
+BUD_COND_DISABLEAREAATTACK	Disable Area ATK
+BUD_COND_DISABLEDECCT	CT-Down Disabled
+BUD_COND_DISABLEINCCT	CT-Up Disabled
+BUD_COND_DISABLEESAFIRE	Disable [Strong vs Fire]
+BUD_COND_DISABLEESAWATER	Disable [Strong vs Water]
+BUD_COND_DISABLEESAWIND	Disable [Strong vs Wind]
+BUD_COND_DISABLEESATHUNDER	Disable [Strong vs Thunder]
+BUD_COND_DISABLEESASHINE	Disable [Strong vs Light]
+BUD_COND_DISABLEESADARK	Disable [Strong vs Dark]
+BUD_COND_DISABLEMAXDAMAGEHP	Disable Max HP Dmg
+BUD_COND_DISABLEMAXDAMAGEMP	Disable Max MP Dmg
+BUD_COND_DISABLESIDEATTACK	Disable Side ATK
+BUD_COND_DISABLEBACKATTACK	Disable Back ATK
+BUD_COND_DISABLEOBSTREACTION	Disable Reaction Block
+BUD_COND_DISABLEFORCEDTARGETING	Disable Forced Target
+BUD_COND_DESC	<color=yellow>{0}: </color>{1}
+BUD_COND_DESC_SHIELD	Decreases Dmg from specific attacks. The decrease rate, number of instances and upper limit, etc., depends on the specific shield.
+BUD_COND_DESC_FORCED_TARGETING	If within the range of an enemy inflicted with "Be Forced Target", the enemy's target can be fixed to you.
+BUD_COND_DESC_BE_FORCED_TARGETED	The target of the skill is fixed to enemies inflicted with "Forced Target" within range.
+BUD_COND_DESC_PROTECT	Take Dmg for ally units within target area.
+BUD_COND_DESC_GUARD	In "Cover" stance.
+BUD_COND_DESC_POISON	Inflicts a specific number of Poison Dmg instances.
+BUD_COND_DESC_PARALYSED	Specific chance of being unable to act under this status.
+BUD_COND_DESC_STUN	Unit becomes unable to act.
+BUD_COND_DESC_SLEEP	A sleeping unit is unable to act. Unit wakes up when receiving Dmg.
+BUD_COND_DESC_CHARM	Unit acts automatically, mistaking friends for foes.
+BUD_COND_DESC_STONE	Unit becomes unable to act. While petrified, units do not auto-heal over time. When all units are petrified, they are considered dead, and you lose the battle.
+BUD_COND_DESC_BLINDNESS	Decreases ATK hit rate.
+BUD_COND_DESC_DISABLESKILL	Unit becomes unable to use skills.
+BUD_COND_DESC_DISABLEMOVE	Unit becomes unable to move. Static attacks are possible.
+BUD_COND_DESC_DISABLEATTACK	Unit becomes unable to attack in any way. Moving is possible.
+BUD_COND_DESC_ZOMBIE	Unit gains zombie status.
+BUD_COND_DESC_DEATHSENTENCE	If not cancelled, unit will die after a specific number of turns.
+BUD_COND_DESC_BERSERK	Unit becomes uncontrollable, and is controlled by AI.
+BUD_COND_DESC_DISABLEKNOCKBACK	Makes knockback ineffective.
+BUD_COND_DESC_DISABLEBUFF	Makes buffs ineffective.<br>(Except for passives)
+BUD_COND_DESC_DISABLEDEBUFF	Makes debuffs ineffective.<br>(Except for passives)
+BUD_COND_DESC_STOP	No turns for specific duration, skipping all actions.
+BUD_COND_DESC_FAST	Unit's turn comes around quicker.
+BUD_COND_DESC_SLOW	Unit's turn comes around more slowly.
+BUD_COND_DESC_AUTOHEAL	Unit's HP automatically recovers.
+BUD_COND_DESC_DONSOKU	Move range is decreased.
+BUD_COND_DESC_RAGE	Unit becomes limited to attacking only specific types of foes.
+BUD_COND_DESC_GOODSLEEP	Unit gains slumber effect while sleeping.
+BUD_COND_DESC_AUTOJEWEL	Unit's jewels automatically recover.
+BUD_COND_DESC_DISABLEHEAL	Regeneration is cancelled.
+BUD_COND_DESC_DISABLESINGLEATTACK	Single target attacks become ineffective.
+BUD_COND_DESC_DISABLEAREAATTACK	Area attacks become ineffective.
+BUD_COND_DESC_DISABLEDECCT	Decreased charge time effect is disabled.
+BUD_COND_DESC_DISABLEINCCT	Increased charge time effect is disabled.
+BUD_COND_DESC_DISABLEESAFIRE	How to Disable [Strong vs Fire]
+BUD_COND_DESC_DISABLEESAWATER	How to Disable [Strong vs Water]
+BUD_COND_DESC_DISABLEESAWIND	How to Disable [Strong vs Wind]
+BUD_COND_DESC_DISABLEESATHUNDER	How to Disable [Strong vs Thunder]
+BUD_COND_DESC_DISABLEESASHINE	How to Disable [Strong vs Light]
+BUD_COND_DESC_DISABLEESADARK	How to Disable [Strong vs Dark]
+BUD_COND_DESC_DISABLEMAXDAMAGEHP	How to Disable Max HP Dmg
+BUD_COND_DESC_DISABLEMAXDAMAGEMP	How to Disable Max MP Dmg
+BUD_COND_DESC_DISABLESIDEATTACK	How to Disable Side ATK
+BUD_COND_DESC_DISABLEBACKATTACK	How to Disable Back ATK
+BUD_COND_DESC_DISABLEOBSTREACTION	How to disable Reaction Block
+BUD_COND_DESC_DISABLEFORCEDTARGETING	How to disable Forced Target
+;天候関連	 
+WEATHER_DESC	<color=yellow>{0}: </color>{1}
+BUFF_CriticalDamageRate	CRIT Damage
+BUFF_NoDivAttack	No Division
+BUFF_Resist_NoDiv	No Division Res
+BUFF_Avoid_NoDiv	No Division Evasion
+BUFF_Resist_BuffHpMax	HP Buff Res
+BUFF_Resist_BuffAtk	ATK Buff Res
+BUFF_Resist_BuffDef	DEF Buff Res
+BUFF_Resist_BuffMag	Mag Buff Res
+BUFF_Resist_BuffMnd	MDEF Buff Res
+BUFF_Resist_BuffRec	Healing Buff Res
+BUFF_Resist_BuffDex	DEX Buff Res
+BUFF_Resist_BuffSpd	Speed Buff Res
+BUFF_Resist_BuffCri	CRIT Buff Res
+BUFF_Resist_BuffLuk	LUCK Buff Res
+BUFF_Resist_BuffMov	MOVE Buff Res
+BUFF_Resist_BuffJmp	JUMP Buff Res
+BUFF_Resist_DebuffHpMax	HP Debuff Res
+BUFF_Resist_DebuffAtk	ATK Debuff Res
+BUFF_Resist_DebuffDef	DEF Debuff Res
+BUFF_Resist_DebuffMag	Mag Debuff Res
+BUFF_Resist_DebuffMnd	MDEF Debuff Res
+BUFF_Resist_DebuffRec	Healing Debuff Res
+BUFF_Resist_DebuffDex	DEX Debuff Res
+BUFF_Resist_DebuffSpd	Speed Debuff Res
+BUFF_Resist_DebuffCri	CRIT Debuff Res
+BUFF_Resist_DebuffLuk	LUCK Debuff Res
+BUFF_Resist_DebuffMov	MOVE Debuff Res
+BUFF_Resist_DebuffJmp	JUMP Debuff Res
+BUD_AD_ALL_CRI_DMG	CRIT Damage
+BUFF_Assist_ForcedTargeting	Forced Target
+BUFF_Resist_ForcedTargeting	Forced Target Resist
+BUFF_Tokubou	Tokubou
+BUFF_Assist_DisableSupport	Disable Support
+BUFF_Resist_DisableSupport	No Support Resist
+BUFF_Assist_Bomb	Alchemic Overload
+BUFF_Resist_Bomb	Alchemic Overload Resist
+BUFF_Assist_Slip	Alchemic Crush
+BUFF_Resist_Slip	Alchemic Crush Resist
+BUFF_Assist_Freeze	Alchemic Freeze
+BUFF_Resist_Freeze	Alchemic Freeze Resist
+COND_DisableSupport	Disable Support
+COND_Bomb	Bomb
+COND_Slip	Slip
+COND_Freeze	Freeze
+BUD_COND_BOMB_DETAIL	Alchemic Overdrive ({0} turn(s), {1} Jewel(s))
+BUD_COND_SLIP_DETAIL	Alchemic Crush
+BUD_COND_FREEZE_DETAIL	Solidify ({0} turn(s))
+BUD_COND_DISABLESUPPORT	Disable Support
+BUD_COND_BOMB	Alchemic Overload
+BUD_COND_SLIP	Alchemic Crush
+BUD_COND_FREEZE	Alchemic Freeze
+BUD_COND_DESC_DISABLESUPPORT	You will not be able to support. Moving is possible.
+BUD_COND_DESC_BOMB	If it isn't cancelled, damage will be received after a number of turns.
+BUD_COND_DESC_SLIP	If it isn't cancelled, damage will be received after each turn.
+BUD_COND_DESC_FREEZE	Cannot attack due to your turn being disabled for a period of time. After receiving Dmg it will be cancelled, though Dmg received will increase.
+BUD_COND_DESC_ADD_BOMB	<color=magenta>{0} turn(s) remaining<br>Dmg: {1}<br>Jewels remaining for cancelling: {2}</color>
+BUD_COND_DESC_ADD_SLIP	<color=magenta>Dmg: {0}<br>{1} turn(s) remaining</color>
+BUD_AD_ALL_REFLECTION	{0} Reflect
+BUD_AD_ALL_ABSORPTION	{0} Absorb
+BUD_AD_PHYDAMAGE	Phys Dmg
+BUD_AD_MAGDAMAGE	Mag Dmg
+BUD_AD_TOTALDAMAGE	Phys/Mag Dmg
+BUD_AD_ADDMSG	・
+BUD_AD_ELEM_NONE	Non-Type
+BUD_AD_ELEM_FIRE	Fire
+BUD_AD_ELEM_WATER	Water
+BUD_AD_ELEM_WIND	Wind
+BUD_AD_ELEM_THUNDER	Thunder
+BUD_AD_ELEM_SHINE	Light
+BUD_AD_ELEM_DARK	Dark
+UN_GM_GEM_DUNG_TOWER_F13_16	
+UN_GM_GEM_HEAL_DUNG_TOWER_F13_16	
+UN_GM_GEM_MOVE_DUNG_TOWER_F13_16	
+UN_GM_GEM_ATK_DUNG_TOWER_F13_16	
+UN_GM_GEM_DEF_DUNG_TOWER_F13_16	
+UN_GM_GEM_MAG_DUNG_TOWER_F13_16	
+UN_GM_GEM_MND_DUNG_TOWER_F13_16	

@@ -1,0 +1,90 @@
+﻿001	Hyaahhh!	VO_daisy.daisy_battle_0007
+002	Hmm... Something isn't right.	VO_daisy.daisy_sys_0031
+003	You're pretty spirited today, little savage.	VO_rish.rish_sys_0002
+004	Richie!	VO_daisy.daisy_sys_0025
+005	So you're aiming to be number one in that sports thing?	VO_rish.rish_sys_0001
+006	It's not just any old sports thing! It's the Phantom Skirmish Sports Festival!	VO_daisy.daisy_sys_0016
+007	I'm sure Leema will team up with me again if I become number one!	VO_daisy.daisy_battle_0019
+008	Oh, right! Leema is the mechanic who makes all my mech gear, by the way.
+009	I know, I know. She's your partner, right? Wait, are you two not working together anymore?	VO_rish.rish_sys_0004
+010	Ungh... Waaah! She said there's no way we can win at the Mech War Games together! She said I'm too i-impractical!	VO_daisy.daisy_sys_0019
+011	Unnghhh... How could she say such a thing after becoming a Phantom?! Leema's a demon! A beast! A... A machine freak!	VO_daisy.daisy_sys_0018
+012	Jeez you're annoying... Wouldn't this be a good opportunity for you to observe the different ways in which other people operate? That's probably why Leema said such a thing to you.	VO_rish.rish_battle_0019
+013	I don't know about that, but if I become number one, then we can start over for sure!	VO_daisy.daisy_battle_0019
+014	Did Leema say that?	VO_rish.rish_battle_1010
+015	Leema said that for now, I have to gain more experience through battles.	VO_daisy.daisy_sys_0020
+016	Hmm... Come to think of it, is there prize money for this sports festival?	VO_rish.rish_sys_0031
+017	Yeah! Leema said so!	VO_daisy.daisy_sys_0004
+018	I see, so they're... Well. In any case, you should go back to practicing. This is no time to be crying.	VO_rish.rish_sys_0045
+019	Y-yeah... You're right. Of course!	VO_daisy.daisy_sys_0004
+020	(It's almost admirable how fast she can change gears.)	VO_rish.rish_sys_0030
+021	It needs to be more like "Zoom!" and "Wham!" and stuff, you know? According to Reagan's Theory on Mechanical Engineering, this should go like...	VO_daisy.daisy_sys_0031
+022	Hmm... So you're even getting wrapped up in Reagan's Theory, are you?	VO_rish.rish_sys_0044
+023	Hahah! I'll do whatever it takes to win at the Mech War Games!	VO_daisy.daisy_sys_0007
+024	Also, Leema told me that most of the techniques for the Mech War Games are actually explained by Reagan's Theory.
+025	Oh?	VO_rish.rish_sys_0031
+026	Wouldn't it be better if you simply had Reagan teach you about mechanical engineering directly?	VO_rish.rish_sys_0001
+027	Wait, can I?! Richie, do you know Reagan or something?!	VO_daisy.daisy_sys_0025
+028	No, I don't. He's from another time. It doesn't matter if one knows him or not, though. He's a Phantom, so if you want to ask him something, all you need to do is summon him.	VO_rish.rish_event_1006
+029	But I've never talked to him before! Do you think he'd be okay with teaching me?	VO_daisy.daisy_sys_0039
+030	Well, it's all the same to me. Don't push yourself. Anyway, I'm going to go buy one of Elrike's lunches.	VO_rish.rish_sys_0031
+031	(Ugh. Fine. I guess I can lend her a hand.)	VO_rish.rish_sys_0030
+032	Elrike's lunches...
+033	Welcome, welcome! Boxed lunches for sale!	VO_elrike.elrike_sys_0008
+034	We are honored to have won this season's Babel's Next Top Lunch! There are only ten available, so don't delay! Once they're gone, they're gone!
+035	If I wanna be a winner, I need a winner's lunch! I've gotta get one!	VO_daisy.daisy_sys_0025
+036	Thank you for your business!	VO_elrike.elrike_sys_0033
+037	Oh! Oh! Elrike! Can I have one of your lunches?	VO_daisy.daisy_battle_0019
+038	Oh, I'm sorry! I just sold the last one. There were only enough for the first ten people.	VO_elrike.elrike_sys_0036
+039	What?!
+040	(N-no way... I didn't even make it into the top ten!)
+041	How am I supposed to come first in the Mech War Games if I can't even buy a lunch box?	VO_daisy.daisy_sys_0018
+042	Little savage, stop whining in the middle of the street. You're blocking traffic. Here... This is for you.	VO_rish.rish_battle_1010
+043	Wow! Thanks, Richie!	VO_daisy.daisy_sys_1024
+044	You know, you spend far too much time dilly-dallying. That's why you miss your chance at things like buying lunch boxes.	VO_rish.rish_sys_0030
+045	You're not much of a thinker, so why don't you try talking to someone about what's going on inside that head of yours, instead of trying to mull it all over alone?
+046	For example... Why don't you talk to Teona? She uses a lance, like you, and she's champion of the Colosseum.	VO_rish.rish_sys_0031
+047	I think learning in an actual fight would be far more effective for someone like you than listening to lectures on theory.
+048	You're right! Richie, thank you! I'm going to go ask her right now!	VO_daisy.daisy_sys_0046
+049	Hey, Teona! Teona...! Teona!	VO_daisy.daisy_sys_0003
+050	Whoa! Daisy? What's wrong?!	VO_theona.theona_sys_0025
+051	So, here's the thing! I wanna be number one, but...
+052	Ah, I see. I understand. (Wow. She's just as Richie described her.)	VO_theona.theona_sys_0045
+053	You do?!	VO_daisy.daisy_sys_0025
+054	Of course. What you have just described is a wall which those who aim for the top often run into. I've seen countless children at the training school hit that very wall.	VO_theona.theona_sys_0005
+055	What should I do? I want to perfect my use of mech gear and become the best, but nothing seems to go my way!	VO_daisy.daisy_sys_0030
+056	I want to gallantly soar through the air, gracefully strike, and show off my lance with a bam, but even though Leema made the coolest weapon in the world for me...
+057	No matter what I do, I just can't get it right!	VO_daisy.daisy_sys_0018
+058	Now Leema's upset with me, and it's probably because I'm not making the best use of my mech gear.
+059	Hmm...	VO_theona.theona_sys_0031
+060	All right. I have an idea. Leave it to me, Daisy!	VO_theona.theona_sys_0007
+061	An...idea?
+062	I came to the arena because Teona told me to, but I wonder what she has planned?	VO_daisy.daisy_sys_0031
+063	Whoa, there're so many people! Oh, wow! Even Reagan is here! I can't believe I finally get to meet him!	VO_daisy.daisy_sys_1024
+064	Ah, it looks like the best of the best have gathered, so... Let us begin!	VO_theona.theona_sys_0010
+065	Begin? What do you mean, begin?	VO_regen.regen_sys_0025
+066	Yeah! You've got a lot of nerve summoning us here! Explain yourself!	VO_dorothea.dorothea_sys_0014
+067	Oh, please excuse me. I got a little ahead of myself just now.	VO_theona.theona_chara_1006
+068	Ahem... Thank you all for coming here today! I have called you here for one reason, and one reason only!
+069	In order for us to train for the rapidly approaching Phantom Skirmish Sports Festival, I have prepared a special training exercise for you all!
+070	It's called... The Survival Race!
+071	Survival...Race?	VO_dhiruga.dhiruga_sys_0006
+072	Let me explain. Do you seek power?	VO_theona.theona_sys_0007
+073	Power...?
+074	Can you be more specific?	VO_vivi.vivi_sys_0031
+075	What exactly do you mean?	VO_reyda.reyda_sys_0016
+076	Teona, what are you talking about?
+077	(Oh! I get it, now! Teona must be doing this for me!)	VO_daisy.daisy_sys_0025
+078	Yes, yes, yes, yes! I want power! I want to be number one!	VO_daisy.daisy_sys_0006
+079	That's the spirit! Two Teona Points for you!	VO_theona.theona_sys_0007
+080	What the heck are Teona Points? Also, why are you the one in charge?!	VO_charis.charis_sys_0030
+081	Well, someone has to run this thing, don't they?	VO_theona.theona_sys_0006
+082	I've already had my fare share of the spotlight, so I think I'm fit to be an impartial judge. There's nothing holding me back, so to speak.	VO_theona.theona_sys_0022
+083	You're not making any darn sense!	VO_megistus.megistus_sys_0002
+084	Minus Teona Points to you nit-picky people! We're past the point of no return now, just so you all know.	VO_theona.theona_sys_0016
+085	Here, in this holy arena, with weapons in hand, you will put your very souls on the line and fight for victory!
+086	You know this isn't the arena you fought at... She's not even listening.	VO_megistus.megistus_sys_0016
+087	Now, then. First, I would like to have you show off your powers for me!	VO_theona.theona_sys_0010
+088	Show off for you? How are we meant to do that?	VO_vivi.vivi_sys_0005
+089	Over here are some monsters, freshly caught. They've been causing trouble in the area, you see.	VO_theona.theona_sys_0004
+090	Don't be shy! Punish them!	VO_theona.theona_sys_0007

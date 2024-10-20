@@ -1,0 +1,74 @@
+﻿001	...	VO_julia.julia_sys_0016
+002	A smile on every face, was it?
+003	(But how can I enjoy myself, knowing that same joy is denied to Lady Emmel?)	VO_julia.julia_battle_0022
+004	(And all because I failed in my duty...)
+005	No, that's enough brooding. I have a job to do.	VO_julia.julia_sys_0031
+006	(It's that teddy bear again.)
+007	(It really does look a little like Lord Nimul...)	VO_julia.julia_sys_0006
+008	Roll up, roll up! Fancy your hand at the ring toss, miss?
+009	Hey, I remember you! You're that guard who was staring a hole in my teddy bear!	VO_mob-saga_omale.mob-saga_omale_sys_0006
+010	I... I did not realize I was so fascinated.	VO_julia.julia_sys_0026
+011	You sure were! Your friends almost bust a gut trying to win it for you, you know.	VO_mob-saga_omale.mob-saga_omale_sys_0004
+012	They... Blanchett and Ramses have been very kind to me.	VO_julia.julia_sys_0004
+013	...
+014	Hey, did you hear about that wonder potion? They say it works super fast!	VO_mob-saga_female.mob-saga_female_sys_0003
+015	Yeah, I did! Do you think it's safe? I've seen a lot of people with it here!	VO_knightm.knightm_sys_0004
+016	Hm?	VO_julia.julia_sys_0025
+017	Can either of you explain how this fight came about?	VO_rameses.rameses_sys_0003
+018	It's this maniac's fault! First he comes at me with an axe, then he's got the nerve to tell me it was "just a prank"! I practically had a heart attack!	VO_thiefm.thiefm_sys_0016
+019	C'mon, man, I was just trynna spook you! The best trick of the night gets a prize, right?
+020	Wait. Who told you that?	VO_rameses.rameses_sys_0025
+021	Ramses! Blanchett! We have a problem. Somehow, the townsfolk have found out about this contest of yours.	VO_cheryl.cheryl_battle_0019
+022	I beg your pardon?
+023	Some of them have become a little...overenthusiastic, shall we say. We have kept them under control so far, but we can't hold out forever.	VO_rosa.rosa_sys_0030
+024	I don't get it. How did this happen?
+025	Well, um... About that.
+026	We think Rosa's children mistook the contest for an official event... So they've been spreading the news to everybody they can.	VO_cheryl.cheryl_sys_0030
+027	Yes, fine! It's all my fault, again! Why do you think I'm trying so hard to clean up this mess?!	VO_rosa.rosa_sys_0029
+028	If anyone bears responsibility for this, it is me. This contest was my idea, after all.	VO_rameses.rameses_chara_1010
+029	I thought it would be the perfect fit for the theme of "Pleasant Surprises."
+030	Yet it has become anything but pleasant! Truly, a blunder for the ages...	VO_rameses.rameses_sys_0029
+031	Oh, Ramses...
+032	Let's not give up yet. We can sit around feeling sorry for ourselves, or we can try to fix this.	VO_cheryl.cheryl_sys_0016
+033	...Indeed. Truer words were never spoken.	VO_rameses.rameses_sys_0004
+034	Eeek!!! What's happening?!	VO_mob-saga_female.mob-saga_female_sys_0026
+035	Whoa! The hell are you playing at?!
+036	I hear screams from over there!	VO_blanchett.blanchett_chara_2001
+037	Let's go!
+038	Yet another pleasant surprise taken too far, this time by you.	VO_cheryl.cheryl_sys_0039
+039	Let me be very clear: a surprise is only 'pleasant' when everybody is sharing in the fun.
+040	This was NOT a pleasant surprise. This was self-centered meanness for your own gain, and I don't want to see it repeated. Am I understood?	VO_cheryl.cheryl_sys_0012
+041	Yes, ma'am.
+042	We're sorry, ma'am.
+043	I think that's the last mischief we'll be seeing from them. After that lecture, I'm sure they're feeling quite contrite.	VO_rosa.rosa_sys_0002
+044	Imagine getting chewed out like that in public. I'd rather die...
+045	...Self-centeredness...	VO_rameses.rameses_sys_0031
+046	Ramses, is something wrong?
+047	Not as such. Only... I am starting to question my own motivations.	VO_rameses.rameses_sys_0030
+048	At first I thought myself driven by a desire to make Julia smile.
+049	But now I wonder whether I simply disliked having to witness her sadness. Perhaps all this was not for her benefit, but for mine.
+050	Are you certain you aren't overthinking this? Surely you just wanted to do a good deed.	VO_rosa.rosa_sys_0031
+051	My gesture failed to resonate with Julia, and that in itself is the proof. Had I truly been sincere, she surely would have listened.	VO_rameses.rameses_chara_1010
+052	Don't say that. When we heard you say you wanted to make her smile, we all knew you meant it.
+053	Why do you think I'm here, helping you? It's because I can tell you're the real deal.	VO_blanchett.blanchett_sys_0004
+054	...
+055	So stop moping and pick yourself up. The sun's got no business looking so glum.	VO_blanchett.blanchett_sys_0016
+056	Try to shine a bit of light into someone's life. Isn't that what being the Successor of the Sun is all about?
+057	Or that's what I think, anyway.	VO_blanchett.blanchett_sys_0022
+058	Blanchett...
+059	What's that you have there? Some kind of...red and black bottle?	VO_cheryl.cheryl_sys_0001
+060	What, this? It's just a potion I got. Figured I could use it in a prank.
+061	A red and black potion?
+062	How odd. I prepared those, but I haven't started handing those out... I meant to do that once the carnival was in full swing.	VO_rosa.rosa_sys_0025
+063	I hope this isn't a repeat of last year's mischief.	VO_cheryl.cheryl_sys_0003
+064	Of course not! They're simple glamour potions to help everyone get into the Halloween spirit.
+065	Glamour potions? What kind?	VO_blanchett.blanchett_sys_0005
+066	They merely give the drinker Ratty ears for a little while. Rather endearing, don't you think?	VO_rosa.rosa_sys_0007
+067	Far better than that first batch I made, anyway. Drinking one of those would turn you into a Ratty from tip to toe.
+068	A complete transformation?! I knew you couldn't be trusted with potions!	VO_cheryl.cheryl_sys_0026
+069	I disposed of them safely, I promise! And I made sure everyone affected was given an antidote that turned them back into a human!
+070	There's an emergency! Someone's prank potions have ended up circulating around the town!	VO_julia.julia_battle_0022
+071	It seems they transform people into monsters!
+072	You can't be serious...	VO_blanchett.blanchett_chara_1003
+073	Numaaa!
+074	Numumu? Numu?! Numyuaaa!	VO_Mrat.Mrat_battle_0001

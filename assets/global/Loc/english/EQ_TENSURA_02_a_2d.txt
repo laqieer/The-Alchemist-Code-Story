@@ -1,0 +1,74 @@
+﻿001	Hey, Albea. What's this Alchemia thing?	VO_riml.riml_sys_0001
+002	That girl from before, Ouroboros, I think? She mentioned that the orcs absorbed too much of it.	VO_riml.riml_sys_0031
+003	Alchemia is the source of power that lies within each and every living creature in Babel.	VO_albell.albell_sys_0004
+004	Magic is performed by manipulating the Alchemia found in nature. Weapons like this which can manipulate Alchemia are called magitek.
+005	Those are some of the ways you can use Alchemia in this world.
+006	Oooh, I see.	VO_riml.riml_sys_0006
+007	And finally, there's Alchemy.	VO_kureto.kureto_sys_0004
+008	You can summon beings called Phantom Soldiers who once lived in other eras through the use of Alchemy. Beings like us.
+009	H-huh?! You two are dead?	VO_riml.riml_sys_0026
+010	Pretty much. But Alchemy is considered a forbidden art, so we cannot tell you any more than that.	VO_albell.albell_sys_0037
+011	...My apologies. You're right.	VO_kureto.kureto_sys_0036
+012	(Seems like it'd be better not to dig too hard into that last topic...)
+013	I gotcha! It sounds like your Alchemia is pretty similar to what we called magicules back in my world.	VO_riml.riml_sys_0045
+014	Which means....	VO_riml.riml_sys_0006
+015	!
+016	Ooh! I'm back to brimming with power! I think I can shapeshift like this!	VO_riml.riml_sys_0046
+017	He...really turned into a human...	VO_albell.albell_sys_0025
+018	Incredible. Even though he was such a little round mochi looking thing a second ago.	VO_kureto.kureto_sys_0044
+019	Yup, it's just as I thought. This world doesn't have magicules, so I just gotta fuel myself with whatever equivalent this world has.	VO_riml.riml_sys_0006
+020	Just as you thought? How did you know?	VO_albell.albell_sys_0002
+021	It was really just a hypothesis. I'm just lucky it worked out.	VO_riml.riml_sys_0005
+022	...
+023	They are beings possessed by a ferocious appetite. They are currently ravaging and devouring their way through the forests of Saga, and accumulating tremendous amounts of Alchemia in their bellies by doing so.	VO_uroboros.uroboros_sys_0006
+024	They will inflict serious damage to Saga if nothing is done to stop them. Not to mention, our worlds will grow more and more tangled in a way that could spell disaster for both of us.
+025	(...Ouroboros might've been referring to the orcs.)	VO_riml.riml_sys_0031
+026	(If it's really them, they will continue to eat to satisfy their never-ending hunger. In which case, they'll also continue to absorb Alchemia.)
+027	...
+028	Is something wrong?	VO_kureto.kureto_sys_0002
+029	Hm? Oh, it's nothing.
+030	It looks like I recovered the use of some of my skills by absorbing some Alchemia just now.	VO_riml.riml_sys_0006
+031	I'm not in peak condition or anything yet, but it should be enough to fight.
+032	Oh, which skills?	VO_kureto.kureto_sys_0006
+033	A couple of my specialties!	VO_riml.riml_sys_0031
+034	Could you give us some examples?	VO_albell.albell_sys_0044
+035	Hm, there's Sticky Thread, Paralysis Breath, Poison Breath, and so on...
+036	Really? Those sound kind of...gross.	VO_albell.albell_sys_0031
+037	Hm, well... That's cause I absorbed them from snakes and centipedes, haha... Oh, I also got Magic Sense!	VO_riml.riml_sys_0011
+038	It lets me take note of the things in my surroundings, so I can use it to figure out where monsters are hiding. It's super useful!	VO_riml.riml_sys_0007
+039	Oh, really?	VO_albell.albell_sys_0006
+040	(Looks like I recovered another skill just now.)
+041	(Hey, Great Sage! It looks like I can use my high-level skills now too, right?)
+042	Answer: You are indeed capable of using Alchemia instead of magicules to perform those skills.	VO_daikenja.daikenja_sys_0015
+043	However, it will take a significant amount of Alchemia to perform any of your high-level skills.
+044	(I see. In that case...)
+045	Huh? You turned back into a slime already?	VO_albell.albell_sys_0005
+046	Yeah. Turns out maintaining a human form consumes a bunch of Alchemia.	VO_riml.riml_sys_0003
+047	I figured it is better not to waste too much Alchemia just in case. I'll turn human again if we run into anyone.	VO_riml.riml_sys_0001
+048	I don't really get it, but if that's what you want, that's fine by me.	VO_kureto.kureto_sys_0004
+049	So, what's the plan? Are we going to vanquish that calamity of yours?	VO_kureto.kureto_sys_0001
+050	No... I fear I haven't recovered my strength yet. For now, we should find my friends.	VO_riml.riml_sys_0031
+051	Ouroboros said she brought some people here with me.
+052	And lucky for me, I've already found one using my Magic Sense. He shouldn't be too far away, so let's head there first.	VO_riml.riml_sys_0006
+053	...I've got to admit, it's little embarrassing to meet him so soon after they all gave me that grand send-off, though...	VO_riml.riml_sys_0011
+054	Oh?
+055	I see. So you went on a journey to fulfill a promise to a dead friend of yours.	VO_kureto.kureto_sys_0045
+056	But aren't you the country's ruler? Is it really okay for you to go wandering off somewhere by yourself?	VO_kureto.kureto_sys_0002
+057	Eh, it's a pretty peaceful place these days. They'll be able to handle things without me for a bit.	VO_riml.riml_sys_0006
+058	Perhaps, but aren't you worried about the comrades you left behind?
+059	Hm. Well, of course I'm going to worry a little bit, but I know that those guys are capable enough. They'll be fine. Totally fine.	VO_riml.riml_sys_0031
+060	I see. You really trust them, huh?	VO_kureto.kureto_sys_0007
+061	...
+062	Albea?	VO_riml.riml_sys_0001
+063	Trust... Sure. That sounds nice in theory.	VO_albell.albell_sys_0016
+064	But do you have any idea how it feels to be left behind by the person you cherish most? I didn't think so.
+065	Matters of the heart aren't so easy.	VO_albell.albell_sys_0030
+066	Huh?
+067	...It's nothing.	VO_albell.albell_sys_0035
+068	H-hey! What did you mean by tha—?	VO_riml.riml_sys_0001
+069	Oomph! Why did you stop all of the sudden?!	VO_riml.riml_sys_0025
+070	Grrrrrrrrrrrrrrr...	VO_Mwolf.Mwolf_battle_0020
+071	...There's something wrong with those beasts.	VO_kureto.kureto_sys_0025
+072	Agreed. It looks like something scared them.	VO_albell.albell_sys_0037
+073	They're coming!	VO_riml.riml_sys_0042
+074	Gwwwaaaaarrrrrggghhhhh!	VO_Mwolf.Mwolf_battle_0028_a

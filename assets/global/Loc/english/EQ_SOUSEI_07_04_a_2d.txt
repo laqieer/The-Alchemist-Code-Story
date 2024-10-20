@@ -1,0 +1,167 @@
+﻿001	So, this is the current condition of the Ire Belt.
+002	Yes. Even though Satna has been destroyed, the earth has already been consumed by the rain of fire.	VO_slba.slba_sys_0004
+003	Reconstruction will take...a very long time.	VO_slba.slba_sys_0030
+004	.........
+005	I'm certain that many villagers lost their lives.
+006	Do you grieve for the people of this Belt who have died?	VO_slba.slba_sys_0046
+007	I'm glad that you are the Invidia Belt's king.
+008	Let us live on together, people of Ire. To live on as survivors is the sole way to indemnify the dead.
+009	Right...	VO_slba.slba_sys_0004
+010	But...
+011	Where are Lord Nimul and the others? I have been told that this airship is needed to move between the regions.
+012	I myself do not know what happened after they were caught in Quence's magic.	VO_slba.slba_sys_0031
+013	Only I was left, alone, by the crater.
+014	I seriously thought I was going to die.	VO_slba.slba_sys_0030
+015	Hm... I am sure they are fine. However...
+016	What can we do for them as we are now?
+017	There is something that we alone can do.	VO_waginao-c.waginao-c_sys_0039
+018	What?!
+019	Lend me your aid so that we may save Nimul and the others!	VO_waginao-c.waginao-c_sys_0041
+020	Why was I sent to this time? How can I find the others?
+021	I don't have enough information to figure that out. But...	VO_nimuru.nimuru_sys_0030
+022	Do I have some idea of what Belt this is?	VO_nimuru.nimuru_sys_0005
+023	Something about it reminds me of the Ire Belt.
+024	The propensity to seek strength and train oneself... But there are differences, of course.
+025	What's the matter? Is this the extent of your strength?
+026	At this rate, gaining rank is a far-off dream for you!
+027	Grr... I'm not done yet!
+028	That's the spirit. You can rest when you're dead! Fight! Train! That's what we live for!
+029	The strength to survive is all those in the Ire Belt desire.
+030	They want the strength to withstand the harsh environment and encroaching flames of corruption.
+031	But they appear to be different somehow.	VO_nimuru.nimuru_sys_0031
+032	If they were just training, that sternness wouldn't be necessary. Wait, are they just training in the first place?
+033	It looks to me as if they're trying to kill each other.	VO_nimuru.nimuru_sys_0030
+034	Hmm... Something's happening.	VO_nimuru.nimuru_sys_0006
+035	You all seem to be working hard, my people.	VO_kubera.kubera_sys_0004
+036	It's Lord Kubera!
+037	Why would he visit such a low-rank training ground?
+038	Well, all the young people here are almost of age. It might be a good time to pair them up so they can grow as soldiers.
+039	No, the time for us to kill each other to grow stronger has passed.	VO_kubera.kubera_sys_0039
+040	The day to take on the Cursed Beast Mammon which—we all have been striving for for generations—is drawing near!
+041	Then, that must mean...!
+042	First, we need weapons. Stronger, tougher blades.	VO_kubera.kubera_sys_0037
+043	Start gathering soldiers ready for slaying a dragon.	VO_kubera.kubera_sys_0001
+044	Yes, sir!
+045	You heard him, soldiers! The time of our end, our final trial, is at hand!
+046	Those who feel they are ready for this moment, ready your gear and gather over here!
+047	Time waits for no one! If you want glory on the battlefield, get ready quickly!
+048	Slay a dragon? Their final trial? What are they talking about?	VO_nimuru.nimuru_sys_0006
+049	However, with all this going on, security has been so tight that I've been unable to get close. Is it even possible to make my way inside?
+050	Hurry! Lagging behind here will result in shame you will never be able to erase as a warrior!
+051	Phew...	VO_nimuru.nimuru_sys_0030
+052	I am skilled in subterfuge magic. With it, I can hide myself using the surrounding magic. Perhaps that would be useful in this situation.
+053	Eulalia is better at this sort of thing than I am, though... Oh!
+054	Just as I thought, the magil in this mansion is different from other kinds I've felt before.	VO_nimuru.nimuru_sys_0031
+055	What is going on in this mansion?
+056	Hm? This presence... Is that you, Nimul?	VO_uroboros-e.uroboros-e_sys_0025
+057	That voice!	VO_nimuru.nimuru_sys_0025
+058	So this is where you've been, Bianca!
+059	Hmm, I honestly thought you'd come save me sooner.	VO_uroboros-e.uroboros-e_sys_0022
+060	It couldn't be helped. After I got tossed into this region, I had no idea where I...	VO_nimuru.nimuru_sys_0001
+061	Save you...? Do you mean to say you are trapped here?
+062	In a manner of speaking. Well, if I put my mind to it, I can probably get out at any time.	VO_uroboros-e.uroboros-e_sys_0031
+063	But I thought that if I wanted to meet back up with you, waiting here was the best way to do it.	VO_uroboros-e.uroboros-e_sys_0007
+064	Oh, I see.	VO_nimuru.nimuru_sys_0004
+065	More importantly!
+066	I have a mountain of things I would like to ask you. You seemed willing to talk about how Quence's spell failed and—	VO_nimuru.nimuru_sys_0002
+067	How to return to your proper time?
+068	That is what I would like to know about the most.	VO_nimuru.nimuru_sys_0005
+069	You said that coming here was the quickest way to reunite with Emmel and the others.
+070	Mmm, it's still a little early for that.	VO_uroboros-e.uroboros-e_battle_0016
+071	In this point in time, moving freely through time is the domain of Space-Time Manipulation.	VO_uroboros-e.uroboros-e_sys_0003
+072	So long as you can't use that, trying to meet up with your friends right away will be hopeless.
+073	What did you say?	VO_nimuru.nimuru_sys_0006
+074	Don't worry. It'll only take ten years.	VO_uroboros-e.uroboros-e_sys_0001
+075	If that's what you really wish to do, spend ten year's time here. That's the most surefire way.
+076	If you do that, you'll return to the time you want.	VO_uroboros-e.uroboros-e_sys_0006
+077	Is that...all right? Won't the future be affected?	VO_nimuru.nimuru_sys_0002
+078	I don't know about that. Space-Time Manipulation is the new possibility you all created.	VO_uroboros-e.uroboros-e_sys_0031
+079	I obviously can't tell you outcomes that haven't come out.
+080	In other words, you deceived me well and good.	VO_nimuru.nimuru_sys_0030
+081	I never lied, but wouldn't it be better to spend ten years on a sure thing rather than endlessly wandering the Cosmic Egg forever like you were?	VO_uroboros-e.uroboros-e_sys_0011
+082	That may be true, but—!	VO_nimuru.nimuru_battle_0022
+083	Keep your voice down. The guards might find you.
+084	Tsk!
+085	There are other things I would like to ask you.	VO_nimuru.nimuru_sys_0001
+086	What did you mean when you said this world did not exist before the birth of the Cursed Beasts?
+087	You never thought about it? No, with all your traveling, you must have thought it was strange.	VO_uroboros-e.uroboros-e_sys_0001
+088	These lands separated by the Beasts' power were once one land of seven sins. That layout has changed far too much.
+089	I guess...
+090	Those seven worlds that you would never have guessed were once the same world... They really weren't the same world at all.	VO_uroboros-e.uroboros-e_sys_0003
+091	What did you just say?	VO_nimuru.nimuru_sys_0006
+092	This world—the consolidated territory of those seven sins—was originally a totally different one.	VO_uroboros-e.uroboros-e_sys_0004
+093	That is, until dragons, who were unwilling to accept the destruction of their world, started to fruitlessly struggle against it long, long ago.
+094	Dragons created the Belt regions?	VO_nimuru.nimuru_sys_0025
+095	Cursed Beasts are just tools for that end. It was people who started calling them Beasts in the first place.	VO_uroboros-e.uroboros-e_sys_0006
+096	To compensate for losing their world, they started to draw in tons of things from beyond. Earth, water, plants, animals...
+097	And then, you humans were dragged into this world.
+098	I see...
+099	This conversation is too vast. Nidhogg, Zafeiris, Selsieg... I've met those who called themselves dragons many times.	VO_nimuru.nimuru_sys_0014
+100	But I was unaware they had power enough to reshape the world that much.
+101	The dragons just created "Gods." Convenient gods that could save them from annihilation.
+102	Gods?
+103	So you have finally set foot in this domain—you, who will pierce the world.	VO_uroboros-c.uroboros-c_sys_0010
+104	Is that...?	VO_nimuru.nimuru_sys_0020
+105	But the dragons still went extinct in the end. And the world was handed down to you humans. But it was a world for dragons.	VO_uroboros-e.uroboros-e_sys_0022
+106	Thus, the law of dragons rules the world.	VO_uroboros-e.uroboros-e_sys_0001
+107	Which is why it's hard to live here. It must be so difficult and painful for you all.
+108	The current world wasn't made for you, after all.	VO_uroboros-e.uroboros-e_sys_0030
+109	It's not our world.
+110	So that's why...?	VO_nimuru.nimuru_sys_0002
+111	All the days spent living in fear of corruption... The tomorrows when we cannot avoid sacrificing someone important to someone else...
+112	All because this world isn't designed for us.	VO_nimuru.nimuru_sys_0030
+113	Well, it's not entirely inhospitable...	VO_uroboros-e.uroboros-e_sys_0031
+114	But most of it.	VO_uroboros-e.uroboros-e_sys_0006
+115	...
+116	Yet, there is a way.	VO_uroboros-e.uroboros-e_sys_0001
+117	I told you before. The Cursed Beasts are a tool for reshaping the world.	VO_uroboros-e.uroboros-e_sys_0007
+118	The anomaly that occurred during your time... The abnormality that happened in the region was caused by that Cursed Beast losing its power.
+119	I thought so.	VO_nimuru.nimuru_sys_0022
+120	But if you defeat them, obtain them, and follow them...	VO_uroboros-e.uroboros-e_sys_0004
+121	Your wish is sure to come true.
+122	You should be able to destroy the current world and remake it for humans.
+123	So how about it, Nimul? We're ready to take you.	VO_uroboros-e.uroboros-e_sys_0001
+124	Will you join forces with us, Nimul?
+125	Us...? Sounds like a devil's bargain... Oh, I see!	VO_nimuru.nimuru_sys_0030
+126	You're also an Infinite Serpent, aren't you?	VO_nimuru.nimuru_sys_0002
+127	Hee hee, you're a perceptive one. But you're a little off.	VO_uroboros-e.uroboros-e_sys_0007
+128	The Infinite Serpent is me. It's my old name.
+129	I suppose I should introduce myself properly. My name is Bianca.
+130	Creator of the Infinite Serpent organization, instigator of the fall of the dragon Zafeiris, and the one who spurred your adventure.
+131	I am the mutineer of this world.	VO_uroboros-e.uroboros-e_sys_0011
+132	Truly?!	VO_nimuru.nimuru_sys_0018
+133	I come to ready the troops, only to find this. What are you doing, priestess of Ouroboros?	VO_kubera.kubera_sys_0001
+134	Thank you, Kubera. I suppose I said a bit too much—just a little.	VO_uroboros-e.uroboros-e_sys_0033
+166	But it couldn't be helped. I've been waiting for so, so, so, sooo long.
+167	The time  is nigh for a human like you who bears the right to—	VO_uroboros-e.uroboros-e_sys_0008
+135	Lord Kubera! You are the leader of this region, right?!	VO_nimuru.nimuru_battle_0022
+136	This girl and the Infinite Serpent are willing to make any sacrifice to achieve their goals!	VO_nimuru.nimuru_sys_0001
+137	If you dance to her tune, this region will surely—
+138	I am aware.	VO_kubera.kubera_sys_0037
+139	What?	VO_nimuru.nimuru_sys_0006
+140	To us, war is the meaning of life. It's instinct. Our pastime. The very breath in our lungs.	VO_kubera.kubera_sys_0003
+141	The meaning of life...
+142	We all want to become stronger.	VO_kubera.kubera_sys_0004
+143	From the moment we're born. Even as babies, we bleed and sharpen our fangs.
+144	Trading even the world itself for strength is not unthinkable for such creatures as we are.	VO_kubera.kubera_sys_0010
+145	How can you say that?!	VO_nimuru.nimuru_sys_0018
+146	We seek the honor of being the strongest. There is no room for anyone to argue. None.
+147	That is why we live, and that will be why we die.
+148	You've never found this way of life...empty?	VO_nimuru.nimuru_sys_0002
+149	Never. Just considering such as thing is a waste of our time.
+150	The citizens of Greed as I know them are very different from you and yours.	VO_nimuru.nimuru_sys_0030
+151	Oh?	VO_kubera.kubera_sys_0012
+152	One man I know wants to make gear for others.	VO_nimuru.nimuru_sys_0004
+153	He is the kind of person who works hard to protect and nurture something.
+154	Then he is no compatriot of ours.	VO_kubera.kubera_sys_0005
+155	We wield swords before we carry hoes, and come to know violence before love.
+156	We are a pack of bloodthirsty warriors, far from nurturing and protective.	VO_kubera.kubera_sys_0004
+157	That's... How are those the words of a leader?!	VO_nimuru.nimuru_sys_0001
+158	You are a guest from a distant land. We do not require your understanding. We only live to sin as we desire.
+159	You fiend...
+160	We have an intruder! Capture him!	VO_kubera.kubera_sys_0001
+161	Tch...!	VO_nimuru.nimuru_battle_0022
+162	This man is an enemy who would hinder our purpose. Exterminate him according to the laws of our people.
+163	Yes, sir!
+164	I don't know if I have what it takes on my own, but...	VO_nimuru.nimuru_sys_0030
+165	I have to try!

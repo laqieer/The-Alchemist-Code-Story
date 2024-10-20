@@ -1,0 +1,62 @@
+﻿001	Sigh...	VO_lucretia.lucretia_event_1014
+002	(Not again.)	VO_lucretia.lucretia_sys_0030
+003	Do you understand, Queen Lucretia? For the hundredth time, I must inform you that you are the queen of this country!	VO_knightm.knightm_sys_0017
+004	It's true that you have accomplished countless military exploits as a knight. However...!	VO_knightm.knightm_sys_0016
+005	It's outrageous for you to advance past the vanguard on your own and leap into the midst of the enemy troops!
+006	Please, exercise caution and be aware of your position as queen!
+007	Fine, fine. As you've said, I'll be more careful next time.	VO_lucretia.lucretia_sys_0016
+008	Now, excuse me.
+009	Sigh...	VO_lucretia.lucretia_event_1014
+010	(Seriously. I positioned myself at the vanguard because I am aware of my position as queen.)	VO_lucretia.lucretia_sys_0018
+011	Did you receive a scolding again?	VO_gein.gein_sys_0003
+012	Lord Gane...it's you, huh?	VO_lucretia.lucretia_sys_0006
+013	Don't let it get to you. We are all aware of your triumphs on the battlefield, Queen Lucretia.	VO_gein.gein_sys_0020
+014	You are the "flower of the battlefield." Your radiance increases the men's morale.
+015	It's encouraging to hear that. So...what can I do for you?	VO_lucretia.lucretia_sys_0011
+016	Ah, I am simply here to help put my warrior queen at ease and give her respite.	VO_gein.gein_sys_0007
+017	Would you like some tea? I've obtained some good tea leaves.
+018	I appreciate the gesture, but I have business to attend to. Excuse me.	VO_lucretia.lucretia_chara_1003
+019	I see. That's unfortunate. On another occasion, then...	VO_gein.gein_sys_0031
+020	Sigh...	VO_lucretia.lucretia_event_1014
+021	Queen Lucretia! You are very welcome! Please, take your time to look around.	VO_knightf.knightf_sys_0007
+022	Thank you. I'll do that.	VO_lucretia.lucretia_sys_0007
+023	(What a beautiful dress...with such glittering colors...)	VO_lucretia.lucretia_sys_0009
+024	(Oh! This embroidery! And these frills! How adorable...! It's so pretty!)
+025	Ohh...such beauty...	VO_lucretia.lucretia_sys_0024
+026	Is it to your liking?	VO_knightf.knightf_sys_0003
+027	Mm...ahh...it's a stunning dress like always.	VO_lucretia.lucretia_sys_0037
+028	Much appreciated. By the way, the dress that you purchased the other day...	VO_knightf.knightf_sys_0034
+029	Oh, I'm sorry. I still haven't worn it yet. Still, the soft violet color was very beautiful!	VO_lucretia.lucretia_sys_0035
+030	Please, no need to excuse yourself. Thanks to your victories in battle, Queen Lucretia, we can live in peace every day.
+031	However...one day, the war will be over. I pray from the bottom of my heart that I will be able to see you in a dress then, my queen.
+032	Heh. I wonder if anything other than armor would suit me.	VO_lucretia.lucretia_sys_0010
+033	Absolutely, it would! Make no mistake about it!	VO_knightf.knightf_sys_0007
+034	Thank you. When the time comes, please make the ultimate dress.	VO_lucretia.lucretia_sys_0008
+035	Yes. Of course!	VO_knightf.knightf_sys_0004
+036	That's right. I'm in the middle of tailoring a few new dresses. I think you'd like them.
+037	I see! I'm looking forward to them!	VO_lucretia.lucretia_sys_0044
+038	(Well then...I guess I should return soon. Looking at the dresses make me lose track of time.)
+039	Oh? Queen Lucretia... Were you secretly out shopping?	VO_gein.gein_sys_0001
+040	Hm? Oh, you again... What's the matter?	VO_lucretia.lucretia_sys_0006
+041	No...I just happened to be passing by.	VO_gein.gein_event_1001
+042	(Passing by? I feel like he was waiting for me. What a curious person.)	VO_lucretia.lucretia_sys_0031
+043	A clothes shop...	VO_gein.gein_sys_0044
+044	If you wish to wear dresses, then you should summon a tailor to the castle.	VO_gein.gein_sys_0031
+045	After all, you are the queen. That much should be expected...
+046	Sigh... It's true that I come from royalty, but I am also a knight.	VO_lucretia.lucretia_event_1014
+047	During this time of war, I have no time to be dressing up when I must be protecting my people!
+048	Besides, I cannot summon a tailor to the castle.	VO_lucretia.lucretia_sys_0018
+049	Why?	VO_gein.gein_sys_0031
+050	The other day, you called me the "flower of the battlefield," didn't you?	VO_lucretia.lucretia_sys_0001
+051	Yes, indeed, I did. I was not flattering you. Those were my honest words.	VO_gein.gein_sys_0037
+052	Queen Lucretia, when you participate in battle, the morale of the soldiers is completely different. You inspire us all.
+053	I don't necessarily consider myself to be a flower, but I do wish to protect my country and my soldiers.	VO_lucretia.lucretia_sys_0004
+054	If I were to call a tailor to the castle, all my varlets would be overjoyed. They would make me wear one dress after another—none of which would catch my interest.
+055	Eventually, they would stop me from showing myself in battle.	VO_lucretia.lucretia_sys_0018
+056	If that were to happen, it would be the end of your so-called "flower of the battlefield."
+057	Would you be all right with that?	VO_lucretia.lucretia_sys_0010
+058	Hmm...	VO_gein.gein_sys_0005
+059	Queen Lucretia! There you are! I'm here to make a report!
+060	The enemy troops are approaching in droves! Their first wave is already looming up ahead! Please! We await your presence!
+061	You did well to inform me! My horse! I'll join you!	VO_lucretia.lucretia_sys_0009
+062	I'll go as well!	VO_gein.gein_battle_0010

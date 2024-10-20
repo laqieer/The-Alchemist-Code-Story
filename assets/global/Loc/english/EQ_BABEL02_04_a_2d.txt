@@ -1,0 +1,107 @@
+﻿001	Sir Zahar, Hero of the Holy Guard, it is an honor to fight by your side.	VO_thiefm.thiefm_sys_0008
+002	I am grateful for your warm hospitality. Allow me to return the favor by turning myself into an instrument of war for the glory of Wratharis!	VO_zaharu.zaharu_sys_0004
+003	Your words give us strength! For the glory of Wratharis and our fellow brothers!	VO_thiefm.thiefm_sys_0009
+004	Of course.	VO_zaharu.zaharu_sys_0004
+005	Zahar, am I missing something?	VO_niggle.niggle_sys_0031
+006	Why would we be welcomed by the people of Wratharis?
+007	This is something I put in motion years prior.	VO_zaharu.zaharu_sys_0016
+008	I've always intended to leave the accursed Holy Guard and defect to Wratharis.
+009	So I assembled warriors of like mind to escort Letitia over to them.
+010	I had no idea you'd been planning this all along. Who is she exactly?	VO_niggle.niggle_sys_0044
+011	She's a trusted companion who I've known for as long as I can remember.	VO_zaharu.zaharu_sys_0031
+012	A trusted companion...
+013	...
+014	(Zahar's trusted companion? Argh! My left eye! Are you trying to warn me about her?)	VO_niggle.niggle_sys_0029
+015	Corvus, how do you feel about devoting your talents here?	VO_zaharu.zaharu_sys_0002
+016	No man would stand your equal.	VO_zaharu.zaharu_sys_0010
+017	I would have it no other way.	VO_niggle.niggle_sys_0010
+018	Corvus, Letitia, our paths begin here in Wratharis!	VO_zaharu.zaharu_sys_0002
+019	The path to our dreams lies before us, beyond these endless plains, in far-off, distant lands. Hahaha!	VO_laetitia.laetitia_sys_0004
+020	Will the Holy Order just sit idly by, though?	VO_niggle.niggle_sys_0016
+021	We'll just have to show them that we won't be broken by the likes of them.	VO_zaharu.zaharu_sys_0010
+022	...
+023	(The path to our dreams, huh? My dream lies beyond the shadows...but I shall stake it all on you.)
+024	(Zahar became a sworn knight of Wratharis, and not soon after, he distinguished himself at the Battle of Gilrack.)
+025	(He never even used any alchemy, for disdain of intervention by the Holy Guard.)
+026	Gaaargh!	VO_knightm.knightm_battle_0024
+027	Ngh!	VO_knightm.knightm_battle_0025
+028	Hm. Utter weaklings!	VO_zaharu.zaharu_sys_0010
+029	Who the hell is that silver-haired knight?!	VO_knightm.knightm_battle_0019
+030	He's slaughtering all of us! Keep an eye out! He's not like any of the other Wratharis soldiers!	VO_knightm.knightm_sys_0027
+031	(His skill with a blade and strategical prowess have improved yet again. Just how high will you rise, Zahar?)	VO_niggle.niggle_sys_0021
+032	In my absence, you've grown ever stronger... Hahaha... A silver steed... No... a silver lion fights amongst us.	VO_laetitia.laetitia_sys_0025
+033	(Letitia, you're really a complete mystery. Can you even fight?)	VO_niggle.niggle_sys_0031
+034	Yaaaaaaargh!	VO_knightm.knightm_battle_0008
+035	You're in the way!	VO_laetitia.laetitia_battle_0010
+036	Ngh!	VO_knightm.knightm_battle_0024
+037	What was...?	VO_niggle.niggle_sys_1050
+038	(That was blindingly fast! So this is the woman that has earned Zahar's respect, huh?)	VO_niggle.niggle_sys_0022
+039	Hahaha...	VO_laetitia.laetitia_sys_0007
+040	What...?
+041	(I can't let myself lag behind!)	VO_niggle.niggle_sys_0018
+042	Wha—?!	VO_knightm.knightm_sys_0043
+043	Taste my blade of gloom!	VO_niggle.niggle_battle_0004
+044	(Wratharis claimed a decisive victory over Envylia in the skirmish.)
+045	(We charged into battle after battle, leading Wratharis' forces to consecutive victories.)
+046	(Before long...)
+047	It's Zahar!	VO_mob-saga_ymale.mob-saga_ymale_sys_0046
+048	Zahar's returned!	VO_mob-saga_ymale.mob-saga_ymale_sys_0009
+049	Zahar, the Hero of Wratharis!	VO_mob-saga_ymale.mob-saga_ymale_sys_0008
+050	(The people of Wratharis began revering him as a hero.)
+051	Sir Zahar, our alchemical research has started making leaps and bounds in progress.	VO_knightm.knightm_sys_0007
+052	The knowledge you've given us from your time in the Holy Order has been indispensable to our research. We expect more results in the near future!
+053	I am glad to be of service. What was it that you wanted to show me?	VO_zaharu.zaharu_sys_0004
+054	Look! These figures show the quantity of alchemy present.	VO_mob-saga_ymale.mob-saga_ymale_sys_0007
+055	We produced them artificially—
+056	You've been conducting all of this research in secret? For what purpose?	VO_niggle.niggle_sys_0044
+057	The Magna Code and the Alchemist Code are shackles borne from an imperfect entity. They will be obsolete in Zahar's new world.	VO_laetitia.laetitia_sys_0004
+058	I heard you were a Paladin in the Holy Guard at the same time as Zahar. When did you come to Wratharis?	VO_niggle.niggle_sys_0001
+059	...
+060	Bah. Not going to answer me, huh?	VO_niggle.niggle_sys_0010
+061	Corvus.	VO_laetitia.laetitia_sys_0001
+062	It's unusual for you to approach me.	VO_niggle.niggle_sys_0006
+063	What is the significance of that eyepatch?	VO_laetitia.laetitia_sys_0003
+064	To...control my power.	VO_niggle.niggle_sys_0010
+065	Power...? What kind of power?	VO_laetitia.laetitia_sys_0025
+066	I possess a cursed eye passed down through the Leonhart family and inherited by a single member in each generation. The Evil Eye, as it's known, grants me great power...but causes me excruciating pain.	VO_niggle.niggle_chara_1006
+067	I would be consumed by the shadows if it were ever unleashed.
+068	Really now...? What a splendid sight that would be.	VO_laetitia.laetitia_sys_0016
+069	Bah.	VO_niggle.niggle_sys_0010
+070	(She really is one to be wary of.)	VO_niggle.niggle_sys_0029
+071	The Holy Guard?	VO_niggle.niggle_sys_0025
+072	Yes. We've received word that they are planning to raid a Wratharis highborn's estate.	VO_laetitia.laetitia_sys_0004
+073	The home of the Research Director in fact.
+074	I wonder...if we have a mole in our midst.	VO_niggle.niggle_sys_0031
+075	No, it may have been the work of the Corpse. Those filth specialize in reconnaissance.	VO_zaharu.zaharu_chara_1001
+076	It seems we've drawn the attention of some old friends.
+077	What do you think we should do? They are still our enemy. Should we deal with them, or have you something in mind?	VO_niggle.niggle_sys_0016
+078	Wratharis won't be able to fend them off unless we sortie. Although...I may have an amusing idea. What if we were to outwit the scheming wretches?	VO_zaharu.zaharu_sys_0031
+079	Outwit them? In what way?	VO_niggle.niggle_sys_0006
+080	We could, for example, arm ourselves in some very nostalgic raiment.	VO_zaharu.zaharu_sys_0010
+081	You're saying...we should disguise ourselves?	VO_niggle.niggle_sys_0006
+082	(I never thought I'd be in this getup again.)	VO_niggle.niggle_sys_0016
+083	Zahar, they're here.	VO_laetitia.laetitia_sys_0029
+084	...
+085	Hm... You got here quicker than expected.	VO_stknightm.stknightm_sys_0025
+086	You're late. The house is already cleaned out.	VO_zaharu.zaharu_sys_0004
+087	What? How?!	VO_stknightm.stknightm_sys_0026
+088	Hey! What're you wretches doing?!	VO_stknightm.stknightm_battle_0022
+089	You traitorous snakes!!!	VO_stknightm.stknightm_sys_0013
+090	Say you, the snakes who turn their venom upon the world!	VO_zaharu.zaharu_sys_0010
+091	Death to the traitors!	VO_stknightm.stknightm_battle_0025
+092	Now that we've gotten rid of the trash, let's get back.	VO_niggle.niggle_sys_0016
+093	Zahar, I sense someone inside the house.	VO_laetitia.laetitia_sys_0002
+094	What...?	VO_zaharu.zaharu_sys_0025
+095	What the...?!	VO_niggle.niggle_sys_0026
+096	It must be the Corpse!	VO_zaharu.zaharu_sys_0027
+097	This is what they've been planning all along! They're going to burn down the whole place!	VO_laetitia.laetitia_sys_0029
+098	Still rotten to the core, I see! Stop them at once!	VO_zaharu.zaharu_sys_0019
+099	Please! No!	VO_knightm.knightm_sys_0028
+100	Spill his guts to the floor.	VO_thiefm.thiefm_sys_0007
+101	N-no—Aaargh!	VO_knightm.knightm_battle_0027
+102	Kill every last one of them!	VO_thiefm.thiefm_sys_0002
+103	You dogs of the Holy Order...	VO_zaharu.zaharu_sys_0027
+104	Zahar, you wretch... You've made our job here quite the pain.	VO_thiefm.thiefm_sys_0016
+105	I cannot let this sin go unpunished.	VO_zaharu.zaharu_sys_0028
+106	Perfect. You'll die here with the rest of the them then.	VO_thiefm.thiefm_sys_0029
+107	The incessant babbling of a dead man means nothing to me.	VO_zaharu.zaharu_sys_0032

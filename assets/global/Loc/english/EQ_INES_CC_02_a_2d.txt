@@ -1,0 +1,52 @@
+﻿001	Have we...?	VO_ines.ines_sys_0031
+002	Oho! That staff in your hand! That must be the festival staff!
+003	Huh?! Yes, th-that's right...	VO_ines.ines_sys_0026
+004	Amazing! It looks just like in the books. Though the pictures never showed that ornament on the handle before. What does it mean?	VO_craris.craris_sys_0006
+005	And this incense... This is the festival incense, correct? A scent passed down only among the high elves... I'd love to know how it's made!
+006	That bag you're holding, too... Is that where all the festival items are stored? I'm sure the embroidery on it has some kind of meaning as well. Please, tell me all about it!
+007	U-um... Well...	VO_ines.ines_sys_0006
+008	There's so much to learn about the high elves in this forest. Everything you can teach me—I want to know it all! The only real question is, where's the best place to start?
+009	St-stop! Please!	VO_ines.ines_battle_0019
+010	Ines?
+011	A-all these questions, all at once, is...overwhelming! And you seem to know me, but surely this is our first time meeting, is it not?	VO_ines.ines_sys_0003
+012	Huh? N-no, it's—	VO_craris.craris_sys_0025
+013	I have no human acquaintances. Are you trying to trick me in some way?!	VO_ines.ines_sys_0016
+014	Of course not!
+015	I...
+016	......
+017	My sincerest apologies. It seems there's been a misunderstanding.	VO_craris.craris_sys_0036
+018	I'm sorry to have started our meeting off on the wrong foot. My excitement came at the cost of my composure.
+019	That certainly was quite the introduction. Would you care to explain?	VO_nazario.nazario_sys_0022
+020	Sorry. Again. It's just that I'm so happy I could finally be the festival guide!	VO_craris.craris_battle_0019
+021	It's also my first time coming to this forest and meeting high elves, so it's gotten me feeling a little...giddy.
+022	I see.
+023	My stars. Our guide this time around is a curious one indeed.	VO_nazario.nazario_sys_0030
+024	Curious? How so? What, exactly, is it about me that you find unusual?
+025	I would love to know what the high elves' standards for behavior are. What classifies as curious? Odd? Unusual? I genuinely want to know, if...if you'd be so kind as to tell me, of course.
+026	That! That right there.	VO_nazario.nazario_sys_0004
+027	What right where?
+028	...History has shown us that humans tend to fall into one of four categories. Some fear us; some try to take our power; some seek to harm us for profit; and some attempt to use us for their own gain.	VO_nazario.nazario_sys_0031
+029	But at least outwardly, and inasmuch as I can tell from introductions alone, you do not fit any of these categories. I can't read your motives at all. As such, I find you rather curious.
+030	Ahh, I see. So that's what you mean.	VO_craris.craris_sys_0006
+031	......
+032	Do you feel the same way, Ines?	VO_craris.craris_sys_0002
+033	I see...
+034	S-sorry.	VO_ines.ines_sys_0046
+035	There's no need to apologize. I'm the one who should apologize, for prompting such concern.
+036	Given the history between our two races, I completely understand where you're coming from.	VO_craris.craris_sys_0031
+037	So I'll just tell you, my one and only motive is to learn. I want to know everything there is to know in this world, simply for the sake of knowing it.
+038	Of course, there are still plenty of people out there like the ones you mentioned—people of ill intent, whose every move is made to fulfill some selfish end.	VO_craris.craris_sys_0003
+039	But that's why this festival is so important. We need to better understand each other's pain, mourn our collective losses, and pledge never to repeat the tragedies of the past.
+040	We must make sure that all those lives lost in the battles fought between our peoples were not taken in vain.	VO_craris.craris_sys_0005
+041	Claris...
+042	So in order to make sure this festival is a successful one, I want to know absolutely everything about it. That's...why I've been asking so many questions.
+043	Your resolve and reason are so noted. And may I say, your words are most suitable of one descended from those rare few to receive the blessings of the high elves.	VO_nazario.nazario_sys_0006
+044	Thank you so much! That means a lot to hear.	VO_craris.craris_sys_0033
+045	Be that as it may, however, I would ask that you rein in your curiosity a bit. It will be difficult to rely upon you as a guide if you cannot.	VO_nazario.nazario_sys_0022
+046	Right. Sorry. Again.	VO_craris.craris_battle_0019
+047	You will be leading us to the royal capital, no? The journey ahead is a long and treacherous one. And it will be doubly so if we are unable to trust you along the way.
+048	Now hang on just a moment, Nasario! There's no reason to be so rude, and...blunt!	VO_ines.ines_sys_0016
+049	No, no, it's my fault for displaying such poor tact. I am not offended, I assure you!	VO_craris.craris_sys_0030
+050	And from this point on, I shall proudly and dutifully guide you to the royal capital, so please do not be concerned even one moment longer.
+051	Shall we be off, then? I have a carriage waiting for us just beyond the edge of the forest.	VO_craris.craris_sys_0002
+052	......

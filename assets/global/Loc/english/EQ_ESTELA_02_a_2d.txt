@@ -1,0 +1,147 @@
+﻿001	Hello, Amis. You've come back.	VO_estella.estella_sys_0007
+002	Yes. I'm sorry I left in such a hurry the other day. Is everything alright?	VO_amis.amis_sys_0005
+003	What do you mean by alright?	VO_estella.estella_sys_0003
+004	I heard that after we left the other day that the you were threatened by some thug.	VO_amis.amis_sys_0016
+005	There was no need to worry. Being a fortune teller, these things commonly occur.	VO_estella.estella_sys_0006
+007	Did you know who the person was?
+008	No. It was the first time ever seeing him. I have no recollection…	VO_estella.estella_sys_0007
+009	…
+010	In any regards, could you tell me what is concerning you today?	VO_estella.estella_sys_0003
+011	Oh, yes of course. I apologize. First I have to thank you.
+012	After your reading, I evaluated the flow about the preparation of the goods and found some concerns.
+013	I managed to arrange a different route to secure the goods. They almost didn't make it in time for the ceremony.	VO_amis.amis_sys_0011
+014	It was all thanks to your help. But this is just the tip of the iceberg. I'm sure there are more things to be improved…	VO_amis.amis_sys_0007
+015	That's why I want you to go into further detail. I think the ceremony will go well if you could tell me more.
+016	…
+018	Estella? Is something the matter?	VO_amis.amis_sys_0006
+019	No, nothing…	VO_estella.estella_sys_0039
+020	I will accept your request, but I need to know the subject deeply in order to tell you further details.
+021	Then I think you should see the ceremony's preparation for your own eyes.	VO_vincent.vincent_sys_0003
+022	Amis, take her to the Central Technology Bureau. Explain to her about the ceremony. Just not the restricted areas.
+023	Understood. And you…	VO_amis.amis_sys_0005
+024	For me, I recalled an errand I must run.	VO_vincent.vincent_sys_0004
+025	Really… Just off by himself.
+026	(But that's alright. I can't rely on him forever. I'll have to take charge of the ceremony.)	VO_amis.amis_sys_0016
+027	(Because, I…)
+028	Amis?
+029	I'll…take you to the Central Technology Bureau.	VO_amis.amis_sys_0007
+030	Maintenance inspection of the Magitek Train is complete. It's time to do a test run.
+031	Yes, sir!
+032	Wow… What an enormous structure of metal. So this is the Magitek Train…	VO_estella.estella_sys_0009
+033	Pretty big, isn't it? This is what we've been researching and constructing.	VO_amis.amis_sys_0010
+034	Vice-captain Amis, you're back! About the amount of heat given off by the train… We'd like for you to have a look at this.
+035	Let's see. So, this is… Alright. These figures look stable.	VO_amis.amis_sys_0006
+036	Vice-captain, could you also take a look at this?
+037	And this please!
+038	(She's very passionate about the work. And she doesn't have much time to spare...)
+039	(But she's calmer than when she came to see me the other day. I assume that she took my readings as my advice.)	VO_estella.estella_sys_0008
+040	…
+041	Hmm… That's not coming back any time soon.	VO_megistus.megistus_sys_0011
+042	You're…?	VO_estella.estella_sys_0003
+043	I'm Megistos. I'm a clerk here. You're that fortune teller that helped us out, aren't you?	VO_megistus.megistus_sys_0007
+044	You're exaggerating. I just gave a little advice.	VO_estella.estella_sys_0025
+045	Not exaggerating at all. Thanks to the advice, I was able to get my job done without any anxiety.	VO_megistus.megistus_sys_0008
+046	Everyone is looking forward to tomorrow's ceremony. We've all worked hard together to get the train up and running.
+047	Why is everyone so obsessed with this train?
+048	Because this is a feat of engineering which could bring new possibilities for the future of the world..	VO_megistus.megistus_sys_0005
+049	Alchemic carriages are commonly used for travel, but they take a lot of time to travel far. In addition, there aren't many available.
+050	But with a smoothly operating train, many people can be transported far in a single journey.	VO_megistus.megistus_sys_0031
+051	The day will come in which even people without magic abilities could travel anywhere they want easily.
+052	For engineers like us, it's an exciting time to think about, so everyone is enthusiastic.	VO_megistus.megistus_sys_0008
+053	Even more so for Amis, who researched and developed trains from scratch.	VO_megistus.megistus_event_1017
+054	Is that so?	VO_estella.estella_sys_0045
+055	Well, I personally think the train would be even better if it was loaded with a giant cannon…	VO_megistus.megistus_sys_0007
+056	What would be good about that? If you put a giant cannon on a train, it would collapse with the weight.	VO_amis.amis_sys_0012
+057	Oh, you're back. In that case, I'll leave customer service to the vice-captain, and I'll go back to my post.	VO_megistus.megistus_sys_0005
+058	That Megistos…
+059	I apologize, I was the one who brought you here but I'm going off working and neglecting you.	VO_amis.amis_sys_0011
+060	I don't mind. It's necessary to see you working as you would be for a better reading.	VO_estella.estella_sys_0039
+061	And I can admire your positive attitude. Isn't this Magitek Train very special for you?	VO_estella.estella_sys_0007
+062	Yes. It was something I was researching about even before I came to the Central Technology Bureau.	VO_amis.amis_sys_0005
+063	It wasn't about having or not having the skills, but my desire to create something that would help everyone.
+064	The train is sure to be dream come true for many people. That's why I want tomorrow's ceremony to be a success and your help is what we need.
+067	Tomorrow's ceremony will be the unveiling of the train. If all goes accordingly, we'll be able to put it into practical use…	VO_amis.amis_sys_0016
+068	I want everything to be prepared well. So please let me know if you see anything wrong with tomorrow's ceremony.
+069	Excuse me, Vice-captain Amis. Could you please look at this? We need urgent confirmation…
+070	I'm sorry, please excuse me for a bit.	VO_amis.amis_sys_0006
+071	Okay then…
+072	I think I have everything I need to make a reading. Let me have a little look…
+073	Again, the dark shadow… This is…	VO_estella.estella_sys_0025
+074	(It's the same shadow from before… Is this the future of a mechanical civilization?)
+148	(But why? I thought I was able to help with the root of the problem, but how could that not solve anything?)	VO_estella.estella_sys_0030
+075	V-vice-captain Amis! We have a problem. The parts needed for maintenance…
+076	What happened?!	VO_amis.amis_sys_0020
+077	They've all been destroyed. What's the meaning of this?!	VO_megistus.megistus_sys_0017
+078	No, this can't be! This is horrible!	VO_knightm.knightm_sys_0020
+149	Jean, what are you doing here?
+150	I was wondering what was going on because of the ruckus. This is troubling. You might not be able to fix this in time for tomorrow's ceremony…	VO_knightm.knightm_sys_0031
+151	I was also looking forward to your presentation highly.	VO_knightm.knightm_sys_0030
+152	It's alright. We'll manage to do get everything together for the ceremony.	VO_amis.amis_sys_0005
+153	Jean, you should go back to your work.
+154	Understood. But don't wear yourself out. You tend to overwork yourself.	VO_knightm.knightm_sys_0037
+079	…
+080	What are we supposed to do? These parts are specific for the train.	VO_megistus.megistus_sys_0002
+081	There's no way we can get replacements! If we don't have the parts, the ceremony tomorrow…
+089	We did so much to prepare for it…
+090	…
+091	It'll be fine. I'll do something about it. If we can't use them, we'll make new ones.	VO_amis.amis_sys_0004
+092	Huh? Make new ones…?
+155	Everyone! Gather the bureau's metal scraps and bring them here immediately!	VO_amis.amis_sys_0001
+156	Y-yes!
+093	You're going to build the parts out of scrap metal? With magic?	VO_estella.estella_sys_0026
+095	Wait a minute. You can't do this to yourself. The amount of magic needed is too much for you to handle.	VO_megistus.megistus_sys_0016
+096	But if it's the only thing we can do, I have to give it my all.	VO_amis.amis_sys_0004
+157	We've brought it all!
+158	Thank you. Okay… This should be enough…	VO_amis.amis_sys_0033
+097	…!	VO_amis.amis_battle_0020
+098	Amis!	VO_megistus.megistus_sys_0002
+099	I'm alright… Just a bit more…	VO_amis.amis_battle_0019
+159	We must present the train. We'll show the world what it can do. For that, I'll do whatever it takes.
+100	I'll…never give up!	VO_amis.amis_battle_0010
+101	…!	VO_estella.estella_battle_0019
+102	So, all the parts are ready, but she's knocked herself out. Ugh… All while I'm out…	VO_vincent.vincent_sys_0044
+103	I don’t ever recall telling you to kill yourself over all of this…	VO_vincent.vincent_chara_1005
+104	This is how much passion she had for tomorrow's ceremony.	VO_estella.estella_sys_0006
+105	Or, for beyond tomorrow, that is.	VO_estella.estella_sys_0039
+106	…
+107	By visiting this place, I was able to see more of the dark shadows that haunt her future.	VO_estella.estella_sys_0003
+108	The pressure of becoming the next director is pushing a lot of stress on her.
+109	Because she's strict. I keep telling her that she doesn't need put so much pressure on herself.	VO_vincent.vincent_sys_0004
+110	But she doesn't listen. There are some that don't her as a boss because of that.	VO_vincent.vincent_sys_0022
+111	She has the ability to use magic, but she's making things more difficult for herself. Thinking too much is hindering things.
+112	The goal of the Central Technology Bureau is to advance mechanical technology. It's not about what it's used for. Even magic can be used for advancement.
+113	Being able to use magic and engineering together shouldn't lead to faults like this.	VO_vincent.vincent_sys_0010
+114	Then why did you promote Amis as the next director?
+115	That's obvious. She has passion for both mechanical engineering and magic engineering.	VO_vincent.vincent_sys_0006
+116	Passion, you say…	VO_estella.estella_sys_0026
+117	A while back, I asked her why she wanted to join us.	VO_vincent.vincent_sys_0005
+118	This is what she said. "Because one machine can equal the hands and feet of ten thousand of people."	VO_vincent.vincent_sys_0007
+119	You can't use magic without special qualities. But not for machines.	VO_amis.amis_sys_0016
+120	Machines can benefit everyone. They can also provide hope. It's a wonderful feeling.	VO_amis.amis_sys_0008
+121	The possibilities are infinite. That's why I want mechanical engineering to help the world… All from the Central Technology Bureau.
+122	Her words of "the hands and feet of ten thousand people" has basically become reality with this train.	VO_vincent.vincent_sys_0031
+123	Her proposals were turned down a number of times, but she never gave up. And here we are now.
+124	If we really are to expand mechanical technology for the future, she's what we need at the lead.	VO_vincent.vincent_sys_0007
+125	I see. I also think she'd be a great leader.	VO_estella.estella_sys_0004
+126	In order to create a better future, she won't give up and will do her best, no matter how difficult it may seem.
+127	(And so I wouldn't want her to emotionally fall apart here…)
+128	(I still can't see the crucial point. What is this dark shadow pointing towards for the ceremony?)	VO_estella.estella_sys_0030
+160	(There's not enough information to make a prediction. The ceremony is tomorrow… I need more time to look for myself.)
+129	(Then…)
+133	Our fortune telling skills can help support people to do better.
+134	Now I understand what my mother meant. I want to see a successful future. I want to be part of a successful future.	VO_estella.estella_sys_0006
+135	My mother was able to do fortune telling because there were people who made her feel that way.
+136	The powers that I inherited from her… Now is the time to shine…	VO_estella.estella_battle_0007
+137	Good. This should disrupt the ceremony.
+138	That's…	VO_estella.estella_sys_0025
+139	And now, this should put a stop to everything!
+140	…?!	VO_estella.estella_sys_0026
+161	(A barrier should have been placed… Did I put too much power into the spirit divination?)
+162	What can I do for you? I didn't think I had any reservations today.	VO_estella.estella_sys_0003
+141	I got a job to make sure you stop reading fortunes. You're going to go to sleep for a little while.
+142	(This is bad… I can't control my body as I want to because of spirit divination...)	VO_estella.estella_sys_0018
+143	Grrraaaa!!!
+144	…!	VO_estella.estella_battle_0019
+145	Stop it!	VO_amis.amis_battle_0010
+146	Amis?! What are you doing here?	VO_estella.estella_sys_0026
+147	Let's talk later! First, let's get rid of this guy!	VO_amis.amis_sys_0012

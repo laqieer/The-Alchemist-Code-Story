@@ -1,0 +1,112 @@
+﻿001	The mine where we can get Felicitite is around here?	VO_lucille.lucille_sys_0001
+002	Sure is. The entrance is further in town.
+003	Thanks to the mine, this area has flourished. Weaponsmiths, jewelers and miners all came here to work.
+004	And since Felicitite is said to have purifying properties, many traveled from afar to purchase it.
+005	You don't say! You know your stuff, don't you?	VO_lucille.lucille_sys_0044
+006	A while back, I was stationed nearby for military training, so I could visit this town every now and then.
+007	If memory serves me well, there should be a top-notch restaurant around here.	VO_yuen.yuen_sys_0031
+008	Ah! It's still here! Sure brings back memories. I often came here with my comrades.	VO_yuen.yuen_sys_0002
+009	Ewan, my man! Heard you spoke up to that bulldog of a drill sergeant!
+010	Aw, come on. Let's not ruin our meal talking about that. It was nothing.	VO_yuen.yuen_sys_0030
+011	I just warned him that our training might provoke a monster attack and cause damage to the locals.
+012	How is that insubordination? Besides, I'm a first-rate soldier.	VO_yuen.yuen_sys_0016
+013	Our superiors have their eyes on you, lately. You've been hanging out with bums like me who aren't devoted enough to our country.
+014	I don't care what they think. I wish I had half as much passion as you do.	VO_yuen.yuen_sys_0022
+015	Passion I have. It was passion for everyday citizens that made me become a soldier--not patriotism.
+016	Ever the idealist.	VO_yuen.yuen_sys_0010
+017	Don't worry. I’ll try not to influence you. I'm sure your father would be none too happy.
+018	But actually…that's why I--
+019	Hey now. Don't give me that face. You're not thinking of quitting the service, are you?	VO_yuen.yuen_sys_0025
+020	I don’t think you've ever tried to change me. Let's just keep doing our best!
+021	Besides, I'm me. I decide who I spend my time with and how I live my life.
+022	I too was young once. I used to talk about a lot of things. Seems so long ago…	VO_yuen.yuen_sys_0007
+023	Such lovely memories.	VO_uzma.uzma_sys_0001
+024	…Yeah. They're very precious to me.	VO_yuen.yuen_sys_0007
+025	…
+026	…
+027	But this town isn't as lively as you described, Lord Ewan. There are hardly any people, and…	VO_uzma.uzma_sys_0031
+028	…those we encounter all carry weapons. The atmosphere is quite threatening.	VO_uzma.uzma_sys_0016
+029	Watchmen… So, the rumors were true.	VO_yuen.yuen_sys_0030
+030	What rumors?
+031	That hordes of monsters suddenly started appearing around here--monsters that don't usually inhabit the area.
+032	Towns and villages must have hired sentries like those fellows we saw.	VO_meifan.meifan_sys_0004
+033	It's a matter of survival. But the problem won't be resolved until we address the underlying cause.
+034	Hmm... Maybe there was a territorial dispute among monsters, and they were driven out.	VO_yuen.yuen_sys_0031
+035	It's plausible.	VO_meifan.meifan_sys_0030
+036	The fact that this rumor checks out must also mean the mine is closed.	VO_yuen.yuen_sys_0005
+037	Say what?	VO_lucille.lucille_sys_0025
+038	I heard some of the monsters found their way into the mine, so it was closed.	VO_yuen.yuen_sys_0016
+039	*Gasp* How will we get the Felicitite I need to make the wedding knife?	VO_lucille.lucille_sys_0016
+040	Good question… But what's done is done.
+041	Besides, the mine has always been a dangerous place. Accidents weren't uncommon.
+042	I remember suggesting they find a safer site to dig, but nobody would listen.	VO_yuen.yuen_sys_0031
+043	Why not?	VO_uzma.uzma_sys_0025
+044	The craftsmen insisted on working with Felicitite, so the miners needed to meet that demand.
+045	All this time, the miners have been working under dangerous conditions despite the risks.
+046	Maybe it's a blessing in disguise. At least if the mine is closed there won’t be any more accidental deaths.
+047	Aw, bummer. This really stinks.	VO_lucille.lucille_sys_0030
+048	I hate it when I can't make what I want--even if there's a good reason.
+049	…
+050	With the mine closed, it will be difficult acquiring Felicitite. Will you give up, Lucia?	VO_meifan.meifan_sys_0002
+051	Never! I have a "No compromises" policy when it comes to weapon-making.	VO_lucille.lucille_sys_0039
+052	If mining has stopped, I'll go there myself and get what I need.
+053	I swear I'll make a wedding knife out of Felicitite! Mark my words!	VO_lucille.lucille_sys_0007
+054	Good grief… I thought you'd say something like that.	VO_meifan.meifan_sys_0030
+055	…
+056	Hmph. She still feels forced.
+057	You were hoping we could avoid a dangerous situation, weren't you?	VO_meifan.meifan_sys_0031
+058	I was. But I know how Lucia gets. She just barrels on ahead, doesn't she?	VO_yuen.yuen_sys_0031
+059	How else are we supposed to get the Felicitite I need for my wedding knife?	VO_lucille.lucille_sys_0001
+060	See? And besides, I'm curious to see the mine myself.	VO_yuen.yuen_sys_0007
+061	I'm glad they shut it down, but I don't like that the monsters are threatening the peace.
+062	Wouldn’t it be great if we could lend a hand? A soldier's duty is to maintain peace, after all.
+063	A soldier's duty, huh?	VO_meifan.meifan_sys_0016
+064	Be warned. All sorts of creepy-crawlies live in the mines--things without feet...that slither on the ground.
+065	Yuck...	VO_meifan.meifan_sys_0018
+066	Just think if something like that were to fall from the ceiling and slide down your leg…	VO_yuen.yuen_sys_0011
+067	…Huh? Mei Fang, what's that by your foot?	VO_yuen.yuen_sys_0001
+068	Eeeeeeeeeeeyaaaaaaaaaaa!	VO_meifan.meifan_sys_0026
+069	Lady Mei Fang!	VO_uzma.uzma_sys_0026
+070	Gotcha! Ha-ha. You should've seen the look on your face!	VO_yuen.yuen_sys_0008
+071	You dolt! How dare you trick me!	VO_meifan.meifan_sys_0013
+072	Hey, this time I was joking, but the danger is real.	VO_yuen.yuen_sys_0024
+073	Back in the day, accidents happened so frequently I was called in for more than a few rescues.
+074	How dreadful...	VO_uzma.uzma_sys_0006
+075	Come to think of it, I was stuck following a headstrong type back then, too.	VO_yuen.yuen_sys_0030
+076	…
+077	(All he ever thought about was protecting the people.)
+078	(He said he'd die happily as long as he lived up to his motto--"A soldier's duty is to protect others.")	VO_yuen.yuen_sys_0016
+079	But he died far removed from those he wanted to protect.	VO_yuen.yuen_sys_0018
+080	He and a small battalion were sent to fight a bloody war partly as a warning to others…and to crush his spirit.
+081	I knew exactly who that warning was meant for.
+082	Someone like me, born to a military family, mustn't associate with unpatriotic screw-ups.	VO_yuen.yuen_sys_0030
+083	I was too naïve or oblivious to comprehend something so simple.
+084	In some way, that fool's desire to protect the weak from senseless violence got him killed.	VO_yuen.yuen_sys_0018
+085	"Do your best." That was the motto I shared with my men and comrades. It meant no sacrifices.
+086	…In the end, they all died for their country...and I'm to blame.	VO_yuen.yuen_sys_0016
+087	So many hopes and dreams cut short because of me…
+088	(Forced from birth to follow the path of a soldier--and all I've ever done is take.)
+089	…
+090	You're looking glum. What's on your mind?	VO_meifan.meifan_sys_0001
+091	Me? Don't worry. Just because I'm staring doesn't mean something's going to pop out.	VO_yuen.yuen_sys_0001
+092	Inscrutable as ever…	VO_meifan.meifan_sys_0016
+093	Me? Inscrutable? Don't be silly!	VO_yuen.yuen_sys_0007
+094	We're probably thinking the same thing--like how to bypass the mine closure.
+095	If you say so. The fact remains--any method we choose to enter is sure to be dodgy.	VO_meifan.meifan_sys_0010
+096	They should've kept the mine open, in my opinion. But we’ll need to ascertain the situation in order to proceed.	VO_meifan.meifan_sys_0002
+097	So, you're against the closure?	VO_yuen.yuen_sys_0031
+098	Felicitite can only be found here. The purer the ore the higher the concentration of alchemy.	VO_meifan.meifan_sys_0004
+099	The superstitions related to the ore and the alchemy contained therein have created a huge demand.
+100	You're probably right to say the mine is dangerous, but for the miners--it's their livelihood.
+101	…You've got a good point.	VO_yuen.yuen_sys_0005
+102	Besides, something about this bothers me--	VO_meifan.meifan_sys_0031
+103	You mean the sudden increase in monsters? It's quite strange, isn't it?	VO_yuen.yuen_sys_0030
+104	Oh dear! What's this? Rattys have blocked our path. Would you mind stepping aside, little Rattys?	VO_uzma.uzma_sys_0001
+105	Squeak!	VO_Mrat.Mrat_battle_0001
+106	Oh, what nice claws you have!	VO_lucille.lucille_sys_0003
+107	Squeak?	VO_Mrat.Mrat_battle_0019
+108	So sharp and shiny! And strong too, I’m sure.	VO_lucille.lucille_sys_0031
+109	Let me get a closer look! Come here, you!	VO_lucille.lucille_sys_0007
+110	S-Squeak!	VO_Mrat.Mrat_battle_0021
+111	No, Lady Lucia! Please get back!	VO_uzma.uzma_sys_0014
+112	S-Squeak! Squeak! Squeak!	VO_Mrat.Mrat_battle_0019

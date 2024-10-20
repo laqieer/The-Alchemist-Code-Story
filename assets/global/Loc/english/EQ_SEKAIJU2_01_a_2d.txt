@@ -1,0 +1,58 @@
+﻿001	Led here from the land of Arcania, in which Yggdrasil, the great tree, pierces the sky...
+002	Our three adventurers, Fencer, Harbinger, and Shaman put an end to the war ravaging the continent of Babel.
+003	However, their inquisitive minds unsatisfied, the three young women continued to seek out adventure in Babel.
+004	Their journey goes on, even now...
+005	Haaa... Harbinger and Shaman are probably super worried about me.
+006	I can't believe I fell into a trap in that cave and got separated from everyone! I'm such an idiot... I'm so sorry, everyone!	VO_fencer.fencer_sys_0048
+007	Hmm, actually... Exploring a cave, getting separated from your friends...and then a heartfelt reunion with them at the end?
+008	This is what adventure is all about! Heh, this is actually kinda exciting! I'm definitely gonna find those two!	VO_fencer.fencer_sys_0007
+009	What am I saying? I can't afford to stand around yapping, I gotta get going!
+010	Huh?! Wh-what was that?!	VO_fencer.fencer_sys_0025
+011	Aaaaahhh!	VO_fencer.fencer_sys_0026
+012	...lp...me...elp...me...
+013	Wh-who is that?! Wh-what did you say?	VO_fencer.fencer_sys_0006
+014	H-he...lp...me.
+015	Help me?! Is someone calling for help?!	VO_fencer.fencer_sys_0025
+016	Aaaaaaaaaaaaaarrrrrrggggghhhhhhhh!	VO_princess.princess_sys_0028
+017	Wh-what was that?!	VO_fencer.fencer_sys_0025
+018	Ow... Goodness, what was that all of a sudden?!	VO_princess.princess_sys_0043
+019	Ngh... Wh-what is this light?!	VO_gunner.gunner_sys_0043
+020	Everyone, are you all right?! Actually, before you answer that; who are you?!	VO_paladin.paladin_sys_0042
+021	That is what I would like to know! State your names and titles immediately!	VO_gunner.gunner_sys_0012
+022	Shouldn't you start by giving your own name and title first? Hm...?	VO_princess.princess_sys_0002
+023	Wh-what is the meaning of that ridiculously enormous tower?!	VO_princess.princess_sys_0026
+024	I-I can't see Yggdrasil! We're not in High Lagaard anymore!	VO_gunner.gunner_sys_0025
+025	Hmm...? Are you adventurers as well? I am Sovereign, adventurer of Armoroad.	VO_princess.princess_sys_0006
+026	I don't fully understand this situation yet...but in any case, I'm a Protector of Etria—and an adventurer!	VO_paladin.paladin_sys_0016
+027	I'm Gunner, from High Lagaard.	VO_gunner.gunner_sys_0016
+028	Um... I guess I'll introduce myself, too. I'm Fencer, from Arcania.	VO_fencer.fencer_sys_0049
+029	So... You guys must be adventurers from the other world, too.	VO_fencer.fencer_sys_0031
+030	O-other world?!	VO_paladin.paladin_sys_0025
+031	Yep. We're currently in a place known as the continent of Babel, but what I want to know is why the worlds have become linked again.	VO_fencer.fencer_sys_0005
+032	Maybe that cry for help I heard earlier had something to do with it.	VO_fencer.fencer_sys_0031
+033	Wh-what?! I heard that as well! All of a sudden, I was enveloped in a radiant light and I heard someone cry "Help me!" Then I found myself here!	VO_princess.princess_sys_0012
+034	I heard it as well, but what did you mean about the worlds being linked?	VO_paladin.paladin_sys_0045
+035	Not too long ago, our world became linked with this one.	VO_fencer.fencer_sys_0049
+036	At that time, some monsters from our world wandered into Babel.
+037	Wait, I know! You guys came here through the Door of Truth, right? Did that weird little girl, Ouroboros, say anything to you?	VO_fencer.fencer_chara_1001
+038	The Door of Truth? Ouroboros? What are you talking about?	VO_paladin.paladin_sys_0006
+039	H-huh? You're telling me you didn't come here through the Door of Truth?! Th-that's so weird. That's how we got here, so...	VO_fencer.fencer_sys_0006
+040	Wh-who is this?!	VO_princess.princess_sys_0026
+041	I am Shenmei! Are you the ones who called me?	VO_shengmei.shengmei_chara_1009
+042	Huh? What are these clothes? Wh-why am I dressed like this?!	VO_shengmei.shengmei_sys_0026
+043	What are you all in a dither about? The better question is—who are you?!	VO_princess.princess_sys_0003
+044	I'm not sure, but I think she might be what's called a Phantom. They're meant to be summoned by using something known as Alchemy...	VO_fencer.fencer_sys_0031
+045	But none of you know how to use that, right?	VO_fencer.fencer_sys_0001
+046	H-huh?! Then who summoned me? More importantly, why am I wearing these weird clothes?!	VO_shengmei.shengmei_sys_0025
+047	I'm a pirate, but now I look like a dancer for some reason!
+048	Maybe when the worlds became linked, some Alchemy or...something got mixed up in it all and you were called here by accident.	VO_fencer.fencer_sys_0005
+049	I've met someone like that before, but it looks like there aren't any weird side effects this time... Probably.
+050	The worlds became linked? What do you mean by...weird side effects?!	VO_shengmei.shengmei_sys_0005
+051	All of this information is starting to get incredibly confusing. I feel a headache coming on.	VO_princess.princess_sys_0029
+052	Me, too. For her... Um, for Shenmei's sake, let's go over what happened from the beginning.	VO_gunner.gunner_sys_0045
+053	Wait! Something's coming!	VO_paladin.paladin_sys_0002
+054	Grrrrrrrrrrrr!
+055	M-monsters?!	VO_shengmei.shengmei_sys_0025
+056	That means enemies! We can talk after we've taken them down!	VO_gunner.gunner_sys_0010
+057	L-linked?!	VO_gunner.gunner_sys_0025
+058	Hmmm... It sounds like that voice led us all into this world.	VO_fencer.fencer_sys_0011

@@ -1,0 +1,33 @@
+﻿001	How is the investigation going?	VO_kamui.kamui_sys_0002
+002	It's been confirmed. The rumors of an invasion of Wadatsumi were true.	VO_hisham.hisham_sys_0005
+003	So, Greed Dike is on the move.	VO_kamui.kamui_sys_0037
+004	In addition, though we have not verified this information, it is rumored that Gluttony Foss is supporting their warmongering.	VO_hisham.hisham_sys_0004
+005	Ceclidis may be up to something.	VO_hisham.hisham_sys_0031
+006	Sadly, we do not yet have the strength to oppose an entire nation.	VO_kamui.kamui_sys_0030
+007	I cannot stand it... It is vexing that we can only stand idly by as lives are being taken.	VO_hisham.hisham_sys_0022
+008	There is still something we can do.
+009	What would that be?	VO_hisham.hisham_sys_0006
+010	We can use the connections General Leordas left us.	VO_kamui.kamui_sys_0037
+011	Though their numbers are waning, there is still an anti-Ceclidis movement in the South. I expect there are also numerous merchants losing their patience with the tyranny of the nobles.
+012	With their cooperation, we could seize and control trade on the black market on a scale that would eclipse that of both the royal capital and the port city.
+013	Do you mean to obstruct support from Gluttony to Greed Dike? Would that not attract too much attention to us?	VO_hisham.hisham_sys_0031
+014	We do not need to stop their support entirely. We only need to delay it as much as possible.
+015	It is not unusual for merchant caravans to encounter trouble on the road. I hear stories of former mercenaries becoming bandits and raiding caravans nearly every day.	VO_kamui.kamui_sys_0007
+016	Must we really go that far?	VO_hisham.hisham_sys_0018
+017	If we do this right, we can delay war without shedding any blood. Why wouldn't we do this?	VO_kamui.kamui_sys_0004
+018	How are the arrangements?	VO_kamui.kamui_sys_0002
+019	We have explained our ruse to the caravans. We will plunder their goods while they are enroute to deliver them, but we will return those goods as they make their trip back home.	VO_mob-saga_ymale.mob-saga_ymale_sys_0005
+020	They have agreed to cooperate with us.
+021	It's just that...they must still be apprehensive of our intentions, because they have also hired a squad from the Royal Army as guards.	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+022	This changes nothing. Keep casualties to a minimum as you take the goods. Be sure to keep up!	VO_kamui.kamui_sys_0007
+023	Yes, sir!	VO_mob-saga_ymale.mob-saga_ymale_sys_0005
+024	Hey! What's with this slow pace?! The harbor is just beyond this checkpoint!	VO_gluttony-y.gluttony-y_sys_0012
+025	We apologize, but our horses are worn out from the constant deliveries of ammo.	VO_knightm.knightm_sys_0030
+026	Tch! Where is the glory in this? Why must we, of the Royal Army, participate in such lowly work as guarding merchants?!	VO_gluttony-y.gluttony-y_sys_0016
+027	Well, I have here some fine wine from my secret stash... Perhaps this will lift your mood.	VO_knightm.knightm_sys_0001
+028	Well... No, I wish, but I am on duty.
+029	Now, now, don't be so uptight! Here, just one cup!	VO_knightm.knightm_sys_0011
+030	Uh, w-well... If you insist...	VO_gluttony-y.gluttony-y_sys_0031
+031	(The merchant gives a thumbs up to Kamui, with a somewhat self-satisfied smile.)
+032	Time to attack!	VO_kamui.kamui_battle_0015
+033	What the—a raid?!	VO_gluttony-y.gluttony-y_sys_0026

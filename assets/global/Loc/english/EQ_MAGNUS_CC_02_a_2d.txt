@@ -1,0 +1,132 @@
+﻿001	The slums? I have nothing to do with that place anymore. I'm here now.
+002	But anyone can get out of that place if they just work hard enough.
+003	I suppose I should have made that clearer to everyone before I left. They just need to put the effort in!
+004	After all, if you don't draw the cards of fate yourself, you'll never get anywhere in life.
+005	Hey! You!
+006	Yes?	VO_liuie.liuie_sys_0004
+007	You're that new recruit, right? Man, you really drew the short straw, being saddled with those two.	VO_stknightm.stknightm_sys_0031
+008	Magnus and Wilhelm are talented Alchemists, but they never take anything seriously.	VO_stknightm.stknightm_sys_0005
+009	Just so you know, Wilhelm's the worst of the two. Don't let him overwork you! And, hey, if you ever need advice, feel free to come to us!	VO_stknightm.stknightm_sys_0007
+010	Oh, really? I'm not all that bothered.	VO_liuie.liuie_sys_0031
+011	I mean, who cares who my mentor is? I just have to do what's expected of me—my job. It shouldn't matter what those around me get up to.	VO_liuie.liuie_sys_0003
+012	I-I guess not, but... Geez. Couldn't you be a little more friendly?	VO_stknightm.stknightm_sys_0011
+013	Oh. Were you hitting on me?	VO_liuie.liuie_sys_0025
+014	Because if so, know that I am far too busy to see anyone right now.
+015	N-no! I didn't mean it like that. I just... We just thought you might be having a rough time, that's all.
+016	A rough time? How could I be! Here, we're provided with clothes, food, shelter, everything we need to live comfortably. Not only that, but we're rewarded for our hard work.
+017	If you have a problem with those above you, you should work harder, until you're their superior—or at least be grateful that that kind of career opportunity is actually possible here!	VO_liuie.liuie_sys_0031
+018	Tch. I guess this explains why you fought like that during the mock battle. You're just out for yourself, aren't you?	VO_stknightm.stknightm_sys_0030
+019	Th-that's not—!	VO_liuie.liuie_sys_0025
+020	Come on, let's go. We're just wasting our time here.	VO_stknightm.stknightm_sys_0010
+021	What's their problem? Why would you waste time complaining, when all you have to do to get what you want is put in a little effort?	VO_liuie.liuie_sys_0030
+022	Don't they see how lucky they are to be here?
+023	I guess not. Well, whatever. I'm going to keep working hard by myself, just like I always have.
+024	Hello, Ryui! How's it going? Have you been working hard?	VO_monzein.monzein_chara_0009
+025	Vice-Captain Monzein! It's lovely to see you again.
+026	Of course, since I had the honor of being made paladin, I've been doing everything I can to earn my keep! I always give myself body and soul to the tasks bestowed upon me.	VO_liuie.liuie_sys_0037
+027	Excellent! That's the spirit. I'm glad you're so motivated!	VO_monzein.monzein_sys_0008
+028	If only everyone around here shared your enthusiasm for hard work. Truth be told, I was a little concerned when I heard who you'd been assigned as mentor. I thought he might have a bad influence on you...	VO_monzein.monzein_sys_0004
+029	But it looks like I needn't have worried! I expect great things from you, Ryui! In fact, when we get a bit of downtime, why don't we pick each other's brains over a few drinks?	VO_monzein.monzein_sys_0007
+030	I'm afraid I'll have to pass on that, sir. I can't drink yet. I'm underage.	VO_liuie.liuie_sys_0040
+031	We'll have to invite your mentor and his buddy, too, of course!
+032	He's not even listening to me...	VO_liuie.liuie_sys_0030
+033	Oh! That reminds me.
+034	What is it, sir?
+035	Magnus! I was just with the vice-captain, and, according to him, you haven't submitted your report yet!	VO_liuie.liuie_sys_0003
+036	Report? What report?	VO_magnus.magnus_sys_0005
+037	The one from the raid on those illegal Alchemy users!	VO_wilhelm.wilhelm_sys_0001
+038	Oh, that report. Right. Thanks. I'll do it later.	VO_magnus.magnus_sys_0004
+039	That's exactly what you told me the last time I asked you about a report!	VO_liuie.liuie_sys_0012
+040	How about, instead of playing cards all the time, you actually do your job?!	VO_liuie.liuie_sys_0016
+041	It's because of people like you who get complacent in their cushy lives that our hard-earned taxes get eaten up by the system and the poor remain destitute!	VO_liuie.liuie_sys_0030
+042	The vice-captain also asked me to tell you that it's about time you submitted your latest research report and signed those documents that have been gathering dust on your desk for the last few months.
+043	You know...you've been my mentor for a while now, Magnus, but in all this time, I've hardly seen either you or Wilhelm do any work!	VO_liuie.liuie_sys_0003
+044	Well spotted!	VO_wilhelm.wilhelm_sys_0009
+045	Hey, it's not like we never do work. We get around to it occasionally.	VO_magnus.magnus_sys_0010
+046	Occasionally? That's not good enough! People don't cough up their hard-earned money to pay taxes for you to occasionally do your job!	VO_liuie.liuie_sys_0030
+047	Why do you keep bringing up tax, exactly?	VO_magnus.magnus_sys_0005
+048	Where do you think our huge salaries come from?
+049	The money you make in an hour of slacking off could be used to distribute bread to the people of the slums!
+050	How is that my problem? I only joined the Holy Guard to further my personal research into Alchemy without fear of persecution.	VO_magnus.magnus_sys_0031
+051	That's why my policy is to only go on missions when I feel like it, and to pour every last coin I earn into my research and life's pleasures.	VO_magnus.magnus_sys_0007
+052	If you don't approve, talk to the captain and get yourself a new mentor.
+053	It's not about whether or not I approve! It's about the importance of hard work!	VO_liuie.liuie_sys_0016
+054	But I am working hard—just not in the way you seem to feel so strongly about.	VO_magnus.magnus_sys_0025
+055	At your job, you mean! If you would just do your work properly, my quality of life would improve by leaps and bounds as well!
+056	Ahh, so at the end of the day, you're looking out for your own interests.	VO_magnus.magnus_sys_0030
+057	What's wrong with that? No one else is going to look out for them for me! That's life!	VO_liuie.liuie_sys_0012
+058	Is that why you've been doing odd jobs for Captain Othima?	VO_magnus.magnus_sys_0001
+059	Yes! I'll do any job that pays me fairly for the work I do.	VO_liuie.liuie_sys_0006
+060	And that includes assisting you as your mentee.
+061	Here. This is your work plan for today.	VO_liuie.liuie_sys_0003
+062	I created a program to go along with it. You should be able to calculate precise estimates and analyze the total data with this.
+063	Dang! Is this for real? You sure know your stuff, huh?	VO_wilhelm.wilhelm_sys_0027
+064	You made this after looking at all the work we haven't done yet?	VO_magnus.magnus_sys_0006
+065	Yes. It was hard work, but I did it.	VO_liuie.liuie_sys_0007
+066	What a waste of time.	VO_magnus.magnus_sys_0010
+067	And who do you think I put in all this effort for?
+068	For yourself, right? To improve your own quality of life.	VO_magnus.magnus_sys_0001
+069	Exactly. And what's wrong with that?
+070	Now, I'm not going anywhere until the two of you have done your jobs!	VO_liuie.liuie_sys_0010
+071	But...!	VO_wilhelm.wilhelm_sys_0008
+072	Tch... Fine. Whatever. I'll get it done.	VO_magnus.magnus_sys_0016
+073	Man, I'm exhausted. I want to sleep for a week.	VO_magnus.magnus_sys_0030
+074	All done? Nice work!	VO_liuie.liuie_sys_0004
+075	I'm impressed you were able to get through it all, but please don't let it pile up this bad again.	VO_liuie.liuie_sys_0031
+076	Hopefully this has taught you the value of working hard on a daily basis.
+077	Yeah, yeah.
+078	Still...this makes me wonder why the two of you slack off so much. You're clearly talented.	VO_liuie.liuie_sys_0030
+079	Everyone says so—how it's such a shame that you don't apply yourselves more, because you're such skilled Alchemists.
+080	What right does anyone have to tell me what to do with my time? I'll do what I want with my life, thank you very much.	VO_magnus.magnus_sys_0010
+081	Besides, you're one to talk. You might've won that mock battle, but your Alchemy needs a lot of work.	VO_magnus.magnus_sys_0001
+082	I-I know that! But I was told that I do meet the minimum requirements to serve as a paladin.	VO_liuie.liuie_sys_0016
+083	I mean, sure, you clear the bar, but I think you might be more suited to engineering.	VO_magnus.magnus_sys_0031
+084	I was thinkin' the same thing. You made that doohickey that's always buzzing around you, too, I'll bet.	VO_wilhelm.wilhelm_sys_0037
+085	Oh, this? Yes, I made it when I became a paladin. It organizes all the different tasks I'm given.	VO_liuie.liuie_sys_0025
+086	It's really something, if I do say so myself! Of all my recent inventions, this is the one I'm most proud of.	VO_liuie.liuie_sys_0007
+087	It allows me to monitor the progression status of all my work, I can have it notify me when things are due, and it can even handle simple clerical tasks.
+088	I was actually thinking of adding a feature that monitors your procrastination, Magnus... Hee hee.	VO_liuie.liuie_sys_0023
+089	The more I hear, the more it sounds like that stuff's more your thing.	VO_magnus.magnus_sys_0006
+090	What stuff?	VO_liuie.liuie_sys_0025
+091	Engineering. Tinkering. You always sound the most alive when talking about incantation gear.	VO_magnus.magnus_sys_0004
+092	What I don't get is why you chose to become a paladin, when you could've easily made a living as an engineer or something. You're clearly passionate enough.	VO_magnus.magnus_sys_0001
+093	Well, isn't it obvious? Paladins have better future prospects.	VO_liuie.liuie_sys_0031
+094	Besides, hobbies and work are two different things. Of course I'm going to choose the long-term job that pays better! That's just common sense.
+095	Future prospects this, common sense that... Don't you have any dreams? Where's the fun?	VO_magnus.magnus_sys_0030
+096	Fun doesn't keep you fed, now does it?	VO_liuie.liuie_sys_0003
+097	...
+098	Ryui? Are you in there?
+099	Mister Othima, come in! What can I do for you?	VO_liuie.liuie_sys_0001
+100	It's Captain Othima, remember? Anyway, I just have a little favor to ask you...	VO_ortima.ortima_sys_0031
+101	Again?! You'll have to pay me for last time first!	VO_liuie.liuie_sys_0012
+102	Come on, please? I'll pay you everything I owe at once after this, I swear! This incantation gear just went kaput—I don't know what's wrong with it! But the buyer is waiting and I need it working ASAP, so could you please take a look?	VO_ortima.ortima_sys_0011
+103	I'm coming to you because I know you have a way with these things. You're my go-to now! Look, I'll even keep Magnus out of trouble while you're gone. Deal?
+104	All right, fine. Hand it over. But you'll pay the exact amount I charge you for—no haggling allowed!	VO_liuie.liuie_sys_0030
+105	Hey, Ryui? Thanks for the help. I never would've gotten it done that quickly without you.	VO_magnus.magnus_sys_0033
+106	You don't have to thank me. It's my job to help you.
+107	So? Spit it out. You're here to talk to me about her, right?
+108	I can't slip anything past you, can I?	VO_ortima.ortima_sys_0007
+109	I mean, it doesn't take a genius to figure it out. Why else would you send her away?	VO_wilhelm.wilhelm_sys_0007
+110	Well, good. If we all know why we're here, I can cut to the chase.
+111	I want both of you to be her mentors...and to do it properly.
+112	You must be pretty worried about her.	VO_magnus.magnus_sys_0006
+113	Are you afraid of where her aspirations are going to take her?
+114	That's part of it. She believes that she doesn't need to understand what it means to be a paladin.	VO_ortima.ortima_sys_0004
+115	Or... No, that's not quite right. She just doesn't think about it. She's entirely focused on her own interests right now.
+116	She's straight as an arrow, though, and her heart's in the right place. Even we haven't been able to have a bad influence on her.
+117	Yes, she's dedicated, driven, honest, and true, but my concern is...what if she's headed in the wrong direction?	VO_ortima.ortima_sys_0030
+118	She's too steadfast, if there even is such a thing. She hasn't changed a bit since the day I met her.
+119	See, I was in Real Heaven on a bit of business, when...
+120	Hm? What's going on over there?
+121	Hey! Give that back!	VO_liuie.liuie_battle_0019
+122	Outta my way!	VO_mafia.mafia_sys_0013
+123	Are you all right?
+124	Oh, um... Yes. I'm fine. Who—?	VO_liuie.liuie_sys_0003
+125	Didn't anyone ever teach you that violence doesn't solve anything?	VO_ortima.ortima_sys_0014
+126	The hell is your problem?! This hasn't got anythin' to do with you!	VO_mafia.mafia_sys_0012
+127	By the way...I've noticed that you and your friends have been sniffing around here a lot lately. Why is that?	VO_ortima.ortima_sys_0007
+128	Because, I have to say, I don't appreciate the intrusion. Word is, you've been giving my clients some trouble.
+129	So, tell me straight... Does this have anything to do with the rumored Real Heaven Purification Plan?
+130	Huh?!
+131	From the look on your face, I suppose it's not just a rumor after all.	VO_ortima.ortima_sys_0025
+132	Tch!	VO_mafia.mafia_battle_0019

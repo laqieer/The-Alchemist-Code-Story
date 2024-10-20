@@ -1,0 +1,173 @@
+﻿001	Try as I might to block it out...
+002	...the cacophony of the feeding insects vibrates endlessly in my head.
+003	I cover my ears and yet...
+004	I have naught to sell to a dark elf.
+005	So you're halfway through your transformation into dark elf, hm? Well? Which of our brethren did you kill? How dare you...
+006	Filthy.
+007	However much time passes, wherever I go...
+008	How do you just go on living like that?
+009	Where are your manners? Who is your master?
+010	Black ears like antennae, accumulating unwarranted contempt.
+011	No matter what I do...
+012	Oi. How much?
+013	You've got guts, speakin' up. Sorry, there's not enough money in the world...	VO_thiefm.thiefm_sys_0027
+014	Geh? Gahahahahaha! You tryin' to make me laugh?!	VO_mafia.mafia_sys_0007
+015	Beset by cruelty on all sides...
+016	There's nowhere safe to sleep, no time to dream, and my will ground away to nothing...
+017	My life is already out of my hands.
+018	Hey, listen.	VO_sol.sol_sys_0002
+019	Welcome...
+020	You call this fortune-telling? More like fortune-lying.	VO_sol.sol_sys_0001
+021	I...
+022	Nothing you predicted happened. It was so wrong I should have just expected the opposite of everything you said to have happened.	VO_sol.sol_sys_0007
+023	That's the nature of fortune.	VO_vier.vier_sys_0006
+024	So it's on the dot if you get it right, and on the dot if you don't?
+025	That's how it works.	VO_vier.vier_sys_0007
+026	Just tell me the truth. I don't appreciate such pitiful scamming.	VO_sol.sol_sys_0002
+027	Even if it's not what you want to hear?
+028	Huh. You're selling dreams, are you? I thought you were selling insight into the future.	VO_sol.sol_sys_0010
+029	No one can know the future. No one can know the truth.	VO_vier.vier_sys_0031
+030	There is more happiness to be found in being lied to.
+031	That's not the kind of crap I thought I'd ever hear from a fortuneteller.	VO_sol.sol_sys_0004
+032	Then shall I give you a fortune guaranteed to come true?	VO_vier.vier_sys_0001
+033	If you please.	VO_sol.sol_sys_0005
+034	Payment upfront, please.
+035	No, but I promise I'll make it worth your while if it's good.	VO_sol.sol_sys_0007
+036	Fine then. Let us begin.	VO_vier.vier_sys_0007
+037	Hoo... The anticipation's got me on my toes.	VO_sol.sol_sys_0008
+038	Here is your guaranteed fortune: "Sometime in the future, you will die."
+039	That's your play?!	VO_sol.sol_sys_0044
+040	It's a human failing to believe you can live on forever, which is why you hold onto dreams of the future.	VO_vier.vier_sys_0001
+041	Yet all that truly awaits in your future...is death.	VO_vier.vier_sys_0007
+042	Don't you have any dreams?	VO_sol.sol_sys_0001
+043	Only of death.
+044	Oh, good for you. At least you're consistent...	VO_sol.sol_sys_0007
+045	Speaking of the death that waits in the future is pointless.	VO_vier.vier_sys_0022
+046	That's why I prefer to tell of events that will make you happy in this life. All you need to achieve happiness is to believe me when I say it will happen.
+047	The thing is...	VO_sol.sol_sys_0001
+048	I want to know about my death.
+049	A philosopher, are you?	VO_vier.vier_sys_0016
+050	The incredible thing about predictions is that they stick in your head, no matter how it pans out.
+051	I suppose that is the way of them.
+052	Tell me how I'll die, oracle.	VO_sol.sol_sys_0010
+053	...
+054	It's guaranteed to come true, right? The prediction of my impending death.	VO_sol.sol_battle_1017
+055	Are you certain you want to know?	VO_vier.vier_sys_0007
+056	Only if it is the truth.
+057	I don't know what...y-you all were counting on...but there is no limit to my power!	VO_sol.sol_battle_0019
+058	Huh?!
+059	You could defeat me right now.
+060	You have the power to do so, yet you lack the conviction to see your ambitions through.
+061	There is only one reason for that.
+062	You still cling to your bonds to others.
+063	You've never thrown yourself into absolute solitude by cutting all ties you have with those you love.
+064	If...your soul is lost...	VO_acht.acht_sys_0018
+065	...!
+066	I-I won't be able to...f-follow. P-please, Sol...	VO_acht.acht_battle_0019
+067	...
+068	Please... D-don't...leave me. I don't want...to be...alone.	VO_acht.acht_sys_0018
+069	...!	VO_vier.vier_sys_0025
+070	Did you see it? My death?	VO_sol.sol_sys_0001
+071	You're...	VO_vier.vier_sys_0003
+072	Yes.	VO_sol.sol_sys_0004
+073	In time, the sun will set and the stars that surround it will fall.
+074	...
+075	It's no good... It's the same as before...	VO_vier.vier_sys_0031
+076	Well, did I actually die?	VO_sol.sol_sys_0002
+077	Huh?
+078	Did I die properly, along with the others?
+079	I'm sorry. It's fragmented. I can't see it clearly.	VO_vier.vier_sys_0035
+080	Well, that's hardly worth anything.	VO_sol.sol_sys_0005
+081	It's fine. You don't owe me anything.
+082	Hmph. How about this? A fortune for a fortune. Interested?	VO_sol.sol_sys_0010
+083	You're going to read the fortune of a fortuneteller?	VO_vier.vier_sys_0016
+084	Payment upfront, please.	VO_sol.sol_sys_0007
+085	You're going to charge me?	VO_vier.vier_sys_0001
+086	It's only fair, don't you think?	VO_sol.sol_sys_0004
+087	Huh...?
+088	With this, we'll really be even.
+089	Umm...
+090	It'll be a reset. I'm offering you a clean slate with me if you let me tell your future.	VO_sol.sol_sys_0007
+091	Ok...
+092	I've got it.	VO_sol.sol_sys_0002
+093	Well? What awaits me?	VO_vier.vier_sys_0001
+094	Why don't you come with me and mine?	VO_sol.sol_sys_0001
+095	What a rip off. That's neither fortune-telling, nor a prediction.	VO_vier.vier_sys_0010
+096	Just an idea, really. One that will shed light on your past and let you make the most of it.	VO_sol.sol_sys_0004
+097	My...past?
+098	No human doesn't know that death is coming for them... That is why we try to leave behind legacies and children, write wills, and strive to leave our mark on history.	VO_sol.sol_sys_0001
+099	And me? I care way too much about "those who have gone before" if you get my drift.
+100	I've read about the war of the high elves in history books and fiction.	VO_sol.sol_sys_0031
+101	The literature talks of a high elven hero who slew more dark elves than any other; one renowned for their magic, known by the name of Ephylinde.
+102	...
+103	Apparently their favorite phrase was "killing those who are evil is not an act of evil"...	VO_sol.sol_sys_0004
+104	That...isn't who I am anymore.
+105	Why, because you're a dark elf now?
+106	You know what sin creates a dark elf, don't you?	VO_vier.vier_sys_0016
+107	I don't give a damn who you are, high elf or dark elf.	VO_sol.sol_sys_0010
+108	So you'll take just anyone you think is powerful?
+109	You're starting to get it.	VO_sol.sol_sys_0010
+110	You're very forward.	VO_vier.vier_sys_0022
+111	Well, there aren't that many people out there with real power.	VO_sol.sol_sys_0004
+112	The Veda Templars.
+113	Join us and your dream will come true.	VO_sol.sol_sys_0007
+114	You mean...?
+115	You'll be able to die, right?	VO_sol.sol_sys_0002
+116	I am the darkness.
+117	You... You were once the light.	VO_uroboros-d.uroboros-d_sys_0001
+118	Offer your service, and you will receive...a revelation.	VO_uroboros-d.uroboros-d_sys_0002
+119	...
+120	Even if I have been corrupted?	VO_vier.vier_sys_0001
+121	You have no dreams, do you?	VO_drei.drei_sys_0031
+122	Mystic Tower Veda Fringe Dimension
+123	That was what she said.	VO_sol.sol_sys_0004
+124	There's nothing to be excited about. I can't see any blooming seeds in her. No hope for the future, nothing to believe in...	VO_drei.drei_sys_0016
+125	Stop judging people by their ability to excite you.	VO_sol.sol_sys_0016
+126	She's like a shed skin, no substance. No fleeting desires, no base passions... A snow white soul.
+127	It's not a bad thing not to have high hopes. You pay more attention to your immediate surroundings.	VO_sol.sol_sys_0031
+128	It's just...insufferably dull.	VO_drei.drei_sys_0010
+129	More importantly, does a person like this even have anything to trade for the power of another dimension?
+130	It's distasteful.	VO_drei.drei_sys_0007
+131	That rich, coming from you.	VO_sol.sol_sys_0010
+132	You're not wrong.	VO_drei.drei_sys_0004
+133	You...
+134	Sorry to keep you waiting.	VO_vier.vier_sys_0007
+135	Are you really? No matter, you're here now. The fourth of us.	VO_sol.sol_sys_0007
+136	We're about to see the dead.	VO_vier.vier_sys_0001
+137	What?	VO_sol.sol_sys_0027
+138	This...sweet fragrance...	VO_drei.drei_sys_0027
+139	Huh?!
+140	We can't move?!	VO_sol.sol_sys_0025
+141	It's an illusion... So powerful. It's so persistent!	VO_drei.drei_sys_0025
+142	At last, someone with power...	VO_vier.vier_sys_0008
+143	Someone who can put me to sleep.
+144	What?!
+145	You're saying we're being manipulated by an illusion?	VO_sol.sol_battle_0019
+146	Do I have to walk you through it?	VO_vier.vier_sys_0006
+147	Stop!
+148	Bang.
+149	Sol's magic bullet?!	VO_drei.drei_sys_0026
+150	Well, that was pathetic. You'll never hit the vital points at that rate.	VO_vier.vier_sys_0014
+151	Should I make it easier for you? Aim here, for my eardrum. It'll give you a straight shot to my brain. Take me out in one hit.	VO_vier.vier_sys_0008
+152	You're wrong if you think it'll be that easy to get me to do what you want.	VO_drei.drei_sys_0010
+153	Well, it was worth a shot.	VO_vier.vier_sys_0016
+154	Nngh!	VO_drei.drei_battle_0019
+155	Here, boy. Come.
+156	Killjoy. This isn't fair.	VO_drei.drei_sys_0016
+157	Sometimes a hardy body is just an inconvenience.	VO_vier.vier_sys_0022
+158	Are you nuts?! Now that you have the power of another dimension, you want to use us to kill you?!	VO_sol.sol_sys_0002
+159	Anyone will do. Anyone who will put me to sleep. Man or woman... It doesn't matter to me.
+160	Any man who raises his hand against a woman is worse than a dog! That's my philosophy!	VO_sol.sol_sys_0016
+161	There's no gender in this world.	VO_vier.vier_sys_0007
+162	Haa... Haa... Well done... Keep it up!	VO_vier.vier_battle_0022
+163	Well, you're certainly more troublesome and interesting than I'd expected. You've got a lot of nerve making us do this.	VO_drei.drei_sys_0013
+164	Deceived again...	VO_sol.sol_sys_0016
+165	I'm tired of all this.	VO_vier.vier_sys_0010
+166	Hoping and trying not to hope every time I meet someone.
+167	If you're seeking death, you didn't need to wait for anyone.	VO_drei.drei_sys_0018
+168	I have nothing against you two. Your timing just happened to be convenient for me.	VO_vier.vier_sys_0007
+169	I'm the one who invited you to join us, so I'm responsible for you! This isn't where you die! You know that!	VO_sol.sol_sys_0002
+170	Stop saying such pathetic things!
+171	I'm not here to put on a show. I want to die as a high elven hero.	VO_vier.vier_sys_0001
+172	I am the corruption that must be extinguished. I am a dark elf, guilty of killing my own. I fooled the sun of Lost Blue!
+173	This nightmare... I just...	VO_vier.vier_sys_0018

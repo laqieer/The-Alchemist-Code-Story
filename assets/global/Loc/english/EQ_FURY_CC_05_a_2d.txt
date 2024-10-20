@@ -1,0 +1,69 @@
+﻿001	"Have you ever wanted to die?"
+067	Many times.
+002	"Have you ever tried to kill yourself?"
+003	Many times.
+004	"Have you ever wished the opposite—to survive?"
+068	Well...
+005	Only once.
+006	"A miraculous survival, huh? Wow." "Everyone's dead—except her."
+007	"The people of Wadatsumi must have something pretty powerful protecting them." "Wish I did."
+008	"Not me. You couldn't pay me to be one of them." "I don't even like being on the same team as 'em."
+009	"So, the Holy Guard is an organization that uses force to deal with problems caused by Alchemy."
+010	"Meanwhile, the inquisitors of the Holy Order of Babel keep watch on the Holy Guard and all others who would misuse Alchemy. They keep them on a leash and everyone else in line."
+011	"But what happens if there's a Paladin they can't stop?"
+012	"That'd throw 'em for a loop, huh?"
+013	"Why won't she die?"
+014	"To hear her tell it, she just forgot how."
+015	Nothing is more frightening than a human who is unafraid of death.
+016	When such a person is also highly proficient at wielding Alchemy, and well-versed in the martial arts of Wadatsumi... That is fearsome indeed.
+017	Aw, shucks. You're making me blush, Captain.	VO_ikasa.ikasa_battle_0001
+018	My apologies. I simply find myself at a bit of a loss for words.	VO_kadhanova.kadhanova_sys_0035
+019	There's no right answer. I don't know what it might be, myself.
+020	From what I gather, you are incapable of death.
+021	Yet nobody knows why. It could be a disease of some sort; it could be magic. Even the Holy Order of Babel has been unable to determine the cause. You yourself claim to have simply forgotten.	VO_kadhanova.kadhanova_sys_0030
+022	...
+023	Some suspect that you have made a contract with the darkness. Some within the organization view you as a dangerous entity.
+024	To make a contract with the darkness⁠—to receive immense power in exchange for your flesh or senses⁠—is an act so forbidden as to eclipse the taboo of Alchemy.
+025	Yeah, so?
+026	What?	VO_kadhanova.kadhanova_sys_0025
+027	I don't care what was taken from me. I'm not going to die.
+028	Sure, I'm an unknown and my background isn't pretty. The Holy Guard doesn't want my existence going public, but it'd be a waste not to use me.
+029	I've heard people whispering about sending me and my powers off on some impossible mission that I'd have no chance of coming back from alive.	VO_ikasa.ikasa_sys_0030
+030	To be frank, there are those here who would attempt to use you in such a way. I, however—	VO_kadhanova.kadhanova_sys_0031
+031	I think that'd be the right thing to do. It'd make things more peaceful.
+032	Ikasa...
+033	I accept my mission as a Secret Knight.
+034	You might not be under my command anymore, but you will always be part of the 4th Regiment.
+035	You can come back and rejoin us, anytime.	VO_kadhanova.kadhanova_sys_0001
+036	Thank you.	VO_ikasa.ikasa_sys_0034
+037	I'm really happy to hear that...even though I know I'll never see this place again.	VO_ikasa.ikasa_sys_0007
+038	"You're up, Obliviated."
+039	Hmph.
+040	"Finished putting on your makeup?"
+041	Hey! You said you wouldn't peek.	VO_ikasa.ikasa_sys_0012
+042	Wait, Wadatsumi?!	VO_ikasa.ikasa_sys_0025
+043	"The prolonged internal conflict incited by the powerful clans of Wadatsumi is dying down."
+044	"Yet there are countries who would use this opportunity to threaten the weakened nation."
+045	You mean Greed Dike?
+046	"They're demanding that Wadatsumi relaxes its restrictions on foreign policy, while secretly laying the groundwork for political sanctions and economic interference."
+047	"It's only a matter of time before they declare war. Of course, the general public is being kept in the dark about it all."
+048	They're planning to invade!	VO_ikasa.ikasa_battle_0019
+049	"Maybe, but Greed Dike has a pretty sound pretext for doing so."
+050	"When Wadatsumi started opening up to foreign relations, it became clear that they misuse Alchemy within their borders to a shocking degree."
+051	"So they plan to justify the invasion by playing it off as a righteous punishment."
+052	Tch!
+053	"That's where you come in. Your assignment is to get a certain shrine maiden as far away from Wadatsumi as possible."
+069	"In its current impoverished state, Wadatsumi doesn't stand a chance against Greed Dike's attack."
+054	"It's almost guaranteed that if Greed Dike begins its invasion, Wadatsumi will fall."
+055	"That's why our client, clan of the shrine maiden, decided to have its promising shrine maidens flee the country in secret."
+056	The Holy Guard cannot act for the benefit of any nation, whether that be Wadatsumi or Greed Dike.	VO_ikasa.ikasa_sys_0030
+057	Wadatsumi's misuse of Alchemy has only taken place within the nation's own borders. Its sovereignty protects it from the Holy Guard's judgement.
+058	"Exactly. It goes without saying that they can't give the shrine maidens safe harbor after they escape, either. Therefore the only thing the Holy Guard can do is—"
+059	Use their Secret Knights.
+060	"The Holy Order of Babel would prefer to prevent those shrine maidens, whose powers violate their precious code, from wandering around willy-nilly."
+061	"They also want to avoid having Alchemy run rampant in the war with Greed Dike."
+062	"That's why the shrine maiden you'll be taking care of is going to be sent overseas on a study trip, without being made aware of the real situation."
+063	"If Wadatsumi doesn't get invaded, wonderful. She'll enjoy herself and head back home. This plan is just a precaution, in case war does break out."
+064	"If it does, though... Well, you might not make it out alive."
+065	Hmph.
+066	You know I can't die, right?

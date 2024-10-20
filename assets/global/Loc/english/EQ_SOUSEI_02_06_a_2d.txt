@@ -1,0 +1,131 @@
+﻿001	A few days later...
+002	...
+003	Emmel! What're you doing over there? Penny for your thoughts?	VO_mela.mela_sys_0001
+004	Oh, Mira...
+005	Lately Nimul hasn't been coming down, not even to eat lunch.	VO_emmer.emmer_sys_0001
+006	What? Is he holed up in the library again?	VO_mela.mela_sys_0006
+007	Yes, I believe so.	VO_emmer.emmer_sys_0004
+008	Whew! I'm impressed by his dedication. I know I couldn't do it! Why even come to a different region if all you're gonna do is study?	VO_mela.mela_sys_0007
+009	Yes, it worries me greatly. He's become far too focused on this.	VO_emmer.emmer_sys_0030
+010	Nimul...
+011	...
+012	This is the last of the books about magic in this building. I just...I'm a little concerned.	VO_waginao-c.waginao-c_sys_0004
+013	About what?	VO_nimuru.nimuru_sys_0006
+014	You've been in here every day, up to your nose in books.
+015	I thought you were planning to persuade that witch to help us?	VO_waginao-c.waginao-c_sys_0001
+016	I am. This is how I am preparing for it.	VO_nimuru.nimuru_sys_0004
+017	I really don't see how this is supposed to help.	VO_waginao-c.waginao-c_sys_0039
+018	Waginau, these books...they carry the jewels of wisdom uncovered by the wise people of the past.	VO_nimuru.nimuru_sys_0002
+019	Kernels of knowledge that have already been mined, polished, and presented for the benefit of all.
+020	I have been consulting the greater minds of the past through these books in order to ready myself.
+021	I see. I hope that they are of some help.	VO_waginao-c.waginao-c_sys_0044
+022	Indeed.	VO_nimuru.nimuru_sys_0004
+023	Look, I have to go into town to pick up some items for Adaleigh and the others. Make sure you eat something, all right?	VO_waginao-c.waginao-c_sys_0030
+024	Right. I will.
+025	So this is meant be the mockery of this town...	VO_nimuru.nimuru_sys_0031
+026	I did notice several oddities while we were being shown around.
+027	People so preoccupied with love and matchmaking, the lack of technological development disproportionate to a town of this size...	VO_nimuru.nimuru_sys_0005
+028	This region should be more like ours, consumed by the corruption of the Cursed Beast, and yet...
+029	I haven't seen a single Fallen since coming here.
+030	How's it going, old dog?	VO_adlai.adlai_sys_0002
+031	Fine. I was a little taken aback by the idea of a furnace powered by magic at first, but I've gotten used to it.	VO_kuienai.kuienai_sys_0004
+032	Have you prepared the blueprints for the parts you need?
+033	Yep! From A-15 to C-7, right here... With these, we should be good.	VO_adlai.adlai_sys_0004
+034	That said, I dunno if they can be made with something like a blacksmith's hammer. They're pretty high-level parts with very precise measurements.	VO_adlai.adlai_sys_0031
+035	I'm not pleased with this, either. These are the only tools we managed to find, and it is rather disheartening. Still, we must at least try.	VO_kuienai.kuienai_sys_0005
+036	Yeah. Guess it is what it is. This is gonna take a while.	VO_adlai.adlai_sys_0030
+037	Hey, you two mind if I watch?	VO_nix.nix_sys_0001
+038	Nyx?
+039	I suppose not, but...why?	VO_kuienai.kuienai_sys_0006
+040	Well, um...
+041	What're you hiding? Did your teacher send you here to spy on us?	VO_adlai.adlai_sys_0012
+042	Ambrosia? Hah! You don't have the right read on her at all. If she wanted to know what you were up to, she'd be the one here, getting into all of your business.	VO_nix.nix_sys_0006
+043	Seriously? She sure is something...	VO_adlai.adlai_sys_0030
+044	I just, uh...well...it's been a while since there was someone around to talk to besides Ambrosia.	VO_nix.nix_sys_0007
+045	I dunno. I just kinda thought it'd be nice to hang out or something.
+046	Oh, right. You guys don't get out much, do you?	VO_adlai.adlai_sys_0002
+047	Something like that... So, is it cool? You just keep doing your thing, and maybe we can chat a little while you work?	VO_nix.nix_sys_0001
+048	Sure! As long as you're okay with the fact that I'll probably get distracted mid-conversation a lot.	VO_adlai.adlai_sys_0037
+049	Thanks!	VO_nix.nix_sys_0033
+050	Haha! You're really excited about this, huh?
+051	...
+052	I wanted to talk to Yna about Nimul, but...	VO_emmer.emmer_sys_0031
+053	He seems busy. Perhaps I shouldn't bother him...
+054	Oh...what am I doing?	VO_emmer.emmer_sys_0030
+055	Never mind. I'll just...take a nice walk and head back to Ambrosia's.
+056	Oh! It's you!	VO_mob-saga_ymale.mob-saga_ymale_sys_0009
+057	Excuse me?	VO_emmer.emmer_sys_0025
+058	It's me! Do you not remember me?	VO_mob-saga_ymale.mob-saga_ymale_sys_0001
+059	O-oh...of course. We met the other day in town...
+060	Just so! It was right over— Oh... Are you all right?	VO_mob-saga_ymale.mob-saga_ymale_sys_0005
+061	I'm sorry?	VO_emmer.emmer_sys_0006
+062	Forgive me for being so forward, but you look a little down. Is something the matter?
+063	Oh! No, it's nothing.	VO_emmer.emmer_sys_0031
+064	I-I see. Well, if you ever need someone to talk to...I would offer my services, but perhaps you feel that I cannot be relied upon.	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+065	No, I...I simply feel a little uncomfortable, since we are essentially strangers, and...	VO_emmer.emmer_sys_0027
+066	Then let us become friends!	VO_mob-saga_ymale.mob-saga_ymale_sys_0007
+067	I spoke with some of the workers, and they suggested that I might have been a little overeager the last time we met. They proposed that I begin by offering friendship instead.
+068	So, if it is all right with you, please allow me to be your friend!
+069	I-I'm very sorry, but I cannot accept your offer!	VO_emmer.emmer_sys_0018
+070	But why?	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+071	Not that I have to explain myself, but I cannot afford to spare my attention to such things at present.	VO_emmer.emmer_sys_0001
+072	Spare your attention? What does that have to do with anything? It is every living being's basic instinct to pursue that which will allow them to procreate!	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+073	Wh-what?! People are not bound only by their instincts!	VO_emmer.emmer_sys_0012
+074	Love is nothing so crude as that! It's gentle, yet bittersweet...at times a little embarrassing. It is the most beautiful, complex thing in the world!
+075	People...?	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+076	Oh, I see. I see... I forgot myself, having met you for the first time. You must be a witch.
+077	Wh-what?	VO_emmer.emmer_sys_0025
+078	Well, I suppose there's nothing for it. I apologize for my impertinence.	VO_mob-saga_ymale.mob-saga_ymale_sys_0036
+079	Witches may not know love, correct? Witches who love can no longer exist as people.
+080	Wait, what? What are you talking about?	VO_emmer.emmer_sys_0001
+081	Nngh! This is...!	VO_mob-saga_ymale.mob-saga_ymale_sys_0027
+082	Eeek?! Wh-what was that?	VO_emmer.emmer_battle_0025
+083	Please, head back to safety! The protection of this town is the last duty that remains to me!
+084	Wh-what are you saying?
+085	Wh-what's...?	VO_emmer.emmer_sys_0025
+086	Whoa! What's with this shaking?!	VO_adlai.adlai_sys_0026
+087	Adaleigh! Look to the north!	VO_kuienai.kuienai_sys_0025
+088	North? Which way? What—?	VO_adlai.adlai_sys_0005
+089	...	VO_asmodeus.asmodeus_battle_0003
+090	It's...Asmodeus! Come to attack the town?!	VO_adlai.adlai_sys_0027
+091	No. It is here to look for humans.
+092	You know something that you're not telling us.	VO_kuienai.kuienai_sys_0006
+093	There's no time to explain. The two of you need to get back to Ambrosia's place as soon as possible. You mind if we use Space-Time Manipulation? It'd be faster than—	VO_nix.nix_battle_0019
+094	What are you saying?! If the Cursed Beast is here looking for humans, then the townspeople are in danger!	VO_adlai.adlai_sys_0013
+095	We have to try and do something to repel the attack!
+096	Our attacks may not be effective, but perhaps we can at least drive the Cursed Beast off. Let's go, Adaleigh!	VO_kuienai.kuienai_sys_0007
+097	No, see, that's going to end up causing more problems than it solves. Come on, listen to me!	VO_nix.nix_sys_0025
+098	Mira, can you hear me? Adaleigh and Yna have jumped into battle! Come help me stop them!'	VO_nix.nix_sys_0001
+099	Come help me stop them!'
+100	Aw, man! What?! Come on, Nyx, what was the point of even sending you over there, then?	VO_mela.mela_sys_0016
+101	Hey, you didn't expect the Cursed Beast to pop up over here either!'	VO_nix.nix_sys_0039
+102	Well, wouldn't this be the perfect opportunity to show us what you're really made of, Nyx?	VO_mela.mela_sys_0030
+103	Anyway, guess there's nothing for it! I'll be right over. Hold down the fort!
+104	Got it.'	VO_nix.nix_sys_0038
+105	All right, so first of all...
+106	I feared as much...	VO_nimuru.nimuru_sys_0030
+107	Whoa! Mister Nimul! What're you trying to do, give me a heart attack?!	VO_mela.mela_sys_0026
+108	I apologize. However, this is an emergency, is it not?	VO_nimuru.nimuru_sys_0004
+109	Yeah, kinda? Well...seems like you already know what's up, so I'm just gonna come right out and say it.	VO_mela.mela_sys_0005
+110	It's too early for us to face the Cursed Beast. We are not done with our preparations.
+111	That is why the people in town, my friends...we need to bring them back as quickly as possible, correct?	VO_nimuru.nimuru_sys_0005
+112	Yes! Are you gonna help us?	VO_mela.mela_sys_0004
+113	While we're doing that, Ambrosia can work on finishing her part of the preparations.
+114	Understood. I will follow your lead.	VO_nimuru.nimuru_sys_0037
+115	Thanks, Mister! First, let's go get Emmel and the white-haired dude!	VO_mela.mela_sys_0033
+116	White-haired...? Do you mean Waginau? His hair is actually silver, I believe.	VO_nimuru.nimuru_sys_0006
+117	What?! He looks like some kind of wise man. I thought he'd just gone prematurely white!	VO_mela.mela_sys_0006
+118	Aaaaahhh! Th-the ice beasts have invaded our town!	VO_mob-saga_omale.mog-saga_omale_sys_0028
+119	N-no! Oh, no! It's so cold! So c-c-cold!	VO_mob_female.mob_female_sys_0026
+120	Something strange is going on here. The townspeople are afraid of the Cursed Beast's ice beasts, but...	VO_adlai.adlai_sys_0031
+121	They're not even paying attention to the actual Cursed Beast. I noticed that as well. How could they miss it? Is that even possible?	VO_kuienai.kuienai_sys_0031
+122	Oh, hey. New sword?	VO_adlai.adlai_sys_0004
+123	Trying to deal with the ice with a regular sword has been quite frustrating. Well, perhaps it wouldn't be so for a true swordsman.	VO_kuienai.kuienai_sys_0004
+124	Unfortunately, I am but a humble blacksmith...but that means that I am able to constantly upgrade my weapons and armor.
+125	I see I am not the only one trying something new.	VO_kuienai.kuienai_sys_0006
+126	Yeah, well, my Engineer Soldiers are still back with the ship.	VO_adlai.adlai_sys_0031
+127	All I have is what I always carry with me, but...it's fine! It's all in how you use it!
+128	Seriously? You're just not going to listen to me?	VO_nix.nix_sys_0030
+129	Of course we are! Once we've taken care of this problem, we'll hear you out. Priorities, you know?	VO_adlai.adlai_sys_0007
+130	Okay... I guess I should have seen that coming.	VO_nix.nix_sys_0004
+131	We've got company!	VO_kuienai.kuienai_battle_0019

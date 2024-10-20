@@ -1,0 +1,96 @@
+﻿001	Eep! What the heck is happening?!	VO_mela.mela_battle_0025
+002	The moment I start climbing the tower, just as I was told to, this happens! What's the big idea?!
+003	All I said was that we should make a start on meeting Nimul and the others.	VO_waginao-c.waginao-c_sys_0012
+004	Ugh... First those machine soldiers, and now falling debris... How are we supposed to get anywhere?	VO_mela.mela_sys_0027
+005	Stop wasting your breath on complaints and help me already, Mira!	VO_nix.nix_sys_0001
+006	If you don't, it might actually come crumbling down! Besides...
+007	Grraaaooogghhh!	VO_belphegor.belphegor_battle_0001
+008	That magil-soaked roar tells me Belphegor must be getting close.	VO_kuienai.kuienai_battle_0019
+009	Urgh... Of course this must occur when we've been split up and we don't have our best weapons...	VO_waginao-c.waginao-c_battle_0019
+010	Is everyone all right?!	VO_adlai.adlai_sys_0001
+011	Adaleigh?! What happened to you guys?	VO_kuienai.kuienai_sys_0025
+012	There's a lot to catch up on, but we don't have time for that right now!
+013	We need to come up with a plan while Belphegor is still restrained!	VO_adlai.adlai_battle_0019
+014	What do you mean, Belphegor's restrained?	VO_mela.mela_sys_0006
+015	Ah... That explains it.	VO_nix.nix_sys_0045
+016	What, Nyx? Don't just keep it to yourself!
+017	See that, Mira? There, where the wall of the tower is crumbling...
+018	Huh...?	VO_mela.mela_sys_0006
+019	Grrrooooaahh!	VO_belphegor.belphegor_battle_0001
+020	Whoa! Does that mean...it's locked on to this tower?!	VO_mela.mela_sys_0029
+021	The Cursed Beast is trying to free itself from the restraints Icona made to capture it!	VO_adlai.adlai_sys_0027
+022	If it slips back underground, it'll take forever to catch up with it again!
+023	In the worst case, this whole region could sink under the power of the ensuing earthquake!
+024	My... You have...an awfully good grasp of...the situation...	VO_icona.icona_battle_0019
+025	You! You're...!	VO_waginao-c.waginao-c_sys_0001
+026	Do you never tire?
+027	Never! At least... That's what I'd like to say, but...the fact of the matter is...	VO_icona.icona_sys_0011
+028	Blegh... Ugh. Sadly...it seems I've taken...a fatal wound, myself...
+029	...Why hang around here when you're bleeding like that?	VO_adlai.adlai_sys_0002
+030	I...already told you... Preparing a contingency plan...is part...of a researcher's duty...	VO_icona.icona_sys_0006
+031	This is...
+032	It's a...high quality stone of the gods compacted...into...a very handy...jackhammer knuckle.	VO_icona.icona_sys_0004
+033	I call it...Antares. Heh heh... Neat, no?	VO_icona.icona_sys_0007
+034	It's packed with Sloth magil... It should be able...to penetrate Belphegor's...outer shell.
+035	Why didn't you make it into a ranged weapon at the very least?! Who the hell is gonna get close enough to use this thing?!	VO_adlai.adlai_sys_0001
+036	Listen closely, Adaleigh... The Cursed Beast, Belphegor, is...very powerful...but it has no intelligence.	VO_icona.icona_sys_0001
+037	It just...follows its instincts...and repeats simple attacks...over and over... You're smart enough...to figure out its patterns.
+038	Well, so are you! You're way more brilliant than I am!
+039	How lazy you are, Adaleigh... Look at me. Surely you can see...	VO_icona.icona_sys_0039
+040	I'm done for. It's...well past...time for you to stand on your own... You're a capable adult.
+041	Icona...!
+042	Congratulations... You've won...our very first...sibling squabble, Adaleigh. You're...all...grown up...	VO_icona.icona_sys_0007
+043	Ah, well... This is the end...for my research, too... I had fun, though. It's too bad, but...let me just say one...last thing...	VO_icona.icona_sys_0020
+044	I couldn't...save anyone...my way. So this time...try it your way...Adaleigh.
+045	I believe in you, Adaleigh... I'm proud to call you...my brother.
+046	Oh, Icona...
+047	Adaleigh... Now's not the time...
+048	I know. It's all right. I can do this.	VO_adlai.adlai_sys_0018
+049	Everyone, I need your help... Lend me your strength so we can save this region!	VO_adlai.adlai_sys_0002
+050	Well, if we must... What would you do without us, Adaleigh? Don't you feel lucky you've got us?	VO_mela.mela_sys_0037
+051	You did everything in your power to save the region we live in... So of course we'll lend you a hand.	VO_nix.nix_sys_0008
+052	This blade of mine might have been hastily put together, but I will push it to its limits.	VO_kuienai.kuienai_sys_0004
+053	We of the Sephira would never forsake those in need of rescue. My sword is at your service.	VO_waginao-c.waginao-c_sys_0004
+054	I, too, will do everything in my power to help!	VO_emmer.emmer_sys_0001
+055	Thank you so much, everyone!	VO_adlai.adlai_sys_0033
+056	It would seem that all of us are in agreement.
+057	Nimul! You made it!	VO_adlai.adlai_sys_0004
+058	I did. And what's more, I've succeeded in completing a new technique... No, a new school of Spiritbonding entirely. I call it alchemy.	VO_nimuru.nimuru_sys_0004
+059	I believe that we now have what it takes to face Belphegor.	VO_nimuru.nimuru_battle_1030
+060	Right, then. Let's do it!	VO_adlai.adlai_battle_1030
+061	Well, if we want to recover Libra, this has to come first. I knew it would come to this, I guess, but I'm still kind of freaking out!	VO_mela.mela_sys_0030
+062	Mira, quit babbling and help me make these adjustments! We've hardly got any time to sync Libra up with all of this idle magil!	VO_nix.nix_sys_0030
+063	Yeah, yeah, I know... So what do you want me to use to focus this magil, exactly?	VO_mela.mela_sys_0016
+064	It would have to be this: Antares.	VO_adlai.adlai_sys_0002
+065	You mean Icona's...?	VO_mela.mela_sys_0006
+066	Yeah. The core of this thing is made up of the stones of the gods collected in this region.
+067	If you're going to sync to the magil in this region, then this is our best bet.
+068	To activate Libra's Anti-Curse function, someone will have to land an attack on the Cursed Beast with those knuckles, first...
+069	You know that, right?
+070	Of course. Icona said she believed I could do it, so I'll get it done. Piece of cake.
+071	Then I'll make the adjustments.	VO_nix.nix_sys_0005
+072	Do we even know if this airship will fly? Didn't it need a complete overhaul when we arrived in this region?	VO_waginao-c.waginao-c_sys_0001
+073	As it happens, all of that got taken care of while it was confiscated.
+074	While it was confiscated...?	VO_waginao-c.waginao-c_sys_0006
+075	Apparently, the mayor ordered it.	VO_kuienai.kuienai_sys_0005
+076	The dockworkers said he'd left instructions that it be returned to us in the worst case scenario.
+077	In the end, I still don't know if Icona and the mayor were our enemies...or...
+078	We were all doing our best to save this region in our own ways.
+079	We just had conflicting ideas about how to achieve that.
+080	Having the same dream for the future doesn't mean we can join forces to achieve them. This has really opened my eyes to that fact.	VO_nimuru.nimuru_battle_0022
+081	Nimul...
+082	Here we go. Engine's running! Full speed ahead! Hold on tight, people! We're about to ram that Cursed Beast!	VO_adlai.adlai_sys_0006
+083	Is the vein getting agitated...?	VO_nimuru.nimuru_sys_0006
+084	Judging by the method used to restrain Belphegor, Icona must have introduced something into the vein.	VO_adlai.adlai_sys_0004
+085	What better way to restrain something with such a massive amount of magil than to pump an equal amount of magil into it? That's the most likely answer.
+086	However, that now seems to be increasing Belphegor's domain.
+087	Now that the clocktower's functionality has been suspended, all that magil is vulnerable to Belphegor's control.	VO_adlai.adlai_sys_0031
+088	If we can reboot the tower, maybe we can hamper Belphegor's movement somewhat...	VO_adlai.adlai_battle_0019
+089	We just don't have enough hands to go around for that right now. We'll have to focus on what we can manage.	VO_nimuru.nimuru_sys_0002
+090	Mira! Nyx! Is Libra up and running yet?	VO_nimuru.nimuru_sys_0001
+091	It's happening. We've got this! Analysis of sloth-based magil complete... Distribution of magil through the domain is almost done!	VO_mela.mela_sys_0004
+092	I think we can neutralize most of the magil within the domain, but...	VO_nix.nix_sys_0009
+093	We won't be able to take it down completely unless Adaleigh hits Belphegor in the core with those knuckles.	VO_nimuru.nimuru_sys_0031
+094	In that case, it falls to us to make way for him.	VO_waginao-c.waginao-c_sys_0004
+095	I have gathered up every last sword onboard the airship, so leave it to us to clear the way forward.
+096	This is it, then! Let's take on the Cursed Beast Belphegor!	VO_nimuru.nimuru_battle_0015

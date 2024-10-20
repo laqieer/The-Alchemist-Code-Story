@@ -1,0 +1,53 @@
+﻿001	...So that's everything we know.
+002	The delivery person was attacked by a monster!? That's terrible!	VO_isyuna.isyuna_sys_0012
+003	But they weren't hurt. They just had their packages stolen.	VO_rachel.rachel_sys_0045
+004	Hmm, well it's certainly strange. A monster attacking someone not for food, but for holiday decorations?	VO_lotia.lotia_sys_0031
+005	No kidding... The packages just had the decorations, some ornaments, and other holiday stuff. What interest would a monster have in things like that?	VO_lavina.lavina_sys_0006
+006	...
+007	...What is it, Rochelle?
+008	!	VO_rachel.rachel_sys_0025
+009	What's wrong? You're just staring into space. Are you upset about the decorations?	VO_isyuna.isyuna_sys_0005
+010	Don't feel bad. It's not your fault. Besides, there's nothing we can do about it anymore.
+011	...
+012	Or...is it something else? You know you can tell me anything, right?	VO_isyuna.isyuna_sys_0002
+013	It's just...
+014	...nothing.	VO_rachel.rachel_sys_0004
+015	Come on, don't give me that. I can tell when something's bothering you.
+016	You worry too much. I'm fine. Really. Besides, our mission is going fine. There's nothing wrong.	VO_rachel.rachel_sys_0029
+017	...
+018	Ishi?	VO_rachel.rachel_sys_0006
+019	...You just won't tell me anything, will you?	VO_isyuna.isyuna_sys_0001
+020	I...	VO_rachel.rachel_battle_0019
+021	...Forget it.
+022	...
+023	Hey, it looks like the festivities are beginning. 	VO_lotia.lotia_sys_0003
+024	Yeah, the snow sculpture contest should be starting soon... 
+025	Speaking of which, do you think that man ever finished his sculpture?	VO_isyuna.isyuna_sys_0031
+026	I wonder...
+027	Hey! Security!!	VO_knightm.knightm_battle_0019
+028	! W-what's wrong!?	VO_isyuna.isyuna_sys_0025
+029	Have you seen my son!?	VO_knightm.knightm_sys_0035
+030	I-I was so intent on finishing the sculpture before the deadline.
+031	But then when I looked up, he was gone!	VO_knightm.knightm_sys_0031
+032	What!? Oh no! Where could he have gone...
+033	He special ordered the decorations from a famous craftsman who lives in the forest. "I'll make the perfect snow sculpture! Just you watch!" he said...
+034	...! You don't think...he went looking for the decorations too?	VO_lavina.lavina_battle_0019
+035	What!? Oh no... He could be out there all alone!
+036	Actually... I did see a boy in a red coat heading out toward the forest...
+037	Oh no! This is bad.	VO_isyuna.isyuna_battle_0021
+038	No way... He could be in real trouble! There are monsters and beasts in the forest. And that delivery person was just attacked...	VO_lotia.lotia_sys_0021
+039	! I have to go after him!	VO_knightm.knightm_sys_0042
+040	It's too dangerous to go alone. I'll go with you.	VO_rachel.rachel_sys_0002
+041	Then I'll go too--
+042	No, you should stay here and stand guard, Ishi. We can't abandon our duty.
+043	I can look after both parent and child. Black and white bears are strong, you know.	VO_rachel.rachel_battle_0015
+044	Besides, I was the one who started looking for the decorations. So I want to be the one to see it through to the end.
+045	Rochelle...
+046	Then let me go, at least. I was there with you from the start. I want to see this through too.	VO_lavina.lavina_sys_0003
+047	That boy must feel so lost and alone right now. Please bring him back safe...
+048	Sounds like we can leave it to the two of them, Ishuna.	VO_lotia.lotia_sys_0004
+049	...All right. We'll look after things here, and you two go find that boy. No distractions. Come right back once you've found him.
+050	We will. Ok, let's get going.	VO_rachel.rachel_sys_0038
+051	We've come pretty far into the forest, but there's still no sign of him...	VO_lavina.lavina_sys_0031
+052	...! Over there!
+053	! Oh no, he's surrounded by monsters! We've got to save him!	VO_lavina.lavina_sys_0012

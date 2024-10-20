@@ -1,0 +1,65 @@
+﻿001	Huh! You aren't half bad. Guess you live up to that name of yours after all, Najam...regrettably.	VO_ryle.ryle_battle_0020
+002	Honestly, it's one thing after another these days! First there are all the negotiations, then the caravan attacks, and now you filthy lot.
+003	There's a line connecting all of these things, and we have a pretty good idea what it is. But there's still something else left to piece together here that smells real fishy to me.	VO_ryle.ryle_sys_0016
+004	...
+005	I was expecting you to come try and kill me, but...isn't this too soon? I figured I'd have to wait my turn.	VO_ryle.ryle_sys_0002
+006	I thought you Zalam Gaim folk were particular about doing jobs in order.
+007	That is none of your concern.	VO_aswad.aswad_sys_0001
+008	I'll bet it's your concern, though. You lot get pretty flustered when you have to go against your code. It puts you off your game.	VO_ryle.ryle_sys_0001
+009	Your strict adherence to the rules sets you apart from other assassins' guilds. It's practically what you're all about.
+010	Seems to me like your whole system is in danger of collapse when you make an exception like this.
+011	I am an assassin of Zalam Gaim. I do what is asked of me. And I don't concern myself with anything beyond that.	VO_aswad.aswad_sys_0016
+012	That's how it's always been, and this time is no different. There is no exception here. And nothing further to discuss.
+013	Oh, well, then. If the so-called star of all assassins says so, what can I do?	VO_ryle.ryle_battle_0022
+014	Pity it won't matter much longer, since the ripple effect of this...gross misconduct will throw your whole system into chaos sooner or later. Zalam Gaim's days are numbered.
+015	But, I guess that's good for us, so I'm happy to just sit back and wait for the fall.
+016	Hyaaaah!	VO_aswad.aswad_sys_0032
+017	Nnngh?!
+018	Hey, uh, you're kind of leaving me hanging here! I think I've stalled her as much as I possibly can. Little help, please?!	VO_ryle.ryle_sys_0002
+019	Little rude, is more like it! I trekked all the way to Wratharis and back in short order to clean up this mess. You might try sounding a bit more grateful!	VO_balt.balt_sys_0012
+020	What in the...?
+021	Listen here, Zalam Gaim puppet. You are to abandon your mission here and now. The man who ordered the hit on the Desert Wings' guild captain is dead.	VO_balt.balt_sys_0003
+022	What are you talking about?!
+023	We're talking about the attacks on the caravans of late. We looked into the matter and came across a certain noble at the heart of it.	VO_karla.karla_sys_0003
+024	Someone who wanted to see Envylia's profits dry up, and thought to make it happen by sabotaging the trade route with a roving gang of bandits...	VO_balt.balt_sys_0006
+025	And for good measure, to take down the Desert Wings, too, since they've become so pivotal to trade here. Which meant contracting Zalam Gaim.
+026	...
+027	Which is why the Desert Wings made a formal request to the Sand Hawks to secure the safety of that trade route...	VO_ankh.ankh_sys_1038
+028	Entailing a little bit of search-and-destroy on the person behind the caravan attacks. Ipso facto, your contractor is deceased now.
+029	And I'm afraid that means making the star assassin of Zalam Gaim experience her greatest failure ever, by thwarting her mission to kill the guild captain of the Desert Wings.
+030	Hmph.	VO_aswad.aswad_sys_0012
+031	If I'm not mistaken, Zalam Gaim's creed states that should the person ordering the assassination be disposed of before the job has been carried out...	VO_ryle.ryle_sys_0031
+032	...then the mission is subsequently deemed as a failure. Is that not the case?
+033	Did you...plan all of this?!	VO_knightm.knightm_sys_0025
+034	The Desert Wings claim victory over the master assassin, Najam, who has heretofore never failed to complete a mission.
+035	No doubt it's only a matter of time before this information spreads. It's going to be a rather big story, I dare say.	VO_ankh.ankh_sys_0007
+036	And it will only serve to increase the public's trust in the Desert Wings even more, which in turn will bolster the market even further.
+037	...
+038	You can see why we went to all the trouble to tackle this problem from basically every angle. There was simply too much to gain, for everyone, not to put our all into it.	VO_ryle.ryle_sys_0004
+039	It was all rather reckless, however. We were happy to help, for the sake of ensuring safety and prosperity and all that, but we're not jumping at the chance to do anything like this ever again.	VO_ankh.ankh_sys_0030
+040	Don't get me wrong! I'm glad it succeeded, and we have our tight bonds and teamwork, as well as the strong ties between our two organizations, to thank for that. But still... Never again, please!
+041	Believe me, the feeling is mutual. This whole ordeal has been a headache and a half.
+042	What I don't get is how you could put yourself in harm's way like this, knowing there was a price on your head. All to help keep some trade running smoothly!	VO_aswad.aswad_sys_0001
+043	It's not like I really wanted to go through all that, but it's important to always make sure you've got a safe place to let your guard down and rest your head at night, you know?	VO_ryle.ryle_sys_0006
+044	Plus, I mean, I am technically the guild captain, so I've gotta actually take charge from time to time. Even better if I can preserve public order in the process.
+045	Not that you care about any of that, though. You take no interest in the reasons behind your assignments, because they don't concern you, right?	VO_ryle.ryle_sys_0016
+046	...
+047	Lady Najam. What should we do?
+048	If the client is dead, then we abandon the mission, as the creed dictates.	VO_aswad.aswad_sys_0016
+049	But, abandoning the mission will stain your record!	VO_knightm.knightm_battle_0020
+050	And we can't be sure that the client truly is dead. Only the intermediary even knows the client's identity.
+051	Then we'll confirm with the intermediary. Under the current circumstances, we cannot rightfully continue the mission until we do.	VO_aswad.aswad_sys_0002
+052	Besides...changes to the order of our missions run counter to the creed in the first place. We may already have involved ourselves in an illegitimate job. I don't intend to drag us down any farther.
+053	Understood.	VO_knightm.knightm_battle_0019
+054	There they go. And with that, I think the situation is a wrap. Trade should start booming again.
+055	So, what now? There could be any number of other good-for-nothing nobles lurking around out there, plotting to do the same thing...	VO_ankh.ankh_sys_0031
+056	But when word gets out about Najam failing her mission, that should be enough to make them think twice about it.
+057	And since Zalam Gaim assassins are prohibited from carrying out jobs after the client has died, I think we should all be safe for the time being.
+058	Though that also means we won't have a whole lot to do for a while.	VO_ankh.ankh_sys_0016
+059	I fail to see any problem there.	VO_balt.balt_sys_0007
+060	Exactly. Making sure everyone's safe is what's most important. Once that's taken care of, a little downtime is never a bad thing.	VO_karla.karla_sys_0006
+061	I must say, though, that was the most I think I've ever heard you talk, Ryle.
+062	I know you had a lot on the line, and needed to buy time for Balt to show up, but I'm genuinely impressed you pulled it off, considering your usual dismissive nature.
+063	It's no big deal. I just did what I felt like. Besides, now we've evened the score a bit.	VO_ryle.ryle_sys_0030
+064	Master Ryle?
+065	Never mind.

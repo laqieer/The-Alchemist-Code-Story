@@ -1,0 +1,14 @@
+﻿001	The enemy is here! All troops, into position!
+002	No!	VO_adalbert.adalbert_battle_0017
+003	Never mind that! Do not forget our goal! Occupy the castle! Rearguard, surround the guard stations and watchtowers!
+004	Kamui, the throne is down this corridor. I apologize, but this is as far as I can come with you.	VO_adalbert.adalbert_sys_0041
+005	That is fine. Thank you for showing us this far. I will do what I can to end our conflict with Ceclidis and the Jam from here.	VO_kamui.kamui_sys_0004
+006	At long last...
+007	Tina, I've never seen you so nervous. Your hands are shaking.	VO_logi-b.logi-b_sys_0002
+008	I'm not nervous—I'm trembling with excitement!	VO_tina.tina_sys_0029
+009	It's finally here... My chance to defeat Ceclidis, to lift the curse on Mocca!
+010	I understand how you feel, but you must remain vigilant. We don't know what kind of trap we might be walking into.	VO_kamui.kamui_sys_0002
+011	I-I know that!	VO_tina.tina_battle_1016
+012	It's time! Tina, cover me! I'll purify all of the Jam that come through with my Spiritbonding!	VO_kamui.kamui_sys_0042
+013	Understood. I'll trap them in place with Wind Ouija! Logi, stay back!	VO_tina.tina_sys_0004
+014	Got it!	VO_logi-b.logi-b_sys_0037

@@ -1,0 +1,84 @@
+﻿001	I see you’ve recovered. Well? The orchestra isn’t so bad, is it?
+002	I have to agree!<br>And yet...	VO_berta.berta_sys_0005
+003	Don’t worry about me. I only did what I had to do. And now I’ve come across this great job.
+004	I have you to thank for this, too.
+005	...
+006	I’m sure you’ll also understand one day. The music will teach you, when that time comes.
+007	...
+008	Ah, such a beautiful sound... I wonder who’s playing?
+009	Oh no! It’s almost time for me to meet with Patty and Alaia!	VO_berta.berta_sys_0026
+010	And right about here... I want to set off some cannon fire right when the piece comes to its climax!	VO_patty.patty_sys_0002
+011	An awesome melody, with a real signal gun. Doesn’t this song make you feel excited?!
+012	I love it! So here I’ll change the type of cannon used to add some variety to the sound.	VO_berta.berta_sys_0009
+013	Nice! I’ll be taking that!	VO_patty.patty_sys_0046
+014	Hehehe. I’m glad you’re both having fun.	VO_alaia.alaia_sys_0007
+015	What?! Aren’t you having fun, Alaia?	VO_berta.berta_sys_0016
+016	I love seeing you two enjoy yourselves.	VO_alaia.alaia_sys_0010
+017	The song ends up being more bright and fun when you two are enjoying yourselves. It seems like this will be another good song. I’m so happy.
+018	Bertha will fire blank cartridges in time with the music as the Envylia orchestral band plays. It was just a passing idea...	VO_patty.patty_sys_0031
+019	I really didn’t expect everyone to like it so much!
+020	The royal knights enjoyed it, too! Patty’s going to compose a new song! I hope all of the citizens like it.	VO_berta.berta_sys_0007
+021	What?! Oh no, look at the time! I gotta go!	VO_berta.berta_sys_0026
+022	What’s wrong?	VO_alaia.alaia_sys_0025
+023	Today is the temporary assignment ceremony for the royal knighthood training school! I’ll be toast if I’m late!	VO_berta.berta_sys_0018
+024	The temporary assignment ceremony... The students have finished their practical training and will set off on their own paths	VO_patty.patty_sys_0005
+025	Is that the kind of traditional event the knights hold? Hang on, Bertie, you’re going to be an instructor?!
+026	That’s right. This time I’ll make sure I do my best!	VO_berta.berta_sys_0005
+027	This time?	VO_alaia.alaia_sys_0005
+028	Yeah. I’ve done it a few times before already, but I’m useless. The seniors are always scolding me even during the practical training.
+029	Oh, Bertie. I know you don’t like hurting people. Even though they may only be military exercises, don’t you think it’d be difficult to instruct others on how to fight?
+030	That’s not the only thing. I also wonder to myself, is there anything I can actually teach?	VO_berta.berta_sys_0022
+031	Look, one day you guys will work and fight together side-by-side.
+032	I feel odd “teaching” these comrades of mine...	VO_berta.berta_sys_0031
+033	That’s why I can’t quite get my head around the whole concept of teaching.
+034	Bertha, you’re just too nice. But I think that’s exactly why you have plenty you can teach the others!	VO_alaia.alaia_sys_0010
+035	Thanks for hearing me out. This time I won’t fail! Oh no, I’m gonna be late! Sorry to leave in the middle of things! We’ll pick up where we left off later!
+036	Wow. She sure left in a rush. Is she gonna be okay?	VO_patty.patty_sys_0027
+037	Hmm, well, a few people have chosen paths outside of the knighthood. I don’t think that’s a bad thing.	VO_alaia.alaia_sys_0031
+038	Not hurting others, huh? That would be the most ideal option.	VO_patty.patty_sys_0030
+039	While I do think the students who chose not to enter the knighthood are happy on their own paths, I think Bertie would be a good instructor.
+040	I’m sure it’ll work out for her this time. Oh, but there are a lot of rumors going around about a new student with immense potential...
+041	The therian kid from the Long-Tail Rabbit Clan who is said to be the next big talent since the former vice-captain of the Scarlet Flame Guard, Nina? They say she has the most potential this year.	VO_patty.patty_sys_0031
+042	You’re pretty well informed, Patty.	VO_alaia.alaia_sys_0044
+043	Maybe not of the same race, but similar in stance, at least according to the rumors.	VO_patty.patty_sys_0004
+044	I hope Bertie doesn't end up in charge of that kid.	VO_patty.patty_sys_0030
+045	Why do you say that?	VO_alaia.alaia_sys_0005
+046	I heard that she’s a little hard to handle. But I guess that can’t be helped.	VO_patty.patty_sys_0031
+047	Same Long-Tail Rabbit Clan as Nina, very capable... I’m sure there’s a lot of pressure behind the expectation that she’ll join the Scarlet Flame Guard.
+048	I see. The student seems to have a lot in common with Bertha. There were a lot of expectations for her and her incredible gunnery skills.	VO_alaia.alaia_sys_0045
+049	There are a lot of reasons this kid is drawing attention. I’m a little curious myself. If I remember correctly, her name is...	VO_patty.patty_sys_0004
+050	Sorry! I’m late!	VO_berta.berta_sys_0002
+051	...
+052	You’re late, Bertha! What were you doing?!
+053	Sorry! We’re going to play another piece with cannon fire, so I was in a meeting with the orchestral band...	VO_berta.berta_sys_0002
+054	Hang on, I’m in charge of this kid?
+055	Yes, the new student with talents not seen for years. Teach her well. I won’t accept any of your past failures again.
+056	The others have already left the castle. You should hurry up yourself!
+057	Eheh, scolded again. I’m Bertha of the Envylia Royal Knighthood artillery regiment!	VO_berta.berta_sys_0011
+058	And you are?	VO_berta.berta_sys_0001
+059	...I’m Sharon, a trainee.	VO_sharon.sharon_sys_0004
+060	Little Sharon! Nice to meet you! You can call me Bertie.	VO_berta.berta_sys_0007
+061	I’d prefer not to. You’re an instructor, aren’t you? I can’t bring myself to refer to you in such a casual manner.	VO_sharon.sharon_sys_0030
+062	Oh, don’t worry about that. Don’t you think it’s more important that we get to know each other by keeping it casual?	VO_berta.berta_sys_0006
+063	Are you saying that as an instructor? That we should be friendly and not abide by strict hierarchical rules?	VO_sharon.sharon_sys_0010
+064	Well, not exactly...	VO_berta.berta_sys_0029
+065	Good, then. I’m not very good at being friendly.	VO_sharon.sharon_chara_1001
+066	I know of a magnificent person who did all that she could to change how people think about battles... All I want to do is follow and even surpass this person.
+067	Well, uhm, uhh...I see! So, little Sharon, you...	VO_berta.berta_chara_1010
+068	Don’t call me “little.” Just “Sharon” is fine.	VO_sharon.sharon_sys_1039
+069	I don’t believe such nicknames are necessary for training.
+070	What?! You don’t even like nicknames?
+071	My goal is to finish my training and join the Scarlet Flame Guard. I don’t have time for distractions. Let us please get on with this. Time is of the essence.	VO_sharon.sharon_sys_0029
+072	The Scarlet Flame Guard? Oh! That tail of yours! Are you part of the Long-Tail Rabbit Clan?!	VO_berta.berta_sys_0025
+073	Oh, I see now. Just like Nina! So that’s why you want to join the Scarlet Flame Guard!	VO_berta.berta_sys_0045
+074	You’re said to be the most talented student in years. So I’m sure you’ll become a great knight, too!
+075	No need to chit-chat. The noise around here is grating on my ears. Let’s go already.	VO_sharon.sharon_sys_1039
+076	Aww! Tell me more about yourself! We’ve only just met!	VO_berta.berta_sys_0025
+077	...
+078	Whaa?! What’s wrong?! And what’s with that huge sword?!	VO_berta.berta_sys_0026
+079	You’re my instructor, aren’t you? Then please instruct me. That’s all I need from you.	VO_sharon.sharon_sys_0001
+080	You come late, and you talk unnecessarily... If this keeps up, I won’t be able to accept you as my instructor.	VO_sharon.sharon_sys_0040
+081	Please fight with me. In doing so, please show me that you have things to teach me.
+082	Huh? Wait! That’s so sudden!	VO_berta.berta_sys_0025
+083	I don’t need a response. I need to get stronger!	VO_sharon.sharon_sys_0032
+084	...!

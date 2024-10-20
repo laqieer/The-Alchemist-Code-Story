@@ -1,0 +1,83 @@
+﻿001	A Few Days Later
+002	…I didn't tell Moa that I went back to Eve's house. There was something about her I needed to investigate further.	VO_leychel.leychel_battle_1029
+003	If something's going on, I want to help. She's doing her best to break the curse to be with the person she loves...
+004	Yet she doesn't conform to society's expectations. I want someone as determined as she is to have all her hard work pay off…	VO_leychel.leychel_sys_0042
+005	…Hm? What's going on?
+006	I told you! I don't want to be a scout! I have no interest in joining any order of knights.	VO_eve.eve_sys_0013
+007	…That's fine. However--	VO_courtmage.courtmage_sys_0016
+008	This is a critical moment for Lustburg. I wouldn't want one of our own giving aid to other countries--like Envylia, for example.
+009	Like I said…	VO_eve.eve_sys_0012
+010	…At any rate, once we shut down our borders, you won't be able to wander around aimlessly like before.
+011	Stop wasting your time with that "Bridal Training," or whatever you call it, and just turn him into an insect already.	VO_courtmage.courtmage_sys_0001
+012	A-An insect!	VO_eve.eve_sys_0006
+013	As long as you have children, we won't give you any grief. They'll become an asset to our country.	VO_courtmage.courtmage_sys_0005
+014	Besides don't you want to leave behind a legacy--all the more so with the man you love?
+015	…
+016	(What's with that tone…I don’t like how she's speaking to her.)	VO_leychel.leychel_sys_0029
+017	(…And why isn't Eve speaking up? She tore into that witch the other day.)
+018	At any rate, think it over. You're a woman of Lustburg, after all.	VO_courtmage.courtmage_sys_0010
+019	…*Sigh*
+020	…Um…	VO_leychel.leychel_sys_0003
+021	! R-Rachel! What are you doing here?	VO_eve.eve_sys_0025
+022	Sorry to drop by without warning. I was wondering if we could talk… What happened just now?
+023	Oh that…
+024	They've been coming here a lot lately. Seems like they want to keep an eye on me.	VO_eve.eve_sys_0003
+025	My guess is that it's because I used to be scouted by other countries to join their order of knights.
+026	"Never act on behalf of another country! Always behave like a proper woman of Lustburg!" That's what they say.	VO_eve.eve_sys_0016
+027	Yeesh… What gives them any right to say that sort of thing?	VO_leychel.leychel_sys_0030
+028	…Lustburg witches are so pushy.
+029	Aren't they? I couldn't agree more.	VO_eve.eve_sys_0004
+030	I think what they say sounds totally unreasonable…but at the same time I sort of understand where they're coming from.
+031	Lustburg may have fared better than others during the Lion Monarch's Charge, but we still suffered. So, I understand the instinct to be weary of other countries and want to protect our own.	VO_eve.eve_sys_0031
+032	But…	VO_leychel.leychel_sys_0016
+033	They're not bad people. They're doing their best for their country.
+034	…That doesn't mean they can do whatever they want in the name of national security.
+035	True…but I'm sure it isn't easy protecting an entire country!	VO_eve.eve_sys_0030
+036	Look at Fraise. He's constantly working to protect Envylia. When I think of that, this kind of thing doesn't get to me.	VO_eve.eve_sys_0007
+037	…
+038	(Sure, they're trying to protect their country, but…still…)	VO_leychel.leychel_sys_0031
+039	(That doesn't give them the right to harass their own citizens. Right?)
+040	…
+041	Hey, Rach. Please don't tell Moa about what happened today, okay?	VO_eve.eve_sys_0002
+042	She finally cheered up, so I don't want her worrying on my account. Please!
+043	…If that's what you want, then you should make up with Fraise. I think that'll make her happy, too.	VO_leychel.leychel_sys_0003
+044	What?	VO_eve.eve_sys_0006
+045	…Sorry. I know it's wrong, but… I work part time delivering letters, and…	VO_leychel.leychel_sys_0036
+046	That's why I know--that you and Fraise haven't been exchanging letters lately.
+047	Lately, the higher ups have been checking mail a lot, so at first I thought they were blocking you. But…
+048	…I-It's just a coincidence! Just bad timing!	VO_eve.eve_sys_0042
+049	…Then may I take the letter on your desk? I can deliver it for you.	VO_leychel.leychel_sys_0001
+050	What?!
+051	Once the borders are closed it'll be even more difficult to send letters. You've got to tell him how you feel before that happens.
+052	Y-You may be right…but...	VO_eve.eve_sys_0031
+053	…My mom always said if you have something to say to somebody, then say it.	VO_leychel.leychel_battle_1029
+054	If you don't, you'll regret it when it's too late. As long as there's someone you have something tell, you should try to tell them.
+055	Your mom said that?	VO_eve.eve_chara_1003
+056	She was the kind of person that would go to the forest with a bunch of food in case my dad, who had become an insect, was hungry.
+057	Sounds like a wonderful woman.	VO_eve.eve_sys_0044
+058	Yeah, well, thanks to that, the witches took all the insects in the area--for experimentation. Apparently, they grew TOO well.	VO_leychel.leychel_sys_0042
+059	…How awful.	VO_eve.eve_sys_0021
+060	But…I still think my mom had the right idea. Even if that idea was at odds with the country.
+061	My mom was true to herself and the one she loved. That's why I think she was so cool…	VO_leychel.leychel_sys_0005
+062	…Ah, sorry! Look at me going on and on about myself. We're talking about you right now!
+063	…Rach.
+064	Anyway, I don't want you to give up! I want you to acknowledge your feelings.	VO_leychel.leychel_sys_0016
+065	Otherwise, someday…I'm sure you'll regret it.
+066	…That means a lot, Rach.	VO_eve.eve_sys_0033
+067	But…it's done! I've already made up my mind! Because…
+068	Made up your mind… But don’t you love Fraise?	VO_leychel.leychel_sys_0030
+069	W-Well…	VO_eve.eve_battle_0024
+070	I……......ADORE him!	VO_eve.eve_sys_0018
+071	Then…In that case, I'll help you!	VO_leychel.leychel_battle_0019
+072	Oh! My letter…	VO_eve.eve_battle_0019
+073	I'll be taking this. It's my duty as a delivery person to make sure your letter arrives safely.
+074	EEEEK! W-Wait a minute! I'm not mentally prepared for this…	VO_eve.eve_sys_0026
+075	…
+076	…That reminds me. Moa told me what an absolutely amazing person Fraise is.	VO_leychel.leychel_sys_0008
+077	She did?	VO_eve.eve_sys_0006
+078	He's kind and handsome and, to top it all off, he's a super elite knight! What a stud!
+079	A knight who fights with pride is so dreamy, don't you think? I sure wouldn't mind if he rescued me, once or twice.	VO_leychel.leychel_sys_0007
+080	Uh…Er…
+081	I mean if you're not serious about him, I guess he's up for grabs, right?
+082	R-Rach?!	VO_eve.eve_sys_0002
+083	Don't come crying if things turn out that way--

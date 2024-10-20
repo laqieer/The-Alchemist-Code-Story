@@ -1,0 +1,140 @@
+﻿001	Phew! We finally got away. Hard to feel too relieved when we know how close the monsters are, though. Yikes!	VO_victor.victor_chara_1006
+002	...
+003	I read about the scale of these new Taurus in Kazahaya's reports, but seeing them with my own eyes was something else entirely.	VO_basini.basini_sys_0030
+004	It's easy to see how the beasts were able to decimate even a veteran force. This is going to be difficult, to say the least. We're going to need a plan more sophisticated than just attacking them head-on.	VO_basini.basini_sys_0018
+005	I still can't get over how big they are. What is it about Saga that attracts all these ginormous creatures, anyway?	VO_victor.victor_sys_0031
+006	Come to think of it, there is a legend here in Saga about a colossal dragon that roamed the land in ancient times.	VO_basini.basini_sys_0001
+007	Perhaps even more enormous creatures existed back then that we have yet to discover. Maybe some of them were even bigger than these Giant Taurus.
+148	Speaking of which... When we were fleeing the Taurus, we ran past a large fissure in the ground. You three noticed it too, right? I wonder if there's anything down there... Anything big.
+008	If there is, it might be worth investigating.
+009	Come off it! There's no way something bigger than those Taurus exists! This isn't some fairytale, y'know!	VO_victor.victor_sys_0027
+010	You're right. Excuse my flight of fancy. Forget I mentioned it.
+149	Well... Whatever's causing this outbreak, we've gotta put a stop to it, and fast.
+150	At this rate, the corruption's going to consume all of Saga's natural beauty. We can't let that happen!
+011	...
+012	Chin up, Judith! We made it out safe. We'll live to fight another day—that's the main thing.	VO_budd.budd_chara_2011
+013	But...	VO_judith.judith_sys_0027
+014	Are you angry at me or something? I know I got in your way a bit back there, but...it was for your own good, you know?	VO_budd.budd_sys_0001
+015	It's not that. You did the right thing.
+016	O-oh...
+017	But...you saw how fast the corruption was spreading.	VO_judith.judith_battle_0019
+018	And yet all I could think about was using the Mecha Weapon to finish off the Taurus.
+019	It was like I forgot what trial and error really meant. I was prepared to keep doing the same thing, over and over again, expecting different results... I guess I just wanted to do my dad proud.	VO_judith.judith_sys_0018
+020	Y'know... I'm pretty sure your dad didn't leave you with that Mecha Weapon because he wanted to see the world accept it.	VO_budd.budd_sys_0004
+021	Think about it. The three of us fight to protect the future of this world that was entrusted to us.
+022	What about you? What were you entrusted with?	VO_budd.budd_sys_0003
+023	I...
+024	I've been so selfish. The Mecha Weapon is meant to protect people, but I've been so caught up in my own ambitions that I almost lost sight of that.
+025	You're right. This isn't the time to be thinking about getting people to accept the Mecha Weapon.
+026	And...I can't do this alone. I don't even know where to begin working on the Mecha Weapon to improve it. I need help.	VO_judith.judith_sys_0030
+027	But I don't know. Maybe it's too late now. Maybe the Mecha Weapon won't work out, no matter what I do.
+042	Judith... We can't afford to give in here. That goes for you, too, right?
+043	I...!
+044	(Of course! How could I forget? The amount of times I heard him say that...)	VO_judith.judith_sys_0021
+045	(I can't afford to give in here!)
+046	Blast it! Not again!
+047	What a shame... I thought for sure it would work this time!
+048	What happened, dad? Is it no good?
+049	What? No! Nothing of the sort.
+050	Things might not have gone as planned, but I think I learned something crucial from that little blunder just now!
+051	Yes! Next time will be a huge success, I just know it! So I can't afford to give in here! Right, Judith?
+052	When dad was inventing, he never gave up. He kept trying and trying until he was able to create the thing he wanted to make.
+053	Time and again, he'd tell me, "Trial and error is the foundation of inventing, Judith!"
+054	He always looked like he was having fun, even when he hit a roadblock. It wasn't long before I started copying him, trying to follow in his footsteps.	VO_judith.judith_sys_0007
+055	Aha! You've done it!
+056	Excellent work, Judith! This is the greatest invention of the century!
+057	The foundation of inventing is trial and error. Stick to it, and you'll eventually succeed. That's what my dad believed.	VO_judith.judith_sys_0031
+058	That's what he always told me.
+059	We cannot let it end here, Judith... The Mecha Weapon is my hope for the future of—!
+060	...
+061	You're right, dad. We can't let it end here.	VO_judith.judith_battle_1016
+062	We've got to keep trying until we succeed.
+063	Letting things end in failure just isn't an option—not when countless lives depend on us to protect them from the Giant Taurus threat.	VO_judith.judith_sys_0030
+064	Besides...I can't let dad down. He wanted his invention to save people, and this is my chance to see his wish fulfilled.
+065	I've gotta make sure dad's invention goes down in history as a huge success!	VO_judith.judith_sys_0008
+151	But I'm doing this for me, too! I want to help people—I want to help you do this!
+066	Sorry to backtrack a bit, but...what kind of improvements were you thinking of making to the Mecha Weapon? Jacking up the firepower?	VO_victor.victor_sys_0006
+067	Mm... I think I've already reached the limit in terms of firepower. Increasing it further would just put too much strain on the mechanism.	VO_judith.judith_sys_0031
+068	To be honest, I've already tweaked everything I can think of, so I'm not sure what else I can do.	VO_judith.judith_sys_0030
+069	Okay... How about this? You upscale it! Make it huge! That's bound to make it more powerful, right?!
+070	If you can max out the Mecha Weapon's power, those Giant Taurus won't stand a chance!	VO_victor.victor_sys_0007
+071	Honestly, little frog... Not everything is that simple. Bigger doesn't always mean more powerful.	VO_basini.basini_sys_0030
+072	In fact, if you increase the size of something too much, you lose mobility. Come to think of it, it might be worthwhile streamlining the Mecha Weapon's design by making it lighter, more flexible...	VO_basini.basini_sys_0001
+073	Mobility? You're making it sound like it's a vehicle or something! If anything, we should focus on emphasizing the Mecha Weapon's strengths.	VO_budd.budd_sys_0031
+074	Although... It would make a pretty cool vehicle. It's fast enough to run rings around any horse, and you could go anywhere—land, sea, sky!	VO_budd.budd_sys_0001
+075	Hey, could you three try and include me in this? I'm the one who's going to be making the improvements, y'know!	VO_judith.judith_sys_0011
+076	(Still... At least they're trying to help me think of ideas, in their own way. They're taking this seriously, and I really appreciate that.)
+077	(I never would've thought of some of the stuff they're coming up with. With their help, I might be able to draw out the Mecha Weapon's hidden potential!)	VO_judith.judith_sys_0007
+078	(Maybe, just maybe, the more people interact with the Mecha Weapon, the more possibilities I'll find!)	VO_judith.judith_sys_0031
+079	I'm telling you, that's just not realistic! Why do you have to be so stubborn?!	VO_basini.basini_sys_0017
+080	You don't know unless you try! Passion and determination can make pretty much anything possible!	VO_victor.victor_sys_0003
+081	True.	VO_budd.budd_sys_0006
+082	Urgh! You two clearly don't know the first thing about mechanical engineering...	VO_basini.basini_sys_0012
+083	Y'know, it's a wonder you three get along at all. You're so different.	VO_judith.judith_sys_0001
+084	I feel like you've kinda got that backwards.	VO_budd.budd_sys_0031
+085	What do you mean?	VO_judith.judith_sys_0004
+086	Our personalities are different, and so are our opinions. We see things differently, and our focuses are completely different too.
+087	But the fact that we're so stubborn about our views means that we end up expanding each other's horizons, so to speak. That's why we make such a great team.	VO_budd.budd_sys_0007
+088	Yeah... Sounds about right to me.	VO_basini.basini_chara_1008
+089	That was well said, Bud! For you, anyway.	VO_victor.victor_sys_0007
+090	Huh. That's a thought... Everyone is different, so...	VO_judith.judith_sys_0021
+091	(People are all different, so... Everyone who comes into contact with the Mecha Weapon is going to take it in a different direction. So... What if it was modded to suit the wielder?)
+092	(For example... What if I started creating some variations in the gear attachment?)	VO_judith.judith_sys_0031
+093	Hey... If you want more mobility, I could always downscale the weapon attachments. You'd lose a little firepower, but be able to attack more rapidly.	VO_judith.judith_sys_0001
+094	Whereas making the whole device lighter would allow for an overall increase in speed, and give a boost to how high you can jump!
+095	With improved reach and speed capabilities, it'd be super convenient for retrieving things in high places and getting you where you need to go in a hurry!	VO_judith.judith_sys_0008
+096	If you wanted to focus on attack power instead, I could add a blade attachment and up the acceleration to transform it into a real heavy hitter.
+097	Maybe I could even attach a cannon to it? It'd mean zero mobility, but...it might have its uses!
+098	Interesting... Different combinations, yielding different effects...	VO_budd.budd_sys_0045
+099	This sounds awesome! You could put together your own unique weapon to suit your fighting style!	VO_victor.victor_sys_0008
+100	Hey, Basheeny! I'm gonna create the ultimate mech gear, so let's battle it out once this is over!	VO_victor.victor_sys_0003
+101	How can you even think about something so frivolous at a time like this?!	VO_basini.basini_sys_0017
+102	Hold up. That actually sounded pretty interesting!	VO_judith.judith_chara_1002
+103	What?	VO_basini.basini_sys_0006
+104	Imagine—mech gear customized to each person and modded to suit their preferred fighting style...with the chance to test them out in open combat!	VO_judith.judith_sys_0031
+105	That would be really cool!	VO_judith.judith_sys_0007
+106	Right?! You could hold tournaments and stuff, get people all invested and competitive—it'd be a blast!
+107	Hm... Perhaps that should be your goal, Judith. To create a peaceful world in which the Mecha Weapon isn't needed to destroy some giant monster, but is instead employed for a sort of sport.	VO_basini.basini_sys_0005
+108	Yeah! I'd love to make that happen. A future where the world is at peace, and the Mecha Weapon brings smiles to people's faces!	VO_judith.judith_battle_1016
+109	If we work together, I bet we can do it! After all, the three of us have a vow to uphold.	VO_victor.victor_sys_0005
+110	It's up to us to protect the future of this world!
+111	That's what we're fighting for—and we're going to give it everything we've got! Right, Basheeny?	VO_victor.victor_sys_0008
+112	P-please stop. It's one thing to talk about it amongst ourselves, but with Judith here... It's a little embarrassing.	VO_basini.basini_sys_0016
+113	Embarrassing? Pfft! Come on, spill! What exactly was this vow you made?	VO_judith.judith_sys_0004
+114	Well... All right. It went something like this... "We, who have been entrusted with the future, who must lead the way forward, shall be the pillars of justice in this world."	VO_basini.basini_sys_0030
+115	Right, you two?
+116	Yep! We're going to fight to protect the people of this world!	VO_budd.budd_sys_0006
+117	It's a momentous task, so we decided to split it between the three of us. We need to work together if we're going to create a peaceful future.	VO_basini.basini_sys_0005
+118	Whoa!	VO_judith.judith_chara_1002
+119	(That look... It reminds me of my dad. He always had that look in his eyes when he was thinking about how much he cared about the world.)
+152	(A faraway sort of look... Like he was seeing everything he wanted to protect, not just what was right in front of him.)
+120	(I guess these three actually share my dad's ideals...)	VO_judith.judith_sys_0021
+121	If you're out to create a peaceful future, I'm all for it!	VO_judith.judith_sys_0008
+122	Y'know... you might be different, but your core beliefs are the same. All three of you want to protect this world with the same intensity.
+123	You have the same goal, but your roles and strengths are different.	VO_judith.judith_sys_0031
+124	So when you work together, you make a really powerful combo.
+125	That's your...strength...
+126	Wait—that gives me an idea!	VO_judith.judith_chara_1002
+127	If I adjust this, and... That's it! This could totally work!	VO_judith.judith_sys_0044
+128	I've just gotta move this, like so...	VO_judith.judith_sys_0031
+129	Add this reaction to the power source...
+130	Then this part will naturally... Yes! Which means...!	VO_judith.judith_chara_1002
+131	Seems like she's got her mojo back. Guess you're not the only one who thinks out loud, eh, Bud?	VO_victor.victor_sys_0007
+132	Will you shut up about that already?! Sometimes it helps to just get everything out in the open!	VO_budd.budd_sys_0012
+133	Besides, I'm done beating myself up! I know what I have to do now.	VO_budd.budd_sys_0001
+134	And that is?
+135	Take down the Giant Taurus with Judith's Mecha Weapon, protect the world, and head home!	VO_budd.budd_sys_0006
+136	Good answer.	VO_basini.basini_sys_0007
+137	(That vow they made—to protect the future of this world... It reminds me of the vision my dad had of a peaceful world.)	VO_judith.judith_sys_0007
+138	(They might have a different approach than he did, but these three share my dad's desire to protect people.)
+153	(My dad's Mecha Weapon gave us a path to the future...)
+154	(And now I have a chance to do the same.)
+139	(I... I want to protect this world! I want to work alongside Bud, Basheeny, and Victor to create a peaceful future!)	VO_judith.judith_battle_1016
+140	(The Mecha Weapon is used for fighting, but it's so much more than that! It's a tool that can help anyone—everyone—and bring smiles to people's faces! I just know it!)
+141	Huh? That's weird... The Mecha Weapon's shining? It doesn't look like it's malfunctioning, though. This light's really warm—comforting, even.	VO_judith.judith_sys_0004
+142	Grrooooghhh!
+143	Phew! Looks like we made it just in time. If we can hold them off here, we'll be able to bring them down a safe distance from the nearby village!	VO_budd.budd_chara_1005
+144	Grrooooghhh!
+145	Okay... It's now or never. I've run all the tests... This should work.	VO_judith.judith_battle_1015
+146	It's time for this brilliant fledgling inventor's first big break!
+147	Ready? Here I go!	VO_judith.judith_chara_3002

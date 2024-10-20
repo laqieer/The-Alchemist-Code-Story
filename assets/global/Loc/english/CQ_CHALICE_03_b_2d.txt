@@ -1,0 +1,55 @@
+﻿001	See? I didn't need any help!	VO_charis.charis_sys_0002
+002	You have fantastic skills in driving and battle... However.	VO_regen.regen_sys_0046
+003	Huh?
+004	Nnrgh!	VO_charis.charis_battle_0021
+005	My projections based on the data available to me was not incorrect.	VO_regen.regen_sys_0004
+006	I-I still don't owe you anything!	VO_charis.charis_sys_0016
+007	Repairs complete. Moving to the next phase.	VO_regen.regen_sys_0032
+008	Hmm? There appears to be some problem with the engine.	VO_charis.charis_sys_0031
+009	Huh? I can't release the acceleration! Crap! This is bad, really bad!
+010	Calm down. Keep your balance and don't let go of the handles.	VO_regen.regen_sys_0002
+011	I appears that your cooling valve is malfunctioning. I'll ride alongside you and repair it.	VO_regen.regen_sys_0031
+012	You can do that?!	VO_charis.charis_sys_0025
+013	"Acta, non verba."
+014	Huh?
+015	It means "action before words". This is a prototype I made.	VO_regen.regen_sys_0004
+016	What?! You're kidding, right?	VO_charis.charis_sys_0026
+017	I'm Reagan, maker of this prototype never meant to go on the market. How's that introduction?	VO_regen.regen_sys_0031
+018	Permission to disassemble your transmission?	VO_regen.regen_sys_0002
+019	Ugh, fine! Just fix it, please!	VO_charis.charis_sys_0004
+020	Understood. Calculating time until repair...	VO_regen.regen_sys_0032
+021	Pheeeew... What a relief.	VO_charis.charis_sys_0022
+022	Guess your stubbornness saved me in the end. Thanks.	VO_charis.charis_sys_0033
+023	I determined that your Alchemia bike was failing when I saw it before.	VO_regen.regen_chara_1002
+024	What? You chased me down all that way to tell me that?	VO_charis.charis_sys_0025
+025	Correct. I can't let a broken machine out of my sight like that. Furthermore, it's something I made.	VO_regen.regen_sys_0004
+026	I see... Like me, you also hold a special fondness for your machines.	VO_charis.charis_sys_0031
+027	Hey. Why don't you just ask what you wanted to ask me? I'll answer anything.	VO_charis.charis_sys_0002
+028	All right. Initially, it was your Alchemia bike that I was interested in.	VO_regen.regen_sys_0004
+029	However, after seeing your driving skill I shifted my interest to you, yourself.	VO_regen.regen_sys_0007
+030	Huh? Me?
+031	The components I created certainly have their faults.	VO_regen.regen_sys_0022
+032	I tried used elements of ancient components to create the base design, but ultimately judged the whole project too impractical to actually use.
+033	You must possess uncanny focus and precision in your work to be able to make use of it. For future mechanizations, I want to consult with you.	VO_regen.regen_sys_0002
+034	Well... I mean, if there's something I can do to help, I don't mind. In that case, first...	VO_charis.charis_sys_0037
+035	Wow! He's really got some skill!	VO_charis.charis_sys_0023
+036	The maintenance you did on my bike really stabilized it!	VO_charis.charis_sys_0024
+037	I hypothesize that the people able to use that bike are now very limited, but...	VO_regen.regen_chara_1002
+038	You mean, as long as I'm the one riding this, it should be fine?	VO_charis.charis_sys_0031
+039	Incredible. I almost even think you could really fly on this...	VO_regen.regen_sys_0046
+040	Hey, so... Yes?	VO_charis.charis_sys_0002
+041	Yes. My machine has been properly restored.	VO_regen.regen_sys_0007
+042	Hehe... I guess you aren't a complete stranger. You are the creator that truly moved me.	VO_charis.charis_sys_0007
+043	It's not good to judge someone on appearance or rumors. You've got to get to know them personally!
+044	If you were truly moved by my design, perhaps you can give mechanization of yourself further consideration? I need your measurements: height, weight, three sizes...	VO_regen.regen_sys_0031
+045	Ahem... I'll gotta go. The horizon is calling me!
+046	Wait a moment! Why are you fleeing?
+047	Huh?!
+048	I recall that you made a promise to assist me in my research.	VO_regen.regen_sys_0002
+049	But you didn't say anything about doing anything to me!	VO_charis.charis_sys_0030
+050	What the heck do my weight and three sizes have to do with anything?
+051	What else would it be for but to bestow you with a mechanical body with the ideal proportions?	VO_regen.regen_chara_1002
+052	Anyhow, no means no! I'm still an innocent girl, you know!
+053	An innocent girl? Data involving gender is completely unnecessary.	VO_regen.regen_sys_0005
+054	Huh. Wait...	VO_regen.regen_sys_0025
+055	No means no!	VO_charis.charis_sys_0027

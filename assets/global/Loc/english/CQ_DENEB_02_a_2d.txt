@@ -1,0 +1,27 @@
+﻿001	Phew. Finally finished!	VO_eve.eve_sys_0030
+002	U-um...thank you.	VO_deneb.deneb_sys_0003
+003	Hm? Don't worry about it! It was a good training session.	VO_eve.eve_sys_0006
+004	But why were you in this alley on your own?	VO_eve.eve_sys_0002
+005	Um...I was doing a little thinking.	VO_deneb.deneb_chara_1003
+006	Thinking?	VO_eve.eve_sys_0006
+007	I see... In other words, since your prediction was so accurate, he ended up resenting you?	VO_eve.eve_sys_0045
+008	Yes...
+009	And...how does that make you at fault? In fact, it speaks more to your amazing fortune-telling skills.	VO_eve.eve_sys_0031
+010	But...I'm sure that person didn't want to hear about a misfortunate future.	VO_deneb.deneb_sys_0022
+011	If, by telling the future indicated by the stars, I end up hurting others like this, perhaps it would be best for me not to do so.
+012	Hmm. Well, I don't really understand it all, but I don't think you should worry yourself over it too much.	VO_eve.eve_sys_0030
+013	Anyway, how about you go home and rest? I'll walk you there.	VO_eve.eve_sys_0002
+014	...Thank you.	VO_deneb.deneb_sys_0020
+015	Wow, what is this...? There's garbage all down the front of your house! Who did this...?	VO_eve.eve_sys_0025
+016	So, you're finally home, you fraudster.	VO_thiefm.thiefm_sys_0010
+017	Y-you...!	VO_deneb.deneb_sys_0027
+018	Thanks to your fortune-telling, my life is in shambles now. I'll have you take responsibility for your actions.	VO_thiefm.thiefm_sys_0002
+019	... ...
+020	Hey, you'd better keep your false accusations in check.	VO_eve.eve_sys_0012
+021	Huh? And who are you?	VO_thiefm.thiefm_sys_0006
+022	The reason why you can't overcome your misfortunate future is because your heart is weak! Maybe you lack training?	VO_eve.eve_sys_0030
+023	The only person who can pave your destiny is you!
+024	Eve...
+025	Shut up! You and your "guidance of the stars" nonsense! All your astrology does is make your customers anxious and afraid! You're just a fraud!	VO_thiefm.thiefm_battle_0019
+026	Please, enough!	VO_deneb.deneb_battle_0019
+027	Say what you like about me, but...I will not allow you to ridicule the stars...or astrology!	VO_deneb.deneb_sys_0015

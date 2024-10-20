@@ -1,0 +1,56 @@
+﻿001	I'm so hungry...
+002	Starving... I must eat... Devour... Anything will do...
+003	Grrgggh!	VO_Mwolf.Mwolf_battle_0028_c
+004	...The strength of my prey is my own.
+005	I'm...hungry...
+006	...Huh? What is this place?
+007	Hngh... Why do I feel exhausted? It's like there's not a single magicule left in my body.	VO_riml.riml_sys_0031
+008	Huh... Wait a minute! D-don't tell me that I died?! Again?!	VO_riml.riml_sys_0029
+009	Rest assured. You are not dead.
+010	Huh?
+011	My name is Ouroboros, the observer of destiny, and this place is known as the Door of Truth.	VO_uroboros.uroboros_favorite_0001
+012	Oh...
+013	Uhm, Ms. Ouroboros? What business does the 'observer of destiny' have with me?	VO_riml.riml_sys_0001
+014	Our worlds crossed paths by chance, but I fear that means a calamity from your world has entered ours.	VO_uroboros.uroboros_sys_0004
+015	A calamity from our world? No way.	VO_riml.riml_sys_0031
+016	They are beings possessed by a ferocious appetite. They are currently ravaging and devouring their way through the forests of Saga, and accumulating tremendous amounts of Alchemia in their bellies by doing so.	VO_uroboros.uroboros_sys_0006
+017	They will inflict serious damage to Saga if nothing is done to stop them. Not to mention, our worlds will grow more and more tangled in a way that could spell disaster for both of us.
+018	That's why I have also called forth some of your closest allies so that they may help you counter this calamity.
+019	My closest allies? I don't see anyone else around, though...	VO_riml.riml_sys_0002
+020	Unfortunately, it appears that some interference caused by our worlds colliding sent them to different locations.	VO_uroboros.uroboros_sys_0004
+021	I see...
+022	(Hey, Great Sage? Is this girl telling the truth?)	VO_riml.riml_sys_0001
+023	(She mentioned beings with a ferocious appetite... That's gotta be orcs then, right? But we already...)
+024	(...Huh? Great Sage? Hey, are you there?)
+025	(No way?! Uhm, h-hey?! Why can't I hear the Great Sage's voice anymore?!)	VO_riml.riml_sys_0025
+026	At this rate they will soon march on and inflict great damage to a human settlement.	VO_uroboros.uroboros_sys_0031
+027	(It's probably the orcs... I don't really get how this happened, but I can't let them make the same mistake again.)
+028	Yeesh, I can't just ignore your plight after hearing about this mess.	VO_riml.riml_sys_0031
+029	If there's something I can do to help, I will do my best!	VO_riml.riml_sys_0006
+030	That's all I can really say. I can't promise anything yet, not until you help me out a little first.	VO_riml.riml_sys_0001
+031	You're asking me to go and prevent a calamity, but I don't know a thing about this place!	VO_riml.riml_sys_0003
+032	Hmm... Very well, then I shall grant you two guides. I know just the ones.	VO_uroboros.uroboros_sys_0006
+033	That'd be a huge help.	VO_riml.riml_sys_0004
+034	(Wh-whew! No being tossed into the world completely unarmed and unprepared for me!)
+035	I just have one more question.	VO_riml.riml_sys_0002
+036	What is it?
+037	Once I get the sources of this calamity to calm down, will I be able to take them back to my world?	VO_riml.riml_sys_0031
+038	That will be impossible. They've already devoured and absorbed too much Alchemia from this world.	VO_uroboros.uroboros_sys_0039
+039	Taking them back with you would bode ill for your world.
+040	...I see.
+041	I vow to safely return you to your world once the calamity has been dealt with. Will you take accept this request?	VO_uroboros.uroboros_sys_0003
+042	Not like I got any another choice, right? Well, I'll see what I can do. I'm quite the expert at adapting to new worlds these days.	VO_riml.riml_sys_0030
+043	Then I'll send you on your way. I leave it in your hands, otherworldly visitor.
+044	Wha—?! E-eep! I'm f-falling!	VO_riml.riml_sys_0025
+045	Phew, safe landing! Thanks! Uhm, miss, uh...	VO_riml.riml_sys_0034
+046	Albea.
+047	I was asked to guide you. It seems like we both got wrapped up in something rather troublesome.	VO_albell.albell_sys_0030
+048	You might have a point there, but I'm used to it. I've always been the type of guy who struggles with saying no.	VO_riml.riml_sys_0031
+049	Besides, if those orcs are really on a rampage again then, well... I can't just ignore it.
+050	Hmm...	VO_albell.albell_sys_0044
+051	A calamity-class monster that could shroud this world in chaos... Indeed, such a thing should not be ignored.	VO_kureto.kureto_sys_0004
+052	I'm Creto. I'll do whatever I can to help you protect the people of this world.
+053	I heard that an inhabitant from another world had come to help us, but your, uhm, shape...is a little different from what I was expecting.	VO_kureto.kureto_sys_0001
+054	Ah, yeah, I'm a slime. I got a human form too, but I'm not exactly in peak physical condition right now.	VO_riml.riml_sys_0006
+055	A slime...? I don't know what that is supposed to be, but I hope you recover soon.	VO_kureto.kureto_sys_0006
+056	We were called here to aid you, but it looks like we've got company to deal with first.	VO_kureto.kureto_sys_0016

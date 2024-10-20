@@ -1,0 +1,79 @@
+﻿001	Like you've observed...I am from Lost Blue...just like you are.	VO_acht.acht_sys_0004
+002	I knew it. It's been a while since I've heard that name. Brings back memories.	VO_ortima.ortima_sys_0044
+003	Lost Blue...? Weren't you from my country?	VO_venus.venus_sys_0025
+004	No, after I was chased out of Lustburg...sorry, out of this country, I moved around from place to place, but...	VO_ortima.ortima_chara_1011
+005	After a few years, I finally arrived at Lost Blue. Although, the period I was there wasn't too long.
+006	I've heard much about you along with many anecdotes.	VO_acht.acht_sys_0004
+007	They say that Captain Othima of Lost Blue is a hero.
+008	Huh...?! Aww, come on. Stop it. That was a long time ago.	VO_ortima.ortima_battle_1028
+009	For you, Captain Othima, it may seem like a long abandoned past, but...	VO_acht.acht_sys_0016
+010	For us from Lost Blue, you are a symbol of hope.
+011	Ah, no, it's not necessarily a past I've abandoned...um, you know it's not really good to do that.	VO_ortima.ortima_chara_1011
+012	It's a bad habit of people from Lost Blue to always think of things in a negative way.
+013	Do you two know each other? Wait, don't tell me...	VO_venus.venus_sys_0027
+014	Hey...don't get any strange ideas! I don't know anything about her! We just happened to be from the same village...	VO_ortima.ortima_chara_1002
+015	Perhaps it's best to call it the same province?	VO_acht.acht_sys_0005
+016	Yes, that's it! The same province! We're from the same province! That's the only thing...
+017	As this is the case, I have been requested by our leader to deliver a message to you, Captain Othima.	VO_acht.acht_sys_0001
+018	From your leader? To me? What is it?	VO_ortima.ortima_sys_0044
+019	As you are also from Lost Blue, would you like to join our cause?
+020	Huh? Are you saying that you want me to quit the Holy Guard and join you guys?	VO_ortima.ortima_sys_0012
+021	Yes...to put it bluntly.	VO_acht.acht_sys_0004
+022	Hmm. I appreciate the invitation, but that'll be a little difficult.	VO_ortima.ortima_sys_0031
+023	...Is it because you want to abandon your past in Lost Blue?	VO_acht.acht_sys_0022
+024	No, it's not a matter of that. The truth is that, more than an adventure-filled life, I'd like to live a calm and stable one.	VO_ortima.ortima_chara_1011
+025	Huh...?	VO_acht.acht_sys_0025
+026	Besides, more than anything...I don't think I can keep up with your principles.
+027	...What do you mean?	VO_acht.acht_sys_0001
+028	You do not hesitate to kill people to achieve your goal. That's what you were just doing right now.
+029	Placing your objective as the main priority seems like the standard thing to do.	VO_acht.acht_sys_0016
+030	I don't intend to change my opinion about your way of doing things. Just thinking of becoming one of you is enough to make me feel sick.	VO_ortima.ortima_sys_0022
+031	In other words, you won't agree to my proposal? If you cannot accept it, I was told that I must take your life.	VO_acht.acht_sys_0044
+032	I thought as much. That being said, I don't plan to go down so easily.	VO_ortima.ortima_sys_0007
+033	Are you sure about that? Sword!	VO_acht.acht_sys_0010
+034	?! ...You're fast!	VO_ortima.ortima_battle_1013
+035	Uhaa! You're so dangerous. What's with that speed?!	VO_ortima.ortima_battle_0016
+036	Uck...!	VO_venus.venus_battle_0019
+037	No, you won't manage that! She'll already have her blade at you before you can finish chanting the spell!
+038	Your Highness, please just focus on avoiding her attacks!
+039	In that case, what am I supposed to do? You won't have enough time to chant your spells either, right?	VO_venus.venus_sys_0042
+040	That's true. What should we do about it?	VO_ortima.ortima_sys_0022
+041	My apologies, but I must obtain the Sacred Stone. That's all there is to say.	VO_acht.acht_sys_0035
+042	No way...! How did you come up behind me so fast?!	VO_ortima.ortima_battle_1028
+043	...It's over.	VO_acht.acht_battle_0012
+044	Agh-aghhh!!! ...What's going on?	VO_ortima.ortima_battle_0013
+045	?!	VO_acht.acht_sys_0027
+046	Ughh...! A magic fortification...?!	VO_acht.acht_sys_0043
+047	You're too fast for me to keep up with, so I have no choice but to make you come to me instead, right?	VO_ortima.ortima_sys_0031
+048	You made an opening on purpose...?	VO_acht.acht_battle_0019
+049	I don't like the idea of turning a girl from my province into solid ice, but the situation calls for drastic measures. Don't think badly of me.
+050	Ill Atmosphere!!!	VO_ortima.ortima_sys_0032
+051	Aghh...!!!	VO_acht.acht_battle_0025
+052	Whew. I'm sorry, Your Highness. I don't know how to put it...I got you involved in my past as well.	VO_ortima.ortima_sys_0022
+053	No...but her magic attack...	VO_venus.venus_sys_0039
+054	It's all right. I've already poured the highest amount of energy into her.	VO_ortima.ortima_sys_0007
+055	Not even the strongest magic defense in this world will be able to penetrate it.
+056	As someone who shares some of my past, I feel responsible in helping her see the error of her ways.
+057	I feel...honored...that you would think that way of me.	VO_acht.acht_sys_0007
+058	?!	VO_ortima.ortima_battle_1028
+059	Wh-what the...? Her left eye is glowing red...	VO_venus.venus_sys_0025
+060	...! Get down!!!	VO_ortima.ortima_battle_1013
+061	...Axe!	VO_acht.acht_battle_0007
+062	No way! Argh! Was it too shallow? Ill Atmosphere!!!	VO_ortima.ortima_sys_0043
+063	Her left eye is shining red again!	VO_venus.venus_sys_0042
+064	Is her left eye melting the ice?! Is it a Philosopher's Stone or something?!	VO_ortima.ortima_battle_1028
+065	Thank you...Sol...	VO_acht.acht_sys_0033
+066	Agh...!	VO_venus.venus_sys_0043
+067	Your Highness!
+068	I won't lose to you...as long as I'm protected by the power that you've given me.	VO_acht.acht_battle_1029
+069	That impossible. Why doesn't it work?! Using a Philosopher's Stone shouldn't be enough to melt my ice...	VO_ortima.ortima_sys_0042
+070	This ice...it's warm...	VO_acht.acht_sys_0007
+071	...?!
+072	We are still...living in that lightless world.	VO_acht.acht_battle_0019
+073	Compared to that painful life...even your ice radiates warmth...
+074	!!! Ac-ackk...! Piercing Light!!!	VO_ortima.ortima_battle_1013
+075	Behind you...!	VO_venus.venus_sys_0027
+076	?!
+077	I am one of the Veda Templars...Acht, the 7 Tactics Master.
+078	In order to realize the ideals of Sol...I cannot afford to lose. Gauntlet!	VO_acht.acht_battle_0012
+079	Aghh...!!!	VO_ortima.ortima_battle_0019

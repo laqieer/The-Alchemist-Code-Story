@@ -1,0 +1,79 @@
+﻿001	…Is this the best I can do?	VO_terres.terres_battle_0019
+002	It appears so. It's over.	VO_andechs.andechs_sys_0005
+003	…Why do you lower your sword, Andechs?
+004	Tell your soldiers to stand down. You lost.	VO_andechs.andechs_sys_0001
+005	…We'll defeat Satna, here and now, and put an end to this nightmare.
+006	The rest is on your shoulders...as you bear the burden of past sins.	VO_andechs.andechs_sys_0002
+007	…
+008	Spare me your pity, Andechs.	VO_terres.terres_sys_0003
+009	Kill me.
+010	What?	VO_andechs.andechs_sys_0006
+011	You should understand as a knight. The general who suffers a defeat in battle must pay with her head.	VO_terres.terres_sys_0010
+012	Give me a break! You can't use death to escape your responsibility.
+013	You dare pontificate on morality while in the same breath you disavow our people!?	VO_terres.terres_sys_0013
+014	…!	VO_andechs.andechs_battle_0019
+015	Hereafter, our people will have no choice but to pander to the whims of the Invidians.
+016	You, as our heroic knight, were also the one responsible for the failed invasion of the Invidia Belt, were you not?
+017	You could claim your motives were pure, but do you think they'd forgive you so easily?	VO_terres.terres_sys_0027
+018	However, suppose the Knight of Justice defeated the "evil queen" and freed the people from her control. That would be a different story wouldn't it?
+019	Your Majesty…are you saying--	VO_andechs.andechs_sys_0003
+020	I will play the part of the evil queen. I was a uniquely villainous actor who left a stain on the Ira Belt.	VO_terres.terres_sys_0010
+021	If you comprehend my words, then strike me down. My head will be one more "sin" you must carry.
+022	…You're right.	VO_andechs.andechs_sys_0005
+023	Andechs! You can't possibly be--	VO_nimuru.nimuru_sys_0018
+024	I told you, didn't I?	VO_andechs.andechs_sys_0001
+025	I don't care how dirty my hands get…as long as I can save the Ira Belt.
+026	*Gulp*	VO_slba.slba_battle_0019
+027	Quen-- W-Why…	VO_terres.terres_battle_0022
+028	Apologies, Your Majesty. I bet you weren't expecting this, were you?	VO_kvense.kvense_sys_0035
+029	I had always planned on dying, to be honest. Think of this as an eye for an eye.	VO_kvense.kvense_sys_0010
+030	…Quence!	VO_nimuru.nimuru_battle_0022
+031	Oops! Should I offer an explanation? It wasn't just revenge, y'know?	VO_kvense.kvense_sys_0037
+032	She was even more formidable than I could've imagined. I had to kill her so that she wouldn't get in my way.	VO_kvense.kvense_sys_0030
+033	Your Majesty! Queen Terese!?	VO_slba.slba_sys_0020
+034	...Sul…va…
+035	W-We've got to treat your wound…	VO_slba.slba_battle_0019
+036	It's alright… Bring your face…closer…	VO_terres.terres_sys_0018
+037	Your Majesty, I…I--	VO_slba.slba_sys_0021
+038	I fell victim…to the law of this land… Just like…my brother. But--	VO_terres.terres_sys_0042
+078	Teres…! Don't speak! You'll bleed to death…	VO_slba.slba_sys_0015
+079	I know that you...will usher in a new dawn for our people…So--
+080	"So" what!? Why do you always do this!? Why don't you ever explain it to me!?
+081	How can I understand?! I can't...! I can't! *sniff*	VO_slba.slba_sys_0018
+041	Terese! *hic* Terese…! AHhhhHHHHHhhh!	VO_slba.slba_sys_0019
+042	…Why'd you do it?	VO_nimuru.nimuru_sys_0001
+043	Hm?	VO_kvense.kvense_sys_0025
+044	She already surrendered. You didn't have to kill her. She didn't have to…
+045	But you did it anyway. Why?	VO_nimuru.nimuru_sys_0018
+046	Don't worry. If my plan works, it'll be like none of this happened anyway.	VO_kvense.kvense_sys_0007
+047	Quence!!!	VO_nimuru.nimuru_sys_0013
+048	Oof…	VO_nimuru.nimuru_battle_0025
+049	Impulsive, aren't we? But not too bright. Could you really be the "final key?"	VO_kvense.kvense_sys_0016
+050	Well, it doesn't matter. I'll settle everything before we find out.
+051	I've got some work for you, partner.	VO_kvense.kvense_sys_0001
+052	…Y…na?	VO_nimuru.nimuru_sys_0016
+053	…Is that you, old man!?	VO_adlai.adlai_sys_0025
+054	…
+055	Hey, old man! What're you doing!?	VO_adlai.adlai_sys_0001
+056	Now, now. It's no use trying to talk to him. As far as he's concerned, time is frozen.	VO_kvense.kvense_sys_0037
+057	It doesn't matter how strong he was mentally. Now, he's a puppet of corruption.
+058	…!	VO_adlai.adlai_battle_0019
+059	Don't get so upset! I put a lot of consideration into this beforehand.	VO_kvense.kvense_sys_0047
+060	I removed his personality so that you won't feel so bad killing each other. Isn't that generous of me?	VO_kvense.kvense_sys_0023
+061	You monster…! Have you no heart, Quence?	VO_nimuru.nimuru_sys_0001
+062	…Good question.
+063	I suppose...I must have lost it somewhere.	VO_kvense.kvense_sys_0031
+064	You'll let me know when you find it, won't you? It's probably somewhere in the bowels of hell.	VO_kvense.kvense_sys_0007
+065	…
+066	…What're we gonna do?	VO_andechs.andechs_sys_0001
+067	…Tch.	VO_nimuru.nimuru_sys_0018
+068	I'm the one that lead you all here. This is my responsibility. Alright?
+069	…No way!
+070	Corruption is what's controlling Yna, so I--	VO_emmer.emmer_battle_0007
+071	…Huh? What was that?	VO_emmer.emmer_sys_0025
+072	Don't go it alone. Let me help you.	VO_eularea.eularea_sys_0002
+073	Really? Thanks, Eulalia!	VO_emmer.emmer_sys_0034
+074	(This is no time to dawdle. I've got to focus on what's in front of me…)
+075	Eulalia and I will purify him! So, give us some cover in the meantime!	VO_emmer.emmer_sys_0002
+076	If it's a diversion you want, you got it--	VO_andechs.andechs_sys_0005
+077	Let's show 'em what we got!	VO_dafne.dafne_sys_0004

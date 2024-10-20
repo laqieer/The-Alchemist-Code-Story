@@ -1,0 +1,80 @@
+﻿001	...
+002	Agatha, I know you're worried. We're all worried. I just... I think it's too dangerous for you to be up there. Could you come down?	VO_moca.moca_sys_0001
+003	I'm sorry, Mocca. I don't mean to make you worry, but... I just have this feeling like... Like maybe there's something I can do.	VO_agasa-b.agasa-b_sys_0022
+004	Agatha?
+005	There's a voice... I can hear its echoes...deep within my mind.	VO_agasa-b.agasa-b_sys_0027
+006	It's telling me that I already have the power to do it; to fulfill...that wish.
+007	What are you talking about?	VO_moca.moca_chara_1009
+008	Wh-what is that? Look!	VO_knightm.knightm_sys_0042
+009	Now what's happening?!	VO_moca.moca_sys_0025
+010	The Jam are emerging from the roots of the withered Sephiron!	VO_knightm.knightm_sys_0027
+011	What did you say?!	VO_moca.moca_sys_0012
+012	What the hell? The ground is shaking!	VO_logi-b.logi-b_sys_0005
+013	Move, Logi!	VO_dios.dios_sys_0025
+014	What? Ungh!	VO_logi-b.logi-b_sys_0025
+015	The Jam? Are they coming out of that hollow? Isn't that where the arboreal altar is supposed to be?!	VO_logi-b.logi-b_sys_0020
+016	At this rate...!	VO_dios.dios_sys_0043
+017	Dias! Gnrk! More of them?!	VO_logi-b.logi-b_sys_0042
+018	N-no... Logi! Dias!	VO_agasa-b.agasa-b_sys_0021
+019	Agatha, get down! How could that power reach us, even here?!	VO_moca.moca_sys_0042
+020	Ag...a...tha. That's... That's right. My name is...!	VO_agasa-b.agasa-b_battle_0019
+021	I...am a descendant of the royal family of Wratharis, and I carry a Sacred Stone within me... Satna.
+022	Ahhhh! Nooo, I can't... No, father! Father! Logi? Dias?! Why...?!	VO_agasa-b.agasa-b_sys_0029
+023	All I ever wanted was for us to be a family! That's all!
+024	Enough! I keep losing the people I love, and I'm tired of it!	VO_agasa-b.agasa-b_sys_0018
+025	We've all worked so hard to try to reclaim the happiness we used to share!
+026	This can't be how it ends!
+027	It just can't be!
+028	This...feeling...	VO_agasa-b.agasa-b_battle_0019
+029	It's the same as before... Could this be the power of Satna?
+030	Beware the lure of the Stone. It seeks to enter this world via your desires.
+031	Still, I... I want to save Logi and Dias.	VO_agasa-b.agasa-b_sys_0018
+032	There must be some way to prevent them from dying. Please, Satna! Lend me your strength!	VO_agasa-b.agasa-b_sys_0043
+033	Save us!
+034	This light...! Not the Sacred Stone! Agatha, stop!	VO_moca.moca_sys_0027
+035	Hm. I believe this is my...second time...being resurrected with Alchemy.	VO_vlad.vlad_sys_0005
+036	My axe is as light as a feather in my hand, my body feels almost as buoyant, and this strength welling up within me...	VO_vlad.vlad_sys_0007
+037	Sabareta... Of course that little brat has some dream of restoring Wratharis to its former glory. The forbidden fruit tastes sweetest, as they say...
+038	It's unusual for General Vlad the Thunderer to wax poetic, if I do say so myself. Nonetheless, I must add that I would opt for a more profitable venture, if it were me.	VO_anastasia.anastasia_chara_1001
+039	Oh, Anastasia! I certainly was not expecting to be met with the secret weapon of Wratharis! What an unexpected delight!	VO_vlad.vlad_sys_0009
+040	Make no mistake. I am here only because I was called.	VO_anastasia.anastasia_sys_0007
+041	Then I shall leave custody of this one with you. I do think that the front lines seem far more fitting a place for me, myself.	VO_vlad.vlad_sys_0044
+042	Understood.	VO_anastasia.anastasia_sys_0004
+043	Glurrrrrp!	VO_jam.jam_battle_0021
+044	Hmph.	VO_vlad.vlad_battle_0002
+045	Ah.	VO_anastasia.anastasia_battle_0005
+046	Always with the battlefields... Well, I suppose I might as well introduce myself.	VO_vlad.vlad_sys_0010
+047	I am General Vlad, The Thunderer; one of Wratharis' Deadly Trio!
+048	My name is not nearly as well-known, but there was a time that I was called Blossom.	VO_anastasia.anastasia_sys_0031
+049	Wh-what...? This is... Agatha, you... You transmuted these Phantoms?	VO_moca.moca_sys_0027
+050	Please, will you lend me your strength?	VO_agasa-b.agasa-b_sys_0041
+051	Of course, Miss Agatha! You've become such a lovely young lady!	VO_vlad.vlad_sys_0009
+052	You...know me? Oh, of course... I...really am of Wratharis' royal line, then...	VO_agasa-b.agasa-b_sys_0025
+053	We can talk about all this later. For now, we'd best head for the front.	VO_vlad.vlad_battle_0003
+054	Huh?	VO_agasa-b.agasa-b_sys_0025
+055	Hah. Those two are a little excitable at the idea of being out on the battlefield again...	VO_vlad.vlad_sys_0010
+056	If we dally around here too long, they're going to hog all of the glory of battle for themselves!
+057	What...?	VO_agasa-b.agasa-b_sys_0025
+058	No! It's too late, we won't—!	VO_dios.dios_sys_0013
+059	How reckless of you, heirs of the Blood Wolf, Zeke.	VO_neville.neville_sys_0030
+060	Y-you...! It can't be!	VO_logi-b.logi-b_sys_0025
+061	That mastery of ice techniques... You're...!	VO_dios.dios_sys_0025
+062	I am General Neville, the Ice Snake. This battlefield is now mine.	VO_neville.neville_sys_0037
+063	What are you doing here? And more importantly, why are you willing to help us now?	VO_dios.dios_sys_0022
+064	Hmph. Be grateful for the mercy and affection our new master harbors for you.	VO_neville.neville_sys_0030
+065	New...master? You can't mean... Not Agatha?!	VO_logi-b.logi-b_sys_0025
+066	Hmph!	VO_neville.neville_sys_0007
+067	Troops, hold fast! No matter how many enemies we may face, there is nothing to fear!	VO_neville.neville_sys_0001
+068	I shall show you what a true battle looks like, when waged by a general who understands tactics!
+069	Impossible...! Where did you come from?! Which Alchemist transmuted you?!
+070	That voice of hers... We had been waiting for it for so long, and so we answered.	VO_caesar.caesar_sys_0010
+071	We, who carry blood-stained swords and souls twisted with rage... We came in to answer the voice that begged earnestly for our aid.
+072	We could not call ourselves knights if we failed to respond to that cry of grief!
+073	For that reason, today we come to you, not as the Deadly Trio, but as knights who have set aside their wrath!
+074	Phantoms? Kamui, did you...?	VO_tina.tina_sys_0025
+075	No, it was not my doing. However, it seems they are here to help us.	VO_kamui.kamui_sys_0027
+076	Indeed.	VO_caesar.caesar_sys_0005
+077	I am General Caesar, the Demon Flame.
+078	I was once a knight of Wratharis.
+079	We pledged our loyalty to the royal family of Wratharis, and our oath compels us to do what we can for her now!
+080	You will regret this!

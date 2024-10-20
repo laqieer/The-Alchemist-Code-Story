@@ -1,0 +1,37 @@
+﻿001	Old man, please give me an apple!	VO_aswad.aswad_chara_1004
+002	Also...yesterday, there seemed to be some kind of commotion. Do you know what happened?
+003	A commotion? I don't know anything about that. I doubt anything out of the ordinary happened. This neighborhood is a peaceful one.	VO_knightm.knightm_sys_0016
+004	I see...	VO_aswad.aswad_sys_0016
+005	(I'd like to find out how yesterday's incident was handled, but...hm? Is that...?)	VO_aswad.aswad_sys_0031
+006	Hello, old man! Please give me an apple!	VO_kuon.kuon_sys_0007
+007	Always in such high spirits, aren't you, Kuon? Are you taking another night walk? I've heard there was a thief lurking around here.	VO_knightm.knightm_sys_0007
+008	!!!	VO_aswad.aswad_sys_0026
+009	Really?! A thief, not a wolf?	VO_kuon.kuon_sys_0006
+010	Well, I don't know if I should be telling you this, but yesterday someone died on that road. You be careful now, Kuon.	VO_knightm.knightm_sys_0004
+011	That's pretty scary. Thank you for worrying about me, but I'll be okay!	VO_kuon.kuon_sys_0027
+012	Well, well. You're as blissful as always, Kuon. Maybe that easygoing nature of yours will defang whatever venomous thief is out there.	VO_knightm.knightm_sys_0030
+013	(Why does he give her information so easily?)	VO_aswad.aswad_sys_0029
+014	(My performance was flawless. The shopkeeper shouldn't have been suspicious. How did I do things differently?)
+015	Oh c'mon, old man! Huh? Who's that over there...oh! Aswald!	VO_kuon.kuon_sys_0030
+016	!!!
+017	Huh? Oh, wait! Wait, pleeeease!	VO_kuon.kuon_sys_0006
+018	...Why are you following me?!	VO_aswad.aswad_battle_0019
+019	You're the one that's running away from me, Aswald...ah! Eeek!	VO_kuon.kuon_battle_0019
+020	Oww... I fell.	VO_kuon.kuon_sys_0042
+021	Sigh... Come on. Get up.	VO_aswad.aswad_sys_0016
+022	Thank you! Including yesterday, you've now saved me twice. I really ought to thank you properly!	VO_kuon.kuon_sys_0033
+023	And so...here you go!	VO_kuon.kuon_sys_0007
+024	What's this?	VO_aswad.aswad_sys_0025
+025	That old man gave it to me just now. It's a candy from a foreign country. It's real sweet and delicious. You try it too, Aswald!	VO_kuon.kuon_sys_0005
+026	I've no need for it. Feel free to eat it on your own.	VO_aswad.aswad_sys_0039
+027	Huh?! But it's so good...why? Oh! Don't tell me you don't like sweets!	VO_kuon.kuon_sys_0026
+028	It's not that. I don't like to casually eat food that other people give to me. Who knows if it has poison in it?	VO_aswad.aswad_sys_0016
+029	It's fiiine! It's been fine until now. Besides, both you and that old man are good people.	VO_kuon.kuon_sys_0007
+030	I am not a good person. If you keep trusting people the way you do, you'll eventually suffer for it.	VO_aswad.aswad_sys_0002
+031	But you're a good person, Aswald! After all, you saved me.	VO_kuon.kuon_chara_1006
+032	... ...
+033	Munch, munch... Yeah, it tastes real good! Yummy candy makes the world a peaceful place♪ Come on and eat it with me, Aswald.	VO_kuon.kuon_sys_0049
+034	You're real blissful, aren't you? Who could believe in such a fairytale world?	VO_aswad.aswad_sys_0016
+035	!!! You...	VO_kuon.kuon_battle_0019
+036	Hey, you lot! What do you think you're doing blissfully eating candy here?! If you value your lives, then hand over all your money!	VO_thiefm.thiefm_sys_0002
+037	She's the only one who's blissful here. I'd prefer if you didn't put us in the same boat.	VO_aswad.aswad_sys_0029

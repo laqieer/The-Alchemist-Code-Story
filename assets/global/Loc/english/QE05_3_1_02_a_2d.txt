@@ -1,0 +1,24 @@
+﻿001	...
+002	...
+003	Mocca, can I ask you something?	VO_tina.tina_sys_0001
+004	Please don't, Tina. I already know.	VO_moca.moca_sys_0020
+005	I think we might have lost our way.
+006	I knew it.	VO_tina.tina_sys_0030
+007	I had no idea it was this easy to get lost in the desert.	VO_moca.moca_sys_0031
+008	We're running out of food and water. We have to find someone soon or we'll have none left.
+009	I thought we were so well prepared when we left Saga. What happened?	VO_moca.moca_sys_0030
+010	Maybe it was a bad idea to share our food with that guy who was down on his luck yesterday. Or could it have been the water we shared with that family three days ago?	VO_tina.tina_sys_0031
+011	Whatever the reason, we need to hurry. Helping others is a wonderful thing to do, but it'd make us stupid if we died because of it.	VO_moca.moca_sys_0001
+012	You're right.	VO_tina.tina_sys_0038
+013	Hm? That sound...	VO_moca.moca_sys_0025
+014	Isn't that Slothstein's alchemic carriage? It sounds like it's in a hurry!	VO_tina.tina_sys_0025
+015	Look! The carriage is under attack!	VO_moca.moca_sys_0027
+016	Mocca!	VO_tina.tina_battle_1016
+017	Let's go!	VO_moca.moca_sys_0004
+018	Argh!	VO_thiefm.thiefm_battle_0022
+019	Stop right there, you scoundrels!	VO_tina.tina_battle_0007
+020	Tch! You shouldn't have done that. C'mon! Kill them all!	VO_thiefm.thiefm_battle_0019
+021	Well, at least this makes it easy for us to tell who the villain is.	VO_moca.moca_sys_0010
+022	Nngh!	VO_moca.moca_sys_0042
+023	Mocca, can you fight?	VO_tina.tina_sys_0001
+024	I'm fine! Let's go, Tina!	VO_moca.moca_sys_0037

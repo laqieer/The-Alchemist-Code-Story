@@ -1,0 +1,179 @@
+﻿001	Okay then, Amane. About your trial.
+002	You passed.	VO_tanosuke.tanosuke_sys_0007
+003	Oh...? Whooooooooa?!	VO_amane.amane_sys_0009
+004	Welcome to the Blade Fox Corps, the demon slayers!
+005	Seriously?! But why?!
+006	I passed, didn't I?! Why have I been thrown in the brigs?!
+007	Yep. It's because you passed that you're in here. Keep it down, though. You're disturbing the other residents.	VO_tanosuke.tanosuke_sys_0005
+008	What is going on?! D-did you... Did you bait me with promises of passing the trial just to do unspeakable things to me here?!	VO_amane.amane_sys_0026
+009	Uh, no.	VO_tanosuke.tanosuke_sys_0011
+010	Tch! Don't think for a second that you can break me with torture! What do you even plan to accomplish through this?!	VO_amane.amane_battle_0019
+011	Can you please let me finish? You broke a Corps regulation. So now that you're officially accountable as a member, here you are.	VO_tanosuke.tanosuke_sys_0012
+012	A-am I supposed to be proud right now?	VO_amane.amane_sys_0031
+013	To be honest, I have no idea. I'm sure a life without joining the Corps could have been a happier one.	VO_tanosuke.tanosuke_sys_0030
+014	But there is something about you. I do want to see if you really are the one who will bring peace to Wadatsumi.	VO_tanosuke.tanosuke_sys_0031
+015	You'll be assigned with me in the Third Squad. I'm sure working with you will be a delight, Amane.
+016	With you?!
+017	I'm sure you have a lot to think about, so spend your time in the cell wisely. Later.
+018	Where are you going?	VO_amane.amane_sys_0001
+019	There's a debriefing after every mission. Then, usually a party to show respect for those who were involved.
+020	A party?! Is Celis going to be cooking?	VO_amane.amane_sys_0009
+021	Yeah, and I am gonna partake to my heart's content. You, on the other hand, get to stay here and think over what you've done.	VO_tanosuke.tanosuke_sys_0005
+022	Wh-what?!	VO_amane.amane_chara_1006
+023	Don't worry, I can bring you some scraps later.	VO_tanosuke.tanosuke_sys_0010
+024	Wait! No! This is cruel! How dare you enjoy a party after leaving me in here!	VO_amane.amane_sys_0025
+025	I'm going to hold a grudge over this!	VO_amane.amane_sys_0016
+026	You the only one here, Celis?	VO_tanosuke.tanosuke_sys_0006
+027	I am. I heard Amane made it through the trial.	VO_celis.celis_sys_0004
+028	Her naivete is pretty cute.
+029	I think so too. I just hope that doesn't get in her way on the battlefield.	VO_celis.celis_sys_0016
+030	I'll be watching over her.
+031	Oh, really? That's not like you.	VO_celis.celis_sys_0007
+032	Is it not?	VO_tanosuke.tanosuke_sys_0006
+033	You seem quite infatuated with her.	VO_celis.celis_sys_0001
+034	Oh please. She's not my type.	VO_tanosuke.tanosuke_sys_0011
+035	I thought I said we didn't need any new recruits?	VO_ugachi.ugachi_sys_0001
+036	I won't let any trouble make it to the Second Squad.	VO_tanosuke.tanosuke_sys_0010
+037	Having weaklings dilute the Corps is trouble enough.	VO_ugachi.ugachi_sys_0006
+038	Ooh, so scary. Guess I'm no good for the Corps either, huh?
+039	You...! Must you always be so—	VO_ugachi.ugachi_sys_0003
+040	Ugachi!	VO_celis.celis_sys_0012
+041	Just to make things clear... I hate you.	VO_ugachi.ugachi_sys_0001
+042	Well, that's not nice. I like you a lot, Ugachi.
+043	Why won't you just show your true nature already? Those like you who do not fight wholeheartedly have no right to stand among the Blade Fox.
+044	Oh, you think too highly of me. When am I not doing my best?	VO_tanosuke.tanosuke_sys_0002
+045	I will force you to fight with all your might if I must.	VO_ugachi.ugachi_sys_0001
+046	You shouldn't. There will be blood, you know.	VO_tanosuke.tanosuke_sys_0030
+047	...What?	VO_ugachi.ugachi_sys_0016
+048	Mine, probably.	VO_tanosuke.tanosuke_sys_0010
+049	Dammit, Tanosuke!	VO_ugachi.ugachi_sys_0003
+050	Whoa!
+051	Enough! Stop fighting!	VO_celis.celis_sys_0013
+052	If you're losing your cool, I don't mind making sure you two find it.
+053	Tch...
+054	Why did I have to get hit too?	VO_tanosuke.tanosuke_sys_0006
+055	In a quarrel, both parties are to blame.	VO_celis.celis_sys_0004
+056	Aw, really?
+057	We do have our debriefing to get to. Can we please get on with it?	VO_celis.celis_sys_0030
+058	...
+059	All right then. I'll need a damage report. How many casualties per squad?	VO_celis.celis_sys_0001
+060	None for my squad. Oh! Except for one potential recruit.
+061	I see. That's regrettable.	VO_celis.celis_sys_0021
+173	It couldn't be helped. Fear got the best of them, and they turned their back on a demon.	VO_tanosuke.tanosuke_sys_0030
+062	Understood. And the Second Squad?	VO_celis.celis_sys_0022
+063	Only a few light injures. About that. There's something I want to ask you, Celis.	VO_ugachi.ugachi_sys_0004
+064	Yes?
+065	The injured all reported the same thing; that it was Commander Celis that did them in.
+066	What?!
+067	...
+068	Have you anything to say about this, Celis?	VO_ugachi.ugachi_sys_0001
+069	No, I don't. Do you really think I would do such a thing?	VO_celis.celis_sys_0016
+070	There's even precedent for plotting the murder of comrades, thanks to Jubei.	VO_ugachi.ugachi_sys_0006
+071	Jubei was once your right-hand man. I wouldn't be surprised if you really were planning something behind our backs.
+072	Ugachi! You can't be serious!	VO_tanosuke.tanosuke_sys_0018
+073	Conflict or killing within the Corps, regardless of reason, is strictly prohibited.
+074	...
+075	Being found guilty of breaking such a regulation is reason enough to be purged, and you are not exempt from that, Celis.	VO_ugachi.ugachi_sys_0001
+076	Ugachi, you can't honestly be suspicious of Commander Celis.	VO_tanosuke.tanosuke_sys_0002
+077	It's fine, Tanosuke. I didn't do it.
+078	Are there any that can corroborate that statement? We must be sure to investigate all suspects to do our due diligence.
+079	...No.	VO_celis.celis_sys_0016
+080	All in the Corps are unsettled. They are jumping at their own shadows. Something must be done.	VO_ugachi.ugachi_sys_0006
+081	What if someone is trying to sow uncertainty among our ranks on purpose?	VO_celis.celis_sys_0001
+082	What?	VO_ugachi.ugachi_sys_0005
+174	We've received reports of Hidden Ogre sightings from the castle town. You know what this means, don't you?
+083	A Hidden Ogre, one of the pure bloods... If this is true, we have ourselves a problem.	VO_celis.celis_sys_0016
+084	You aren't simply trying to divert the blame and evade liability for Jubei and yourself, are you?	VO_ugachi.ugachi_sys_0002
+085	Not at all. I genuinely believe a demon is enacting a nefarious plan to sabotage our operations.
+086	Besides, Jubei has nothing to do with this. Why do you keep bringing him up? Concerned for your fellow student?	VO_celis.celis_sys_0001
+087	That is irrelevant.
+175	If the Hidden Ogre is in the castle town now, quarreling among ourselves is exactly what the demons want.	VO_celis.celis_sys_0030
+088	If you can find evidence of my treason, then I will gladly turn myself in.
+089	Hmph.	VO_ugachi.ugachi_sys_0006
+176	I'm glad you understand the situation now.
+177	I suppose that if you were the traitor, those injured wouldn't be alive now and there would be no evidence of any kind.	VO_ugachi.ugachi_sys_0001
+178	I'll trust you for now. But know that I will have your head if you show any sign of betrayal.	VO_ugachi.ugachi_sys_0030
+179	That's only fair.	VO_celis.celis_sys_0004
+090	Anyway, can't we get some reinforcements from Greed Dike?	VO_tanosuke.tanosuke_sys_0002
+091	Right now we're just eliminating demons as they pop up. At this rate, we'll just be aimlessly exhausting our troops. We need a decisive strike at the root of the issue.
+092	The continent's in a rather precarious state, so they don't seem to be able to send any.
+093	I've heard the Scarlet Flame Guard of Envylia was purged. Could that have something to do with the current state of affairs?	VO_ugachi.ugachi_sys_0031
+094	...
+095	It was only briefly mentioned during the scheduled meeting, so I didn't get to find out many details about that.	VO_celis.celis_sys_0016
+096	Celis...
+097	The demons have consistently targeted us here at the Castle Aquila Rubrum, where we keep our base of operations. We have no idea why, though.	VO_ugachi.ugachi_sys_0001
+098	If there is some logic behind the actions of these demons, we should be able to read their next move. Unfortunately...	VO_ugachi.ugachi_sys_0031
+099	We have no idea what it is they want.
+100	Not a clue, huh...
+101	You mean that?	VO_ugachi.ugachi_sys_0001
+102	Absolutely.
+106	...
+180	We'll leave it at that for now. Let me know as soon as you verify the validity of those Hidden Ogre sightings.	VO_ugachi.ugachi_sys_0006
+107	Quite the temper, huh?	VO_tanosuke.tanosuke_sys_0027
+108	It just shows how much he earnestly cares for Wadatsumi. I find it to be reassuring.	VO_celis.celis_sys_0004
+109	And what shall we do about the Hidden Ogre?	VO_tanosuke.tanosuke_sys_0002
+110	Let's wait on what the scouts have to report. Though we still don't have the truth of what happened, we can at least comfort and reward the troops!	VO_celis.celis_sys_0007
+111	...
+112	Three meals a day is the foundation of life! Strength of mind and body comes from a hearty meal!	QE06_1_1_01_a_2d.celis_story0601_1011
+113	Everyone, repeat!	QE06_1_1_01_a_2d.celis_story0601_2011
+114	Strength of mind and body comes from a hearty meal!
+115	Meals and blades are made to what?!	QE06_1_1_01_a_2d.celis_story0601_0012
+116	To vanquish all demons who bring pain and suffering!
+117	To bring about blissful days of joy!
+118	Now, all together...
+119	...
+120	We give thanks for this meal!
+121	We give thanks for this meal!
+122	All right! Today I made meatballs! Enjoy!	VO_celis.celis_sys_0007
+123	Oh no... Celis...
+124	Are you okay?
+125	Never again will I enjoy another meatball... These are the best meatballs I've ever had and ever will have!	VO_tanosuke.tanosuke_sys_0007
+126	You said something like that last time.	VO_celis.celis_sys_0007
+127	That's because you keep outdoing yourself!
+128	Aw, that's so sweet of you to say! Here, you get an extra one!	VO_celis.celis_sys_0008
+129	Huzzzaaaaahhh!!!	VO_tanosuke.tanosuke_sys_0023
+130	Where is Ugachi, by the way?	VO_celis.celis_sys_0001
+131	Mmmff-hhmmnn.
+132	Please don't eat with your mouth full. You don't have to rush. Your food won't run away.	VO_celis.celis_sys_0007
+133	Mn... Gulp. Is it really necessary to hold a banquet like this every time we finish a mission?	VO_ugachi.ugachi_sys_0001
+134	Not to mention that little call-and-reply routine...	VO_ugachi.ugachi_sys_0030
+135	We never know when we might lose our lives on a mission. So it's important to eat, laugh, and enjoy life as best as we can, when we can!	VO_celis.celis_sys_0004
+136	We really don't know how long any of us have left in this world.
+137	...
+138	What is it?
+139	It's the Second Squad.	VO_ugachi.ugachi_sys_0004
+140	Oh...	VO_celis.celis_sys_0021
+181	Don't worry about them. I've shared your information about the Hidden Ogre sightings with them, just in case. However, some are still finding it difficult to trust you.	VO_ugachi.ugachi_sys_0001
+182	Thank you...	VO_celis.celis_sys_0034
+141	Oh no! The pot's already empty! I'll be right back with more!	VO_celis.celis_sys_0005
+142	Hmph. She's an odd one.	VO_ugachi.ugachi_sys_0030
+143	She's just got a lot on her plate.
+144	Hmph.	VO_ugachi.ugachi_sys_0006
+145	We all do, actually.
+146	Well, that's how she makes herself seem so suspicious.
+147	Do you honestly doubt her?	VO_tanosuke.tanosuke_sys_0002
+148	No, but... She is keeping something from us.
+149	I'm back! Hm? Hey, where's Azami, by the way?	VO_celis.celis_sys_0023
+150	She piled a load of meatballs on her plate and left. More importantly, give me some seconds already.	VO_ugachi.ugachi_sys_0004
+151	Huh, I see. And fine, fine! Here you are!	VO_celis.celis_sys_0007
+152	Weren't you just accusing her of treason?	VO_tanosuke.tanosuke_sys_0010
+153	That and this meal are two separate issues.	VO_ugachi.ugachi_sys_0006
+154	I'm not entirely sure when it started.
+155	Echoes of memories, not of my own, started to flow through me.
+156	They were always imbued with the strong urge to eliminate demons, with a strong hate towards them.	VO_amane.amane_sys_0016
+157	I saw hate.
+158	Whomever these memories belonged to must have had someone important taken from them...much like Azami had.	VO_amane.amane_sys_0031
+159	Then, in revenge, they take another important someone from somebody else.
+160	I wonder if such a tragic cycle of events is still ongoing.	VO_amane.amane_sys_0027
+161	Demons must be eradicated.
+162	Still...	VO_amane.amane_sys_0031
+163	"I still believe."
+164	"I still believe Wadatsumi will regain such peaceful days once more!"
+165	That warm voice... As though he loves and pities all...
+166	Something I can't understand is happening within me.	VO_amane.amane_sys_0030
+167	There's no point dwelling on this, but...I just don't know what to do.	VO_amane.amane_sys_0031
+168	If you can't even handle a demon like this one, you don't belong here. It's too late to regret anything once you're dead.	VO_azami.azami_sys_0030
+169	You must live.	VO_tanosuke.tanosuke_sys_0003
+170	...!!! That's right! I don't have time to be wallowing in deep thought!
+171	I'm a member of the Blade Fox now. If there is anyone trapped in such a tragic cycle, then I will be the blade that cuts it down!
+172	I must train, every day!	VO_amane.amane_sys_0004

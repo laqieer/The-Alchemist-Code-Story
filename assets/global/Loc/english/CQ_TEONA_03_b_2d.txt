@@ -1,0 +1,49 @@
+﻿001	...You used the same pattern of attack just now as you did earlier.	VO_lamia.lamia_sys_0001
+002	Huff...huff...huff...! I-I'll be careful next time!	VO_theona.theona_battle_0019
+003	...Are you already exhausted?	VO_lamia.lamia_sys_0016
+004	Not at all! I'm just enjoying my training with you so much that it's causing me to get giddy!	VO_theona.theona_sys_0025
+005	Good answer. Let's continue then.	VO_lamia.lamia_sys_0006
+006	Got it!	VO_theona.theona_sys_0004
+007	Huff...huff...huff... Your guidance really is amazing!	VO_theona.theona_battle_0019
+008	At first glance, it appears crude and blunt, but your instructions are actually carefully calculated so that I'll fully absorb them. I'm learning so much from you!
+009	You're also pretty amazing for hanging in there regardless of the beating you're taking. I think you're ready now.	VO_lamia.lamia_sys_0007
+010	What...?! Then...!	VO_theona.theona_sys_0025
+011	Let's engage in another bout.	VO_lamia.lamia_sys_0038
+012	Got it! I'm prepared!	VO_theona.theona_sys_0004
+013	Then let's...	VO_lamia.lamia_sys_0006
+014	Begin!	VO_theona.theona_battle_0004
+015	Ack...! Hyaaaah!	VO_theona.theona_battle_0019
+016	Hmph...!	VO_lamia.lamia_battle_0003
+017	You really are incredibly strong! But I'm not going down that easily!	VO_theona.theona_sys_0018
+018	...Then I won't hold back either!	VO_lamia.lamia_sys_0044
+019	Whoa...?! Did you increase the force of your technique?! Either way, I'm going to keep up with you!	VO_theona.theona_battle_0022
+020	Ack...?! ...!	VO_lamia.lamia_sys_0042
+021	An opening! Here's my chance!	VO_theona.theona_sys_0032
+022	...I've lost.	VO_lamia.lamia_sys_0030
+023	Yes...yeeesss!	VO_theona.theona_sys_0023
+024	...That was fun. This is the first time I've gotten so worked up over something that was purely competitive instead of life-threatening.	VO_lamia.lamia_sys_0007
+025	It's all thanks to your training! Besides, if you hadn't provided me with an opening, I don't think I could've won...	VO_theona.theona_battle_0018
+026	...I didn't want to step on that flower.
+027	Flower...this tiny flower? Ahaha. You really like flowers, don't you?!	VO_theona.theona_sys_0006
+028	...I hope you're satisfied. I'm leaving now.	VO_lamia.lamia_sys_0003
+029	Oh, wait! Would you like to become an instructor at the gladiator training school with me?	VO_theona.theona_chara_1006
+030	I...	VO_lamia.lamia_sys_0018
+031	I know that you're not interested, but still...! I want you to teach techniques to those training to become gladiators!	VO_theona.theona_sys_0035
+032	... ...
+033	I guess that's a no. I think you'd make a better instructor when it comes to training the rookies than me...	VO_theona.theona_sys_0022
+034	...But I am not their instructor.	VO_lamia.lamia_sys_0039
+035	What...?	VO_theona.theona_sys_0025
+036	Their instructor...is you.	VO_lamia.lamia_sys_0007
+037	...!	VO_theona.theona_chara_1010
+038	....Right. I need to face them head on and instruct them properly, just like you did for me!
+039	... ...
+040	Oh, one last thing! Please, tell me your name!	VO_theona.theona_chara_1006
+041	...It's Lamia.	VO_lamia.lamia_chara_1001
+042	Lamia... Wait, are you Lamia the hero known as the Coquelicot Lancer?!	VO_theona.theona_sys_0025
+043	...Well, of course, you're strong. But, next time we cross blades, I'm going to beat you!	VO_theona.theona_sys_0011
+044	All right. I look forward to it.	VO_lamia.lamia_sys_0007
+045	Also, this time I wasn't able to show you around, but there are some sweets shops I highly recommend! I'll take you on a food tour next time!	VO_theona.theona_chara_1003
+046	Yes, all right... I'm sure I'll enjoy it if it's with you. I'll keep that in mind.	VO_lamia.lamia_sys_0004
+047	So...I better run into you again! I'll be waiting!	VO_theona.theona_sys_0007
+048	Yes, Teona...one day. For sure.	VO_lamia.lamia_sys_0008
+049	...The next time we meet, I'll introduce you to the new-and-improved me along with my pupils!

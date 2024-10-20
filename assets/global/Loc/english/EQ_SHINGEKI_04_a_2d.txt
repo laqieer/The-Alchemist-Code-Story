@@ -1,0 +1,102 @@
+﻿001	Huh...? Where am I?	VO_judith.judith_sys_0027
+002	The Earth Temple. We carried you here after you passed out.	VO_mikasa.mikasa_sys_0005
+003	Hmm... I guess I was pretty absorbed in watching you guys fight.	VO_judith.judith_sys_0021
+004	That is incredibly careless. Letting your mind wander on the battlefield is...nonsensical.	VO_mikasa.mikasa_sys_0017
+005	All that awaits the careless is death. This world... Life is merciless like that.
+006	Your wounds have been treated, but you will need to get your strength up.	VO_mikasa.mikasa_sys_0001
+007	I can't promise it tastes any good, since we made it with our field rations...
+008	But regular meals are only being given out to the severely wounded, so you'll have to bear with this for now.
+009	Th-thank you.
+010	Oh, you're awake? That's good. Glad to hear it.	VO_eren.eren_chara_1004
+011	I'm sorry for worrying you.	VO_judith.judith_sys_0036
+012	Don't space out like that on the battlefield, all right? Survival is all that matters. Remember that.	VO_eren.eren_sys_0004
+013	Um... Who are you guys?
+014	Us? We're...
+015	So...you're from another world.	VO_judith.judith_sys_0021
+016	Right. We'll find a way home. Anyway, you better eat up.	VO_eren.eren_sys_0031
+017	Right! Time to eat!
+018	This...is...
+019	Not to your taste?
+020	No! It's not that at all. It's just that this reminds me of something I ate with my dad when I was little.
+021	I...see.	VO_mikasa.mikasa_sys_0006
+022	He promised that we'd eat dinner together. It's nice to be reminded of him like this. Heheh.
+023	Do you know Lost Blue? I guess there's no way you would.	VO_judith.judith_sys_0001
+024	Of course not. We're not even from this world.	VO_eren.eren_sys_0030
+025	It's a city that's not on any maps; a city untouched by the light of the sun. I lived there for a little while. It was just me and my dad.
+026	Remembering him is always a bit hard for me... Just kidding! Heheh.
+027	Thanks guys! I can't afford to be lying around on the ground. I gotta get up and face the world with a swoosh!	VO_judith.judith_sys_0033
+028	After all, I've gotta complete the Mecha Weapon my dad invented so that I can take down the Giant Taurus! I will bring peace to the world, no matter what!
+029	Why don't you just get your dad to finish it?	VO_eren.eren_sys_0002
+030	I...would if I could.	VO_judith.judith_sys_0011
+031	What do you mean?	VO_eren.eren_sys_0006
+032	My dad... He's dead.
+033	Wh-what?	VO_mikasa.mikasa_sys_0025
+034	So that's why... Was it an illness?	VO_eren.eren_sys_0018
+035	No...
+036	My dad was murdered. The Holy Guard, who claim to uphold justice in Babel killed him.
+037	What?!
+038	Then...this world is no less cruel than our own.	VO_mikasa.mikasa_sys_0031
+039	Huh? What do you mean?	VO_judith.judith_sys_0004
+040	In our world, Titans have driven humanity to the brink of extinction.	VO_mikasa.mikasa_sys_0005
+041	If we want to survive, all we can do is fight.
+042	Exactly. That's why we joined the Scouts.	VO_eren.eren_sys_0004
+043	Eren is my family. I don't want to lose him.	VO_mikasa.mikasa_sys_0042
+044	It's true... If you wanna protect the things that are important to you, or take them back from those who stole them from you, all you can do is fight.	VO_judith.judith_sys_0021
+045	My dad...fought to save everyone.
+046	When the Giant Taurus suddenly appeared in our world, my dad worked night and day to invent something that could take them down.
+047	At the time, a Philosopher's Stone powered the Mecha Weapon... An item that is deeply connected to the forbidden art of Alchemy.
+048	By using the stone, my dad broke that ancient taboo, and so they killed him.	VO_judith.judith_sys_0018
+049	Why? If he knew that it was forbidden, then why did he...?	VO_eren.eren_sys_0022
+050	The Giant Taurus needed to be dealt with! The entire continent was in danger! Wouldn't you do whatever was necessary to stop a threat like that?!
+051	My dad wasn't wrong.
+052	The Holy Guard killed my dad for daring to so much as touch Alchemy, but they can't do anything about the Giant Taurus threat themselves!
+053	I see.	VO_eren.eren_sys_0020
+054	That's why I have to take down the Giant Taurus myself. Now that my father is gone...no one else will!	VO_judith.judith_sys_0027
+055	My dad wasn't wrong. His invention wasn't wrong!
+056	I need to show them that. I will show them!
+057	I guess we're not so different. If we don't wipe out the Titans in our world, we have no future.	VO_eren.eren_sys_0030
+058	Right?! Something needs to be done about those Titans too! I can't afford to be lying around like a sack of potatoes!	VO_judith.judith_battle_0019
+059	You don't need to concern yourself with the Titans. They are from our world, so we will be the ones to deal with them.	VO_mikasa.mikasa_sys_0039
+060	Don't be silly! They're in our world now, so that makes them our problem too! Let's tackle this together!
+061	All right. I know how it feels to lose family for senseless reasons.	VO_eren.eren_sys_0004
+062	You do?	VO_judith.judith_sys_0025
+063	My mother was eaten by a Titan, right in front of my eyes. I will annihilate every last one of the monsters.
+064	I guess what I'm trying to say is that I know how you feel. I'll help you.	VO_eren.eren_sys_0002
+065	As will I.	VO_mikasa.mikasa_sys_0005
+066	Thank you. Both of you.	VO_judith.judith_sys_0033
+067	We don't know anything about the Giant Taurus, so I'm not sure how much help we will be.
+068	Don't worry! I feel a thousand times better just having your support!	VO_judith.judith_sys_0008
+069	Ah! Your clothes! That guy was wearing the same thing! I guess he must be a friend of yours!	VO_judith.judith_chara_1002
+070	Ours?
+071	Yeah! He must be! He was a little rough around the edges, but he was also using that, um... What was it called again? Oh yeah, the omni-directional mobility gear!
+072	Don't tell me...	VO_mikasa.mikasa_sys_0025
+073	So you've figured it out then? At least he's safe.
+074	Captain Levi.
+075	What?	VO_levi.levi_sys_0006
+076	Judith, please describe the man that you saw, in as much detail as you can.	VO_mikasa.mikasa_sys_0001
+077	All right! His eyebrows were all stern, and he looked super serious! Kinda like this!	VO_judith.judith_sys_0006
+078	I guess that's a little difficult to understand... Oh, and he was blond!
+079	That sounds like Reiner! He didn't introduce himself?	VO_eren.eren_sys_0027
+080	I didn't get his name, but he was a good guy! I owe him my life!	VO_judith.judith_sys_0031
+081	Titans are troublesome enough on their own, but we can expect at least a few Armored Titans to appear as well.	VO_hans.hans_sys_0030
+082	Where did you meet him? Take us there. Now.	VO_levi.levi_sys_0001
+083	Huh? He's probably not there anymore, you know. I'm sure he'll turn up somewhere eventually.	VO_judith.judith_sys_0004
+084	It's easy for you to be optimistic about that. You don't know him.	VO_levi.levi_sys_0012
+085	You said you owe him your life, but that hasn't been our experience. Take us to him. Now.
+086	A-all right! I get it already! Jeez, you're so scary!	VO_judith.judith_sys_0027
+087	Here? Hmph. Prepare yourselves!	VO_levi.levi_sys_0044
+088	Yes, captain!	VO_eren.eren_sys_0005
+089	Huh? What are you all looking so serious for? I thought he was your friend?	VO_judith.judith_sys_0004
+090	He is our enemy.	VO_levi.levi_sys_0001
+091	Reiner isn't a mere human. He is a Titan.	VO_hans.hans_sys_0004
+092	H-huh?!	VO_judith.judith_sys_0025
+093	That's not Reiner! What is that thing?!	VO_eren.eren_sys_0025
+094	Be careful! It's a Giant Taurus!	VO_judith.judith_sys_0027
+095	It's...!	VO_eren.eren_sys_0027
+096	Hey! Did you see that just now?!	VO_levi.levi_sys_0028
+097	Yes! The Giant Taurus is calling Titans!	VO_hans.hans_sys_0012
+098	What the hell is going on?!	VO_judith.judith_sys_0027
+099	This is bad.	VO_mikasa.mikasa_sys_0016
+100	Wait! What did you mean? How could that guy be a Titan?!	VO_judith.judith_sys_0001
+101	Save your questions for later. Switch to omni-directional mobility!	VO_levi.levi_sys_0022
+102	I'm going to tear every last one of them to pieces!	VO_eren.eren_battle_1014

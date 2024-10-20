@@ -1,0 +1,53 @@
+﻿001	It's been quiet. Too quiet. It makes me nervous. It's like the calm before a storm... Don't you feel it?	VO_vetel.vetel_chara_1007
+002	We'll stay alert. Chloe and Victor's report gives me reason to expect that something will happen soon.	VO_gerard.gerard_sys_0002
+003	Yes... Still, I can't let it go. This feels just like the peace that we fight to protect...	VO_vetel.vetel_sys_0004
+004	Exactly. That is exactly why we cannot lower our guard. We must protect this.
+005	Indeed. I can't help but feel the pressure. It feels like the number of things to protect has only grown since we made our vow all those years ago. It's strange to say, but...	VO_vetel.vetel_sys_0007
+006	Well, the Scarlet Flame Guard itself has grown significantly since then. In that aspect, I suppose our world has grown bigger. It's all thanks to you, Gerald.
+007	What are you on about all of a sudden?	VO_gerard.gerard_sys_0006
+008	You work in the shadows to make it possible for me to be the "sun". None of this would be possible if it weren't for you.	VO_vetel.vetel_sys_0034
+009	You have always been here for me. I don't know what I would ever do without you.
+010	I will only say this once... I am the one who was saved... by you. That is why I support you. There is nothing more we need to say on the matter.	VO_gerard.gerard_sys_0007
+011	We are simply doing what is most suited to us. You are the only one of us who can be the sun of hope for the people, and I am the only one of us who can do what I can do.
+012	Haha, I suppose you are right. Well, Gerald... I appreciate everything you have done until now. I hope we can continue working together side-by-side for a long time to come.	VO_vetel.vetel_sys_0007
+013	Captain Vettel, Captain Gerald! Bad news!	VO_victor.victor_battle_0019
+014	What is it?	VO_gerard.gerard_sys_0002
+015	We have received word that Greed Dike's army is marching on Envylia!	VO_victor.victor_sys_0004
+016	?!
+017	The Holy Guard is sending some reinforcements here, but we have already received an urgent order to make our way to the towns near the royal palace!
+018	What? What of the Blue Flame Guard?	VO_gerard.gerard_sys_0027
+019	They have their hands full guarding the royal palace! That's how overwhelming the number of Greed Dike soldiers is!	VO_victor.victor_sys_0018
+020	But...what about the villages and towns closer to the border?!	VO_vetel.vetel_sys_0021
+021	...Our orders explicitly state that the royal palace and surrounding areas are the priority, Captain!	VO_victor.victor_battle_0019
+022	This is a state of emergency. We must hurry to those towns and stop Greed Dike in its tracks!	VO_vetel.vetel_sys_0042
+023	Understood!	VO_victor.victor_sys_0004
+024	What am I doing...? Sacrifice the few for the greater good...? Then what was the point of all I have done until now?!	VO_vetel.vetel_sys_0020
+025	Vettel... The safety of the people in the towns has been left to you... To the Scarlet Flame Guard.	VO_gerard.gerard_sys_0002
+026	Gerald?
+027	Why did we create the Scarlet Flame Guard? Why did you first pick up your sword? You already know the answers to these questions.	VO_gerard.gerard_sys_0016
+028	However, you are the heart of the Scarlet Flame Guard. There is no Scarlet Flame Guard without you.
+029	Isn't this what we were just talking about? You have a duty to stay here with the Scarlet Flame Guard. I will go to the border in your stead to fight on the front lines.	VO_gerard.gerard_sys_0007
+030	But if you do that—	VO_vetel.vetel_battle_0019
+031	"Dedicate your sword to the pursuit of justice." Leave the border to me. If the hammer falls, I will bear full responsibility. If we all survive this, at least.
+032	I am sorry, Gerald. Thank you.	VO_vetel.vetel_sys_0035
+033	Don't thank me yet. I'll need at least a few people to come with me to face Greed Dike at the border.	VO_gerard.gerard_sys_0004
+034	Oh, Sir Gerald... You never cease to amaze me. I must say, heading to the border like this to face Greed Dike's army head-on is a bit removed from your standard sense of fun.	VO_ren.ren_sys_0040
+035	Eh. I mean, you'll go no matter what I say, but I just felt compelled to point it out. I think it's fantastic.	VO_ren.ren_chara_2006
+036	Ren... Where the hell have you been?	VO_gerard.gerard_sys_0006
+037	Sorry, I got a bit distracted. Seems like Wratharis is planning to take advantage of the chaos of Greed Dike's invasion to assassinate you and Vettel.	VO_ren.ren_sys_0001
+038	Wratharis?! At this time?!	VO_vetel.vetel_sys_0021
+039	It's probably revenge for what happened before. Ugh, so petty, am I right?	VO_ren.ren_sys_0030
+040	But it doesn't matter... I will go to the front lines.	VO_gerard.gerard_sys_0010
+041	Uh, are you serious?
+042	Hmph. Let's see them try to kill us.
+043	Uh...is this that iron will thing you're always on about?	VO_ren.ren_sys_0002
+044	Yes. This is no time to underestimate things. We are of the Scarlet Flame Guard! Vettel and I will survive this, as we have survived all else, and meet again.	VO_gerard.gerard_sys_0004
+045	Hahaha! Oh, you. You really are something.	VO_ren.ren_sys_0007
+046	Ren, Natalie... Please go with Gerald. Please be his strength where I cannot.	VO_vetel.vetel_sys_0041
+047	Got it. I won't let anyone kill him. That's my job!	VO_ren.ren_sys_0005
+048	Alright. Onwards, Scarlet Flame Guard!
+049	No... This is terrible... The village has been completely destroyed.	VO_natalie.natalie_sys_0021
+050	No, not completely. There must still be those that still cling to life. Go to them! That is an order! We must save all that we can!	VO_gerard.gerard_sys_0039
+051	Got it!	VO_natalie.natalie_sys_0004
+052	Yikes. We're heavily outnumbered. This is going to be no walk in the park.	VO_ren.ren_sys_0024
+053	There's nothing for it. Our iron will shall never bend for Greed Dike!	VO_gerard.gerard_sys_0004

@@ -1,0 +1,73 @@
+﻿001	Calm down, Ila!	VO_niggle.niggle_sys_0002
+002	I can't stand it! I just can't! The Holy Guard took everything from me! I hate them all!	VO_ila.ila_sys_0013
+003	(This is not good. Things are going to get much worse if Ila continues to unleash her Alchemia in rage.)	VO_niggle.niggle_sys_0018
+004	(Perhaps I should prepare for the worst.)
+005	(...?!)	VO_niggle.niggle_sys_1050
+006	Ila.
+007	Haaa...! Haaa...!
+008	...
+009	Oh no! Somebody, come quick! The Paladins...!
+010	Ila, we're leaving.	VO_niggle.niggle_sys_0002
+011	H-hold it! Make way! Move!	VO_stknightm.stknightm_battle_0022
+012	Things have gotten out of hand. I can no longer continue my investigation like this. You really couldn't resist, could you?	VO_niggle.niggle_sys_0016
+013	Y-you're blaming me?!	VO_ila.ila_sys_0006
+014	I kept my cool! I was this close to losing it and beating the absolute crap out of those Paladins, but I didn't!	VO_ila.ila_sys_0001
+015	To be honest, I am surprised at that. I'm proud that you were able to somewhat control yourself.	VO_niggle.niggle_sys_0004
+016	I mean, I do absolutely hate the Holy Guard.
+017	But there was someone else who was just... Ooh... Just really pissing me off...	VO_ila.ila_sys_0016
+018	I take it you mean me. Was it that unbearable to see me considering the informant's proposal?	VO_niggle.niggle_sys_0010
+019	I can't stand it...	VO_ila.ila_sys_0013
+020	We could have gained some useful information by accepting his request.	VO_niggle.niggle_sys_0001
+021	I mean... Maybe... But...	VO_ila.ila_sys_0031
+022	But...?	VO_niggle.niggle_sys_0006
+023	But you hate being an assassin!	VO_ila.ila_sys_0002
+024	...!	VO_niggle.niggle_sys_1050
+025	To endure something you hate doing, even for the sake of the Shadow Messiah... I just can't stand it!	VO_ila.ila_sys_0016
+026	You can tell...that I hate killing?	VO_niggle.niggle_sys_0001
+027	Don't underestimate me!	VO_ila.ila_battle_1029
+028	Of course I can tell! I've been observing you closely so that I can beat you!
+029	...
+030	Besides, the Shadow Messiah can find some tome without you having to endure what you hate!	VO_ila.ila_sys_0030
+031	And yet you were still going to... I just can't stand it!
+073	...
+032	Hmph...	VO_niggle.niggle_sys_0016
+033	Wh-what? What are you sighing for?	VO_ila.ila_sys_0025
+034	I never said that I was going to take that job.	VO_niggle.niggle_sys_0002
+035	Wha—
+036	Whether that man even had any information on the missing researcher was questionable, so I was trying to suss out the truth of the matter.	VO_niggle.niggle_sys_0010
+037	...!
+038	O-oh... Well... Fine! I really can't stand you!	VO_ila.ila_sys_0016
+039	I am not saying that you did anything wrong, however.	VO_niggle.niggle_sys_0004
+040	What?
+041	And the fact that you were able to keep your temper in check is a definite sign of growth.	VO_niggle.niggle_sys_0007
+042	Even in the skirmish with the Holy Guard, you were fighting very efficiently. Your training is bearing fruit.
+043	Wh-where is that coming from?! You never praise me like this! I can't stand it! This feels weird!	VO_ila.ila_sys_0001
+044	...
+045	(The ark that will spread our will to the rest of the world, once our new order has been established...)	VO_niggle.niggle_sys_0031
+046	(Even a wretch like me, so stained in darkness, may yet be able to leave something worthwhile behind.)
+047	I see... Hehe, you two sounded like you were having so much fun, I almost thought I was hearing a family on vacation.	VO_laetitia.laetitia_sys_0007
+048	...
+049	Heh, I left that house to cut ties with one family, only to find myself bound to another... How ironic.	VO_niggle.niggle_sys_0010
+050	(Still, if this is what a family can be, then perhaps it is not so bad.)
+051	What are you on about?	VO_ila.ila_sys_0012
+052	I was just thinking that if you're keeping an eye on me like that, I have to step up my game.	VO_niggle.niggle_sys_0007
+053	I...still don't get it.	VO_ila.ila_sys_0030
+054	Anyway, you couldn't find what you were looking for, right? What are you gonna do?	VO_ila.ila_sys_0001
+055	Well, I suppose I'll ask you to help me find the tome from now on.	VO_niggle.niggle_sys_0004
+056	A-are you sure?
+057	Depends on how you do in your next training session.	VO_niggle.niggle_sys_0005
+058	All right! Just wait and see! I'm gonna blow your mind!	VO_ila.ila_sys_0007
+059	The darkness within whispers to me...that I'm looking forward to it.	VO_niggle.niggle_sys_0010
+060	Huzzah!	VO_ila.ila_battle_0001
+061	You're starting to get the hang of it. That's it, Ila. Listen closely to the whispers of the darkness within.	VO_niggle.niggle_sys_0001
+062	You're speaking nonsense again! Ugh, when will I ever beat this guy?!	VO_ila.ila_sys_0016
+063	Not until you can handle an entire platoon of Paladins on your own.	VO_niggle.niggle_sys_0031
+064	Grr... Dammit! Fine!	VO_ila.ila_sys_0031
+065	Hehe, you two really do sound like a family having fun together.	VO_laetitia.laetitia_sys_0009
+066	You still think so?	VO_niggle.niggle_sys_0002
+067	Then I suppose I could still be even more strict with her.	VO_niggle.niggle_sys_0007
+068	Oh my.	VO_laetitia.laetitia_sys_0025
+069	Hey, Corvus! What are you doing?! Training's not over yet! I can keep going!	VO_ila.ila_sys_0001
+070	Geez... The stamina of children these days.	VO_niggle.niggle_sys_0016
+071	All right, then. I can humor her for a bit longer.	VO_niggle.niggle_sys_0010
+072	That is what the darkness within me whispers.	VO_niggle.niggle_battle_1010

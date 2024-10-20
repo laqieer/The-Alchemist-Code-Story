@@ -1,0 +1,101 @@
+﻿001	I've finished analyzing the magic innate to the shield. It's like the king said, this shield could be our saving grace.	VO_nimuru.nimuru_sys_0001
+002	It could be, but I fear it won't be so easy.	VO_kuienai.kuienai_sys_0031
+003	Not even with your skill?	VO_nimuru.nimuru_sys_0006
+004	We're not just dealing with the innate magic that resides within this shield. We'll also have to add the Anti-Curse magic to deal with Leviathan...	VO_kuienai.kuienai_sys_0004
+005	It's going to hard to get both of those to work harmoniously within one shield.
+006	I see...	VO_nimuru.nimuru_sys_0022
+007	What do you think? Should we forget about the upgrades? Just restore it to its original function?	VO_kuienai.kuienai_sys_0001
+008	No, I fear that won't be enough... But there's one thing we haven't tried yet.	VO_nimuru.nimuru_sys_0031
+009	Do you think it'll work if we make it a pair? Two weapons?	VO_nimuru.nimuru_sys_0002
+010	So splitting one function across two different objects? Essentially the opposite of Libra, then...	VO_kuienai.kuienai_sys_0006
+011	That's still rather difficult, you know.	VO_kuienai.kuienai_sys_0030
+012	But you can do it, right?	VO_nimuru.nimuru_sys_0007
+013	Well, I'll try to live up to your expectations.	VO_kuienai.kuienai_sys_0007
+014	Is it alright to use 'that' to make up for the materials we're lacking?	VO_kuienai.kuienai_sys_0001
+015	Well, we did bring it along for this kind of situation. In case the Gears of Judgement got damaged.	VO_nimuru.nimuru_sys_0004
+016	Then I'll get started. Nimul, what wi—	VO_kuienai.kuienai_sys_0037
+017	Excuse me!	VO_dafne.dafne_sys_0001
+018	...It's no problem that you're here, but please don't shout like that...	VO_kuienai.kuienai_sys_0031
+019	I nearly spilled all of this boiling water...	VO_kuienai.kuienai_sys_0030
+020	M-my sincerest apologies! But this is an emergency!	VO_dafne.dafne_sys_0035
+021	What's going on?	VO_nimuru.nimuru_sys_0006
+022	The airship is being chased by Leviathan?	VO_nimuru.nimuru_sys_0025
+023	Is it true, Your Highness?
+024	It is. My own knights have reported that Adaleigh took Andechs along to retrieve the Ira Belt warship.
+025	...And on the way, they ran into Leviathan.	VO_hymnus.hymnus_sys_0004
+026	It appears that they have distanced themselves from the capital and are instead headed for the border. Isn't that right, Daphne?
+027	...
+028	Daphne?	VO_hymnus.hymnus_sys_0006
+029	Oh, um, it's nothing! It's just like you said.	VO_dafne.dafne_sys_0039
+030	We wanted to go and rescue them, but...	VO_hymnus.hymnus_sys_0029
+031	...We've nearly finished repairing the shield, but we still need a bit more time. Not to mention, we're still lacking a method to handle Leviathan.	VO_nimuru.nimuru_sys_0018
+032	If we follow them without an effective plan, we might all perish.	VO_nimuru.nimuru_sys_0030
+033	You can't be saying... Are you telling us to abandon them?	VO_dafne.dafne_sys_0021
+034	Not in the slightest. We'll head there the second the shield is ready.
+035	Will we make it in time? The border is still quite a distance away.	VO_hymnus.hymnus_sys_0001
+036	We might be able to make it if it's just us.	VO_nimuru.nimuru_sys_0004
+037	Oh! You want to use Space-Time Manipulation? I think I could manage a one way trip to the Libra, but...	VO_mela.mela_sys_0006
+038	I only have enough magil to take along four, maaaybe five people at best!
+039	And I'm going to guess and say that me and Nyx are going to be pretty darn useless for a whole day afterwards... You still want to go for it?	VO_mela.mela_sys_0030
+040	These are dire straits. The ends will justify the means. As for who else will come along—	VO_nimuru.nimuru_sys_0005
+041	...You want me to go?	VO_dafne.dafne_sys_0001
+042	It seems your magil is deeply intertwined with that of the shield.	VO_eularea.eularea_sys_0004
+043	In other words, you're the only one who can draw out its true power.	VO_nimuru.nimuru_sys_0002
+044	You're the only one who can strip the Cursed Beast of its sin.
+045	...
+046	My chest feels so tight, I can't breathe. It's like I'm suffocating. They want me to fulfill such an important role? Me...? But...
+047	Understood! I'll come!	VO_dafne.dafne_sys_0004
+048	It seems you've settled on a plan.
+049	Then let us move to make it a reality. Nimul, I'm counting on you to fix that shield as fast as you can.
+050	The Purple Flame Knights will prepare the fleet.
+051	Yes, sir!	VO_hymnus.hymnus_battle_0001
+052	Finally, we can seize the opportunity to sever the bond between Leviathan and our people. We can not falter here.
+053	It's a race against the clock. We've got to get this shield repaired in time.	VO_nimuru.nimuru_sys_0005
+054	Mira, you help Daphne prepare for the jump. Eulalia will assist too.	VO_nimuru.nimuru_sys_0001
+055	Gotcha!	VO_mela.mela_sys_0038
+056	Leave it to us!	VO_eularea.eularea_sys_0006
+057	What?! That sound came from Nicaea's room!	VO_nimuru.nimuru_sys_0025
+058	Is Emmel okay—?!	VO_nimuru.nimuru_battle_0022
+059	Lady Emmel?	VO_nicaia.nicaia_sys_0001
+060	What is it? Does it hurt somewhere?	VO_emmer.emmer_sys_0005
+061	No, I'm all right. I was just wondering if you could use your power to help me up.	VO_nicaia.nicaia_sys_0039
+062	That'll be difficult. You see, your body doesn't have enough magil to survive at the moment.	VO_emmer.emmer_sys_0031
+063	It's not the same as healing your wounds. This can only be healed with time and rest.	VO_emmer.emmer_sys_0001
+064	Ah, I see...	VO_nicaia.nicaia_sys_0017
+065	This won't do... I thought I'd be able to help Daphne and Imnus.	VO_nicaia.nicaia_sys_0030
+066	I think you have already helped us a lot.	VO_emmer.emmer_sys_0002
+067	Not just Daphne and Imnus, you saved my brother's life too.
+068	That's why you should take the time to rest now. You can leave the rest to us.	VO_emmer.emmer_sys_0001
+069	Heh, you're really too kind, Lady Emmel...	VO_nicaia.nicaia_sys_0007
+070	Not at all—	VO_emmer.emmer_sys_0025
+071	Huh?! What's happening!	VO_nicaia.nicaia_sys_0025
+072	An intruder climbed through the window! Lady Nicaea, get behind me!	VO_emmer.emmer_battle_0019
+073	—Aah, I've found you. The shield has shattered, and the beast has broken its chains.	VO_arius.arius_sys_0005
+074	So the sacred beast is the only thing left in our way...	VO_arius.arius_sys_0010
+075	"I beseech the supreme...!"	VO_emmer.emmer_battle_0007
+076	Ah, the shrine maiden from the other world... You will not interfere!!!	VO_arius.arius_sys_0013
+077	This is the guy who was leading the Ira Belt forces?	VO_emmer.emmer_sys_0006
+078	Lady Emmel! Run! It's me that he's after!	VO_nicaia.nicaia_battle_0019
+079	I refuse.	VO_emmer.emmer_sys_0040
+080	Lady Emmel?
+081	Countless of people would mourn your death. I'm sure Imnus would be devastated too...	VO_emmer.emmer_sys_0002
+082	I've had enough of that kind of sadness.	VO_emmer.emmer_sys_0042
+083	I've seen enough people who lose sight of everything after a loss...
+084	So I want you to live, to be happy. That's what all of us want from you.	VO_emmer.emmer_sys_0001
+085	So I will definitely protect you!
+086	Fools!
+087	Tch!	VO_emmer.emmer_battle_0019
+088	Wishes without the strength to back them up, ideals without resolve, in the end they are no more than pipe dreams!	VO_arius.arius_sys_0031
+089	Oh my, you blocked my attack? Impressive, but this is where the story ends.	VO_arius.arius_sys_0010
+090	Ack!	VO_emmer.emmer_battle_0025
+091	I will not be hindered! Stand in my way and you shall be the first one I cut down!	VO_arius.arius_battle_0040
+092	I didn't expect to see this to be the first thing I saw after finishing up in the forge.	VO_kuienai.kuienai_sys_0030
+093	Yna!	VO_emmer.emmer_sys_0025
+094	I will take care of this! Take the princess and run!	VO_kuienai.kuienai_sys_0002
+095	Thanks!	VO_emmer.emmer_sys_0034
+096	You will not stand in my— You. You, are you one of the serpents?	VO_arius.arius_sys_0013
+097	The scent of distorted magil is unmistakable. Did you meet that woman?	VO_arius.arius_sys_0001
+098	...
+099	Well, I suppose it doesn't matter. Regardless of who you are, you'll burn all the same.	VO_arius.arius_sys_0031
+100	...Anger is often likened to flames. I can see that that's your power to wield as a Fallen.	VO_kuienai.kuienai_sys_0031
+101	But a blacksmith is forged in the flames! When it comes to handling fire, I know all the tricks—!	VO_kuienai.kuienai_sys_0010

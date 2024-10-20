@@ -1,0 +1,68 @@
+﻿001	...
+002	(Raphtalia, Filo... Where are you two?)	VO_melty.melty_sys_0031
+003	Say, Melty, aren't you a princess?	VO_anastasia.anastasia_chara_1004
+004	Er, yes, I am.	VO_melty.melty_sys_0025
+005	You said people are out to get you back in your world... May I ask what happened?	VO_anastasia.anastasia_sys_0002
+006	Well...
+007	I see... I had no idea that you went through so much.	VO_anastasia.anastasia_sys_0006
+008	My father despises demi-humans...as well as the Shield Hero. But the king and Heroes should be working together, not fighting among themselves.	VO_melty.melty_sys_0016
+009	After some deliberating, my mother ordered me to hurry back to the kingdom and admonish the king for encouraging such unjust hatred to flourish.
+010	That's why I want Father and the Shield Hero to reconcile their differences. I just need to get them to speak with one another...	VO_melty.melty_sys_0031
+011	And yet, the knights of Melromarc turned their swords on me...
+012	The knights did...?	VO_anastasia.anastasia_sys_0025
+013	Naofumi ended up saving me, but ended up being wanted for kidnapping the princess...	VO_melty.melty_sys_0018
+014	I swear, no one in charge of Melromarc is worth anything. Not even their king nor that other princess...	VO_naofumi.naofumi_sys_0030
+015	H-how can you even say that?!	VO_melty.melty_sys_0012
+016	Why do bother defending them? Your blood sister tried to kill you for the crown, after all.	VO_naofumi.naofumi_sys_0010
+017	Oh... Well...	VO_melty.melty_sys_0031
+018	They didn't believe a word you said and blindly followed your sister, right? They'll never change. They acted the same to me, too...	VO_naofumi.naofumi_sys_0002
+019	That's why we can't trust anyone from your kingdom. Especially your poor excuse of a father—the king who tried to execute his own daughter.
+020	Father never attempted to do such a thing!
+021	It's true that those were my father's men, but they were just listening to my sister's orders.	VO_melty.melty_sys_0018
+022	No matter who told them to do it, it doesn't change the fact that knights of the Melromarc Kingdom were out for your head.	VO_naofumi.naofumi_sys_0016
+023	On top of that—those knights took orders from someone besides the king? Your kingdom's got a lot of issues.	VO_naofumi.naofumi_sys_0001
+024	...
+025	Hey... You didn't have to go that far...	VO_lamia.lamia_sys_0002
+026	You have no right to butt in when you don't even know the entire situation.	VO_naofumi.naofumi_sys_0002
+027	...
+028	And just for the record—Melty's father is the one who messed with me first.	VO_naofumi.naofumi_sys_0010
+029	That may be true, but...	VO_melty.melty_sys_0031
+030	Sorry, but we're going to need you to leave this argument back in your world to deal with later. You're not going to resolve that while you're here.	VO_ryle.ryle_sys_0002
+031	We need to focus on looking for your pals right now.	VO_ryle.ryle_sys_0001
+032	You're right...	VO_naofumi.naofumi_sys_0004
+033	You're a hardheaded one, Naofumi. But I suppose I don't blame you for feeling that way if what you claim is true.	VO_lamia.lamia_sys_0003
+034	Still, if you keep pushing others away, no one will ever come close to truly understanding you.	VO_lamia.lamia_sys_0031
+035	Indeed... It must feel disheartening when no one trusts you..	VO_melty.melty_sys_0004
+036	I already know what that feels like. I don't think I could handle it if I had to do it all alone...
+037	But even so... The king and Heroes need to work together...	VO_melty.melty_sys_0018
+038	Melty...
+039	That is why as our kingdom's princess, I must get the Shield Hero and the king to put aside their differences and join forces.	VO_melty.melty_sys_0004
+040	Mother's putting all of her trust in me to do so.
+041	Don't push yourself too hard, Melty.	VO_anastasia.anastasia_sys_0001
+042	Trying to solve everything on your own can be too much to bear sometimes. I should know.	VO_anastasia.anastasia_sys_0016
+043	...
+044	Although that's easier said than done. I'm sure it's not easy being part of the royal family.	VO_anastasia.anastasia_sys_0031
+045	Huh?	VO_melty.melty_sys_0025
+046	As someone with so much power, you need to take into consideration not only yours, but the wellbeing of your people, as well. That is the responsibility of any leader.	VO_anastasia.anastasia_chara_1004
+047	I'm not of royal blood... But I have protected them, so I have an idea of the amount of responsibility that they must bear.
+048	I see...
+049	So the fact that you are working so hard to take responsibility as your kingdom's princess makes me want the best for you.	VO_anastasia.anastasia_sys_0004
+050	At the same time, I'm also rather concerned for you... You shouldn't feel obligated to handle all of this on your own.	VO_anastasia.anastasia_sys_0001
+051	Thank you for your kind words, Miss Anastasia.	VO_melty.melty_sys_0033
+052	But this is merely my responsibility as a princess of the kingdom.
+053	I need to accomplish what mother expects from me... And as the future queen, I need to do everything in my power to save my kingdom.
+054	So please, don't worry about me!	VO_melty.melty_sys_0007
+055	Just as stubborn as Naofumi, I see.	VO_anastasia.anastasia_sys_0007
+056	W-what?! That is absolutely not true...	VO_melty.melty_sys_0025
+057	(I wonder if a certain someone that I know will also worry her head off just like this one here once she becomes queen...)	VO_anastasia.anastasia_sys_0031
+058	(All that worry and confusion... I wonder if she was plagued by the same as she tried to do what was best for Wratharis? My queen was still but a child...)	VO_anastasia.anastasia_sys_0030
+059	What's wrong?	VO_naofumi.naofumi_sys_0001
+060	I heard something just now...	VO_ryle.ryle_sys_0001
+061	H-heeelp!
+062	Ah!
+063	What is that thing? I've never seen a monster like that before.	VO_naofumi.naofumi_sys_0025
+064	These are the monsters of our world. ...They appear to be pretty agitated. Are they being affected by the Wave?
+065	Who knows... Whatever the case, we need to help that guy out right away.
+066	You're going to help him?	VO_lamia.lamia_sys_0003
+067	What kind of Hero would I be if I didn't help someone in need?	VO_naofumi.naofumi_sys_0004
+068	I guess you're right...	VO_lamia.lamia_sys_0004

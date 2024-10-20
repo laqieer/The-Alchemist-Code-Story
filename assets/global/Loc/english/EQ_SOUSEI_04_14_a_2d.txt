@@ -1,0 +1,136 @@
+﻿001	The quickening of the Cursed Beast echoes even in here.	VO_julia_dark.julia_dark_sys_0025
+002	The fight between my king and the Pursuers has begun...
+003	...
+004	I forcibly tried to ruin your brother with corruption, so how...	VO_julia_dark.julia_dark_sys_0030
+005	...how can you sleep with such a peaceful expression...	VO_julia_dark.julia_dark_sys_0001
+006	I...
+007	Left flank! What's your status?!	VO_waginao-c.waginao-c_sys_0001
+008	They're putting on the pressure! They've started to split and multiply right on the battlefield!	VO_knightm.knightm_battle_0019
+009	Is this what made Nimul nervous?	VO_waginao-c.waginao-c_sys_0016
+010	As long as we are in the sanctuary of the Beast, the numbers of the Sinners will keep increasing...
+011	But we cannot give in! Nimul and the others are still fighting, too! So there's hope we can see this battle through!	VO_waginao-c.waginao-c_sys_0032
+012	Grrrooooooggghhh!	VO_asmodeus.asmodeus_battle_0002
+013	Ahhh! Doesn't it seem like its movements are getting more and more aggressive?	VO_mela.mela_battle_0022
+014	Why d'ya have to go and lock on to me like this?!	VO_mela.mela_sys_0016
+015	It seems like its gotten more lively since Beelzebub appeared.	VO_nix.nix_sys_0004
+016	But there's an upside to this. Now, we can spend our time just dodging attacks.
+017	You say that, but don't forget that I can sense you readying that ultra-super attack!	VO_mela.mela_sys_0010
+018	Well, it's not like I enjoy letting it put us on the defensive.	VO_nix.nix_sys_0007
+019	Once the tides turn, I want to be ready to put it down in one!
+020	There ya go, Nyx! Sneaky as always!	VO_mela.mela_sys_0008
+021	Would you stop saying things that make me look bad? Oh!	VO_nix.nix_sys_0001
+022	Groaaaaaaaaaaaaaaah!	VO_asmodeus.asmodeus_battle_0028_a
+023	Aw, feeling lonely now that we're not trying as seriously anymore?	VO_nix.nix_sys_0003
+024	Guess we've gotta do it this way... So let's kick it up just a notch!
+025	Double shoot! Can't believe I really needed repairs in the middle of a battlefield like this?!	VO_adlai.adlai_battle_0019
+026	Okay, now I'll be able to start fighting again!	VO_adlai.adlai_sys_0006
+027	...
+028	So now...
+029	Man, things look to just keep getting worse and worse. I've got to increase the Engineer Soldier's capacity next time...	VO_adlai.adlai_sys_0016
+030	Oh, this is bad, this is bad!
+031	C'mon, Nimul, you've gotta pull through! Before my last trump card falls, at least...	VO_adlai.adlai_battle_0019
+032	You merged with the Cursed Beast?! To do something like that, your very self would...	VO_nimuru.nimuru_sys_0016
+033	Don't underestimate me, human. I am descended from Dragons, who were the originators of magil in this world.	VO_beelzebub.beelzebub_battle_0020
+034	Even your ability to give form to spirits is within my capabilities.
+035	What... This technique... Spiritbonding?	VO_nimuru.nimuru_battle_0022
+036	No. This is a particular technique created by the Dragons that manipulates the way of the world...	VO_beelzebub.beelzebub_battle_0003
+037	What you call Spiritbonding is no more than a crude imitation of this.
+038	Give up, humans. You just happen to have been unlucky enough to be born into this world as you are...	VO_beelzebub.beelzebub_battle_0020
+039	You have no right to say something like—!	VO_nimuru.nimuru_sys_0013
+040	Nimul! If this continues, we'll have no cards left to play in this battle!	VO_kuienai.kuienai_sys_0002
+041	I know. But it's not over. We still...	VO_nimuru.nimuru_sys_0004
+042	I beseech the supreme...!	VO_eularea.eularea_battle_0004
+043	It's no use. Even the best of your human abilities are far behind what we can do.	VO_beelzebub.beelzebub_battle_0019
+044	That might be true... But that only means we have to be a little more clever about how we attack!	VO_eularea.eularea_sys_0010
+045	What?
+046	So you've come to destroy the Cursed Beast part of me. However...	VO_beelzebub.beelzebub_battle_0002
+047	Eeek!	VO_eularea.eularea_battle_0025
+048	Are you okay, Eulalia?	VO_nimuru.nimuru_sys_0001
+049	Y-yeah, but...	VO_eularea.eularea_battle_0019
+050	I've never even considered the possibility of a Cursed Beast that could simply brush off purification...	VO_nimuru.nimuru_sys_0018
+051	I don't think it's that we can't purify Beelzebub itself, but...	VO_eularea.eularea_sys_0030
+052	The part that is Zafeiris is repelling our Spiritbonding...	VO_eularea.eularea_sys_0031
+053	Is there no way we can break through?	VO_kuienai.kuienai_sys_0001
+054	From the outside, it's impossible. The whole body is defended by Zafeiris's ability; I can't use my purification.	VO_eularea.eularea_sys_0016
+055	Its shell is made up of the voices of sin. If we used the powers of purification from within it, maybe...
+056	We need someone to be devoured?	VO_nimuru.nimuru_sys_0031
+057	But in that case, they will be affected by the corruption...	VO_eularea.eularea_sys_0025
+058	So we need someone to get inside Beelzebub's body who can avoid the corruption and use their powers of purification?	VO_kuienai.kuienai_sys_0031
+059	What a lucky turn of events.	VO_kuienai.kuienai_sys_0030
+060	No, there might be another way.
+061	What?	VO_kuienai.kuienai_sys_0006
+062	If he can neutralize Spiritbonding, maybe Alchemy will do!	VO_nimuru.nimuru_sys_0004
+063	I see you prefer to live in the comfort of denial, Pursuers of Gluttony.	VO_beelzebub.beelzebub_battle_0021
+064	What?	VO_nimuru.nimuru_sys_0018
+065	Even if you have inherited the protection of Nidhogg, I am still in a category all my own.
+066	Do you really believe that piddling amount of magil can stand against one such as I now that I have become a Cursed Beast?	VO_beelzebub.beelzebub_battle_0003
+067	We'll never know unless we try!
+068	"I am Transcender of the Gate of Gluttony!"	VO_nimuru.nimuru_battle_0004
+069	He immediately healed himself...	VO_nimuru.nimuru_sys_0025
+070	Do you understand now? The level of magil I have dwarfs yours a thousand times over.
+071	No matter how much destruction you try to inflict upon me, you'll never reach my core.	VO_beelzebub.beelzebub_battle_0020
+072	And...
+073	Grrrooooooggghhh!	VO_beelzebub.beelzebub_battle_0028_a
+074	Eeek?!	VO_eularea.eularea_battle_0025
+075	What?!	VO_kuienai.kuienai_sys_0043
+076	Gughh!	VO_nimuru.nimuru_battle_0025
+077	Now... I think it's time for me to end this.	VO_beelzebub.beelzebub_battle_0019
+078	Argh! This isn't over... We won't give in yet...	VO_nimuru.nimuru_battle_0022
+079	Huh? Whose voice is that...?	VO_julia_dark.julia_dark_sys_0025
+080	—maybe Alchemy will do!	VO_nimuru.nimuru_sys_0004
+081	Nimul? That's right... They're fighting now...	VO_julia_dark.julia_dark_sys_0045
+082	...To save this girl. But...	VO_julia_dark.julia_dark_sys_0030
+083	Now... I think it's time for me to end this.	VO_beelzebub.beelzebub_battle_0019
+084	All that research and effort, but in the end, they're just people... It was all useless. They won't be able to end it.	VO_julia_dark.julia_dark_sys_0010
+085	Of course. To attempt to defy the way of the world itself is...
+086	Argh! This isn't over...	VO_nimuru.nimuru_battle_0022
+087	There's no way that I'll ever give up! I will never!
+088	He just never gives up, does he? But without that determination, he could never have gotten this far.	VO_julia_dark.julia_dark_sys_0030
+089	It was impossible from the start for an empty imposter like me to overcome an opponent with so much raw passion...
+090	But now it's all...	VO_julia_dark.julia_dark_sys_0018
+091	Because I have yet another reason I cannot let myself be stopped here!
+092	Huh?	VO_julia_dark.julia_dark_sys_0025
+093	Oh, so you still stand, human.	VO_beelzebub.beelzebub_battle_0002
+094	Of...course...	VO_nimuru.nimuru_sys_0004
+095	Because I have yet another reason I cannot let myself be stopped here!
+096	With my own hands, I took the life of a friend in this Gula Belt...	VO_nimuru.nimuru_sys_0018
+097	She was stern and proper, always finding something to scold me about, but...
+098	She was good to my sister; her closest friend. She was happy...
+099	Yet somehow, I never noticed her true feelings. In my ignorance, I gave her so much suffering...	VO_nimuru.nimuru_sys_0030
+100	Still, when she said that she'd never be able to forget my face...	VO_nimuru.nimuru_sys_0018
+101	The face of this man whose only redeeming qualities were his adherence to his ideals and his research... Whose tunnel-vision caused him to be unable to understand himself!
+102	She told me...that she loved me...
+103	She knew what kind of person I am, but she still loved me...
+104	So I have no choice but to stand my ground here. I have no choice but to continue to stick to my ideals like the fool that I am!	VO_nimuru.nimuru_sys_0002
+105	I will stand strong, like the man she fell in love with. To never change from the man she loved...
+106	I will stand and I will fight, even if my opponent is you, the very sin of Gluttony!	VO_nimuru.nimuru_sys_0004
+107	I will consume all that Gluttony myself to save this world!	VO_nimuru.nimuru_battle_0015
+108	I call upon you, Godwolf!	VO_nimuru.nimuru_battle_0004
+109	Grrrooooooggghhh!	VO_shadowasena.shadowasena_battle_0002
+110	You are a fool to think that you can bridge the gap in our power with your trite idealism!	VO_beelzebub.beelzebub_battle_0021
+111	So I'll be a fool! Huzzaaaaah!	VO_nimuru.nimuru_sys_0032
+112	Is he that stupid?	VO_julia_dark.julia_dark_sys_0030
+113	I...suppose he is. Yet...	VO_julia_dark.julia_dark_sys_0007
+114	That's why she... That's why we loved him. Emmel...	VO_julia_dark.julia_dark_sys_0010
+115	This body of mine is only a hollow phantasm. The pale dream of a ghost... So...
+116	I beseech the supreme...!	VO_julia_dark.julia_dark_sys_0032
+117	(...Even breathing hurts... Of course it does. What else did I expect by using Spiritbonding with a body corrupted by sin?)	VO_julia_dark.julia_dark_battle_0019
+118	But...it's a good pain. The pain means I've decided to live having embraced my feelings... Even if they're her feelings...	VO_julia_dark.julia_dark_sys_0010
+119	Farewell, Emmel. Farewell, Nimul. In the end, I wasn't truly a friend to you.	VO_julia_dark.julia_dark_battle_0010
+120	But...at least this dream hasn't ended up being such a nightmare...	VO_julia_dark.julia_dark_sys_0008
+121	What! What is this?!	VO_beelzebub.beelzebub_battle_0028_b
+122	Preposterous! The sacrificial daughter should have no more power to purify me, but this...	VO_beelzebub.beelzebub_battle_0019
+123	This is...	VO_nimuru.nimuru_sys_0006
+124	This light... Could it be?	VO_eularea.eularea_sys_0002
+125	What are you doing?! You're not the kind of man who will let a little difficulty stop you, are you?	VO_julia_dark.julia_dark_sys_0003
+126	I don't think so!	VO_julia_dark.julia_dark_sys_0001
+127	Julia, is that you? You're still...	VO_nimuru.nimuru_sys_0002
+128	You're going to save the world, right? This is the best chance you're going to get!
+129	She's right! Eulalia, use Sagittarius!	VO_nimuru.nimuru_sys_0004
+130	I'm on it!	VO_eularea.eularea_sys_0006
+131	Gear of judgment, Sagittarius! Under the guidance of Sephiron, please grant me this chance to overcome our sin!
+132	"I embrace the supreme...!"	VO_eularea.eularea_battle_0004
+133	Grrraaaaaaahh!!!	VO_beelzebub.beelzebub_battle_0028_c
+134	Got him!
+135	The Anti-Curse magic neutralized Beelzebub's core! Now we can beat him!	VO_nimuru.nimuru_sys_0001
+136	Graaah! Don't mock me, humans!	VO_beelzebub.beelzebub_battle_0001

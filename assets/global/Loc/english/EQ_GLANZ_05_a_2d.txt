@@ -1,0 +1,77 @@
+﻿001	Good work. Here's your pay.
+002	You know, I was a little worried when I heard you two were girls, but I suppose my worries were groundless. Though you could have gotten the job done a little more...quietly.
+003	No problem! Pummeled them all.	VO_rachel.rachel_sys_0010
+004	Well, we wouldn't have had to pummel anybody had you not drawn attention to us.	VO_glanz.glanz_sys_1030
+005	Meh.	VO_rachel.rachel_sys_0029
+006	Hahaha, you two really are polar opposites. And yet you two work so well together.
+007	Oh, could you two be members of the Unicorn Knights?
+008	Nope. Just a mercenary duo. Heh!	VO_rachel.rachel_sys_0039
+009	All right then. It's just that I've heard of this group of bandits that have started to make a name for themselves after Wratharis fell under Envylia's rule.
+010	The leader of that band is a girl, along with most of its members, so I figured you two could be.
+011	The bandits that guy mentioned. That was about Izzy, wasn't it?	VO_rachel.rachel_sys_0001
+012	She's keeping the Unicorn Knights safe. Izzy is a strong girl.
+013	Yes. She is.	VO_glanz.glanz_sys_0004
+014	Even after Wratharis fell, the world was still a dirty place.
+015	We all still lived, clinging to this filthy, stained world.
+016	We lived on, doing whatever we could to survive.
+017	What's that?	VO_rachel.rachel_sys_0006
+018	It's that stone you found.
+019	Oh, the key thing.	VO_rachel.rachel_sys_0005
+020	Even Anastasia said she had no idea what this is either.
+021	I wonder... Would you have known what this is, Freed?
+022	Do you regret it?	VO_rachel.rachel_sys_0031
+023	I don't. I couldn't fight for a country's sake, and I only have bad memories regarding that country.	VO_glanz.glanz_sys_0039
+024	Still, I did like some of them enough to mourn their loss.
+025	Okay. Then I'm gonna sleep.
+026	Go ahead. I'm sure visiting graves is no fun for you.	VO_glanz.glanz_sys_0004
+027	G'night.
+028	Heheh.	VO_glanz.glanz_sys_0007
+029	Hello, Anastasia. I wish we could have had more conversations together.	VO_glanz.glanz_sys_0002
+030	I wanted to cleanse this tainted world.
+031	So I refuse to love or be a part of this stained world.
+032	That was what I thought, honestly.	VO_glanz.glanz_sys_1030
+033	But I found something in this world more important than that wish to cleanse.
+034	Just like how Wratharis was important to you.
+035	I've become one of the stains on this world.	VO_glanz.glanz_sys_0018
+036	But I have no regrets. I came to tell you that.	VO_glanz.glanz_sys_0039
+037	Just remember. You shouldn't say things like that to someone you've turned down twice.	VO_anastasia.anastasia_sys_0007
+038	I wonder if you'd consider this the third time? She's someone the world cast away, and I cast this world away. A nice pair, don't you think?	VO_glanz.glanz_sys_0002
+039	Anyway, I just wanted to tell you I'm doing fine. I may not come here again, but I did enjoy fighting alongside you.
+040	Goodbye... Rochelle, wake up.
+041	...Up.
+042	Never coming back?	VO_rachel.rachel_sys_0001
+043	Who knows?
+044	Well, icky-stickies can keep coming, but Glizzy and I can take them. Heh!	VO_rachel.rachel_sys_0007
+045	For now, let us get out of here.	VO_glanz.glanz_sys_0002
+046	Hm.	VO_rachel.rachel_sys_0029
+047	Huzzaaahh!	VO_glanz.glanz_battle_0007
+048	Agh...	VO_mafia.mafia_battle_0019
+049	It's over. Who sent you?	VO_glanz.glanz_sys_0001
+050	I was ordered to eliminate Glanz and Rochelle of Wratharis.	VO_mafia.mafia_sys_0010
+051	Wratharis? We're just mercenaries. We don't belong to any country.	VO_glanz.glanz_sys_0006
+052	You two have something you shouldn't.
+053	What do you mean?
+054	A relic of Wratharis.	VO_mafia.mafia_sys_0007
+055	A relic?	VO_glanz.glanz_sys_0025
+056	The rock?	VO_rachel.rachel_sys_0006
+057	!!!
+058	He's looking for some key for the ruins. He doesn't even know what it's supposed to look like, but he wants me to find it. Outrageous, don't you think?
+059	Who knows what he's planning. Could be the salvation of Wratharis. Could be its destruction.	VO_freed.freed_sys_0031
+060	Give up. You're in over your head. You can't even begin to imagine how powerful the people involved in this are. Don't you dare think you can get away with—
+061	Envylia, clearly. Just between us, I heard Wratharis has been messin' around with Alchemy.
+062	Oh, damn. So now they've made an enemy of the world.
+063	Well, what do you know. We were carrying with us one of the worst stains upon this world.	VO_glanz.glanz_sys_0031
+064	So you were looking for this since that time at the ruins in Wratharis. Something that requires even more subterfuge than Alchemy.	VO_glanz.glanz_sys_1030
+065	Have you heard the pulse of the Cursed Beasts?	VO_mafia.mafia_sys_0002
+066	What...?	VO_glanz.glanz_sys_0006
+067	Whether you're aware of it or not, it does not matter. This is for the world's sake.	VO_mafia.mafia_sys_0007
+068	For country and for personal belief... I was so done with all of that, and now for the world, eh?	VO_glanz.glanz_sys_0020
+069	Honestly... This world...
+070	A pretty large-scale operation you've got here.	VO_glanz.glanz_sys_0001
+071	You've got a large bounty on you. These mercenaries were hired to ensure your elimination.
+072	Even an experienced mercenary as yourself cannot escape this.	VO_mafia.mafia_sys_0011
+073	We exist to eliminate those who have encroached upon the secrets of this world's history.
+074	Icky-sticky, icky-sticky...	VO_rachel.rachel_sys_0018
+075	Rochelle, get out of here! I'll keep them occupied!
+076	No.	VO_rachel.rachel_sys_0020
+077	There is no escape.	VO_mafia.mafia_sys_0010

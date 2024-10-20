@@ -1,0 +1,79 @@
+﻿001	Are you all right, Su Yi? Are you hurt? It's going to be okay!	VO_berta.berta_sys_0008
+002	Um...
+003	What is it?	VO_berta.berta_sys_0006
+004	S-sorry. I'm f-fine.	VO_siyi.siyi_sys_0035
+005	Thank goodness! Don't run off like that, okay? You scared us!	VO_berta.berta_sys_0007
+006	S-sorry...	VO_siyi.siyi_sys_0036
+007	Hahah! There's no need for that. I'm used to impulsive kids charging off on their own. Don't worry!	VO_berta.berta_sys_0008
+008	Hmph. Well, I'm used to dealing with overbearing instructors who lack poise!	VO_sharon.sharon_sys_0010
+009	Hey! That's mean!	VO_berta.berta_sys_0016
+010	Not really... Those qualities are also your strengths.	VO_sharon.sharon_sys_0007
+011	In any case... Su Yi, there's nothing for you to fear. Bertha is a very kind person.
+012	...
+013	She's been orphaned... I feel sorry for her, but I sure as heck can't look after her. I'm barely making it through the day with just myself to take care of, just like everyone else in this village.	VO_mob-saga_omale.mog-saga_omale_sys_0031
+014	Besides, she's sick, ain't she? Can't work her, can't sell her. Can't afford to take care of some good-for-nothin'.
+015	...
+016	It's gonna be all right, Su Yi!	VO_shengmei.shengmei_sys_0006
+017	From now on, you're with us! You, me, and Liu Shen—we're as good as family!
+018	Shenmei...	VO_siyi.siyi_sys_0018
+019	Th-thank you.	VO_siyi.siyi_sys_0033
+020	Relax! We just want to help! Could you tell us why you ran off like that?	VO_berta.berta_sys_0007
+021	Well...	VO_siyi.siyi_sys_0014
+022	I wanted to help look for Shenmei, too.
+023	Ohh! I guess hearing all that stuff about the octopuses made you worried, huh?	VO_berta.berta_sys_0045
+024	But Liu Shen wanted us to wait here for him. We ought to stay put.	VO_sharon.sharon_sys_0031
+025	Where would we even begin to search?
+026	B-but...	VO_siyi.siyi_sys_0025
+027	There's that face again.	VO_sharon.sharon_sys_0002
+028	I told you, if you have something to say, you ought to say it. You can't expect people to read your mind. Remember?
+029	I know you're shy, but if we're going to be working together, communication is essential.
+030	Aw, Sharon. We only just met. She can't help it! Not everyone is capable of the same things right off the bat.	VO_berta.berta_sys_0007
+031	I...suppose.
+032	So don't push yourself too hard on our account, Su Yi!	VO_berta.berta_sys_0005
+033	I bet Liu Shen will find Shenmei in no time!
+034	You're both very kind and dependable.	VO_siyi.siyi_sys_0007
+035	You think so?	VO_berta.berta_sys_0031
+036	Am I...dependable?	VO_sharon.sharon_sys_0031
+037	Of course you are!	VO_berta.berta_sys_0016
+038	(And here I am, depending on their kindness and waiting for them to talk to me...)
+039	(I might be a Phantom Soldier, but I guess nothing much has changed. I'm just the same old Su Yi.)
+040	(Depending on Shenmei and Liu Shen to take care of me...)
+041	...
+042	What's up?	VO_berta.berta_sys_0006
+043	Su Yi!
+044	What's wrong?! Are you feeling sick? Did something happen?!	VO_lusheng.lusheng_sys_0027
+045	N-no! I'm...fine.	VO_siyi.siyi_sys_0006
+046	Oh... Good. You just looked like you were on the verge of tears, that's all. I was concerned.	VO_lusheng.lusheng_sys_0022
+047	Where did you come from?! You scared the life outta me, you maniac!	VO_berta.berta_sys_0022
+048	Ahem... My apologies. I am simply very protective of Xiao-Xiao here.	VO_lusheng.lusheng_sys_0035
+049	Is there a reason for that?	VO_sharon.sharon_sys_0001
+050	Xiao-Xiao was born with a fragile constitution.	VO_lusheng.lusheng_sys_0004
+051	We come from a very poor, remote village. We couldn't buy medicine or get her the care she needed—there wasn't even a doctor for her to see.
+052	Not only that...but she was orphaned at a young age and there was no one to take care of her. So you see, that's why...
+053	According to this map, the herbs that we need to make that cure-all are in this cave!	VO_shengmei.shengmei_sys_0006
+054	Still, it is far too dangerous. We would have to cross the sea! Besides, that location is known to be a den of monsters.	VO_lusheng.lusheng_battle_0019
+055	I've told you before and I'll tell you again! It's my dream to become a legendary pirate!	VO_shengmei.shengmei_sys_0010
+056	I'll never be worthy of such a title if I can't even save my precious little sister! We might not be connected by blood, but pirates look after their own.
+057	Shenmei...	VO_siyi.siyi_sys_0018
+058	Hrrgh! I've had it up to here with all these octopuses!	VO_shengmei.shengmei_sys_0016
+059	Not another one! Just leave me alone, will ya?! Squelchy vermin!	VO_shengmei.shengmei_sys_0026
+060	Not an octopus, I'm afraid. Although I could use an extra arm or two...	VO_kaya.kaya_sys_0035
+061	Holy sea cow! Is that you, Kaya?! I can't believe it!	VO_shengmei.shengmei_sys_0028
+062	I could say the same. What are you doing here?	VO_kaya.kaya_sys_0031
+063	I don't really know. I was just chasing this suspicious shadowy thing and before I knew it, I was in this cave.	VO_shengmei.shengmei_sys_0030
+064	A suspicious shadow...?
+065	If I was gonna go exploring, I'd much prefer it to be in some ruins! At least then I'd have a better chance of stumbling across some treasure...	VO_shengmei.shengmei_sys_0016
+066	Ruins such as these?	VO_kaya.kaya_sys_0001
+067	Huh?	VO_shengmei.shengmei_sys_0025
+068	The only ruins of note on this island are the ones I am currently investigating. That is, the ones in which we are currently standing.	VO_kaya.kaya_sys_0031
+069	What?! You're telling me these are ruins?! I thought this was just some smelly old cave!	VO_shengmei.shengmei_sys_0026
+070	It certainly is a cave, yes.	VO_kaya.kaya_sys_0006
+071	Yet it is here, in these naturally-formed caverns, that we can find altars and other archeological remnants of an ancient religion that was once declared heretical and promptly stamped out.
+072	What at a glance appears to be an ordinary cave is in fact an archeological site, erased from the annals of history and forgotten by the people.
+073	I think most people on the island are not aware that this site even exists.	VO_kaya.kaya_sys_0031
+074	So these caves are actually ruins... Does that mean it's here?	VO_shengmei.shengmei_sys_0044
+075	You know about that? About the Demon sealed within these ruins?	VO_kaya.kaya_sys_0002
+076	Huh?	VO_shengmei.shengmei_sys_0005
+077	Grooorgghhhhh!	VO_Mmajin.Mmajin_battle_0028_b
+078	Speak of the devil...and it shall appear.	VO_kaya.kaya_sys_0007
+079	Wh-what?! Hang on! That wasn't what I was talking about!	VO_shengmei.shengmei_sys_0026

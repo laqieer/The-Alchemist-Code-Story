@@ -1,0 +1,28 @@
+﻿001	Hmmm...	VO_courtmage.courtmage_sys_0031
+002	U-um...what's the matter?	VO_lupinus.lupinus_chara_1003
+003	Ah, Lady Lupinus! The guest for the ritual still has not arrived yet...
+004	One called Peridot...she is a shaman from the Saga region.
+005	A shaman from the Saga region...?	VO_lupinus.lupinus_sys_0006
+006	Apparently, she usually resides alone deep within the forest and rarely makes public appearances.	VO_courtmage.courtmage_sys_0005
+007	She lives alone...deep in the forest?	VO_lupinus.lupinus_sys_0025
+008	Yes. Apparently, it is only recently that she has taken to leaving Saga. Our country has taken advantage of this opportunity...	VO_courtmage.courtmage_sys_0004
+009	I wonder what it feels like...to live all alone for so long...
+010	...Lady Lupinus?	VO_courtmage.courtmage_sys_0025
+011	She must've been lonely.	VO_lupinus.lupinus_sys_1018
+012	U-um, excuse me! Please, allow me to escort her!	VO_lupinus.lupinus_chara_1003
+013	I...want to become her friend!
+014	Um, what? Lady Lupinus?! Lady Lupinus!!!	VO_courtmage.courtmage_sys_0025
+015	(I-I leaped out on a whim, but...I'll need to apologize to all the courtiers later.)	VO_lupinus.lupinus_sys_1047
+016	(Still, the fact that she's been alone for so long...I know just how lonely that can be!)
+017	...U-um...hey, you, listen...! Huh, wait, where are you going...?	VO_peridot.peridot_sys_0003
+018	Why does everyone run away when I try to talk with them? I'm just looking for a shop, but...	VO_peridot.peridot_sys_0030
+019	(By the look of that girl...is it her?!)	VO_lupinus.lupinus_chara_1009
+020	U-um...Peri...dot?	VO_lupinus.lupinus_chara_1003
+021	...?! Eh, um, what do you want with me...?	VO_peridot.peridot_sys_0027
+022	There she is!	VO_gluttony-y.gluttony-y_sys_0010
+023	H-huh?!	VO_lupinus.lupinus_sys_0025
+024	...Jeez. They've chased me this far.	VO_peridot.peridot_sys_0030
+025	Heheh... Now that she's left her forest, this is the perfect opportunity!	VO_gluttony-y.gluttony-y_sys_0008
+026	Huh? What? Whaaaaat?!	VO_lupinus.lupinus_sys_0028
+027	...I have no intention of getting you involved. Stand back.	VO_peridot.peridot_sys_0003
+028	Oh, um...I don't really understand the situation, but...I'll fight too!	VO_lupinus.lupinus_sys_0047

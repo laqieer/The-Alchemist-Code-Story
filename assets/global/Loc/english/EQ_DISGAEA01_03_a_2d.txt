@@ -1,0 +1,93 @@
+﻿001	Sigh... We're finally through the forest.	VO_seraphina.seraphina_sys_0030
+002	This place... It seems like we've distanced ourselves from the castle town.	VO_rin.rin_sys_0031
+003	What? Did we get lost in the forest?	VO_killia.killia_sys_0025
+004	Yeah...but we might still be able to make it if we go all the way around!
+005	Sigh... So, we have to walk further? I'm exhausted...	VO_seraphina.seraphina_sys_0022
+006	Prinny, carry me on your shoulders.	VO_seraphina.seraphina_sys_0001
+007	Geez, Madam Overlord, I told you already that it's just not possible! You're too heavy...	VO_prinny.prinny_sys_0012
+008	Agh...!	VO_prinny.prinny_battle_0022
+009	Hm? That sound...	VO_rin.rin_sys_0025
+010	Don't worry about it, plip. It's just business as usual.	VO_usalia.usalia_sys_0001
+011	...It would be nice if you were a little worried, dood...	VO_prinny.prinny_sys_0018
+012	Hey, get a grip! Let's hurry on!	VO_redmagnus.redmagnus_sys_0001
+013	What's gotten you all cheerful suddenly?	VO_seraphina.seraphina_chara_2001
+014	Ah, well, I don't know exactly how to put it. This desolate feeling reminds me of the Netherworld of Scorching Flames!	VO_redmagnus.redmagnus_sys_0031
+015	Scorching Flames... Is that your home?	VO_rin.rin_chara_1024
+016	Yep! It's the super ultimate Netherworld ruled by me, the supreme one!	VO_redmagnus.redmagnus_sys_0006
+017	Let me see... Well, if the earth was cracked and magma was erupting from it while pillars of flame rose to the skies, it would look even more similar.	VO_redmagnus.redmagnus_sys_0007
+018	That description alone pretty much sounds like the opposite of this place.	VO_seraphina.seraphina_sys_0022
+019	Enough with the minor details!	VO_redmagnus.redmagnus_sys_0004
+020	They're not minor at all!	VO_seraphina.seraphina_sys_0050
+021	Heheh. For some reason, I have a lot of fun hanging out with all of you.	VO_rin.rin_sys_0007
+022	Really, plip?	VO_usalia.usalia_sys_0025
+023	Yes!	VO_rin.rin_sys_0006
+024	By the way, route aside, which direction is the castle town?	VO_killia.killia_sys_0001
+025	Hmm... All right! I'm gonna climb that rock mountain and take a look!	VO_redmagnus.redmagnus_sys_0031
+026	Done!	VO_redmagnus.redmagnus_battle_0017
+027	What? That was incredibly fast... And? Did you see the castle town?	VO_seraphina.seraphina_sys_0025
+028	I super couldn't see anything!	VO_redmagnus.redmagnus_sys_0006
+029	What the...?! You useless muscle-brained monkey!	VO_seraphina.seraphina_sys_0012
+030	But I did see someone headed this way.	VO_redmagnus.redmagnus_sys_0031
+031	A traveler? Perfect. Let's ask for directions to the castle town.	VO_killia.killia_sys_0025
+032	...? Wh-wha...?! De-devils...?!	VO_knightm.knightm_sys_0028
+033	Hey, hey. Calling us devils is super rude! We're Overlords! We live in Netherworlds and rule over demons.	VO_redmagnus.redmagnus_sys_0039
+034	Hyaah?! Sp-spare me, please!	VO_knightm.knightm_battle_0023
+035	What's the point in scaring him?	VO_seraphina.seraphina_sys_0050
+036	Ugff...!	VO_redmagnus.redmagnus_battle_0022
+037	Ah-ahh...?!	VO_knightm.knightm_sys_0019
+038	Madam Overlord Seraphina, you're scaring him even more, dood.	VO_prinny.prinny_sys_0022
+039	Sorry to have frightened you. We're not nearly as suspicious as we look.	VO_killia.killia_sys_0036
+040	B-but you're O-Overlords...	VO_knightm.knightm_sys_0018
+041	Yeah...but, well...	VO_killia.killia_chara_1012
+042	A non-suspicious Overlord doesn't sound very persuasive, dood...	VO_prinny.prinny_sys_0002
+043	Huh? I'm Rin. Would you happen to be a peddler?	VO_rin.rin_chara_1009
+044	Ye-yes...I am.	VO_knightm.knightm_battle_0023
+045	A peddler...? You wouldn't happen to have any spices, would you? I'd like to take some off your hands.	VO_killia.killia_sys_0025
+046	M-my sincere apologies! I sell silk fabric, not spices!	VO_knightm.knightm_sys_0018
+047	Pl-please, just don't take my life!!!	VO_knightm.knightm_sys_0027
+048	Don't worry. We're not gonna take your life. I see...so you don't have any.	VO_killia.killia_chara_1012
+049	Well, can you tell us how to get to the castle town?
+050	What?! The castle town...?! Hold on...you don't plan to invade it...do you?	VO_knightm.knightm_battle_0023
+051	No. It's to procure spices.	VO_killia.killia_sys_0027
+052	B-but...you're Overlords, right?	VO_knightm.knightm_sys_0018
+053	Yeah...
+054	Sir! Please, let me speak it with him!	VO_rin.rin_sys_0001
+055	I'll leave it to you, Rin.	VO_killia.killia_sys_0036
+056	Mr. Peddler, how do we get to the castle town?	VO_rin.rin_chara_1024
+057	A-are you really sure it's all right to say? Um... Well, from here...	VO_knightm.knightm_sys_0001
+058	Seriously. What is that jabroni scared about?	VO_redmagnus.redmagnus_sys_0010
+059	It's pretty rude, to be honest. We would never even think of invading the castle town.	VO_seraphina.seraphina_sys_0016
+060	Actually, I'm pretty sure it has something to do with the way you came across...	VO_killia.killia_sys_0030
+061	(A hot, steaming curry...)	VO_usalia.usalia_sys_0031
+062	...Usalia, dood?	VO_prinny.prinny_sys_0004
+063	Huh...?! I was just contemplating why we're alive, where we came from, and where we're going...!	VO_usalia.usalia_chara_1009
+064	You're not really interested in road directions, are you, dood?	VO_prinny.prinny_sys_0022
+065	Yes! All right! Thank you, Mr. Peddler!	VO_rin.rin_sys_0006
+066	Well then...
+067	Well then, let's hurry to the castle town.	VO_killia.killia_sys_0005
+068	Too bad. If that jabroni just now sold spices, he could've sold some to us.	VO_redmagnus.redmagnus_sys_0030
+069	Hm?
+070	There's no point in mulling over it. You can't make curry out of silk fabric.	VO_seraphina.seraphina_sys_0022
+071	Oh...just wanted to confirm, Rin. Can you use HL in this world?
+072	HL? Is that some kind of money? No, you can't use it here.	VO_rin.rin_sys_0005
+073	Right. One more thing... Rin, you wouldn't happen to have any money on you, would you?	VO_killia.killia_sys_0020
+074	Nope. Nothing.	VO_rin.rin_sys_0025
+075	Right. Dangit. I can't believe I forgot about something so basic...	VO_killia.killia_sys_0025
+076	What should we do?! Even if we go to the castle town, without any currency for this world, we won't be able to buy spices!	VO_seraphina.seraphina_sys_0020
+077	Aaaaaghhhh...!!!	VO_knightm.knightm_battle_0026
+078	What was that?!	VO_killia.killia_sys_0025
+079	Wasn't that the jabroni from earlier?	VO_redmagnus.redmagnus_sys_0004
+080	O-oh...he-help...!	VO_knightm.knightm_sys_0019
+081	The peddler is being attacked by a Phantom Solider!	VO_rin.rin_battle_0019
+082	Oh dear! Everyone, we must hurry to help him immediately!	VO_seraphina.seraphina_sys_0009
+083	Wh-what's gotten into you, Sera? It's super out of character for you to suddenly want to help people.	VO_redmagnus.redmagnus_sys_0025
+084	You muscle-brain. He's a peddler, right?	VO_seraphina.seraphina_sys_0050
+085	I'm sure, if we help him...he'll give us a bit of money!	VO_seraphina.seraphina_sys_0010
+086	Ac-actually, that's a super plan!	VO_redmagnus.redmagnus_sys_0026
+087	Pl-please, help him regardless of profit!	VO_rin.rin_sys_0025
+088	Let's put monetary profit aside for now and prioritize his rescue, plip!	VO_usalia.usalia_sys_0003
+089	All right! The supreme one is on his way!	VO_redmagnus.redmagnus_battle_0018
+090	Sir Killia! Please, hurry!	VO_seraphina.seraphina_sys_0012
+091	W-wait...! I'm in the middle of Mushroom Cream Sauce Spag..."!	VO_killia.killia_sys_0025
+092	Although the cream tastes rich, there is a certain smoothness...	VO_killia.killia_sys_0009
+093	Enough with the food commentary, dood!	VO_prinny.prinny_sys_0027

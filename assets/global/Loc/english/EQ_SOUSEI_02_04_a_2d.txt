@@ -1,0 +1,240 @@
+﻿001	Oh... This is a settlement of this region? Look at the ice covering the streets and the buildings. It's very...I'm not sure how to put this...	VO_waginao-c.waginao-c_sys_0046
+002	Peaceful. It seems like a truly lovely place. This calm and quiet is something that I wish our homeland shared.	VO_nimuru.nimuru_sys_0004
+003	...
+004	Oh!
+005	Nimul! Thank goodness you're all right!	VO_emmer.emmer_sys_0008
+006	Emmel! You are unharmed?	VO_nimuru.nimuru_sys_0007
+007	Oooh, look at that, Adaleigh! Your girl is totally abandoning you for that guy!	VO_mela.mela_sys_0008
+008	Uh, that's her brother.	VO_adlai.adlai_sys_0011
+009	Seriously? I had no idea siblings could get along so well.	VO_nix.nix_sys_0001
+010	Yeah, the two of us are always butting heads.	VO_mela.mela_sys_0005
+011	Oh yeah.	VO_nix.nix_sys_0005
+012	I mean, if Nyx was just a little more perceptive, maybe we'd get along better.	VO_mela.mela_sys_0016
+013	And if only Mira could be a little more thoughtful, then maybe we wouldn't have so many problems.	VO_nix.nix_sys_0030
+014	Glad to see the two of you are having fun.	VO_adlai.adlai_sys_0016
+015	Sorry, Adaleigh, we just can't help it! You should try to be less interesting when we poke fun at you.	VO_mela.mela_sys_0004
+016	Plus, our teacher is always super supportive when we mess around like this. How could we resist?	VO_nix.nix_sys_0004
+017	Ugh! Gimme a break...	VO_adlai.adlai_sys_0012
+018	So you two are Mira and Nyx?	VO_nimuru.nimuru_sys_0002
+019	Yep! Who're you?	VO_mela.mela_sys_0004
+020	I am called Nimul.
+021	You saved Emmel and Adaleigh, correct? I am indebted to the both of you.	VO_nimuru.nimuru_sys_0034
+022	...
+023	...
+024	Nah, bro! We were just doing what any friend would do. Saving their butts in their time of need!	VO_mela.mela_sys_0007
+025	We are delighted that we could help protect the people you hold dear.	VO_nix.nix_sys_0007
+026	Thank you, truly.	VO_nimuru.nimuru_sys_0004
+027	I must ask...that power you possess, what is it exactly?
+028	Huh? You mean Space-Time Manipulation?	VO_mela.mela_sys_0001
+029	Space-Time...Manipulation?	VO_nimuru.nimuru_sys_0006
+030	How long are you children planning to mill around out here? Let's get going.	VO_ambrosia.ambrosia_sys_0003
+031	Fine... Ambrosia, you're so impatient sometimes. You're gonna get wrinkles like that!	VO_mela.mela_sys_0007
+032	Uh, Mira? You shouldn't talk to Ambrosia about age—	VO_nix.nix_sys_0040
+033	Why would you bring that up?!	VO_ambrosia.ambrosia_sys_0001
+034	Yikes! Ambrosia, you make my hair stand on end when you yell like that!	VO_mela.mela_sys_0008
+035	All right, I'll head back first and get some tea ready.	VO_nix.nix_sys_0005
+036	Ugh... I don't know why I ever decided to bother with apprentices.	VO_ambrosia.ambrosia_sys_0030
+037	Listen up, visitors from another world. Our home is down this street, beyond the hill and the grove.	VO_ambrosia.ambrosia_sys_0001
+038	Take your time and explore. Once your curiosity has been sated, you may find us there.
+039	I thank you for your kindness, but there is something we must do, and posthaste.	VO_nimuru.nimuru_sys_0018
+040	We cannot really afford the leisure of sightseeing.
+041	Ah, youth. Always in such a rush.
+042	How exactly do you intend to get where you need to go? If I am not mistaken, you have yet to plan that far ahead.	VO_ambrosia.ambrosia_sys_0002
+043	I...!	VO_nimuru.nimuru_battle_0022
+044	Don't waste your energy running in circles.	VO_ambrosia.ambrosia_sys_0004
+045	Better to take a break, until panic and worry cease to be at the forefront of your mind. You can't do anything right now, anyway.
+046	...
+047	This...really is a lovely place.	VO_nimuru.nimuru_sys_0007
+048	How interesting that you think so.	VO_ambrosia.ambrosia_sys_0005
+049	Wh-what?	VO_nimuru.nimuru_sys_0025
+050	Never mind. In any case, it's time for me to head back home and take a rest. It's been a while since I got wrapped up in kerfuffle like this.	VO_ambrosia.ambrosia_sys_0010
+051	Interesting? I wonder what she meant by that...	VO_nimuru.nimuru_sys_0006
+052	Nimul, what should we do?	VO_waginao-c.waginao-c_sys_0001
+053	Ah. Well...	VO_nimuru.nimuru_sys_0004
+054	I want to return to the Sephira village as soon as possible.
+055	However, what that woman said is true. It will be no simple matter.
+056	The ship is where we left it, and it still needs repairs.	VO_adlai.adlai_sys_0031
+057	We should take this time to figure out a way to get around the Cursed Beast and repair the ship.	VO_nimuru.nimuru_sys_0005
+058	It's likely that we will have to face the Cursed Beast again in order to accomplish our mission.
+059	How are we going to do that? It all seems...impossible.	VO_emmer.emmer_sys_0002
+060	Here, we have none of the Sephiron's protection. Without it, there's no way for us to make full use of our Spiritbonding abilities. And...
+061	Even the Matter wasn't able to do anything to the Cursed Beast.
+062	That's...true.	VO_nimuru.nimuru_battle_0022
+063	...
+064	We have no other cards to play. We have no choice but to try and figure something else out, and soon.	VO_kuienai.kuienai_sys_0031
+065	Like what?
+066	In a settlement of this size, there must be a blacksmith, or somewhere with a forge of some kind. Perhaps I can borrow it.	VO_kuienai.kuienai_sys_0004
+067	Oh! I wanna use it, too! I know which parts I need to repair the ship!	VO_adlai.adlai_sys_0004
+068	If I could somehow get my hands on those, or make them, I should be all set when we get back to the ship!
+069	I was just thinking something of the same. I believe that it is worth seeing what might be useful to us in this settlement.	VO_nimuru.nimuru_sys_0004
+070	Besides, I think it might be good for me to take some time to collect my thoughts.
+071	What was that last, Nimul?	VO_emmer.emmer_sys_0025
+072	Er, nothing.
+073	In that case, should we show you around?	VO_mela.mela_sys_0001
+074	Whoa! What?! How long have you been here?! Don't just jump out like that!	VO_adlai.adlai_sys_0026
+075	I thought the two of you had gone home?
+076	Uh, yeah? And now we're back!	VO_mela.mela_sys_0004
+077	We know this place better than the back of our hands.	VO_nix.nix_sys_0004
+078	With Space-Time Manipulation, we can be wherever we want in a snap!
+079	All we need to do is mess with magil a little and we can play time and space like a fiddle!	VO_mela.mela_sys_0005
+080	We can avoid enemy attacks, and jump from one place to another...!
+081	The manipulation of time and space?! What an incredible ability! I never imagined that there could be such a thing! This Belt Region is beyond all of my expectations...	VO_nimuru.nimuru_sys_0024
+082	Actually, we're still just apprentices, so messing with time's a little outside of our reach right now. And space? Well...	VO_nix.nix_sys_0005
+083	You'd be really surprised how limited this ability is. Everyone thinks it's super cool, but there are a lot of rules.
+084	There are only certain distances that can be traveled, and only a certain amount of weight that can be moved at once...	VO_nix.nix_sys_0011
+085	Nyx, why're you always so negative? Always focusing on the bad side of things!	VO_mela.mela_sys_0016
+086	No, I just think that it's important to know your own limits.	VO_nix.nix_sys_0003
+087	So Space-Time Manipulation is a way of using magil in this Belt Region?	VO_nimuru.nimuru_sys_0006
+088	Uh...I guess?
+089	Mira! Come on, you know the answer to that. It's got nothing to do with this Belt Region. It's a technique unique to us! Or...I guess to Ambrosia. She's the one who came up with it, after all.	VO_nix.nix_sys_0039
+090	Oh, right! Ambrosia invented it. Isn't that cool? I don't like to brag, but I am a little better at it than Nyx.	VO_mela.mela_sys_0005
+091	And since this is a bit of an eccentric type of magic, we're...not so great at the so-called regular magics.	VO_nix.nix_sys_0011
+092	We're doing our best to learn them, though!	VO_mela.mela_sys_0030
+093	Is magic something that everyone is able to use here?	VO_nimuru.nimuru_sys_0002
+094	I mean, not everyone, but, um... Yes, it's about that time... Oh, look at that!	VO_mela.mela_sys_0003
+095	What? That person?	VO_emmer.emmer_sys_0001
+096	Just keep watching. Look! Did you see that?	VO_mela.mela_sys_0007
+097	They created fire...from thin air. It is nothing compared to what Spiritbonding can achieve, however.	VO_waginao-c.waginao-c_sys_0046
+098	That person is a lamp lighter! Their job is to light the lamps when it starts to get dark, so that there'll still be light at night!	VO_nix.nix_sys_0004
+099	We use magic to light fires in our stoves and hearths. We even use it for hunting!	VO_mela.mela_sys_0004
+100	I see. In the Sephira village, we ascribe a certain divinity to our Spiritbonding, but the value of magic here lies in how it has been incorporated into your daily lives.	VO_nimuru.nimuru_sys_0046
+101	Wow! Has our humble little home piqued your interest?	VO_mela.mela_sys_0001
+102	Let me tell you more!
+103	Ah, thank you, but I... Er...all right. Please, if you would let go of me, I can really walk on my own.	VO_nimuru.nimuru_sys_0011
+104	This way! There's more to see over here! Come on!	VO_mela.mela_sys_0008
+105	Looks like Mira's taken quite a liking to Nimul.
+106	Maybe, but I think she's also just excited to show someone around.	VO_nix.nix_sys_0005
+107	We don't get many opportunities to do stuff like this. Mostly it's just Ambrosia getting mad at us.
+108	She's really strict, huh?	VO_adlai.adlai_sys_0002
+109	Like I said...lots of rules.	VO_nix.nix_sys_0004
+110	Space-Time Manipulation isn't magic that's easily controlled...and if it's not done right, the consequences can be dire and difficult to predict.
+111	Sounds dangerous. Ahem...	VO_adlai.adlai_sys_0001
+112	Hey! Don't run away! That's hurtful! You think I'm going to do something to you?!	VO_nix.nix_sys_0039
+113	Anyway, so...yeah. Ambrosia can be pretty strict.
+114	Plus, Mira's...well, Mira.	VO_nix.nix_sys_0030
+115	Sometimes she just goes ahead and does what she wants, and then the both of us get punished. Ambrosia's not one to let us off lightly.
+116	I see...	VO_adlai.adlai_sys_0044
+117	...
+118	Nimul, I'll go with you! Wait for me!	VO_emmer.emmer_sys_0001
+119	Hm? Are you also interested in magic?	VO_mela.mela_sys_0006
+120	Um...yes! Of course! Especially the way you talk about it. You really make it sound really very...interesting.	VO_emmer.emmer_sys_0004
+121	Wow, okay! Come on, you two! Let's go! I leave the others to you, Nyx!	VO_mela.mela_sys_0008
+122	Yeah, yeah... All right, you two. What did you say you're looking for again?	VO_nix.nix_sys_0030
+123	A forge, or any kind of large hearth where we can do some smithing.	VO_kuienai.kuienai_sys_0005
+124	Ohh...right. Well...	VO_nix.nix_sys_0011
+125	Is there a problem?	VO_kuienai.kuienai_sys_0006
+126	Let's just go and take a look around. Adaleigh, are you—huh? Adaleigh?	VO_nix.nix_sys_0005
+127	Uh, yeah? Huh? Emmel went with Mira and Nimul...	VO_adlai.adlai_sys_0020
+128	Adaleigh... You're really easy to read, you know that? You said that last part out loud, by the way.	VO_nix.nix_sys_0001
+129	Oops... I mean, hey! What're you trying to say? I can be—I mean, I am mysterious! Cool and mysterious, a man among men!	VO_adlai.adlai_sys_0025
+130	Yeah, yeah. If you say so. Shall we go on then, Yna?	VO_nix.nix_sys_0010
+131	Yes. The sooner, the better.	VO_kuienai.kuienai_sys_0004
+132	Huh? Where are you...? Hey, don't just ignore me and leave me behind!	VO_adlai.adlai_sys_0001
+133	...
+134	Hm...
+135	Where is everyone? I seem to have missed them.	VO_waginao-c.waginao-c_sys_0016
+136	Well...
+137	I suppose it's not really necessary for me guard Nimul and the others in a place like this.	VO_waginao-c.waginao-c_sys_0044
+138	If Julia were here, I could simply leave that task to her.
+139	Oh, a visitor?	VO_mob-saga_omale.mog-saga_omale_sys_0002
+140	How unexpected! We don't get many visitors. Which settlement do you hail from? Are you here on your own?	VO_mob_female.mob_female_sys_0003
+141	What brings you here?
+142	Oh, I, um...	VO_waginao-c.waginao-c_sys_0027
+143	(What should I say?! If I tell them I'm from another Belt Region, would they even believe me? I didn't expect to have to explain my presence here...)
+144	You've so many questions for our guest! Don't you see you're making him uncomfortable? What kind of welcome is that?	VO_mob-saga_omale.mog-saga_omale_sys_0030
+145	Besides, there's really only one reason young people come around these parts.
+146	I suppose you're right. I'm truly sorry about that, Stranger.	VO_mob_female.mob_female_sys_0035
+147	N-no, it's fine.
+148	(What a relief. At least I don't have to explain myself now.)
+149	Apologies for interrupting your search. I hope you find a good partner for yourself soon.	VO_mob-saga_omale.mog-saga_omale_sys_0036
+150	We'll be rooting for you! You never know when your love story is going to unfold! The perfect person might be waiting just around the corner!	VO_mob_female.mob_female_sys_0007
+151	Wh-what?
+152	What a lovely gentleman you are! Where is your better half?	VO_mob_female.mob_female_sys_0003
+153	You must've just got here. Were there any available women left in town? You know, I'm not sure...
+154	Oh no, we can't have this!
+155	Hm?	VO_kuienai.kuienai_sys_0006
+156	What're you gentlemen all huddling together for?	VO_mob-saga_omale.mog-saga_omale_sys_0002
+157	A crowd of men like this is way too intimidating for a young woman to approach alone! This is all wrong!	VO_mob_female.mob_female_sys_0030
+158	What? We're just⁠—	VO_kuienai.kuienai_sys_0039
+159	Ahh, perhaps you don't know much about attraction? That's just no good, my friend.	VO_mob-saga_omale.mog-saga_omale_sys_0025
+160	There must be someone around here who piques your interest. Don't be shy! Just go ahead and talk to them!	VO_mob_female.mob_female_sys_0007
+161	Love is great! It can change your entire life! It's so wonderful, I want everyone to know how it feels!	VO_mob-saga_omale.mog-saga_omale_sys_0007
+162	Ah... Right. I'd forgotten that this region was like this.	VO_adlai.adlai_sys_0031
+163	They're friendly, but, uh...a bit preoccupied with love, you could say.	VO_kuienai.kuienai_sys_0030
+164	...
+165	Which reminds me, Nyx! You didn't say anything about this at all! What's with that?
+166	Nyx...?	VO_adlai.adlai_sys_0001
+167	Huh? You done talking? Let's go.	VO_nix.nix_sys_0004
+168	Uh...okay...
+169	How should I put this?	VO_nimuru.nimuru_sys_0031
+170	If I were to describe this place in a few words, they would be "overflowing with love."
+171	That's a really pretty way to put it, Mister Nimul!	VO_mela.mela_sys_0044
+172	Do you disagree?	VO_nimuru.nimuru_sys_0006
+173	I dunno. I mean, what really is love? I wouldn't know the first thing about it.	VO_mela.mela_sys_0001
+174	You don't have a crush on anyone, Mira?	VO_emmer.emmer_sys_0006
+175	Nah... I mean, there's no one here for me, really.	VO_mela.mela_sys_0016
+176	That can't be true. I don't believe that.	VO_emmer.emmer_sys_0031
+177	Ooohh, what about you, Emmel? Have you ever been, you know, in love?	VO_mela.mela_sys_0001
+178	Um, well...no. I guess I haven't.
+179	Then we're the same!	VO_mela.mela_sys_0016
+180	Perhaps, but...I do have an idea of what love might be.	VO_emmer.emmer_sys_0004
+181	What? Really?!	VO_mela.mela_sys_0006
+182	After witnessing it from up close for so long...	VO_emmer.emmer_sys_0007
+183	Oooh! Sounds juicy. Tell me more! Tell me everything!	VO_mela.mela_sys_0046
+184	U-um...!	VO_emmer.emmer_sys_0031
+185	Hm...?
+186	It's, um...it's a secret! I made a promise to never tell anyone about it, ever.
+187	You promised? Aw, man. Well, I guess it is what it is. I'm so curious, though...	VO_mela.mela_sys_0045
+188	Anyway, on with the tour! So, the origins of this fountain are...
+189	Such beauty...
+190	M-Miss!	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+191	O-oh? Me?	VO_emmer.emmer_sys_0025
+192	Yes, Miss! You!	VO_mob-saga_ymale.mob-saga_ymale_sys_0004
+193	My name is Winnick. I apologize for approaching you so abruptly—I simply had to speak to you!	VO_mob-saga_ymale.mob-saga_ymale_sys_0036
+194	O-oh, okay. How can I help you?	VO_emmer.emmer_sys_0004
+195	Um...so...well...	VO_mob-saga_ymale.mob-saga_ymale_sys_0049
+196	I-I have fallen in love with you! It was love at first sight!
+197	Please, would you do me the honor of becoming my better half?
+198	Wh-what?!
+199	That's very...direct.	VO_nimuru.nimuru_sys_0046
+200	I-I... Thank you, but I am not interested. I don't even know you.	VO_emmer.emmer_sys_0001
+201	I know we've just met. I don't blame you for thinking that way.	VO_mob-saga_ymale.mob-saga_ymale_sys_0005
+202	I completely understand that you might be suspicious because we don't know anything about each other. I might have come on a little strong, and yet...
+203	I am completely and utterly captivated by you! Please, just give me a chance!
+204	B-but I don't... Nimul?	VO_emmer.emmer_sys_0027
+205	Er, I'd rather stay out of it. It's up to you to decide how you want to respond.	VO_nimuru.nimuru_sys_0030
+206	Yes, but...! This is just so sudden!	VO_emmer.emmer_sys_0018
+207	Are you really okay with this, Mister Nimul?	VO_mela.mela_sys_0006
+208	As her brother, I feel a little conflicted, but...it's her life. She has to make her own decisions.	VO_nimuru.nimuru_sys_0005
+209	My duty is simply to watch carefully and ensure that, whoever she chooses, they treat her right.
+210	That's a little unexpected. You said you were...Sephirans, was it? Your people are way more open-minded than I thought!	VO_mela.mela_sys_0044
+211	Open-minded? What do you...?	VO_nimuru.nimuru_sys_0006
+212	I-in any case, this really isn't the time! I'm sorry, but I cannot return your feelings. Please leave me alone.	VO_emmer.emmer_sys_0014
+213	Oh... All right. I understand.
+214	I apologize for troubling you. Excuse me.	VO_mob-saga_ymale.mob-saga_ymale_sys_0036
+215	Are you sure, Emmel? He was quite the looker.	VO_nimuru.nimuru_sys_0002
+216	What? What are you saying, Nimul? If I'd really decided to go with him, surely you would have stopped me?	VO_emmer.emmer_sys_0012
+217	I'm not sure. I would have needed to see what kind of man he really was first.	VO_nimuru.nimuru_sys_0004
+218	To be frank, I am altogether unfamiliar with this area...
+219	But I must say, he had quite some nerve to approach my little sister and ask to spend time with her! A stranger! It is not such a simple thing to become a part of this family, let me tell you!
+220	I told you! You're so overprotective.
+221	I am well aware!	VO_nimuru.nimuru_sys_0010
+222	Anyway, this is no time for such things.	VO_emmer.emmer_sys_0030
+223	Our priority is to return to the Sephira village as soon as possible! Is that not so?
+224	Right. Of course.	VO_nimuru.nimuru_sys_0004
+225	Hah! You two are so interesting.	VO_mela.mela_sys_0045
+226	Have you seen enough of our little town, then?
+227	Yes. Thank you for the tour.	VO_nimuru.nimuru_sys_0034
+228	I would like to discuss our next move with everyone.	VO_nimuru.nimuru_sys_0031
+229	I believe we need only follow this road to get to the witch's abode?
+230	Yep, yep! Ambrosia's house is straight down this road and—	VO_mela.mela_sys_0004
+231	Eek...ekk...keke...	VO_albarmin.albarmin_battle_0028_a
+232	What is this?	VO_nimuru.nimuru_sys_0027
+233	An insect? I've never seen something like this before...	VO_emmer.emmer_sys_0025
+234	Ah. Well, we've gotten kinda close to the outskirts of town.	VO_mela.mela_sys_0011
+235	Ekk! Ekk! Keke!	VO_albarmin.albarmin_battle_0001
+236	Get ready, you two! We're gonna bust our way through to Ambrosia's!	VO_mela.mela_sys_0001
+237	Just do me a favor, okay?
+238	These guys are just a little excited, so be gentle. They don't mean anything by it!
+239	Oh, um...okay.	VO_emmer.emmer_sys_0038
+240	Here they come!	VO_nimuru.nimuru_battle_0022

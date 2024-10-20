@@ -1,0 +1,48 @@
+﻿001	This is our settlement. We found you passed out on the edge of town and carried you here.
+002	I see... So I survived.	VO_balt.balt_sys_0020
+003	You should try and stay still. Your injuries are still healing. I'm Carla, and this is Hawk.	VO_karla.karla_sys_0006
+004	What about you? You got a name?
+005	Name's Balt.	VO_balt.balt_sys_0006
+006	Nice to meet you. You can rest here for a while. If it suits you, that is. Hahaha.
+007	Well, you shouldn't push yourself while you're injured. If you hang around even after you're all better, though... Well, that's just negligent.	VO_karla.karla_sys_0031
+008	Call me if you need anything. You can use this room as you see fit. I'll come back later, all right?
+009	What should I do now?	VO_balt.balt_sys_0031
+010	You really are a tenacious one, aren't you?	VO_karla.karla_sys_0001
+011	Well, it seems like you've started to care as well.
+012	Heheh, that's true. You've been praying so much... If these crops don't start sprouting soon, we'll be in trouble.	VO_karla.karla_sys_0007
+013	What are you doing?	VO_balt.balt_sys_0003
+014	You shouldn't be up and about! Wait, but if you don't also push yourself a little, it'll take you longer to get better. Huh... Well, you know yourself best.	VO_karla.karla_sys_0002
+015	I'm watering the seeds that I've planted here.
+016	In a place like this? But that's...	VO_balt.balt_sys_0025
+017	See, even Balt agrees! Hawk just keeps saying that he'll make them grow, no matter what! He won't listen to me!	VO_karla.karla_sys_0007
+018	You'll never know unless you try. I'm fond of this desert, you know, so I want to protect it.
+019	Protect the desert, huh?	VO_balt.balt_sys_0031
+020	Yes, exactly! I want to revive the plants and trees in this region, to make it so that more people can live here. The desert is a dry, harsh place.
+021	That's why people's hearts are dry and harsh here, too—at least, that's what I think. That's why I want to do what I can to enrich them, starting with the desert.
+022	But doesn't living in the desert mean living in a dry, harsh place?	VO_balt.balt_sys_0022
+023	If you live in the desert, then I'm sure you already know this, but...when Sephiron was still around, life still thrived in the desert.
+024	However, after the great tree was lost, life in the desert began to dwindle. I believe that this is because Sephiron's power of regeneration was lost.
+025	Water, sand...and life. Everything is part of a cycle, but now there is nothing to complete it.
+026	The circle of life, eh?	VO_balt.balt_sys_0031
+027	Life moves in a circle. Those that die turn to sand, become stars, and then watch over us forevermore.
+028	Life hasn't completely disappeared from this land. Look, there's a hawk flying over there. You know, there's a legend in the desert that birds carry life.
+029	If birds still fly here, then that means that life isn't truly gone. We just can't see it. Its potential is hidden, just like the seeds I've buried in the soil here.
+030	So regeneration isn't impossible. We just need someone to make it big enough for us to see. That's why I'm growing crops.
+031	This is just the first step. No matter how great a mountain seems at first, if you just keep climbing, eventually you will reach the top.
+032	That's what I hope... No. No, this isn't just hope. I have faith in the desert and the people who live here, so I know it can be done!
+033	I have to believe. You have to do everything you can to protect the things you care about. Balt, I'm sure you understand what I mean.
+034	Protecting the things you care about...	VO_balt.balt_sys_0022
+035	Ah, gosh darnit! You're so honest and strong-willed, I can't believe you're the same guy who is completely useless when it comes to physical strength.	VO_karla.karla_sys_0008
+036	Protecting the desert is a bit vague, and I don't really understand what you mean—but I know you can do it, Hawk! I believe in you.
+037	Heheh... I don't have time to waste being hesitant, you know.
+038	Neither do I! That's why I've decided that I'm going to protect you, Hawk!	VO_karla.karla_sys_0006
+039	I see... Rather than standing around worrying, I should spend my time getting stronger...	VO_balt.balt_battle_0019
+040	So that I can protect the things I care about!
+041	Wait! Where are you going? Your injuries...!
+042	If I have time to rest, I have time to train and get stronger. That's what I want to do.	VO_balt.balt_battle_0019
+043	It's important that you let your injuries heal properly! Okay, okay. I have a proposition for you. Once you're all better, I want you to spar with me!	VO_karla.karla_sys_0002
+044	With you?	VO_balt.balt_sys_0025
+045	Trust me, it wouldn't even be training if Hawk was your partner. We should spar and train each other up. You look pretty strong, yourself.	VO_karla.karla_sys_0006
+046	But you have to take it easy until then, okay?	VO_karla.karla_sys_0007
+047	In that case, I'd be grateful if you'd lend me a hand with caring for the crops during your recovery.
+048	All right. Fine.	VO_balt.balt_sys_0006

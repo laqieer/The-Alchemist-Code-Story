@@ -1,0 +1,46 @@
+﻿001	Is this all the soldiers we have?	VO_kamui.kamui_sys_0002
+002	Yes. We have sent dispatches to every location in which we have allies, but we can't count on any of them arriving in time.
+003	Then we must make this work with the numbers we do have!	VO_kamui.kamui_sys_0045
+004	We of the Gluttony Foss Liberation Army will spare no effort to help the people of the desert in this, the hour of their need.
+005	Neither will the Blue Tongues... Or, that's what I'd like to say, but we can't get in contact with our main force.	VO_logi-b.logi-b_sys_0004
+006	It seems that shortly before the Jam started appearing in great numbers, there were a few who witnessed the Blue Tongues fighting something, but the details are unclear.
+007	Mocca was with them, wasn't she? I really wish we could go look for her.	VO_tina.tina_sys_0031
+008	I'm sorry, but we don't have the time. The scouts' reports show that the Gluttony army has already crossed the border and entered the Desert Zone.	VO_kamui.kamui_sys_0039
+009	They'll likely arrive here by tomorrow. We need to make sure we're ready by then.
+010	All right. I'm not worried, though. The Blue Tongues have won a lot of battles, you know.	VO_logi-b.logi-b_sys_0004
+011	I'm sure they're fine.
+012	...
+013	First, we will need to evacuate the people of this city to a town deep in the middle of the Desert Zone.	VO_kamui.kamui_sys_0037
+014	The Fruit Peddlers can handle that. I'll have them help carry supplies and guide people to safety. I'd like to evacuate all the civilians from the area at once.
+015	Um... Does that include me?	VO_agasa.agasa_sys_0002
+016	If at all possible. Depending on how things turn out, you could end up being something of a chink in our armor.	VO_kamui.kamui_sys_0004
+017	I...
+018	It's all right. Everyone here is an ally, a friend. No one will hurt you.	VO_logi-b.logi-b_sys_1011
+019	I know that. It's just... I feel so useless. I'm the only one who isn't helping.	VO_agasa.agasa_sys_0005
+020	You might not be standing with us on the front lines, but that doesn't mean you can't help.	VO_kamui.kamui_sys_0037
+021	We need logistic support, supplies... Once the battle breaks out, we'll begin sending the severely wounded your way to get patched up.
+022	Even those who don't fight on the battlefield still have a war to win, you know. It's people like you who will do battle with death itself to save every life that you possibly can from its clutches. I want you to remember that, all right?
+023	I-I will!	VO_agasa.agasa_sys_0004
+024	What will we do about guards? This city is little more than a marketplace with an oasis at its center.
+025	There are no ramparts, and no moat—we might as well be naked, we are so utterly defenseless.
+026	Don't worry. I have an idea. If all goes well, we'll find ourselves in quite an advantageous position.	VO_kamui.kamui_sys_0031
+027	Ceclidis is indeed a man to be feared, but he cannot neglect his instinct for self-preservation.
+028	That's how we'll get him.
+029	Onward! Our King wishes us to restore this land to its rightful place as part of the territory of Gluttony Foss!
+030	The black tide will open up our path! Lay waste to everything that stands in your way, and plunder whatever your heart desires!
+031	Huzzzaaahhh!
+032	Reporting! The Gluttony army is now passing through the streets that were swallowed up by the Jam! Their number is estimated to be three times our own!
+033	It will take a force that size some time to reach us. I'd say we have about half a day at best.	VO_kamui.kamui_sys_0031
+034	Is Ceclidis present among the troops?	VO_kamui.kamui_sys_0002
+035	Negative! The army is being led by one of the nobles aligned with Cecildis.
+036	I didn't think he would be. Excellent!	VO_kamui.kamui_sys_0007
+037	Indeed. It seems that our plan is fit to go as it is—in which case, I suppose I must now finish attending to the preparations.
+038	It looks like it's going to be a long day.
+039	You know what to do—just follow the plan. I leave the preparations in the city to you.	VO_kamui.kamui_sys_0004
+040	I understand.
+041	In the meantime, it's up to us to kill every last one of those creatures—those monsters lingering outside the city!	VO_kamui.kamui_sys_0007
+042	We will need to do this fast, so keep your wits about you, all of you!
+043	Over there! There's a horde of monsters in the shadow of that dune!	VO_tina.tina_sys_0001
+044	Gotcha. I'll head over there right away, but...do you really think this plan will work?	VO_logi-b.logi-b_sys_0038
+045	Who can say for sure? Right now, all we can do is give it everything we've got!	VO_tina.tina_sys_0029
+046	You're right... Let's go!	VO_logi-b.logi-b_sys_0037

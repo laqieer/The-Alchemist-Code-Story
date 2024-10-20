@@ -1,0 +1,44 @@
+﻿001	So, you've come.
+002	Dinner's ready, but it doesn't look like any of you are particularly hungry right now.
+003	Shahel, we're here to stop you.	VO_emmer.emmer_sys_0005
+004	That look in your eyes... I presume my daughter has already told you, then.	VO_chahele.chahele_sys_0030
+005	Told you that the land of Superbia Belt will serve as the seat of sacrifice for the Ceremony of Creation.
+006	You must realize that everyone who lives here chose this path for themselves. They desire to be sacrificed.
+007	I've allowed all those who don't to leave. They are free to move to other regions.	VO_chahele.chahele_sys_0004
+008	So tell me. What separates the express consent of these people from your resolve to sacrifice yourself?
+009	If anything, the recreation of the world has the highest chance of yielding a flourishing future. In the long term, it may even prove the safer and more humane option for all.
+010	Even if that's true, the ends do not justify the means.	VO_emmer.emmer_sys_0042
+011	I see you use emotion rather than logic to make your decisions. Unfortunately, I have no emotional appeal with which I can refute you.
+012	I couldn't even if I wished it, for I have no heart.
+013	You don't...have a heart? What do you mean?	VO_emmer.emmer_sys_0025
+014	Exactly what I said. Of course, I'm referring only to myself. Helene's different, as are the other high elves.
+015	It's just a bit of a special quirk I have. I am a direct creation of the dragons, so I suppose you could call my literal heartlessness something of a prototyping defect.
+016	But both Ignacio and Helene have cited you as possessing a deep love for your people...	VO_emmer.emmer_battle_0019
+017	I am merely imitating a certain man when I do that. A man who was willing to give up everything, including his own child, to fulfill the Ceremony of Creation.	VO_chahele.chahele_sys_0006
+018	Lord Shahel, allow us to take care of them.
+019	No, I will fight as well.	VO_chahele.chahele_sys_0039
+020	It is nearly time to conduct the Ceremony. The only piece that remains to be placed is the chosen one, whose arrival in Superbia Belt will signal the beginning of the end.	VO_chahele.chahele_sys_0031
+021	We cannot afford to be stopped here... Is that not the case?
+022	It is as you say, Sir.
+023	Father...	VO_helenne.helenne_sys_0001
+024	You understand, Helene, don't you?
+025	Yes. I believe in the choice I have made.	VO_helenne.helenne_sys_0006
+026	This is the moment to fulfill the promise that those of Superbia Belt all agreed upon—the promise to trust in the true path and walk along it without doubt...
+027	But I don't want this region's people to die.
+028	It may be their wish, but it isn't mine.	VO_helenne.helenne_sys_0005
+029	...I see.
+030	Ignacio?
+031	Well... I don't have much of an opinion on this Ceremony either way.	VO_ignacio.ignacio_sys_0031
+032	But I can at least say this much: I don't intend to allow my sister to kill you. You understand my meaning, no?
+033	Of course, my dear son. I'm so glad that you've grown up to be such a caring, compassionate young man.
+034	"Dear son," huh? I feel like you've always just been coddling me with that, and it's made my trigger finger a little stiffer than it used to be.	VO_ignacio.ignacio_sys_0030
+035	Do forgive me. As I said, I'm merely imitating another.
+036	Quence?
+037	Sorry. It was my intent from the very beginning to abandon ship partway through.	VO_kvense.kvense_sys_0035
+038	Honestly, it pleases me—inasmuch as I can be pleased—to know you've found something to believe in. You've always been so negative, I expected you'd achieve very little.
+039	You've also been most unpleasant to be around, as a result. You're a rather nasty sort.	VO_chahele.chahele_sys_0010
+040	All right, let's just kill this guy already! I think we can all agree he's not good for much of anything anymore!	VO_kvense.kvense_sys_0023
+041	...
+042	Child, you are not the chosen one, but I still believe in your potential.	VO_chahele.chahele_sys_0004
+043	Now, let me witness the moment a human brings down a dragon!
+044	Let's go!	VO_emmer.emmer_battle_0007

@@ -1,0 +1,229 @@
+﻿001	Northern Pride. Headquarters of the Holy Guard.
+002	The old man...died?	VO_ortima.ortima_battle_1028
+003	Unfortunately...
+004	When Captain Yauras made her way to him, Captain Monzein was already close to death.	VO_kanon_3s_cano.kanon_sys_0042
+005	In other words, the rescue party didn't make it there in time?	VO_kagura_3s_kagu.kagura_sys_0025
+006	By the time I rendezvoused with him, he had already endured fatal wounds.
+007	No...!	VO_kagura_3s_kagu.kagura_sys_0022
+008	...It's a little anticlimactic.	VO_ortima.ortima_sys_0022
+009	Huh?
+010	For Captain Yauras, it lacks that final touch. How can I say it? Like a joke without a punchline?	VO_ortima.ortima_sys_0025
+011	I don't want to believe it, but it's true. It hurts but we must accept the truth.	VO_yaurasu.yaurasu_sys_0035
+012	His only saving grace was his strength. And now he's dead? Hahah...!	VO_ortima.ortima_sys_0012
+013	It's pathetic. How am I supposed to accept this?
+014	...Othima.
+015	I've had enough. There's no way that old man would die that easily.	VO_ortima.ortima_chara_1005
+016	He still hasn't even bought me the meal he owes me...
+017	You gotta be kidding me. This is such nonsense. I'm not gonna accept it!!!	VO_ortima.ortima_sys_0015
+018	...Captain Othima...
+019	I'm sorry. It's my fault. If he hadn't tried to protect me, Captain Monzein would still be...	VO_basini.basini_sys_1019
+020	No.	VO_yaurasu.yaurasu_sys_0016
+021	When Monzein died, he used his Burning Seal. He fulfilled his code of chivalry.
+022	All that occurred was the result of choices that Monzein made himself. I'll tell you this again: don't beat yourself over the head about any of this.
+023	But...	VO_basini.basini_sys_0018
+024	Enough with the mourning.	VO_yaurasu.yaurasu_sys_0012
+025	Monzein sacrificed his life to entrust all of you with the future.
+026	And if you repay him by moping...it would be truly putting to waste the sacrifice he made.
+027	......
+028	Captain Othima... It's difficult for me as well to accept Captain Monzein's death.
+029	After all, it was none other than him who taught me how to truly be a knight...but...
+030	I know...I know...	VO_ortima.ortima_sys_0018
+031	I just can't be like, "I know what you mean," and accept it right now...
+032	I'm sorry. I just need to get it out of my system.	VO_ortima.ortima_battle_1013
+033	Understood...
+034	We're back, my lady.
+035	Suzuka, Kazahaya...what's the matter?
+036	My apologies. We searched the library from end to end...	VO_kazahaya.kazahaya_sys_0035
+037	But we cannot seem to find any mention of the Veda Templars.
+038	I see. I wonder if they're a new organization.	VO_kanon_3s_cano.kanon_sys_0031
+039	They have enough power to take down Captain Monzein...and even Greed Dike appears to be wary.
+040	It's safe to assume that they wield a considerable amount of power. Who exactly are they?
+041	They are people of the shadow, who live in the deepest parts of this world.
+042	They come from different places and their existence is not known to man. Of course there is no documentation on them.
+043	Why do you know so much about them?	VO_yaurasu.yaurasu_sys_1047
+044	Well...most likely, they originate from the Lost Blue.
+045	Lost Blue...?
+046	It's not known to most, but there is a place for those who have nowhere to call their own, those alientated from society...and those who have been dealt a bad hand by life.
+047	In some ways, you could call it a lawless land.
+048	It should be in Slothstein's underground space.
+049	A lawless land...where those alienated from society gather?!	VO_caida.caida_sys_1025
+050	Yes. Lost Blue is a deep sea village where there is no sky and light does not shine.
+051	The girl that we encountered in Lustburg, Acht...she said that she was from there.
+052	There was no such record within all of the documentation material we've gathered from all across the world.
+053	Why do you know of this place?	VO_yaurasu.yaurasu_sys_0013
+054	It's because, apparently, Captain Othima is also originally from Lost Blue.	VO_kagura_3s_kagu.kagura_sys_1034
+055	What...?!
+056	I'm not originally from there. I stayed there for a while when I was in my teens.	VO_ortima.ortima_sys_0022
+057	Having been exiled from Lustburg, I moved around from place to place and just happened to arrive at that city.
+058	So you know who they are?	VO_yaurasu.yaurasu_sys_1047
+059	No, I don't. After all, I was only there for a while.
+060	There were a lot of people coming and going in search of Veda.
+061	When I was there, if I recall correctly, there were a lot of people enquiring, but no one really teamed up together.
+062	There is nobody more dangerous than that lot.
+063	"Veda"... Acht mentioned that word as well. What does it mean?
+064	I'm not sure how to describe it.	VO_ortima.ortima_sys_0031
+065	Lost Blue is said to be a tower that cannot be seen which leads to another dimension.
+066	A tower that leads to another dimension?	VO_kanon_3s_cano.kanon_sys_0026
+067	It's quite hard to explain, but...	VO_ortima.ortima_chara_1011
+068	Most likely, it is made of a high-form of energy that could be Alchemy energy. It's a tower that exists without a physical form.
+069	We call it the Mystic Tower Veda.
+070	The Mystic Tower Veda...?!	VO_yaurasu.yaurasu_sys_0017
+071	Yes. It's quite the mysterious tower. When you go there some of your five senses stop working properly.
+072	I guess you could say you feel strangely sharp.
+073	What do people go there in search for?
+074	The reasons vary, but to put it simply...there are those who go there because they want to discard or forget everything.
+075	There are also supernaturalists there who have transcended to a state beyond human knowledge. All of them are fascinated by the tower.
+076	After you left the city, Captain Othima...
+077	The people who had gathered at Lost Blue became a band of mercenaries.
+078	How come?
+079	Who knows? They were just a group of uncooperative deviants who happened to be in the same place.	VO_ortima.ortima_sys_0031
+080	That being said...they did work together as thieves to help support the town.
+081	Are you saying that there's a chance that a portion of them were radicalized even further?	VO_yaurasu.yaurasu_sys_0045
+082	It's not hard to consider, even if it's just a rumor...
+083	I've even heard that the people of Lost Blue have contracts as assassins.
+084	I can't believe there's such a place that offers sanctuary to sinners.	VO_kanon_3s_cano.kanon_sys_0021
+085	Hey wait...I'd prefer if you didn't make outright assumptions like that.	VO_ortima.ortima_chara_1002
+086	I told you that Lost Blue was a place where people who were forced out of their world gather, didn't I?
+087	Amongst them there were those who had been removed from their world for innocent reasons.
+088	There are others who had been saved by that place...like me.
+089	You mean a part of it serves as the final basin that swoops up those who've lost their place in this world?	VO_yaurasu.yaurasu_sys_0016
+090	Yes. In any case, it's not possible to ignore that many people with combative capabilities.
+091	I think we need to rebuild our strategies based around the capabilities of those powers.
+092	In the underground of the Slothstein area, a city called Lustburg exists, right?	VO_kanon_3s_cano.kanon_sys_0031
+093	It'll probably be a waste to send soldiers there.
+094	They knew about me. In other words, they must be aware that I can figure out Lost Blue's location.
+095	In other words, even if we entered there, we wouldn't be able to get information on the Templars?	VO_yaurasu.yaurasu_sys_0017
+096	They're terrible at cooperating...but they look after their own.
+097	Anyway, even if we were to get someone to talk...
+098	There's no proof that they even exist so we wouldn't be able to determine any individual traits.
+099	If it becomes a cat and mouse hunt, we'll just end up wasting soldiers that we could use elsewhere.	VO_caida.caida_sys_0030
+100	It'll be more efficient to focus on Greed Dike's movements right now than to chase them when we don't even know their location.
+101	Yeah. They should be accompanying Greed Dike in their quest to seize the next Sacred Stone anyway.
+102	I believe we should take measures as soon as possible to protect the countries that haven't been attacked yet.
+103	We were able to stop Lustburg's Sacred Stone Asmodeus from being stolen, but...	VO_kagura_3s_kagu.kagura_sys_0005
+104	Envylia's Leviathan was rendered powerless.
+105	Next they'll aim for Wratharis' Satna.
+106	Or maybe Slothstein's Belphegor?
+107	If they've received word about the Saga's Crystal Quartet Matter then there's a chance they may aim to obtain those.	VO_caida.caida_sys_0031
+108	Either way, they could attack here at any point...	VO_yaurasu.yaurasu_sys_0017
+109	No...I feel like they won't show up here in Northern Pride for a while.
+110	Why?	VO_kagura_3s_kagu.kagura_sys_1047
+111	Judging from what Captain Kudan had been talking about...	VO_kanon_3s_cano.kanon_sys_0031
+112	The Lion Monarch Orion's goal is to obtain the Alchemy Source that Nimul had.
+113	Judging from that point...I believe that to be the Tower of Babel that Nimul is said to have created...
+114	The tower that stands in the center of Northern Pride will be Greed Dike's final destination.
+115	You're right. If that's the case, then the next place that Orion will head to would be...	VO_yaurasu.yaurasu_sys_0045
+116	Neither Wratharis nor Slothstein, where the location of their Sacred Stones are uncertain...
+117	Saga's Matter...?!	VO_caida.caida_sys_0027
+118	I'm not sure. In the past, I might've made that assumption, but...	VO_ortima.ortima_sys_0031
+119	He did end up appearing in Envylia.
+120	Huh? Orion is famous for fighting at the vanguard, you know?	VO_kagura_3s_kagu.kagura_sys_1047
+121	That's why I assumed he would act counterintuitively. The fact that he hasn't done that surprised me.
+122	Counterintuitively...that Lion Monarch Orion?	VO_kagura_3s_kagu.kagura_chara_1013
+123	Yes. Orion displays himself as brash and all action, but...
+124	That's just one side of him. In fact...I believe he is actually a calm and excellent tactician.
+125	Huh?! A tactician?!	VO_kagura_3s_kagu.kagura_sys_0025
+126	That was also my impression having encountered him face-to-face.	VO_yaurasu.yaurasu_sys_0004
+127	Since you served under him, what do you think?	VO_yaurasu.yaurasu_chara_0009
+128	Why do you think he chose to attack from the vanguard?
+129	Most likely...it's because he obtained something that allows him to have an advantage.
+130	The Veda Templars!	VO_kanon_3s_cano.kanon_sys_0042
+131	Yes. A tactitian's plans can often be predicted by another tactitian.
+132	Because he knows that...Orion went out of his way to introduce a chaotic element into his assault.
+133	To be honest, I have absolute no read on the Veda Templars.
+134	That can't be. Are you sure you're not underestimating yourself?	VO_kagura_3s_kagu.kagura_sys_0022
+135	No. I'm certain of it.
+136	That man is mad, but he is also a substantially superior tactician who is playing on a whole other level.
+137	Meaning...	VO_kanon_3s_cano.kanon_sys_0042
+138	If he is a tactician, then there is always the possibility that he would extend his reach to countries we might be less likely to consider.
+139	It's not good for us to always be on the defensive. I believe it's best if we launch a pre-emptive act.
+140	Understood. Captain Othima, please head with Basheeny to Wratharis.	VO_kanon_3s_cano.kanon_sys_0037
+141	What about me?	VO_kagura_3s_kagu.kagura_sys_0001
+142	You make your way to Saga.	VO_kanon_3s_cano.kanon_sys_0004
+143	Just in case...it's important that Seida remains in Northern Pride so that she can utilize her ability to read over a wide terrain.
+144	In that case...I guess I should head to Slothstein?	VO_yaurasu.yaurasu_sys_0016
+145	Yes. If there are no problems there then make your way to Saga and rendezvous with Kagura.
+146	Kagura, Captain Yauras...please look after Saga.	VO_caida.caida_sys_0035
+147	Don't worry. Leave it to us. All right then...now that everything's been decided on, we've got no time to waste!	VO_kagura_3s_kagu.kagura_sys_0004
+148	Wait! Everyone...before you leave, please promise me one thing.	VO_kanon_3s_cano.kanon_sys_0018
+149	Promise what?
+150	Please promise me that you will come back here alive.	VO_kanon_3s_cano.kanon_sys_0004
+151	Huh? What's all that about? Don't be so dramatic.	VO_yaurasu.yaurasu_sys_0012
+152	She's not being dramatic, especially after what happened with Captain Monzein.
+153	In fact, it would be highly efficient for us to refocus our mental state right now.
+154	We need to recognize just how formidable our enemy is. We can make it a lighthearted promise for now.	VO_ortima.ortima_sys_0004
+155	Yes. Come now. Everyone, let's raise our weapons.	VO_kagura_3s_kagu.kagura_sys_0005
+156	Okay.	VO_basini.basini_sys_0004
+157	Not exactly a fancy farewell.	VO_yaurasu.yaurasu_sys_0010
+158	Usually, these kind of feelings should be buried deep inside one's heart, you know? But...	VO_yaurasu.yaurasu_sys_0016
+159	I...will accept Monzein's unrefined determination.
+160	I promise to prevent any further advancement of Greed Dike's army.	VO_yaurasu.yaurasu_sys_0017
+161	Me too! I will not let Captain Monzein's death go to waste!	VO_basini.basini_sys_1019
+162	It's okay. Captain Monzein's soul continues to live within all of us!	VO_caida.caida_sys_0004
+163	For the sake of the ambitious Captain Monzein, we will not be beaten!
+164	Of course. I can just imagine what he would say if I were taken down.
+165	I promise to return alive.
+166	Thank you, everyone! For the sake of Captain Zain and Captain Monzein as well...	VO_kanon_3s_cano.kanon_battle_0018
+167	We will shatter the ambitions of the Lion Monarch with our own hands!!!
+168	The Holy Guard have successfully driven off Greed Dike from their occupation of Envylia and Lustburg.
+169	However...Envylia's Sacred Stone Leviathan has lost its power and Captain Monzein of the Second Order has died.
+170	They had suffered too great a sacrifice to smile.
+171	Meanwhile, the threat of Greed Dike continues to grow, led by the determination of one man...
+172	This threat will later be talked about through the ages as the largest ever to have arisen in the continent of Babel...
+173	This is the memory of the mad monarch bearing the name Lion. And of the great war he began that would overturn the laws of this world.
+174	THE ALCHEMIST CODE
+175	Sacred Stone Memories -The Destiny Harbored by the Lion Monarch-
+176	We will soon enter the territory of Wratharis. Be a wee bit careful now of your surroundings.
+177	Understood. Captain Othima, do you really think Greed Dike will show up?	VO_basini.basini_sys_0005
+178	We'll have to see. More importantly, there's something I want to ask you.	VO_ortima.ortima_sys_0031
+179	Is it about the battle we fought in Envylia?	VO_basini.basini_sys_0006
+180	No... Do you have a favorite food or something?	VO_ortima.ortima_chara_1011
+181	Huh? A favorite...? Why?	VO_basini.basini_sys_0012
+182	It's a very important matter. The more specific you can be the better. Can you tell me?
+183	Um...okay! Ah, let me see...hmm...maybe...Melpoto mushroom stew?	VO_basini.basini_sys_0025
+184	I see. Nice. Very useful. I'll make it for you sometime soon.	VO_ortima.ortima_sys_0044
+185	Huh? Th-thank you. Um, what is this?	VO_basini.basini_sys_0006
+186	Oh, nothing. It's just you're a tricky one to pin down, so I wanted to know what kind of things you liked.	VO_ortima.ortima_chara_1011
+187	Huh?
+188	I want to get along with you. You know...since the old man died, I realized I'm the only man out of all the captains.	VO_ortima.ortima_sys_0020
+189	...Ah...
+190	On top of that, all the captains are strong-willed women...so I thought you might be a little lonely.
+191	Honestly...Greed Dike really messed things up for us.	VO_ortima.ortima_sys_0030
+192	Orion needs a real good kick in the pants for having caused this situation.	VO_basini.basini_sys_0004
+193	Yeah... We need to properly lay them to waste.
+194	I'll assist you with everything that I've got. It's payback time for what they did to the General.
+195	General...?	VO_basini.basini_sys_0006
+196	I'm talking about Captain Zain. They corrupted Captain Kudanstein...and drove Captain Zain to his death.	VO_kazahaya.kazahaya_battle_0022
+197	After what they...what they did to the General who looked after me...! I'll do it...!
+198	Good. Your assistance shines like a beacon on the road of each land. It's indispensable. I'm counting on you, Kazahaya.
+199	Yes! By the way, Captain Othima, there's one thing that I don't understand.	VO_kazahaya.kazahaya_sys_0037
+200	What is it?
+201	They tried relentlessly to steal Envylia's Sacred Stone, but...	VO_kazahaya.kazahaya_sys_0031
+202	Why did they give up so easily when it came to Lustburg's Sacred Stone?
+203	Given their mentality, it's hard to imagine they'd give up until they managed to take it.
+204	I feel like the hint may lie in the words "balance of power in this world."
+205	Balance of power...?	VO_kazahaya.kazahaya_sys_0025
+206	Yes. By disrupting the balance of power in this world, it will bring about the appearance of the Alchemy Source.
+207	Since that's what Orion thinks, his goal is not to obtain all the Sacred Stones.
+208	As long as he can disrupt the balance of this world, I think he believes that's enough.
+209	I see...	VO_kazahaya.kazahaya_sys_0044
+210	Lustburg's Sacred Stone Asmodeus is kept stored in a special way.
+211	It's enshrined high up in the sky, making it difficult to get ahold of.
+212	Maybe Orion determined that he didn't have enough time to waste on trying to obtain it.
+213	So you think he'll only steal it if it's realistic?	VO_basini.basini_sys_0025
+214	Yes. I think so. Lustburg's invasion was more for show.
+215	Most likely, he wanted to cause the Holy Guard to disperse.
+216	He also wanted to lure out Seida, who is rumored to hold the Sacred Stone of Gluttony Foss. I believe that was his true motive.
+217	I see...	VO_basini.basini_sys_0045
+218	Then that means there's a chance he might not invade Wratharis and Slothstein as the location of their Sacred Stones are unknown...
+219	Right.	VO_ortima.ortima_sys_0004
+220	Then the Sacred Stone that is definitely in Northern Pride...	VO_basini.basini_sys_0018
+221	And, if he has received information regarding it, the other alternative would be Matter in the Saga region.
+222	Don't you think he's moving towards either one of those?
+223	If that's the case, why send soldiers to Wratharis and Slothstein as well? What about heading to Saga?	VO_kazahaya.kazahaya_sys_0031
+224	To be honest, I half-suspected there was more to his moves than simple wastefulness.
+225	...but it appears he just likes to play games.
+226	Huh?	VO_kazahaya.kazahaya_sys_0025
+227	Be careful. It looks like they're going to engage with no questions asked.
+228	Greed Dike soldiers? When did they get here?!	VO_basini.basini_sys_0025
+229	Who knows? I'll give them hell for depriving me of the lunch that I was supposed to eat.	VO_ortima.ortima_battle_0030

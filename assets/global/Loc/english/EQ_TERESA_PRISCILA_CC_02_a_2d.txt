@@ -1,0 +1,80 @@
+﻿001	I commend your persistence, but I think it's time you took a break, Kalmia. You're clearly overexerting yourself.
+002	Thank you for your concern, but I'm quite all right. I shan't whinge over such trifles as this.	VO_kalmia.kalmia_sys_0033
+003	I must remain strong. I have to repay my mentor for raising me after I lost my father.
+004	Hmm. Well, that look on your face certainly will never do. You need to be a bit softer around the edges when you're with the troops.
+005	Pardon?!	VO_kalmia.kalmia_sys_0025
+006	Emotions are contagious, both positive and negative. They spread.
+007	If you hate, all you receive is hate in return. If you rage, all you see is anger from those around you. It's a never-ending cycle.
+008	So, are you telling me I...shouldn't hate?	VO_kalmia.kalmia_battle_0019
+009	Don't get me wrong, I completely understand the sheer anger and frustration you must feel when seeing helpless people unreasonably abused and exploited in the chaos of war.
+010	I can't stand to see it either. That's why I fight. I'm not as skilled as you are, but I do know my way around a spear.
+011	Still, I always strive never to fight in the name of hatred. A vengeful mind is a blinded one.
+012	Nothing remains after a battle predicated on hatred. Your spear will only bring with it more hatred and vengeance. It will see the cycle continue far beyond its means, and no one will win.
+013	Then what must I fight for? What do you think of when you fight?	VO_kalmia.kalmia_sys_0030
+014	That's simple. I fight to bring an end to war.
+015	If there are no wars, we can all live in peace. Maybe we'd even have enough time to stop and smell the flowers.
+016	Such an innocent idealist, brought up sheltered, never having lost anything...	VO_kalmia.kalmia_sys_0004
+017	And yet, there was a certain...matter-of-factness to his words, a certain power to them, that made his point seem almost self-evident.
+018	He was sagacious and popular. He even had the courage to stand on the front lines of battle in an effort to end the war himself. I... No, all of us... We saw a very bright future in him.
+019	Which is why I chose to carry on his ideals. I swore I'd never let them be clouded by hatred again.	VO_kalmia.kalmia_sys_0005
+020	I keep my eyes averted from the boiling darkness I've sealed away deep within me.	VO_kalmia.kalmia_sys_0042
+021	I know you're there.
+022	(What? How?!)
+023	Come on out. You desperately need more training in stealth, Priscilla.	VO_kalmia.kalmia_sys_0011
+024	Was it that bad? Was I that obvious?!	VO_priscilla.priscilla_sys_0025
+025	You could burn a hole in a wall with such a concentrated gaze. So, what is it you need?	VO_kalmia.kalmia_sys_0006
+026	Oh, um, well...
+027	I just came by to see how you're doing. I was a bit concerned.
+028	That battle the other day... You were like a whole different person.	VO_priscilla.priscilla_sys_0016
+029	Dear me! Were you worried?
+030	Absolutely! You're a big part of my life, Kalmia.	VO_priscilla.priscilla_sys_0005
+031	Father trained us both in the way of the spear, and raised us like sisters. You're practically family!
+032	I'm sorry to have caused concern. I just couldn't help getting involved, knowing what a hard time the Ruinmaker once gave you.	VO_kalmia.kalmia_sys_0036
+033	But, you were—
+034	Envylia suffered great loss back then.	VO_kalmia.kalmia_sys_0031
+035	And the Ruinmaker's active participation on the battlefield was a direct cause of that loss.
+036	She is a great threat to us. So, if we were to successfully take her out of the equation, it would be a great stride toward ending this war.	VO_kalmia.kalmia_sys_0005
+037	I think I was rapt with that idea.
+038	That...wasn't how I saw it, though. You seemed so unlike your usual self, Kalmia.	VO_priscilla.priscilla_sys_0002
+039	Really? I suppose getting flustered is not a good look for me. I'll try to be more careful in the future.
+040	Come to think of it, I have a few things to say to you, too, Priscilla. I hear you charged ahead blindly, ignoring your commanding officer's orders.
+041	Er, I... I just got so fired up!	VO_priscilla.priscilla_battle_0019
+042	Then in the midst of battle, you lost your footing for a moment. Don't think I didn't notice.
+043	Oh, yes. A-about that...
+044	I saw a pretty flower, and...I-I didn't want to step on it.	VO_priscilla.priscilla_sys_0022
+045	You were worried about a flower? In the midst of combat?! If that's true, you have much more control over your nerves than you give yourself credit for.	VO_kalmia.kalmia_sys_0030
+046	Thank you! I promise I'll dodge any such flowers more adeptly next time.
+047	That's...not exactly what I was trying to say.
+048	But... Heh. You have always loved flowers, I suppose! Some things never change.	VO_kalmia.kalmia_sys_0008
+049	It's a commendable and quite rare quality to be able to notice and care for such little things that would otherwise be overlooked.
+050	Y-you really think so?	VO_priscilla.priscilla_sys_0011
+051	I do. And I've been with you for so long, I think you can trust my judgment on that!	VO_kalmia.kalmia_sys_0004
+052	I find that part of you quite...precious.
+053	And I very much hope you never let it wilt.	VO_kalmia.kalmia_sys_0006
+054	Kalmia...
+055	But! You have to know how dangerous such actions are in battle. You could've been killed! Your kind truly isn't suited to the front lines. I do wish you'd reconsider your participation.
+056	This dusty old topic again? Why are you always trying to convince me to step away?!	VO_priscilla.priscilla_sys_0016
+057	You, more than anyone, should know how capable I am with my spear!
+058	Well, I certainly can't deny that. I've watched you grow next to me as we trained together. But in a way, that's all the more reason for concern.	VO_kalmia.kalmia_sys_0005
+059	You may be skilled in practice, but the battlefield is nothing like the training hall. The enemy isn't about to give the slightest consideration for your tenderness toward flowers.
+060	S-sure, but—!	VO_priscilla.priscilla_battle_0022
+061	Like our mentor, you can be of use to the military simply by training other soldiers in the ways of the spear.
+062	You don't need to risk your life in the battlefield proper on top of that!
+063	Well, that's...
+064	I just don't want to see the living memory of my mentor perish before her time.
+065	But, I know death is never far off when I stand on the battlefield. I've already come to terms with that.	VO_priscilla.priscilla_sys_0001
+066	Moreover, I promised Father that I'd carry on his will. So I can't just leave the fight!
+067	...
+068	I'm sorry, Kalmia. No matter what you or anyone else says, I have to do this. It's important that I—	VO_priscilla.priscilla_sys_0002
+069	Master! There you are!
+070	Huh?	VO_priscilla.priscilla_sys_0025
+071	You're late for spear training! We're all ready and waiting for you. Please come to the training hall immediately!
+072	I'm late? What time is... Ack! Oh, no!	VO_priscilla.priscilla_sys_0028
+073	This isn't good. I'm keeping my students waiting! I have to go, Kalmia. See you later!
+074	I swear, she's like a whirlwind.	VO_kalmia.kalmia_sys_0007
+075	I definitely messed up today, though. I shouldn't make her worry like that. I need to be more mindful.
+076	(It's fine. It's still all right. As long as she's around, alive and well, I can still—)	VO_kalmia.kalmia_sys_0006
+077	Nothing remains after a battle predicated on hatred. Your spear will only bring with it more hatred and vengeance. It will see the cycle continue far beyond its means, and no one will win.
+078	Then what must I fight for? What do you think of when you fight?	VO_kalmia.kalmia_sys_0030
+079	That's simple. I fight...
+080	To bring an end to war.	VO_teresa.teresa_battle_0019

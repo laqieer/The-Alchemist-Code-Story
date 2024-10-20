@@ -1,0 +1,99 @@
+﻿001	Whoa!	VO_andechs.andechs_battle_0019
+002	Ooh, so close.
+003	Hey, now! That was a cheap shot!	VO_andechs.andechs_sys_0003
+004	Isn't that what you do in a fight? You build your defense, and should your opponent drop theirs, you sweep in for the kill. It's called tactics.	VO_esai.esai_sys_0005
+005	Prattle on all you want, but you're all out of backup!
+006	Oh, don't you fret! I have an endless supply of Fallen to call upon.
+007	...!	VO_andechs.andechs_sys_0042
+008	Don't you dare!	VO_ignacio.ignacio_battle_0001
+009	Thanks for the save. We mesh better than I thought we would.
+010	Teamwork is the first thing soldiers study in Superbia Belt.	VO_ignacio.ignacio_sys_0006
+011	There's only so far teamwork can take us, though. There's simply no way we can deal with this many Fallen.
+012	Unfortunately, I think you're right. If they weren't Fallen, I could just take the hits and break through. But the corruption makes taking any hits at all a losing proposition.	VO_andechs.andechs_sys_0005
+013	I'd heard that Avaritia soldiers have resistance against corruption. Is that not the case with you?	VO_ignacio.ignacio_sys_0002
+014	Afraid not. My only lines of defense are my blade and my skill.
+015	Let's see to it that that's enough, then!
+016	Hmph.	VO_esai.esai_battle_0016
+017	Your defeat is assured even at this pace, but sadly, it's taking much too long. The process will need to be sped up.
+018	Groaaaaaaaar!
+019	What the...?	VO_andechs.andechs_sys_0006
+020	(His troops are falling back? He's obviously setting some kind of trap, but what is it?)	VO_ignacio.ignacio_sys_0031
+021	(If I were him, what would I do to get the upper hand when dealing with a Knight of Justice like Andechs?)
+022	(I think I know. I'd take a hostage. Maybe that Shield Maiden—someone my opponent would want to protect at all costs.)
+023	By the way, Ignacio...	VO_esai.esai_sys_0002
+024	You wouldn't happen to know this little lady, would you?
+025	Ah...ggh...	VO_helenne.helenne_battle_0019
+026	H-Helene!
+027	Coward!	VO_andechs.andechs_sys_0025
+028	Ahaha! And there's the opening!	VO_esai.esai_sys_0008
+029	Finally...	VO_nimuru.nimuru_battle_0022
+030	Is this the place, Nimul?	VO_emmer.emmer_sys_0001
+031	It is. This is the heart of the tower.
+032	This is Grand Excelsior, the control center. It's the aggregate of all the Cursed Beasts' cores.
+033	Look at all of this corruption, though...	VO_waginao-b.waginao-b_battle_0019
+034	Ouroboros is using the corruption that's accumulated within her to contaminate the tower's core.
+035	That's...what cost Bianca her fight.
+036	So we've got to take it back, then.	VO_emmer.emmer_sys_0002
+037	Yes. We can turn things around from here. We can win this.	VO_nimuru.nimuru_sys_0004
+038	The sinful magil that fills this place rivals even Beelzebub's corruption, though.
+039	Which is why it's so crucial that you two are with me this time. It would be difficult for me to do this alone, but if we all combine our powers of purification, I think we really do stand a chance.
+040	All right!
+041	"I beseech the supreme...!"	VO_emmer.emmer_battle_0007
+042	......
+043	What's wrong, Waginau?	VO_nimuru.nimuru_sys_0001
+044	I believe the three of us won't be enough here.
+045	What? Why not?	VO_emmer.emmer_sys_0006
+046	Humans. You have come.	VO_uroboros-c.uroboros-c_sys_0003
+047	Didn't take her long to notice us.	VO_nimuru.nimuru_battle_0019
+048	(So what now? It would be impossible for me to purify all of this corruption on my own. We need at least two Spiritbonders focused on it.)
+049	(For now, I guess I'll just have to buy us some time.)
+050	Nimul...
+051	I'm on it. You and Emmel should get started on purifying the core.	VO_nimuru.nimuru_sys_0005
+052	No. I'll take care of Ouroboros.	VO_waginao-b.waginao-b_sys_0039
+053	Huh? Why?!
+054	Sorry for keeping this from you for so long...but I can no longer use Spiritbonding.	VO_waginao-b.waginao-b_sys_0035
+055	What?!	VO_nimuru.nimuru_sys_0025
+056	It's a result of his contract. For a human to gain the power of the dragons, an offering must be made. Compensation, you might say...or sacrifice.
+057	The man before you gave up the skill that he'd spent his entire life honing. He lost the very power that makes the Sephira who they are.
+058	Waginau...	VO_nimuru.nimuru_sys_0020
+059	It is as he says. I won't be able to help purify the core. This is the only way I can be of help in this conflict, Nimul. I'm sorry it had to come to this.	VO_waginao-b.waginao-b_sys_0005
+060	I... I see. All right, then. I guess there's no other choice.	VO_nimuru.nimuru_sys_0022
+061	Do your best here, Waginau. We just need a little more time.
+062	Of course. I've got you covered.	VO_waginao-b.waginao-b_sys_0004
+063	......
+064	Let's hurry it up, Nimul! We've got to make sure not to waste Waginau's efforts!	VO_emmer.emmer_sys_0001
+065	Yeah... You're right.
+066	Hmm.	VO_uroboros-c.uroboros-c_sys_0044
+067	I do not recognize you, human. Why do you stand before me?
+068	This is the place where the fate of the world shall be decided. It is here that our decisions are tested and explored.
+069	What right have you to interject yourself upon these sacred proceedings?
+070	You don't recognize me, huh? That makes sense, considering everything I've...	VO_waginao-b.waginao-b_sys_0030
+071	—No, scratch that. I will not succumb to regret.
+072	I am called Waginau. I am Captain of the renowned Sephira Guard, and attendant to Nimul—the man who is to become this world's salvation!
+073	Zafeiris!	VO_waginao-b.waginao-b_battle_0001
+074	Acknowledged. Fringe Dimensional Art, Nero. Extraction.
+075	Zafeiris... I see. So this is the path you have chosen: to live amongst humans.	VO_uroboros-c.uroboros-c_sys_0031
+076	Forgive me. My body is but a shell of what it once was, but my desire to save you has never gone away.
+077	Please allow me to carry out my duty, and succumb to the rest you so greatly yearn for.
+078	What an interesting turn of events. In lieu of your request, I would see you writhe and squirm before me, you wretched shell of a dragon...just as you did the day you first tasted defeat!	VO_uroboros-c.uroboros-c_sys_0004
+099	Then I shall stake my soul on this day, and bring you to rest through whatever means necessary!
+079	"Adhere to the dark commandments!"
+080	What—?	VO_waginao-b.waginao-b_sys_0026
+081	This is the power of the Shell; it is the very same power that I wield. I know not where you obtained it, and I don't care for you having it!	VO_uroboros-c.uroboros-c_sys_0006
+082	It's not enough. I can't defeat Ouroboros like this.
+083	Of course you can't. Your powers come from the same source, yet you are but a single human being. She has the advantage here in all regards.
+084	The question is, will I at least be able to buy he others the time they need?	VO_waginao-b.waginao-b_battle_0016
+085	If that is your aim, let us see if we can't make another miracle happen. Name your price.
+086	How about my sense of taste?
+087	Insufficient. Be aware that the smaller your offering, the smaller this miracle will be. All things have their price.
+088	Then...I'll give up my sense of touch.	VO_waginao-b.waginao-b_sys_0005
+089	That will be acceptable.
+090	I shall use my soul as fuel. The power I draw shall cut deeper still!	VO_uroboros-c.uroboros-c_sys_0029
+091	Your transgressions shall not be overlooked.
+092	Oh? And just what did you have in mind, exactly?
+093	Is it not obvious? I will return in kind all that you are owed!	VO_uroboros-c.uroboros-c_battle_0016
+094	Has she gotten more powerful?!	VO_waginao-b.waginao-b_sys_0006
+095	She's held back all this time, but it looks like she's finally pulling out all the stops. If you're not careful, she may even be able to take you out with one shot.
+096	You say that so casually!	VO_waginao-b.waginao-b_battle_0019
+097	(But he's not wrong. Even with my pledge, I'll only be able to hold out for so long...)
+098	Nimul... Please, hurry!

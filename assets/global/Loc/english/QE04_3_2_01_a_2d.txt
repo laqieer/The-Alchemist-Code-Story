@@ -1,0 +1,32 @@
+﻿001	......
+002	...Tina, are you okay?	VO_moca.moca_sys_0001
+003	Yes...I've been thinking all this time...about the meaning of Tehre's words...	VO_tina.tina_sys_0016
+004	Do you mean what he said about Asena's death serving the future of Saga?	VO_moca.moca_sys_0031
+005	Is Beelzebub truly in Asena's possession?	VO_tina.tina_chara_1005
+006	It is. In its current state, Asena's power is what is suppressing Beelzebub's force.	VO_hoo.hoo_sys_0004
+007	But then...if Asena dies, isn't it more likely that Beelzebub's power would go on a rampage throughout the land?	VO_lizbeth.lizbeth_sys_0031
+008	It's true that we still lack power...!
+009	That being said, if we work together, I'm sure we can accomplish this task. But...
+010	I know. What is Tehre thinking...?	VO_tina.tina_sys_0016
+011	Even if we rack our brains over it, I doubt we'll find the answer. We must overcome this trial at all costs...	VO_moca.moca_sys_0031
+012	Let's make our way to Asena!	VO_tina.tina_battle_1015
+013	How can the future you want...be that of Asena's death, Tehre?	VO_tina.tina_sys_1050
+014	You wouldn't understand...not with the knowledge you currently possess. Here is my one condition I propose to you.	VO_terre.terre_sys_0030
+015	If you wish for me to attend the Sprite Trio Discourse, you two Wind Shamans must go to Asena...and obtain a token.
+016	A token...?	VO_tina.tina_sys_0025
+017	Why just the two of us? So much is unclear...	VO_moca.moca_sys_0002
+018	If you wish to refuse my proposal then so be it. I will not attend the Sprite Trio Discourse.	VO_terre.terre_sys_0010
+019	We did not refuse your request, rather we wish to know the reason behind it.	VO_tina.tina_chara_1002
+020	Which you will learn when you accomplish it...and the reason why I believe Asena must die.	VO_terre.terre_sys_0022
+021	A token...?! You wish for these two to complete the trial? Is this all a game to you?!	VO_hoo.hoo_sys_0025
+022	I dislike games. You are unaware of Asena's current state; that is why you can voice such protests.	VO_terre.terre_sys_0010
+023	You know nothing. You continue living in past memories of this land. How can you not realize this?	VO_terre.terre_sys_0029
+024	...Enough, you brat!	VO_hoo.hoo_sys_0012
+025	Please, wait! Tina and I will head to Asena and retrieve this token.	VO_moca.moca_battle_0019
+026	If that will ensure your attendance at the Sprite Trio Discourse, then we will go.
+027	However, what is this trial that you are referring to, Fuu?	VO_moca.moca_sys_0002
+028	It is the trial one must undergo to become a Sprite. Only those who overcome it are gifted with a token from Asena.	VO_hoo.hoo_sys_0016
+029	What awaits one who fails to complete this trial...is death.	VO_hoo.hoo_battle_0019
+030	?!
+031	Only one who manages to defeat one's own darkness can obtain a token.	VO_terre.terre_sys_0004
+032	Are you prepared to do this? If so, show me with your actions. Show me that you truly wish to save the future of Saga!	VO_terre.terre_sys_0010

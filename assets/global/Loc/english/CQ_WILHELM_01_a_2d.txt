@@ -1,0 +1,59 @@
+﻿001	Hey, why did you become a Paladin?
+002	Because I wanted to save the world, of course. I assume everyone here has the same wish. You feel the same, right?	VO_knightm.knightm_sys_0007
+003	Yeah. I also love being in this gathering of goody two-shoes so much I can't stop smiling.	VO_wilhelm.wilhelm_sys_0037
+004	What's that supposed to mean?	VO_knightm.knightm_sys_0031
+005	I'm complimenting you. Just accept it.	VO_wilhelm.wilhelm_sys_0006
+006	Believing in an ideal and sticking with it is a gift.	VO_wilhelm.wilhelm_sys_0007
+007	Huh?
+008	(I'm jealous that they wholeheartedly think they wanna save people.)	VO_wilhelm.wilhelm_sys_0031
+009	(Everyone here says the same thing. Their eyes are shining with it.)
+010	Well, I guess these are the kind of things newbie Paladins talk about.	VO_wilhelm.wilhelm_sys_0010
+011	Is that guy's hair pink? We've got some flashy haired people around here...
+012	Oh, that's Magnus. He's amazing. I heard they poached him from the Wratharis army.	VO_knightm.knightm_sys_0004
+013	I'm sure he gave up his position in the army in order to become a Paladin and protect the world, too.	VO_knightm.knightm_sys_0044
+014	Huh. ...Huh?	VO_wilhelm.wilhelm_sys_0044
+015	He just...yawned.	VO_wilhelm.wilhelm_sys_0025
+016	You're so impressive! You used to be in the Wratharis army, right? I heard you were headhunted directly!	VO_knightm.knightm_sys_0007
+017	It's not that impressive.	VO_magnus.magnus_sys_0010
+018	No, I think it's interesting, too.	VO_wilhelm.wilhelm_sys_0002
+019	What's with you? You came out of nowhere. It really isn't interesting.	VO_magnus.magnus_sys_0005
+020	No, there's something interesting about it, all right. You going out of your way to join Holy Order is really something.	VO_wilhelm.wilhelm_sys_0001
+021	You should make more fuss about that. You should be bragging that you're a Alchemy genius.	VO_wilhelm.wilhelm_sys_0007
+022	...
+023	Although, I guess being a genius isn't rare here, what with the Holy Guard drawing in geniuses from all over the world.	VO_wilhelm.wilhelm_sys_0030
+024	You'd get a better salary ascending the ranks in the army, though, right? So why'd you join the Holy Guard?
+025	...
+026	Come ooon, tell me.	VO_wilhelm.wilhelm_sys_0002
+027	What's with you? Are you trying to start a fight?	VO_magnus.magnus_sys_0012
+028	No way. I'm just having fun. I like talking to people.	VO_wilhelm.wilhelm_sys_0007
+029	Come on, you can relax around me. You have to have fun in the present; no one knows what the future might hold.
+030	I promise that talking to me won't be as boring as talking to the goody-goodies, at least.	VO_wilhelm.wilhelm_sys_0008
+031	!	VO_magnus.magnus_sys_0026
+032	You're kind of a pain, aren't you?	VO_magnus.magnus_sys_0001
+033	People tell me that all the time.	VO_wilhelm.wilhelm_sys_0037
+034	...
+035	Fine. Let's make a bet, then.	VO_magnus.magnus_sys_0007
+036	If you draw this ace of hearts, I'll be buddy buddy with you. Simple, right?
+037	Gambling, huh?	VO_wilhelm.wilhelm_sys_0031
+038	You're not good at gambling?	VO_magnus.magnus_sys_0005
+039	It's not that; I just don't like it.	VO_wilhelm.wilhelm_sys_0039
+040	...
+041	But I kind of like that you've got the guts to cheat so brazenly.	VO_wilhelm.wilhelm_sys_0010
+042	Well well well, I'm surprised.	VO_magnus.magnus_sys_0046
+043	You're the first to see through my sleight of hand. Didn't think you'd stay sharp-eyed even over something so inconsequential.
+044	Hahaha! I like you! You're really not a boring goody two-shoes, just like I thought.	VO_wilhelm.wilhelm_sys_0008
+045	Seems like things are going to get a little more interesting around here.
+046	Oi, you over there! What are you flapping your gums over?!
+047	Oh crap!	VO_magnus.magnus_sys_0026
+048	Lounging around right before the first day of training...	VO_monzein.monzein_sys_0018
+049	I came here to be your instructor and I won't tolerate such behavior.
+050	Oi, you two! Come talk to me after training!
+051	Damn, he's going to be keeping an eye on us from now. I meant to lay low in the beginning.	VO_magnus.magnus_sys_0016
+052	My condolences.	VO_wilhelm.wilhelm_sys_0007
+053	He's going to be watching you, too, you know?	VO_magnus.magnus_sys_0012
+054	But this makes things more interesting, no?	VO_wilhelm.wilhelm_sys_0002
+055	You're a troublemaker, I see.	VO_magnus.magnus_sys_0030
+056	People tell me that all the time, too.	VO_wilhelm.wilhelm_sys_0037
+057	Shall we stir up some trouble, then?
+058	Hey now...	VO_magnus.magnus_chara_1010
+059	I'm just joking. Let's work up a sweat, shall we?	VO_wilhelm.wilhelm_sys_0010

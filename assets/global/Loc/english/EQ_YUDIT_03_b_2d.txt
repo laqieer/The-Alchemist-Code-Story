@@ -1,0 +1,48 @@
+﻿001	Bud! Now!
+002	Leave it to me! Huzzah!	VO_budd.budd_sys_0038
+003	I've gotta admit, I'm impressed. You three can go head-to-head with the Taurus even without Mecha Weapons!	VO_judith.judith_sys_0046
+004	You know what they say: three heads are better than one! Besides, the way we work together, even a titan like the Taurus is no match for us! Right, Bud?	VO_victor.victor_sys_0007
+005	...
+006	(I hate to admit it, but he's got a point. I fight much better when we're working together than when I charge in on my own.)	VO_budd.budd_sys_0011
+007	Bud? Bud! Come on, back me up here!	VO_victor.victor_sys_0006
+008	Wh-what?! Never mind that—we've got bigger things to deal with right now!
+009	Good point! Time to show this Giant Taurus who's boss!	VO_victor.victor_sys_0005
+010	Keep your head on straight, little frog. Don't get cocky.	VO_basini.basini_sys_0030
+048	...
+049	Bud?
+011	Oh, uh... Yeah, Victor! Cool it!
+012	You're siding with him now?! Great... Now we're bickering like an old married couple.	VO_victor.victor_sys_0025
+013	Seriously, what's up with you guys?	VO_judith.judith_sys_0030
+050	We've been through a lot. This is actually pretty tame for us.
+051	Oh... Well, then.
+014	Uh... Basheeny? Why're you staring at me like that?
+015	Your Mecha Weapon... It's different.	VO_basini.basini_sys_0001
+016	Oh! Yeah. I upgraded it a bit.
+017	Is that...bad?
+018	Why would it be?	VO_basini.basini_sys_0006
+019	I mean...it's a powerful weapon.	VO_judith.judith_sys_0025
+020	Considering everything you've told me... Maybe you don't approve of making something so powerful even more potent.
+021	And...while I was traveling the world, I met someone who was pretty convinced that the Mecha Weapon is a dangerous weapon. So...y'know.	VO_judith.judith_sys_0018
+022	It is powerful, certainly—but with you in charge of it, I must confess I'm not all that worried. You've made it clear that the Mecha Weapon's purpose is to protect the people of this world, not cause them harm.	VO_basini.basini_sys_0003
+023	(And I think we're going to need it in the battles to come. The more powerful it is, the better.)
+024	O-oh...
+025	Well, good! I'm glad you think so!	VO_judith.judith_sys_0006
+029	I'm actually thinking of calling this a mech gear! I won't bore you with all the technical details, but by attaching this extra doohickey here, I've managed to up the firepower a ton!	VO_judith.judith_sys_0023
+030	This baby's capable of piercing straight through a Giant Taurus's core—bam! And it can fly super high! And it lets me zoom around like never before!	VO_judith.judith_battle_0010
+031	Sure, not many people believe in the Mecha Weapon now... But it can do a lot of good, I just know it!
+032	That's why I came here—I need to use this mech gear to take down the Giant Taurus. If I can do that, people will finally see that the Mecha Weapon is a useful invention!
+033	I see.
+034	However, regardless of how strong that mech gear is, you can't rely on it to win this fight for you. Remember: the Giant Taurus wiped out the entire specialized combat force. They should not be taken lightly. We need to work together to—
+035	Don't worry! I've got this—really! I'm going to use this mech gear to take down the Giant Taurus and keep everyone safe!	VO_judith.judith_sys_0004
+036	Judith...
+037	(I'm going to protect everyone! Then they'll finally see that the Mecha Weapon isn't some cursed weapon...)	VO_judith.judith_sys_0018
+038	(And that this new-and-improved version is just as useful!)
+039	Anyway! Let's get going, shall we? No point dillydallying around here! We know what we've gotta do. Right? Come on!	VO_judith.judith_sys_0001
+040	Hey! Judith! There's no need to run! We're not in a—
+041	Yeah! Hear us out before you go charging off! There's no rush!	VO_victor.victor_sys_0016
+042	Wait...
+043	Is that what I'm like? Then...	VO_budd.budd_sys_0021
+044	B-Bud? You okay? Why'd you go all quiet?
+045	Yeah, I'm fine... I just realized something.
+046	You're trying to do everything by yourself, aren't you?	VO_budd.budd_sys_0001
+047	Huh?	VO_judith.judith_sys_0004

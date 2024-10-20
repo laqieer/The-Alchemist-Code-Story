@@ -1,0 +1,168 @@
+﻿001	Eek keke!	VO_albarmin.albarmin_battle_0020
+002	Whew!
+003	Sorry about that! Thanks for the help.	VO_mela.mela_sys_0036
+004	It was no trouble, but...
+005	All right, our destination is straight ahead! Better hurry, you wouldn't wanna be late!	VO_mela.mela_sys_0008
+006	...
+007	I'm home!
+008	Welcome back, Mira.
+009	Oh! You guys are back already? That was fast!	VO_mela.mela_sys_0006
+010	Um, uh, yeah...	VO_nix.nix_sys_0004
+011	...
+012	Jeez...	VO_adlai.adlai_sys_0030
+013	What is going on with you two?	VO_nimuru.nimuru_sys_0006
+014	I am not entirely certain, as I did not join them until later, but it seems that the hearth's fire was out.	VO_waginao-c.waginao-c_sys_0004
+015	The hearth's...? You mean the fire of the blacksmith's forge in this town?	VO_nimuru.nimuru_sys_0002
+016	Ahhh, well...Agape doesn't actually have a blacksmith.	VO_nix.nix_sys_0011
+017	Agape also doesn't have any specialist craftsmen or carpenters.
+018	How can this town function without them?	VO_nimuru.nimuru_sys_0002
+019	I told you! We use magic in our daily lives, so we can make do without such things in our region!	VO_mela.mela_sys_0030
+020	That means there's no demand for craftsmen, so there was no real need for them to have successors, and the whole industry just kinda died out.
+021	At the moment, it's Ambrosia's magic that's keeping everything held together.	VO_nix.nix_sys_0005
+022	Dunno how long she can keep it up, but...
+023	Concerned for your dear teacher, are you? If you really cared, you would complete your magical studies and take over some of my duties to ease my burden.	VO_ambrosia.ambrosia_sys_0001
+024	Ambrosia! We've returned!	VO_mela.mela_sys_0038
+025	Tsk... If only your enthusiasm for mischief extended to your studies.	VO_ambrosia.ambrosia_sys_0030
+026	Don't worry, Ambrosia! I've also got tons of enthusiasm for food! Yum, yum!	VO_mela.mela_sys_0008
+027	Mira, you know that's not going to impress her.	VO_nix.nix_sys_0030
+028	It's disheartening how little you've changed over the years, Mira. Take care that you don't eat your way out of fitting into your wardrobe.	VO_ambrosia.ambrosia_sys_0007
+029	Aw, but Ambrosia! It's not my fault that your cooking is so delicious!	VO_mela.mela_sys_0010
+030	Which means it would be your fault if I had to buy new clothing! Hah!
+031	Nonsense! Honestly... When did you become so cheeky?	VO_ambrosia.ambrosia_sys_0012
+032	Don't worry, Ambrosia! I'm pretty sure she was born that way. Nothing to do with you or me.	VO_nix.nix_sys_0039
+033	Well, isn't that a relief! At least you've turned out well, my dear Nyx.	VO_ambrosia.ambrosia_sys_0044
+034	Hey! You're playing favorites! That's totally unfair! Nyx, you're always taking Ambrosia's side, you traitor!	VO_mela.mela_sys_0013
+035	Well, duh. You're the only one who's ever making trouble!	VO_nix.nix_sys_0030
+036	Ambrosia! Did you hear that? Nyx is bullying me!	VO_mela.mela_sys_0019
+037	Oh, my. That's so disappointing to hear, Nyx. Tsk, tsk.
+038	What? That's petty, Mira! Those crocodile tears are manipulative! Ambrosia, don't be fooled by them!	VO_nix.nix_sys_0016
+039	Ahem. Well then. Anyone hungry?	VO_ambrosia.ambrosia_sys_0003
+040	Now that you mention it, I'm starving! We haven't eaten a thing since we ended up in this Belt Region!	VO_adlai.adlai_sys_0011
+041	What?! Well, we can't have that. It's been a while since we had any visitors. What a perfect opportunity for a feast! Are you ready to eat a lot?	VO_ambrosia.ambrosia_sys_0008
+042	This is...	VO_nimuru.nimuru_sys_0027
+043	Oh, my goodness. This is too much! Thank you, um...	VO_emmer.emmer_sys_0024
+044	Address me however you like. To be frank, I'm old enough to be your grandmother several times over, so perhaps...	VO_ambrosia.ambrosia_sys_0004
+045	Oh, I see. Thank you so much, um...ahem, Miss Ambrosia.	VO_emmer.emmer_sys_0033
+046	Oh... I had hoped you might call me grandmother.	VO_ambrosia.ambrosia_sys_0025
+047	Come on, Ambrosia. I wouldn't call you that.	VO_mela.mela_sys_0030
+048	I mean, you basically look the same age as us.	VO_nix.nix_sys_0005
+049	At least she called you Miss Ambrosia. So polite! She didn't need to do that!	VO_mela.mela_sys_0007
+050	What are you talking about? I'm over five hundred years old, you know!	VO_ambrosia.ambrosia_sys_0001
+051	I mean...you don't act like it.	VO_nix.nix_sys_0030
+052	Um, Grandmother? Sorry to interrupt, but I'm so hungry I think I might die, so...	VO_adlai.adlai_sys_0002
+053	Oh, my! Well, we can't have that. Go ahead, dig in! I've never had any complaints about my food.	VO_ambrosia.ambrosia_sys_0006
+054	All right! Thank—	VO_adlai.adlai_sys_0009
+055	Urk... Bit my tongue.	VO_adlai.adlai_sys_0042
+056	That's what happens when you rush to stuff your face like that.	VO_waginao-c.waginao-c_sys_0030
+057	Lay off. What are you, my mother?	VO_adlai.adlai_sys_0016
+058	Wow... That was amazing! All that food, mmm...	VO_adlai.adlai_sys_0008
+059	Thank you very much for your wonderful hospitality, Miss Ambrosia.	VO_nimuru.nimuru_sys_0033
+060	No need to thank me! I merely did what I saw fit.	VO_ambrosia.ambrosia_sys_0010
+061	Now, I must admit I'm curious... What do you think of our region?
+062	...
+063	Uh oh...
+064	What do...we think?	VO_emmer.emmer_sys_0025
+065	Yes. If I understand correctly, you were all given the grand tour?	VO_ambrosia.ambrosia_sys_0006
+066	Oh, yes.	VO_nimuru.nimuru_sys_0005
+067	It's a lovely place. Despite the ever-present threat of the Cursed Beast, the residents are all very kind and friendly.
+068	I appreciated how open they were to sharing their customs with us, despite the fact we...don't know anything about them.	VO_nimuru.nimuru_sys_0004
+069	Perhaps a little bit...too open.
+070	Hmm... So that is how you see it.	VO_ambrosia.ambrosia_sys_0022
+071	What do you mean?	VO_nimuru.nimuru_sys_0006
+072	Oh, I was only thinking out loud.
+073	These lands... They were once brimming with life. Flowers and natural beauty abounded.	VO_ambrosia.ambrosia_sys_0004
+074	Winter would come, but so would spring.
+075	Back then, basking in the riches with which nature provided us, we took time to learn and grow wise, to refine our magics.
+076	And then...Asmodeus came, and everything changed.	VO_ambrosia.ambrosia_sys_0021
+077	Blizzards levelled our forests, our lakes froze over in the cold, and our sun was hidden by masses of storm clouds.
+078	At the time...I was naught but a little girl. I hadn't the power to save anyone.
+079	There was nothing I could do against this calamity that threatened our survival.	VO_ambrosia.ambrosia_sys_0027
+080	Wait... You're saying...?!	VO_nimuru.nimuru_sys_0025
+081	You witnessed the emergence of the Cursed Beasts? The time that not even our oldest myths can tell us of?
+082	Witnessed? Yes, perhaps...but I know nothing of how they came to be. I was merely present in that time.	VO_ambrosia.ambrosia_sys_0031
+083	If you are looking for answers, I am not the right person to turn to.
+084	What are the Cursed Beasts? Why do they torment us like this? Where do they come from?
+085	I know not. All I know is that they are our enemy.	VO_ambrosia.ambrosia_sys_0039
+086	Pardon me, I didn't mean to speak at such length. The older I get, the more common this becomes...
+087	So. What do you plan to do?	VO_ambrosia.ambrosia_sys_0001
+088	Plan...?	VO_nimuru.nimuru_sys_0006
+089	You must understand by now, surely.	VO_ambrosia.ambrosia_sys_0010
+090	Your only hope of leaving this place, your ship, lies broken in Asmodeus' territory.
+091	While most would give it up for good, perhaps find some way to move on and build a new life here...	VO_ambrosia.ambrosia_sys_0031
+092	I suspect that that is not an option for you.
+093	First, we will reclaim our ship.	VO_nimuru.nimuru_sys_0004
+094	How?
+095	...
+096	...
+097	...
+098	...
+099	If we must, we will defeat the Cursed Beast.	VO_nimuru.nimuru_sys_0005
+100	Hm...?
+101	Aha...hahaha...hahahahahaha!	VO_ambrosia.ambrosia_sys_0008
+102	Defeat...the Cursed Beast? Hah! With what strength? How incredible that you would even say such a thing after being so thoroughly defeated by Asmodeus!
+103	You must understand how incredibly outmatched you all are.
+104	Yes...we understand.	VO_nimuru.nimuru_sys_0004
+105	(I cannot deny what she says, as frustrating as it is to hear.)
+106	(We do have the ability to use our pure magil to counter the corrupting influence of the Cursed Beasts, but...)
+107	(It didn't affect Asmodeus at all.)
+108	(There is still much we do not know about the Cursed Beasts. Knowledge we need in order to overcome them.)
+109	Tell me... How do you plan to defeat the Cursed Beast?	VO_ambrosia.ambrosia_sys_0001
+110	Of that I am not yet certain. However, I urgently feel that now is the time to do so.	VO_nimuru.nimuru_sys_0005
+111	Oh?	VO_ambrosia.ambrosia_sys_0005
+112	I was hoping that the great Abstinent Witch and her apprentices might be generous enough to lend us a hand.	VO_nimuru.nimuru_sys_0035
+113	When you saved us from the Cursed Beast, your magic injured it.
+114	Despite that, from what I can tell, the magil you were using was not even as powerful as our Matter.
+115	In other words, I believe that some kind of unique factor is required to defeat the Cursed Beast.	VO_nimuru.nimuru_sys_0005
+116	...
+117	Miss... You know something about the Cursed Beasts that you're not telling us, don't you?	VO_nimuru.nimuru_sys_0002
+118	Do I? Even if that were true, I have no obligation to tell you.	VO_ambrosia.ambrosia_sys_0045
+119	Why would you keep it a secret? Do you not trust us?	VO_nimuru.nimuru_sys_0006
+120	An interesting assumption in light of everything up till now. Not that it matters. There is no point in asking me about this.	VO_ambrosia.ambrosia_sys_0010
+121	Especially not after you said all those lovely things about our little mockery of a town here.
+122	Mira, Nyx.
+123	Yeah?	VO_mela.mela_sys_0038
+124	What is it, Ambrosia?	VO_nix.nix_sys_0003
+125	Please prepare rooms for our guests. I suspect that their stay in this town will not be an altogether pleasant one.	VO_ambrosia.ambrosia_sys_0003
+126	Yes, Ambrosia.
+127	I will allow you to run in your circles, my impatient friends. Perhaps if you try your very best, you will indeed accomplish what you aim to do.	VO_ambrosia.ambrosia_sys_0007
+128	...
+129	What...just happened?	VO_adlai.adlai_sys_0001
+130	She knows how to defeat the Cursed Beasts. She just doesn't want to tell us.	VO_kuienai.kuienai_sys_0031
+131	Huh? For real?! What's with that?! Just tell us what we need to know!	VO_adlai.adlai_sys_0025
+132	Adaleigh, use your head for a moment. Of course it's more convenient for us if she tells us, but she has no real reason to do so.	VO_kuienai.kuienai_sys_0004
+133	What do you mean, no reason?! Doesn't she want to take that Cursed Beast down? What better reason could there be?!	VO_adlai.adlai_sys_0016
+134	Consider this. If she does knows how to defeat the Cursed Beast, why has she herself not attempted to do so before now?	VO_kuienai.kuienai_sys_0001
+135	I guess...either it requires too big of a sacrifice, or...there's no guarantee that it would even work?
+136	Precisely. In fact, both reasons are likely. If the stakes are too high and success is uncertain...	VO_kuienai.kuienai_sys_0005
+137	It is reasonable to assume that one might not make the attempt at all.
+138	Hmmm...	VO_adlai.adlai_sys_0016
+139	I must say...I did not expect that.	VO_waginao-c.waginao-c_sys_0028
+140	What are you referring to?	VO_nimuru.nimuru_sys_0006
+141	I never thought I would see you of all people bow your head to another like that.	VO_waginao-c.waginao-c_sys_0004
+142	Even if it was for the sake of defeating the Cursed Beast, I am still surprised that you would beg anyone for help as you did that witch.
+143	After what happened back in Gula...I realized I had committed a grave error.	VO_nimuru.nimuru_sys_0018
+144	Oh?	VO_waginao-c.waginao-c_sys_0006
+145	Back then, I was utterly consumed with the idea of creating my new technique, and when I got my hands on that Matter...	VO_nimuru.nimuru_sys_0004
+146	It was like I lost my mind. I became arrogant, convinced that I alone could save the world.
+147	And then what happened? I saved no one. I was unable to protect anything that mattered to me, and I lost...everything.	VO_nimuru.nimuru_sys_0018
+148	Once I thought that I had the answer to everything. Now...
+149	Now I see that I should have been more cautious, more humble...more willing to listen and to rely on the help of others.	VO_nimuru.nimuru_sys_0030
+150	No matter how much power a single human holds, that one person cannot do everything alone.
+151	I should have known that. No...I did know that. And yet, I...I...!
+152	Nimul...
+153	I will never make that same mistake again. To the end, I will do anything, even if it means I have to kneel before another, tears streaming down my face, begging them for aid.	VO_nimuru.nimuru_sys_0004
+154	I will do whatever it takes to protect that which I hold dear.
+155	...
+156	Well.
+157	The Sephira, people of wisdom and compassion who have been blessed by the great tree.	VO_ambrosia.ambrosia_sys_0004
+158	I would test their resolve, but...
+159	Hmmm...what is the best way to go about this, I wonder?	VO_ambrosia.ambrosia_sys_0031
+160	Grooooooooooaagh!	VO_asmodeus.asmodeus_battle_0019
+161	This frosted world of white, in which everything lies frigid and corrupt...	VO_mela_dark.mela_dark_sys_0008
+162	Feels like it's been a while since I laid eyes on such a place.
+163	Really? I feel like we never left.	VO_nix_dark.nix_dark_sys_0006
+164	Truly?	VO_mela_dark.mela_dark_sys_0007
+165	Truly.	VO_nix_dark.nix_dark_sys_0004
+166	Well, then...shall we begin?	VO_mela_dark.mela_dark_sys_0004
+167	Yes. This is the purpose for which we were born. Ahh, but...	VO_nix_dark.nix_dark_sys_0005
+168	Hmph. This really is a hassle.

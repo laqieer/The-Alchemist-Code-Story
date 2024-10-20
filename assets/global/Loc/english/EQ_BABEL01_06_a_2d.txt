@@ -1,0 +1,66 @@
+﻿001	Ughh...I think I'm at the end of my rope. My eyesight is beginning to grow hazy.	VO_victor.victor_sys_0018
+002	Is my chivalrous knighthood going to end here?! You gotta be kidding me!!!	VO_victor.victor_sys_0021
+003	Tsk. My name is Victor! I belong to Envylia's Scarlet Flame Guard... I'm a knight of justice!	VO_victor.victor_battle_1028
+004	When someone is fueled with a strong and passionate emotion, that's the first time they can stand on their own two feet as a person.
+005	Victor...?! What are you doing? Why are you here?!	VO_chloe.chloe_sys_0025
+006	I was worried about you, Commander Chloe, so I asked Captain Vettel to allow me to come here and help you! This is my memorable first mission!	VO_victor.victor_battle_0001
+007	Enough! Sorry, Kanon... We'll be fine here.	VO_chloe.chloe_sys_0030
+008	Injured?! Are you okay, Commander Chloe?! Why...? Why did you befriend Spica when she's the enemy?!	VO_victor.victor_sys_0025
+009	She's not the enemy anymore. Thanks to her help, we were able to prevent this volcano from erupting.
+010	Tsk! You're pretty reckless for a new kid, huh? I can't believe you came all the way back on your own...	VO_chloe.chloe_sys_0030
+011	Um... I'm fine here, so...if you need to, go ahead.	VO_spica.spica_sys_0003
+012	What?! No way! Look at you! You're practically falling apart!	VO_chloe.chloe_sys_0042
+013	This is nothing. More importantly, he seems to be more likely to die and I think you don't want that to happen.	VO_spica.spica_sys_0039
+014	...Thank you, Spica. The rest of you, please escort this woman in my stead! I'll take care of Victor.	VO_chloe.chloe_sys_0008
+015	Understood, Commander Chloe!
+016	Spica, we will meet again one day. That's a promise!	VO_chloe.chloe_sys_0002
+017	Understood!	VO_spica.spica_sys_0007
+018	I knew I was right! You're here to assassinate Lord Commander Kanon!	VO_victor.victor_sys_0010
+019	When you're with someone long enough, you learn to accept each other. That's what normal people do. Idiot.	VO_victor.victor_battle_0001
+020	I'm telling you, that passionate feeling you have now is what lies in the center of being human! Come on, let's go!	VO_victor.victor_battle_0015
+021	Are you alright? We're close the border. We'll be there soon.	VO_chloe.chloe_sys_0030
+022	You should worry more about your own injuries, Commander Chloe! Are you okay?!	VO_victor.victor_chara_1002
+023	This isn't the time for that.
+024	I could say the same to you. Something big is happening in the world... Even I can see that.	VO_victor.victor_battle_0019
+025	Yes... We must inform Captain Vettel at once! What—?
+026	This is terrible timing. Victor...can you do this?	VO_chloe.chloe_battle_0022
+027	Honestly, I'm kinda in a lot of pain...but I'm not about to die here! Nngh...	VO_victor.victor_sys_0018
+028	Urgaahhh!!!
+029	No! I won't make it!	VO_chloe.chloe_battle_0026
+030	Gotcha!	VO_neena.neena_battle_0011
+031	Are the two of you all right?	VO_neena.neena_sys_0001
+032	Whew... Yes, thank you, but what were you doing here?	VO_chloe.chloe_sys_0025
+033	This is part of my daily training routine. After a thousand swings of my sword, I patrol the area around my village.	VO_neena.neena_chara_1002
+034	A thousand swings? That sounds familiar... Did someone teach that to you?	VO_chloe.chloe_battle_0022
+035	Yes! But I don't have anyone to practice against, so I've been battling goblins instead.	VO_neena.neena_sys_0008
+036	How did you know? I learned this from someone in the Scarlet Flame Guard.	VO_neena.neena_sys_0004
+037	Uh... We're knights of the Scarlet Flame Guard.	VO_victor.victor_sys_0025
+038	What? Really? Oh! Um... Please, help me join the Scarlet Flame Guard!	VO_neena.neena_sys_0025
+039	Why?	VO_chloe.chloe_sys_0031
+040	I was saved by those of the Scarlet Flame Guard, not once, but twice, and yet...I haven't been able to pay them back properly.	VO_neena.neena_sys_0001
+041	Back then, I was weak and unable to help in any way. After being saved by the Scarlet Flame Guard, I was inspired to do something to change that.	VO_neena.neena_sys_0027
+042	I have finally succeeded! There's someone in the Scarlet Flame Guard that I want to show!
+043	I have trained every day, ever since! Not resting even once... So, please, take me with you!	VO_neena.neena_sys_0041
+044	You... Your passion is incredible! I definitely sense your strong will!	VO_victor.victor_sys_0009
+045	It's not just strong, it's made of iron!	VO_neena.neena_sys_0012
+046	Aha! You've definitely come in contact with Vice-Captain Gerald! Come on, Chloe, let's take her with us!	VO_victor.victor_sys_0044
+047	Wait a second, Victor. Um...	VO_chloe.chloe_sys_0042
+048	My name is Nina!	VO_neena.neena_battle_1028
+049	Right, Nina... Um, so...Nina, I fully recognize and appreciate your passion, but unfortunately we really can't help you.	VO_chloe.chloe_sys_0002
+050	Commander Chloe?!	VO_victor.victor_sys_0025
+051	But...why?	VO_neena.neena_sys_0021
+052	The battlefield is an unforgiving place. You can't imagine what it's really like. If you fail, your friends and comrades could be injured.	VO_chloe.chloe_battle_0019
+053	They could even die. You're still young. I'm sure you have no desire to die a fruitless death on some nameless battlefield.
+054	Th-that's not...!	VO_neena.neena_sys_0012
+055	Nina, listen. I once had someone I greatly respected, and that person... They died. Because of me.
+056	I blamed myself for it. I suffered, unable to forgive myself. Now, I am able to use my sword to help people because I've come to believe that is what he would want me to do.
+057	I do it to carry his legacy. That's why I do what I do. It's my reason for living. That I am able to live this life is a result of me coming to terms with that reality.
+058	I don't want to put that burden on you. I don't want you to ever have to carry that burden. That's why I cannot take you with us.
+059	Commander Chloe...
+060	What?! More goblins?! So...many...	VO_chloe.chloe_battle_0022
+061	Urk! There's nothing for it, I guess...	VO_victor.victor_battle_0019
+062	Don't worry. Let me take care of this!	VO_neena.neena_battle_0019
+063	By yourself?! That's impossible! Fall back!	VO_chloe.chloe_sys_0042
+064	I have trained all this time to join the Scarlet Flame Guard, because I wanted to become someone who could protect others!	VO_neena.neena_battle_0019
+065	I didn't choose this path lightly! This is my purpose in life! This is what I want!
+066	I will show you how strong my conviction is!	VO_neena.neena_battle_0030

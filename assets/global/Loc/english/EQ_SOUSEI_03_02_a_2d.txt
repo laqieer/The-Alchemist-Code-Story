@@ -1,0 +1,147 @@
+﻿001	Ugh... Why...
+002	What's wrong, Adaleigh?
+003	I-Icona?
+004	Yep! It's your big sis! Did the others bully you again?
+005	Th-they...
+006	I'm not a genius or anything. I try my best, I study and work hard...but they...
+007	They all say I'm just lucky to be born, that it doesn't count if I'm just smart...
+008	Well, that's just rude of them! You know, crying like this only makes it worse, right?
+009	What?
+010	You're only going to encourage them if you let them get to you! When they come at you with the same line again, you smile and tell them this:
+011	If only you were smarter than me, then maybe you'd have something more interesting to say!
+012	Huh?
+013	Wake up, Adaleigh.	VO_waginao-c.waginao-c_sys_0010
+014	Huh...? I'm...
+015	Thanks! I got some excellent data!
+016	But, Adaleigh, your performance was disappointing... That was a seriously poor showing!
+017	You were in charge of designing the default settings for the Engineer Soldiers. You couldn't predict its moves well enough to dodge that attack?
+018	Just talking nonsense, like always.	VO_adlai.adlai_sys_0011
+019	Aside from that, this was truly a revelation.
+020	So this is Spiritbonding of the Sephira... It's quite interesting! Especially you, Emmy!
+021	M-me?	VO_emmer.emmer_sys_0025
+022	Yep! Nimmy's pretty interesting too, but you're out of this world! I mean, you're the—
+023	Huh?
+024	Ah, never mind. I'll get back to work for now.
+025	Work...?
+026	The Mayor's calling me! I have to look over things in the Clock Tower. Being a such a skilled technician is hard work, y'know?
+027	You guys can help yourself to anything you need here in the lab. Anyway, toodles!
+028	That girl is really....something.
+029	Even then, she's usually much more than...that.	VO_adlai.adlai_sys_0031
+030	That's the norm...?!	VO_mela.mela_sys_0039
+031	Icona stands on the border between genius and crazy. She expects others to understand things in the same way and at the same level that she does, but they usually don't.
+032	She's definitely an "Ambrosia-type."	VO_nix.nix_sys_0045
+033	So anyway, what will we do first, Nimul?	VO_emmer.emmer_sys_0031
+034	Ah... Let's start by having a look around town.	VO_nimuru.nimuru_sys_0031
+035	We still need information about the Cursed Beast and the materials to repair the airship.
+036	That's right...! I'll go ahead and put in the order for the materials!	VO_adlai.adlai_sys_0004
+037	I hope my usual shop is still open.
+038	What?! You can't sell them to me? Why?!	VO_adlai.adlai_sys_0025
+039	I'm sorry, Adaleigh. The material suppliers on the surface have been unreliable lately.
+040	Not to mention the mayor. He's moving forward with some project.
+041	At the moment, they're taking almost all useful materials to be used for that project.
+042	The mayor himself is planning something? But what?
+043	I don't know that much. The Chief Engineer probably knows more than I do. Try asking her.
+044	I didn't expect things to be like this.	VO_adlai.adlai_sys_0030
+045	Icona... She should have at least warned us.
+046	I can't say this has started out well for us.
+047	Ugh... It would be so much better to have an airship of our own if we're going down to the surface.	VO_adlai.adlai_battle_0019
+048	Perhaps I can help with that.
+049	Huh?
+050	I got my hopes up when I heard that an enormous ship just docked.
+051	I'm pleased to see that it was you after all, Adaleigh! How've you been? Good to see you alive, you stubborn guy, you!
+052	Minario! How've you been?	VO_adlai.adlai_sys_0008
+053	Isn't it obvious, bro? Pretty good! How're things with you? Any interesting stories?
+054	Of course! We got so much info that it wouldn't fit in a rep—	VO_adlai.adlai_sys_0004
+055	Ahem... May I?	VO_nimuru.nimuru_sys_0035
+056	Ah, I shouldn't make too much of a ruckus in front of your guests! I'm Minario! You're friends of Adaleigh?
+057	I am Nimul. Adaleigh has helped us on many occasions.	ニムル
+058	Along with my companions, I've been traveling on Adaleigh's airship.
+059	I'm very pleased to meet you! Hmm, glad to see you finally making friends, Adaleigh.
+060	What's that supposed to mean?
+061	I just never expected shy little old you to let such a crowd ride your airship.
+062	That alone tells me you've been having some pretty damn good adventures.
+063	C-cut it out, Minario! What are you talking about? I'm not shy...!	VO_adlai.adlai_sys_0027
+064	You're blushing! Making new friends is always a good thing!
+065	I'm not sure if I can call them friends. More like comrades, maybe, or...?
+066	Comrades? Don't tell me, you lot are also...
+067	You're also trying to defeat the Cursed Beasts, and really change the ways of the world? Haha, this is precious!
+068	Are you not surprised?
+069	I am! It's just that, well. Forget it. Everyone has the right to dream, right?
+070	Hmm...
+071	Oh! Minario, since you're here, I've got a question.	VO_adlai.adlai_sys_0002
+072	Hmm?
+073	You happen to know anything about what the mayor's getting into?
+074	Why would you ask me something like that?
+075	You're his son, aren't you?
+076	What was he called? Uh...
+077	The Honorable Mayor Fedele, you mean?
+078	Yeah, that!
+079	He was so cheerful a moment ago, but now he looks so gloomy...?	VO_emmer.emmer_sys_0006
+080	Looks like he can't stand to even hear that name. Are they mortal enemies or something?
+081	But Adaleigh didn't seem bothered by the name at all.
+082	Are you in the middle of a fight with him right now?
+083	A fight? Ah, I guess you can say that.
+084	To be honest, I haven't seen the man's face in months.
+085	Why's that?
+086	It just seems like we've got fundamentally opposing views. Father has had something against me since I became a Special Detective.
+087	What?! You—	VO_adlai.adlai_sys_0027
+088	Hey, don't give me that look... I'm well aware that engineers hate people in my line of work.
+089	The people of this city don't care about anything but their own affairs and their own research.
+090	Not a single one cares if they're getting in the way of someone else.
+091	But that's why we have to keep a close eye on anyone who might be up to no good.
+092	That makes sense, I guess.	VO_adlai.adlai_sys_0031
+093	Hmm. It must be difficult since there are so many people here.	VO_mela.mela_sys_0044
+094	Right. We should be careful as well.	VO_nix.nix_sys_0005
+095	In any case, I have no idea what Father might be up to. Probably another harebrained scheme.
+096	Whoops, I got a little sidetracked. You were looking to get materials, right?
+097	That's right! I have a list right here. It would help us out a lot if you could somehow—
+098	Don't you worry! I know some people down below that can pull some strings for you!
+099	Mmhm... Yeah, I can get this stuff, no problem. Where should I send it?
+100	Hmm. How about Icona's laboratory?
+101	Right... So you've been hanging around her again?
+102	Yeah? Is there some kind of problem with that?
+103	Never mind. I guess you two are close. It's natural.
+104	All right! That should do it. It'll take some time but everything should be fine!
+105	Thanks, Minario!	VO_adlai.adlai_sys_0033
+106	Don't mention it! We're buddies, so something like this is absolutely no problem!
+107	We're a little busy right now, but let's find a time to grab a bite together soon! My treat!	VO_adlai.adlai_sys_0008
+108	Sure, I'll be around!
+109	Your friend?	VO_mela.mela_sys_0006
+110	Of course! What's with that doubt in your voice? He's my friend, no doubt!	VO_adlai.adlai_sys_0001
+111	No, I'm glad. I was worried that we were your only friends.	VO_nix.nix_sys_0008
+112	Excuse me! I don't think either of you have any room to talk!
+113	We didn't exactly have a lot of options.	VO_nix.nix_sys_0011
+114	We're working on that now!	VO_mela.mela_sys_0007
+115	Still... I don't like the sound of what's going on here.	VO_kuienai.kuienai_sys_0031
+116	The leader of this city, with the most advanced technology at his fingertips, is gathering materials from all across the region in secret for some scheme...
+117	That does sound like something we should be concerned about...	VO_nimuru.nimuru_sys_0045
+118	The Cursed Beast threatens the whole of this region. I had thought to meet with him at some point.
+119	About the Cursed Beasts?
+120	Yes. I learned in the Luxuria Belt Region that to fight the Cursed Beasts, we need the assistance of the people of each region.	VO_nimuru.nimuru_sys_0004
+121	I would like to forge an alliance here as soon as possible, but...
+122	Hmm.
+123	I suppose we will need to make an appointment.	VO_kuienai.kuienai_sys_0005
+124	Yes. Adaleigh, could you show us the way?	VO_nimuru.nimuru_sys_0002
+125	Sure!
+126	Are you really sure this is it, Adaleigh?	VO_nimuru.nimuru_sys_0001
+127	Yeah. This clock tower is the center of Redington.	VO_adlai.adlai_sys_0004
+128	The power that keeps the city in the air is managed here.
+129	It's become tradition for the mayor to hold office in the heart of the clock tower because of that.
+130	Then why aren't there any employees in sight?	VO_kuienai.kuienai_sys_0006
+131	The mayor's infamous for not liking people. They say he prefers to entrust everything, including his security and the cleaning, to robots.
+132	I see. That's quite curious.
+133	That said, it's weird how quiet it is. There should have been some response already. Maybe the system bugged or something.	VO_adlai.adlai_sys_0031
+134	This place is really quite a sight. Not only do the cities here float, but the towers too!
+135	There is an incantation that can make things levitate, but keeping something this big in the sky isn't easy.
+136	Magic doesn't solve everything. Luckily, we have a natural resource in this region that can't be found anywhere else.
+137	By "resource," you mean fuel? I can see how levitating something of this size would consume a lot of magil.
+138	You'll understand when we get there. I was surprised when I saw it in the Luxuria Belt Region, actually.
+139	At our place?	VO_mela.mela_sys_0006
+140	Wait. Something's wrong.
+141	Huh? Oh, that motor sound? It's just the Engineer Soldiers in charge of tower security.
+142	Everything's fine. I helped design this place and I've got my personal ID tags, so there's no way they'd attack—	VO_adlai.adlai_sys_0007
+143	Uh, wait a minute...
+144	Are you sure your ID is good?! Because their weapons are totally locked onto us!	VO_mela.mela_sys_0027
+145	They look to be on a rampage. Is there no way to control it?	VO_kuienai.kuienai_battle_0019
+146	Wh-what? It's no good, the security system's been overwritten!	VO_adlai.adlai_sys_0025
+147	We have no choice but to defend ourselves!

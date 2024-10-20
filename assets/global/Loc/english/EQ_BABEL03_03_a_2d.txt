@@ -1,0 +1,75 @@
+﻿001	We caught one. Finally! That was a lot more difficult than I expected.	VO_balt.balt_sys_0022
+002	P-please! Don't kill me! I'll tell you everything!	VO_thiefm.thiefm_sys_0018
+003	The caravan attacks. Were they your doing, and if so, what were you trying to achieve?	VO_karla.karla_battle_0019
+004	Gluttony Foss... They pay a good price for fresh slaves.	VO_thiefm.thiefm_sys_0027
+005	What?! Why?!	VO_karla.karla_sys_0012
+006	I don't know! They just suddenly started paying bandits like us to kidnap people!	VO_thiefm.thiefm_sys_0047
+007	Bandit scum! Human traffickers are the worst of the worst! You're unforgivable!	VO_karla.karla_sys_0027
+008	Eek! I'm so sorry! I swear I'll never do it again! Please let me go!	VO_thiefm.thiefm_sys_0018
+009	Shut up! It's people like you who are destroying the peace of the desert!	VO_karla.karla_sys_0013
+010	Slavery is not that rare of an occurrence here in the desert. Frankly, it's more surprising that fresh slaves would be worth a high price.	VO_ryle.ryle_sys_0030
+011	Ryle, you can't be serious.	VO_karla.karla_sys_0027
+012	Of course I am. There are even those who find happiness only after being sold into slavery. Life in the desert isn't easy, after all. Not everyone born here is able cope.	VO_ryle.ryle_sys_0004
+013	I've been fighting to change that! Anyone who just stands by is being—dang it! Uh...negligent!	VO_karla.karla_battle_0019
+014	I pray you never find out who is truly guilty of being negligent.	VO_ankh.ankh_sys_0010
+015	Who's there?!	VO_balt.balt_sys_0025
+016	Hmph. How did I not see they would spill the beans so soon? I hoped our operation could stay covert for a little longer, but no matter. You there, girl. I have business with you.	VO_lasiuba.lasiuba_sys_0007
+017	With me? I don't remember promising a date to some old man.	VO_karla.karla_sys_0025
+018	Carla, stay back.	VO_balt.balt_sys_0002
+019	Hmph, you don't even know your own worth, do you? Fool. Then you are nothing more than a tool.	VO_lasiuba.lasiuba_sys_0010
+020	That insignia on your armor is Gluttony's... I see. So you're the one pulling the strings from behind. I take it back, I guess we do have business.	VO_karla.karla_sys_0012
+021	What's the purpose of this human trafficking?! If you plan on disrupting the peace of this desert even further, you'll have to answer to the Sand Hawks!	VO_karla.karla_sys_0002
+022	Ha! You're an energetic one, aren't you? I have nothing to explain to such an ignorant little peon.	VO_lasiuba.lasiuba_sys_0007
+023	You don't need to explain anything. The only demand I have is that you keep your business away from this highway.	VO_ryle.ryle_sys_0007
+024	I don't care for this desert's peace or whatever, but this highway is the Desert Wings' lifeline.	VO_ryle.ryle_sys_0002
+025	If you plan to disrupt our territory any further, we will be forced to take action. It'll be a lot less trouble for all of us if you just withdraw.
+026	Hmph... I have no objections. I have gathered all the slaves I need. I give my word that I will no longer meddle in your affairs.	VO_lasiuba.lasiuba_sys_0007
+027	Glad we could come to an agreement. We're leaving, Ankh.	VO_ryle.ryle_sys_0004
+028	Understood, Master Ryle.	VO_ankh.ankh_sys_0005
+029	Hold it! Are you two just going to leave with the mastermind of all this standing right there?!	VO_karla.karla_battle_0019
+030	What do we gain by doing otherwise? If we do something about this man, another one will just come to take his place.	VO_ankh.ankh_sys_0016
+031	You'll never know unless you try! I know that deep down inside the people of this desert are hoping for a peaceful home!	VO_karla.karla_sys_0029
+032	...!
+033	How is that not incentive enough?! Even if it doesn't benefit you directly, that's something that everyone benefits from equally!
+034	You have no idea what it is that truly needs protection. It would do you some good to figure that out first. Goodbye.	VO_ankh.ankh_sys_0031
+035	Ugh! So high-handed! He just says whatever he wants and leaves?! Gosh darnit, not even a second glance this way!	VO_karla.karla_sys_0030
+036	Did you expect anything more from people like them?	VO_balt.balt_sys_0022
+037	You said you have business with Carla, but there's no way I'm going to let you anywhere near her. Give it up.	VO_balt.balt_sys_0031
+038	Hahahaha! Looks like you actually understand the situation. No matter!	VO_lasiuba.lasiuba_sys_0024
+039	It does not change the fact that you're just another pawn in my plan. Now, step aside!	VO_lasiuba.lasiuba_sys_0032
+040	Balt, be careful! He's not some second-rate soldier!	VO_karla.karla_battle_0019
+041	Yeah, I got that!	VO_balt.balt_sys_0006
+042	I'm not the one you should really be worried about.	VO_lasiuba.lasiuba_sys_0005
+043	...?!
+044	Carla! Are you okay?! Z-Zofia?! What are you doing here?!	VO_balt.balt_battle_0019
+045	Ah! Oh, hahahaha! Not good. Rashba. Zofia feels...not good! Really not good!	VO_zophy.zophy_sys_0021
+046	What's going on?	VO_karla.karla_sys_0027
+047	You just have to listen to what I tell you, Zofia. We're taking her with us, and if she tries to resist...silence her.	VO_lasiuba.lasiuba_sys_0002
+048	Take! Got it! I can take!	VO_zophy.zophy_sys_0004
+049	Zofia, stop! Why are you doing this?!	VO_balt.balt_sys_0015
+050	You're wasting your time. Zofia lacks the mental capacity to answer such questions. She's Gluttony's property. Nothing more than a weapon; a tool.	VO_lasiuba.lasiuba_sys_0010
+051	?!
+052	I took her in after she was discarded for being too powerful to manage. They only ever gave her simple grave keeper tasks, so she never developed the proper cognitive skills beyond those needed to follow orders.	VO_lasiuba.lasiuba_sys_0037
+053	She must somehow know she doesn't mix well with other children of her age. She used to not show any form of emotion.
+054	It was difficult breaking her in enough to obey my commands, but it would have been a waste to let her vast Alchemia reserves go unused.	VO_lasiuba.lasiuba_sys_0008
+055	Yah!	VO_zophy.zophy_battle_0007
+056	How can you force such a young child to fight in your stead?! You coward! Zofia! That's enough!	VO_balt.balt_battle_0019
+057	Young, old, what does it matter? Resources are meant to be used up! Is that not how you desert dwellers live as well?	VO_lasiuba.lasiuba_sys_0010
+058	Don't you dare think we are like you!	VO_balt.balt_sys_0010
+059	You reproach me, yet you refuse to see the obvious. Is this desert itself not testament to how you lot have drained the resources of this land dry?	VO_lasiuba.lasiuba_sys_0013
+060	...!
+061	Be quiet. No resist. Stop.	VO_zophy.zophy_sys_0014
+062	Hand her over and Zofia does not have to fight. I'm sure you know what the correct choice is here.	VO_lasiuba.lasiuba_sys_0002
+063	Not only do you force a little girl to fight, but you also use her as leverage to get what you want?! Dang you, you're irredeemable!	VO_karla.karla_sys_0012
+064	Those who do not know their own worth, like you and Zofia, are only good for being tools to advance someone else's ambition!	VO_lasiuba.lasiuba_sys_0016
+065	The Corpse?! Tch! I didn't think they'd catch wind of this so soon!	VO_lasiuba.lasiuba_sys_0025
+066	They don't seem to be his reinforcements, but they don't seem friendly either. Carla, stay close to me!	VO_balt.balt_battle_0019
+067	Don't worry. It's not like I'm raring to get kidnapped.	VO_karla.karla_sys_0006
+068	We cannot let the Corpse have her! Zofia, go!	VO_lasiuba.lasiuba_sys_0042
+069	...!
+070	You shan't lay a single finger on her! The beautiful desert lily, my prestigious sister, demands so! My future depends on her not killing me for failure!	VO_rameses.rameses_sys_0016
+071	You fiends plotting the demise of my desert, your schemes and offenses will all be brought before the sun for judgment!	VO_rameses.rameses_battle_0007
+072	I, Ramses, successor to the sun, shall be the hand that seals your fates! Revel in the glory that is me!	VO_rameses.rameses_chara_1001
+073	Y-you're...!	VO_balt.balt_sys_0025
+074	Tch! We'll just have to take care of them all! Zofia, get them!	VO_lasiuba.lasiuba_sys_0018
+075	Like hell you will! Carla is not going anywhere!	VO_balt.balt_battle_0004

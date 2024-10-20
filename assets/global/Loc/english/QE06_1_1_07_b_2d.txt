@@ -1,0 +1,144 @@
+﻿001	Amane.	VO_azami.azami_sys_0001
+002	Nngh! Still not good enough! Then let us try this!	VO_amane.amane_sys_0031
+003	Take this!	VO_amane.amane_battle_0007
+004	Amane? Hey, Amane!
+005	Huzzzaaaah!	VO_amane.amane_sys_0032
+006	Urgh! I can do better!	VO_amane.amane_sys_0031
+007	Amane!!!
+008	Wha—?!
+009	Waah!!! You scared me!	VO_amane.amane_sys_0028
+010	Geez, did you have to yell like that?! You scared me right back!	VO_azami.azami_sys_0025
+011	What are you even doing in there?	VO_azami.azami_sys_0001
+012	Just some training, but...wh-what are you doing here?	VO_amane.amane_sys_0011
+013	You haven't eaten yet, have you? Here.
+014	I-is that—?!	VO_amane.amane_chara_1006
+015	Celis's meatballs. I think these were her best ones yet.
+016	They're good! So good! These are the greatest meatballs ever!
+017	Are you even listening to me? You can be such a pig sometimes.	VO_azami.azami_sys_0030
+018	Wait, should you even be doing this? Is sharing food with people in the brig not against regulations?
+019	I'm not sharing food, I'm just celebrating. So no, I'm not breaking any rules.
+020	Celebrating?	VO_amane.amane_chara_1006
+021	Congratulations, Amane. Welcome to the Blade Fox Corps.	VO_azami.azami_sys_0007
+022	Haha... Hahahahahaha!	VO_amane.amane_sys_0008
+023	Wh-what's so funny?!	VO_azami.azami_sys_0025
+024	So you're celebrating with me, not sharing food... Hahaha, that's some excuse.	VO_amane.amane_sys_0007
+025	Still... Thank you, Azami.	VO_amane.amane_sys_0034
+026	To be honest, I didn't think you'd pass.	VO_azami.azami_sys_0030
+027	Would it have been better if I'd failed?	VO_amane.amane_sys_0031
+028	Yeah.	VO_azami.azami_sys_0004
+029	Seriously?! Can't you at least cushion your words a bit? I do have feelings too, you know.	VO_amane.amane_sys_0025
+030	Well, now I'll have to worry for your life every day. I mean, we're not even in the same squad.
+031	You'd worry for me?	VO_amane.amane_sys_0001
+032	Of course. It's my responsibility as an older sister.	VO_azami.azami_sys_0004
+033	Azami!	VO_amane.amane_sys_0018
+034	Hey, ow! Let go! Aw, you got snot on me! I said let go!	VO_azami.azami_sys_0025
+035	Did you really have to cry over this? You can be so dramatic sometimes.	VO_azami.azami_sys_0001
+036	I just... We haven't been able t-to really talk since I g-got here, so I was so scared th-that you...that you might've changed.
+037	What are you talking about? I would never change.	VO_azami.azami_sys_0030
+038	You're my little sister, ever since we made that promise.
+039	Father... Mother...	VO_azami-b.azami-b_sys_0018
+040	What was that?
+041	(A voice...? From inside the well?!)
+042	Is someone in there?!	VO_azami-b.azami-b_sys_0001
+043	Aaaahh.... Aaah...
+044	Wait, hold on!
+045	(It's old, but this rope should work!)
+046	Grab on to this!	VO_azami-b.azami-b_sys_0003
+047	Urk! Just...a little more!	VO_azami-b.azami-b_sys_0029
+048	!!!
+049	Ngh!	VO_amane-b.amane-b_sys_0026
+050	Urgh! Don't you let go!	VO_azami-b.azami-b_sys_0029
+051	Huff...huff...
+052	Th-thank you...!	VO_amane-b.amane-b_sys_0034
+053	How long were you in that well?	VO_azami-b.azami-b_sys_0001
+054	...
+055	Are you alone too?	VO_azami-b.azami-b_sys_0003
+056	...
+057	I see. You're just like me.
+058	I was just running... Trying to get away. Then...	VO_amane-b.amane-b_sys_0020
+059	Okay...
+060	Ah! Over here!	VO_azami-b.azami-b_sys_0029
+061	Grrraaaaaarrrrrgghhh!	VO_utsushiogre.utsushiogre_battle_0003
+062	Waah!	VO_amane-b.amane-b_sys_0025
+063	A-are you okay?	VO_azami-b.azami-b_sys_0027
+064	Wh-why did you save me?	VO_amane-b.amane-b_sys_0012
+065	Why...?
+066	Grrraahgh!	VO_utsushiogre.utsushiogre_battle_0001
+067	Ack...ahhh!	VO_azami-b.azami-b_sys_0043
+068	No!
+069	Huff...huff...	VO_azami-b.azami-b_sys_0029
+070	Y-you...
+071	Sorry. I lost my sword. This might be it. We can run, but it'll find us in no time.	VO_azami-b.azami-b_sys_0035
+072	Why are you still helping me? You could run off on your own and save yourself.	VO_amane-b.amane-b_sys_0001
+073	...
+074	Probably because I don't want to be alone anymore.	VO_azami-b.azami-b_sys_0031
+075	...
+076	You came this far all alone too, didn't you?	VO_azami-b.azami-b_sys_0003
+077	Yeah...
+078	Can I hold your hand?	VO_azami-b.azami-b_sys_0001
+079	...Yeah.	VO_amane-b.amane-b_sys_0004
+080	There, now we're not alone.
+081	It'd be too tragic if we had everything taken from us, and we also had to die alone.	VO_azami-b.azami-b_sys_0018
+082	It's...so warm.	VO_amane-b.amane-b_sys_0007
+083	Huh?
+084	Your hands... It's nice not to be alone.
+085	I'm Azami. What's your name?	VO_azami-b.azami-b_sys_0001
+086	Amane.
+087	Do you mind if I ask for something selfish?
+088	Would it be alright with you, Amane, if we stayed together as sisters? At least until we die.	VO_azami-b.azami-b_favorite_0001
+089	I think that way we'd feel a lot less lonely.
+090	Why?	VO_amane-b.amane-b_sys_0001
+091	Better to be with your sister than a stranger. A little less...cold, I think.
+092	Yeah... Okay. I want to be warm too.	VO_amane-b.amane-b_sys_0004
+093	Thanks, Amane.	VO_azami-b.azami-b_sys_0034
+094	Ahahahahahaha!
+095	Silly. People can't help but get hungry, even in times like this.	VO_amane-b.amane-b_sys_0007
+096	Hahaha, yeah. Silly.	VO_azami-b.azami-b_sys_0007
+097	...?!	VO_amane-b.amane-b_sys_0025
+098	What's the matter?	VO_azami-b.azami-b_sys_0001
+099	N-nothing.
+144	(What...was that? Visions of things I've never seen before...?)	VO_amane-b.amane-b_sys_0025
+100	Finally. I found you.	VO_ogre.ogre_battle_0001
+101	Who...?!
+102	Such a damn hassle. But you're the last one.	VO_ogre.ogre_battle_0003
+103	Urgh... Hah!	VO_azami-b.azami-b_sys_0029
+104	Hmph, can't even fight back properly anymore, huh? You filthy Kagomurasaki.	VO_ogre.ogre_battle_0019
+105	This is the end for you. I've devoured the entirety of your clan.	VO_ogre.ogre_battle_0021
+106	What...?! No!	VO_azami-b.azami-b_sys_0027
+107	The Mikaboshi, Sumeragi, and Kagutsuchi... The Sacred Three of Wadatsumi and one more... The Kagomurasaki's powers which stand against us.	VO_ogre.ogre_battle_0003
+108	Destroy these and there will be none left to impede our way.
+109	You are all that's left. Your clan will be no more!	VO_ogre.ogre_battle_0002
+110	Huzzaaahh!	VO_azami-b.azami-b_sys_0032
+111	How futile.	VO_ogre.ogre_battle_0001
+112	...	VO_azami-b.azami-b_sys_0010
+113	Have you gone mad? Are you not afraid? Are you not dismayed?	VO_ogre.ogre_battle_0019
+114	Of course I am!	VO_azami-b.azami-b_sys_0027
+115	But I'm still going to laugh at you! I'm going to laugh away what you are!
+116	I mean, a demon like you, being laughed at by a mere child. How absurd!	VO_azami-b.azami-b_sys_0010
+117	A demon so absurd will surely be vanquished soon! That's what I'm going to believe, and you can't stop me!
+118	Incomprehensible. What makes you think any of that childish blather made any sense?	VO_ogre.ogre_battle_0020
+119	Azami...
+120	Don't worry. There's nothing to fear. We're not alone.	VO_azami-b.azami-b_sys_0018
+121	Indeed, you are not alone. Your entire clan is waiting for you on the other side.	VO_ogre.ogre_battle_0002
+122	Urgh...! Father... Mother... Hrk! Uhhnn!!!	VO_azami-b.azami-b_sys_0019
+123	I won't let you demons win... We will not lose to you!	VO_azami-b.azami-b_sys_0018
+124	Even if I die here, someone will surely...! Urgh!
+125	...
+126	I... I can't die without doing anything!	VO_amane-b.amane-b_sys_0016
+127	Amane?
+128	This is all wrong! It's not right! This is... It's too sad!
+129	It's... It's too...	VO_azami-b.azami-b_sys_0018
+130	You let me be your little sister! Then as your sister, I have to help you when you need me!	VO_amane-b.amane-b_sys_0001
+131	I can't stand around and do nothing!
+132	Huzzaaaaahh!!!	VO_amane-b.amane-b_sys_0032
+133	Pathetic.	VO_ogre.ogre_battle_0001
+134	Amane!!!
+135	Do not worry. You will be together...for I will devour you both.	VO_ogre.ogre_battle_0003
+136	Ugh!	VO_amane-b.amane-b_sys_0016
+137	(Are we...going to die here?)
+138	(This isn't...)
+139	"The demon is devouring..."
+140	"This is all wrong! It's not right! This is... It's too sad!"
+141	Huh...?	VO_amane-b.amane-b_sys_0025
+142	"I have to fight against this!"
+143	...

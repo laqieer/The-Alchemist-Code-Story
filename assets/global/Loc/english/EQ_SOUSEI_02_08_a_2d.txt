@@ -1,0 +1,96 @@
+﻿001	――――	VO_asmodeus.asmodeus_battle_0021
+002	Summoned us again? Ugh, you're always putting us to work.	VO_mela_dark.mela_dark_sys_0030
+003	I'm curious. I know now that you've been weakened, you're the least powerful of the Cursed Beasts.	VO_nix_dark.nix_dark_sys_0030
+004	I doubt you have an abundance of resources to spend on summoning us.
+005	――――	VO_asmodeus.asmodeus_battle_0020
+006	Ah, I see... So that's how it is.	VO_mela_dark.mela_dark_sys_0038
+007	You really hate being alone, don't you?	VO_nix_dark.nix_dark_sys_0007
+008	――――
+009	Then... Let's talk. About the "us" and events that, apparently, cannot happen in this universe.	VO_nix_dark.nix_dark_sys_0004
+010	What's the point? I mean, it's about a timeline entirely separate from us, right?	VO_mela_dark.mela_dark_sys_0016
+011	It's not like we have anything else to do until her wounds are healed. Why not?	VO_nix_dark.nix_dark_sys_0005
+012	But what exactly should we talk about? Let's see...
+013	What about love?	VO_nix_dark.nix_dark_sys_0007
+014	Uhm... How is Ambrosia doing?	VO_emmer.emmer_sys_0001
+015	She's all right. The anesthetics have her sleeping now.	VO_mela.mela_sys_0004
+016	Her wounds have been treated, so she should be fine when she wakes.	VO_mela.mela_sys_0007
+017	Her injuries were pretty severe, but...she'll make it.	VO_nix.nix_sys_0005
+018	I never, ever believed I'd see the day...
+019	Yeah... Seeing her like that...	VO_mela.mela_sys_0018
+020	U-um... It might not be my place to say this, but those two were shams fabricated by the Cursed Beast, right? I don't think you need to feel responsible for—	VO_emmer.emmer_sys_0002
+021	I never thought that we had that kind of potential.	VO_mela.mela_sys_0007
+022	I get it. I'm genuinely surprised to know we might be able to take her on like that.	VO_nix.nix_sys_0007
+023	Wait, what? Uhm...	VO_emmer.emmer_sys_0031
+024	Ah, sorry! We just got a little distracted thinking about our future potential.	VO_mela.mela_sys_0035
+025	Phew... You had me worried there! I thought you two were feeling upset about...you know.	VO_emmer.emmer_sys_0012
+026	Hahaha, sorry! We're fine!	VO_mela.mela_sys_0008
+027	How's everybody else?	VO_nix.nix_sys_0001
+028	Adaleigh and Yna are out. They said they wanted to go check on the town.	VO_emmer.emmer_sys_0004
+029	They had the idea that if they followed the footprints the Cursed Beast left behind, they might be able to find some clues as to how to defeat it.
+030	That sounds like something Adaleigh would do.	VO_nix.nix_sys_0045
+031	What about Waginau and your brother?	VO_mela.mela_sys_0001
+032	Those two are training in front of the mansion. My brother was worried he'd lose his touch if he missed a day of training.	VO_emmer.emmer_sys_0005
+033	I thought your brother was more of a bookworm... I mean, seeing as he'd holed himself up in the library all those days.
+034	That's just how he is, always prioritizing what he wants to do at the time.	VO_emmer.emmer_sys_0004
+035	Ah, yeah, I get it. Nyx baffles me with his silly behavior.	VO_mela.mela_sys_0030
+036	Are you trying to be funny? You do realize you're the silly one, right?	VO_nix.nix_sys_0001
+037	What are you trying to say, Nyx?	VO_mela.mela_sys_0016
+038	I just said what I was trying to say, Mira.	VO_nix.nix_sys_0010
+039	Hehe!	VO_emmer.emmer_sys_0007
+040	Did I just hear you giggle, Emmel?	VO_mela.mela_sys_0007
+041	I'm sorry. This isn't the time for laughing, is it?	VO_emmer.emmer_sys_0036
+042	It's fine, it's fine! Ambrosia's a tough one, and it's times like these that we need to be reminded that we can still smile.	VO_mela.mela_sys_0008
+043	Nothing good ever comes from feeling down.	VO_nix.nix_sys_0004
+044	I guess you're right. Thank you, both of you.	VO_emmer.emmer_sys_0034
+045	So! I say we go join your brother!	VO_mela.mela_sys_0004
+046	I do have some things I want to ask him!
+047	Huh? B-but—	VO_emmer.emmer_sys_0006
+048	Come on! You gotta act on your impulses! Let's go!	VO_mela.mela_sys_0008
+049	I've got you!	VO_waginao-c.waginao-c_battle_0004
+050	Not yet you don't!	VO_nimuru.nimuru_sys_0010
+051	Then take this!	VO_waginao-c.waginao-c_battle_0019
+052	Good try, but for naught! You still have a ways to go until you can best me, Waginau.	VO_nimuru.nimuru_sys_0008
+053	You're better than ever, Nimul. Looks like it'll be a while before we see you retire from as commander.	VO_waginao-c.waginao-c_sys_0010
+054	Hahaha! You plan to work me to the bone?	VO_nimuru.nimuru_sys_0007
+055	Besides, you're not seeing the full picture. If battle was close combat alone, you have the skills to defeat me.
+056	That's rather hard to believe.
+057	It's true. It's just that you and I are seeing a different field of battle.	VO_nimuru.nimuru_sys_0004
+058	What do you mean?	VO_waginao-c.waginao-c_sys_0006
+059	What are your eyes on in the midst of battle?	VO_nimuru.nimuru_sys_0002
+060	Well... My opponent's posture, the angle of our weapons...	VO_waginao-c.waginao-c_sys_0004
+061	Those are important, true, but I also keep an eye on the terrain.	VO_nimuru.nimuru_sys_0005
+062	The terrain...?	VO_waginao-c.waginao-c_sys_0006
+063	Ha! I can see the doubt in your eyes. If I read your mind right now, I suspect you would be thinking something like: "What warrior doesn't know something so basic?"	VO_nimuru.nimuru_sys_0010
+064	It is one of the most basic principles of combat. Still, what part of this terrain is there to take advantage of?	VO_waginao-c.waginao-c_sys_0037
+065	The ground is solid stone tiles and we have ample space to maneuver. I see nothing that could—
+066	There is, Waginau. There always is something that can affect the outcome of a battle.	VO_nimuru.nimuru_sys_0004
+067	For example, that tile you stepped on before your last strike.
+068	If you look closely, it has a slight bump on it compared to the others. That caused a minor alteration to your footing.	VO_nimuru.nimuru_sys_0007
+069	Minor as it might be, it was enough so to allow me to topple your posture.
+070	You were fighting with all that in your mind?	VO_waginao-c.waginao-c_sys_0006
+071	That's how you win. You are already several steps ahead of me in terms of skill with a sword.	VO_nimuru.nimuru_sys_0007
+072	Still, I cannot defeat you.	VO_waginao-c.waginao-c_sys_0022
+073	That's where wisdom comes in. The strongest weapon available to humans.	VO_nimuru.nimuru_sys_0010
+074	Reading your opponent's next move, foreseeing their reactions, and countering them appropriately.
+075	By doing so, you should be able to defeat anything in this world.
+076	...You're thinking about the Cursed Beasts.	VO_waginao-c.waginao-c_sys_0001
+077	I was. We have to accept that we know so very little about them.	VO_nimuru.nimuru_sys_0004
+078	Ever since we came to this region, I keep having to ask the question, "Why?"	VO_nimuru.nimuru_sys_0030
+079	But I do see hope. The witch Ambrosia... She was able to wound the Cursed Beast. If we could match her powers...
+080	Match the strength of one who has lived since before even the Cursed Beasts? That's an ambitious statement to make.	VO_waginao-c.waginao-c_sys_0007
+081	That is why we must act now. We have no time to be buried in books!	VO_nimuru.nimuru_sys_0018
+082	You have finally decided to emerge fully from your den of books? Of your own volition? A miracle indeed.	VO_waginao-c.waginao-c_sys_0011
+083	Did you just make a joke, Waginau? A rather hurtful one, as well...	VO_nimuru.nimuru_sys_0011
+084	Do my ears deceive me? Did I just hear you talking about my dear teacher, Nimul?	VO_mela.mela_sys_0045
+085	Mira, Nyx... Emmel? What is it?	VO_nimuru.nimuru_sys_0006
+086	Well, we were wondering if we could join your training session.	VO_mela.mela_sys_0003
+087	I suppose you could say we're curious about your methods.	VO_nix.nix_sys_0005
+088	We promise to not be a nuisance. Do you mind?	VO_emmer.emmer_sys_0031
+089	So I take it you want reassess your capabilities.	VO_nimuru.nimuru_sys_0010
+090	You're pretty sharp.
+091	You've chosen to take on the Cursed Beast Asmodeus. I believe that makes this quite meaningful.	VO_mela.mela_sys_0004
+092	Very well. Let's do this.	VO_nimuru.nimuru_sys_0038
+093	Here I come, Nyx!	VO_mela.mela_battle_0012
+094	Yeah, yeah... Space-Time Manipulation: Ignition! Preparing to connect to space!	VO_nix.nix_sys_0004
+095	Time is finite!	VO_nix.nix_sys_0032
+096	Yet also infinite! Libra has granted us control! Spin the hands of time round and round!	VO_mela.mela_sys_0032

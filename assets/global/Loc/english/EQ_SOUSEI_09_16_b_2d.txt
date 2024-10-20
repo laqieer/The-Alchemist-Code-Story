@@ -1,0 +1,88 @@
+﻿001	Well, that was fun!	VO_matia.matia_sys_0007
+002	You're all incredible. Magnificent, even!
+003	You've shown me new techniques, new forms, and new battle tactics. So many novel and exciting things to study and master! Ah...
+004	So creepy... She's covered in blood, but still smiling. Hey! Mira! Hurry up and get your butt over here, pronto!	VO_nix.nix_sys_0027
+005	"Quit talking nonsense! I'm on my way, but I'm carrying Daphne. She's hurt. You need to just get out of there!"	VO_mela.mela_sys_0012
+006	Crap. I hate to say it, but she's right.
+007	Oh, by all means! Let's end this now!
+008	She cut through my time distortion?!	VO_nix.nix_battle_0019
+009	No, I cut through your magil.	VO_matia.matia_sys_0001
+010	See, your magil is very distinctive. It's exceptionally easy for me to pick it out from the surrounding magil, Space-Time Manipulator.
+011	What kind of unfair nonsense is that?!
+012	(What do we do now?)	VO_nix.nix_sys_0030
+013	(Eulalia and I don't have any other tricks to use on her. So please, I really need you to—)
+014	"I told you, I can't! Daphne's life is on the line!"
+015	(Yeah... Okay. Well, in that case...)
+016	Why...?	VO_eularea.eularea_sys_0002
+017	Eulalia? Don't move! Your wounds will open back up again!
+018	Tell me...why you're so sad.
+019	Are you talking to me? I'm having the time of my life right now!	VO_matia.matia_sys_0039
+020	Only because you were hoping someone would take that life.
+021	......
+022	After I shot you, you looked so...at peace.	VO_eularea.eularea_sys_0003
+025	Silence!	VO_matia.matia_battle_0019
+026	You wanted someone to take you out in battle, didn't you? You came here to die!
+027	If, by some chance, a miracle should occur, and I should be able to fight on behalf of another once again...
+028	I would not hesitate for a moment. I would delight in spilling more blood.	VO_matia.matia_sys_0007
+029	I... I would—
+030	If you really just came here to die, then we owe you an apology. We weren't fighting you for that purpose. We were just buying some time.	VO_eularea.eularea_sys_0001
+031	What?!	VO_matia.matia_sys_0025
+032	Again? Honestly, this is getting...so old...
+033	Okay, who's next?!	VO_mela.mela_sys_0038
+034	Mira, you made it!
+035	So the others got away after all...	VO_matia.matia_sys_0016
+036	Eulalia, was it? When one is shamed upon the battlefield, it's only natural to respond with one's sword.
+037	I should go after them before they get too far.
+038	But I'm a bit too spent for that...	VO_matia.matia_sys_0042
+039	Grrrooooooggghhh!
+040	Perfect timing. I could use a little snack!
+041	I'm in need of some magil. This lot doesn't look particularly tasty, but they'll have to do.	VO_matia.matia_sys_0010
+042	Phew... Are we there yet?	VO_adlai.adlai_battle_0019
+043	Sorry to tell you, we've still got a lot of ground to cover. The tower is comprised of Cursed Beast shrines, after all.
+044	We've got at least four more to go before the scenery changes.	VO_waginao-b.waginao-b_battle_0016
+045	That's not so bad. Try to focus for a while longer, Adaleigh!
+046	Just a bit more, all right? We can do this!	VO_emmer.emmer_sys_0002
+047	Y-yeah! No problem!
+048	It's kind of surreal to think about. This, right here, is the party we're taking into the final battle!	VO_adlai.adlai_sys_0002
+049	You mean, the five of us?	VO_nimuru.nimuru_sys_0006
+050	Yeah. Kinda takes me back a little.	VO_adlai.adlai_sys_0004
+051	Remember? We started this whole adventure back in the Gula Belt region, and faced off against Nidhogg.
+052	That's right. There were five of us back then, too.	VO_kuienai.kuienai_sys_0004
+053	See what I mean? Kind of like we're fighting again for old time's sake!	VO_adlai.adlai_sys_0007
+054	Except this time, we're going in a lot more prepared. We've been through a lot, and accomplished so much.
+055	......
+056	I'm not so sure about that.
+057	Excuse me?! This is supposed to be the part where you enthusiastically agree with me! That's how these pre-fight pep talks usually go, isn't it?	VO_adlai.adlai_sys_0001
+058	Hahaha. Yes, you're dead-on with that part. But the thing is... We really don't know what awaits us at the end of all this. Nor what's going to happen when the battle is over.	VO_nimuru.nimuru_sys_0007
+060	Hmph. I mean, you're not wrong. But you don't gotta say it!
+061	Anyhow, it's time for us to pick up the pace. Let's move, people!	VO_adlai.adlai_sys_0006
+062	Ack! What's this shaking?
+063	An earthquake?! Nah, that can't be it!	VO_adlai.adlai_sys_0027
+064	...Of course. Kind of saw this coming.	VO_kuienai.kuienai_sys_0031
+065	Grooooooooooaagh!	VO_belphegor.belphegor_battle_0001
+066	Grrooooooooooooarrrrrrrrrgghh!!!	VO_mammon.mammon_battle_0001
+067	Mammon and Belphegor? Two Cursed Beasts at the same time?!	VO_nimuru.nimuru_sys_0012
+068	Seems we've left quite an impression on Ouroboros, then.	VO_waginao-b.waginao-b_sys_0005
+069	So be it. I will stay—
+070	Not this time! We should be the ones to stay behind here. Right, old dog?	VO_adlai.adlai_sys_0002
+072	Well, they don't have their cores this time, so I think that twisted body of Greed might actually be manageable!	VO_kuienai.kuienai_sys_0005
+073	And this could be the perfect opportunity for me to test out the reforged Taurus!
+074	Adaleigh... Yna...
+075	These are shadows made of magil! A pair of humans fighting a pair of Cursed Beasts is absurd.	VO_waginao-b.waginao-b_sys_0016
+076	I wouldn't underestimate us. The two of us are more than capable of dealing with the two of them.
+077	Trust me. Me and the old dog can handle this!
+078	......
+079	You gotta keep going. There's seriously no time to lose.	VO_kuienai.kuienai_sys_0003
+080	Right! We'll beat 'em in a jiff, and catch back up with you before you even have time to miss us!	VO_adlai.adlai_sys_0004
+081	...All right. Thank you. Both of you.
+082	Yna. Adaleigh. Come back in one piece, okay?	VO_emmer.emmer_sys_0001
+083	Adaleigh.. Yna...
+084	Go on! Get going! You've got to look after Emmel and Nimul!	VO_adlai.adlai_sys_0003
+085	I regret that we won't be by your side to see this thing through to the very end, but rest assured, we will take care of this little bump in the road.	VO_kuienai.kuienai_sys_0004
+086	You just focus on keeping my good friend Nimul safe and sound.
+087	All right.	VO_waginao-b.waginao-b_sys_0004
+088	Good! Now that that's out of the way...	VO_adlai.adlai_sys_0030
+089	Quakes and lightning... We'll be facing attacks from above and below. There will be nowhere to take refuge. Keep your wits about you. One misstep could be fatal.
+090	No problem! We've beaten these guys once before. Let's go, old dog!	VO_adlai.adlai_sys_0002
+091	......
+092	Do I even have to say it anymore?	VO_kuienai.kuienai_battle_0019

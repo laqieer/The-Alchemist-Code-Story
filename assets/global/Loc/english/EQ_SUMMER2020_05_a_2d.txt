@@ -1,0 +1,90 @@
+﻿001	Oh! What's going on?! What did we do?
+002	What did you do? You know what you did! You sent those Alkaroid to attack the beach!	VO_mela.mela_sys_0012
+003	Huh?	VO_thiefm.thiefm_sys_0006
+004	Your actions are threatening the peace of the beach! What with sending the Alkaroids to attack it, all the illegal dumping...	VO_noah.noah_sys_0012
+005	W-wait a second! What are you talking about?	VO_thiefm.thiefm_sys_0002
+006	We commanded them to not attack people and we have been throwing away garbage on the beach!
+007	We're just having them collect the materials we need!
+008	Huh? What do you mean?	VO_suzuka.suzuka_sys_0001
+009	Our ship got damaged in the storm the other day.	VO_thiefm.thiefm_sys_0031
+010	It was run-down to begin with, so it couldn't be helped. And then we ran aground on this shore.	VO_thiefm.thiefm_sys_0030
+011	If we can't fix our boat, we can't return to the sea. So, we started gathering materials on this beach to try to fix it.
+012	You mean the boat at the mouth of the cave? I agree it's very beat up... Wait, you want to fix that?! It's like swiss cheese!	VO_mela.mela_sys_0001
+013	She's been well used, I'll give you that. That ship's full of our memories. That's why we want to fix it up and head out on the seas with it again.	VO_thiefm.thiefm_sys_0011
+014	Which is why we had them collect the materials we need.
+015	Then...why are they...	VO_noah.noah_sys_0002
+016	...
+017	It seems it's true that you gave them orders, but something's causing an error.	VO_albell.albell_sys_0004
+018	An error?	VO_mela.mela_sys_0006
+019	That's what caused them to not follow orders correctly. Where did you get those Alkaroids?	VO_albell.albell_sys_0030
+020	Huh? We pulled them out of the water from a beached shipwreck.	VO_thiefm.thiefm_sys_0006
+021	Th-they were in water? Isn't that, you know, bad?	VO_mela.mela_sys_0025
+022	That's definitely the cause of the malfunction.	VO_albell.albell_sys_0037
+023	You commanded them to pick up materials while avoiding people as much as possible so as to not bother them.
+024	However, those conditions were erased by the error so that their goal only became collection.
+025	I see. That's why they started picking up anything from the beach and attacking people out of nowhere in order to do so.	VO_suzuka.suzuka_sys_0031
+026	They're needlessly sturdy, they'll continue to move as normal despite having errors.	VO_mela.mela_sys_0045
+027	I had no idea they were bothering people. That's terrible! Oh, but...	VO_thiefm.thiefm_battle_0019
+028	But?	VO_albell.albell_sys_0005
+029	But we didn't throw out any trash! We've been piling our trash here. We were going to throw it away later—	VO_thiefm.thiefm_sys_0002
+030	It's gone!
+031	Oh! Look! That octopus is carrying something away!
+032	Hey! Cut it out! That's important booty—bleck!	VO_thiefm.thiefm_battle_0022
+033	A-are you okay? That octopus is really mad for some reason.	VO_albell.albell_sys_0026
+034	It's probably mad because you all moved in here without asking.	VO_mela.mela_sys_0030
+035	So that's why they started coming outside.	VO_albell.albell_sys_0031
+036	Maybe they're throwing out the things the pirates have brought in into the sea in protest for stealing their home?	VO_suzuka.suzuka_sys_0025
+037	What a disaster. Which means the trash is your fault in the end!	VO_noah.noah_sys_0026
+038	Th-that may be true but if we can't fix our ship, we'll lose our home, too.	VO_thiefm.thiefm_sys_0031
+039	You can't get yourselves a new boat? There's tons of better boats out there.	VO_albell.albell_sys_0002
+040	It's gotta be this ship. This ship is full of our memories.	VO_thiefm.thiefm_sys_0039
+041	It's really important to you, isn't it?	VO_albell.albell_sys_0006
+042	Ooo, ooo! I've got an idea! Albea should fix up their ship!	VO_mela.mela_sys_0038
+043	Then they won't have to collect materials, they'll leave the cave, and the octopuses will get their home back.	VO_mela.mela_sys_0008
+044	Y-you will?	VO_thiefm.thiefm_sys_0025
+045	If it's this kind of mechanism, I can probably fix it. But in return, you have to stop the Alkaroids and return the things that got stolen.	VO_albell.albell_sys_0004
+046	Oh yeah! And the comb, her comb!	VO_noah.noah_sys_0005
+047	Of course we'll give that back, too! Comb... Comb... I don't see it.	VO_thiefm.thiefm_sys_0004
+048	Really? Did you check everything?! An Alkaroid did take off with it, you know!	VO_noah.noah_sys_0025
+049	It's all right if they can't find it. If they just return the other things that got stolen...
+050	No. We will find it. Does it have any other characteristics?
+051	Other characteristics... There is another one but I don't think you'd understand it.	VO_albell.albell_sys_0031
+052	Huh?
+053	My brother put a mechanism in it. But only I know of it.
+054	It's just something really small. And not that big of a deal, I think.	VO_albell.albell_sys_0011
+055	But...	VO_noah.noah_sys_0031
+056	I'm going to fix the boat, so I'll leave the rest to you.	VO_albell.albell_sys_0002
+057	(You don't really think that, Albea, do you?)
+058	(I've got to roll up my sleeves and find it! But I need a clue... Hmm...)	VO_mela.mela_sys_0007
+059	(Glows white... White... Didn't Bertha and Sharon say that the octopuses like collecting white things?)
+060	Hmm, but where would they take it? Huh?
+061	Is that—	VO_mela.mela_sys_0025
+062	A power unit failure... This I can do something about.	VO_albell.albell_sys_0004
+063	Everyone! Things have taken a turn!	VO_sharon.sharon_sys_0018
+064	What's wrong?!	VO_suzuka.suzuka_sys_0001
+065	A lot of octopuses came to the beach and things have gotten out of hand! We can't handle them by ourselves!	VO_berta.berta_sys_0029
+066	We've received a request for aid! We're going back to the beach, so please come with us!
+067	Oh no! We must return and defend the beach—
+068	Sorry, but I can't leave this right now.	VO_albell.albell_sys_0035
+069	What?!	VO_noah.noah_sys_0026
+070	I took on this ship repair job as the proprietor of the repair shop Magbea.
+071	If I fix this ship, the pirates will leave here and the octopuses will return to their home. That's why my priority has to be repairing this ship right now.
+072	I-I see. You're right.	VO_noah.noah_sys_0020
+073	But we can't just leave you here by yourself.	VO_noah.noah_sys_0031
+074	You'll be so focused on repairing it that you'll be defenseless. That's not safe!
+075	N-Noah! Calm down!	VO_suzuka.suzuka_sys_0026
+076	Our job was supposed to be guarding the beach. And I understand where you're coming from, but the octopuses are really swarming the beach.
+077	The Alkaroids are malfunctioning, octopuses are swarming, and your comb's missing... What should we do?!	VO_noah.noah_sys_0029
+078	I-Is this a silver spoon situation? I don't have one on me!	VO_mela.mela_sys_0001
+079	Noah! I guess this will do. Noah, take this—	VO_suzuka.suzuka_sys_0001
+080	Hold down! I'll keep myself calm!	VO_noah.noah_battle_0019
+081	Ssssss!
+082	With my abdomen expanded...breathe out... Deep breathing... Haa...
+083	...
+084	I'm good!	VO_noah.noah_sys_0004
+085	Oh! Noah! You've got the deep breathing technique down perfectly!	VO_suzuka.suzuka_sys_0044
+086	Whew, that's good! Now then, let's stay calm. We'll divide and conquer!
+087	Suzuka and Noah, head to the beach! Albea will be fixing the ship! And I'll stick around here!
+088	This way there's no problems, right?!	VO_mela.mela_sys_0001
+089	I see... This way everything's covered. Understood!	VO_noah.noah_sys_0045
+090	Now then, I'm interested in what's going on in this cave. I'll just go take a look.

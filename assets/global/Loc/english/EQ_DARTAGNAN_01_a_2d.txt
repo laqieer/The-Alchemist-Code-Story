@@ -1,0 +1,104 @@
+﻿001	Wow! Wow! Wow! There are normal people and machine people...	VO_dartaniun.dartaniun_sys_0024
+002	Something is moving somewhere all the time. This city...
+003	So this is Slothstein!
+004	Yes.	VO_knightm.knightm_sys_0004
+005	In recent years, development has been rapid, making this country's magic and technology the most cutting edge.
+006	A country of metal and machines, it is unlike our country of Envylia. However, its essence remains the same.
+007	Ack... Captain, you always speak in such a difficult way.	VO_dartaniun.dartaniun_sys_0031
+008	Hahah. Sorry. However, I want you to know many things, D'Artagnan.	VO_knightm.knightm_sys_0007
+009	You have chosen to live as one of Envylia's Scarlet Flame Guard while carrying the savage blood of Saga.
+010	That again? My homeland is Envylia.	VO_dartaniun.dartaniun_sys_0030
+011	Well, come now! The world is a large place. There are many countries! Anyway, this country is one of the stranger ones amongst them all. What do you think?	VO_knightm.knightm_sys_0011
+012	It's completely different from Envylia, but, maybe because of that, it's really fun! I like how it never sleeps!	VO_dartaniun.dartaniun_sys_0031
+013	I like it! I think I might be able to fall in love with this country!	VO_dartaniun.dartaniun_sys_0007
+014	I see, I see. Well, then perhaps in the future, you will serve as the bridge between the two countries.	VO_knightm.knightm_sys_0046
+015	Heheh...Captain...	VO_dartaniun.dartaniun_sys_0050
+016	Please, wake up! Vice-Captain!	VO_knightf.knightf_battle_0023
+017	Huh?! What's going on?!	VO_dartaniun.dartaniun_sys_0026
+018	Like I said, if you sleep here, you'll catch a cold! Furthermore, my dignity...!	VO_knightf.knightf_sys_0012
+019	Yawn... Morning...morning? Good evening?	VO_dartaniun.dartaniun_chara_1002
+020	Yes, yes, it's long past noon. In fact, I thought you were on vacation for a while starting from today, Vice-Captain.	VO_knightf.knightf_sys_0030
+021	Huh...I'm Vice-Captain? Me?	VO_dartaniun.dartaniun_sys_0016
+022	Ah, come on...she's still half asleep...
+023	Mmm...I'm okay! My eyes are open! I'm awake!	VO_dartaniun.dartaniun_chara_1005
+024	By the way, where's the Captain?	VO_dartaniun.dartaniun_sys_0001
+025	The Captain is making adjustments to the alliance between Northern Pride and Slothstein.
+026	So I'm on vacation from now... Wait, will our knights be all right without me?	VO_dartaniun.dartaniun_sys_0045
+027	Hahah! Actually, with you and the captain out of the way, we'll be able to get much more office work done.	VO_knightf.knightf_sys_0007
+028	Oh, really? That's great news!	VO_dartaniun.dartaniun_chara_1008
+029	Wait, were you just totally disrespecting me right now?	VO_dartaniun.dartaniun_sys_0016
+030	You always make snap judgments without carefully thinking things through!	VO_knightf.knightf_sys_0012
+031	Did you know that you've been called the 'fastest and least contemplative knight in all of history'? You should think things through a little more.
+032	Huh? But it's cool being me.
+033	Anyway. It's your vacation, so just spend your time lounging around your room.	VO_knightf.knightf_sys_0030
+034	Actually, that sounds pretty great...no, no, wait! I'm supposed to be going back to Slothstein!	VO_dartaniun.dartaniun_sys_0031
+035	Again? Next time you go abroad, a little more of an advance notice would be great!	VO_knightf.knightf_sys_0025
+036	If I did that, someone would try to tag along.
+037	Of course! Recently, there's been a lot of suspicious activity in Gluttony.
+038	It's an allied country, but I can't afford to let you go alone.
+039	But I wanna travel alone!
+040	V-Vice-Captain?! We're still talking—	VO_knightf.knightf_battle_0021
+041	Get off my back!	VO_dartaniun.dartaniun_sys_0028
+042	Sigh. They're all good people in the Guard, but sometimes they're way too over-protective.	VO_dartaniun.dartaniun_sys_0030
+043	All right, I'm gonna quickly get ready and get out of here! I wonder if Amis is doing well!
+044	Wow, it's already noon! It took pretty long even at my pace.	VO_dartaniun.dartaniun_chara_1005
+045	Was it called Slothstein railroad again? If only that spanned the entire continent, getting around would be much more convenient!	VO_dartaniun.dartaniun_sys_0030
+046	Hey, D'Artagnan! You're back already?	VO_thiefm.thiefm_sys_0024
+047	Hey, old man, it's been a while! Do you have any new inventions?	VO_dartaniun.dartaniun_chara_1008
+048	You really should be asking someone like Amis instead of an underling like me.	VO_thiefm.thiefm_sys_0030
+049	Hmm, I see...so where's Amis?	VO_dartaniun.dartaniun_sys_0031
+050	Well, around this time, she's usually...	VO_thiefm.thiefm_sys_0006
+051	Megistos! You've misappropriated the budget again, haven't you?!	VO_amis.amis_sys_0022
+052	Looks like she's right in the middle of dishing out a reprimand.	VO_thiefm.thiefm_sys_0011
+053	Aah...
+054	Listen, Amis. This is a necessary expense. The weight of our current turret is a problem. We can't load it onto our airships, so...	VO_megistus.megistus_sys_0030
+055	How does that excuse taking the expenses from the Power Division's budget?!	VO_amis.amis_sys_0012
+056	For starters, if it can't fly then you can't call it an airship.
+057	It's because the Power Division's development is being delayed. It's got an abundant budget, but it's moving along at a snail's pace. Can't I just transfer a little of the budget to us?	VO_megistus.megistus_sys_0016
+058	No! Do you know how much pains I've been taking with budget allocation for each department?	VO_amis.amis_sys_0014
+059	Yeah, preach it! Stop causing problems for Amis!	VO_dartaniun.dartaniun_sys_0004
+060	Listen. We're putting together an improvement plan.	VO_megistus.megistus_sys_0029
+061	Unlike the Power Division, who still has no idea regarding the source of failure, ours is a much more constructive use of the budget.
+062	Your excuses suck!
+063	Argh! Shut up, D'Artaggy! Did you come here just to stir up problems again?!	VO_megistus.megistus_battle_0022
+064	Oh! Oh! You said it again! You called me that weird name!!!	VO_dartaniun.dartaniun_sys_0032
+065	First of all, you're an outsider. How did you even get in?! What's security doing?	VO_megistus.megistus_sys_0002
+066	I'm not an outsider! The old security guard says I'm like his granddaughter and gives me cute little sweets!	VO_dartaniun.dartaniun_sys_0010
+067	So you sweet-talked your way in!	VO_megistus.megistus_sys_1019
+068	Are you causing problems for Amis again? As someone who follows the herd, you should be ashamed of yourself.	VO_dartaniun.dartaniun_sys_0001
+069	Your logic is as beast-like as ever. Listen, we're technicians. We do have rank, but it's not an aristocracy.	VO_megistus.megistus_sys_0029
+070	An air...stock...sea? Is that one of those boats without sails that are always floating around in Sloth's harbor?	VO_dartaniun.dartaniun_sys_0025
+071	That's a steam boat! Are you one of those...what are they called again...idiots?	VO_megistus.megistus_sys_0030
+072	Huh?! Why did you suddenly call me an idiot?! I may not be smart, but I'm not an idiot! You're just a big cannon-carrying idiot!	VO_dartaniun.dartaniun_sys_0032
+073	Just listen to how idiotic you sound!	VO_megistus.megistus_sys_0001
+074	...Heheh.	VO_amis.amis_sys_0007
+075	Hey, Amis! What are you laughing about?	VO_megistus.megistus_sys_0002
+076	Sorry. I've never seen you get so worked up in an argument that doesn't have to do with your 'baby girl'.	VO_amis.amis_sys_0035
+077	Hey there, D'Artagnan. Sorry you had to see all of that.	VO_amis.amis_sys_0007
+078	Not at all, Amis. You're always cool in my book! Unlike a certain somebody.	VO_dartaniun.dartaniun_sys_1040
+079	Yeah, I get the hint.	VO_megistus.megistus_sys_0002
+080	So what brings you here today, D'Artagnan?	VO_amis.amis_sys_0001
+081	Um, sightseeing? I thought you might be inventing something cool again.	VO_dartaniun.dartaniun_sys_0025
+082	Seriously, what kind of tourist waltzes their way into the Slothstein's Central Technology Bureau?	VO_megistus.megistus_event_1006
+083	Also...oh yeah!	VO_dartaniun.dartaniun_sys_0031
+084	There was something that caught my interest during the joint military practice between our knights and Slothstein.
+085	Would you like to talk about it over tea?	VO_amis.amis_sys_0045
+086	I was just thinking of taking a break.	VO_amis.amis_sys_0007
+087	Yeah! Sounds great!	VO_dartaniun.dartaniun_sys_0024
+088	Megistos, would you like to join us? We still have to talk about the budget.	VO_amis.amis_sys_0001
+089	No thank you. I prefer to cover myself in grease than attend fancy tea parties.	VO_megistus.megistus_event_1006
+090	Amis is going out of her way to invite you! You're never gonna get a girlfriend with that attitude.	VO_dartaniun.dartaniun_sys_0030
+091	Unfortunately, I've poured all my love into my baby girls.	VO_megistus.megistus_sys_0007
+092	Jeez. That sounds wrong on so many levels...	VO_dartaniun.dartaniun_sys_0029
+093	That sound! Is something exploding?!	VO_dartaniun.dartaniun_sys_0027
+094	Hm? Hey, what's the matter?	VO_megistus.megistus_sys_0005
+095	Aghh?! Ack.. Someone, help! A prototype Guard Droid has gone rogue!	VO_thiefm.thiefm_battle_0022
+096	What?!	VO_amis.amis_sys_0027
+097	Gone rogue?! But we've got the maintenance man coming in every week without fail!	VO_megistus.megistus_sys_1019
+098	Let's think of the reasons later! Right now, let's focus on rescuing the injured, Amis.	VO_dartaniun.dartaniun_sys_0014
+099	Ye-yes! You're right!	VO_amis.amis_sys_0025
+100	Megistos, can you evacuate the people that are all right and, if you have time, use artillery to hold it back.	VO_dartaniun.dartaniun_sys_0002
+101	A-ah all right...I don't mind, but what are you gonna do?	VO_megistus.megistus_sys_0004
+102	I'm going to go stop the rogue machine.	VO_dartaniun.dartaniun_sys_0004
+103	Huh? On your own?! Isn't that a little risky?	VO_megistus.megistus_sys_0016
+104	Don't worry. I'll be fine. Besides...the Scarlet Flame Guard will never stand by and allow innocent people to get hurt!	VO_dartaniun.dartaniun_sys_1040

@@ -1,0 +1,25 @@
+﻿001	Georgios!	VO_tina.tina_sys_0020
+002	He's gone... Georgios, we won't let your death be in vain!	VO_moca.moca_sys_0020
+003	I've had enough of this!	VO_lizbeth.lizbeth_sys_0018
+004	The dragon must have ingested Beelzebub again. It's probably back in the same place!	VO_tina.tina_battle_1016
+005	You've got to come quick!	VO_rega.rega_sys_0020
+006	What's wrong, Rega?	VO_moca.moca_sys_0025
+007	The dragon... It's glowing a completely different color now!	VO_rega.rega_battle_0019
+008	...?!
+009	Its neck is flashing blue! Is it going to breathe fire again?!	VO_tina.tina_sys_1050
+010	No, wait! It's not fire...its water this time!	VO_moca.moca_battle_0019
+011	What do you mean?!	VO_lizbeth.lizbeth_battle_0026
+012	Could it be a dragon in command of multiple elements?	VO_tina.tina_sys_0022
+013	Ack! It's going to do it again! Let's get out of here!	VO_moca.moca_sys_0042
+014	The village and the forest are going to be flooded!	VO_tina.tina_sys_0018
+015	Dang it... We can't let any more people die! But we've got no way to destroy the core!	VO_moca.moca_sys_0029
+016	No! The water's coming this way!	VO_moca.moca_sys_0020
+017	Leave it to me! Freeze Over!	VO_lizbeth.lizbeth_event_1005
+018	Dangit!	VO_moca.moca_battle_0019
+019	Can we really take the dragon down ourselves? Without Georgios? Are we going to be enough to get the job done?
+020	How are we supposed to succeed in this?!	VO_tina.tina_sys_0027
+021	Mocca, it's coming this way!	VO_lizbeth.lizbeth_battle_0025
+022	Drats! There's no way we can avoid it!	VO_moca.moca_sys_0027
+023	Fret not! You're in safe hands now. We will take on the dragon.	VO_voda.voda_sys_0035
+024	Voda! Fuu! Tehre!	VO_tina.tina_sys_0047
+025	Now then, shall we show them the true power of the Sprite Trio?	VO_voda.voda_chara_1004

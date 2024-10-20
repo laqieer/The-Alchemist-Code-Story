@@ -1,0 +1,89 @@
+﻿001	Heh! Not bad! I guess I can go all out!	VO_neun.neun_sys_0010
+002	Well, if they're going to be so clingy, it's rude to leave so soon. I'll tear you all to shreds!	VO_siewa.siewa_battle_0019
+003	They still have strength to spare?! If this keeps up...!	VO_balt.balt_battle_0019
+004	What are you getting faint-hearted for? You don't mind if Carla gets taken away?	VO_ryle.ryle_sys_0017
+005	I will never allow that!	VO_balt.balt_event_1013
+006	This is where we make our stand! Get behind me! Huzzaaaah!	VO_karla.karla_sys_0032
+007	Carla! Don't over-do it!	VO_balt.balt_sys_0015
+008	I'm fine! I've always wanted to do my part to keep this desert safe, but all this time, I was the one being protected.	VO_karla.karla_sys_0010
+009	It brings tears to my eyes! That's why I still have so much to give back!	VO_karla.karla_sys_0018
+010	Carla!	VO_balt.balt_battle_0019
+011	Remember when Hawk said I'd be able to control this power when I have something to protect? Now is that time!	VO_karla.karla_sys_0002
+012	You're after me, right?! Then I'll take you on! Come on!	VO_karla.karla_battle_0040
+013	So, this is Spiritbonding!	VO_balt.balt_sys_0009
+014	Aw, man. I can't slack off when she's pulling out all the stops like that.	VO_ryle.ryle_sys_0027
+015	Yes... It is a shame. You might even break a sweat.	VO_ankh.ankh_sys_1038
+016	Lucian, Retzius, your mission is not yet complete, understand?	VO_ryle.ryle_sys_0002
+017	Of course.	VO_rusia.rusia_sys_0006
+018	Leave it to us!	VO_retzius.retzius_sys_0005
+019	Ramses, you're not out of commission, are you? We must show them that we nobility are not to be trifled with, either.	VO_neferty.neferty_sys_0001
+020	Absolutely!	VO_rameses.rameses_sys_0004
+021	Carla, we won't let you fight alone! I will protect you, no matter what! For Hawk's sake as well!	VO_balt.balt_battle_0019
+022	We will protect this desert together!
+023	Thank you, all of you! Let's protect our home! Hm? What's that sound?	VO_karla.karla_sys_0033
+024	It's the Sand Hawks!	VO_karla.karla_sys_0025
+025	I see our own guild members, too.	VO_ryle.ryle_sys_0006
+026	Even some members of the nobility... What is going on?	VO_neferty.neferty_sys_0042
+027	Captain! Are you okay?!	VO_thiefm.thiefm_battle_0019
+028	All of you... Why are you here? How?	VO_karla.karla_sys_0025
+029	Nefertiti! We will not let you fight alone!	VO_knightm.knightm_sys_0001
+030	Oh my, you're all here. I am...overcome.	VO_neferty.neferty_sys_0025
+031	Ryle, we've gathered as many members as we can!
+032	Is this your doing, Ankh?	VO_ryle.ryle_sys_0002
+033	I only informed each party of the situation. To be honest, I've never really trusted anybody in this desert.	VO_ankh.ankh_sys_0007
+034	I never expected anybody to take action even after hearing about what is going on. However, there was one man who believed in everyone here.
+035	You mean...?	VO_balt.balt_sys_0025
+036	Back then, I only moved to involve a handful of people, due to my own lack of willingness to trust in others.	VO_ankh.ankh_sys_0018
+037	This time, it's different. I called upon as many people as I could reach, and now that leap of faith has been validated on all accounts.
+038	Ankh!	VO_karla.karla_sys_1046
+039	I do not know if this is enough to pay off the debt I owe Hawk, but there is one thing I am sure of.
+040	Just like him, everybody here believes in what this desert can be.	VO_ankh.ankh_sys_0007
+041	It'd be a shame to call ourselves the Sand Hawks if we can't even fight off this menace!	VO_thiefm.thiefm_sys_0002
+042	Someone take care of Ryle's wounds! The rest of you, prepare to counter the enemy!	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+043	Protect Nefertiti! Don't let them lay a single finger on her! The well-being of this desert is our responsibility!	VO_knightm.knightm_battle_0010
+044	Balt! This is...!	VO_karla.karla_sys_1046
+045	Yeah... This is what a united desert looks like!	VO_balt.balt_sys_0006
+046	Bring it on! I'll take you all down!	VO_neun.neun_sys_0008
+047	The fun's over. Neun, it's time to go!	VO_siewa.siewa_sys_0010
+048	Wait, what?	VO_neun.neun_sys_0003
+049	Sol is calling for us. Orion contacted him. We're leaving this forsaken desert.	VO_siewa.siewa_battle_0019
+050	Tch! Things were just getting good. Hey! Looks like you all get to live another day!	VO_neun.neun_chara_1004
+051	Next time we meet, I'll kill you. If you even manage to stay alive until then, that is.	VO_siewa.siewa_sys_0016
+052	Whew. Is it over?	VO_ryle.ryle_battle_1030
+053	Balt.
+054	Yeah... We won.	VO_balt.balt_sys_0006
+055	I wish Hawk was here to see this, gosh darnit.	VO_karla.karla_sys_0007
+056	I'm sure he's up there, watching over us.	VO_balt.balt_sys_0006
+057	Yeah, you're right.	VO_karla.karla_sys_0006
+058	No sprouts yet, huh?	VO_balt.balt_sys_0031
+059	Well, we just have to be patient. It'll happen when it happens.	VO_karla.karla_sys_0031
+060	How are things on your end?	VO_balt.balt_sys_0003
+061	Nefertiti is the same as ever. I have no idea what she's plotting or thinking about.	VO_karla.karla_sys_0030
+062	Oh, and Ramses started doing some bureaucratic work. He's still terrified of Nefertiti though, of course.
+063	Nefertiti said the nobility are working hard to push through plans needed to bring green life back to the desert, regardless of what the Conservatives say.
+064	They're going to be part of the reform to make the desert a place where everybody can make a living!	VO_karla.karla_sys_0007
+065	What about you?	VO_karla.karla_sys_0002
+066	Oh yeah.	VO_balt.balt_sys_0006
+067	The Desert Wings have officially hired the Sand Hawks for security detail. Ryle wasn't there for any of the meetings, but Ankh and I hashed things out.
+068	Some tasks will go to those two mercenaries, Lucian and Retzius, but most of the jobs will be ours.
+069	Oh, actually Ryle did come over to have a word before I left their headquarters.	VO_balt.balt_sys_0031
+070	What did he say?	VO_karla.karla_sys_0004
+071	"Has anything sprouted yet? What's taking so long?" Heh. A bit unreasonable, isn't he?	VO_balt.balt_sys_0010
+089	He even added, "We're all gonna need the crops to keep up our way of life. We're counting on you."	VO_balt.balt_sys_0007
+072	Never would have thought he'd say something like that. I guess he's changed.	VO_balt.balt_sys_0007
+073	(We'll keep this place safe for you. It was meant to be somewhere you could call home.)
+074	(We'll turn this place into a lush oasis. I'll treat you to some bean soup then, all right?)
+075	Change is happening. People are starting to think of the future as more than what's right in front of them.	VO_balt.balt_sys_0007
+076	Man, I have so much to tell Hawk. It's amazing to see the seeds he sowed begin to sprout.	VO_karla.karla_sys_0006
+077	......
+078	"You'll never know unless you try." Such beautiful words.	VO_karla.karla_sys_0007
+079	It may not seem like it, but surely and steadily, things are changing.
+080	I'll make this desert a place people can be proud to call home.
+081	As this desert's symbol of hope, I'll make your dreams a reality, Hawk.	VO_karla.karla_sys_0008
+082	Yeah, I can now believe without hesitation, the same way you did all those years.	VO_balt.balt_sys_0006
+083	I hope you're watching, Hawk! We'll make this desert rich with life!
+084	Wow, hey!	VO_karla.karla_sys_0025
+085	What?	VO_balt.balt_sys_0005
+086	Look! It's sprouting!	VO_karla.karla_sys_1046
+087	Well, would you look at that.	VO_balt.balt_sys_0009
+088	Haha... Hahahahahaha! Gosh darnit, Hawk, we did it!	VO_karla.karla_sys_0008

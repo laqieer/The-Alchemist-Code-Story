@@ -1,0 +1,54 @@
+﻿001	(I wanted to cleanse this tainted world.)	VO_glanz.glanz_sys_1030
+002	(Whatever the reason, whether out of patriotism or personal beliefs, the world keeps getting more and more corrupted.)
+003	(So I refuse to love or be a part of this stained world.)	VO_glanz.glanz_sys_0010
+004	(—That is what I thought.)
+005	Nothing. None of our teams have found what we're looking for.
+006	That can't be... According to the professor's research, the Philosopher's Stone lies within these ruins.	VO_anastasia.anastasia_sys_0031
+007	After all you've done here... I am sorry.
+008	It's nothing. The stakes are too high for regret. We must do all we can to find some way of protecting this world from potential destruction. It's only a shame we didn't find anything here.	VO_anastasia.anastasia_sys_0016
+009	Yes... However, something here is a little strange. It almost seems like it was here, but was taken by someone else...
+010	...
+011	Are you about done?	VO_glanz.glanz_sys_0002
+012	Yes, that is enough for today. We should head back.	VO_anastasia.anastasia_sys_0004
+013	Before you were at my side in battle, today you are my escort through ancient ruins. We seem to find our way to each other. Could this be fate?	VO_anastasia.anastasia_sys_0007
+014	Nonsense. This is just a job among other jobs.	VO_glanz.glanz_sys_1030
+015	Must you sign a different contract each time? Wouldn't it be easier to just join the order? I could put in a good word for you.	VO_anastasia.anastasia_chara_1004
+016	For me? Please don't. You're Wratharis's secret weapon. I wouldn't be able to live up to a recommendation from you.	VO_glanz.glanz_sys_0006
+017	That is simply not true. I know full well what you are capable of.	VO_anastasia.anastasia_sys_0007
+018	You're quite adept at coordinating with others in combat. It's very comforting to have you fight alongside me.
+019	You think too highly of me. I'm just a mercenary.	VO_glanz.glanz_sys_0039
+020	So humble. Or self-effacing?	VO_anastasia.anastasia_chara_1001
+021	...
+022	I just think it would be convenient if I was able to speak more frankly about what we are doing here.	VO_anastasia.anastasia_chara_1004
+023	As in, for example, about the true goal of this mission that I was not informed of?
+024	Exactly.	VO_anastasia.anastasia_sys_0004
+025	...
+026	There are not many, even among the knights of Wratharis, that can fight shoulder to shoulder with me. Wratharis is in desperate need of capable warriors.
+027	Besides, I do believe we make quite agreeable business partners.	VO_anastasia.anastasia_sys_0031
+028	I'm happy to hear you say that, but I'm content with where I am now.
+029	I prefer to not make long-term contracts. I hate to feel tied down, so I have no intention of associating myself with any particular faction.
+030	This must be how it feels to be dumped.	VO_anastasia.anastasia_sys_0016
+031	Sorry.	VO_glanz.glanz_sys_0035
+032	Oh, don't be. I merely wanted to try my luck. Still, would you mind telling me what makes your conviction so immutable?	VO_anastasia.anastasia_sys_0007
+033	...
+034	I just do not want to be involved with or be part of this world.	VO_glanz.glanz_sys_1030
+035	Glanz? I want you to know that I meant it when I said it's comforting to have you fight alongside me.	VO_anastasia.anastasia_sys_0002
+036	I know. Still, you're plenty powerful without me.	VO_glanz.glanz_sys_0004
+037	That is true, but it is also true that there is strength in numbers.
+038	If you say so. Hm? What is that?
+039	...
+040	Are you all right?	VO_glanz.glanz_sys_0002
+041	Grr... Rawr!	VO_rachel.rachel_sys_0013
+042	OW!!!
+043	Glanz?!	VO_anastasia.anastasia_sys_0025
+044	Th-this kid just bit me?!	VO_glanz.glanz_battle_0019
+045	Hmm? What is going on here?	VO_rachel.rachel_sys_0029
+046	That's what we want to know! You just bit my hand! What is with you?!	VO_glanz.glanz_sys_0001
+047	It's very unwise to wake a bear from hibernation. Of course you end up getting bit.	VO_rachel.rachel_sys_0030
+048	What? What are you talking about?	VO_glanz.glanz_sys_0006
+049	You're not icky-sticky. I like that.	VO_rachel.rachel_sys_0004
+050	Huh?	VO_glanz.glanz_sys_0025
+051	Rawr!	VO_rachel.rachel_sys_0013
+052	Aaaagh!
+053	What?!
+054	Icky-stickies right when I wake up. I hate that. I'm gonna beat you all down.	VO_rachel.rachel_battle_0010

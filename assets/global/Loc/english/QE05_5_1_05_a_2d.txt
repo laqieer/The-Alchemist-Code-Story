@@ -1,0 +1,89 @@
+﻿001	Kamui's back!	VO_tina.tina_sys_0026
+002	Yes! He is now with General Adelbert, discussing our next move.
+003	They would like for you two to join them, to go over the plans for what lies ahead.	VO_knightm.knightm_sys_0001
+004	Absolutely! Let's go, Mocca!	VO_tina.tina_battle_0011
+005	...
+006	Mocca?	VO_tina.tina_sys_0001
+007	Huh? Ah, right...	VO_moca.moca_sys_0037
+008	Kamui! I'm so relieved you're safe!	VO_logi-b.logi-b_sys_0009
+009	Sorry to worry you.	VO_kamui.kamui_sys_0004
+010	I'm...sorry, Kamui. Marie was... We...	VO_logi-b.logi-b_sys_0036
+011	Adelbert already filled me in. This is an alarming turn of events, but we still have a chance.	VO_kamui.kamui_sys_0037
+012	Is that true?!	VO_logi-b.logi-b_sys_0025
+013	I still can't believe what you told me. Would that really keep the Jam at bay?	VO_adalbert.adalbert_sys_0016
+014	I'm sure of it. The only issue is where to gather the materials needed.	VO_kamui.kamui_sys_0004
+015	Kamui! You're back!	VO_tina.tina_sys_0009
+016	...
+017	Tina, Mocca, perfect timing.	VO_kamui.kamui_sys_0002
+018	There's a way we can take the fight to Ceclidis. To do so, we are going to need your help.
+019	Our help?	VO_moca.moca_sys_0025
+020	First, let me share what information I was able to gather from the royal capital. It's about what causes the propagation of the Jam.
+021	Is this about those microscopic creatures? The ones devouring Alchemia and amplifying their curse?	VO_tina.tina_sys_0031
+022	Right. Their curse takes on the form of microscopic creatures, which spread.	VO_kamui.kamui_sys_0004
+023	That's where their weakness can be found.
+024	They have a weakness to exploit?	VO_logi-b.logi-b_sys_0001
+025	Though I'm still not sure how effective it will be.
+026	But at least it will change the fact that the power of purification is the only weapon we have against them.
+027	And this weakness is...?	VO_tina.tina_sys_0001
+028	Dehydration.
+029	Are you being...serious?	VO_tina.tina_sys_0025
+030	Absolutely. I believe moisture is imperative for their growth and multiplication.	VO_kamui.kamui_sys_0004
+031	That is why experiments regarding the Jam were conducted in Saga.
+032	That land is saturated with the blessings of nature, and has an abundant source of water. Saga is perfect for the Jam.
+033	Come to think of it, the Jam we fought in the desert were nothing compared to those that ran rampant in Saga.	VO_tina.tina_sys_0045
+034	The "Wind" Ouija was able to eradicate the Jam, much like our purification.	VO_kamui.kamui_sys_0037
+035	This must have been because the element of wind, with its power of circulation, drained the Jam of their moisture.
+036	Even if that were the case, what could we do? Draw Ceclidis out into the desert?	VO_adalbert.adalbert_sys_0002
+037	No, he intends to perform the resurrection ceremony. He won't leave the Sephira village ruins.
+038	Then do we use fire? Wouldn't that evaporate the moisture out of the Jam?	VO_logi-b.logi-b_sys_0031
+039	There's an easier method. We just need a drying agent.
+040	Drying...agent? Like, those things merchants use to keep their products from going bad?	VO_moca.moca_sys_0025
+041	Exactly. With that, we wouldn't have to go through the trouble of starting any fires. All we would have to do is throw it upon them.	VO_kamui.kamui_sys_0004
+042	Even soldiers without powers of purification or Alchemy would be able to fend off the Jam.
+043	But to deal with all the Jam, we'll be needing a large quantity of drying agent.	VO_adalbert.adalbert_sys_0016
+044	What about the ports?	VO_kamui.kamui_sys_0002
+045	What do you mean?	VO_adalbert.adalbert_sys_0006
+046	This country imported loads of limestone to be used for fertilizer and construction mortar.
+047	There should be a large stock of lime at the port, should there not?	VO_kamui.kamui_sys_0001
+048	Limestone? Does that work as a drying agent?	VO_adalbert.adalbert_sys_0006
+049	It does. Heat treated lime absorbs moisture and can ignite.	VO_kamui.kamui_sys_0004
+050	That sounds...very useful.	VO_adalbert.adalbert_sys_0045
+051	The port of Gluttony Foss has been active, even though... No, especially because of this country's internal conflict.
+052	Both the Liberation Army and Gluttony's army have been in desperate need of supplies.	VO_adalbert.adalbert_sys_0016
+053	The port has been instrumental for both armies in gathering and stocking supplies.	VO_adalbert.adalbert_sys_0002
+054	Then here is the plan.	VO_kamui.kamui_sys_0004
+055	We will head for the port and gather supplies, then move on the offensive.
+056	I'm starting to see a ray of hope, but...	VO_adalbert.adalbert_sys_0016
+057	Is this about the morale of the troops?	VO_kamui.kamui_sys_0030
+058	Yes. The loss at the royal capital has caused morale to drop significantly.
+059	We may not be able to expect much from them if we force them to march now.
+060	Then I will march with them. I will rally them until my throat bleeds.	VO_selliord.selliord_sys_0005
+061	Would that be of some help?
+062	Your Highness?! You mustn't! Your wounds are not yet healed!	VO_adalbert.adalbert_favorite_0001
+063	I'm fine, Adelbert. This is nothing compared to what Marie is having to endure now!
+064	You will be putting yourself in danger. Are you sure?
+065	I am the Liberation Army's banner. How can I expect any soldier to follow me if I do not stand at their head?	VO_selliord.selliord_sys_0001
+066	I know I am powerless. I have no aptitude for leading an army, nor any means of saving anyone. I depend on all of you for everything.
+067	Yet still, I am a member of the royal house of Gluttony Foss.
+068	I have responsibilities that only I am capable of executing, and the people will not follow me unless I take these responsibilities on with my life on the line.
+069	Am I wrong, Adelbert?
+070	Adelbert, his Highness' will seems to be set in stone.	VO_kamui.kamui_sys_0002
+071	Your Highness... As you wish! I, Adelbert, will dedicate all that I am to your protection!	VO_adalbert.adalbert_sys_0005
+072	Thank you.	VO_selliord.selliord_sys_0034
+073	All right then. Tina, Logi, and I will head to the port to secure the materials we need. If everyone else could prepare for the offensive...
+074	The Blue Tongues will help with the delivery of the drying agent.	VO_logi-b.logi-b_sys_0032
+075	If you would, please.	VO_kamui.kamui_sys_0041
+076	I...I will...
+077	Mocca, I would like for you to go with the Liberation Army.
+078	B-but I'm like a torch to a moth! I'd be attracting too much attention! Surely I'd be putting all of them in danger!	VO_moca.moca_sys_0042
+079	I was actually counting on that.	VO_kamui.kamui_sys_0007
+080	You were?
+081	By having you travel with the Liberation Army, I'm hoping the enemy's attention will be focused on them and away from us.	VO_kamui.kamui_sys_0037
+082	You should be the perfect distraction to prevent the enemy from obstructing our efforts.
+083	Besides, there is one thing I'd like for you to do.
+084	Th-there is?	VO_moca.moca_sys_0025
+085	Let's go! Tina, Logi!	VO_kamui.kamui_battle_0015
+086	We will head to the port through the night! We must deliver the materials to the Liberation Army before they reach Sephiron!
+087	We will not detour even if monsters stand in our way! We'll cut straight through them!
+088	Got it!	VO_logi-b.logi-b_sys_0004
+089	You can count on us!	VO_tina.tina_sys_0037

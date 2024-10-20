@@ -1,0 +1,110 @@
+﻿001	...
+002	Hey, did you hear? The village to the west of here got swallowed by the flames of corruption.	VO_stknightm.stknightm_sys_0001
+003	Already? That's the third one this month.
+004	It seems the invasion of the Invidia Belt also failed miserably. At this rate we're all going to—	VO_stknightm.stknightm_sys_0030
+005	...
+006	Did you hear King Arius lost?
+007	He is basically wrath itself! None of us have ever come close to matching him and they beat him?
+008	Does the Invidia Belt possess such fearsome knights? Who could've possibly beaten him?
+009	And not just that—
+010	Oh. Sulva. Are you...playing...outside the castle again?
+011	...
+012	I don't care much for your antics. A brat ought to obediently listen to their caretakers. It would make all our lives much easier.
+013	I understand the urge to act out while you're in your rebellious phase, but that does not give you free rein to behave like a spoiled child.
+014	...What does a serpent want with me?
+015	Nothing at all. I simply saw you passing by.
+016	I don't have any interest in you. Your pride will hit a dead-end sooner or later.
+017	...?
+018	However, I have some thoughts about that sword you carry on your back.
+019	...
+020	My, my, no need to be so wary. Didn't I just tell you I have no interest in you?
+021	I'm busy enough keeping the Cursed Beast fed...
+022	Didn't you hear? Satna flattened another village!
+023	Here I am, trying so desperately to bring peace to this area, and there it goes, just doing whatever it wants.
+024	Aah... If only Icona were still alive. That women really just did whatever she felt like. Even in death she's selfish.
+025	I'd laugh if it weren't for the fact that I now have to clean up her mess.
+026	...I'm here to meet the queen.
+027	Oh? Go right ahead then. The end is near, child. Enjoy the time you have left.
+028	After all, in this world it isn't unusual to die before you realize what is happening.
+029	...
+030	My queen, are you awake?
+031	...My queen?
+032	...Sulva. What is it?
+033	What am I supposed to do? For what reason do I live?
+034	Why would you ask me such things?
+035	Your life, your work, and your actions are your own.
+036	Make your own decisions, face your own challenges, and live as you see fit.
+037	But...
+038	Are you still worried about what happened that day?
+039	When the former king—my brother Arius—sacrificed himself to save you? It was of his own volition.
+040	It may be the reason why he fell into corruption, but even if that is what makes our land perish, you aren't the one to blame.
+041	...
+042	You carry the Red Blade. The very blade that my brother, the king, entrusted to you.
+043	Nobody will voice their objections to your choices, regardless of how you use it.
+044	Perhaps, but...
+045	If you wished for the throne, then the sword would respond to that desire.
+046	I am but a false monarch. The one recognized by the sword could make this castle built on falsity crumble at any time.
+047	I do not wish to be king.
+048	Then what is it that you desire? For what do you wield that sword? For what do you fight?
+049	...
+050	(I don't know what I desire.)
+051	(All I want is to repay the one who saved my life.)
+052	Grrroooooaaaahhh!	VO_arius.arius_sys_0032
+053	Haaaaaaaaaaaaaah!	VO_andechs.andechs_sys_0032
+054	You dare when in the Ira Belt it is I that—!	VO_arius.arius_sys_0042
+055	Tch!
+056	Nrgh!	VO_arius.arius_sys_0031
+057	It's over, Arius.
+058	Heh.	VO_arius.arius_sys_0007
+059	Hahahahahaha! Right. This is my end, is it?	VO_arius.arius_sys_0008
+060	Your faith and ideals were once the light that showed us the way.
+061	That's exactly why I do not wish to see you corrupted by wrath any longer.
+062	And what will you do about it?	VO_arius.arius_sys_0005
+063	I will slay you. You will die at my hands!	VO_andechs.andechs_battle_0022
+064	Ngh—! Ah—
+065	You—! Why do you protect a Fallen?!	VO_andechs.andechs_battle_0019
+066	...
+067	This man—
+068	This man saved me... He shielded me from the corruption, so in turn I will—!
+069	I see... So that's why our king has become like this.	VO_andechs.andechs_sys_0020
+070	He protected me, so in turn I must protect him, too...
+071	...I'm afraid he's already fallen victim to the corruption. He will never return to his former self.
+072	This man is no longer the king you once knew. He's long since lost all his humanity.	VO_andechs.andechs_sys_0016
+073	And what about it?! Does that mean I should just give up on saving him?!
+074	...
+075	He saved my life... And because of that...
+076	I will save his!
+077	...I see.	VO_andechs.andechs_battle_0019
+078	I've come here to save this country. In order to do that, I am prepared to dirty my hands.
+079	If that means fighting a child, then so be it.	VO_andechs.andechs_sys_0001
+080	...
+081	Andechs!
+082	Don't interfere!	VO_andechs.andechs_sys_0014
+083	This is a fight between countrymen... Please, let me handle it.
+084	But...	VO_nimuru.nimuru_sys_0002
+085	Please.	VO_andechs.andechs_battle_0019
+086	...
+087	Tch!
+088	...Haa... Haa...
+089	...Not bad, kid. You'd make a good knight one day.	VO_andechs.andechs_sys_0003
+090	But this is the end. Run away. Don't throw your life away here.
+091	I can...still fight!
+092	I see.	VO_andechs.andechs_sys_0020
+093	Oh my, it looks like someone left themselves wide open.
+094	Huh?!	VO_andechs.andechs_battle_0019
+095	What—?!	VO_nimuru.nimuru_sys_0027
+096	Andechs!	VO_dafne.dafne_sys_0025
+097	Ngh...	VO_andechs.andechs_battle_0022
+098	Why did you—?
+099	Hah...ha... Why indeed...	VO_andechs.andechs_sys_0010
+100	Ande—	VO_arius.arius_battle_0022
+101	Such a tragic tale.
+102	A fight between a boy who adores his fallen king, and the most prestigious knight of this country.
+103	I would've loved to see the conclusion to this tale.
+104	Sadly, I'm afraid I do not have the time. I'm sorry, but we'll need to wrap this up.
+105	...Serpent.	VO_nimuru.nimuru_sys_0003
+106	What's this? I haven't even had the chance to introduce myself, and yet you determined my true identity in the blink of an eye. A very perceptive boy you are.
+107	But don't you know that introductions are an integral part of good etiquette?
+108	I am Quence. And as you have already discerned, I am a member of the group you've been so desperately searching for: the Infinite Serpent.
+109	Ah well, it's a pity I don't have the time to entertain you.
+110	This is but the worthless prologue before your end! Enjoy your eternal slumber!

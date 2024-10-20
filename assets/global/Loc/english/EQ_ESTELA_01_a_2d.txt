@@ -1,0 +1,125 @@
+﻿001	You want me to fortune tell about Slothstein's future with mechanical engineering?	VO_estella.estella_sys_0009
+002	Yes. That is why I wanted you to come to Slothstein for this reading.
+003	I see…	VO_estella.estella_sys_0030
+004	Is that strange?
+005	Not at all. Although for the most part, people ask to have their own fortunes told.	VO_estella.estella_sys_0007
+006	Usually because they need some sort of direction in their lives.
+007	I don't need to know my own fortune. I'm already retired.
+008	Instead I'm curious about how this country will move forward with mechanical engineering.	VO_estella.estella_sys_0045
+009	Yes. Magic engineering can that benefit the people, and there are some drawbacks with machines.
+010	Is it right for the world to move in that direction? I'm just not so sure.
+011	But I do like machines. So I'm hoping that there is a brighter future for technology.
+012	And that's why you're requesting for a reading. I understand. Alright. Let's have a look.	VO_estella.estella_sys_0037
+013	I see…a dark shadow…
+014	A dark shadow?
+015	Yes. It's looking for a great confrontation. There will be a big festival soon, won't there?	VO_estella.estella_sys_0006
+016	It is there that it will take upon a wish…	VO_estella.estella_sys_0030
+017	A big festival… No…
+018	It can't be… Everyone's been working so hard.
+118	The festival is expected to change the course of mechanical engineering. And there's nothing that can be done?
+019	…
+020	The future seen through fortune telling is a temporary vision. Efforts can be made to change its course.	VO_estella.estella_sys_0039
+021	If you want to change the future, I'd have to look further and deeper.	VO_estella.estella_sys_0003
+022	Please! I would like to know.
+023	Certainly.	VO_estella.estella_sys_0005
+024	It seems…the central person is feeling extremely nervous.
+025	She is impatient and her feelings are spreading to people around her, and so the others are pushing themselves too hard. And then disaster…	VO_estella.estella_sys_0030
+026	She… Ah, I see.
+027	Thank you. I think I understand now. I have to tell him that the problem must be solved…
+028	But even if one problem is solved, another one may appear.	VO_estella.estella_sys_0003
+029	Confusion, anxiety, bewilderment… All are within her heart. Without resolution, the dark shadow will continue to control her
+030	I see… What is there to do?
+031	Hmm… Estella. Could you stay here for a while as a fortune teller?
+032	Huh?	VO_estella.estella_sys_0026
+033	Of course, I will pay extra for this service. I'll also prepare a place where you can do your readings.
+034	But…
+035	Please. There are people who need your assistance in fortune telling here.
+036	(This is a difficult situation. I usually don't stay in one place for long periods…)	VO_estella.estella_sys_0031
+119	(Staying in one place will make everyone around become completely dependent on fortune telling...)
+037	(I didn't want to be part of that anymore, so I decided to travel. Also…)
+038	I understand. Then for a little while, I'll be a fortune teller for this city.	VO_estella.estella_sys_0037
+039	(It is a "job" at least…)	VO_estella.estella_sys_0007
+040	The roles of fotune tellers are to support hard working people…
+041	Those who want to achieve great things have a heavy burden. Mental strength is necessary.
+042	That's why we've made promises with the spirits for their help, so we can support the backs of those who work hard.
+043	"We fortune tellers must support the backs of those who work hard!" My mother's words exactly.
+044	And with that in mind, she used her powers. The secret technique passed down in the family, called "Spirit Divination."
+045	A long time ago, the spirit that the ancestor made a pact with gave divine protection. This gave the power of fortune telling through the five senses.
+046	Surrender the senses to the spirits will grant the truth which nornal humans cannot see.
+047	She slowly started to lose her vision because of the power that was given to her. In the end, she became totally blind.
+048	She was a fortune teller whose eyes were like medals, and she supported a number of number of people with her visions.
+049	I was proud of my mother. After her passing, I inherited the contract with the spirits to become a fortune teller like her.
+050	But…
+051	All the people who come for my readings just want an easy answer.. They don't try to act or think for themselves.	VO_estella.estella_sys_0018
+052	Hey, mom. Is it really necessary for us to tell them their fortunes?	VO_estella.estella_sys_0003
+053	These people are forgetting to try to make an effort on their own, relying entirely on fortune telling.
+054	This is the shop that opened up recently. I heard the predictions were quite accurate.
+055	I had my fortune told and I'm glad I did. I felt like she could see everything, and her advice was accurate.
+056	And while she was talking, it was so soothing to hear. It was like she knew exactly what I wanted…
+057	Really…? I think I'll have to make a reservation!
+058	…
+059	What's wrong, Amis?	VO_vincent.vincent_sys_0006
+060	Actually… I think I should go back… I mean, everyone's doing well, so I don't know what I'm doing here…	VO_amis.amis_sys_0031
+061	Hey, you can't just cancel things. Getting a reservation for this fortune teller was really hard.	VO_vincent.vincent_sys_0002
+062	I did quite a lot of work trying to get this reservation for you. You really should be thanking me!
+063	But I didn't ask…
+064	That's not an excuse! You really need a break so your subordinates can also get a break.	VO_vincent.vincent_sys_0010
+065	W-well, that may be true, but why to a fortune teller?	VO_amis.amis_sys_0020
+120	I don't have anything I particularly want to know.
+121	It's your stoic ways that made me want to bring you here.	VO_vincent.vincent_sys_0022
+122	Huh?	VO_amis.amis_sys_0025
+066	Never mind. So, let's go. I don't want to be chewed out by her for being late.
+067	Um… okay, I understand.
+068	Welcome and thank you for coming. You must be Amis.	VO_estella.estella_sys_0007
+069	Uh… Yes. Thank you very much. I'm sorry, but I don't have anything I want to know…	VO_amis.amis_sys_0005
+070	Is that right…?
+071	It seems you have a strong sense of responsibility…	VO_estella.estella_sys_0002
+072	You are compelled to complete any task assigned with full attention.
+073	There is a great and important task forthcoming. Because of it, you'll start to feel unease…
+074	…!	VO_amis.amis_sys_0025
+076	And then there is a major challenge for the region… No, for the world… And for you…
+129	You feel extremely honored… But at the same time, there is great responsibility.
+077	…
+123	It seems you recognize what I'm reading.	VO_estella.estella_sys_0003
+124	I do. There is something I'm anxious about. It's on my mind even while I sit here. But…	VO_amis.amis_sys_0005
+125	Then let me read your fortune. We may be able to clear some of your worries and anxieties.	VO_estella.estella_sys_0007
+126	…
+079	…
+080	We must succeed… The train's fate… No, the fate of a mechanical engineering…	VO_amis.amis_battle_0019
+081	But... I wonder if it's really going to go well if it takes so much time for preparation. Not only the ceremony, but also for the future…
+127	I can't be this weak-minded if I want to lead others. I have to be focused.
+128	I know that. I know, but…	VO_amis.amis_sys_0016
+082	It's time, Vice-Captain Amis.
+083	Yes. If the next ceremony is successful, the train will officially be put into service. I never thought I'd be assigned to be in charge of it.	VO_amis.amis_sys_0005
+084	Why not? It was essentially your idea as vice-captain.
+085	At first, I was told that it was absurd. But I was able to proceed with the research though the help from my boss. And that's how it went.	VO_amis.amis_sys_0007
+086	This will lead to many people being able to travel far and wide.
+087	It's going to be a future where people will connect from all over the world, through new technology and engineering feats.	VO_amis.amis_sys_0004
+088	Thanks to you, vice-captain, right?
+089	…
+090	Vice-captain Amis. Congratulations on your promotion as the next director.
+091	The cards show…dark clouds.	VO_estella.estella_sys_0030
+092	Huh?	VO_amis.amis_sys_0006
+093	The overwhelming burden and enthusiasm together create impatience. You are now placing unnecessarily burden on yourself and those around you.
+094	You or your subordinates cannot undertake this stress.	VO_estella.estella_sys_0002
+095	It starts off as minor, but it will gradually spread everywhere…
+096	It's like you can see your future, right Amis?	VO_vincent.vincent_sys_0003
+097	In other words, the situation will improve if I can calm down and pay attention to my surroundings...?	VO_amis.amis_sys_0031
+098	Remember that fortune telling is not fate. You can use the readings to change the future for the better.	VO_estella.estella_sys_0006
+099	I…see…
+100	Although there is a concern. I have a bad feeling about how things are moving. It seems that there is something missing.
+101	It would be wise to check once more on the preparation for the ceremony.	VO_estella.estella_sys_0003
+102	Speaking of that, I already have some subordinates preparing for it. But it might be worth another look…
+103	I have to get going then. Thank you very much, Estella!	VO_amis.amis_sys_0033
+104	Hey! You're just going to leave without your superior? Really...	VO_vincent.vincent_sys_0002
+105	Well, at least some sense was knocked into her, so I'll let it slide this time.
+106	I'm glad she is seeing things in a better light. You're looking after your subordinates.	VO_estella.estella_sys_0007
+107	Their mental health is also my concern. I learned that from my predecessor.	VO_vincent.vincent_sys_0004
+108	Plus, this ceremony is very important to me. We want to make it a success no matter what. And so...I might be asking for your assistance again later.	VO_vincent.vincent_sys_0003
+109	Your powers are the real thing, it seems.
+110	Whenever you need my assistance.
+113	Hm? I'm sorry, the previous customer was my last reservation for today.	VO_estella.estella_sys_0025
+114	You must be Estella. You travel from place to place, reading fortunes that lead toward success.
+115	You're going to have to shut down this place. Any more of this will cause trouble around here.
+116	That's a pretty forceful method, isn't it? Though It's an honor to have think of my powers so highly.	VO_estella.estella_sys_0030
+117	You think that fortune tellers are weak… How shallow of you.

@@ -1,0 +1,41 @@
+﻿001	Morning, Margaret.	VO_elizabeth.elizabeth_sys_0007
+002	G-good morning, Miss Elizabeth.	VO_margaret.margaret_sys_1011
+003	Oh! You're looking much better. You should be able to start going outside soon!	VO_elizabeth.elizabeth_sys_0045
+004	Um, M-Miss Elizabeth? Th-thank you for staying by my side, and...t-taking care of me for the last few days.	VO_margaret.margaret_sys_0027
+005	It's fine! I'm just trying to get this new medicine to work.	VO_elizabeth.elizabeth_sys_0007
+006	Um...p-please, let me thank you, s-somehow.	VO_margaret.margaret_sys_1011
+007	I-it's fine, really.	VO_elizabeth.elizabeth_sys_0011
+008	(I can't exactly tell her that the side effects were so bad that I was afraid to leave her alone for even a moment.)
+009	Besides, you've got a home to go back to soon, right?	VO_elizabeth.elizabeth_sys_0003
+010	I...don't have any family left. I-I'll do anything you want! I-is there anything you would, um, like?	VO_margaret.margaret_sys_1011
+011	Hmm... What do I want, you wonder? Well...how about a magical cure-all?	VO_elizabeth.elizabeth_sys_0020
+012	Ah! Th-that's...um...I... I don't think I can do that! I'm so sorry!	VO_margaret.margaret_sys_0035
+013	Hahahah. Don't worry about it. If I had to name something else I want... Well, that'd be a little sister.	VO_elizabeth.elizabeth_sys_0008
+014	A little sister?	VO_margaret.margaret_sys_0027
+015	I'm sure that would make Mother happy, too. It would be nice, but—	VO_elizabeth.elizabeth_sys_0004
+016	All right. I understand.	VO_margaret.margaret_sys_1011
+017	H-huh?	VO_elizabeth.elizabeth_sys_0025
+018	Then...I'm going to call you Lizzy, like I would my own big sis!	VO_margaret.margaret_battle_1030
+019	L-Lizzy?	VO_margaret.margaret_chara_2011
+020	I've already injected you with an antidote. You're going to be all right. Now, what happened here?	VO_elizabeth.elizabeth_sys_0007
+021	Wh-what are you doing here?	VO_margaret.margaret_sys_0025
+022	I thought that I had stumbled across some excellent test subjects when I saw two people lying on the ground, but it turned out to just be you and that suspicious-looking scientist fellow.	VO_elizabeth.elizabeth_sys_0030
+023	You've been working non-stop these past few days, and today you ran off unprepared, without any warning. I was quite worried about you, you know?	VO_elizabeth.elizabeth_sys_0012
+024	I-I'm so sorry. I know I shouldn't have. I caused you trouble again.	VO_margaret.margaret_sys_0035
+025	Margaret.	VO_elizabeth.elizabeth_sys_0020
+026	L-Lizzy... Um...	VO_margaret.margaret_sys_1011
+027	What is it?	VO_elizabeth.elizabeth_sys_0004
+028	This is the second time you've had to heal me. I'll do anything you want! Please let me make it up to you!	VO_margaret.margaret_sys_0011
+029	All right then. Please don't make me worry anymore.	VO_elizabeth.elizabeth_sys_0006
+030	Ah...to think that I would end up with such a clueless, clumsy little sister.	VO_elizabeth.elizabeth_sys_0030
+031	Ngh! I-I promise I'll come home safe!	VO_margaret.margaret_sys_0027
+032	Margaret?	VO_elizabeth.elizabeth_chara_1009
+033	I will find any ingredient you need. I'll even find a magical cure-all if you ask it of me. I'll go anywhere and everywhere for you!
+034	I'll make sure I'm prepared, though, by, um...figuring out how to get there first, and, um... Anyway, I won't make you worry about me anymore!
+035	I'm going to be a good little sister!	VO_margaret.margaret_sys_1011
+036	I feel like the conversation has strayed somewhat... Well, in any case, that sounds good. Do your best.	VO_elizabeth.elizabeth_event_1015
+037	And you can use me for your experiments any time!	VO_margaret.margaret_sys_0007
+038	That won't be happening.	VO_elizabeth.elizabeth_sys_0039
+039	Why not?!	VO_margaret.margaret_sys_0039
+040	Make sure you come home safe, all right? I'll be waiting for you.	VO_elizabeth.elizabeth_sys_0007
+041	Got it! You can count on me, Lizzy!	VO_margaret.margaret_sys_0006

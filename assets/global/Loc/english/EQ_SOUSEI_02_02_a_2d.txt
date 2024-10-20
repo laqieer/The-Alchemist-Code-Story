@@ -1,0 +1,103 @@
+﻿001	Whew. We managed to drive the monsters back.	VO_nimuru.nimuru_sys_0030
+002	Grrrooooooggghhhhhh!	VO_asmodeus.asmodeus_battle_0028_b
+003	Nngh... The wind is getting stronger! Now not only can I not see, but I can barely move!	VO_waginao-c.waginao-c_battle_0019
+004	The Cursed Beast must be causing this storm!	VO_kuienai.kuienai_sys_0004
+005	Nimul, what should we do? If this continues...!	VO_waginao-c.waginao-c_sys_0001
+006	We have no choice. We must use the Matter.	VO_nimuru.nimuru_sys_0005
+007	What?! We need that to seal the Cursed Beast of Gluttony!	VO_waginao-c.waginao-c_sys_0027
+008	That is exactly why we must use it now! We must test it, and it had better be before this ship gets any closer to the Cursed Beast!	VO_nimuru.nimuru_sys_0004
+009	This ship is absolutely indispensable in traveling between the Belt Regions.
+010	We must do something before it takes anymore damage!
+011	Orb of Si Xiang the Protector! Hear our cry! Lend your strength to this blade!	VO_nimuru.nimuru_sys_0032
+012	Huzzaaaaah!
+013	Did the blade's light reach the Cursed Beast?!	VO_waginao-c.waginao-c_sys_0025
+014	A torrent of magil...this must mean...	VO_kuienai.kuienai_sys_0025
+015	Groooogghhhh!	VO_asmodeus.asmodeus_battle_0020
+016	Th-this... Ngh... Matter of the swirling winds above! Save us!	VO_nimuru.nimuru_sys_0025
+017	Huh?!	VO_nimuru.nimuru_battle_0025
+018	Agh!	VO_waginao-c.waginao-c_battle_0022
+019	Tch!	VO_kuienai.kuienai_battle_0019
+020	Nimul! Waginau! Yna!	VO_emmer.emmer_sys_0028
+021	Oh! Their magil response has been confirmed! They're still alive!	VO_adlai.adlai_battle_0019
+022	I can't understand it, though. Despite that huge wave of magil, it doesn't seem like the Cursed Beast has been affected at all!
+023	I have to go out there!	VO_emmer.emmer_battle_0019
+024	Emmel?! Where are you going?!	VO_adlai.adlai_sys_0025
+025	They must have been hurt! I have to use my Spiritbonding to heal them!	VO_emmer.emmer_sys_0004
+026	And...I am the Vessel of Purification. There is a possibility that I can do something to stop the Cursed Beast as well!
+027	Calm down! If you go out like this, you'll just be another target for the Cursed Beast to destroy!	VO_adlai.adlai_sys_0014
+028	When you stopped that dragon, you could barely even stand!
+029	If you fall here, who is going to save the Gula Belt Region of Gluttony?!
+030	I... But what can we do?	VO_emmer.emmer_battle_0019
+031	I'll force the engine to fire up again and get the ship moving.	VO_adlai.adlai_sys_0031
+032	If we do that, maybe we can distract the Cursed Beast long enough to give Nimul and the others a chance to strike back!
+033	What? But earlier you said—	VO_emmer.emmer_sys_0025
+034	Like I said, I'm going to force it! But it'll strain the power reactor, and the repairs that'll be needed to fix it will be way more comprehensive.	VO_adlai.adlai_sys_0004
+035	Still, it's better than just sitting here and watching them die, right?!
+036	All right. So first we'll need to—
+037	Grrrooooooggghhhhhh!	VO_asmodeus.asmodeus_battle_0021
+038	Yikes! Here it comes...
+039	Is it...looking at us?
+040	Emmel! Watch out!	VO_adlai.adlai_battle_0019
+041	Nngh... Yna, Waginau...are you all right?	VO_nimuru.nimuru_battle_0022
+042	Yes...somehow.	VO_waginao-c.waginao-c_sys_0004
+043	It shattered my sword...with only its roar.	VO_kuienai.kuienai_sys_0027
+044	How can this be? With the magil intensity of something like Matter, my plan ought to have worked.	VO_nimuru.nimuru_battle_0022
+045	We should have been able to break through the Cursed Beast's barrier of corruption!
+046	Was I mistaken? Then all of the sacrifices we've made, everything that I have done up till now...was it all...?	VO_nimuru.nimuru_sys_0020
+047	...
+048	The Cursed Beast...is looking at the ship?	VO_nimuru.nimuru_sys_0027
+049	Wait! No! Stop!
+050	Grrrrrr...	VO_asmodeus.asmodeus_battle_0003
+051	Emmel!
+052	Uhh...? Is it not going to attack?
+053	My, my! Adaleigh, how could you? You've changed since the last time I saw you! Pushing a woman down like that—I didn't know you had it in you!	VO_mela.mela_sys_0008
+054	Give him a break, Mira. Adaleigh is a man, after all. Er, not that I would know anything about that...	VO_nix.nix_sys_0030
+055	Wh-what? I know those voices!	VO_adlai.adlai_sys_0026
+056	Adaleigh, are they...friends of yours?	VO_emmer.emmer_sys_0001
+057	Hey there, Adaleigh! It's been a while! Who's this lovely lady? Nice to meet you!	VO_mela.mela_sys_0038
+058	I'm Mira, a Space-Time Manipulation apprentice!	VO_mela.mela_sys_0008
+059	And I'm her younger brother, Nyx.	VO_nix.nix_sys_0005
+060	Oh, I'm⁠—	VO_emmer.emmer_sys_0031
+061	Grrrooooooggghhhhhh!	VO_asmodeus.asmodeus_battle_0028_b
+062	Whoops! Did we come at a bad time?	VO_mela.mela_sys_0035
+063	Get ready, Nyx! Spin that magil!
+064	Yeah, yeah... Space-Time Manipulation: Anti-Curse Reignition! Preparing to reconnect to space!	VO_nix.nix_sys_0038
+065	Time is finite!	VO_nix.nix_sys_0032
+066	Yet also infinite! Libra has granted us control! Spin your magil round and round!	VO_mela.mela_sys_0032
+067	The Cursed Beast's attack...was stopped?	VO_emmer.emmer_sys_0021
+068	Intensity lowered! Hm. Guess that's about all that can be expected from a prototype.	VO_nix.nix_sys_0025
+069	True. Worked well enough to give us a chance to get away, though!	VO_mela.mela_sys_0011
+070	Yep! Unless you've got a better idea?	VO_nix.nix_sys_0018
+071	I've got nothing! Shall we get out of here? C'mon, you two! You'll want to hold on to me pretty tightly!	VO_mela.mela_sys_0001
+072	Wh-what?	VO_emmer.emmer_sys_0025
+073	You're planning to jump?! But...we've got friends outside, too!	VO_adlai.adlai_sys_0027
+074	Don't worry! Our teacher's got them well in hand!	VO_mela.mela_sys_0007
+075	Nngh... Mira...I can't hold this for much longer! Hurry!	VO_nix.nix_battle_0019
+076	Aw, Nyx. I thought you were made of sterner stuff than this! All right, time to get this going!	VO_mela.mela_sys_0016
+077	Coordinates confirmed, jump initiated! Uh-oh. Too far? Hm. This might be a little tough for me on my own!	VO_mela.mela_sys_0025
+078	Mira... Come on...	VO_nix.nix_sys_0026
+079	Just a moment! I'm going to borrow a little more magil from Libra!	VO_mela.mela_sys_0014
+080	All right, activation complete! Let's get outta here!
+081	What is this? The reality before me is...becoming twisted?	VO_emmer.emmer_sys_0027
+082	Time to go home! Ready or not, here we come!	VO_mela.mela_sys_0008
+083	It stopped the Cursed Beast's attack? What was that?! Is Emmel okay?!	VO_nimuru.nimuru_sys_0025
+084	Not very smart, hm? Come, my apprentices have already jumped to safety.	VO_ambrosia.ambrosia_sys_0010
+085	Tsk... This is what I get for being curious, I suppose. I sensed the magil of someone I remembered, and ended up in the middle of a battle! Ridiculous.
+086	...
+087	Is that...a child?	VO_waginao-c.waginao-c_sys_0027
+088	Ha! Foolish boy. You're showing your immaturity by judging someone before you've even gotten to know the first thing about them.	VO_ambrosia.ambrosia_sys_0001
+089	Foolish boy?!
+090	Er...excuse me. Miss? Who are you?
+091	Well, you're a little more clever than the rest, aren't you?	VO_ambrosia.ambrosia_sys_0005
+092	Let's save the introductions for later. Other ice beasts will be headed this way, drawn by the corruption of the Cursed Beast.
+093	Grrrrrrrrrrrrrrr...
+094	Ngh!	VO_nimuru.nimuru_sys_0027
+095	Better to run and fight another day, don't you think? What, you don't trust me?	VO_ambrosia.ambrosia_sys_0004
+096	Well, not that I don't understand where you're coming from, but...	VO_ambrosia.ambrosia_sys_0001
+097	The way I see it, your options are to either come with me and live, or become the prey of these creatures and likely not. Which will it be, gentlemen?
+098	I have no intention of dying here!	VO_waginao-c.waginao-c_battle_0019
+099	Of course not. Are we agreed?	VO_nimuru.nimuru_sys_0002
+100	We are.	VO_kuienai.kuienai_sys_0004
+101	Naturally!	VO_waginao-c.waginao-c_sys_0037
+102	Good, good. You mustn't give up just because things grew a little difficult. That would be beyond foolish. Now...	VO_ambrosia.ambrosia_sys_0007
+103	I suppose I don't mind helping you out a little.	VO_ambrosia.ambrosia_sys_0004

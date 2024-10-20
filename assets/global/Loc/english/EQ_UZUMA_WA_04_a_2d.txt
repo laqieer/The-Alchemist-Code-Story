@@ -1,0 +1,121 @@
+﻿001	So this is it...the cave where the Sephirium is...	VO_miuna.miuna_chara_1008
+002	You called it the Temporal Cave, didn't you?
+003	Ye-yes. According to the ancient traditions, it is said to be a passage that connects this world with the underworld.	VO_uzma.uzma_chara_1006
+004	The truth is that it's just a regular cave.
+005	(But...I'm scared. Deep within here is...an ancient darkness...the old world of death.)	VO_uzma.uzma_sys_0043
+006	Hmm. All right. Let's go then.
+007	Yep.	VO_miuna.miuna_sys_0005
+008	Huh...oh!	VO_uzma.uzma_sys_0025
+009	(Why aren't they afraid of this darkness?)	VO_uzma.uzma_sys_0017
+010	Ohh...	VO_uzma.uzma_sys_0042
+011	(I...need to go too!)
+012	It's pretty dark in here. Careful, dad.	VO_miuna.miuna_chara_1002
+013	Don't treat me like an old man.
+014	Yeah, yeah.	VO_miuna.miuna_sys_0007
+015	... ...
+016	...Sorry, but I don't like you.	VO_miuna.miuna_sys_0030
+017	I don't understand how you could be so frightened of dying while you're still alive.
+018	Maybe what you're really afraid of is being alive.
+019	Or better put...you're so afraid of dying that you've become scared of living.
+020	Are you...really alive right now? Or are you dead even as you live? That's how it appears to me.
+021	We are those who unite wisdom.	VO_thiefm.thiefm_sys_0007
+022	(It is human nature to fear death. It is inevitable for those who live to die. Afraid of death?)	VO_uzma.uzma_sys_0016
+023	(Dead even as I live...? Unite wisdom? My...compatriots? I don't understand. What...)
+024	(What am I afraid of?)	VO_uzma.uzma_sys_0018
+025	Le-let's go back!	VO_uzma.uzma_battle_0017
+026	?
+027	Seriously? What are you talking about?	VO_miuna.miuna_sys_0025
+028	We can't! We must not go any further!	VO_uzma.uzma_sys_0018
+029	Look. I don't mind you being afraid, but could you not get in the way of our—	VO_miuna.miuna_sys_0017
+030	No, you don't understand! Ku Yogi...you...you're going to die soon!	VO_uzma.uzma_sys_0040
+031	Yeah. I know that.
+032	...Huh?	VO_uzma.uzma_sys_0025
+033	I'm sick. Miuna knows that as well.
+034	...If you know that then why are you doing this? Why?!	VO_uzma.uzma_sys_0021
+035	...There was this man.
+036	...?	VO_uzma.uzma_sys_0016
+037	He came to me with a request to weld a weapon. He wanted a sword that would lose to no other.
+038	There was a strong sense of determination in his voice-an unwavering belief in something. It was the voice of a man who had resolved himself.<br><br>
+039	Resolve...	VO_uzma.uzma_chara_1006
+040	Yes...resolve. However, I am a blacksmith hired by a man of a certain status.
+041	I'm not supposed to accept requests from other individuals. That's why I turned him down. I turned him down, but...
+042	Heh. I was moved by that man...by the resolve in Zehn's voice.
+043	Yes...I don't have long to live. That's why...
+044	For my final creation as a blacksmith, I've been itching to make him that sword.
+045	...!	VO_uzma.uzma_sys_0042
+046	("Until the moment I die, I want to listen to the voice of the iron that I strike, weld, and sharpen!" That is Ku Yogi's way of living...)
+047	Uzuma...I won't discount your fears or your way of thinking. We can't help what we're afraid of. Still...
+048	Can you help me complete my final creation until the end? Please.
+049	(But, still...this man is headed to his death! If he continues this way...Ku Yogi will die!)	VO_uzma.uzma_sys_0029
+050	I don't know... Wh-what should I do...?!	VO_uzma.uzma_sys_1019
+051	If you don't know, then I'll tell you.	VO_thiefm.thiefm_sys_0010
+052	Come with us. That's the answer.
+053	...!!!	VO_uzma.uzma_sys_0027
+054	Seriously. You guys again. You really are an annoying bunch, aren't you?
+055	Say what you like. We are here to accomplish our mission.	VO_thiefm.thiefm_sys_0029
+056	Your mission, huh? Well, the same goes for me. I'm here to complete a very important job.
+057	Enough! How dare you place our noble purpose and your so-called job in the same boat!	VO_thiefm.thiefm_sys_0026
+058	How dare you! Everyone carries their own purpose in life. I'd appreciate if you didn't pass judgment on mine.
+059	...It appears we can't see eye to eye.	VO_thiefm.thiefm_sys_0016
+060	For once I agree with you! Miuna!
+061	Yep!	VO_miuna.miuna_sys_0004
+062	Heh. I summon you...slave of wisdom...	VO_thiefm.thiefm_sys_0007
+063	Gurrrr...!	VO_Mwolf.Mwolf_battle_0019
+064	They've summoned a monster...?!	VO_miuna.miuna_sys_1028
+065	Now!	VO_thiefm.thiefm_battle_0012
+066	...?!	VO_uzma.uzma_battle_0022
+067	Hyahahah! We're taking Uzuma with us!	VO_thiefm.thiefm_sys_0023
+068	Tsk! Those scum!	VO_miuna.miuna_sys_0043
+069	Gurrraaaaahhh!!!	VO_Mwolf.Mwolf_battle_0028_b
+070	Ack! Get out of the way, monster!	VO_miuna.miuna_sys_0018
+071	We've finally...finally obtained Uzuma! Our long-cherished wish can finally be achieved!	VO_thiefm.thiefm_sys_0008
+072	Your long-cherished wish? What are you talking about?!	VO_uzma.uzma_sys_0029
+073	Heh...heheheh...hyahahah! We've found it! Behold!	VO_thiefm.thiefm_sys_0023
+074	Huh?	VO_uzma.uzma_sys_0025
+075	Oh! That's...the Sephirium!	VO_uzma.uzma_battle_1011
+076	Yes! This is the resin secreted from Sephiron. It is literally Sephiron's blood!	VO_thiefm.thiefm_sys_0005
+077	We can now fulfill our long-cherished wish...we can resurrect our mother, the giant green tree Sephiron!
+078	Re-resurrect Sephiron...?! Is that possible?!	VO_uzma.uzma_sys_0021
+079	It is. All we need is the Sephirium, you, Uzuma...and that hourglass of yours.	VO_thiefm.thiefm_sys_0029
+080	Why me...and why the hourglass?	VO_uzma.uzma_sys_0001
+081	So you had it all this time without knowing? That hourglass contains the Sands of Life that once nourished the roots of Sephiron.	VO_thiefm.thiefm_sys_0006
+082	That sand can nurture various life...it is the only substance that can restore life to Sephiron.
+083	?!	VO_uzma.uzma_sys_0027
+084	After we plant the seeds of Sephiron reproduced from the Sephirium and allow it to germinate in that sand...the only remaining ingredient will be you, Uzuma.	VO_thiefm.thiefm_sys_0007
+085	Your flesh and blood will serve as nourishment!
+086	...?!	VO_uzma.uzma_battle_0017
+087	Rejoice! Your body will serve as a sacrifice to Sephiron! Hyahahahahah!!!	VO_thiefm.thiefm_sys_0023
+088	...!!!	VO_uzma.uzma_battle_0022
+089	Ah, so gathering from what I heard from your speech, your mission is to plant a tree, huh?
+090	?!	VO_thiefm.thiefm_battle_0019
+091	Ku Yogi...Miuna?!	VO_uzma.uzma_sys_0025
+092	Well, I'm sure it's an important tree, but...I'm not fully convinced that it's worth exchanging the life of this young girl for.
+093	You...! How did you get this far?!	VO_thiefm.thiefm_battle_0022
+094	Here's how it is: I'm practically blind.
+095	...No way.	VO_uzma.uzma_sys_0025
+096	Instead, my hearing is exceptionally good. All I did was follow your loud voices.
+097	(He can't see? It didn't seem that way at all until now. More importantly...)	VO_uzma.uzma_sys_0021
+098	(Did he come all this way without being able to see...and being fully aware of his own impending death?)
+099	(Is that what it means to be resolved? What strength...the blinding radiance of life!)	VO_uzma.uzma_sys_0042
+100	Dad, the Sephirium is here.	VO_miuna.miuna_chara_1008
+101	Yes, even I can tell. It's still alive. I can feel its strength.
+102	But it's resin, not ore, right? Can you really make a weapon out of it?	VO_miuna.miuna_sys_0001
+103	Heh. Sephirium's resin is many times harder than your average ore. There won't be any problem. Besides...
+104	I'm Ku Yogi. Whether it be resin or diamonds, there is no substance I cannot use to make a weapon out of.
+105	Yeah, got it. All right, let's get our hands on it...even if we have to use force!	VO_miuna.miuna_sys_0007
+106	We're not going to let a blind man and a brat rob us of our Sephirium!	VO_thiefm.thiefm_sys_0007
+107	It's not just us. There's her as well.	VO_miuna.miuna_sys_0010
+108	Huh...?	VO_uzma.uzma_sys_0025
+109	Hey! Scaredy-cat! You're afraid of dying, right?!	VO_miuna.miuna_chara_1015
+110	At this rate, you're going to be turned into fertilizer for that tree!
+111	...?!	VO_uzma.uzma_sys_0042
+112	(I can feel Miuna's radiance! It's blinding! How can people shine so brightly?!)	VO_uzma.uzma_chara_1006
+113	(I want to shine as well!!!)
+114	Don't tell me you're willing to remain silent while they kill you!	VO_miuna.miuna_sys_0018
+115	No! No, of course not! I'm going to live!	VO_uzma.uzma_sys_0020
+116	Haahhh!	VO_uzma.uzma_sys_0032
+117	Aghh...?!	VO_knightm.knightm_battle_0024
+118	What?!	VO_thiefm.thiefm_sys_0025
+119	Not bad! Let's go!	VO_miuna.miuna_sys_0044
+120	Okay!	VO_uzma.uzma_sys_0004
+121	We won't allow it!	VO_thiefm.thiefm_battle_0019

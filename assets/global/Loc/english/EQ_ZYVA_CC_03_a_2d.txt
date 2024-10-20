@@ -1,0 +1,145 @@
+﻿001	I can see colors.
+002	You are a poet, then?	VO_drei.drei_sys_0007
+003	Ahahah! And you are an idiot!	VO_siewa_siewa-b.siewa_sys_0007
+004	Yes, yes. Concentrate, if you please. One, two, three...
+005	Ahh! W-wait, wait!	VO_siewa_siewa-b.siewa_sys_0025
+006	I was being serious, you know! I can see colors. Kind of like auras. Sometimes they're faint, sometimes they're really vivid.
+007	Walk in a straight line. Your center of gravity should be tipped slightly forward, so that you glide smoothly across the floor. Now, one, two, three...	VO_drei.drei_sys_0004
+008	Hey! Giudecca! Don't you believe me? It's true!	VO_siewa_siewa-b.siewa_sys_0003
+009	Un, deux, trois...
+010	You're still counting! Aaaahhh!	VO_siewa_siewa-b.siewa_sys_0026
+011	We must do something about that ungainly stride of yours as soon as possible.	VO_drei.drei_sys_0006
+012	Just let me walk how I want!	VO_siewa_siewa-b.siewa_sys_0022
+013	You are lacking refinement.	VO_drei.drei_sys_0001
+014	Shut it!	VO_siewa_siewa-b.siewa_sys_0013
+015	What did I just tell you?
+016	Shut up! I'm sick of you. You're a stupid idiot! A loopy loon! Beh!
+017	You are far from dazzling yet.	VO_drei.drei_sys_0022
+018	Ugh...
+019	Iris... I wonder if this color perception of yours is a form of synesthesia.	VO_drei.drei_sys_0001
+020	What the hell is that?	VO_siewa_siewa-b.siewa_sys_0006
+021	You mustn't talk so roughly. Try something like this: "What exactly is that, sir?"	VO_drei.drei_sys_0004
+022	Wh-what's that, actually, um...sir?
+023	Really? You couldn't manage to string a simple sentence together?	VO_drei.drei_sys_0002
+024	Urghh! I'm so sick of this!	VO_siewa_siewa-b.siewa_sys_0029
+025	Synesthesia is a unique sensory condition which causes one to perceive the Alchemia emitted by voices, personalities, figures, and so on as colors. It is incredibly rare.
+026	Sometimes the colors change depending on the person's mood... I like it. It's kinda interesting, and pretty to look at.
+027	What color am I?
+028	Same as my old man.	VO_siewa_siewa-b.siewa_sys_0010
+029	You mustn't like me very much, then. Also, do not make me repeat myself. You must mind your speech.	VO_drei.drei_sys_0022
+030	Sir Giudecca, you are very the same hue as the pile of human excrement that was my father.
+031	Can you identify lies and forgeries by color as well?
+032	It's not some kinda all-powerful superpower. Parts of me get mixed in as well, complicating things...	VO_siewa_siewa-b.siewa_sys_0031
+033	There're plenty of things I can't see. Things that are buried deep inside, complex emotions and intent—not all evil is blatant, y'know.
+034	That's how I ended up like this.	VO_siewa_siewa-b.siewa_sys_0022
+035	A real mess...
+036	Reporting on Iris' training.
+037	I don't recall asking you to do that.	VO_sol.sol_sys_0002
+038	You are going to need more fighting power if you are to make it through the Mystic Tower Veda, yes?	VO_drei.drei_sys_0002
+039	That doesn't mean I'm taking on just any old street rat.	VO_sol.sol_sys_0004
+040	We've got a samurai on board now.
+041	I heard that you were spurned by the king of Lost Blue.	VO_drei.drei_sys_0007
+042	It's not the first time. Kings, like cats, are fickle beasts.	VO_sol.sol_sys_0010
+043	I assure you that I am going to succeed here.	VO_drei.drei_sys_0004
+044	I don't want to be subjected to every minor detail of your training routine.	VO_sol.sol_sys_0031
+045	It will be a long and gradual process that will yield appropriately steadfast results.
+046	Are those twin blades of yours merely ornamental?	VO_drei.drei_sys_0010
+047	Yeah! They are!	VO_siewa_siewa-b.siewa_sys_0016
+048	So, first and foremost they are for show. Two specialized weapons, whose surreal, slashing movements confound the eye.
+049	Even hopelessly outnumbered, the angle of the range of your control will be expansive, and the breadth of your tactics will be wide.
+050	Two is stronger than one! Everyone knows that!	VO_siewa_siewa-b.siewa_sys_0010
+051	Huh?!	VO_siewa_siewa-b.siewa_sys_0025
+052	On the contrary, dual-wielded blades are only half as powerful as a two-handed weapon.
+053	Wha—?!	VO_siewa_siewa-b.siewa_battle_0019
+054	The weight of your blades is too much for your fragile frame. They carry your movements, when it ought to be the other way around.	VO_drei.drei_sys_0001
+055	You...!
+056	Strike firm and true. Pierce one of the body's vital points with a single hit.	VO_drei.drei_sys_0010
+057	C'mere...!
+058	If one of your blades is stopped, you must immediately strike with the other.
+059	Aaaaaargh!	VO_siewa_siewa-b.siewa_sys_0026
+060	There is much you will need to learn if you are to survive in Lost Blue and carry out your assassination missions.	VO_drei.drei_sys_0004
+061	Your skill with those blades is perhaps most important of all. They cannot afford to be crude, even if your demeanor can. You will need to master the use of each of your arms; that is surely our greatest problem to surmount.
+062	All right, already! I get it!	VO_siewa_siewa-b.siewa_sys_0016
+063	However, you ought to know that there is charm in discipline, in technique. Ceaseless, cutting slashes, a graceful sword dance; the elegant, rolling movements of the body as it deflects attacks, the flash left in your blades' wake...	VO_drei.drei_sys_0007
+064	Yes, romance abounds.
+065	Huh? What's romance got to do with anything?	VO_siewa_siewa-b.siewa_sys_0006
+066	Once we are done, you will be dazzling.	VO_drei.drei_sys_0004
+067	...
+068	Assuming I have not misjudged you, that is.	VO_drei.drei_sys_0010
+069	You know what? I'm starting to get excited about all this.	VO_siewa_siewa-b.siewa_sys_0007
+070	She is scrubbing up nicely, and surprisingly quickly, too. I expect she was an excellent thief.	VO_drei.drei_sys_0004
+071	You're not really a good example for her to follow, are you?	VO_sol.sol_sys_0002
+072	How rude.	VO_drei.drei_sys_0010
+073	Used to dealing with sprightly types, are we?	VO_sol.sol_sys_0010
+074	Very much so. I had to deal with many of the royal line when I was in the Imperial Elite Guard. Hence why I know a thing or two about etiquette and comportment...	VO_drei.drei_sys_0004
+075	In addition to combat training.
+076	Combat training?
+077	The kind that works every muscle in the human body to a fine point.
+078	I almost feel sorry for the poor girl.	VO_sol.sol_sys_0022
+079	Heh. She's very good at stealing things, you know.	VO_drei.drei_sys_0007
+080	This is the first thing I ever stole.
+081	A bottle?
+082	Just look at all the gems inside it!	VO_siewa_siewa-b.siewa_sys_0007
+083	I didn't know you fancied such trifles.	VO_drei.drei_sys_0007
+084	H-hey! What're you trying to say?! I never said anything like that!	VO_siewa_siewa-b.siewa_sys_0009
+085	(Hm. I enjoy this...)
+086	I was just a little girl, you know, living with a band of thieves. They found out I'd pinched this from our loot stash, but I begged my old man to let me keep it, and he did.
+087	Hmm...do I detect amber?	VO_drei.drei_sys_0045
+088	Aren't they pretty? They were my greatest treasure. They always gleamed like pure gold to me.	VO_siewa_siewa-b.siewa_sys_0007
+089	Not anymore?
+090	Well...they still do.
+091	Dad! I want this! It's all gold and sparkly!
+092	Just like your eyes!
+093	I can't help but stare at them. It's sort of...part of my daily routine.	VO_siewa_siewa-b.siewa_sys_0022
+094	Hmm...
+095	Wh-what the heck?! Why're you so close?!
+096	Because I chose to move closer.	VO_drei.drei_sys_0004
+097	What're you lookin' at?!	VO_siewa_siewa-b.siewa_sys_0003
+098	It's very sad, isn't it?	VO_drei.drei_sys_0007
+099	Would you be so kind as to go on an errand for me?
+100	It's time for a history lesson.
+101	Boo--!	VO_siewa_siewa-b.siewa_sys_0022
+102	Regarding the decline of Wratharis.
+103	Who gives a stuff about that?	VO_siewa_siewa-b.siewa_sys_0016
+104	The coincidence of the nation's defeat at the Battle of Gilrack and the fall of the Shadow Messiah led to a loss in national power that continues even today.	VO_drei.drei_sys_0004
+105	Internally, they delve into the forbidden arts...
+106	While externally, they continue to lose control over the soldiers within their borders.
+107	Sounds like they deserve it.	VO_siewa_siewa-b.siewa_sys_0008
+108	The following order has arrived from Greed Dike: "Having repeatedly committed such injustices as to be unpardonable in the eyes of the Holy Order of Babel, the Wratharis Guard is to be quietly annihilated."
+109	Pfft. Pathetic.	VO_siewa_siewa-b.siewa_sys_0010
+110	Of course, it is very likely that one of Greed Dike's motivations for this is to get on Northern Pride's good side, but be that as it may...	VO_drei.drei_sys_0030
+111	We have already obtained the troops' patrol routes and shifts. You ought to be able to assassinate your targets even without memorizing their faces.
+112	I would also like to have you take care of this for me.	VO_drei.drei_sys_0041
+113	A-alone?!
+114	Not only did the Wratharis Guard collude with a band of thieves from the region, but we have learned that they also embezzled a Wratharian national treasure that was originally stolen by those thieves.	VO_drei.drei_sys_0004
+115	What?!	VO_siewa_siewa-b.siewa_sys_0025
+116	Naturally, they have since wiped out those thieves in order to erase all evidence of their crimes.
+117	They were a small band, these thieves, who called themselves the Golden Wolves.
+118	You don't think you're giving her a bit much to deal with?	VO_sol.sol_sys_0001
+119	I am merely watering a seed so that it may grow.	VO_drei.drei_sys_0007
+120	I'm the one who gave you that assassination job in the first place.	VO_sol.sol_sys_0002
+121	Wratharis is in the middle of fighting a war on its borders. If they capture her, she'll probably be executed on the spot.
+122	You would prefer that I be the one to meet the headsman's axe?	VO_drei.drei_sys_0002
+123	Yep.	VO_sol.sol_sys_0004
+124	Not even a split second of hesitation! You really are too much.	VO_drei.drei_sys_0008
+125	What about that lengthy process you were so proud of?
+126	This is necessary for selection. Of her powers, her personage...	VO_drei.drei_sys_0004
+127	I believe you're doing something similar, yes?
+128	...
+129	Besides...
+130	...
+131	(I'm gonna steal it back!)
+132	I want her to lift the weight she carries off of her shoulders.
+133	Assassination just...isn't my style.	VO_siewa_siewa-b.siewa_sys_0031
+134	Come, now. Sparkle dazzlingly for me.
+135	What the—?!	VO_stknightm.stknightm_sys_0026
+136	Aaaaaaaaaargghhhhh!	VO_stknightm.stknightm_battle_0028_c
+137	Who are you?! Do you not know what it means to assault Wratharis soldiers?!	VO_stknightm.stknightm_sys_0028
+138	Don't you remember me?	VO_siewa_siewa-b.siewa_sys_0001
+139	What are you talking about?!
+140	Not ringing any bells? Okay... How about the Golden Wolves?
+141	Tch. There are more bands of thieves out there than there are warts on a toad. Like I can remember 'em all!	VO_stknightm.stknightm_sys_0010
+142	True...	VO_siewa_siewa-b.siewa_sys_0022
+143	It's not like I remember any of your faces either.
+144	Kill her! Slit her throat!
+145	Give it to me. I want...your head.	VO_siewa_siewa-b.siewa_sys_0016

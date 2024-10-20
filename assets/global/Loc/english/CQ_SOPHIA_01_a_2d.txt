@@ -1,0 +1,46 @@
+﻿001	Ah-hahah. I've found a nice tea to bring back to Soleil as a souvenir♪ I wonder if she'll like it...	VO_sophia.sophia_sys_0008
+002	Oh, this is the shop from the day Soleil and I first met. That day is now a precious memory to me.	VO_sophia.sophia_chara_1017
+003	Ohh... I bought too many books today... I can't see ahead of me... Sorry! Passing through!	VO_soleil.soleil_sys_0050
+004	All of these look so delicious! I wonder what this fruit tastes like... Oh, I love that beautiful tableware as well.	VO_sophia.sophia_sys_0046
+005	Eeek!	VO_soleil.soleil_sys_0026
+006	Ohhh?!	VO_sophia.sophia_sys_0026
+007	Yikes! I...I'm so sorry! Are you hurt?	VO_soleil.soleil_battle_0020
+008	Not at all. I'm to blame. Oh, your books fell... Did you get hurt?	VO_sophia.sophia_sys_0035
+009	Both myself and my books are okay! I'm the one who should be...oh? Are you an...elf?	VO_soleil.soleil_sys_0004
+010	(Oh! My hood came off and she can see my ears!)	VO_sophia.sophia_chara_1017
+011	...Yes. I am. Well then, I'll be going now...	VO_sophia.sophia_sys_0005
+012	(I put back my hood on right away, so I don't think anyone else saw. Anyway, I should get out of here.)
+013	Oh! Please, wait! Um... As a way of an apology, would you mind if we had lunch together at my expense?	VO_soleil.soleil_chara_1001
+014	Huh? You and I...? Lunch together...?	VO_sophia.sophia_sys_0025
+015	Yes! After all, this was all my fault for not looking ahead while walking... That is, of course, if it wouldn't be too much trouble for you.	VO_soleil.soleil_sys_0038
+016	...I wasn't looking ahead either, and I made you drop your books. It really should be at my expense...	VO_sophia.sophia_sys_0020
+017	What?! No, you mustn't say that! Oh dear, what should we do...?	VO_soleil.soleil_sys_0029
+018	Heheh. Well then, let's buy each other lunch. That would make us even, right?	VO_sophia.sophia_sys_0008
+019	Oh! Yes, let's do that! What a great idea! My name is Soleil. I'm a therapist.	VO_soleil.soleil_sys_0046
+020	And my name is Sophia.	VO_sophia.sophia_chara_1001
+021	Well then, Sophia, let's go! Umm... Should we go here? Or maybe this place? Or maybe that one over there? Hmm...	VO_soleil.soleil_sys_0007
+022	If we go here, they apparently serve delicious tea. Would that suit you?	VO_sophia.sophia_sys_0002
+023	Yes!	VO_soleil.soleil_sys_0004
+024	Heheh. We had a hard time deciding on where to eat that time too. Oh, so this is Soleil's house.	VO_sophia.sophia_sys_0008
+025	Soleil? It's Sophia.	VO_sophia.sophia_sys_0002
+026	Sophia! Welcome! Did you get lost? Were you approached by strange individuals?	VO_soleil.soleil_sys_0024
+027	No, I was fine. I brought a new tea today. I hope you like it.	VO_sophia.sophia_sys_0005
+028	Wow! Thank you! It smells so good! All right, let's drink some immediately! Let me prepare it real quick!	VO_soleil.soleil_sys_0046
+029	All right. I'll do some divination in the meantime.	VO_sophia.sophia_sys_0006
+030	(...?! This foreshadows a dangerous figure approaching me. That doesn't sound very good. I wonder if my presence here will inconvenience Soleil...)	VO_sophia.sophia_sys_0027
+031	Soleil! I just remembered something urgent I have to do. I'm going to step outside for a bit. I'll be back right away so don't worry.	VO_sophia.sophia_sys_0035
+032	Huh...? Oh, okay...	VO_soleil.soleil_sys_0006
+033	I wonder what's got her in such a hurry. Mmm... What should I do?! I wonder if it's a bad idea to follow her...	VO_soleil.soleil_sys_0045
+034	Ohh... I can't help myself from being worried! As long as I'm careful, I'm sure she won't notice me!	VO_soleil.soleil_sys_0031
+035	(I've come far enough. It should be okay here.)
+036	I know you're tailing me. How about you show yourself?	VO_sophia.sophia_sys_0016
+037	Hey, little elf missy. Mind if we take some of your time? Our boss wants to borrow your power.	VO_thiefm.thiefm_sys_0001
+038	I refuse.	VO_sophia.sophia_sys_0040
+039	An elf through and through, aren't ya? Proud and stubborn... If you don't want us to have to teach you a lesson, I suggest you come quietly.	VO_thiefm.thiefm_sys_0007
+040	No matter how many times you ask me, my answer will be the same: I refuse.	VO_sophia.sophia_sys_0010
+041	Tsk. What a cheeky little elf you are. Fine. We'll just have to teach you a lesson or two.	VO_thiefm.thiefm_battle_0019
+042	Wha?! Who are you?! Whoa!	VO_thiefm.thiefm_battle_0025
+043	Hey! Step away from Sophia! Hurting my friend is super unacceptable!	VO_soleil.soleil_battle_0004
+044	Wh-what the...?! Is she a friend of yours?	VO_thiefm.thiefm_sys_0027
+045	Soleil! What're you doing here?	VO_sophia.sophia_sys_0012
+046	All right then. Let's take her back to the boss as a souvenir as well! Get 'em, boys!	VO_thiefm.thiefm_sys_0007

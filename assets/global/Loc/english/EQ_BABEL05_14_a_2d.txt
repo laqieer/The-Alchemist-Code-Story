@@ -1,0 +1,249 @@
+﻿001	Grandma, I'm back!
+002	Ahhh, what a day! I can't believe I got so lost, even though I've been there before! I was sure I'd end up passed out on the side of the road again or something!	VO_milis.milis_sys_0008
+003	I didn't even get to see Lofia this time!	VO_milis.milis_sys_0031
+004	Oh, yeah, she's my friend from Lustburg!	VO_milis.milis_sys_0007
+005	Oh, oh! But the nice old wizard promised me!
+006	He said that Lofia will come visit us soon!	VO_milis.milis_sys_0050
+007	Oh, I almost forgot! I have a present for you! Here!
+008	You said you've been getting cold lately, right? This should help!
+009	I just keep remembering things from the past.
+010	Things like...how the main reason to eat sweets is because they make you feel happy.
+011	And...how the reason for inviting someone to a tea party is because eating together makes the food taste better.
+012	I guess I can't help but reminisce.
+013	There are many words that describe homesickness: longing, yearning, wistfulness...nostalgia...
+014	It's not merely missing the place, but also the deep-seated fear that you will never see it again.
+015	I couldn't bring myself to take up my Court Mage vestments after that.
+016	I feared that, having learned the secrets of Alchemy and the Sacred Stones, I wouldn't be able to return if I donned them again.
+017	Court Mages must be prepared to fight to protect their beloved nation.
+018	That idea never sat well with me.
+019	I was afraid that possessing such power would mean that I could never go back to the easy life I once enjoyed.
+020	Yet...
+021	I have a very important promise that I must keep.
+022	Lofia...?!
+023	I want to protect the things I love.	VO_rofia.rofia_sys_0043
+024	If I can do that, then regardless of how terrified I may be...
+025	Even if it means that I can never go home...
+026	I have to live.
+027	Y-you...!	VO_stknightm.stknightm_sys_0026
+028	L-Lofia! If you keep going, you'll—!	VO_cheryl.cheryl_sys_0002
+029	I think I finally understand.	VO_rofia.rofia_sys_0007
+030	Huh?
+031	I am mostly made of sugary sweets, you know.
+032	The sugary sweetness, the divine aroma, the squishy softness... I may not be able to enjoy these things anymore, but...
+033	I know that eating together will make the food taste better.
+034	Ah!
+035	Kill her! She's weak!	VO_stknightm.stknightm_sys_0027
+036	Hah!	VO_rofia.rofia_sys_0032
+037	Grraaarrrggghhhh!	VO_stknightm.stknightm_battle_0028_c
+038	Huzzaaahhh!	VO_rofia.rofia_battle_0010
+039	G-goodness!	VO_cheryl.cheryl_sys_0046
+040	A talented Court Mage can work with any weapon at her disposal.	VO_rofia.rofia_chara_2012
+041	Nyx. You ought to help out, too.	VO_rofia.rofia_sys_0002
+042	M-me?
+043	I can't do this alone.	VO_rofia.rofia_sys_0031
+044	Y-you know I can't interact with things.
+045	I don't have the kind of power my sister has.
+046	Urgh! All I've done is talk about fighting for the future! I'm sick of talking about it!
+047	I want to do something, but what can I do?
+048	If you don't have enough magic, all you need to do is use what you have around you.
+049	What is that supposed to mean?!
+050	The wintry magic that exploded from Ravina, the Alchemia diffused by Cheryl's Alchemy...
+051	Take a pinch of this and a handful of that, throw it all into your cauldron, mix in some lizards and whatever else catches your eye, bring it to a boil, and poof! You've got magic.
+052	I-I've never even done something like that before!
+053	Give it a try!	VO_rofia.rofia_sys_0002
+054	I...!
+055	Once I've made up my mind, it's time to act! It doesn't matter if I have no idea how I'm going to achieve my goals!
+056	There's no time like the present. What's the point of needless worrying?
+057	Hahah! This is crazy!
+058	What is?
+059	I can feel this power welling up inside me...
+060	It's just like magic!
+061	Well, duh! You're just as magical as I am!	VO_rofia.rofia_sys_0007
+062	I guess I am.
+063	It always pays to have insurance.	VO_waginao.waginao_sys_0007
+064	Insurance?	VO_kaya.kaya_sys_0025
+065	The Demonic Soldiers are powered by the Alchemy Source.	VO_waginao.waginao_sys_0005
+066	We have prepared things so that, should they be activated, they will carry out their objectives under Corpse's command.
+067	I never dreamed that so many Demonic Soldiers would be roused from their slumber, however. In that regard, I am as amazed as you are.	VO_waginao.waginao_sys_0011
+068	Resistance is, in a word, impossible.	VO_waginao.waginao_sys_0010
+069	I am not fond of the word impossible.	VO_kaya.kaya_sys_0015
+070	Be that as it may...	VO_waginao.waginao_sys_0006
+071	To be a Mage is to make miracles happen, wouldn't you agree?	VO_kaya.kaya_sys_0001
+072	...
+073	That is why I am here.
+074	What?	VO_waginao.waginao_sys_0026
+075	I will not let you stand in my way anymore.	VO_kaya.kaya_battle_1015
+076	Grrrooogggghhhhh!
+077	Nngh!
+078	Groooohhhhh! Graaaaarrrrrgggghhhhh!	VO_Mmajin.Mmajin_battle_0002
+079	It is just as Lord Waginau said! The Demonic Soldiers have been stirred to life by their magic, and obey our commands!	VO_stknightm.stknightm_sys_0046
+080	Kill the witches!	VO_stknightm.stknightm_battle_0014
+081	This...is certainly not ideal.	VO_cheryl.cheryl_battle_0019
+082	Can we handle this ourselves?	VO_rofia.rofia_sys_0031
+083	Heh. We're not alone.
+084	Time is ticking.
+085	Groogghhh!	VO_Mmajin.Mmajin_battle_0003
+086	I know now that this world isn't a lost cause.
+087	Corruption, ruin... So long as time ticks on, these things will exist.
+088	However, there are those who fight to protect their comrades.
+089	Alchemy is surely...
+090	Ngh! Wh-what is that?!	VO_stknightm.stknightm_sys_0027
+091	Lofia, Cheryl... This is all thanks to you two.
+092	Huh?
+093	You have carried your hopes for the hopeless future, and held on to them through despair.
+094	Heheh.	VO_rofia.rofia_sys_0008
+095	You are not alone.
+096	You are alive. The past may be sweet...
+097	Or it may be bitter. It changes nothing.	VO_cheryl.cheryl_sys_0037
+098	I...!
+099	I'll give it a try.
+100	That's the spirit!	VO_rofia.rofia_sys_0041
+101	The bridge formed by such convictions can only be traversed when the chasm between despair and hope is at its widest.
+102	Everyone has people that they are determined to meet again, even in death.
+103	I don't want to waste that belief I once held.
+104	Time may be infinite, but I'll lend you my strength here and now.
+105	Mira...
+106	We'll meet when the time is right. If we work together, I think we can make it happen.
+107	The nonexistent future, the devastated present... Let it all become a thing of the past!
+108	I'll lend you my magic.
+109	Take it!
+110	Space-Time Manipulator!
+111	Adrift in the sea of time, the pendulum stirs the depths of the waves. Gather where the light falls, that I may see you.
+112	Sea floor and cerulean sky, woven and unfurled. Be it chance or be it fate, we are chased by dreams both infinite and finite.
+113	Now, come!
+114	Chance Encounter!!!
+115	...
+116	...
+117	You did it.	VO_rofia.rofia_sys_0023
+118	Yeah... I did.
+119	I thought I heard bells ringing.	VO_wilhelm.wilhelm_sys_0002
+120	Long time no see... I think.	VO_albell.albell_sys_0007
+121	Something like that.	VO_rofia.rofia_sys_0007
+122	You wouldn't call us for no reason, would you?	VO_albell.albell_sys_0002
+123	What a pleasant surprise to meet you here!	VO_wilhelm.wilhelm_chara_1001
+124	We need your help.	VO_cheryl.cheryl_sys_0041
+125	You're that pretty lady from before!	VO_wilhelm.wilhelm_sys_0009
+126	P-pretty...lady...?!	VO_cheryl.cheryl_sys_0025
+127	I've been meaning to thank you.	VO_wilhelm.wilhelm_sys_0033
+128	Th-thank you very much.	VO_cheryl.cheryl_sys_0003
+129	Uh... Why are you the one saying thank you?	VO_albell.albell_sys_0002
+130	I-I...! I'm really not used to this at all!	VO_cheryl.cheryl_sys_0050
+131	You mean, to being called a pretty lady?	VO_wilhelm.wilhelm_sys_0044
+132	Oh, p-please stop calling me that!	VO_cheryl.cheryl_sys_0047
+133	Come to think of it, what would have happened if Albea was in the bath when you called us?	VO_wilhelm.wilhelm_sys_0002
+134	I-I wasn't in the bath!	VO_albell.albell_sys_0013
+135	I know you weren't. You kinda stink.	VO_wilhelm.wilhelm_sys_0006
+136	Y-you...! Just because I wasn't in the bath just now, doesn't mean that I don't take baths at all!	VO_albell.albell_sys_0025
+137	You look annoyed.	VO_wilhelm.wilhelm_chara_4001
+138	That's because I am!	VO_albell.albell_sys_0037
+139	There it is! There's that honesty! I love it!	VO_wilhelm.wilhelm_chara_5001
+140	Urgh! You haven't changed a bit.	VO_albell.albell_chara_1001
+141	Heheheh.	VO_wilhelm.wilhelm_sys_0024
+142	Lofia!	VO_lavina.lavina_sys_0025
+143	Ravina!
+144	L-look over there! That's...!
+145	Huh?
+146	Ohohohoh! If it isn't a certain special young lady!	VO_michael.michael_chara_0008
+147	Michael!	VO_rofia.rofia_sys_0025
+148	Nyx, is this...?	VO_cheryl.cheryl_sys_0003
+149	Ahuh. This must be Chance Encounter.	VO_michael.michael_sys_0005
+150	Wh...? How do you know that?!
+151	Wielding a thousand magics makes one qualified. Having more than ten thousand experiences makes one elite. Accumulating a hundred million pieces of information under one's cap makes them quite robust indeed.	VO_michael.michael_sys_0007
+152	I've merely read my worth in ancient tomes, several times over. That is all.
+153	Michael! You're alive! Y-you're really here!	VO_lavina.lavina_sys_0019
+154	Come now, Ravina, you must be more considerate of the elderly. Perhaps you ought to rest a little longer.	VO_michael.michael_sys_0001
+155	Huh?	VO_lavina.lavina_sys_0025
+156	Hey, Nyx!
+157	Mira?!
+158	I finally found you! Where have you been?!
+159	That's my line!
+160	Heh! I've been working hard!
+161	Wh-why are they here? They should be...dead.	VO_cheryl.cheryl_sys_0025
+162	...
+163	I think that's because...I'm always looking to the past.
+164	When I connected you to the manipulator, I bridged myself to the convictions we hold in our time, and drew in the causality of the past.
+165	You got Albea and Wilhelm caught up in it too, since they've been exposed to my Alchemia.
+166	So you went back in time and brought Michael and the others with you? Is that what happened?	VO_rofia.rofia_sys_0044
+167	Everyone has people they are determined to meet again, even in death. The people who believe in that possibility, and in turn, those for whom they yearn...
+168	I figured we might as well bring them all together again.
+169	Heheh.	VO_rofia.rofia_sys_0007
+170	You have created a space that has transcended both the loss of life and the passage of time. This is most unusual.	VO_michael.michael_sys_0024
+171	Amazing, ain't it?!
+172	What are you looking so proud of?	VO_lavina.lavina_sys_0004
+173	To put it bluntly...
+174	You can only meet like this, irrespective of your past and future selves, right here, right now.
+175	Is that so?	VO_wilhelm.wilhelm_sys_0002
+176	...
+177	I won't forget, even if you ask me to.	VO_albell.albell_sys_0037
+178	But I won't see you...if that is how it must be.	VO_albell.albell_sys_0007
+179	Heheheh.	VO_wilhelm.wilhelm_sys_0007
+180	You know, these two are a royal pain in the butt.	VO_wilhelm.wilhelm_sys_0008
+181	Yes, well... To put it bluntly...	VO_rofia.rofia_sys_0001
+182	Hm?
+183	I think you're a genius too, Nyx.	VO_rofia.rofia_sys_0007
+184	Pfft. No way.
+185	Thank you. Thank you so much.	VO_rofia.rofia_sys_0034
+186	Huh? L-Lofia?!
+187	Ahah... Ahahahahah... What should we do? I've run out of energy.
+188	She's out of magic! All because she...gave it to me!
+189	H-how about some sweets?!	VO_cheryl.cheryl_sys_0026
+190	She already ate them all!	VO_lavina.lavina_sys_0018
+191	Ugh... Unnnngggghhhh...	VO_rofia.rofia_sys_0042
+192	I'm so...cold.	VO_rofia.rofia_sys_0043
+193	Grrroooggghhhhh!	VO_Mmajin.Mmajin_battle_0002
+194	What in blazes is going on?!	VO_stknightm.stknightm_sys_0028
+195	I don't think we can keep this moment in time paused for much longer!
+196	Showdown!	VO_albell.albell_sys_0004
+197	Here I go... Campanella!	VO_albell.albell_sys_0007
+198	I'll play.	VO_wilhelm.wilhelm_sys_0007
+199	I'm gonna win this in one burst!	アルベル・ヴィルヘルム
+200	Haa...haaa...haa...haaa...	VO_rofia.rofia_sys_0043
+201	Lofia! Wh-what should we do?! Her body has gone all cold!	VO_lavina.lavina_sys_0018
+202	I'm getting to be quite forgetful in my old age.	VO_michael.michael_sys_0031
+203	M-Michael...? What—?	VO_lavina.lavina_sys_0025
+204	I was going to give this to Lady Lofia when she left for Slothstein, but it slipped my mind.	VO_michael.michael_sys_0004
+205	Wh-what is it?	VO_rofia.rofia_sys_0042
+206	Ohohohohoh!	VO_michael.michael_sys_0007
+207	Oh!
+208	You forgot this.	VO_michael.michael_chara_1025
+209	Welcome back, Lady Lofia.	VO_michael.michael_sys_0007
+210	I... I... I'm...
+211	I'm...back. I came...back.
+212	Lofy! Lofy!
+213	Oh!
+214	What is this place?!	VO_milis.milis_sys_0028
+215	Milis?!	VO_rofia.rofia_sys_0025
+216	I was chasing a water lizard when all of a sudden there was this explosion right in front of my eyes, and before I knew it, I was here!	VO_milis.milis_sys_0019
+217	M-Milis...!
+218	Oh!	VO_milis.milis_sys_0025
+219	Lofy, you're down, and shaking. Did you pass out from exhaustion?	VO_milis.milis_sys_0031
+220	Something like that.
+221	Hahah! It's the opposite of when we first met!	VO_milis.milis_sys_0007
+222	Ahahah. I wonder if I'm hallucinating things. Something smells sweet.
+223	Ooh, are you talking about this?	VO_milis.milis_sys_0004
+224	What is it?
+225	It's called caramel jaeger.	VO_milis.milis_sys_0007
+226	Caramel...?
+227	It's this sweet alcohol they make in Slothstein! They've started selling it in Lustburg!
+228	I bought it as a present for my grandma because she's been getting cold lately.
+229	I can't believe you've never tried it, Lofy! You're missing out!	VO_milis.milis_sys_0008
+230	Will you...let me have some?
+231	Everyone should have the opportunity to enrich their lives!	VO_milis.milis_sys_0037
+232	It's sweet...and warm.	VO_rofia.rofia_sys_0046
+233	Grrrooogggghhhhh!	VO_Mmajin.Mmajin_battle_0002
+234	Whoa! Geez, that scared me!	VO_milis.milis_sys_0026
+235	Milis...	VO_rofia.rofia_sys_0002
+236	Yeah?	VO_milis.milis_sys_0005
+237	I'm going to keep the promise I made to you.
+238	Huh? Did we make a promise?	VO_milis.milis_sys_0031
+239	As you can see, I'm in a little bit of trouble right now.
+240	Will you...help me?
+241	Two is always better than one!	VO_milis.milis_sys_0038
+242	We're friends, aren't we?	VO_milis.milis_sys_0007
+243	That's right. You're very important to me, Milis.	VO_rofia.rofia_sys_0008
+244	Would you like some pickles?	VO_cheryl.cheryl_sys_0007
+245	Th-thank you for the offer, but I'm going to have to say no.	VO_rofia.rofia_sys_0025
+246	I am a Sugar Wizard, after all!
+247	Hmhm. Then for your fuel, I suppose you will take...?	VO_cheryl.cheryl_sys_0008
+248	Of course.	VO_rofia.rofia_sys_0007
+249	Sugar Power!	VO_rofia.rofia_battle_0014

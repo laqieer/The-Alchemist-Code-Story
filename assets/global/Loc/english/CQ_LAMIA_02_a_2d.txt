@@ -1,0 +1,88 @@
+﻿001	…Don't…speak.	VO_lamia.lamia_sys_0002
+002	…
+003	If you're awake, go--they're still fighting atop the cliffs. You mustn't be found here…	VO_lamia.lamia_sys_0003
+004	…I guess this means my pupils lost. What a disgraceful end for their instructor…	VO_priscilla.priscilla_sys_0007
+005	It's not over yet. Your troops regained their position. Now's your chance to join them.
+006	I often lose sight of what's important when I focus too hard on my goals…	VO_priscilla.priscilla_battle_0019
+007	Hm?
+008	Lamia, I had forgotten about you for so long.	VO_priscilla.priscilla_sys_0001
+009	…Priscilla
+010	It was after I went to study martial arts in your country--before the war broke out.	VO_priscilla.priscilla_sys_0016
+011	…yeah.
+012	That was when I learned of what happened to my trainees. How they were wiped out.
+013	The ones who managed to escape told me…	VO_priscilla.priscilla_sys_0022
+014	...about a spearwoman adorned with poppies who led the Wratharis army.
+015	They said you had mercy on those who fled.
+016	…
+017	I have no intention of fleeing.	VO_priscilla.priscilla_sys_0002
+018	…Don't say that.	VO_lamia.lamia_sys_0002
+019	Will you kill me like you killed them?	VO_priscilla.priscilla_sys_0001
+020	…
+021	…You're my friend.	VO_lamia.lamia_sys_0031
+022	!
+023	But I guess that's just an excuse…	VO_lamia.lamia_sys_0018
+024	…Indeed.	VO_priscilla.priscilla_sys_0005
+025	I could kill them because they didn't mean anything to me. But you... It's selfish--contradictory.	VO_lamia.lamia_sys_0030
+026	Like admiring a beautiful flower, but then tearing it from the earth.
+027	I've taken countless lives before, but I hesitate when it's someone I know. Always…	VO_lamia.lamia_sys_0018
+028	…
+029	What are those?	VO_lamia.lamia_sys_0003
+030	…Flowers to place on their graves.	VO_priscilla.priscilla_sys_0022
+031	…White flowers. Gardenias?
+032	Yes, for my pupils--gardenias of fleeting beauty to mourn the dead.
+033	You taught me that, Lamia.	VO_priscilla.priscilla_sys_0001
+034	...I miss those days. Everything was lighthearted and carefree.	VO_lamia.lamia_sys_0007
+035	Tell me. Do you hate war?	VO_priscilla.priscilla_sys_0002
+036	Don't we all?	VO_lamia.lamia_sys_0031
+037	I yearn for it. It's the only chance I can prove who I am…without the need for words.	VO_priscilla.priscilla_sys_0022
+038	Yes, I remember you feeling that way back then, too--every time we crossed spears.	VO_lamia.lamia_sys_0006
+039	I could say the same for you.	VO_priscilla.priscilla_sys_0001
+040	No, not me.
+041	When your blood boils, your back--
+042	…Look away.	VO_lamia.lamia_sys_0015
+043	All the Alchemia in your body causes the wing-shaped marks on your back to glow.	VO_priscilla.priscilla_sys_0016
+044	They speak volumes without you needing to say a word.
+045	…Those days are over.	VO_lamia.lamia_sys_0030
+046	…Truthfully, I hate war, too. The fighting exhilarates me, but the deaths of my comrades--	VO_priscilla.priscilla_battle_0019
+047	It's a paradox I still can't figure out.
+048	...I know how you feel.	VO_lamia.lamia_sys_0004
+049	That's why I want to teach--to show my students how to wield power in order to avoid conflict.	VO_priscilla.priscilla_sys_0005
+050	…How to...wield power…
+051	You've got to forgive yourself for wanting to protect certain people and not others…	VO_priscilla.priscilla_sys_0022
+052	Otherwise, you're just beating yourself up for no reason. There's enough negativity in war as it is.
+053	You've got to learn to love yourself. I'm sure someday...
+054	You'll be glad you did. But who knows when that day will come…	VO_priscilla.priscilla_sys_0016
+055	…Priscilla
+056	…. As you can see, lectures aren't my strong suit. I take too long to get to the point.	VO_priscilla.priscilla_sys_0007
+057	…Teach me, Priscilla.	VO_lamia.lamia_sys_0003
+058	What is there for me to teach you?	VO_priscilla.priscilla_sys_0001
+059	I'm not sure how to "wield power," as you put it. But being with you like old times…	VO_lamia.lamia_sys_0002
+060	You want me to be your...instructor?	VO_priscilla.priscilla_sys_0025
+061	I don't know… That doesn't sound quite right…	VO_lamia.lamia_sys_0007
+062	Then how about "friend?"
+063	…Yes, "friend." That's the word.	VO_lamia.lamia_sys_0004
+064	Yeah. I hope that's possible.	VO_priscilla.priscilla_sys_0005
+065	Miss Priscilla! Are you alright? Please let us know that you're safe!
+066	!?
+067	My troops. They must have come looking for me. There's nowhere to hide on the battlefield.	VO_priscilla.priscilla_battle_0019
+068	Priscilla…I…	VO_lamia.lamia_sys_0003
+069	Go! You and I never met.	VO_priscilla.priscilla_sys_0002
+070	But…	VO_lamia.lamia_battle_0019
+071	Imagine the instructor AND her pupils losing to you. How could I ever show my face? Just go.	VO_priscilla.priscilla_sys_0001
+072	…I'm sorry.	VO_lamia.lamia_sys_0035
+073	Someday when the war is over…	VO_lamia.lamia_sys_0002
+074	Yeah…you'll teach me more about flowers.	VO_priscilla.priscilla_sys_0005
+075	…
+076	…Farewell.
+077	Farewell.
+078	…	VO_priscilla.priscilla_sys_0022
+079	But the war isn't over.
+080	Enemy sighted! She's below the cliffs!	VO_knightm.knightm_sys_0013
+081	Out of my way!!	VO_lamia.lamia_battle_0004
+082	If I let you go, my students--my friends--will be killed. I'm certain.	VO_priscilla.priscilla_sys_0001
+083	I know I'll regret it.
+084	We've got the Wratharis soldiers cornered. Face it! You're done for!
+085	(I must live.)	VO_lamia.lamia_sys_0018
+086	(Until the day I can learn to love myself)
+087	(I know I can learn…and then, I'll meet that special someone--)
+088	The flowers I carry have yet to bloom.

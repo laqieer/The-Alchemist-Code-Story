@@ -1,0 +1,79 @@
+﻿001	I see, memory loss. That must be difficult for you.	VO_theona.theona_sys_0045
+002	Erm, yes.	VO_hisham-b.hisham-b_sys_1047
+003	Alright! I will help you reclaim your memory!	VO_theona.theona_sys_0007
+004	I've lived in this city since I was born, so I have plenty of connections.
+005	R-really?! Thank you Ms. Teona!	VO_hisham-b.hisham-b_chara_1009
+006	Leave it to me! Then—and just to be clear, my help isn't contingent on this or anything—but I expect another match with you, Kam—	VO_theona.theona_sys_0005
+007	No.	VO_kamui-b.kamui-b_sys_0040
+008	You won that fight, Teona. Is it not unseemly for you to continue challenging me?
+009	I have my pride as a gladiator.	VO_theona.theona_sys_0016
+010	You let me win that match, didn't you?
+011	If so, I did not intend it.	VO_kamui-b.kamui-b_chara_1003
+012	No, I am sure of it. Call it intuition, but you had some means of defeating me.	VO_theona.theona_sys_0010
+013	It seemed to me that you held yourself back for some particular reason.
+014	You make too much of me.	VO_kamui-b.kamui-b_sys_0016
+015	I have fought many capable warriors in my time.	VO_theona.theona_sys_0022
+016	Though they all had their own particular strengths, they had one thing in common.
+017	Their aura.
+018	Their...aura?	VO_kamui-b.kamui-b_sys_0037
+019	Well, it's like...a sense of them interrupting or anticipating my moves, or—	VO_theona.theona_sys_0004
+020	Whatever! There's just something about them!
+021	Did Kamui have that too?	VO_hisham-b.hisham-b_sys_0044
+022	Hisham.	VO_kamui-b.kamui-b_sys_0002
+023	Uh...	VO_hisham-b.hisham-b_sys_1047
+024	Yes. Right before that last clash, I sensed something about to change the course of our match.	VO_theona.theona_sys_0005
+025	I still haven't overcome that sensation, and I refuse to call myself the true Champion until I do.
+026	I see. So it's a matter of pride.	VO_kamui-b.kamui-b_sys_0044
+027	I'm glad you understand!	VO_theona.theona_sys_0007
+028	Yes, and I refuse.	VO_kamui-b.kamui-b_sys_0004
+029	W-wait, what?!	VO_theona.theona_sys_0006
+030	I have other things to attend to while I am here. I appreciate your assistance with Hisham's situation, but...	VO_kamui-b.kamui-b_sys_0007
+031	I am not his guardian. We are little more than passengers heading in the same direction.
+032	I can help along the way, but I cannot see him through to the end.
+033	Even though you seem so invested in his well-being?	VO_theona.theona_sys_0031
+034	It is difficult not to care for one who is going through what I, myself, have experienced.	VO_kamui-b.kamui-b_sys_0031
+035	Wha—?	VO_hisham-b.hisham-b_chara_1009
+036	I, too, have lost my home.	VO_kamui-b.kamui-b_sys_0004
+037	Does that mean...?	VO_hisham-b.hisham-b_sys_1047
+038	It was a natural disaster in my case. The sand swallowed everything.
+039	I had distant relatives that took me in and I live in their village now, but I can understand what Hisham is going through.
+040	I see. I am sorry to hear that.
+041	Kamui, you're...the same as me?	VO_hisham-b.hisham-b_sys_0022
+042	So, um, Master Kamui?	VO_knightm.knightm_sys_0001
+043	Yes?	VO_kamui-b.kamui-b_sys_0037
+044	A letter was sent here for you.	VO_knightm.knightm_sys_0031
+045	Ah, thank you.	VO_kamui-b.kamui-b_sys_0004
+046	I have business to tend to. Teona, if it is not too much to ask, I would appreciate if you could watch Hisham for a while.	VO_kamui-b.kamui-b_sys_0027
+047	Huh? Uh, sure.	VO_theona.theona_sys_0006
+048	Forgive me. I will return before nightfall.	VO_kamui-b.kamui-b_sys_0035
+049	He's gone...	VO_theona.theona_sys_0031
+050	Yeah...
+051	Oh, and don't worry. I promise I will help look into your past, okay?	VO_theona.theona_chara_1006
+052	We can look for your parents together!
+053	No, it's fine. I doubt they'll be in this city.
+054	Hisham?	VO_theona.theona_sys_0006
+055	I just know somehow. This place just doesn't sound right.	VO_hisham-b.hisham-b_sys_0031
+056	Sound...right?	VO_theona.theona_sys_0025
+057	I didn't expect to hear from you so soon.	VO_kamui-b.kamui-b_sys_0002
+058	Ceclidis is currently busy organizing troops to subdue the southern forces.	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+059	It should now be possible to see the King in secret.
+060	All right then. Lead me there.	VO_kamui-b.kamui-b_sys_0004
+061	Kamui. It is good to see you.
+062	I am honored to be granted an audience with you, King Narol.	VO_kamui-b.kamui-b_sys_0006
+063	There is no need for such formalities.
+064	There is nobody else here but us, two men troubled by the same problem.
+065	You are too kind.	VO_kamui-b.kamui-b_sys_0006
+066	I, Kamui of the Sephira, have come to answer your request to purify Beelzebub.
+067	As I suspected, the seals holding Beelzebub and its preemptive curse are weakening.
+068	Exactly. After being sealed, it seemed little more than a mere stone, but recently it has begun faintly emitting light from time to time.
+069	If the seal is broken... I do not wish to even try to imagine the horrors it may bring.
+070	The Sacred Stone is this country's symbol. In addition, Beelzebub is deeply tied to the Alchemia of this land.
+071	If this civil war lingers on and the anguish of the people continues to grow, even Sephiron may not be able to maintain her seal.
+072	All of this has come of my failure to be worthy of my position. Not only that, but I have brought hardship to my people.
+073	For now, let us purify Beelzebub. The stone, please.	VO_kamui-b.kamui-b_sys_0031
+074	Mmm...
+075	"I beseech the supreme..."	VO_kamui-b.kamui-b_favorite_0001
+076	It seems the purifying energy alone is not enough to purify the stone.	VO_kamui-b.kamui-b_battle_0019
+077	What is this?!
+078	Stay back, Your Highness! That is the manifestation of Beelzebub's power!	VO_kamui-b.kamui-b_sys_0027
+079	In other words, the avatar of the preemptive curse!

@@ -1,0 +1,63 @@
+﻿001	Whoa!	VO_thomas.thomas_sys_0022
+002	Hmph. Ran off with their tail between their legs.	VO_gormalas.gormalas_sys_0010
+003	Um, so... Mister Gormalas?	VO_thomas.thomas_sys_0001
+004	Just Gormalas is fine.	VO_gormalas.gormalas_sys_0001
+005	All right, Gormalas.	VO_thomas.thomas_sys_0004
+006	I'm Tomas! This is Fons—the bigger one—and Reeves is the smaller one.	VO_thomas.thomas_chara_1001
+007	So, were they acquaintances of yours?	VO_thomas.thomas_sys_0001
+008	Nah. Never saw those guys in my life, but I’m not surprised they knew me. Probably seamen of some sort.	VO_gormalas.gormalas_sys_0006
+009	Seamen?	VO_thomas.thomas_sys_0046
+010	Yeah, the sort that aren't honorable, but aren't complete good-for-nothings, either.
+011	Like...former pirates?	VO_thomas.thomas_sys_0031
+012	If I had to guess, I’d say they were probably pirates that I got the better of.	VO_gormalas.gormalas_sys_0004
+013	Wow! You're seriously strong, huh, Gormalas!	VO_thomas.thomas_sys_0024
+014	Oh, hey! I forgot to thank you for your help just now!
+015	You even offered your help when I was at the pharmacy. Seriously, thank you!	VO_thomas.thomas_sys_0033
+016	You've got it all wrong. I'm not the charitable sort.	VO_gormalas.gormalas_sys_0001
+017	Then why did you help me?	VO_thomas.thomas_sys_0025
+018	Hah! You're still just a kid, huh? You've got a lot to learn.	VO_gormalas.gormalas_sys_0010
+019	I never help anyone out of the goodness of my heart. There's always gotta be something in it for me.
+020	Something like what?
+021	Something worth the work I've put in.
+022	Worth? Uh... I don't know if I really have anything like that.	VO_thomas.thomas_sys_0031
+023	I'm sorry. I don't think I'll be able to pay you back for helping me.	VO_thomas.thomas_sys_0035
+024	I don't know about that. You definitely have something worth my time.	VO_gormalas.gormalas_sys_0007
+025	Huh?	VO_thomas.thomas_sys_0025
+026	Tch. You might regret being so bloody innocent one of these days, you know that?	VO_gormalas.gormalas_sys_0030
+027	Heh! Anyway, this is pretty exciting for me!	VO_thomas.thomas_sys_0007
+028	I can’t believe I bumped into my hero twice in one day!	VO_thomas.thomas_sys_0009
+029	Uhh...	VO_gormalas.gormalas_sys_0048
+030	I wanna explore the world! That's why I've always looked up to you, Gormalas! We’re both from Saga, too! Hehe...	VO_thomas.thomas_sys_0047
+031	I've never even seen the ocean! Maybe I should become a pirate, too! Haha, just kidding!	VO_thomas.thomas_sys_0008
+032	Tch... There's gotta be limits to how naive a kid can be. You can't just joke around about becoming a pirate like that.	VO_gormalas.gormalas_sys_0030
+033	Your fighting style isn't half-bad, but it needs a hell of a lot more polish.	VO_gormalas.gormalas_sys_0002
+034	And fighting out on the open seas isn't anything like fighting on land.
+035	There're completely different techniques and strategies you need to know. The way you are now, you wouldn’t last a week before you’d be sleeping with fishes.
+036	...
+037	On top of that, a pirate's got to be smart. Strength'll only take you so far. If you don’t have the brains to back it up, you’re gonna end up getting swallowed up by the sea sooner or later.
+038	...
+039	What? Got nothing to say? Heh. I guess you hadn't thought of that, aye, boy? It's not an easy business, pirating.
+040	Um, so by brains, do you mean that I should study more or something?	VO_thomas.thomas_sys_0031
+041	I'll definitely train more! And I'm not good at studying, but I'll do my best!	VO_thomas.thomas_sys_0032
+042	R-right...	VO_gormalas.gormalas_sys_0049
+043	What should I study? Like, to become a great pirate like you?	VO_thomas.thomas_sys_0001
+044	Heh. Less talk, more action, huh? You’ve got the right attitude. Your eyes, though. Hmph... They’re still too soft.	VO_gormalas.gormalas_sys_0007
+045	Uh... They're just a normal blue.	VO_thomas.thomas_sys_0025
+046	Oh! I've been told that they're the color of the ocean! The ocean's blue, too, right?	VO_thomas.thomas_sys_0007
+047	And I heard that the water in the ocean is salty! How do fish live in salty water? That's so weird!
+048	Ugh... That childish innocence of yours is starting to make me feel sick.	VO_gormalas.gormalas_sys_0030
+049	I mean, sure, I'm sure there are places where the ocean is just clean and bright like that, but it's not that simple up in the northern seas.	VO_gormalas.gormalas_sys_0001
+050	There, the waves are so vicious that it makes it difficult to make food, let alone sleep.
+051	And I don't know how many times I've seen ships where sailors died just because the voyage went on longer than expected and food ran out.
+052	Do you think you could handle that?	VO_gormalas.gormalas_sys_0002
+053	Uhh...
+054	Seems like this has knocked some sense into you, at least.
+055	No, I just...
+056	Grrr!
+057	Fons?
+058	There! I told you, it's Gormalas!	VO_thiefm.thiefm_sys_0002
+059	Hah! Fools! I should've put you out of your misery while I had a chance!	VO_gormalas.gormalas_sys_0012
+060	You'll pay for what you did to us earlier! Let's see how you do now that you're outnumbered!	VO_thiefm.thiefm_sys_0008
+061	This will be our revenge for you stealing our pirate flag!	VO_thiefm.thiefm_battle_0030
+062	This is the end of the road for you, you miserable cowards! This is what you get for running from the seas!	VO_gormalas.gormalas_sys_0001
+063	Whoa!

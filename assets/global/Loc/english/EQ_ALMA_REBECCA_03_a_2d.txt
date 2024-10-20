@@ -1,0 +1,135 @@
+﻿001	Well?!	VO_mervi.mervi_sys_0010
+002	Now that Asmodeus is gone, my body feels so much heavier.	VO_mervi.mervi_sys_0030
+003	This is your chance.	VO_mervi.mervi_sys_0012
+004	That's what she calls being slow and heavy?	VO_rebecca.rebecca_sys_0020
+005	Ngh... One more time, please!	VO_alma.alma_battle_0026
+006	All right, come on!	VO_mervi.mervi_battle_1015
+007	(I can't believe Alma is practicing so seriously... She really does want to become a reporter, doesn't she?)	VO_rebecca.rebecca_sys_0044
+008	Hm...? What? I'm on break right now, if you have something to s... What? A UFO? At 10 o'clock?
+009	Huh?
+010	Wait... Who's there? Identify yourselves!	VO_mervi.mervi_sys_0012
+011	Now's my chance!	VO_alma.alma_battle_0007
+012	Ngh... You brat, Alma! Where did you learn ventriloquial magic?	VO_mervi.mervi_battle_0025
+013	Heheheh. That worked perfectly! You're such a work-a-holic, I knew you'd fall for it!	VO_alma.alma_chara_1011
+014	Ugh! What a childish method.	VO_mervi.mervi_battle_0022
+015	Heheh. What a cute voice you let out just now!	VO_alma.alma_sys_0002
+016	I-I did not! Forget you ever heard it!	VO_mervi.mervi_sys_0027
+017	If you don't, then I'll make sure to erase your memory with one strike.	VO_mervi.mervi_sys_0010
+018	I-I already forgot! M-master!	VO_alma.alma_battle_0024
+019	Heh... Joking aside, a promise is a promise. A surprise attack is also a praiseworthy tactic. Since you landed a hit, I'll tell you what I said I would.	VO_mervi.mervi_sys_0030
+020	I-I didn't do anything, though.	VO_rebecca.rebecca_sys_0025
+021	She promised me. If I landed a blow on her, then she would tell me a very special tale!	VO_alma.alma_sys_0007
+022	That was more than enough to hook me, Alma, the embodiment of curiosity!	VO_alma.alma_sys_0010
+023	That's the reason you've been working so hard?	VO_rebecca.rebecca_sys_0026
+024	It's a story from two centuries ago. Rebecca, it has to do with what you asked before, too. It's a story of my master and your grandmother.	VO_mervi.mervi_sys_0010
+025	About Grandmother...?	VO_rebecca.rebecca_sys_0025
+026	How exciting!	VO_alma.alma_event_1010
+027	This country was originally a settlement where magic users could gather.	VO_mervi.mervi_sys_0031
+028	Now, because of the curse of Asmodeus, most have disappeared, but long ago, there were a lot of men who could use magic.
+029	I have seen records of male witches...	VO_rebecca.rebecca_sys_0044
+030	Since everyone was on equal magical footing, the men obviously had the advantage due to their stronger builds.	VO_mervi.mervi_sys_0004
+031	Because of that, the balance of power in Lustburg used to be the opposite of what it is now.
+032	When I was young, the witch population was decreasing. The reason is explained in a folk song you've heard, isn't it?	VO_mervi.mervi_sys_0022
+033	If a witch falls in love, her magic falls with her...	VO_rebecca.rebecca_sys_0004
+034	That's the one. In those days, when a witch became intertwined with the opposite sex, she would start losing her magic.	VO_mervi.mervi_sys_0004
+035	It was most likely being passed on to her unborn child.
+036	Due to that, the witch population was dropping and our standing in society was weak.
+037	However, in any era, there will always be prodigies.
+038	With a merciless iron fist, one woman beat all of the men in her way until she alone held the throne. She was the strongest witch.	VO_mervi.mervi_sys_0007
+039	That witch...was my master. As a master of both spell casting and martial arts, she was a true force to be reckoned with... Ngh...	VO_mervi.mervi_sys_0010
+040	Melvy?! What's the matter?!	VO_rebecca.rebecca_sys_0027
+041	Wait...are you pregnant?!	VO_alma.alma_sys_0025
+042	If I was, I wouldn't be darting all over the sky and sparring with you.	VO_mervi.mervi_sys_0042
+043	It's nothing like that. It's just...whenever I remember training with my master, I feel a bit sick. I'm fine now, so let's continue.
+044	Your master was that terrifying? Was she really human?	VO_rebecca.rebecca_battle_0019
+045	She was a terrifying witch, but she was also a kind person. She was like a mother to me.	VO_mervi.mervi_sys_0020
+046	All of the citizens adored her...but not for long.
+047	What happened?	VO_rebecca.rebecca_sys_0002
+048	She was still a woman, and during her reign as queen, she fell in love with a foreign man.	VO_mervi.mervi_sys_0004
+049	For her to continue to rule, a great amount of magical power was required, but my master chose being a wife over being a queen.
+050	I personally felt that she should be free to do so. However, there was a problem.	VO_mervi.mervi_sys_0031
+051	A problem?	VO_rebecca.rebecca_sys_0025
+052	The woman who bore Venus, known as Mother, possessed Asmodeus.	VO_mervi.mervi_sys_0020
+053	She was a greedy witch who wanted to be intertwined with a man yet not lose her magical powers, and, unfortunately, Asmodeus granted her wish.
+054	The curse was the result of that wish.
+055	That's how all of this started. The men became bugs and the women started using the men.
+056	Furthermore, the man Mother fell for...was my master's husband.	VO_mervi.mervi_sys_0030
+057	Mother had magic that could manipulate men, so she stole him away with minimal effort.
+058	What?!	VO_rebecca.rebecca_sys_0025
+059	At that time, people with last names were rare in Lustburg.	VO_mervi.mervi_sys_0031
+060	Thus, witches who married would take their husband's names.
+061	Mother was no exception. She took the name of the husband she stole from my master and passed it on to her daughter, Venus.
+062	Now that you mention it... Her Majesty did say that she changed her last name. What was her original name?	VO_rebecca.rebecca_sys_0031
+063	The name that she got from her parents was Venus Haas Lustburg.	VO_mervi.mervi_sys_0004
+064	Wait, but... Haas is... That's Alma's surname.	VO_rebecca.rebecca_sys_0025
+065	Yeah, well, you see there are two Haas families in this country. There's mine...and there's the queen's.	VO_alma.alma_sys_0030
+066	You already knew? It's the most fiercely kept secret in this country!	VO_mervi.mervi_sys_0020
+067	It's 'cause I knew that my ancestor was queen once, so I did my own research, thinking it might be something like that.	VO_alma.alma_sys_0004
+068	My mom was already pretty old when she got married.
+069	She died when I was 8, so I never really got to ask her anything about our history.	VO_alma.alma_chara_1004
+070	You have royal blood?! Wait, your mom died when you were 8?! Alma, how have you been surviving all this time?!	VO_rebecca.rebecca_sys_0022
+071	Well, isn't it obvious? To live, I sold the one thing a woman can sell repeatedly that never runs out.	VO_alma.alma_sys_0030
+072	You...can't possibly mean...	VO_rebecca.rebecca_sys_0020
+073	That's right: information! No matter how much you sell, it never runs out! So you can sell as much as you need!	VO_alma.alma_sys_0004
+074	Finding it out on my own is free, so that's why I love gossip!	VO_alma.alma_sys_0007
+075	I-information?	VO_rebecca.rebecca_sys_0025
+076	Hmmmm? Rebecca? What did you think I meant?	VO_alma.alma_sys_0010
+077	N-nothing! A-anyway, Melvy, so...you knew Alma's ancestors.	VO_rebecca.rebecca_battle_0021
+078	What does that have to do with my grandmother?	VO_rebecca.rebecca_sys_0001
+079	The curse of Asmodeus was already spreading.	VO_mervi.mervi_sys_0004
+080	As the land fell into chaos, Mother was executed, and Venus was also pursued.
+081	I ran away with Venus, but while we were on the run, we began to realize that it was no way to live.
+082	Inside of Venus slept the power of Asmodeus that was passed on to her.	VO_mervi.mervi_sys_0020
+083	Her power was feared, so I thought that perhaps if she used her abilities to calm the chaos, her image would also improve.
+084	That means...	VO_alma.alma_sys_0025
+085	That's the same way I felt about Liz's power...	VO_rebecca.rebecca_sys_0020
+086	That's right. Rebecca, your grandmother was part of that plan.	VO_mervi.mervi_sys_0030
+087	She was?	VO_rebecca.rebecca_sys_0025
+088	When my master held the throne, the Helkovara family worked for her. Your grandmother, in particular, adored her.	VO_mervi.mervi_sys_0037
+089	My master wanted to bring the unrest to a close as soon as possible so that children could be brought up safely again.
+090	The three of us, your grandmother included, worked together to take Asmodeus.
+091	We swore to bring the chaotic time to an end, but it didn't work out that way. Your grandmother tried to kill Venus.
+092	What...?	VO_rebecca.rebecca_sys_0025
+093	The head of the Helkovara family at that time believed that Venus was the one who stole their beloved leader's power, so they embraced the chaos and decided to use it to take back control.	VO_mervi.mervi_sys_0030
+094	They didn't want us to take Asmodeus and they feared Venus' power.
+095	So the head of the Helkovara family tasked your grandmother with killing Venus.
+096	N-no...	VO_rebecca.rebecca_sys_0020
+097	She was opposed, but eventually she caved under the pressure from her family.	VO_mervi.mervi_sys_0022
+098	She couldn't break free of the control that the family held over its members.
+099	I never intended to blame her, but we argued and decided to part ways.
+100	Even so, I was sure that Venus and I alone would be capable of retaking Asmodeus.
+101	However, Venus fell into despair after being betrayed by her dear friend. From then on, she was different.	VO_mervi.mervi_sys_0020
+102	I wanted her to believe that her power wasn't evil, and that Asmodeus was not inherently bad.
+103	The curse of Asmodeus, which resulted in her existence, was a necessary price this country had to pay.
+104	I wanted to help her believe that. I guess...I wanted to believe it myself, too. In any case, she...
+105	Venus united this country through power and fear.
+106	She overthrew my master and made Lustburg the place it is now. But...she has suffered for it all this time.
+107	Rebecca, that's probably why she's taken you under her wing.	VO_mervi.mervi_sys_0002
+108	She regrets not being able to reconcile with your grandmother.
+109	She's keeping you by her side as atonement.
+110	Oh...
+111	Me training you is kind of the same thing, Alma.	VO_mervi.mervi_sys_0022
+112	You're a memento of my master, so to speak. It's only natural to want to make you shine.	VO_mervi.mervi_sys_0007
+113	Although, the main reason I'm training you is for Lisbeth.
+114	Liz...?
+115	She's like a miracle child. Just watching her is enough to restore one's faith in humanity.	VO_mervi.mervi_sys_0004
+116	Now you've made it to the sky just as she did. You've succeeded in doing what we attempted to do.
+117	During that savage time, we gave up our belief.
+118	We couldn't stop the Helkovara family's dash for power, nor the Haas family from being pushed out and impoverished.
+119	I'm so sorry.	VO_mervi.mervi_sys_0035
+120	What? No, but... You don't have to...	VO_alma.alma_event_1013
+121	Th-that's right! It's nothing you have to apologize for, Melvy!	VO_rebecca.rebecca_sys_0004
+122	We all live out our lives, unaware that we are creating history through our actions.	VO_mervi.mervi_sys_0022
+123	Regardless, we are responsible for the twisted era that was born of those actions.
+124	I don't want to be one of those adults who can't bow their heads and admit fault when they've done wrong.
+125	The Lustburg that we built was like ice; cold, hard, and distorted.
+126	You guys... You melted that ice. You restarted the time that we caused to stop.
+127	It's time to pass the controls over to you all and let you bring us home.	VO_mervi.mervi_sys_0010
+128	Melvy...
+129	So...I want you to throw everything you have at me!	VO_mervi.mervi_sys_0002
+130	It was a long story, but ultimately, no amount of time or explanation could convey to you all that has accumulated on our watch.
+131	I suppose it can't be helped if it seems like we're useless old fogeys dumping all of the problems we couldn't solve onto your shoulders.
+132	Even so...I hope that I can carve our 200 years of experience into you...
+133	So that you can better the next 200 years—no, more... So that you can better the ongoing future!
+134	Yes, ma'am!
+135	Next time, I'll land a hit fair and square, without any sneak attack!	VO_alma.alma_battle_0010

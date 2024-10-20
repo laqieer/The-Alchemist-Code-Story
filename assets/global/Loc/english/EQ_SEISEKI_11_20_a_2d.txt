@@ -1,0 +1,160 @@
+﻿001	Huzzaaaaahh!!!	VO_basini.basini_battle_0004
+002	Arghhhhhhhhhh!!!	VO_knightm.knightm_sys_0028
+003	Haaa... Haaa... Heh. The Greed Dike soldiers are nothing without the Templars!	VO_victor.victor_battle_0019
+004	Wipe the blood off your nose first, little frog.	VO_basini.basini_sys_0030
+005	Sh-shut up!	VO_victor.victor_sys_0016
+006	Revenge Crush!!!	VO_spica.spica_battle_0007
+007	Wha—?!	VO_victor.victor_sys_0028
+008	We may have reinforcements, but there are still many Greed Dike soldiers left. Keep your guards up.	VO_spica.spica_sys_0022
+009	R-right.	VO_victor.victor_sys_0018
+010	Haaa... Haaa... There sure are a lot of them.	VO_miuna.miuna_sys_0018
+011	Yes. It's a nuisance—but even with their numbers, we can take them out if we do it one by one.	VO_chloe.chloe_sys_0004
+012	What's going on?	VO_vetel.vetel_sys_0031
+013	What is it?	VO_victor.victor_sys_0006
+014	It's just... The Greed Dike soldiers are...distracted by something. They've all started shouting at each other.	VO_vetel.vetel_event_1015
+015	Don't tell me that those guys are just now feeling the sting of my attacks!	VO_victor.victor_sys_0010
+016	Wipe your nose.	VO_vetel.vetel_sys_0030
+017	Oh, uh, thanks.	VO_victor.victor_chara_1004
+018	Everyone! I have a report!	VO_kazahaya.kazahaya_sys_0007
+019	A report...?	VO_basini.basini_sys_0006
+020	It says that Lord Commander Kanon defeated Orion. It looks like the Greed Dike soldiers got the same report!	VO_kazahaya.kazahaya_sys_0006
+021	Wh-whoa!	VO_vetel.vetel_sys_0046
+022	L-Lord Commander Kanon? She did it!	VO_basini.basini_sys_0009
+023	Ngh... Ughh...!	VO_kagura_3s_kagu.kagura_sys_0042
+024	Hey, are you all right?
+025	Y-yes... What's all this commotion?	VO_kagura_3s_kagu.kagura_sys_0018
+026	They're saying that your Lord Commander defeated Orion.
+027	K-Kanon?! Nngh...	VO_kagura_3s_kagu.kagura_sys_0025
+028	H-hey! Don't push yourself too hard!
+029	Kanon... Is she...?	VO_chloe.chloe_sys_0002
+030	Well...that's...	VO_kazahaya.kazahaya_sys_0027
+031	What? Spit it out already! If it was as simple as Kanon winning the battle, those guys would be a lot quieter!	VO_miuna.miuna_sys_0017
+032	It's just... The report says that she's now in battle with Captain Kudan.	VO_kazahaya.kazahaya_sys_0022
+033	What?!	VO_victor.victor_sys_0012
+034	Kudan and...Kanon?!	VO_kagura_3s_kagu.kagura_sys_0025
+035	Why would they be fighting?! Can we trust this information?!	VO_miuna.miuna_sys_0025
+036	H-hey, don't kill the messenger.	VO_kazahaya.kazahaya_battle_0022
+037	Kudan...	VO_kagura_3s_kagu.kagura_chara_1008
+038	I can't believe that man. He told me to protect you, and then he just up and left.
+039	What?! Kudan said that?!	VO_kagura_3s_kagu.kagura_sys_1047
+040	Captain Kudan has chosen a solitary path. It seems that he didn't want us to get involved.	VO_caida.caida_sys_0030
+041	You mean...?!	VO_kagura_3s_kagu.kagura_sys_0025
+042	He's planning to sacrifice himself to shield us from the calamities that will befall this world.	VO_yaurasu.yaurasu_sys_0017
+043	No!
+044	He set out on a lonely path to obtain the power he needs in order to protect this world.
+045	You're like his little sister. That's why he said goodbye to you first.
+046	Kudan...!	VO_kagura_3s_kagu.kagura_sys_0018
+047	Will you go?
+048	Huh?	VO_kagura_3s_kagu.kagura_sys_1047
+049	He acts tough, but I'm sure that guy is thinking of you, even now. You're important to him.
+050	You should be there to witness the end of this lonely battle he chose for himself.
+051	But...!	VO_kagura_3s_kagu.kagura_sys_0042
+052	Don't get complacent! The Greed Dike soldiers will never be defeated! Come and get it!	VO_knightm.knightm_battle_0019
+053	I can't leave with the battle still going on.	VO_kagura_3s_kagu.kagura_sys_0018
+054	It's all right.	VO_caida.caida_battle_0016
+055	Huh?	VO_kagura_3s_kagu.kagura_sys_1047
+056	Ngh...?!	VO_victor.victor_battle_0019
+057	Wh-what is this light?!	VO_miuna.miuna_sys_0027
+058	That's...!	VO_vetel.vetel_sys_0027
+059	The Tower of Babel is...fading?!	VO_kazahaya.kazahaya_sys_0025
+060	No! Emperor Orion?!	VO_knightm.knightm_sys_0020
+061	He couldn't really have been defeated...could he?!	VO_knightm.knightm_sys_0042
+062	It seems that the threat of Nimul's resurrection has passed.	VO_ortima.ortima_sys_0031
+063	D-don't worry. The battle is...almost...over.	VO_yaurasu.yaurasu_sys_0017
+064	C-Captain Yauras?! Seida?! Captain Othima?!	VO_kagura_3s_kagu.kagura_sys_0025
+065	Their bodies are fading?!	VO_victor.victor_sys_0026
+066	Unfortunately... Th-this is...the end for us.	VO_ortima.ortima_sys_0030
+067	We were summoned here by Emmel's soul. Nimul's resurrection has been stopped, and so...our mission...is complete.	VO_caida.caida_battle_0016
+068	No...!	VO_kagura_3s_kagu.kagura_sys_0022
+069	It's all right. You've got some fine...warriors assembled...here. You'll...be...fine.	VO_yaurasu.yaurasu_chara_0010
+070	What? H-hey!	VO_victor.victor_sys_0025
+071	It looks like it's up to those of us left behind to finish this. Leave it to us!	VO_vetel.vetel_sys_0004
+072	Thank you. All of you. Rest in peace.	VO_miuna.miuna_sys_0034
+073	I'm...not sure I like the way you put that. Kagura...	VO_yaurasu.yaurasu_sys_0010
+074	Yes?	VO_kagura_3s_kagu.kagura_sys_0004
+075	Bud was right. Y-you have...a duty to watch Kanon...and Kudan's...battle.	VO_yaurasu.yaurasu_sys_0016
+076	Let our will survive! You must make sure that...the next generation...knows how...the justice of this world...was upheld!	VO_caida.caida_sys_0004
+077	Please don't go yet!	VO_kagura_3s_kagu.kagura_battle_0019
+078	The future of...humankind...is in your hands!	VO_yaurasu.yaurasu_chara_0009
+079	It is your duty to...create a beautiful world where everyone has...the right to live!	VO_ortima.ortima_sys_0007
+080	Make sure our...justice...r-reaches...the next generation!	VO_caida.caida_battle_0016
+081	Wha—?!
+082	Th-they're...gone!	VO_victor.victor_sys_0025
+083	Thank you...everyone.	VO_basini.basini_sys_1019
+084	We must remember them as they were.	VO_vetel.vetel_sys_0007
+085	Indeed. So... What are you going to do?
+086	Right...	VO_kagura_3s_kagu.kagura_sys_0004
+087	I'm going to go, of course. I owe them at least that much!
+088	Captain Kagura...
+089	Chloe, you're free to go, too.	VO_vetel.vetel_sys_0004
+090	Huh?	VO_chloe.chloe_sys_0025
+091	You're worried about your friend, right? Go on. Go to her.	VO_vetel.vetel_sys_0007
+092	Th-thank you, Captain!	VO_chloe.chloe_sys_0037
+093	Hey. You should go, too.	VO_miuna.miuna_sys_0001
+094	B-but I...!	VO_basini.basini_sys_0047
+095	You're worried about Kanon, aren't you? If you can't concentrate on the battle, you'll just hold us back.	VO_spica.spica_sys_0002
+096	Th-thank you!	VO_basini.basini_sys_0027
+097	Here I go!
+098	Kudan...!	VO_kagura_3s_kagu.kagura_chara_1008
+099	This is the last stand. Ready, Kanon? Let's settle this once and for all!	VO_kudhanstein.kudhanstein_battle_0017
+100	But...!	VO_kanon_3s_cano.kanon_sys_0018
+101	Don't worry. With Orion gone, the Greed Dike soldiers should pipe down. You should focus on sorting out our dispute first.	VO_kudhanstein.kudhanstein_sys_0031
+102	Captain Kudan... Is there really no way to change your mind?	VO_kanon_3s_cano.kanon_sys_0042
+103	Heh... I'm not sure that I believe in destiny, but I dare say it looks like fate has brought us to do battle here.	VO_kudhanstein.kudhanstein_sys_0010
+104	Unfortunately, two kinds of justice cannot coexist in this world.
+105	So you've made up your mind?	VO_kanon_3s_cano.kanon_sys_0017
+106	I have. Let the outcome of this battle decide whose justice this world desires.	VO_kudhanstein.kudhanstein_sys_0004
+107	Phew... I feel...kinda strange.	VO_kanon_3s_cano.kanon_sys_0030
+108	What?	VO_kudhanstein.kudhanstein_sys_0027
+109	I know it's silly at a time like this...but I'm reminded of when I first joined the Holy Order.	VO_kanon_3s_cano.kanon_chara_0010
+110	If not for all that has happened... If not for where we are... It almost feels like I'm learning swordsmanship from you all over again, Captain Kudan.
+111	What is this ridiculous sentimentality? We may have fought together once, but we were walking down completely different paths.	VO_kudhanstein.kudhanstein_chara_0010
+112	Paths that have led us to this impasse.
+113	Yes...	VO_kanon_3s_cano.kanon_sys_0004
+114	Protecting this world is the duty of all of mankind, Captain Kudan. It's not right for you to be the only one to sacrifice yourself.
+115	I'm doing this to save you, too.
+116	You're wrong. Protecting the balance of the world is not so simple.	VO_kudhanstein.kudhanstein_battle_0016
+117	You should continue to be a symbol for the people. If there is to be a sacrifice, let it be me alone.
+118	I guess we'll never see eye to eye.	VO_kanon_3s_cano.kanon_sys_0030
+119	Indeed. As knights, there is only one way to settle this. Let our blades decide this final battle!	VO_kudhanstein.kudhanstein_sys_0004
+120	I'm ready, Captain Kudan!	VO_kanon_3s_cano.kanon_sys_0042
+121	Kanon, here I come!	VO_kudhanstein.kudhanstein_chara_0009
+122	Huzzzaahhh!!!
+123	Take this!!!	VO_kanon_3s_cano.kanon_battle_0010
+124	Too soft!	VO_kudhanstein.kudhanstein_battle_0017
+125	Argh!	VO_kanon_3s_cano.kanon_battle_0016
+126	What are you doing? You should know that weak attacks like that won't cut it against me!	VO_kudhanstein.kudhanstein_battle_0016
+127	I...remember.	VO_kanon_3s_cano.kanon_battle_0017
+128	What?	VO_kudhanstein.kudhanstein_sys_0027
+129	When you were teaching me swordsmanship... You always said that I lacked the thirst for blood.	VO_kanon_3s_cano.kanon_sys_0042
+130	You certainly haven't changed. Your blade is still too indecisive. You can't expect to finish off your enemy like that.	VO_kudhanstein.kudhanstein_sys_0031
+131	That's probably true, but this is how I... How the Lord Commander fights. This is the sword that the world wanted.	VO_kanon_3s_cano.kanon_sys_0004
+132	Heh... That's the spirit. Now, come at me with all you've got!	VO_kudhanstein.kudhanstein_sys_0010
+133	All right!
+134	So, it seems that you can match my speed now.	VO_kudhanstein.kudhanstein_sys_0026
+135	Huzzzaaah!!!	VO_kanon_3s_cano.kanon_sys_0032
+136	Wha—?!
+137	Tch! It's impressive that you can keep attacking using that stance.	VO_kudhanstein.kudhanstein_battle_0016
+138	Thank you.
+139	Argh! You... You got me?!	VO_kudhanstein.kudhanstein_battle_0019
+140	Yup.
+141	Ngh! It seems you've improved since we last crossed swords on Ramproad Mountain.	VO_kudhanstein.kudhanstein_sys_0018
+142	I wonder if this is what Lord Zain and Captain Cadanova were like.	VO_kanon_3s_cano.kanon_battle_0017
+143	What?	VO_kudhanstein.kudhanstein_sys_0027
+144	I heard that when they were young, they sparred with each other on Ramproad Mountain, over and over, for training. It sounds just like us.
+145	It does. However...	VO_kudhanstein.kudhanstein_sys_0031
+146	Yeah... Unlike them, we've chosen different paths that lead away from each other.	VO_kanon_3s_cano.kanon_sys_0004
+147	Paths that have reached a point of no return.	VO_kudhanstein.kudhanstein_sys_0004
+148	Kanon, I'm done reminiscing. I'm not going to hold back anymore! Come at me with everything you have!	VO_kudhanstein.kudhanstein_battle_0017
+149	All right.	VO_kanon_3s_cano.kanon_sys_0004
+150	Huzzzaahhh!!!	VO_kudhanstein.kudhanstein_sys_0032
+151	Huzzzaaahh!!!	VO_kanon_3s_cano.kanon_sys_0032
+152	Kanon! Kudan!	VO_kagura_3s_kagu.kagura_sys_0027
+153	Wh-what is this?! Is this really a fight between two humans?!
+154	It's more like a battle between a god and a demon!	VO_basini.basini_sys_0027
+155	Is that...Orion?!	VO_chloe.chloe_battle_0022
+156	S-so they really did it... They put a stop to Orion's ambitions!	VO_basini.basini_sys_0025
+157	Ngh! These shockwaves are powerful!	VO_basini.basini_battle_0019
+158	Why in the name of the gods are they fighting?! There's absolutely no reason for the two of them to go at it! Stop it already!
+159	Y-yes, but...	VO_kagura_3s_kagu.kagura_battle_0019
+160	They're too evenly matched! How far are those two going to take this?!	VO_kagura_3s_kagu.kagura_sys_0042

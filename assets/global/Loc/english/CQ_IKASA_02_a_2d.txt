@@ -1,0 +1,92 @@
+﻿001	Haaaaaah!	VO_ikasa.ikasa_sys_0032
+002	Phew... That takes care of the monsters around here.
+003	Good job, Ikasa. You almost single-handedly took down all of them.	VO_kadhanova.kadhanova_sys_0004
+004	Thank you very much.
+005	Although I suspected there would be monsters in the area, I didn't expect them to be so aggressive.	VO_ikasa.ikasa_sys_0001
+006	Yes. Perhaps they became aggressive due to those subjects...	VO_kadhanova.kadhanova_sys_0031
+007	Subjects...? What do you mean?	VO_ikasa.ikasa_sys_0006
+008	It seems you don't know that particular detail. Though it should've been shared with anyone involved...
+009	...?
+010	Never mind. It's not something to worry about. Let me tell you the details about this mission.	VO_kadhanova.kadhanova_sys_0016
+011	You may have heard, but the people who used this location as their base experimented with alchemy and the strengthening of monsters.
+012	All of the test subjects in the ruins were supposed to have been disposed of at the time of this discovery, but it seems that some of them had escaped.	VO_kadhanova.kadhanova_sys_0022
+013	I see... So you are here to help take care of unfinished business.	VO_ikasa.ikasa_sys_0005
+014	Well, seems that's what it is.
+015	I understand now. Thank you.	VO_ikasa.ikasa_sys_0045
+016	It's certain that the test subjects are around here.
+017	It seems that there are no remnants of the group around here.
+018	Right.	VO_kadhanova.kadhanova_sys_0004
+019	But seeing how those monsters acted, the test subjects must be near. We have to take care of things before anyone gets hurt.
+020	From now, we won't just be patrolling. We'll also be on a hunting mission. But with your skills, there shouldn't be any problems.
+021	Yes.	VO_ikasa.ikasa_sys_0004
+022	(To have some test subjects escape... This would be an embarassment for the Holy Guard. But I'm not sure why the captain had to come out here...)
+023	(Although...)
+024	What's wrong? You look unsure.	VO_kadhanova.kadhanova_battle_0016
+025	Not unsure... Just a little confused.	VO_ikasa.ikasa_sys_0011
+026	About what?
+027	You know I have the skills to defend myself, so I don't understand why you came along with me...
+028	Didn't I say that I was eager to see you in action? And...because I wanted to have a chat with you.	VO_kadhanova.kadhanova_sys_0001
+029	A chat?	VO_ikasa.ikasa_sys_0006
+030	Yeah. After being recruited, things were busy so we never had a chance to talk.
+031	I thought I could hear your answer to that question I asked way back.	VO_kadhanova.kadhanova_sys_0031
+032	There is great aptitude for alchemy and strong power.
+033	However, after further examination, there may be danger of her leaning towards darkness. It is unwise to make her a member of the Holy Guard.
+034	But, we must make use of her power...
+035	(If I'm not allowed, then I'm not allowed... This just feels troublesome now.)	VO_ikasa.ikasa_sys_0030
+036	(It'll be a bit disappointing, not being able to become a "knight"...)
+037	(With the opportunity lost, there's probably nothing else for me...)	VO_ikasa.ikasa_sys_0022
+038	Captain Cadanova. What is your opinion?
+039	Well...	VO_kadhanova.kadhanova_sys_0004
+040	She has considerable alchemy within her. It would be a wasted opportunity if we didn't do anything.
+041	Although...
+042	Of course, if I can understand your concerns, so how about this? I'll take care of this newcomer.	VO_kadhanova.kadhanova_battle_0016
+043	..!
+044	As the captain of the 4th Regiment, I'll take full responsibility for making sure her power is used correctly.
+045	Well, Captain Cadanova. If you're willing to go that far.
+046	Then it's decided.	VO_kadhanova.kadhanova_sys_0010
+047	...?
+048	And that's how things will be. Welcome, Ikasa.	VO_kadhanova.kadhanova_sys_0001
+049	Thank you...very much.	VO_ikasa.ikasa_sys_0034
+050	By the way, there was a question I forgot to ask you.
+051	What is it?	VO_ikasa.ikasa_sys_0006
+052	It was, "when you become a knight, what will you use your power for?"
+053	My power...?
+054	Your motivation.	VO_kadhanova.kadhanova_sys_0031
+055	...
+056	I...
+057	You said that there was nothing in particular, right?	VO_kadhanova.kadhanova_battle_0016
+058	Was that my answer...? You seem to remember it clearly.
+059	I wouldn't forget it. Especially with someone saying that so honestly.	VO_kadhanova.kadhanova_sys_0008
+060	I took your words seriously, as someone that needed guidance.
+061	...
+062	I was able to see your skills. It's true that you have power...but that's what scares me.	VO_kadhanova.kadhanova_sys_0004
+063	You have no mercy in taking down enemies. Your powers don't hold you back.
+064	Having that power is a double-edged sword. Because you know how to control yourself, you won't lose yourself so easily...
+065	However, if you don't have a purpose for your power, one day you may lose control and endanger yourself and those around you.
+066	So you want to know what I'd like to use my powers for, as of now.	VO_ikasa.ikasa_sys_0004
+067	Yeah. You didn't have a sense of direction then, but how about now?
+068	Did you find a purpose after becoming a knight?	VO_kadhanova.kadhanova_sys_0001
+069	Well, not yet...
+070	I don't know if I'll find one. I don't think I've changed much since then.	VO_ikasa.ikasa_sys_0021
+071	I see...
+072	I feel sorry, as you've looked after me and hoped for me all this time.	VO_ikasa.ikasa_sys_0001
+073	Then why even bother coming to our gates? What made you want to become a knight in the first place?	VO_kadhanova.kadhanova_sys_0031
+074	That is...	VO_ikasa.ikasa_sys_0005
+075	...what I aspire to be!
+076	I swear my love and loyalty to you, princess!
+077	...
+078	It's just...a child that is really important to me once said to me "I like knights."	VO_ikasa.ikasa_sys_0004
+079	Hmm...
+080	I know. It sounds so childish.	VO_ikasa.ikasa_sys_0011
+081	Why do you say that? It's a perfectly good reason.	VO_kadhanova.kadhanova_sys_0023
+082	Huh?
+083	Then, for the sake of that child, you must encourage yourself more.	VO_kadhanova.kadhanova_sys_0004
+084	Really? Is that a purpose?	VO_ikasa.ikasa_sys_0001
+085	Why not? It's important as a memory for you, isn't it?	VO_kadhanova.kadhanova_battle_0016
+086	For an important child. That's a great purpose. A knight that stands to protect what is important is a great knight.
+087	I see... so that's what it means.
+088	(Even if that's right, for me to be a knight...)
+089	!!! That monster...	VO_ikasa.ikasa_sys_0025
+090	There's a test subject branding on it. It came from over there.	VO_kadhanova.kadhanova_sys_0010
+091	Grrraaaaaaaarrgh!!!	VO_familiar.familiar_battle_0028_a
+092	This is going to be a tough one. Let me give you a hand. Ikasa, let's go!	VO_kadhanova.kadhanova_sys_0001

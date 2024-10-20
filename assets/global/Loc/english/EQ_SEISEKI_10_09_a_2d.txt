@@ -1,0 +1,114 @@
+﻿001	Northern Pride. Headquarters of the Holy Guard.
+002	Lord Commander Kanon!	VO_basini.basini_battle_0019
+003	Basheeny...how is Almira's condition?!	VO_kanon_3s_cano.kanon_sys_0018
+004	Fortunately, there is no risk to her life. Still, the wound was surprisingly deep. She is currently receiving treatment by the medical unit.	VO_basini.basini_sys_0004
+005	I see. What is going on? What were you doing with Almira...?	VO_kanon_3s_cano.kanon_battle_0017
+006	I had received a report from Kazahaya that she was headed with Captain Othima to Saga, but...
+007	It's a long story. However, in summary, while heading to Saga, I encountered the fleeing Almira.	VO_basini.basini_sys_0001
+008	Fleeing? From Saga region?
+009	Yes. She told me she was able to escape due to Kagura's quick judgment.	VO_basini.basini_sys_0005
+010	Were they attacked by Greed Dike in Saga? Yauras wasn't able to make it out in time?	VO_kanon_3s_cano.kanon_sys_0021
+011	Regarding that...	VO_basini.basini_sys_0018
+012	This is difficult for me to report, but...Captain Yauras was killed in the line of duty.
+013	What...?!
+014	She was slaughtered by the Templar's leader Sol.	VO_basini.basini_sys_1019
+015	Furthermore, Sol...he has detained Captain Kagura and is said to be currently headed to Saga region in order to seize the Matter.
+016	!!!
+017	No...!	VO_kanon_3s_cano.kanon_sys_0021
+018	Before making his way to Saga, Captain Othima informed me that protecting the Matter was the highest priority.	VO_basini.basini_sys_1019
+019	I'm sure he will be able to rescue Captain Kagura as well.
+020	... ...
+021	Is that all...true?	VO_kanon_3s_cano.kanon_sys_0018
+022	Yes...unfortunately.	VO_basini.basini_sys_0018
+023	...Very well.	VO_kanon_3s_cano.kanon_battle_0016
+024	My lady...	VO_suzuka.suzuka_sys_0020
+025	Currently, Greed Dike's main army is approaching us here in Northern Pride.	VO_basini.basini_battle_0019
+026	We encountered them ourselves. Their numbers are vast to the point that we could not determine where their ranks ended.
+027	I believe that Captain Yauras and Captain Kagura assisted Almira in her escape in order to pass on this report.
+028	I thank the two of you for this report.	VO_kanon_3s_cano.kanon_sys_0037
+029	We serve at your pleasure.
+030	Huff...huff... We've received a report from the frontlines!	VO_kazahaya.kazahaya_battle_0024
+031	...!
+032	Greed Dike's army is approaching! Their exact numbers are undeterminable due to their endless ranks.	VO_kazahaya.kazahaya_battle_0022
+033	This is unmistakably Greed Dike's main army!
+034	Mistress...!	VO_suzuka.suzuka_sys_0026
+035	Proceed to intercept immediately!	VO_kanon_3s_cano.kanon_sys_0042
+036	Inform both the Royal Palace and the Holy Order to hurry with the evacuation of all citizens! Basheeny, contact each squadron!
+037	Understood!
+038	Very well!	VO_basini.basini_sys_0038
+039	...So, it's finally gotten to this point! I won't let you do as you please, Orion!	VO_kanon_3s_cano.kanon_sys_0042
+040	Saga region. Near the Wind Temple.
+041	Venom Arrow Rain!!!	VO_caida.caida_battle_0001
+042	Hyaaah!	VO_sol.sol_sys_0026
+043	Ack...!	VO_kagura_3s_kagu.kagura_battle_0022
+044	I heard you were calm and calculated. Your passionate attack plays quite against my image of you.	VO_sol.sol_sys_0016
+045	I heard that you were a man who destroys without discrimination or regard...	VO_caida.caida_sys_0037
+046	The most efficient way to avoid further damage is to finish you off as soon as possible.
+047	Efficient, huh? I heard that was your catchphrase.	VO_sol.sol_sys_0045
+048	However, aren't you acting in contrary to your beliefs?	VO_sol.sol_sys_0010
+049	...What are you talking about?
+050	You went out of your way to appear before us.	VO_sol.sol_sys_0007
+051	If you had hidden along with the rest of the wind tribe, you could've prevented any and all casualties.
+052	I'm a captain of the Holy Guard. I would never run while letting you remain unchecked.	VO_caida.caida_sys_0030
+053	No...that's not that the only reason.	VO_sol.sol_chara_1005
+054	...What do you mean?
+055	You're going to tell me you're here to take me down and save this redhead.	VO_sol.sol_sys_0004
+056	However, the truth is that there's a reason you can't move from here, isn't there?
+057	...!
+058	A reason she can't move...?	VO_kagura_3s_kagu.kagura_sys_0025
+059	I told you just now, didn't I? The Matter has consistently been stored within the temples.	VO_sol.sol_sys_0002
+060	I doubt this tribe is an exception.
+061	...Oh...	VO_kagura_3s_kagu.kagura_battle_0019
+062	You managed to evacuate all your people, but...you cannot move the Matter from this temple.	VO_sol.sol_sys_0010
+063	If someone has to protect the Matter...
+064	It's pretty much predetermined who that person would be.
+065	... ...
+066	In other words...the final Matter is still stored in this temple. Or else...	VO_sol.sol_sys_0007
+067	You wouldn't do something so inefficient as launching an ambush against me.
+068	...Seida...
+069	...Are you finished?	VO_caida.caida_sys_0012
+070	Huh?
+071	Heartbreaking Arrow!!!	VO_caida.caida_battle_0001
+072	Ack...?!	VO_sol.sol_sys_0043
+073	You can conjecture about my presence as much as you like. Either way, I'm going to finish you here.	VO_caida.caida_sys_0030
+074	He-hey! Hold on a second...!	VO_sol.sol_sys_0025
+075	No. I won't give you a moment's grace. This is where it ends!
+076	Tsk! You won't even let me get a word in...?! In that case...	VO_sol.sol_sys_0016
+077	Wh-whoa...?!	VO_kagura_3s_kagu.kagura_sys_0027
+078	Seriously... You may be getting worked up, but...	VO_sol.sol_sys_0022
+079	I have here one of your precious comrades. If I were to use her as a shield like this...
+080	You're an idiot.	VO_kagura_3s_kagu.kagura_sys_0030
+081	Huh?
+082	You really don't know anything about us, do you? Look.	VO_kagura_3s_kagu.kagura_sys_0029
+083	...?! He-hey...didn't you hear me?! Can't you see her here?!	VO_sol.sol_battle_1017
+084	From the moment we each became a Paladin, we resolved ourselves to our fate.	VO_caida.caida_sys_1016
+085	In order to rid this world of any and all threats, we are more than willing to sacrifice ourselves. Isn't that right, Kagura?
+086	Of course.	VO_kagura_3s_kagu.kagura_sys_0005
+087	...!
+088	We of the Holy Guard will never succumb to you and your kind! Twin Fang God Wolf!!!	VO_caida.caida_battle_0013
+089	Argh! Dodge it!!!	VO_sol.sol_sys_0025
+090	Whoa...!	VO_kagura_3s_kagu.kagura_sys_0027
+091	That was close... What power! Hey...are you okay, redhead?	VO_sol.sol_sys_0018
+092	How about you worry about yourself instead?	VO_kagura_3s_kagu.kagura_chara_1013
+093	What?
+094	Where did all those arrows come from?!	VO_sol.sol_sys_0026
+095	You've been targeted from every angle. You have nowhere to run. Goodbye.
+096	Ack...?! Arghhhhhhh!!!	VO_sol.sol_sys_0032
+097	Yes...! Seida!!!	VO_kagura_3s_kagu.kagura_sys_0024
+098	...No!	VO_caida.caida_sys_0027
+099	Huh...?	VO_kagura_3s_kagu.kagura_sys_0025
+100	That impact just now...that wasn't my technique!	VO_caida.caida_sys_0018
+101	I think you should retract that last goodbye.	VO_sol.sol_battle_1017
+102	?!
+103	You suppress your emotions and calmly take down your enemy. I'll have to admit, I don't dislike your composed attitude.	VO_sol.sol_sys_0007
+104	Hey, you...do you want to be my woman?	VO_sol.sol_sys_0001
+105	Sol...!	VO_kagura_3s_kagu.kagura_battle_0022
+106	Ack! Sorry, but I'm not into kids!	VO_caida.caida_sys_1016
+107	I see. That's unfortunate.	VO_sol.sol_sys_0020
+108	Huh...?!	VO_caida.caida_sys_0027
+109	The Alize people settlement...!	VO_kagura_3s_kagu.kagura_battle_0019
+110	No matter how much I fall for a woman, it goes against my philosophy to obtain her by force.	VO_sol.sol_sys_0022
+111	From behind...?!	VO_caida.caida_sys_1025
+112	Even if I were to obtain someone by force, their heart will never belong to me. It's unfortunate.
+113	Aghh!!!	VO_caida.caida_sys_0027
+114	Seidaaaa!!!	VO_kagura_3s_kagu.kagura_sys_0028

@@ -1,0 +1,88 @@
+﻿001	The school bell tolls, echoing across the grounds.
+002	Guess that means it's break time. I still can't believe how easily they let me transfer here...
+003	Hey! Hiya! Welcome! You must be the new kid!	VO_daisy.daisy_sys_0003
+004	Daisy? Wow! Is that a real mech gear?!
+005	Hee hee! Pretty cool, huh? Wait—did I tell you my name already?	VO_daisy.daisy_sys_0005
+006	Everyone knows you, Daisy, because you're always lugging that big thing around. Anyway, nice to meet you! I'm—	VO_berta.berta_sys_0011
+007	Bertha, right? Lemme guess—you're aiming to become president of one of the school clubs?
+008	Wow! You're pretty knowledgeable for a new kid. That's right, I'm aspiring to become president of the marching band club!	VO_berta.berta_sys_0025
+009	Speaking of clubs—that's actually why we're here. Have you picked a club yet? You should totally join me in the mech club!	VO_daisy.daisy_sys_0004
+010	S-sorry! Can't talk clubs today. I'm actually in a bit of a hurry.
+011	Aww... Okay. You'll have to come take a look at the clubs another time, then!	VO_daisy.daisy_sys_0031
+012	I definitely will. Good luck with the marching band, Bertha!
+013	Thanks! I'll keep at it!	VO_berta.berta_sys_0037
+014	Hm... Someone's popular.	VO_kaya.kaya_chara_1017
+015	I'm guessing you don't get a lot of transfer students.
+016	I suppose. Although... you latched onto me rather quickly too, I must say.	VO_kaya.kaya_sys_0005
+017	Oh, um...
+018	(What am I meant to say to that? Lemme think... Ooh! I've got it!)
+019	That's because you're my favorite character!
+020	I don't understand what you mean by that.	VO_kaya.kaya_sys_0031
+021	However, I appreciate your honesty. Hm... It's really not like me to enjoy a compliment like that.	VO_kaya.kaya_sys_0001
+022	Kaya's Affection Level Increased
+023	What was that?!
+024	What was what?	VO_kaya.kaya_sys_0025
+025	Sorry—I thought I heard... Never mind.
+026	Something must have scared you—you should have seen your face. Hmhm... In any case, regarding the method of returning you to your original world...	VO_kaya.kaya_sys_0008
+027	About that... I've been thinking, and I'm not sure I want to go back just yet.
+028	What? Make up your mind, will you?	VO_kaya.kaya_sys_0001
+029	Kaya's Affection Level Decreased
+030	Nooo! Kaya, don't hate me! I just thought that, y'know, it'd be fun to spend some time with everyone from TAC. I've been really enjoying hanging out with you, too, and—
+031	Keep your voice down, will you? There's no need to shout such embarrassing things for the world to hear.	VO_kaya.kaya_sys_0022
+032	It's just... It's like a dream come true! Here I am, in this world I really like, spending time with all my favorite characters... I don't want it to end!
+033	I see. I'm flattered, but... hm. This really isn't like me at all.	VO_kaya.kaya_sys_0007
+034	Kaya's Affection Level Increased
+035	It went back up! Whoo-hoo!
+036	Ngh!	VO_noah.noah_sys_0027
+037	Oh, crap! I'm so sorry!
+038	This is what happens when you prance around like a child... Honestly. Oh, but you might have just bumped into the very person we need.	VO_kaya.kaya_sys_0022
+039	Oh, no... Where have my glasses got to?
+040	Found them. And... there. Well, I suppose I should apologize to you, too, um...?	VO_noah.noah_sys_0035
+041	You're Noah!
+042	Um... Yes?	VO_noah.noah_sys_0025
+043	I see. Your explanation makes sense, though I'm not sure I believe the part about different worlds.	VO_noah.noah_sys_0031
+044	Regardless, this grand library is the pride of TAC Academy, and all students are welcome to peruse its shelves. I would think this is your best bet for relevant information.	VO_noah.noah_sys_0007
+045	You're the president of the archaeology club, aren't you? I'm sure you don't need my help, but if you're interested, the history section is over there—
+046	I've already memorized all of those books. Rereading them would just be a waste of time.	VO_kaya.kaya_sys_0031
+047	Seriously?! Ahem. Sorry... I lost my temper.	VO_noah.noah_sys_0022
+048	Haha... Awkward. Let's just take a look around for now.
+049	Good. I'm glad you're on board. After all, you can spend time with the other students while we conduct our research.	VO_kaya.kaya_sys_0006
+050	Besides, there's something I'd like to look into myself.
+051	Aw, man... I was kinda hoping that I'd find some hot info about what happens after Chapter 6 while I'm here.
+052	I'm sorry? I don't believe we carry any books that are unfinished here.	VO_noah.noah_sys_0025
+053	However, all writers want their stories to be enjoyed, so I'm sure the author of your tale must be frantically working to finish it.
+054	And so long as people are eager to read what happens next, I'm sure they will continue writing it. I think the best thing you can do is wait, and look forward to reading more. Hee hee.	VO_noah.noah_sys_0007
+055	Sorry to change the topic, but isn't there something you should be asking her?	VO_kaya.kaya_sys_0001
+056	I have so many questions! Like, what's your favorite... Oh, you mean about that. Right... Hey, Noah, do you know if this academy—?
+057	Sup, everybody!	VO_emma.emma_sys_0009
+058	Emma... How many times do I have to remind you that the library is a quiet place?	VO_noah.noah_sys_0022
+059	Aw, c'mon! Let it go already. I came here to do my homework, like a model student! Just call me diligent!	VO_emma.emma_sys_0012
+060	Your homework? You mean you're going to make me help you with everything?	VO_noah.noah_sys_0012
+061	Oh, hey! Are you the new kid I've heard so much about? What're you hanging out up here for?	VO_emma.emma_chara_1001
+062	...
+063	Um, Emma? Maybe look behind you?
+064	Aw, Noah! Don't look at me like that. What're you so mad about, huh?	VO_emma.emma_sys_0016
+065	Emma... I'm not going to have you screw up my whole schedule, but I'll take a look if you get stuck on something. Happy?	VO_noah.noah_sys_0022
+066	Those two are surprisingly close, considering their personalities couldn't be more different.	VO_kaya.kaya_chara_1017
+067	Oh, right! Emma and Noah both go to the Venus School of Magic!
+068	Would you please stop shouting in the library?!	VO_noah.noah_sys_0012
+069	Sorry, sorry. Hey, can I ask you something?
+070	Oh? You wanna take me out to dinner? It'll cost ya!	VO_emma.emma_chara_1013
+071	Let me see how much I've got in my wallet... Wait, no! That's not what this is about!
+072	I just wanted to ask if you guys have noticed anything unusual about this school.
+073	(These two attend the Venus School of Magic in-game, so they might know something!)
+074	Nope.
+075	Nothing that I can think of, no.	VO_noah.noah_sys_0005
+076	Huh.
+077	A swing and a miss.	VO_kaya.kaya_battle_1018
+078	No clues here, then, I guess...
+079	Oh!
+080	Did you remember something?!
+081	Yeah, it's time for me to get to work! Hey—why don't you come lend me a hand?	VO_emma.emma_sys_0002
+082	Huh? Forget it—I don't have time for that.
+083	Aww, c'mon! There's no good reason to hang around this dusty old place, anyway!	VO_emma.emma_sys_0007
+084	What's that supposed to mean?!	VO_noah.noah_sys_0013
+085	Uh-oh! Quick, run! Don't let her catch us!	VO_emma.emma_sys_0008
+086	Seriously, that girl...	VO_noah.noah_sys_0030
+087	Well, at least I'll be able to conduct my research in peace now. My matter of interest has nothing to do with the academy, however...	VO_kaya.kaya_sys_0008
+088	Hm... It's really not like me to pursue something like this.	VO_kaya.kaya_sys_0031

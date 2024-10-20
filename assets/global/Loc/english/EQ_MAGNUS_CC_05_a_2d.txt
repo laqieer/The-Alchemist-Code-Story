@@ -1,0 +1,99 @@
+﻿001	So, how have your mentors been performing lately?	VO_kaya.kaya_sys_0001
+002	In a word? Terribly!	VO_liuie.liuie_sys_0016
+003	They still don't get any work done, they're always teasing me and joking around...	VO_liuie.liuie_sys_0030
+004	And the other day, they came into work with hangovers so bad, they could barely move!
+005	I see.	VO_kaya.kaya_sys_0005
+006	Why can't they just do their jobs? I mean, they're talented enough. It wouldn't even be that hard for them!	VO_liuie.liuie_sys_0031
+007	If they would just put some effort in, they could be at the top of the Holy Guard by now!
+008	Hmhm. That they might... But I think what they truly value lies elsewhere.	VO_kaya.kaya_sys_0008
+009	On another note... Don't you think you're being a bit too hard on them?	VO_kaya.kaya_sys_0031
+010	Huh?!	VO_liuie.liuie_sys_0025
+011	After all, they seem quite fond of you. I'm sure they'd be sad to hear that you have nothing but complaints to tell of them.	VO_kaya.kaya_sys_0002
+012	Oh, um...
+013	W-well... There is one good thing I can say about them.	VO_liuie.liuie_sys_0003
+014	And what would that be?	VO_kaya.kaya_sys_0005
+015	They're very kind. They helped me carry my bags, the other day.	VO_liuie.liuie_sys_0007
+016	Pardon the intrusion.
+017	What the...?	VO_liuie.liuie_sys_0025
+018	Magnus! Would you mind telling me what's going on?!
+019	What do you mean?	VO_magnus.magnus_sys_0005
+020	Why did you give Captain Kaya a report about dangerous elements in Real Heaven?	VO_liuie.liuie_sys_0031
+021	Oh, that? That was just a little something I took care of while you were helping Captain Othima with his errand.	VO_magnus.magnus_sys_0037
+022	And why is this the first I'm hearing of this?!
+023	Look, there were concerns that the recent spike in suspicious activity in Real Heaven had something to do with Alchemy, so I was asked to investigate.
+024	My findings showed that there was no reason for the Holy Guard to get involved, and that's what I wrote in that report.	VO_magnus.magnus_sys_0030
+025	Mind if I ask what led you to that conclusion?
+026	Obviously, the fact that Alchemy wasn't involved. That means it's a problem for the Slothstein government, not us.
+027	The motivation behind the planned purge of Real Heaven is to punish it for sponging off the city's power supply.
+028	Wh-what?!
+029	Considering the lacking state of the town's hygiene, there are also fears that some kind of plague might be festering down there.
+030	It's been left alone up till now because no one wanted to mess with the mafia, but it can't be ignored forever.	VO_wilhelm.wilhelm_sys_0031
+031	So someone paid off another underworld gang to pick a fight with the mafia and wipe out Real Heaven once and for all.
+032	I see... I suppose Alchemy really isn't involved, then. Still, that's somehow even more extreme.
+033	But what's going to happen to the people down there?!	VO_liuie.liuie_sys_0025
+034	Don't ask me. My job ended with that report.	VO_magnus.magnus_sys_0010
+035	You can't be serious!	VO_liuie.liuie_battle_0019
+036	There are innocent people down there! If a fight like that breaks out, someone's bound to get hurt—or worse!
+037	Fine... I'm going to help them! Captain Othima, please give me leave to go and—	VO_liuie.liuie_sys_0003
+038	Sorry, Ryui. I can't do that.	VO_ortima.ortima_sys_0014
+039	Like Magnus said, this is a problem for the Slothstein government. We can't afford to get involved in matters outside our jurisdiction.
+040	The Holy Guard only has the authority to intervene when Alchemy is involved. Since that isn't the case here...
+041	Not only that, but we've just received official orders not to intervene. I'm afraid we couldn't grant you permission even if we wanted to.	VO_kaya.kaya_sys_0006
+042	That's interesting. If I didn't know any better, I'd think some kind of collusion was going on here.	VO_ortima.ortima_sys_0044
+043	(What are they trying to hide?)
+044	But then... What's going to happen to the town?
+045	How can we be told to just abandon them to their fates?
+046	Ryui, you've been given a direct order from your superiors. You're expected to follow it, regardless of what your personal views might be.	VO_magnus.magnus_sys_0012
+047	I know that, but—	VO_liuie.liuie_battle_0019
+048	Or are you saying there's something you want to prioritize above your duty to the Holy Guard?	VO_magnus.magnus_sys_0010
+049	Magnus...
+050	You're a paladin now, remember? Don't forget what that means. You wouldn't want people's hard-earned taxes to go to waste, would you?	VO_magnus.magnus_sys_0001
+051	I...
+052	You're right. I...should go calm down.	VO_liuie.liuie_sys_0036
+053	Good. You're not a little girl anymore.
+054	Magnus... This is just like what happened with the mock battle, isn't it?	VO_liuie.liuie_sys_0030
+055	I've got no idea what you mean.	VO_magnus.magnus_sys_0007
+056	You knew how it would make me feel to hear that, after having just gone back to Real Heaven.
+057	Well, if you think you know what's afoot, what do you plan to do about it, Ryui?	VO_magnus.magnus_sys_0001
+058	I... I realize I've been selfish.
+059	You have a bit, haven't you? But that's fine. It just means you have the ability to do what you want, and make it work for those around you.	VO_magnus.magnus_sys_0004
+060	Not just anyone can do that, you know.
+061	Personally, I'm glad you joined the Holy Guard.
+062	Because like attracts like?	VO_liuie.liuie_sys_0003
+063	Because sometimes it takes a bunch of selfish paladins to do what's right.	VO_magnus.magnus_sys_0007
+064	And that flower wouldn't be sprouting in Real Heaven right now without your help. You worked hard to create an environment where it could grow.
+065	I'm going to go back to...to pick something up.
+066	Justice isn't gonna fill your belly, remember?
+067	Maybe not, but you showed me that justice is about helping people. Not everyone can save themselves like I did.	VO_liuie.liuie_sys_0031
+068	That's why I have to go. I left something there that I can't do without, and I'm going to go pick it up.
+069	You keep talking like you're doing it all by yourself, but you're not. Remember, you're not alone in this. Not now, not ever.	VO_magnus.magnus_sys_0030
+070	So do what feels right. Let your own sense of justice lead you, because we'll have your back.
+071	My own sense of justice...
+072	Yep. It's up to you. What do you want to do? Who do you want to help?	VO_magnus.magnus_sys_0001
+073	I...
+074	I want to help everyone—everyone in Real Heaven!	VO_liuie.liuie_sys_0003
+075	All right, then.	VO_magnus.magnus_sys_0007
+076	Hah. It's pretty ironic that we're the ones standing up for absolute justice now.	VO_wilhelm.wilhelm_sys_0030
+077	But...the Holy Guard isn't allowed to get involved. What are we going to do?	VO_liuie.liuie_sys_0025
+078	Who said anything about getting involved? You're going back to pick something up, and we'll just be there to escort you.	VO_wilhelm.wilhelm_sys_0007
+079	Now I see why they call you the troublemaker.
+080	Heh.	VO_wilhelm.wilhelm_sys_0008
+081	So, are we going, or what?
+082	Yes. Let's do this!	VO_liuie.liuie_sys_0037
+083	Be careful, you three.	VO_kaya.kaya_sys_0001
+084	Yes, please take care. I've heard things have only gotten worse down there of late.	VO_ortima.ortima_sys_0031
+085	Huh. You packed light today. I mean, compared to last time.	VO_magnus.magnus_sys_0005
+086	Well, that's because the other half of what I need is still in Real Heaven, where I left it.	VO_liuie.liuie_sys_0031
+087	By the way, Mister Othima... I just wanted to thank you again for inviting me to join the Holy Guard. It was easily one of the happiest moments of my life.	VO_liuie.liuie_sys_0001
+088	Really? Well, I'm glad to hear it. Good luck out there.	VO_ortima.ortima_chara_0010
+089	Thank you.	VO_liuie.liuie_battle_0018
+090	Tch... Who're you lot workin' for, anyhow?!	VO_mafia.mafia_battle_0019
+091	That is none of your concern. We are merely here to clean up the streets of your little town.	VO_thiefm.thiefm_sys_0010
+092	Aaaaaahhh!
+093	No!	VO_liuie.liuie_battle_0019
+094	Are you all right?!
+095	Ryui! You came to help us!
+096	Things're really kicking off down here, huh?	VO_wilhelm.wilhelm_sys_0001
+097	And who are you three?	VO_thiefm.thiefm_sys_0002
+098	No one worth mentioning. Right, guys?	VO_magnus.magnus_sys_0010
+099	Right. Just consider us...allies of justice.	VO_liuie.liuie_sys_0037

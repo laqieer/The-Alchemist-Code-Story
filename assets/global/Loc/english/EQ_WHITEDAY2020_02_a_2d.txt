@@ -1,0 +1,79 @@
+﻿001	D-dammit! I hate you!	VO_thiefm.thiefm_battle_0013
+002	Oh no. They've gone. They seemed upset for some reason... Was it something I've said?	VO_plumeria.plumeria_sys_0001
+003	Not sure. They were saying something about Valentine's Day.	VO_reimay.reimay_sys_0031
+004	Is there some connection between Valentine's chocolates and White Day?
+005	I don't know. I've been told White Day is when one gifts sweets to another, but...	VO_reimay.reimay_sys_0010
+006	Excuse me, you two. If I may explain what White Day is...
+007	(Well, I suppose that's not necessary as long as the party preparations move along efficiently.)	VO_ankh.ankh_sys_0031
+008	No... Never mind. Miss Plumeria, have you brought the sweets?
+009	I have! Now all we have to do is make them!	VO_plumeria.plumeria_sys_0004
+010	Indeed, all we have to do is make... What?
+011	Miss Plumeria, did you perhaps purchase not the sweets themselves, but instead ingredients to make them?	VO_ankh.ankh_sys_0001
+012	I did!	VO_plumeria.plumeria_sys_0005
+013	And you not only do not deny the accusation, but announce the truth of it proudly. Did I not direct you to the patisserie to purchase the sweets from?	VO_ankh.ankh_sys_0030
+014	You did! The sweets there did look really nice, but I felt like that would be lacking somehow.	VO_plumeria.plumeria_sys_0031
+015	Lacking? What could possibly be—?	VO_ankh.ankh_sys_0031
+016	I used to have this tutor who taught me something I hold dear to this day.	VO_plumeria.plumeria_sys_0004
+017	Make sweets with love, so they might bring warmth to another's heart. Only then can words locked deep in one's heart be heard.
+018	I remembered those words and I thought making the sweets ourselves would be much more meaningful!	VO_plumeria.plumeria_sys_0007
+019	...
+020	I see. Then I entrust that task to you.	VO_ankh.ankh_sys_0041
+021	(Uh oh, he's clearly not happy. His words are pleasant, but that tone is not. And yet...)	VO_reimay.reimay_sys_0006
+022	Yay! Thank you for trusting me! I will do my best!	VO_plumeria.plumeria_sys_0008
+023	Well, if she doesn't care, why should I?	VO_reimay.reimay_sys_0031
+024	Anyway, handmade sweets, huh? I wonder how they'll turn out.	VO_reimay.reimay_sys_0007
+025	Aaaahhh!
+026	What the—?!	VO_reimay.reimay_sys_0026
+027	Hey, are you all right?	VO_reimay.reimay_sys_0001
+028	Ah, I'm so sorry, Reimei. I knocked over a few plates and...	VO_plumeria.plumeria_sys_0022
+029	This looks like way more than just a few.	VO_reimay.reimay_sys_0030
+030	And...plates aren't the only things you knocked over...
+031	I was trying to put away the plates, and I fumbled a little... I kind of...knocked the tea set off the table, and...	VO_plumeria.plumeria_sys_0018
+032	This is...the tea that Ankh brought. Uh oh. He's not going to like this.	VO_reimay.reimay_sys_0025
+033	I was just so anxious about making this White Day party a success...
+034	Hm...	VO_reimay.reimay_sys_0044
+035	I've always wanted to be helpful to someone and bring a smile to their faces.	VO_plumeria.plumeria_sys_0002
+036	So I really want this party to go well!
+037	Right. But why insist on White Day for that?	VO_reimay.reimay_sys_0045
+038	Well, that's because White Day is—
+039	Hey, watch your step.	VO_reimay.reimay_sys_0001
+040	Huh?	VO_plumeria.plumeria_sys_0025
+041	Aaaaaaaaaaaaahhh!	VO_plumeria.plumeria_chara_1010
+042	I forgot I spilled whipped cream on the floor...	VO_plumeria.plumeria_sys_0042
+043	What is going on here?! Oh my.	VO_ankh.ankh_sys_0026
+044	Sigh...	VO_ankh.ankh_sys_0030
+045	I'm actually amazed how much mess you were able to make in such a short period of time.
+046	(This wouldn't have happened if she had just bought the sweets I'd asked her to. Pathetic, useless...)	VO_ankh.ankh_battle_0019
+047	...
+048	I-I'm so sorry! I'll clean this up right away! I underestimated how clumsy I could be. I apologize.	VO_plumeria.plumeria_sys_0035
+049	But! I will persevere! I will give my all to make this an A+ party that everyone can enjoy!	VO_plumeria.plumeria_sys_0032
+050	...
+051	I pray you too will maintain your composure, Master Ankh. After all, you are of noble birth, destined to stand above others.
+052	As long as you do not forget that feeling of hospitality, then I do not mind.	VO_ankh.ankh_sys_0016
+053	It is much like potting flowers for the house you serve. Your master may not notice them, but it will be there to soothe their mind if they do happen to see.
+054	Always be sure to act for others and not for your own sake. I will take care of this mess.	VO_ankh.ankh_sys_0010
+055	Oh, p-please, allow me to—	VO_plumeria.plumeria_sys_0002
+056	It's fine. I cannot risk you causing any more trouble in the kitchen.	VO_ankh.ankh_sys_0014
+057	I-I'm so sorry.	VO_plumeria.plumeria_sys_0036
+058	I would appreciate it if you would go purchase dishes to replace the ones that have been shattered, however. We will be needing more than these few that are still usable.
+059	Absolutely! I will find dishes worthy of an A+!	VO_plumeria.plumeria_sys_0037
+060	Great...	VO_ankh.ankh_sys_0016
+061	Good job holding it together, Ankh. I thought you were going to explode for sure this time.	VO_reimay.reimay_sys_0002
+062	...
+063	Gotta be impressed by all that motivation of hers, though. Can't imagine where it's coming from.	VO_reimay.reimay_sys_0031
+064	Tch. Who knows? I've never encountered another quite so frustratingly and destructively a hindrance.	VO_ankh.ankh_battle_0019
+065	I...see.
+066	You seem to be worried for her. I'm surprised.
+067	Trying to ignore the sincerity of people like that never really works. They're just too earnest about it.	VO_reimay.reimay_sys_0002
+068	Unfortunately for me, that does not negate how frustrating it is.	VO_ankh.ankh_sys_0010
+069	Phew! I finally found the best plates. I asked the store to deliver them for me so that I wouldn't accidentally break them again. I think I did well!	VO_plumeria.plumeria_sys_0007
+070	Oh, why is it that I make such a mess every time I'm in a kitchen? I've caused them both so much trouble.
+071	Still, the things Ankh said... To be sure to always act for others and not for my own sake. He cares about this party as much as I do.
+072	Goodness... That's exactly why I can't not do my best to help!	VO_plumeria.plumeria_sys_0016
+073	I must do what I can to ensure Ankh and the party guests can smile happily.	VO_plumeria.plumeria_sys_0018
+074	Excuse me. I'd like to order a bouquet, please. I need a gift for my girlfriend for White Day.
+075	Flowers...
+076	I know! Flowers! A little bit of extra hospitality for the guests to enjoy!	VO_plumeria.plumeria_sys_0045
+077	A little bit of floral decorations should make the party venue even better!
+078	If I can find some flowers that perfectly display my passion for this party, I can surely get Ankh to smile!	VO_plumeria.plumeria_sys_0007
+079	Well then, I must be off to pick some flowers!

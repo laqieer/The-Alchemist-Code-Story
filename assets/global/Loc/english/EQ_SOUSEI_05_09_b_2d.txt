@@ -1,0 +1,167 @@
+﻿001	Ah...
+002	Lust, Sloth, Gluttony. You sacrificed your human form to seal those three great sins inside of you.
+003	I thought we got you back after we removed the Cursed Beast's cores but...I have to wonder how much is really left.	VO_eularea.eularea_sys_0002
+004	...I no longer dream. I don't taste the food I eat. I don't even feel pain.	VO_emmer.emmer_sys_0006
+005	...
+006	Which means I'm all right. I can still fulfill my duty.	VO_emmer.emmer_sys_0007
+007	...There's still time, you know.
+008	There's still time to change things. What is lost might never come back, but even so—	VO_eularea.eularea_sys_0001
+009	I'm afraid that isn't possible.
+010	Emmel...
+011	This is my duty. I took it from you to continue standing by my brother's side.	VO_emmer.emmer_sys_0010
+012	It doesn't matter how heavy this burden becomes, I will not run away from my responsibility.	VO_emmer.emmer_sys_0004
+013	I see...	VO_eularea.eularea_sys_0022
+014	You two siblings really are a pair of knuckleheads...
+015	Well then...
+016	If it isn't the traitor. Not satisfied with turning your blade on your countrymen, Andechs? What? You think you can come asking things from us now?	VO_stknightm.stknightm_sys_0012
+017	Whew! Well. I can't really defend myself there.	VO_andechs.andechs_sys_0010
+018	You're pretty much right.
+019	I did betray the Ira Belt...
+020	And instead I decided to protect the citizens and people living in the Invidia Belt.	VO_andechs.andechs_sys_0030
+021	Did you come here to talk nonsense? Get to the point.
+022	Ah yes, I came with good reason. We need your power.
+023	You understand what's actually happening here, right?	VO_andechs.andechs_sys_0002
+024	The real reason you were ordered to invade the Invidia Belt is so that the Ira Belt may steal its territory.
+025	You should know that it's already far too late for such a strategy.
+026	...	VO_stknightm.stknightm_sys_0042
+027	The king of these lands intends to kill the Cursed Beast.
+028	That option was never even available to us. I don't think we even considered it a possibility.	VO_andechs.andechs_sys_0016
+029	I'd...like to see this happen.
+030	...There's no point in fighting the Cursed Beasts. They're a part of this world.	VO_stknightm.stknightm_sys_0017
+031	Kill one, and another will simply be born in its place... That's what that serpent told us.
+032	That may or may not be true, but I'd still like to take this bet.	VO_andechs.andechs_sys_0007
+033	That guy who owns the airship, Nimul? He keeps bragging that he's going to save the world.
+034	...Then you're the same as him. Believing in the future of us humans... Just like the late king Arius.
+035	Actually, about that... I want you to tell me what happened while I was gone.	VO_andechs.andechs_sys_0001
+036	What happened to King Arius?
+037	Hah, that's very simple. We... Well, we gave up.	VO_stknightm.stknightm_sys_0010
+038	Completely just gave up on the future of the Ira Belt...
+039	Let's begin. I'd like to hear from you, as the people who shall lead the charge against Leviathan.
+040	For starters, as of right now, not a single one of our attacks will hit it.	VO_nimuru.nimuru_sys_0030
+041	Oh?
+042	What about that light from your airship? I thought that was Anti-Curse magic?	VO_hymnus.hymnus_sys_0006
+043	Anti-Curse magic is fundamentally a method that makes contact with a target to strip away sinful magil.
+044	Basically, if we can't actually make contact with it, it's not going to have any effect. So there's our problem.	VO_adlai.adlai_sys_0016
+045	It's able to manipulate the ocean.
+046	Yeah, Leviathan can envelop itself in these corrupted waters to protect itself. It has already repelled our attacks twice.	VO_adlai.adlai_sys_0004
+047	Nimul figured it out pretty early on, but...that power is going to a real pain to deal with.
+048	Especially since all that corrupted ocean water attracts our Anti-Curse magic to it.
+049	So all we're doing is extracting sin from the ocean, and that's not going to get us anywhere.	VO_adlai.adlai_battle_0019
+050	It's basically like it has another layer of armor over its outer shell.	VO_nix.nix_sys_0030
+051	Yup, that's it!
+052	So if we want to take down that Leviathan, we gotta find a way to pierce through that wall of ocean water first.
+053	Leviathan's territory is the ocean, and this kingdom is surrounded by the ocean nearly all sides.	VO_nimuru.nimuru_battle_0022
+054	Our odds of facing it anywhere other than the ocean are pretty slim, unfortunately. That is the reality of the situation.
+055	In other words...	VO_hymnus.hymnus_sys_0042
+056	We have no methods to defeat Leviathan.
+057	But we've decided to oppose it nevertheless. For now, we must think of the things we can do.
+058	Of course. We're not about to give up now. We'll continue to gather information about Leviathan and devise a way to counter it.	VO_nimuru.nimuru_sys_0004
+059	Thank you. There's just one more thing...
+060	Could I ask you to look into a way to repair the Silver Shield?
+061	That big shield? We don't mind doing that, but why?	VO_nimuru.nimuru_sys_0006
+062	The Legend of the Shield Maiden says that this shield was once part of the ark that protected our people from being swallowed by the sea.
+063	If you look into this matter, I feel like you might just discover a way to handle the Leviathan's "ocean" problem too.
+064	Understood. Yna and I will look into that.	VO_nimuru.nimuru_sys_0005
+065	A weapon spoken of in legends... It may be imprudent of me to say, but it's got me curious. I'll look into it.	VO_kuienai.kuienai_sys_0007
+066	As for studying the Leviathan's behavior and patterns of movement...
+067	Leave that to me and the airship! I'll be able to observe it from relative safety as long as I stay high enough.	VO_adlai.adlai_sys_0006
+068	I'll come along in case things get hairy. It'll be better to have someone around who can operate Libra.	VO_nix.nix_sys_0001
+069	Ah yeah, you're right. I'd have to deal with a lag in the initiation if I went about it alone...
+070	Sounds good! Where should I go?	VO_mela.mela_sys_0038
+071	I'd like you to protect Emmel and Eulalia.	VO_nimuru.nimuru_sys_0031
+072	The serpents are likely to target Emmel for being the Vessel of Purification. There's a chance they will try something again.
+073	Leave it to me! I'll get ready to ride that big ship...	VO_mela.mela_sys_0007
+074	You sure? Not worried that the ship will be too dirty?	VO_nix.nix_sys_0010
+075	You little brat! Don't be so rude to your big sis!	VO_mela.mela_sys_0016
+076	Imnus, what will you do?
+077	I will regroup with the rest of the knights. If we're confronting the Cursed Beast, then half-hearted preparations won't be enough.	VO_hymnus.hymnus_sys_0004
+078	Sounds like everybody's made up their minds then. What do you want me to do?	VO_andechs.andechs_sys_0031
+079	If you're asking, then I have a request.
+080	Oh my, a request straight from the king himself? I humbly doth accept.	VO_andechs.andechs_sys_0009
+081	I want you to cheer up the somber knight who is missing from our meeting.
+082	Oh?	VO_andechs.andechs_sys_0006
+083	...
+084	Hey, little lady. It's going to get dark soon.	VO_andechs.andechs_sys_0001
+085	Andechs?
+086	Your king asked me to check on you.	VO_andechs.andechs_sys_0005
+087	His Highness did? But... There's no good reason for him to worry about me anymore...	VO_dafne.dafne_sys_0011
+088	Because you broke that big shield of yours?
+089	Exactly. That shield was the pride of the Invidia Belt.
+090	And I've gone and tainted that pride. If I was actually worthy of bearing that shield, it would've never shattered like that...	VO_dafne.dafne_sys_0018
+091	...All right, get into position. We'll spar.
+092	E-excuse me?	VO_dafne.dafne_sys_0025
+093	I thought I'd come here and fix things up with some smooth talk, but frankly, I have no clue what to tell you here.	VO_andechs.andechs_sys_0011
+094	Getting some training in is the best thing you can do in that kind of situation! You can clear your head by moving your body! And before you know it, you'll figure out a way to deal with your problems.	VO_andechs.andechs_sys_0008
+095	Ehm, well, but...
+096	I don't have my shield...
+097	It's not like you can't fight without that shield, right?	VO_andechs.andechs_sys_0002
+098	Just go grab whatever weapon is easy to use.
+099	Y-yes... Okay.	VO_dafne.dafne_sys_0016
+100	Um, I'll go with this.
+101	Oh, look at that. That looks battle-worn, yet well-maintained. What a nice shield.
+102	This is the shield I used to train with before I was selected as the Shield Maiden.	VO_dafne.dafne_sys_0005
+103	I see, like an old friend then, hm?	VO_andechs.andechs_sys_0024
+104	You ready to start then? Put your back into it and don't give up, 'kay!
+105	Ah, no, wait a moment! I got a little caught up in the moment, but when I think about it's there's really no way that I should be trai—
+106	Eeek!	VO_dafne.dafne_sys_0026
+107	Gh... Hah!	VO_dafne.dafne_sys_0042
+108	Nice move! You're doing better.
+109	Perhaps, but...
+110	Look, I understand what you're feeling. Really, I do... Not living up to someone's expectations is rough for both parties.	VO_andechs.andechs_sys_0016
+111	Yeah...	VO_dafne.dafne_sys_0016
+112	But you survived, and that means you can continue to fight.
+113	This isn't the end yet. There's still chances to make up for your defeat.
+114	But the Silver Shield is already broken...	VO_dafne.dafne_sys_0042
+115	Is the shield really that important? I'd say there's a different, far more important thing to think about.	VO_andechs.andechs_sys_0017
+116	Something that's more important...?
+117	You may have lost your shield, but you didn't lose the ability to fight.	VO_andechs.andechs_sys_0004
+118	I mean, sure, that shield was pretty amazing. This whole thing might even be a lot easier if we still had it, but!
+119	Shield or no shield, it doesn't change the fact that we'll keep on fighting! So I'm sure you can get back up too.
+120	You just gotta close your eyes and listen to the voices that are begging you to save them.	VO_andechs.andechs_sys_0007
+121	...
+122	Let me repeat myself. Your shield isn't the important thing here. All that matters is that you remember how to wield it.	VO_andechs.andechs_sys_0002
+123	At the very least, you saved my ass out there, so I feel confident saying the following.
+124	You're a brave little lady.
+125	In that moment, I could tell you were prepared to lose it all if it meant protecting someone. As a knight, I admire that kind of resolve.	VO_andechs.andechs_sys_0005
+126	That's just...	VO_dafne.dafne_sys_0039
+127	Nobody here wants to see you look so down, so have a little more confidence.
+128	Lemme tell you, in that moment you were practically a goddess to me, descended from the heavens to come and save my simple soul.
+129	...Uhm, now you're just exaggerating.	VO_dafne.dafne_sys_0001
+130	Haha, am I?
+131	Well, regardless, this battle isn't over yet. So if you've got time to stare at the twilight, well, why not spend it struggling alongside the rest of us?
+132	I won't even laugh if you're a little awkward, promise. I've got no room to talk. I'm certainly no better than you!	VO_andechs.andechs_sys_0012
+133	I'm over here talking big about saving this kingdom, as if that doesn't mean killing my fellow Ira Belt knights with these very hands.
+134	If that isn't betrayal, I don't know what is. That's just where we're at now...	VO_andechs.andechs_sys_0030
+135	Do you regret it?
+136	No, I don't.
+137	I took a vow to uphold justice, and I wield my sword accordingly. If I spend my time wallowing in regret, why, I'd be dragging the name of every life I ever took through the mud. To me, that is blasphemous.	VO_andechs.andechs_sys_0010
+138	Well, at least that's the selfish excuse I tell myself.	VO_andechs.andechs_sys_0011
+139	You're...a very strange guy.	VO_dafne.dafne_sys_0007
+140	Oh? Hmm... I'll take that as a compliment.	VO_andechs.andechs_sys_0031
+141	I will too...
+142	(Will there ever be a day that I can look to the future without any regrets about the past?)
+143	Hm? Did you say something?	VO_andechs.andechs_sys_0006
+144	Excuse me, Vice-Captain! The lookouts sent us a report!
+145	What did they say? More Ira Belt forces?
+146	Ah, well, yes, there are, but...	VO_knightm.knightm_sys_0031
+147	We spotted their warship, but they're being attacked by Leviathan!
+148	Leviathan?	VO_dafne.dafne_sys_0025
+149	We don't know how we're supposed to respond to this...
+150	First, calm down. Report to the castle, and the captain will take it from here.	VO_dafne.dafne_sys_0002
+151	U-understood!
+152	...	VO_andechs.andechs_sys_0042
+153	Andechs...
+154	...I know, they're my enemies now. There's no way we could go help 'em out.	VO_andechs.andechs_sys_0016
+155	Let's go.
+156	...Are you sure?
+157	You sat here and listened to all my disgraceful worries.	VO_dafne.dafne_sys_0004
+158	I'd like to return the favor, and besides...
+159	It's not like the citizens of this land particularly want to see yours wiped out or anything like that.
+160	If anything, I hope that this might be the act that could put an end to this war...	VO_dafne.dafne_battle_0019
+161	...So, we'll help.
+162	I will arrange for a ship. You should go ahead and make your way to the port.
+163	Got it!	VO_andechs.andechs_sys_0005
+164	So that's the Shield Maiden...
+165	She doesn't hesitate to lend a hand to others, even though she's drowning in her own worries. As long as it's for someone else, she can make decisions just fine...
+166	You're already plenty amazing, little lady.	VO_andechs.andechs_sys_0003
+167	Well, I better pull myself back together too!

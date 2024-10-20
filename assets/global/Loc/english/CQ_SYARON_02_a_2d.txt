@@ -1,0 +1,93 @@
+﻿001	We'll break their ranks and rout them! Just follow my orders!	VO_sharon.sharon_sys_0003
+002	Group one, flank them and strike from the rear! Group two will—
+003	(Good... They're all listening to what I'm saying.)
+004	(At this rate, the rest of the mission should be smooth sailing...although the sounds are still so suffocating.)
+005	Hmm... Still not quite right.	VO_wong.wong_sys_0031
+006	You should've taken the hit and closed the distance. You'll pack a lot more punch from up close.	VO_wong.wong_sys_0002
+007	Yes, master!
+008	Was that better?
+009	Not bad. You still got a little ways to go, though...	VO_wong.wong_sys_0004
+010	...?
+011	That's the last of them. Good work, everyone. Is anyone hurt?	VO_sharon.sharon_sys_0004
+012	We're fine, commander.
+013	...
+014	If there's something you want to say, I'll hear you out.	VO_sharon.sharon_sys_0001
+015	What?
+016	Of course not, commander. I didn't mean to suggest...
+017	I'd like to think I pay attention to how my subordinates are feeling.	VO_sharon.sharon_sys_0031
+018	And you seem discontent with something.
+019	...
+020	If I'm failing you as your commander, I'd like to know.	VO_sharon.sharon_sys_0029
+021	My job is to follow your orders, commander. It's not my place to complain.
+022	Now, if you'll excuse me, I have duties to attend to.
+023	...
+024	He didn't say anything at all, really...so why do I feel so guilty?	VO_sharon.sharon_sys_0030
+025	Maybe I need to take a break...
+026	Yeah, now get right into its blind spot! That was the kind that loves to bullrush opponents, right? You gotta keep your distance against those until it's time to strike.	VO_wong.wong_sys_0004
+027	Anyhow, it's all about experience. Keep meeting every challenge head-on and you'll figure it out!
+028	Up your game for next time, okay? I know you can do it!	VO_wong.wong_sys_0005
+029	Yes, master!
+030	(They're loud, but not annoying. Their voices sound so peaceful and soothing... So different from the suffocated sounds I've been hearing.)
+031	...
+032	What's up? My disciples caught your eye?	VO_wong.wong_sys_0001
+033	Oh! I'm terribly sorry! I didn't mean to stare, but the sound was just so calming...
+034	Sound? What sound?
+035	The sound of your voices. It was so cheerful and comforting, it caught my ear.	VO_sharon.sharon_sys_0004
+036	Huh? You mean we sound like the best of buds? Well, guess I'll take that as a compliment!	VO_wong.wong_sys_0006
+037	Getting along with my disciples is all part of my job.	VO_wong.wong_sys_0007
+038	That way, their heads will be clearer and they'll fight better.
+039	Yes... Maybe you're right.	VO_sharon.sharon_sys_0029
+040	Something wrong? You don't seem quite all there.
+041	No, nothing. I was just thinking.	VO_sharon.sharon_sys_1039
+042	Well, if you say so. Anyway, I meant to apologize for this bunch getting under your feet earlier.
+043	They've got potential and they know the basics, but they're still a bit wet behind the ears. I'll set 'em straight by next time, though!	VO_wong.wong_sys_0031
+044	...
+045	Would you mind if I asked you something?	VO_sharon.sharon_sys_0001
+046	Go ahead.
+047	Earlier, in battle, you didn't give them any orders. Why was that?	VO_sharon.sharon_sys_0031
+048	You've fought those monsters before. If you'd commanded them yourself, they would have fought more effectively.
+049	And the battle would have been over that much quicker.
+050	If winning was all that mattered to me, then sure, I could have made their lives easier.	VO_wong.wong_sys_0037
+051	But if I do that all the time, they'll never have a chance to learn. I throw 'em in at the deep end because that's how they grow.
+052	That's how they grow...
+053	Instructions are important, but sometimes you gotta trust your students enough to let them take the reins.	VO_wong.wong_sys_0004
+054	And if you believe in them, they'll start to believe in themselves, and they'll fight harder for it.
+055	!
+056	There's...a lot of truth to that.	VO_sharon.sharon_sys_0004
+057	Now that I think about it, I remember my own instructor being very similar.
+058	She gave me the freedom to make my own mistakes, but whenever I was about to go down the wrong path, she would always be there to guide me.
+059	Sounds like she knew what she was doing.	VO_wong.wong_sys_0044
+060	I think so. You know, you and your students resonate with the same sound she did: the sound of trust.
+061	Y-you think so? That's, uh... Aw, great, now you're making me blush.
+062	But now I have to make my own soldiers resonate with that same sound...and I don't know how.	VO_sharon.sharon_battle_0019
+063	I'd completely forgotten what my instructor did for me. I'm so incompetent...
+064	You serious? From where I'm standing, you don't have anything to feel bad about.
+065	Your squad was moving like a well-oiled machine back there. You give good orders.	VO_wong.wong_sys_0003
+066	I thought so too, but the sound they make is...suffocated, somehow. It's like they're out of tune.
+067	And I can't afford any mistakes right now. I owe it to my instructor to do a good job on this mission.
+068	Hey now, don't go beating yourself up. You're lucky to have an instructor who makes you wanna do your best.	VO_wong.wong_sys_0030
+069	I wish I'd had a master like that when I was your age.
+070	You didn't? But then, who taught you to fight like that?	VO_sharon.sharon_sys_0001
+071	The Tiger-King Fist was invented by yours truly. I've never had a master. Well, my old man tried to teach me to swing a sword once, but I quit.	VO_wong.wong_sys_0005
+072	The guy was a hell of a fighter, but a terrible teacher. Always tried to beat his students into his own image rather than letting them grow.
+073	He didn't give a crap about passing his techniques on, only about how many people he could kill in the present.	VO_wong.wong_sys_0016
+074	It was all about results with him. Sure, there's a time and a place for results, and for killing. I get that.
+075	But that wasn't enough for me. My Tiger-King Fist is strong enough to defend tomorrow, not just today.
+076	And the best way to prove it is to pass it on to the future.	VO_wong.wong_sys_0004
+077	That's why I'm training up my disciples, see? So they can use my Tiger-King Fist to save people even after I'm gone.
+078	You're looking so many steps ahead... I'm impressed.	VO_sharon.sharon_sys_0045
+079	Sure am! But aren't your Royal Knights pretty similar? Don't tell me you only care about the present.	VO_wong.wong_sys_0008
+080	I've got my hands full just with training a few disciples. Doing all that while running a whole organization? Now that's impressive.
+081	I suppose you're right. We have to keep the peace today, but we also need to find ways to preserve it for the years to come.	VO_sharon.sharon_sys_0004
+082	We can't do that by only looking at the present...
+083	...
+084	(I was pushing myself to get results so it would reflect well on Bertha...)	VO_sharon.sharon_sys_0030
+085	(But is that really what she'd want? What's really the best way to repay her?)
+086	Excuse me, commander! We've tracked the monsters' lair down to the forest near the village. The report suggests that it is of remarkable size.
+087	!
+088	Due to the recent rainfall, they have been reproducing at an accelerated rate. We await your orders, commander.
+089	...
+090	These monsters mature quickly. If we don't do something, the entire village could be in danger.	VO_sharon.sharon_sys_0031
+091	Get everyone together immediately. We'll deal with this.
+092	Yes, commander!
+093	Don't forget about us! C'mon, show me I didn't train you all for nothing!	VO_wong.wong_sys_0023

@@ -1,0 +1,118 @@
+﻿001	Heh. That's the last of them. They won't be following us anymore!	VO_ren.ren_sys_0030
+002	Ren.	VO_zin.zin_sys_0002
+003	Huh?	VO_ren.ren_sys_0006
+004	What in the name of the gods are you doing?	VO_zin.zin_sys_0003
+005	What do you mean?	VO_ren.ren_sys_0031
+006	This is the mansion of the leader of the Shiba Senko! I'm sure I told you that we should remain hidden and watch their movements first.	VO_zin.zin_sys_0016
+007	Instead, you have just strolled into the heart of their mansion like you own the place!
+008	Did I? Oh! Ha. So I did.	VO_ren.ren_sys_0010
+009	I have no intention of getting in your way. I just want to know what you're thinking.	VO_zin.zin_sys_0002
+010	Well, defenses are like an apple tree. If you shake the trunk, things start to come loose.	VO_ren.ren_sys_0007
+011	Come loose?	VO_zin.zin_sys_0025
+012	Like, for example, the location of Sumeragi.	VO_ren.ren_sys_0005
+013	Ah!
+014	Look at all this fuss. They're freaking out, but there are areas they're not willing to abandon yet. That's a clear sign there's something important that needs extra protection.
+015	I mean, it didn't work this time, but the logic is solid. Am I right, or am I right?	VO_ren.ren_chara_2006
+016	I...see.	VO_zin.zin_sys_0022
+017	I know that whole thing with your sister makes you a little antsy. With the doom and the imminent murder and whatever.	VO_ren.ren_sys_0001
+018	But like I said, I've got your back, man! Leave the thinking to me!
+019	You're not exactly—er, I don't mean to criticize, but—the most...ninja...of ninja, if you catch my meaning.	VO_ren.ren_sys_0010
+020	You're not in any position to point fingers.	VO_zin.zin_sys_0030
+021	Well! Anyway, did you feel that energy before?! That must be the Carn...Incarn...Discarn... The Discarnate Power! Yeah! Got it right that time. Whew, that feels good.	VO_ren.ren_sys_0001
+022	Yes. Yomi's power has grown quite a lot. Tch, "Demon Calming Ceremony."	VO_zin.zin_sys_0004
+023	What they are really doing is increasing her power by pouring Chakra into it. The corruption inside of her is expanding rapidly.
+024	When I came across her the other day, it was clear that the corruption was uncontrolled and eating away at her.	VO_zin.zin_sys_0031
+025	There's no mistake... The Shiba Senko and that old codger from the Kagomurasaki are plotting to force her power to manifest!
+026	At this rate, Yomi will be—!	VO_zin.zin_battle_0019
+027	You know, you're not what I pictured at all.	VO_ren.ren_chara_1006
+028	What do you mean?	VO_zin.zin_sys_0006
+029	When I found out you were a monster who killed his entire family, I kind of expected more—I don't know—psychotic muttering or something. Maybe some gross facial hair...	VO_ren.ren_sys_0005
+030	You've got none of that. You've even resigned yourself to being killed by your little sister. I can't deny that monsters come in all forms, but...
+031	None of that matters. All you need to do is lend me your strength.	VO_zin.zin_sys_0002
+032	Well, since I'm lending you my strength, the least you can do is tell me about what happened. I'm guessing there is some kind of backstory behind this whole thing?	VO_ren.ren_sys_0001
+033	It has nothing to do with you.	VO_zin.zin_sys_0039
+034	Psh... Monster...? More like conversation killer.	VO_ren.ren_sys_0016
+035	I'll have you know, it's very childish to shut me down just because I wanna know a little more about you.
+036	...
+037	Can't you move on? Do you have to kill him?	VO_rifa.rifa_sys_0001
+038	In Wadatsumi, killing one's own family is considered one of the gravest sins. It's a disgrace.	VO_yomi.yomi_sys_0042
+039	My clan and I were utterly humiliated after the incident.
+040	That's why I must kill him, or else neither myself nor the members of my clan can move on. The past must be settled.
+041	You have your burdens as head of your clan, and I have mine as Greed Dike's General.	VO_rifa.rifa_sys_1011
+042	That said... I don't mean to speak out of turn, but it seems to me like you're trying to find a way to move on without killing your brother.	VO_rifa.rifa_sys_0031
+043	Wha—?! Of course not!	VO_yomi.yomi_sys_0012
+044	I don't know how much my words are worth, coming from the General of a country who once invaded your own, but I'll tell you this:	VO_rifa.rifa_sys_0001
+045	You can't move on if you're stuck in the past. Sometimes you just have to push through the humiliation in order to move forward.
+046	I don't know anything about the path you're headed down, but...I think it'd be nice if our paths joined at some point.
+047	Maybe then we could, um, maybe—ahem—be f-friends?	VO_rifa.rifa_sys_0050
+048	Friends?	VO_yomi.yomi_sys_0025
+049	Well, um, I apologize if the notion offends you. It's just that...because I've been in the army since I was young, I haven't really had the chance to make many friends.	VO_rifa.rifa_sys_1011
+050	Ah, but I'm not young anymore!
+051	I know. It's just your face.	VO_yomi.yomi_sys_0006
+052	We're close in age, and our responsibilities are similar, so I only thought... Never mind. Just forget about it.	VO_rifa.rifa_sys_0001
+053	When the day comes that I overcome my past, perhaps it is possible that we could become friends. I think...that I'd like that.	VO_yomi.yomi_sys_1011
+054	I...! I would, too!
+055	Well then, I suppose I had better start coming up with a plan to renegotiate with the Shiba Senko.	VO_rifa.rifa_sys_0007
+056	You know, so that we can join forces one day.
+057	What about Sumeragi?	VO_yomi.yomi_sys_0002
+058	That sword exists to clear your path.	VO_rifa.rifa_sys_0004
+059	I will search for a way for us to understand each other, one that doesn't involve swords, armies, or clans.
+060	Leafah...	VO_yomi.yomi_sys_1011
+061	That's the first time you've used my name, you know that?	VO_rifa.rifa_sys_1011
+062	Leafah, you're a very impressive grown-up.	VO_yomi.yomi_sys_0007
+063	W-well, yeah! It's just my baby face that's misleading!	VO_rifa.rifa_sys_0007
+064	Heheh, right.	VO_yomi.yomi_sys_0047
+065	Let's meet again, Yomi.	VO_rifa.rifa_sys_0001
+066	See you around, Leafah.	VO_yomi.yomi_sys_1011
+067	Overcoming my past, huh?	VO_yomi.yomi_sys_0022
+068	In order to do that, I need to meet my brother...
+069	Meet my brother and...and...and then...! W-wait, what am I going to do then?	VO_yomi.yomi_sys_0031
+070	That's when I'll...I'll...I-I'll...! I will—aaaaaarrrrrrrrgggggghhhhh!	VO_yomi.yomi_battle_0019
+071	That's right, I'm going to kill him! I'm going to get revenge for my family! Yes, yes, I must kill him!
+072	Hate... Hate, hate, hate, hate, hate! Ngh... What's wrong with me? Why do I feel...so much...hate?!	VO_yomi.yomi_battle_0023
+073	Ngh! Aaaaaarrrrgggghhhhhhh!	VO_yomi.yomi_battle_0024
+074	Heheh. It shouldn't be long now. The Discarnate Power will manifest shortly.	VO_mob-saga_omale.mog-saga_omale_sys_0007
+075	The amplifying effect of the Mikaboshi truly is remarkable!	VO_knightm.knightm_sys_0046
+076	It may not have the power it once possessed, but it remains the equal of even the Sacred Stones. Yes... We will keep her hatred seething!
+077	The Discarnate Power will manifest any moment now! When it does, a new Wadatsumi will be born! With its first breath, it will swallow the world!	VO_knightm.knightm_sys_0007
+078	Okay, how about a guessing game? Sooo, I'm thinking... Maybe the previous head of the Kagomurasaki Clan was disappointed that the next in line was a girl, your little sister.	VO_ren.ren_sys_0001
+079	Just kidding, that's actually a rumor that made it even as far as the Black Star Clan, but if it's true, Jin, then what you did—!
+080	Don't say another word.	VO_zin.zin_sys_0014
+081	This is super sad. Have you thought about what it's like for Yomi, who has to hate you without even knowing the reason why you did what you did?	VO_ren.ren_sys_0030
+082	Have you ever considered how it must feel for her to inherit the Discarnate Power with the weight of all that on her shoulders?
+083	I told you not to say another word!	VO_zin.zin_sys_0013
+084	I can't...talk about it.	VO_zin.zin_sys_1019
+085	...
+086	Please, don't ask me about it anymore!	VO_zin.zin_sys_0018
+087	All right. I won't.	VO_ren.ren_sys_0030
+088	Why?	VO_zin.zin_sys_0002
+089	Why what?	VO_ren.ren_sys_0006
+090	Why get involved with me? You should stay away. Nothing good will come of this for you.	VO_zin.zin_sys_0004
+091	You'll just get hurt.
+092	If you have a duty to carry out, and our goal is the same, I will join forces with you.
+093	Just don't try and get close to me. Why are you trying to pry into my past?
+094	Dunno. Curiosity?	VO_ren.ren_sys_0007
+095	C-curiosity?!	VO_zin.zin_sys_0025
+096	Well, I was always taught that ninjas are bound by things like fate, rules, tradition, and...	VO_ren.ren_chara_1006
+097	You know, all that righteous twaddle...
+098	But here you are, breaking away from all of that.
+099	Even though it would be far easier if you were to just follow the code, protect tradition, and explain things away as being part of the rules.
+100	I guess you could say that I'm...envious. It's not like I'm here because I want to be.	VO_ren.ren_sys_0030
+101	That's why I'm curious about you. How did you do it?	VO_ren.ren_sys_0001
+102	I've been asked that before.	VO_zin.zin_sys_0004
+103	It's not like I'm doing something impressive.
+104	I just keep running away.	VO_zin.zin_battle_0019
+105	It's truly disgraceful. Feel free to ridicule me.
+106	...
+107	I'm sensing something. This energy...! It's that Discarnate Power! Is it really so strong that we can feel it all the way out here?!	VO_ren.ren_sys_0025
+108	Yomi!	VO_zin.zin_battle_1028
+109	Seems like it's fading now, but...	VO_ren.ren_sys_0018
+110	There's no time.	VO_zin.zin_battle_0019
+111	So it seems.	VO_ren.ren_sys_0005
+112	Let's head back to the Shiba Senko mansion. There's not much time left. I'm going to get Yomi out of there.	VO_zin.zin_sys_0002
+113	I guess I'll focus on finding Sumeragi. For the demon expungement, and all that.	VO_ren.ren_sys_0004
+114	But what are you planning to do after you get Yomi out?	VO_ren.ren_sys_0001
+115	After...?	VO_zin.zin_sys_0031
+116	If you don't tell her the truth, Yomi will continue to blame you.	VO_ren.ren_sys_0018
+117	If it comes to that...	VO_zin.zin_battle_0016
+118	I'd rather keep running away.

@@ -1,0 +1,75 @@
+﻿001	Big mistake, coming here.	VO_teresa.teresa_sys_0010
+002	For you, perhaps.
+003	Oh?	VO_teresa.teresa_sys_0012
+004	Thousands of soldiers will come to hunt you down. This is going to be nothing like before. You have nowhere to run.
+005	Hmph. Is that supposed to frighten me?
+006	It's pointless to struggle, you know. No one will be coming to your rescue. It's really quite sad to see how far you've fallen.
+007	You don't seem particularly fazed by this. I take it you've become accustomed to such dealings since leaving the knights?	VO_kalmia.kalmia_sys_0002
+008	This doesn't concern you.	VO_teresa.teresa_sys_0002
+009	I'd say that's a yes.
+010	Did you come to fight me? I'd appreciate it if we could settle this later. I'm afraid now is not exactly a good time.	VO_teresa.teresa_sys_0001
+011	I don't really care if it's convenient. There's no guarantee I'll ever see you again if I let you go now.
+012	I have to take my chances when they come.
+013	How unfortunate. But, I suppose I'll do what I must in order to continue my mission.	VO_teresa.teresa_sys_0016
+014	And what mission might that be?	VO_kalmia.kalmia_sys_0003
+015	To bring an end to war.
+016	Hmph. That farce again.
+017	It's no farce. It's my calling.	VO_teresa.teresa_sys_0006
+018	There are simply things I need to destroy in order to achieve it. If I don't, those things will cause much greater chaos moving forward, and helpless people will be unreasonably exploited.
+019	I can't remember...	VO_teresa.teresa_sys_0018
+020	When was the last time we all laughed together?	VO_teresa.teresa_sys_0019
+021	Memories of my family...are so fuzzy these days.
+022	I can't allow this to go on. Never again will I let people suffer before my eyes.	VO_teresa.teresa_battle_0019
+023	The one and only thing I can do is fight on, for their sake.
+024	You fight for your people, then?
+025	Even with a target on your head, you choose to fight on alone?
+026	I haven't the luxury of time to do much else.	VO_teresa.teresa_sys_0039
+027	Even though your mission will die along with you, should you fall?
+028	Do you hate me?	VO_teresa.teresa_sys_0001
+029	Wholeheartedly.	VO_kalmia.kalmia_sys_0005
+030	I appreciate your honesty. Still, for Lamia's sake, I cannot let myself be struck down by you.
+031	I will snuff out the seeds of conflict. I will not allow new hate to be born. Whatever it takes, I'll do.	VO_teresa.teresa_battle_0022
+032	You're barely even making sense anymore. What are you even on about?
+033	Do you like flowers?
+034	What?! Are you incapable of holding a coherent conversation?!	VO_kalmia.kalmia_battle_0019
+035	I told you, I haven't much time. Even if I can't end all wars, the things I do are not arbitrary; I believe I can greatly deplete the seeds of conflict that would otherwise grow into all-out war.	VO_teresa.teresa_sys_0030
+036	Fine. I'm listening.
+037	Though she always lamented the fact that her talents can only be put to good use in battle—the thing she hates most—she still chose to fight alongside me.	VO_teresa.teresa_sys_0003
+038	Yet to sever the cycle of hatred, I must inevitably burden her with a final task that I know won't be easy for her. So please, I beg of you, stay out of my way. Let me finish what I've started, properly.
+039	Rrg. You aren't convincing me of anything here! I don't even understand what you're saying!	VO_kalmia.kalmia_sys_0025
+040	Don’t cry for me, Kalmia. I anticipated an end like this the moment I chose to fight. It’s no one’s fault.
+041	I just couldn't stand by and do nothing while our people suffered.
+042	I believe in you, Kalmia. You must end this cycle of hate. You have it in you...to end this war.
+043	What I do understand, however, is that you're parroting the same ends he spoke of...	VO_kalmia.kalmia_battle_0025
+044	Yet when they pass your lips, you defile his memory!
+045	But I—
+046	Kalmia!	VO_priscilla.priscilla_sys_0002
+047	Priscilla?! What are you doing here?!
+048	I came to stop you.
+049	Ruinmaker. I hear you've been going around seeking out and destroying any material related to the clandestine Alchemical experiments performed in Wratharis.	VO_priscilla.priscilla_sys_0001
+050	How did you come by this information?
+051	I've had our intelligence operatives investigate your recent activities since your departure from the knighthood.	VO_priscilla.priscilla_sys_0003
+052	I presume you're here now because you've deduced those researchers hid some of their data in this mine, and you've come to destroy it so it can never bring harm to the people. Is that correct?
+053	Hmph. And if I have?	VO_teresa.teresa_sys_0001
+054	If you have...then as a knight who fights for the safety of the common folk, I see no reason to turn my spear upon you.	VO_priscilla.priscilla_sys_0005
+055	And neither should you, Kalmia! Since you, too, value the safety and security of the people above all else.
+056	I... I...
+057	Killing her here, so far from the field of battle, would be a rather shameful act for a knight in the first place. It would be tantamount to murder, justified by little more than vengeance.	VO_priscilla.priscilla_battle_0019
+058	You, who've sworn to keep your fury in check, would never again be able to truly put stock in your own convictions. Would that really be worth it, in the end?
+059	Wh-when you put it like that, it's rather hard to argue.	VO_kalmia.kalmia_sys_0005
+060	Hate only spawns more hate. The target of our enmity must be conflict itself. We cannot let our anger take hold of us.
+061	I've been preaching that for so long, and yet...I...
+062	I understand how you feel. The same contradiction tears me apart inside as well.	VO_priscilla.priscilla_sys_0016
+063	But the Ruinmaker is genuinely trying to extinguish an ember that threatens to spark an unimaginable inferno if left unchecked.
+064	A noble goal like that should be met with nothing but support from us. You understand that better than anyone, Kalmia, no?
+065	Haaah... And that's why you came to stop me from making a terrible mistake. Of course I understand.	VO_kalmia.kalmia_sys_0030
+066	From the day your father took me in, I've tried so hard to be a good sister, always watching out for you.
+067	Yet here, you've turned the tables on me, showing stronger convictions than my own. When did you get to be so mature?
+068	Are you certain it's wise to lower your spear? I thought you hated me wholeheartedly.	VO_teresa.teresa_sys_0031
+069	I do. I can't pretend like I don't. Hatred is not such an easy emotion to let go of.
+070	But conflict—particularly that which robs us of our loved ones and our future—is perhaps the one thing I hate more.	VO_kalmia.kalmia_sys_0006
+071	Conflict itself? Not those who propagate it?
+072	Indeed. So for the sake of the innocent lives we both fight to protect, and so as not to not spawn any new conflict, I will only strike down those I face on the battlefield.	VO_kalmia.kalmia_sys_0004
+073	That has been my policy for some time. I simply lost sight of it for a moment.
+075	For now, it means I will not strike you down. Next time we meet, however...you may not be so lucky.
+074	Next time we meet, huh?	VO_teresa.teresa_sys_0016

@@ -1,0 +1,42 @@
+﻿001	What could the Ruinmaker be doing here alone, separated from the knights of Wratharis?	VO_priscilla.priscilla_sys_0001
+002	Most curious...
+003	Kalmia?	VO_priscilla.priscilla_sys_0002
+004	Oh, yes, sorry. I had initially theorized it may be a ploy to mislead us, but now I'm thinking that may not be the case.	VO_kalmia.kalmia_sys_0035
+005	There have been rumors going around that the Holy Guard and Inquisitors are frequenting Wratharis of late. I'm wondering if this may be somehow related.
+006	An astute correlation. You may be correct.	VO_priscilla.priscilla_sys_0005
+007	Why the long face?
+008	Well... There are those among the general populace of Wratharis who truly believe this war to be the right path, are there not?	VO_priscilla.priscilla_sys_0022
+009	Certainly. Many innocent civilians there incurred tragic losses during our war for independence. Surely some enmity must remain in their hearts.	VO_kalmia.kalmia_sys_0004
+010	Yet despite that, Theresa specifically chose to distance herself from the knights.
+011	She did.	VO_kalmia.kalmia_battle_0019
+012	Emotions are contagious, both positive and negative. They spread.
+013	If you hate, all you receive is hate in return. If you rage, all you see is anger from those around you. It's a never-ending cycle.
+014	Pardon the interruption! I wish to report that we've thoroughly investigated the immediate area, but found no sign of Theresa as of yet.
+015	Understood. Thank you.	VO_kalmia.kalmia_sys_0030
+016	Pity. I'd hoped for a chance to cross her path once more.
+017	...
+018	I wonder, is there any place nearby where a person might be able to hide away undetected for a spell?	VO_kalmia.kalmia_sys_0002
+019	Near here? There is this one mine a ways away. It was abandoned a while back. Could make a suitable hideaway, potentially.
+020	Thing is, it's known to be quite dangerous. Full of monsters who'll bite your head off in one go. You might find yourself hidden away for good! So nobody goes near the place these days.
+021	(Monsters should be no problem for her. A deserted mine like that seems like just the place.)	VO_kalmia.kalmia_sys_0031
+022	Thank you. I believe I'll go check out that mine, then. The rest of you, please head back to camp.	VO_kalmia.kalmia_sys_0037
+023	What? Are you planning to go alone?! Unthinkable! I'm coming with you!	VO_priscilla.priscilla_sys_0025
+024	I'll be just fine on my own, really. I'm only going to take a quick look around.
+025	But—	VO_priscilla.priscilla_sys_0016
+026	I need you to help guard the village. Don't fight me on this. Please.	VO_kalmia.kalmia_sys_0003
+027	Ghh. All right. Do as you wish.
+028	Umm... We'll head back out on patrol, then.	VO_knightm.knightm_sys_0030
+029	Oh, there is one more thing.
+030	I've been entrusted with a message from the Secret Ops for you, Lady Priscilla. Here.
+031	Th-this is...!	VO_priscilla.priscilla_battle_0019
+032	The monsters are agitated. Someone's definitely been here before me.	VO_kalmia.kalmia_sys_0006
+033	Is that...the smell of ash and soot? What's burning?
+034	Aha! There you are!
+035	Do they teach all Envylian knights to draw their weapons on those they meet off the battlefield?	VO_teresa.teresa_sys_0010
+036	Explain your presence here. Are you planning an assault on the nearby munitions factory?
+037	Is skulking about like some vermin the way you intend to end all war?!
+038	Assaulting a munitions factory? That would just bring about more conflict. I would never engage in such acts of terrorism.	VO_teresa.teresa_sys_0012
+039	Then what are you doing here?
+040	I was told the Ruinmaker would be alone, but it seems a stray has seen fit to join her.
+041	And just who are you supposed to be?	VO_kalmia.kalmia_battle_0019
+042	That doesn't matter. Killing two is no more effort than killing one.

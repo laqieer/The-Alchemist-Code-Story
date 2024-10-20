@@ -1,0 +1,62 @@
+﻿001	This should hold for—	VO_ishido.ishido_battle_0019
+002	How spectacular! The ancient curse is being purified left and right! Is this the power of the fabled Sephira?	VO_seclidis.seclidis_sys_0023
+003	The Royal Army?! What are you doing here?!	VO_ishido.ishido_sys_0020
+004	Some of your runners stumbled into the town we had been occupying. They told us many interesting things.	VO_seclidis.seclidis_sys_0007
+005	You son of a...! We don't have time to be fighting the likes of you!	VO_ishido.ishido_sys_0013
+006	Do not fret. We have no intention of fighting you today.	VO_seclidis.seclidis_sys_0004
+007	I simply wanted to have a few words with you, Isidore, commander of the Sephira warriors.
+008	How do you know my name?!	VO_ishido.ishido_sys_0025
+009	Any organization has a weak link or two who will leak such information.	VO_seclidis.seclidis_sys_0007
+010	I see. You lot are the pests that have come swarming around the Sacred Stone.
+011	Pests! How quaint of you. I am a true patriot lamenting the future of my beloved country.	VO_seclidis.seclidis_sys_0010
+012	Twaddle!
+013	Dear me, why is it that those who still have the strength to fight never want to listen?	VO_seclidis.seclidis_sys_0016
+014	Then I suppose there is nothing for it except to take that strength away, don't you think?	VO_seclidis.seclidis_sys_0010
+015	Ack...!	VO_ishido.ishido_sys_0018
+016	Urgh... After fighting off all the Jam, th-this is...	VO_ishido.ishido_battle_0019
+017	Huh, still standing after battling so many of my soldiers.	VO_seclidis.seclidis_sys_0044
+018	How regrettable that such a capable warrior is going to lose his life here. What a loss for this country.
+019	Quit your blathering!	VO_ishido.ishido_sys_0017
+020	I am complimenting you, my boy. You would fight to death for the woman you love!	VO_seclidis.seclidis_sys_0008
+021	A commendable quality for a warrior.
+022	What are you talking about?	VO_ishido.ishido_sys_0025
+023	The resurrection ceremony, was it?	VO_seclidis.seclidis_sys_0022
+024	!!!
+025	Even I did not know the name of the ceremony until recently.	VO_ishido.ishido_sys_0020
+026	How could you know of it?!
+027	My, my. I wonder if you know this, too?	VO_seclidis.seclidis_sys_0044
+028	This all-important ritual you stand here defending requires a sacrifice: the life of your beloved fiancé.	VO_seclidis.seclidis_sys_0010
+029	The daughter of your Chief, was she not? How cruel of him to raise her, only to sacrifice her in the end!	VO_seclidis.seclidis_sys_0009
+030	Lies! You're lying! Chief Iakov would never!	VO_ishido.ishido_sys_0013
+031	You really know nothing? Disappointing. You're not worth my time.	VO_seclidis.seclidis_sys_0030
+032	Run back to your village, Sephira warrior. Go see the truth for yourself.	VO_seclidis.seclidis_sys_0040
+033	Unless, of course, you choose to die here. I find that acceptable as well.
+034	Bastard! Have you not insulted me enough?!
+035	Commander! It would be wise to retreat for now. The warriors are exhausted from the battle with the Jam.	VO_knightm.knightm_sys_0042
+036	We do not have the energy to face against an army of this size.
+037	Yes... You are right. Everyone, fall back!
+038	Good. Now... Let's see how this seed of doubt I have planted works.	VO_seclidis.seclidis_sys_0007
+039	General, we have collected a sample from the Jam they were fighting.
+040	Good. Take the sample to the Corpse. Something interesting may come of this.	VO_seclidis.seclidis_sys_0001
+041	Yes, sir!	VO_gluttony-y.gluttony-y_battle_0001
+042	Kamui.	VO_iakof.iakof_favorite_0001
+043	Here is your first task as Protector.
+044	Take the druidic priestess, my daughter, to the arboreal altar.
+045	To the arboreal altar? As a bodyguard?
+046	You could say that. The base of the great tree has now become a nest of feral beasts.	VO_iakof.iakof_sys_0005
+047	Getting her to the altar safely will be your first priority.	VO_iakof.iakof_sys_0045
+048	I understand.	VO_kamui-b.kamui-b_sys_0006
+049	Malta... Are you ready?	VO_iakof.iakof_favorite_0002
+050	Yes. I am ready.
+051	Very well. Then it is about time for the resurrection ceremony to begin.	VO_iakof.iakof_sys_0020
+052	Until the ritual is completed, not one soul shall be able to come near Sephiron.	VO_iakof.iakof_favorite_1005
+053	No matter what hardship you may face, the two of you must overcome the obstacles together, understand?
+054	Chief? What do you—?	VO_kamui-b.kamui-b_sys_0031
+055	We understand.	VO_malta.malta_favorite_0006
+056	Malta? What is going on? What sort of ritual is this resurrection ceremony?	VO_kamui-b.kamui-b_sys_0001
+057	All you need to worry about is reaching the altar. Malta knows all there is to know about the ritual.
+058	...
+059	(What is happening? Is this the final trial for me to become Protector?)	VO_kamui-b.kamui-b_sys_0031
+060	(A resurrection ceremony? What does Malta have to do with it?)
+061	Let's go, Kamui.	VO_malta.malta_sys_0002
+062	Y-yes.	VO_kamui-b.kamui-b_sys_0004

@@ -1,0 +1,207 @@
+﻿001	Quence...	VO_nimuru.nimuru_battle_0022
+002	Where do we go now?	VO_waginao-b.waginao-b_sys_0016
+003	Wherever it is, we should be quick about it. We'll need to hide ourselves. Quence and Ignacio won't be able to hold them off our tail for long.
+004	Right.
+005	And we'll need time to figure out a proper plan, so we'll want a fairly good hiding place, where we can hunker down for a while.	VO_nimuru.nimuru_sys_0031
+006	Somewhere even Ouroboros won't think to look for us.
+007	But the airship crashed. And honestly, I don't know if there's anywhere else in this region that we could effectively use as a base of operations.	VO_mela.mela_sys_0030
+008	Well...
+009	There's the Serpent's Nest.
+010	What? Zafeiris, what did you just say?	VO_waginao-b.waginao-b_sys_0006
+011	The stronghold of the Infinite Serpent. It was once used as a hidden base by the dragons when they were planning their uprising.
+012	As such, I do believe even Ouroboros should have difficulty locating us there.
+013	Can you show us the way?	VO_nimuru.nimuru_sys_0001
+014	Yes, but we should reconvene with the other members of our party first, including the one I believe you are most eager to reunite with.
+015	...! Emmel! That's right!	VO_nimuru.nimuru_sys_0026
+016	Let's head east. She's there along with some injured allies of yours.
+017	Emmel!
+018	Emmel!	VO_nimuru.nimuru_chara_1007
+019	Emmel...?
+020	I'm sorry, Nimul. These wounds aren't yet...	VO_emmer.emmer_sys_0036
+021	I see. I understand.	VO_nimuru.nimuru_sys_0004
+022	I'm glad that we could finally be together in one place again, with Yna and Adaleigh as well.
+023	Luckily for me, I'm too stubborn to die.	VO_kuienai.kuienai_sys_0007
+024	Whereas I'm all battered and bruised, and I had to leave my airship behind, to boot.	VO_adlai.adlai_sys_0042
+025	I'm sorry. If only we had some way to transport it...
+026	No, no, don't apologize! It wasn't your fault. It is what it is.
+027	More importantly... Waginau? You, uh...	VO_adlai.adlai_sys_0003
+028	What is it?	VO_waginao-b.waginao-b_battle_0016
+029	What the heck happened to you?! You weren't gone that long, but somehow, you got old. Like, super old! Like, you're older than the old dog here!
+030	I. Am neither. Old. Nor. A dog!	VO_kuienai.kuienai_battle_0019
+031	Ah... Well... That's a long story. In any case, I like to think that I've aged like fine wine.	VO_waginao-b.waginao-b_sys_0007
+032	Oh, yeah, sure. Totally.	VO_adlai.adlai_sys_0008
+033	...
+034	You see it, don't you? His behavior is completely off!	VO_andechs.andechs_sys_0002
+035	Hmm...	VO_kuienai.kuienai_sys_0030
+036	Let's prioritize getting to the hidden base, Zafeiris. If you would.	VO_nimuru.nimuru_sys_0001
+037	Of course. Please, follow me.
+038	We'll be safe here?	VO_nimuru.nimuru_sys_0002
+039	Look at that huge round table!	VO_eularea.eularea_sys_0044
+040	It was allegedly created for the purpose of gathering the seven great dragons, though that gathering never did actually take place.
+041	...
+042	The space-time here is...wavering.	VO_mela.mela_sys_0039
+043	Yeah. This place is not exactly part of Superbia Belt, is it?	VO_nix.nix_sys_0004
+044	Makes it a pretty good hiding place, though, for sure.
+045	Ah, good. You've all come.
+046	Ignacio? You look...remarkably uninjured.	VO_nimuru.nimuru_sys_0006
+047	That's because that old fool cast me out before I could even do anything.	VO_ignacio.ignacio_sys_0006
+048	I see. So Quence transported you here, then?
+049	Nimul, we should—	VO_kuienai.kuienai_sys_0001
+050	Yes, I know.	VO_nimuru.nimuru_sys_0004
+051	Everyone, please listen.
+052	I'm sorry for involving you all in this. It's my fault that we're in this situation to begin with.	VO_nimuru.nimuru_sys_0035
+053	...	VO_ignacio.ignacio_sys_0022
+054	That tower that appeared out of nowhere? Summoning that was the Infinite Serpent's plan all along.	VO_nimuru.nimuru_sys_0005
+055	They intended to use it to defeat Ouroboros.
+056	But they failed. Correct?	VO_andechs.andechs_sys_0002
+057	That's right. She seized control of the tower. Not only that, but she learned how to do Alchemy.	VO_nimuru.nimuru_battle_0022
+058	The two we just encountered in battle are phantoms of past warriors, created by Ouroboros using magil.
+059	Kind of like what Beelzebub did in the Gula Belt Region?	VO_nix.nix_sys_0003
+060	Not quite. I think Ouroboros' phantoms are considerably more...perfect.
+061	Plus, they're made of incredibly high-density magil. They can't be easily defeated with physical weapons.
+062	That must be why Andechs' sword and my shield had so little effect.	VO_dafne.dafne_sys_0045
+063	Most likely. Though to be fair, they are also just very powerful beings. Ouroboros chose them for a reason.
+064	So how do we defeat opponents like that?	VO_kuienai.kuienai_sys_0006
+065	To say nothing of the god that made them, who's presumably even more powerful still. What're we gonna do about her?	VO_adlai.adlai_sys_0031
+066	Well... Alchemy does work against them. I was able to confirm that in that last scuffle.
+067	But you're the only one here who can use Alchemy.	VO_adlai.adlai_sys_0030
+068	...I don't think he is.	VO_andechs.andechs_sys_0031
+069	Mesarthim said I used Alchemy with my sword.
+070	Which would mean the power you refer to as "Alchemy" can present itself in different ways, I think.	VO_andechs.andechs_sys_0001
+071	It might be because of that time in Avaritia Belt when I called you all into the past.	VO_nimuru.nimuru_sys_0031
+072	I'd passed through the Truth that I myself had just discovered, and unknowingly dragged you all through it with me.
+073	...
+074	(Oh. Wait. I wasn't called to the past, was I?)	VO_emmer.emmer_sys_0025
+075	(Neither was I.)	VO_waginao-b.waginao-b_sys_0020
+076	I think that at the time, the inherent attributes of the Alchemy within me must have been imprinted onto your souls as well.	VO_nimuru.nimuru_sys_0005
+077	So, like the arts inscribed upon the Dragon Slayer, then. Though I would be exempt from it, since I wasn't summoned.	VO_kuienai.kuienai_sys_0031
+078	In any case, you're saying that event triggered the ability for others to use Alchemy?
+079	Yes. Alchemy isn't just limited to the techniques that I use.	VO_nimuru.nimuru_sys_0004
+080	It's the manifestation of an earnest desire to change the world, and a heart that wishes to shape the future.
+081	Though it's only recently that I came to realize this.
+082	So... If we wanted...	VO_nix.nix_sys_0045
+083	Even our Space-Time Manipulation could...become Alchemy?	VO_mela.mela_sys_0045
+084	If you infuse it with the power born from a true desire to change the world, then yes.
+085	Which is exactly what happened with my sword...	VO_andechs.andechs_sys_0045
+086	The only tool I have to shape the future with is this sword, after all.
+087	I... I don't know how I feel about this just yet.	VO_dafne.dafne_sys_0030
+088	The question is, how do we actually use this new power? Andechs, what was going through your head when you wound up accidentally using it?	VO_mela.mela_sys_0001
+089	Honestly, I was just...really focused on what I was doing. That's all.
+090	Well, that's no help!	VO_mela.mela_sys_0012
+091	I might have something that is, though.	VO_nimuru.nimuru_sys_0001
+092	Ooh, what is it?!
+093	I think I can give you one way to access your new power, though it'll be a bit limited.	VO_nimuru.nimuru_sys_0004
+094	Well, don't leave us hanging! Spit it out!
+095	The Dragon Realm.
+096	The...what?	VO_dafne.dafne_sys_0001
+097	The power of Bianca, former leader of the Infinite Serpent, sleeps within me. And I can share that power with you.	VO_nimuru.nimuru_sys_0005
+098	Her essence was one of giving. If I make use of that aspect of her, I can augment each of your individual abilities with Alchemy.
+099	So...an impromptu ability boost, basically.	VO_adlai.adlai_sys_0045
+100	Even with an advantage like that, though, will we really be a match for those magil phantoms?!
+101	I believe so.
+102	Matia and Mesarthim are great heroes—epic figures from world history. Neither will go down easily.	VO_waginao-b.waginao-b_sys_0030
+103	And Ouroboros is essentially a god. Her powers extend beyond anything we know.	VO_waginao-b.waginao-b_sys_0031
+104	Ideally, we should have a solid trump card or two in our back pocket before we face any of them again.
+105	You sound like you know something we don't.	VO_eularea.eularea_sys_0002
+106	Oh, no, not at all. I'm just giving my assessment of the situation.	VO_waginao-b.waginao-b_battle_0019
+107	And it's an accurate one. Ouroboros is a being far beyond the scope of the Cursed Beasts we've fought thus far.
+108	So a trump card is precisely what we need right now.
+109	Didn't that Shahel dude say something along those same lines?	VO_mela.mela_sys_0001
+110	Yeah, what was it again?	VO_nix.nix_sys_0004
+111	Ah, the keystone of the Ceremony of Creation—the final trial for you humans to overcome.	VO_chahele.chahele_sys_0002
+112	The stage is set for the ultimate battlefield, whereupon we can fight unimpeded by the Light of Judgment from the Shell of the World.
+113	Battlefield?	VO_andechs.andechs_sys_0006
+114	The crystallization of all that the dragons once sought to achieve, built up using the seven pillars as its core...	VO_chahele.chahele_sys_0031
+115	Under its protection, a human could even stand against a god without being crushed.
+116	That, travelers, is the only thing that will allow humans such as yourselves to face Ouroboros.
+117	Allow us to face Ouroboros...?	VO_nimuru.nimuru_sys_0006
+118	Actually, at the top of that tower, I was fighting with Ouroboros, in a sense.	VO_nimuru.nimuru_sys_0031
+119	And I was...holding my own. By myself. Against a being who is, essentially, a deity with agency over this entire world.
+120	Which means—
+121	We need to gain control of that tower, don't we?	VO_waginao-b.waginao-b_sys_0045
+122	Yes. Quickly, and without Ouroboros noticing.
+123	Why is that, exactly?	VO_ignacio.ignacio_sys_0031
+124	We're limited in firepower, remember. We should be judicious in how we use it, and focus on accomplishing the tasks we need done one at a time.
+125	That's true. However, the same can be said of our enemy as well.	VO_nimuru.nimuru_sys_0045
+126	One of the most important factors in any strategic maneuver is division of labor.
+127	Ouroboros, Mesarthim, and Matia are our targets.
+128	If we engage all of them at once, the enemy may employ their full power.	VO_nimuru.nimuru_sys_0030
+129	But if we can focus the majority of our efforts on dealing with Ouroboros alone, without worrying about Mesarthim and Matia, then we'll have more firepower to deal with our biggest foe.
+130	Sure, that makes sense. But the question is, how do we pull that off?	VO_andechs.andechs_sys_0031
+131	Therein lies the rub. There's no way to guarantee any of us will survive this. I can give you Alchemy, but... Well, you've seen first-hand just how powerful those two are.
+132	If worse comes to worst...	VO_nimuru.nimuru_battle_0022
+133	Let's not think about that right now.	VO_adlai.adlai_sys_0002
+134	Really, this isn't all too different from any of the other times we've put our lives on the line, when you get right down to it.	VO_adlai.adlai_sys_0007
+135	Yeah, that's true! We'll be fine. We'll get through this, just like we always have before!	VO_mela.mela_sys_0008
+136	I'm not quite as optimistic as Mira about this, but I do agree with the overall sentiment.
+137	So rather than planning for a worst-case scenario, how about we all just pledge not to lose?	VO_nix.nix_sys_0007
+138	Thank you, everyone.	VO_nimuru.nimuru_sys_0034
+139	I see. So this is how things generally work with you, then, is it?	VO_ignacio.ignacio_sys_0005
+140	Do you have a problem with that?!	VO_kuienai.kuienai_sys_0006
+141	Hmph. Why would I? I'm only here to do what I'm supposed to do. How I feel about it doesn't matter.	VO_ignacio.ignacio_sys_0039
+142	One cannot aim true if they let sentiment cloud their vision.
+143	...
+144	Eulalia. Daphne.	VO_nimuru.nimuru_sys_0001
+145	Yes?	VO_dafne.dafne_sys_0004
+146	How can I help?	VO_eularea.eularea_sys_0006
+147	The two of you are our defense specialists.
+148	Can I count on you to keep everyone safe this time around as well?
+149	In matters of defense, I have confidence that I can live up to all of your expectations. Leave it to me!	VO_dafne.dafne_sys_0005
+150	I'll do my best, as well.
+151	Mira. Nyx. I want you to back them up.
+152	Of course! Space-Time Manipulation is great for slowing those enemies down. We'll buy you all the time you need!	VO_mela.mela_sys_0004
+153	We probably wouldn't be much help at that tower, anyway, what with the magil there being as unstable as it is.	VO_nix.nix_sys_0004
+154	Adaleigh. Yna. Can I count on you to help me capture the tower?
+155	I'm injured, but I've still got some fight in me, so sure! I'm in.	VO_adlai.adlai_sys_0004
+156	And of course I'm in, too. I've long since sworn that I'd see this journey through to the end with you, no matter where it may lead.	VO_kuienai.kuienai_sys_0003
+157	Please allow me to join the fray as well. The battlefield is where my talents shine brightest.	VO_andechs.andechs_sys_0002
+158	Thank you. And...Ignacio?	VO_nimuru.nimuru_sys_0004
+159	Yes?	VO_ignacio.ignacio_sys_0012
+160	I believe there's a hidden path to the tower that you can lead us to, isn't there? Would you mind showing us the way?
+161	...
+162	Ignacio...	VO_emmer.emmer_sys_0042
+163	I refuse. There's no reason for me to follow your orders.
+164	Besides, have you forgotten what I did? How could you even trust me not to lead you into a trap?	VO_ignacio.ignacio_sys_0030
+165	I...
+166	I'll admit, I do feel mostly contempt toward you, Ignacio.	VO_nimuru.nimuru_battle_0019
+167	As well you should.	VO_ignacio.ignacio_sys_0045
+168	Nonetheless, in the future we seek...
+169	In the happy tomorrow that Emmel wishes for...
+170	You are there. So I'm going to forget any grudge I may hold against you. There's no place for it in the world I'm hoping to create.	VO_nimuru.nimuru_sys_0003
+171	Forget? What I've done? You must be out of your mind.
+172	I told you, Ignacio. My dream is to save everything and everyone.	VO_nimuru.nimuru_sys_0005
+173	And that includes you.
+174	Plus, there's no reason to distrust you any further, now that... Well, I don't know how to put this gently, but the facts are the facts...	VO_nimuru.nimuru_sys_0031
+175	...Now that Shahel is...out of the picture.
+176	Point taken.	VO_ignacio.ignacio_sys_0006
+177	Plus, you said it yourself, no? That I'm the "Child of God" who will save this world?
+178	So why not join me? Technically, I am the new leader of the Infinite Serpent now, and I'm happy to fill that role. All you have to do is believe in me.	VO_nimuru.nimuru_sys_0001
+179	...
+180	Hmph.	VO_ignacio.ignacio_sys_0007
+181	Fine. I will follow you, Nimul, Child of God, leader of the Infinite Serpent.	VO_ignacio.ignacio_sys_0037
+182	I will stand by your side and witness for myself if you are have what it takes to turn your dream into a reality.
+183	Good.
+184	Um, Nimul? What about me?	VO_emmer.emmer_sys_0001
+185	We're in this together, Emmel, of course! Will you come with me?	VO_nimuru.nimuru_sys_0004
+186	Are you sure?
+187	Ouroboros has essentially become the ultimate Fallen. Both you and Waginau will be needed to purify her corruption.	VO_nimuru.nimuru_sys_0005
+188	Okay. You can count on me.
+189	And me as well. Shall we go, then?	VO_waginao-b.waginao-b_sys_0005
+190	Yeah. Let's wrap up all our preparations here, then set out.
+191	Don't get too ahead of yourself! Preparations are going to take a little longer for some of us than others, unfortunately.	VO_adlai.adlai_sys_0001
+192	Most of my Engineer Soldiers went down with the ship, after all.
+193	Going to need to take a long, hard look at what's left of them before I can start fighting reanimated magil warriors from the past!
+194	How long are we talking?	VO_nimuru.nimuru_sys_0002
+195	I'd say three...no, five hours! Give me that much, and everything should be good on my end.	VO_adlai.adlai_sys_0004
+196	When Eulalia and the others all have Engineer Soldiers at their disposal, I think you'll all agree it's worth the wait.
+197	Huh? I can use Engineer Soldiers too?	VO_eularea.eularea_sys_0005
+198	I'll see to it that you can! Simple instructions only, but better than nothing, right?
+199	If we've still got that much time, I could make use of it to fine-tune the Gears of Judgment.	VO_kuienai.kuienai_sys_0001
+200	Sounds like a plan all around. Helene? Can I ask you to gather together all able-bodied people of Pride from the kingdom to assist us?	VO_nimuru.nimuru_sys_0004
+201	Certainly. That's quite literally what we high elves were made for.	VO_helenne.helenne_sys_0006
+202	We of the land of Pride are Serpents to the end. I'm sure there are many who will be ready and willing to fight at our side.
+203	...
+204	There's no need for concern. This will be an organized and focused effort. I am not my father, and do not intend to repeat his mistakes.	VO_helenne.helenne_sys_0007
+205	Understood. I'll leave this initiative in your hands, then.	VO_nimuru.nimuru_sys_0038
+206	Please use this time to prepare wisely, everyone.
+207	Remember: Once you're finished, we'll be going off to fight a literal god, to save this world through sheer force of will alone!

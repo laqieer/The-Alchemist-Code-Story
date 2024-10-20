@@ -1,0 +1,149 @@
+﻿001	(When did it start? This ever-present ache in my left eye...?)	VO_niggle.niggle_sys_0018
+002	(I escaped that cursed home. I sank deeper into the darkness. I hunted for the meaning of the shadows.)
+003	(For the meaning of the never-ending death. Massacre. Blood spilled. I hated it. I escaped...didn't I?)
+004	Are you listening, assassin?	VO_mob-saga_omale.mog-saga_omale_sys_0012
+005	Nn.
+006	It is disrespectful to simply continue drinking while I speak to you!	VO_mob-saga_omale.mog-saga_omale_sys_0030
+007	Hey. There is no reason to raise your voice. I can hear you just fine. It's just that "assassin" is not actually my name.	VO_niggle.niggle_sys_0030
+008	Your name doesn't matter to me! I just need to know if you understand what I am asking you to do!	VO_mob-saga_omale.mog-saga_omale_sys_0016
+009	What's to understand? You want me to kill that...what did you call him? "Ungrateful little git"?	VO_niggle.niggle_sys_0004
+010	Exactly! That boy seems to have forgotten that he could never have joined the Holy Guard without me!	VO_mob-saga_omale.mog-saga_omale_sys_0037
+011	Me! He owes me everything! Yet I'm stuck in this pointless, backwater place!
+012	Gr... I will return to Northern Pride... No matter what it costs.	VO_mob-saga_omale.mog-saga_omale_sys_0042
+013	Hah.	VO_niggle.niggle_sys_0010
+014	What exactly are you laughing at?	VO_mob-saga_omale.mog-saga_omale_sys_0012
+015	No, no. It's just the shadows. They're whispering.	VO_niggle.niggle_sys_0031
+016	What? You're an odd one.	VO_mob-saga_omale.mog-saga_omale_sys_0010
+017	(Ugliness exists everywhere, even...or especially...in clerics...and those clad in rich, splendid clothing.)	VO_niggle.niggle_sys_0016
+018	Well. Thanks for the job. I'll go do it now.	VO_niggle.niggle_sys_0037
+019	Hey. Can you really do what I ask? That man is quite strong.	VO_mob-saga_omale.mog-saga_omale_sys_0012
+020	Of course. No one, no matter how heroic, powerful or beloved... No one is safe from an assassin like me.	VO_niggle.niggle_sys_0010
+021	Even the mighty "Silver Steed" whose majesty on the battlefield is well-known... Even if he is on the short-list to become the next Lord Commander.
+022	He is dead, he just does not know it yet. I swear that by the darkness within me.
+023	(I was born in the shadows. I ran from them, but they followed me.)	VO_niggle.niggle_sys_0018
+024	Zahar of the Holy Guard will die by my hand. I, Corvus Leonhart, swear upon the house I was born to.	VO_niggle.niggle_sys_0038
+025	Now, if you will excuse me.
+026	Hello. I am Corvus. I will be joining the Holy Guard's 4th Regiment from today.
+027	Hm... I heard that you passed the trial with flying colors. I would like to hear in your own words... Why are you here? What do you hope to accomplish?	VO_zaharu.zaharu_sys_0004
+028	Uh... Yessir. I hope to dedicate my life to protecting the Holy Order and the peace of the people of Babel, Vice-Captain Zahar.
+029	Hm. Well. I look forward to seeing what you will do with us.	VO_zaharu.zaharu_sys_0010
+030	...!
+031	...Yessir.
+032	(The shadows in me whispered and recoiled. They knew I was no match for him.)	VO_niggle.niggle_sys_0018
+033	(Those eyes held an abyss of unending darkness... They dragged me in. Or did I fall?)	VO_niggle.niggle_sys_0028
+034	(After all that effort getting into the Holy Guard! After getting so close!)
+035	Nnnghh!	VO_niggle.niggle_sys_0018
+036	(My left eye, my evil eye...cried out in fear! I had never met an opponent such as this before!)	VO_niggle.niggle_sys_0022
+037	(Still...I had made my vow.)
+038	(And so I stayed with the 4th Regiment as I tried to figure out how to kill Zahar.)
+039	(However, he never showed weakness. Not even once. All I could do was keep pretending and watching.)
+040	(It was beyond infuriating. I could not accept that he might be an opponent I could not best.)	VO_niggle.niggle_sys_0018
+041	(The days blurred together as I continued to play my role and waited for my chance.)
+042	(Then, that day...)
+043	Corvus. Prepare what you need for a mission to Wratharis.	VO_zaharu.zaharu_sys_0002
+044	Wratharis? What kind of mission?	VO_niggle.niggle_sys_0006
+045	We must make an example of a noble who has broken the Magna Code by using and conducting alchemical experiments.	VO_zaharu.zaharu_sys_0004
+046	Alchemy...? A bold choice. How many should I expect to face?	VO_niggle.niggle_sys_0025
+047	One.	VO_zaharu.zaharu_sys_0004
+048	One...? So, we're just going to arrest the noble?	VO_niggle.niggle_sys_0006
+049	No. Our orders are to...dispose of them.	VO_zaharu.zaharu_chara_1001
+050	Kill them?!	VO_niggle.niggle_sys_0027
+051	Those are our orders.	VO_zaharu.zaharu_sys_0010
+052	...
+053	Well, it may be just one noble, but they will be escorted by Wratharis knights. Do not underestimate them.	VO_zaharu.zaharu_sys_0002
+054	U-understood.
+055	(The mission called for a small cadre of knights led by Zahar and I to go to Wratharis. I was...uneasy.)
+056	(I had not imagined that the Holy Guard, tasked with maintaining peace, would order us to kill someone.)
+057	(Even if they had broken the Magna Code. Still... I could not pass up this opportunity.)
+058	Guhyah?!	VO_thiefm.thiefm_battle_0025
+059	...
+060	(I had never seen such skill with a sword. I couldn't even see it as he cut down knight after knight.)	VO_niggle.niggle_sys_0021
+061	(This was the Silver Steed of the Holy Guard, the most powerful of all the Paladins.)
+062	Eeek!	VO_mob-saga_ymale.mob-saga_ymale_sys_0027
+063	Corvus.	VO_zaharu.zaharu_sys_0002
+064	Yes?
+065	Do it.	VO_zaharu.zaharu_sys_0010
+066	!!!	VO_niggle.niggle_sys_1050
+067	Aghhh...?!	VO_mob-saga_ymale.mob-saga_ymale_sys_0028
+068	Yessir.	VO_niggle.niggle_sys_0037
+069	Well done, Corvus.	VO_zaharu.zaharu_chara_1008
+070	Thank...you...
+071	Let us return. The mission is over.	VO_zaharu.zaharu_sys_0002
+072	(I completed the mission as a Paladin. Yet...the shadows in my heart whispered.)
+073	(They rustled and shuddered. They insisted... "You cannot win against him.")
+074	Why are you giving me money?	VO_mob-saga_omale.mog-saga_omale_sys_0006
+075	This is the money you gave me to complete the job. I'm returning it.	VO_niggle.niggle_sys_0016
+076	You...?! What are you saying?! Don't tell me you're chickening out!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+077	Yeah... That is exactly what I am saying.	VO_niggle.niggle_sys_0004
+078	How dare you?! Did you not vow on your house that you would kill him? Kill Zahar?!	VO_mob-saga_omale.mog-saga_omale_sys_0016
+079	Kill me? This conversation is certainly interesting.	VO_zaharu.zaharu_chara_1008
+080	Zahar?!	VO_niggle.niggle_sys_0026
+081	You?! Assassin! You double-crossed me!	VO_mob-saga_omale.mog-saga_omale_sys_0026
+082	No! I would never... Vice-Captain, what are you—?!	VO_niggle.niggle_sys_0022
+083	Ah, Corvus, so naive... I knew what you intended the moment I laid eyes on you.	VO_zaharu.zaharu_sys_0016
+084	What?!	VO_niggle.niggle_sys_1050
+085	And you, cleric. I am indeed grateful for your recommendation...	VO_zaharu.zaharu_sys_0002
+086	But it is a little much to ask me to turn a blind eye to the fact that you simply wanted to use me, let alone the fact that you tried to have me killed.	VO_zaharu.zaharu_sys_0029
+087	Eep?!	VO_mob-saga_omale.mog-saga_omale_sys_0027
+088	Luckily for you, I am feeling generous. Leave now, and I will overlook what I have heard...this once.	VO_zaharu.zaharu_sys_0002
+089	Grk... I will not forget this disgraceful treatment!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+090	Now, as for you...	VO_zaharu.zaharu_sys_0016
+091	Vice-Captain... I suppose I am now to be disposed of?	VO_niggle.niggle_sys_0018
+092	Corvus Leonhart, from Slothstein. Your family has made quite the name for themselves as assassins.	VO_zaharu.zaharu_sys_0031
+093	I...am impressed that you know this much.	VO_niggle.niggle_sys_0021
+094	Are you? It is only natural that I do a bit of research into an untrustworthy subordinate.	VO_zaharu.zaharu_sys_0004
+095	You knew who I was this whole time, so why...? Ah. I understand now. To draw out the cleric.	VO_niggle.niggle_sys_0027
+096	Jumping to conclusions, Corvus? That is a rather unbecoming habit of yours. No. I want you to serve me.	VO_zaharu.zaharu_sys_0012
+097	Say again?	VO_niggle.niggle_sys_1050
+098	You have proven your abilities to me. I have been looking for someone like you.	VO_zaharu.zaharu_sys_0002
+099	What is...?	VO_niggle.niggle_sys_1050
+100	I need you, because I have come to the conclusion that you are exactly who I need. Join me.	VO_zaharu.zaharu_sys_0010
+101	Wait. Why me?	VO_niggle.niggle_sys_0018
+102	Corruption is rife within the Holy Order. You have seen so for yourself, have you not?	VO_zaharu.zaharu_sys_0031
+103	...
+104	Do you remember that noble in Wratharis? They had, in fact, broken the Magna Code.
+105	But think about it. Who created the Magna Code? Who enforces it? Why?
+106	The Holy Order uses it to create a monopoly on alchemy, so that they may continue to exploit the whole of Babel!
+107	No, that's... That's ridiculous.	VO_niggle.niggle_sys_0021
+108	Tell me, Corvus... Why do you think this continent can never escape war?	VO_zaharu.zaharu_sys_0018
+109	...
+110	The Holy Order and the Holy Guard supposedly protect the peace of Babel, and yet!
+111	When has Babel ever seen true peace? What have they been doing all this time?!
+112	Vice-Captain Zahar... What do you mean to do about this?
+113	I will change this world.	VO_zaharu.zaharu_sys_0004
+114	...?
+115	I will bring a new order to this tumultuous world and lead it to its true potential!	VO_zaharu.zaharu_sys_0030
+116	I will crush the duplicitous Holy Order and save the world from its lies!
+117	Are you nuts?	VO_niggle.niggle_sys_0022
+118	What, Corvus? You don't believe I can do it?	VO_zaharu.zaharu_sys_0010
+119	Come with me, Corvus! I will show you what we can do, together! Together, we have the strength to create a new order!	VO_zaharu.zaharu_sys_0002
+120	You, who could not escape the shadows, yet sought to do so! You can become the bridge between me and the world I hope to create!
+121	Zahar...?	VO_niggle.niggle_sys_1050
+122	(His eyes...! Even disguised in the light, there was no mistaking the depths of darkness in his soul!)	VO_niggle.niggle_sys_0018
+123	The shadows within me... They whisper. They call for you, my lord... Lord Zahar.	VO_niggle.niggle_sys_0011
+124	Good.	VO_zaharu.zaharu_sys_0010
+125	(I would follow him. For one whose blood carries the curse of my house... He was the only hope one such as I had ever held.)
+126	Zahar...	VO_waginao.waginao_chara_1012
+127	A single existence with the potential to tip the scales of power for the Holy Order...and for all of Babel.	VO_waginao.waginao_sys_0030
+128	Perhaps the "King of Darkness" of elven lore is nothing more than a pretty story. Or perhaps...
+129	To Wratharis again?	VO_niggle.niggle_sys_0006
+130	Yes.	VO_zaharu.zaharu_sys_0004
+131	Isn't this strange, though? To go all of a sudden.	VO_niggle.niggle_sys_0031
+132	The shadows whisper to me... They speak of danger.	VO_niggle.niggle_sys_0018
+133	Indeed, there will be danger.	VO_zaharu.zaharu_sys_0016
+134	The time has come already... Well, I always knew it would.	VO_zaharu.zaharu_sys_0031
+135	Huh?
+136	(The throbbing of my left eye... It indicates something wrong with this mission.)	VO_niggle.niggle_sys_0029
+137	Hold.	VO_zaharu.zaharu_sys_0002
+138	Wha...?
+139	You all... You are not my 4th Regiment.	VO_zaharu.zaharu_sys_0016
+140	Wait, what?!	VO_niggle.niggle_sys_1050
+141	Hello, Inquisitors.	VO_zaharu.zaharu_chara_1008
+142	Inquisitors?	VO_niggle.niggle_sys_0006
+143	Dogs of the Holy Order whose only mission is to ensure the Holy Order's monopoly on alchemy.	VO_zaharu.zaharu_sys_0004
+144	As expected of the Silver Steed. I am quite impressed that you caught us.	VO_thiefm.thiefm_sys_0023
+145	Hmph. I suppose I can guess why you are here.	VO_zaharu.zaharu_sys_0010
+146	We can no longer allow you to live. You and your ideas are too dangerous. This here will be your final resting place!	VO_thiefm.thiefm_sys_0004
+147	Ha! As if my will could be ended so easily! Do not underestimate me!	VO_zaharu.zaharu_sys_0029
+148	Corvus, prepare yourself for battle! This is the moment our new world order begins to take shape!	VO_zaharu.zaharu_sys_0002
+149	Understood.	VO_niggle.niggle_sys_0037

@@ -1,0 +1,59 @@
+﻿001	Hm, just as I thought. The Wratharis Research Laboratory is under the Holy Guard's control. I doubt they would let us simply walk in.	VO_niggle.niggle_sys_0016
+002	(Soon after the laboratory was assaulted, we searched through the secret room, but the tome was already missing.)
+003	(There is only one who could have taken it. But was there really a chance to do so in the chaos of the fire and director's death?)
+004	(Perhaps there was some assistance, or even prior knowledge of the attack.)	VO_niggle.niggle_sys_0031
+005	...
+006	(Good grief.)	VO_niggle.niggle_sys_0030
+007	(Still, telling Ila now to not follow me would fall on deaf ears.)
+008	(I'd much rather avoid getting her riled up and drawing attention. I suppose it is best to let her do as she wills for now.)	VO_niggle.niggle_sys_0016
+009	(That being said...)
+010	(Hold your breath and wait for the right moment. Watch your target's habits and anticipate their next move.)
+011	(Though I know she has a distaste for sneaking around, she's putting what I taught her to good use.)	VO_niggle.niggle_sys_0010
+012	Now then.
+013	According to what I heard, those who worked at that laboratory were all persecuted.	VO_thiefm.thiefm_sys_0004
+014	Was there anyone who evaded the persecution?	VO_niggle.niggle_sys_0001
+015	Well... I haven't heard anything about that.	VO_thiefm.thiefm_sys_0031
+016	I see.	VO_niggle.niggle_sys_0016
+017	...
+018	Hm... Not a single lead. This is turning out to be more difficult than expected. So whispers the darkness within me.	VO_niggle.niggle_sys_0031
+019	(With so little information, there's really nothing to support the possibility that anyone managed to get away.)
+020	(Still...)
+021	(It looked to me like that informant was hiding something.)	VO_niggle.niggle_sys_0018
+022	Then wait for the cover of darkness I shall.
+023	...
+024	...
+025	!!!	VO_ila.ila_sys_0026
+026	Heh...	VO_niggle.niggle_sys_0008
+027	You seem to be having fun.	VO_thiefm.thiefm_sys_0010
+028	Hmph... What do you want?	VO_niggle.niggle_sys_0010
+029	There was something I forgot to tell you earlier. It's about the researcher you're looking for.	VO_thiefm.thiefm_sys_0002
+030	Since you've been a loyal patron of mine for quite some time, I figured I could tell you. For a price, that is. Just a simple favor.	VO_thiefm.thiefm_sys_0007
+031	A favor? I'm almost afraid to ask.	VO_niggle.niggle_sys_0002
+032	Nothing too difficult for someone like you. I just need someone dead. You can make that happen, right?
+033	I'm sorry, but I've retired from assassination.	VO_niggle.niggle_sys_0001
+034	Oh, come on now. All I have to do is yell and this place will be swarming with Paladins. We wouldn't want that, now do we?	VO_thiefm.thiefm_sys_0011
+035	...
+036	(Hm... If I were alone, I could easily avoid a battle, but...)	VO_niggle.niggle_sys_0031
+037	(With Ila here, escape may prove to be a bit difficult. I should try to avoid trouble.)
+038	...
+039	(So I still cannot cut my ties with that family. This filthy, cursed blood of assassins...)	VO_niggle.niggle_sys_0018
+040	(Though that is all that we share, this blood is the curse that binds me to that family.)
+041	(It appears that those born in the darkness cannot escape this curse and are fated to become shadows.)	VO_niggle.niggle_sys_0016
+042	—n't stand this!	VO_ila.ila_sys_0016
+043	Huh?	VO_thiefm.thiefm_sys_0006
+044	Ahh!	VO_thiefm.thiefm_battle_0021
+045	Ila?!	VO_niggle.niggle_sys_0026
+046	I just can't stand this! I can't even stand listening to this for another second!	VO_ila.ila_sys_0013
+047	I can't stand how you'd try to force someone else's hand to get what you want! If you want somebody dead, kill them yourself!	VO_ila.ila_sys_0031
+048	Hey! What's going on here!	VO_stknightm.stknightm_sys_0001
+049	Oh snap!	VO_thiefm.thiefm_battle_0019
+050	Hey! Wait! Get back here, coward!	VO_ila.ila_sys_0001
+051	So you're the cause of all this ruckus! Come. We've got some questions for you.
+052	Aah! Move! Out of my way!	VO_ila.ila_battle_0010
+053	Dammit! He got away! I can't stand you Paladins! I just can't stand you!	VO_ila.ila_sys_0017
+054	S-stop! Calm down! Hold it!	VO_stknightm.stknightm_sys_0012
+055	As if I'm going to listen to you Paladins!
+056	You little brat! Settle down!
+057	I'm not a little brat! I'm a Shadow Messiah!	VO_ila.ila_sys_0039
+058	What?! The Shadow Messiah?!	VO_stknightm.stknightm_sys_0026
+059	Ila... Honestly.	VO_niggle.niggle_sys_0016

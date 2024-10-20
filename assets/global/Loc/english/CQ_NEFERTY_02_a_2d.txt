@@ -1,0 +1,72 @@
+﻿001	They misjudged their opponent's strength and attacked, only to run away. How disappointing.	VO_neferty.neferty_chara_1005
+002	Ah, I didn't want to owe you anything, but...	VO_ryle.ryle_battle_1030
+003	Please. That was nothing. Please don't worry about it.	VO_neferty.neferty_sys_0007
+004	I hate that smile of yours...	VO_ryle.ryle_chara_1009
+005	Aside from that, are you sure you don't want to pursue them?	VO_neferty.neferty_sys_0001
+006	Uh, well, not really. I'll see them again anyway.	VO_ryle.ryle_sys_0004
+007	Oh my... Is the reason you're here somehow related to them, by any chance?	VO_neferty.neferty_sys_0006
+008	It's none of your business.	VO_ryle.ryle_sys_0002
+009	My, my. How cold. And after I went out of my way to help you.	VO_neferty.neferty_sys_0007
+010	You told me not to worry about it...	VO_ryle.ryle_sys_0001
+011	I was seen with you, so they might have thought I was with you. This could become quite troublesome for me...
+012	...
+013	There've been a lot of kidnappings around this area lately. Those guys are probably part of that kidnapping group.	VO_ryle.ryle_battle_1030
+014	This is one of our main routes. We can't afford to lose business here because of people like them.
+015	Kidnappers... They're based here?	VO_neferty.neferty_chara_1005
+016	Yeah. I've heard rumors that they've been acting out of spite for me, but...	VO_ryle.ryle_sys_0004
+017	I guess it wasn't just a rumor.
+018	Why, it seems that you have enemies all over the place as well. Two peas in a pod, aren't we?	VO_neferty.neferty_sys_0002
+019	I haven't done anything to them. I don't know why they've decided to hate me for no reason.	VO_ryle.ryle_sys_0010
+020	That's just how it is, I think.	VO_neferty.neferty_sys_0007
+021	But still, I can't believe Ankh would allow the man himself to come out after such a rumor.	VO_neferty.neferty_sys_0001
+022	Ankh did fuss about sending someone else out, but if they've got a problem with me it's quicker to deal with them myself.
+023	So there are times when you feel like acting on your own as well.
+024	It's just that it's somewhat better to get it over with rather than to linger and wait.	VO_ryle.ryle_sys_0037
+025	If someone else can find the base, all the better. All I have to do is get there.
+026	I feel sorry for your men.	VO_neferty.neferty_sys_0030
+027	You're one to talk. Well, I'll admit, I'm not a good boss, that's for sure.	VO_ryle.ryle_sys_0030
+028	Still, I don't intend to be a source of trouble to the guild just because I'm being myself.
+029	If our profits are compromised, a lot of people will be in trouble.	VO_ryle.ryle_sys_0016
+030	Not only the Chamber of Commerce, but the people in the cities we trade with and the mercenaries who buy weapons from us.
+031	What Hawk said about a peaceful desert might indeed be nothing more than a dream of an ideal world...	VO_ryle.ryle_sys_0001
+032	But the truth is, there are people who live off of arms deals, mercenaries, and other things that are the opposite of peace.
+033	...
+034	Peace doesn't bring a happily-ever-after. That's why it's a hassle.	VO_ryle.ryle_battle_1030
+035	It is undeniable that there is a demand for certain services that is created by conflict.	VO_neferty.neferty_sys_0005
+036	And it's a fact that there are people who live by fulfilling those demands.
+037	Perhaps that's why Hawk's voice didn't reach the people at the time.	VO_neferty.neferty_sys_0030
+038	No one really paid attention to that... Neither Hawk nor the people around him.	VO_ryle.ryle_sys_0037
+039	I suppose this land is too harsh to have peace. At least, not with the poverty we have now.	VO_neferty.neferty_sys_0004
+040	Poverty of the body creates a poverty of the mind. It becomes natural to protect oneself with one's own hands, and not depend on others.
+041	No one should be blamed for not helping others when they're too busy helping themselves, even if it is disappointing.
+042	In this desert, the only people who lend a hand to others are bottomless sycophants or idiots who don't care about themselves.	VO_ryle.ryle_sys_0010
+043	If there was someone who could roll with the punches and do something with both extremes, something might change.	VO_ryle.ryle_sys_0031
+044	Roll with the punches and use the extremes...
+045	I think you'd be good at that.	VO_ryle.ryle_sys_0001
+046	Me? Do you think?	VO_neferty.neferty_sys_0006
+047	Don't you use your brother like that a lot?	VO_ryle.ryle_sys_0004
+048	...Ramses is inexperienced. He needs guidance.
+049	He has spirit, but it can lead him into trouble.	VO_neferty.neferty_sys_0007
+050	Spirit, huh? The complete opposite of me. I don't think we would get along.
+051	In that case, why don't you leave a few more things to him? He's always looking for something to do.	VO_ryle.ryle_sys_0002
+052	You must be joking. Ramses is nowhere near ready to take on anything I have to give him.
+053	He's young. He has a long future ahead of us. We shouldn't let him carry the burdens of the past.	VO_neferty.neferty_chara_1005
+054	I suppose you're right. Peace is meaningless if there's no one around to enjoy it.
+055	Not that it matters to me. It's someone else's job to figure that kind of stuff out.	VO_ryle.ryle_sys_0007
+056	Captain Ryle! We've found the hideout of the kidnapper group! Wait, L-Lady Nefertiti?!
+057	Good day to you, and thank you for your hard work. Don't mind me. Please, continue with your report.	VO_neferty.neferty_sys_0007
+058	Yes... W-well, but...	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+059	Just calm down. So, what else did you find?	VO_ryle.ryle_sys_0002
+060	R-right. Proceeding with the report. The group is selling their kidnapped victims outside the desert.	VO_mob-saga_ymale.mob-saga_ymale_sys_0005
+061	And we're almost certain that the buyers are in Gluttony Foss.
+062	Gluttony Foss? Is this true?	VO_neferty.neferty_sys_0006
+063	What, you know something about this?	VO_ryle.ryle_sys_0002
+064	I heard a while ago that some desert people are being kidnapped and sold as slaves to the people around Gluttony Foss.	VO_neferty.neferty_sys_0005
+065	I wasn't able to get any details because the conservatives were being a nuisance.
+066	By the way, Ryle, your guild recently submitted several trade-related applications, correct?	VO_neferty.neferty_sys_0007
+067	What about it?	VO_ryle.ryle_sys_0004
+068	That matter has been stalled due to the insistence of someone who says another matter should be resolved first.	VO_neferty.neferty_chara_1005
+069	That other matter is the resolution of the slave trade problem. If I am a witness to what happens to the slave traders, processing those applications may go more smoothly.
+070	You can't be serious.	VO_ryle.ryle_sys_0017
+071	You are heading for the hideout, are you not? Do you mind if I accompany you?	VO_neferty.neferty_sys_0001
+072	Suit yourself.	VO_ryle.ryle_chara_1009

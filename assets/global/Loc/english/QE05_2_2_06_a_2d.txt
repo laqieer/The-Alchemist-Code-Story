@@ -1,0 +1,22 @@
+﻿001	Report!	VO_seclidis.seclidis_sys_0001
+002	Yes, sir! We are currently engaged in battle with the rebel army! General Leordas is leading the charge! Neither side is gaining ground!	VO_gluttony-o.gluttony-o_sys_0004
+003	Crush them! What is holding you back?! We should be able to overwhelm them with our sheer numbers!	VO_seclidis.seclidis_sys_0029
+004	W-we're trying, but the rebels have the Holy Guard and those village warriors on their side, and they have the advantage of their magic!	VO_gluttony-o.gluttony-o_sys_0025
+005	Tch... Then split our force and have them attack from both flanks! We'll make use of every soldier we have on the field!	VO_seclidis.seclidis_sys_0016
+006	Sir, b-but that'll leave our stronghold unprotected!	VO_gluttony-o.gluttony-o_battle_0020
+007	Did I stutter? Fool! I still cannot control this power with precision! If my own troops are in my way, I cannot swallow them whole!	VO_seclidis.seclidis_sys_0010
+008	What...?	VO_gluttony-o.gluttony-o_sys_0025
+009	The soldiers at the front have all disappeared?! Has this information been verified?!	VO_leordas.leordas_sys_0025
+010	Yes, sir. I was told that the ground opened up and swallowed all the soldiers still standing.	VO_gluttony-y.gluttony-y_sys_0037
+011	Is this some new trump card of theirs? I cannot imagine how they could have gained that kind of power, though. How...? What...?	VO_leordas.leordas_sys_0020
+012	Never mind, that is not important! We must bolster the vanguard! Have we finished evacuating the villagers yet?	VO_leordas.leordas_sys_0004
+013	Yes. They are all on their way to the southern border now. They should reach the desert by dawn.	VO_gluttony-y.gluttony-y_sys_0037
+014	Then call our soldiers back and we will reform our ranks! Have Lord Waginau and the others not returned yet?	VO_leordas.leordas_sys_0045
+015	Not yet.
+016	I see. Then we must do what we must. First, we will avenge our fallen friends!	VO_leordas.leordas_sys_0030
+017	Spread the word! We will fall back to the village!	VO_leordas.leordas_sys_0002
+018	Yes, sir!	VO_gluttony-y.gluttony-y_battle_0001
+019	The Liberation Army is retreating?	VO_kamui-b.kamui-b_sys_0037
+020	Have they sustained that much damage already? I should join up with them quickly.	VO_kamui-b.kamui-b_sys_0020
+021	Here! Found a single enemy unit wandering on his own over here! Let's get him!
+022	It seems like that's going to have to wait until I've dealt with this, though...	VO_kamui-b.kamui-b_battle_0019

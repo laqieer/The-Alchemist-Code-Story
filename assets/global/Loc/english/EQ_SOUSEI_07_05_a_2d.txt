@@ -1,0 +1,180 @@
+﻿001	And with that, the chores are done.	VO_kuienai.kuienai_sys_0030
+002	It's almost time for Benika to arrive.
+003	I never expected to be able to spend time with my sister like this again.	VO_kuienai.kuienai_sys_0007
+004	There's no happier time for me than this.
+005	But what should I do now? Do I continue walking the same path as I did in the past?	VO_kuienai.kuienai_sys_0031
+006	Relive the future where I lose Benika and this region and become the sole survivor once again?
+007	There is a chance I could save my sister.
+008	However...	VO_kuienai.kuienai_battle_0019
+009	That would mean betraying all the history that is to come.	VO_kuienai.kuienai_sys_0030
+010	All the battles the world has seen up until now; the tomorrow that the people grasped for by enduring pain and suffering.
+011	Do I really intend to take that from them?
+012	Huff...huff... Oh...	VO_benika.benika_battle_0016
+013	Are you all right, Benika?!	VO_kuienai.kuienai_sys_0002
+014	I can't...run anymore... Go on...without me, Yna...
+015	Tch!	VO_kuienai.kuienai_sys_0018
+016	What should I do? I... I...!
+017	What is troubling you, Yna?
+018	Master! Were you eavesdropping on me?!	VO_kuienai.kuienai_sys_0025
+019	No. I was just passing by. Although...
+020	As your teacher, I have one piece of advice for you.
+021	Advice?	VO_kuienai.kuienai_sys_0006
+022	You are too kind. Naive, even.
+023	...
+024	Listen closely, Yna. The moment you concern yourself with the fates of others is the moment you will no longer be able to save them.
+025	Know that no matter how strong you become, there's only so much you can protect.
+026	That is why you must forget. Forget everything except what you want.
+027	Do only what you feel you must do.
+028	And believe that others are doing the same.
+029	But, that is...	VO_kuienai.kuienai_sys_0031
+030	That is all I wanted to say.
+031	It is almost time for your sister to arrive. Go out and meet her.
+032	Right...	VO_kuienai.kuienai_sys_0004
+033	I must go meet with Lord Kubera. If you are finished with your tasks, you may do as you please.
+034	Thank you, Master.	VO_kuienai.kuienai_sys_0034
+035	There is no need to thank me.
+036	Even my strict master is worried about me... I must seem rather desperate.	VO_kuienai.kuienai_sys_0030
+037	But I...
+038	What should I do?	VO_kuienai.kuienai_sys_0031
+039	U-um...! Good afternoon!	VO_benika.benika_sys_0001
+040	Scrah! Scrah!
+041	Good job getting here, Benika. Master is not here today, so there's no need for you to be so nerv—	VO_kuienai.kuienai_sys_0004
+042	Benika, who is that?	VO_kuienai.kuienai_sys_0006
+043	Oh, um, I found him passed out in town and...	VO_benika.benika_sys_0005
+044	Nimul?! Why is he here, in this time?!	VO_kuienai.kuienai_sys_0025
+045	Oh, is he a friend of yours? That's great! Looks like it was a good idea to bring him here.
+046	That's a serious wound. Sorry, Benika, but could you boil some water?	VO_kuienai.kuienai_battle_0019
+047	Y-yeah, of course!	VO_benika.benika_sys_0004
+048	.........
+049	.........
+050	Well then, let's treat your wounds first.
+051	Uh... Here?	VO_nimuru.nimuru_sys_0018
+052	So, you're awake, Nimul.	VO_kuienai.kuienai_sys_0006
+053	Eh? Yna!	VO_nimuru.nimuru_sys_0025
+054	From how you're acting, it seems you are somehow the very Nimul I know.
+055	Which means, you must also be...	VO_nimuru.nimuru_sys_0006
+056	Yes. the one who practiced techniques with you and went on a journey with you to defeat Cursed Beasts was me.	VO_kuienai.kuienai_sys_0004
+057	I see. I'm relieved!	VO_nimuru.nimuru_sys_0007
+058	But...aren't you a little...young to be my Yna?
+059	I was young in the first place...	VO_kuienai.kuienai_sys_0031
+060	Ow!	VO_nimuru.nimuru_sys_0018
+061	This wound... You fought Avaritian soldiers, didn't you?	VO_kuienai.kuienai_sys_0002
+062	Yes, I was careless. The people of this region are strong.	VO_nimuru.nimuru_sys_0004
+063	It's a strength obtained by making a great many trade-offs.
+064	Their strength is the natural result of their stripping themselves of weakness.	VO_kuienai.kuienai_sys_0030
+065	But more importantly, why are you here?	VO_kuienai.kuienai_sys_0001
+066	Quence's Space-Time Manipulation. We failed at stopping him and were dragged into the ways of time.
+067	As to what happened after... Sorry, but I'm unsure of what happened.	VO_nimuru.nimuru_sys_0030
+068	I...see.	VO_kuienai.kuienai_sys_0022
+069	But never mind that now! Listen, Nimul...
+070	This region will be destroyed soon.	VO_kuienai.kuienai_sys_0018
+071	What did you say?	VO_nimuru.nimuru_sys_0012
+072	The blade my master Roh Ku smithed, the Dragonslayer...
+073	The battle between Mammon, and Lord Kubera, who obtained that blade, will lead to this region's destruction.	VO_kuienai.kuienai_sys_0030
+074	So you must leave here quickly.
+075	Dragonslayer...
+076	First, we need weapons. Stronger, tougher blades.	VO_kubera.kubera_sys_0037
+077	Start gathering soldiers ready for slaying a dragon.	VO_kubera.kubera_sys_0001
+078	Yes, sir!
+079	You heard him, soldiers! The time of our end, our final trial, is at hand!
+080	But they will be doomed if they do that! Kubera found the gear components needed to take down a Cursed Beast!	VO_nimuru.nimuru_sys_0014
+081	What?
+082	We must hurry, Yna. To protect this region...we have to stop Kubera.	VO_nimuru.nimuru_sys_0002
+083	Wait, Nimul.	VO_kuienai.kuienai_sys_0002
+084	What is it, Yna?	VO_nimuru.nimuru_sys_0006
+085	This is truly a rare opportunity.	VO_kuienai.kuienai_sys_0045
+086	There is no other chance to save the Avaritia Belt.
+087	However, that will change the past. It will negate the journey we will take hereafter.	VO_kuienai.kuienai_sys_0031
+088	Is that all right with you? If that truly happens, will you truly be at peace with it?	VO_kuienai.kuienai_sys_0003
+089	Yna...
+090	I myself wanting to save my sister... My hometown...
+091	But I am afraid of what might happen.	VO_kuienai.kuienai_sys_0027
+092	To fulfill my wish would mean I would have to sacrifice your futures.
+093	Yna...
+094	.........
+095	Still, I will save this region.	VO_nimuru.nimuru_sys_0001
+096	Nimul...
+097	I have made many mistakes. And I will surely make more in the future.	VO_nimuru.nimuru_sys_0030
+098	Life is a continuous chain of choices. One can never know if they made the right choice until it has already been made.
+099	So, I have decided to do what I think is right at the current moment.
+100	I've given up on worrying whether this is a path laid out by someone else, or what their intentions might be.	VO_nimuru.nimuru_sys_0004
+101	I want to save all I hold dear. But if I save one person now, and because of that someone else is hurt...
+102	Then I will save them as well! I will do it!
+103	This ideal started as a dream between us.	VO_nimuru.nimuru_sys_0002
+104	In Sephira, at that workshop, we talked incessantly about the methodology of saving the world.
+105	The time to change reality is nigh!
+106	So let's do it once again. Just the two of us, here and now!
+107	We will save this region! We'll disrupt the order of the world as it was decided by the gods—and create a new world!	VO_nimuru.nimuru_sys_0005
+108	So, please... Help me, my friend.
+109	Nimul...
+110	All right.	VO_kuienai.kuienai_sys_0004
+111	Ahhhhhhh!	VO_benika.benika_battle_0022
+112	That voice...	VO_nimuru.nimuru_sys_0006
+113	Benika?!	VO_kuienai.kuienai_battle_0019
+114	Surely the quality of this gear cannot let me down...	VO_kubera.kubera_sys_0042
+115	Begone, human child. No matter how strong you may be, if your blade is cannot cut my flesh, it is meaningless.	VO_mammon.mammon_battle_0003
+116	Damn you... Damn you!	VO_kubera.kubera_sys_0018
+117	My blade cannot pierce it?! So, this is a Cursed Beast... This is Mammon!
+118	Then we shall need stronger gear. Stronger components will be necessary.
+119	I will forge the kind of gear that I will only make once in my lifetime—gear strong enough to bring down a god.
+120	That day, I gained a purpose worth pouring my all into.
+174	Cursed Beast Mammon, the pinnacle of all life in this region...
+121	That disgrace, that powerlessness... I will never forget it. I could never have foreseen that the work I've trained to perfection would be unable to pierce any living beast.
+175	How many nights have I spent in anticipation of killing that beast? But those nights are soon coming to an end as well.
+122	Just a little longer...
+123	My preparations are complete. I've poured all of my skill and fortitude into my technique.
+124	Now, if only I could obtain the flesh and blood of a dragon...
+125	Who are you?!
+126	S-sorry! I'm looking for my brother...	VO_benika.benika_sys_0035
+127	You are Yna's sister?
+128	I'm Benika. And you must be Master Roh Ku.	VO_benika.benika_sys_0005
+129	He's changing the forge water. Now is not the time to interrupt him.
+130	Oh, yes, thank you.	VO_benika.benika_sys_0033
+131	Skree!
+132	Wait for a moment, Benika.
+133	Y-yes?	VO_benika.benika_sys_0004
+134	That beast... Where did you find it?
+135	Huh? Oh... On this island.	VO_benika.benika_sys_0005
+136	What?! It was right in front of my nose the whole time?!
+137	Master Roh Ku?
+138	Give that to me. We need the flesh and blood of that dragon.
+139	Huh? Oh.
+140	Skree skree!	VO_desutoruku.desutoruku_sys_0053
+141	It is no mistake. It may be young, but this magil... It is, without a doubt, a dragon!
+142	Master Roh Ku, please stop! It didn't do anything wrong!	VO_benika.benika_sys_0015
+143	Life itself is not a sin, of course. Sin is something we humans must bear.
+144	Hate my mercilessness and your weakness, my child. 
+145	That feeling is what will make you stronger.
+146	Stop it!	VO_benika.benika_sys_0014
+147	Perhaps I am growing senile. It was my fault for leaving an opening while we were conversing.
+148	You saw it, too, Lord Kubera?
+149	Of course.	VO_kubera.kubera_sys_0037
+150	Are you certain that small beast is a dragon?	VO_kubera.kubera_sys_0001
+151	Indeed. If we obtain its flesh and blood, my work will be completed.
+152	Gear powerful enough to cleave even sin. It must be completed.
+153	Then there is only one thing I must do.	VO_kubera.kubera_sys_0005
+154	Follow that girl.	VO_kubera.kubera_sys_0001
+155	Yes, sir!
+156	Haaa...haaa...	VO_benika.benika_battle_0016
+157	Ah... Ungh...
+158	Ah...eeek!	VO_benika.benika_sys_0022
+159	It's me, Benika. What's the matter?	VO_kuienai.kuienai_sys_0002
+160	B-brother...?	VO_benika.benika_sys_0025
+161	Yna, who is this child?	VO_nimuru.nimuru_sys_0002
+162	She's my sister. Her body has always been frail.	VO_kuienai.kuienai_sys_0004
+163	Skragh...
+164	It's thanks to her carrying you that helped us reunite.	VO_kuienai.kuienai_sys_0003
+176	Is that so?
+177	Then I must repay my debt to her.	VO_nimuru.nimuru_sys_0005
+178	Nimul?
+179	They're coming, Yna. We're surrounded.	VO_nimuru.nimuru_sys_0001
+180	Huh?!	VO_kuienai.kuienai_sys_0025
+165	Weaponsmith Yna, and you, foreigner from another land...
+166	We have been commanded to take that infant dragon. Hand it over quietly.
+167	And if we do not?	VO_kuienai.kuienai_sys_0030
+168	Of course we will take it by force, for that is the only law we follow.
+169	Nimul, lend me your strength.	VO_kuienai.kuienai_sys_0001
+170	Of course.	VO_nimuru.nimuru_sys_0004
+171	I see. That's just what we wanted to hear.
+172	Allowing something to be seized by force, without even a struggle, just isn't our way!
+173	If we cannot compromise, we fight!

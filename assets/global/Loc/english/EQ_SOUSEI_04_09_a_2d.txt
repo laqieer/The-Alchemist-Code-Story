@@ -1,0 +1,232 @@
+﻿001	"Those without form, come forth from the sea of the void!"
+002	Agh?! Ngah!	VO_julia_dark.julia_dark_battle_0019
+003	I...?	VO_julia_dark.julia_dark_sys_0025
+004	I was...killed. By Nimul. How am I still alive?	VO_julia_dark.julia_dark_sys_0027
+005	Do not tell me that you thought an injury like that would end you, Julia.
+006	Your Highness? What is the meaning of this?	VO_julia_dark.julia_dark_sys_0025
+007	Even after succumbing to corruption and losing my original body, I am still human.
+008	Sinners are not exempt from death. That was my sole salvation, and yet...	VO_julia_dark.julia_dark_sys_0031
+009	That would be correct, if you were a mere Sinner.
+010	What are you talking about? I am a Sinner! The unyielding greed and grudge that sustains me is proof!	VO_julia_dark.julia_dark_sys_0027
+011	You are mistaken. Sinners have no such cravings.
+012	What?	VO_julia_dark.julia_dark_sys_0025
+013	They are nothing more than beasts that have fallen and been devoured by corruption. They have no mind, nor desires.
+014	But you are different.
+015	Julia, you have not been consumed by corruption. You were chosen. You are the priestess of Beelzebub.
+016	Chosen...?
+017	Most Sinners lose all ties to their previous lives and live new ones.
+018	But you carry so much... Too many memories, too many emotions...
+019	That's not true! I only feel an ever-churning and yearning gluttony in my heart, one that cries out for me to consume everything and become one again!	VO_julia_dark.julia_dark_sys_0018
+020	That urge is not your own. That is a phantom pain, caused by Beelzebub accumulating sinful magil...
+021	You are linked with the Cursed Beast, Beelzebub.
+022	You cannot be destroyed. You cannot die. So long as Beelzebub exists in this world, you will too exist, undying.
+023	...
+024	And that is why you are the key to awakening Beelzebub fully.
+025	What?	VO_julia_dark.julia_dark_sys_0025
+026	That hunger that has taken root in you and that you feed with your longing...
+027	That will be what truly arouses Beelzebub from its slumber.
+028	My body...? No, I can't... I don't ever want to go back there again...	VO_julia_dark.julia_dark_battle_0025
+029	Pitiful soul lost in sin... I can give you one last mercy. In the end, you will be with your master.
+030	So my conclusion is that the Asmodeus and the Belphegor we are seeing aren't the real ones.	VO_adlai.adlai_sys_0001
+031	Could you explain in detail?	VO_nimuru.nimuru_sys_0002
+032	Ah. First off...	VO_adlai.adlai_sys_0004
+033	All of the Cursed Beasts we've encountered so far have had what we can call "sanctuaries".
+034	These sanctuaries are what we can call their territory. In a way, it shows their sovereignty.	VO_nix.nix_sys_0004
+035	That's because all the sinful magil the Beasts have gathered fills up that region!	VO_mela.mela_sys_0005
+036	So basically, their territory is like its home base, I guess?
+037	That's why our abilities have been weakened in their sanctuaries. Pretty dangerous, really...	VO_mela.mela_sys_0016
+038	But as far as we can observe, the two Beasts' sanctuaries aren't expanding.	VO_adlai.adlai_sys_0016
+039	That's a good sign, but...do we know exactly why this is?	VO_waginao-c.waginao-c_sys_0001
+040	The current prevailing theory is that it's because they no longer have their cores as Cursed Beasts. It would make sense.	VO_nix.nix_sys_0005
+041	I think we said this in our first report, but those are shadows of their true forms... Little more than chunks of magil that have taken shape.	VO_nix.nix_sys_0001
+042	Perhaps something is happening with the cores sealed away inside Emmel...
+043	We believe that's the most likely reason for the illusions of the Cursed Beasts we've seen.
+044	To Emmel herself?!	VO_nimuru.nimuru_sys_0012
+045	Nimul...	VO_waginao-c.waginao-c_sys_0001
+046	I know. If we get thwarted here, there's no way we can save Emmel...	VO_nimuru.nimuru_sys_0004
+047	...
+048	So basically...
+049	The Asmodeus and the Belphegor there aren't real. Even if we don't attack with our full forces, we should be able to handle them.	VO_adlai.adlai_sys_0031
+050	So... This is just a proposal, but how about spitting into three groups?	VO_adlai.adlai_sys_0002
+051	To divide our power like that sounds...risky.	VO_waginao-c.waginao-c_sys_0030
+052	I realize the danger, but right now we don't have many other options.	VO_adlai.adlai_sys_0004
+053	Corruption keeps spreading, and with the Cursed Beasts showing up... And we don't know if Emmel is safe...
+054	We can't afford to leave any of these situations be. It'll be rough, but we've got to move forward, right?	VO_adlai.adlai_sys_0002
+055	That's right! This is such a pain to deal with but we've gotta handle it all at once!	VO_mela.mela_sys_0004
+056	I see...	VO_nimuru.nimuru_sys_0045
+057	What do you think, Nimul?	VO_kuienai.kuienai_sys_0001
+058	I think that Adaleigh's proposal makes sense...	VO_nimuru.nimuru_sys_0004
+059	But if anything goes wrong and our forces are scattered, or if this plan itself is a mistake from the start...
+060	Even if it's an illusion, a Cursed Beast is a Cursed Beast. If it is not put down, it will affect the other moving pieces of our plan.	VO_kuienai.kuienai_sys_0031
+061	I want to make sure we have as much power as possible to handle Beelzebub...	VO_nimuru.nimuru_sys_0031
+062	We'll handle Asmodeus.	VO_mela.mela_sys_0001
+063	Yeah. I guess it was always going to come to this.	VO_nix.nix_sys_0004
+064	Then I'll handle Belphegor!	VO_adlai.adlai_sys_0006
+065	Can you really handle it?	VO_waginao-c.waginao-c_sys_0001
+066	I know from our previous fight that Belphegor is a destroyer of the land.	VO_adlai.adlai_sys_0004
+067	If I attack from the air, it'll always be a step behind.	VO_adlai.adlai_sys_0031
+068	That is why Icona was able to restrain it back in the Acedia Belt Region.
+069	With Antares and the rest of the airship's defenses, I should be able to deal with it.
+070	I also have the benefit of knowing most of the Beast's behavior already. If all goes according to my plan, I'll be more than a match for it!	VO_adlai.adlai_sys_0007
+071	On our end, we've got a plan that Ambrosia cooked up!	VO_mela.mela_sys_0007
+072	Since the beginning, subduing Asmodeus just as our Master wished has been our plan.
+073	If we fail to defeat an incomplete, coreless Cursed Beast, then we'll definitely have to revisit our training.	VO_nix.nix_sys_0030
+074	Noooooo! That'd be the worst!
+075	I see...	VO_nimuru.nimuru_sys_0022
+076	In that case, I will leave this to you three.	VO_nimuru.nimuru_sys_0041
+077	Right!	VO_adlai.adlai_sys_0004
+078	Okay!	VO_mela.mela_sys_0038
+079	Great.	VO_nix.nix_sys_0007
+080	Then, we'll lead the warriors by land through the path Adaleigh will open up for us, and slip into where Beelzebub lies...
+081	And from there, it will be your turn to shine. Can we count on you, Eulalia?	VO_nimuru.nimuru_sys_0002
+082	Of course.	VO_eularea.eularea_sys_0006
+083	I will play the part of priestess of the Sephira and put Beelzebub to sleep. That's what you need from me, right?	VO_eularea.eularea_sys_0002
+084	Yes. And then Yna, Waginau, and I will settle things with Zafeiris and save Emmel.	VO_nimuru.nimuru_sys_0004
+085	We will finish Beelzebub off after that.
+086	(There is already proof that we can use Alchemy to eliminate corruption. All that's left is simply a matter of output.)
+087	(I now also have the power I gained from the Reincarnation Ritual; the protection of the Godwolf Asena.)
+088	(By combining the power of Alchemy with this magil, I should be able to completely purify any corruption of any Cursed Beast.)	VO_nimuru.nimuru_sys_0031
+089	(More importantly, Emmel will no longer have to bear her burden alone!)	VO_nimuru.nimuru_battle_0022
+090	All right, so our battle plan has been set. The war starts from now. Let's all get ready!	VO_nimuru.nimuru_sys_0001
+091	We depart tomorrow morning. It is likely that the decisive battle for this world is tomorrow. Let's make sure we win, and everyone returns safely!	VO_nimuru.nimuru_battle_0015
+092	Hmm, I need a wrench! A wrench...
+093	Is this it?	VO_nix.nix_sys_0001
+094	Ah, thanks. What's up? You're not usually by yourself.	VO_adlai.adlai_sys_0034
+095	Because this is within Libra's range. I'm connected with Mira by Space-Time even if we're physically apart.	VO_nix.nix_sys_0004
+096	I see...	VO_adlai.adlai_sys_0044
+097	I'll go ahead and change the topic. That lack of interest is rather harsh...	VO_nix.nix_sys_0030
+098	You could say that, but it's more that I'm busy right now!	VO_adlai.adlai_sys_0016
+099	I have the maintenance of the Engineer Soldiers and the airship to do, and I've gotta do it all by myself, you know?
+100	Small talk uses up too much precious brain power right now.	VO_adlai.adlai_sys_0031
+101	Anyhow, didn't you come here to calibrate Libra?	VO_adlai.adlai_sys_0002
+102	Not really. Our preparations are the same as usual. It's all we can do right now.	VO_nix.nix_sys_0039
+103	Don't make that face! So what's up? You just came to chat?	VO_adlai.adlai_sys_0012
+104	That's not quite it. There's just one thing I've been wondering about.
+105	Wondering about what?
+106	When will you tell Emmel about your feelings?	VO_nix.nix_sys_0004
+107	Wh-whaaaaaaaat?!	VO_adlai.adlai_sys_0025
+108	I'm sorry, I didn't mean to catch you off guard.	VO_nix.nix_sys_0036
+109	When did you notice?	VO_adlai.adlai_sys_0002
+110	From the very beginning. Everything in your attitude.	VO_nix.nix_sys_0007
+111	Ack!	VO_adlai.adlai_sys_0027
+112	You're the very definition of someone who has their heart on their sleeve. Everyone's already knows, I think.	VO_nix.nix_sys_0001
+113	What? You mean, Emmel too...?
+114	Eh... I don't think she's ever even considered herself as someone who can inspire feelings like that, so...probably not.
+115	That sounds about right! That's a relief...	VO_adlai.adlai_sys_0030
+116	Uh, isn't it kind of a bad thing. Unless...you plan to part without telling her anything?	VO_nix.nix_sys_0039
+117	I haven't been planning anything like that... Even after we take care of Beelzebub, we'll still have four more Cursed Beasts...	VO_adlai.adlai_sys_0031
+118	Even so, this journey will end at some point.	VO_nix.nix_sys_0001
+119	Ah...
+120	I can't. Not yet.	VO_adlai.adlai_sys_0016
+121	I'm still too much of a kid.
+122	Oh. I didn't realize you were self-aware now.
+123	Back off, okay! It's just... I can't protect Emmel as I am now. It's not practical.	VO_adlai.adlai_sys_0001
+124	A spineless man such as myself has no right to confess.	VO_adlai.adlai_sys_0018
+125	I've gotta get stronger, cooler... I've gotta grow up.
+126	Well, if you're fine with that. I have nothing else to say.	VO_nix.nix_sys_0005
+127	Anyway, why'd you bring this up?	VO_adlai.adlai_sys_0002
+128	I've just been wondering.
+129	Uh, okay. Whew! We still have a ton of components! With these, we should be able to go all out tomorrow.
+130	There should be some in the hangar. If you're free, you mind checking if any of the magil tools need any fixing?	VO_adlai.adlai_sys_0001
+131	Yeah, I'll take care of it.	VO_nix.nix_sys_0007
+132	Cheers!
+133	...
+134	This isn't something I want to say but...	VO_nix.nix_sys_0030
+135	I don't know if she has enough time left to wait for him to be ready...
+136	...
+137	Eulalia?
+138	Hey, Mira! Do you need anything?	VO_eularea.eularea_sys_0005
+139	Well, not exactly, but...I'm a little free now and I was curious, so...
+140	What were you doing?	VO_mela.mela_sys_0001
+141	Paying my respects to the people of Sephira that have fallen so far...	VO_eularea.eularea_sys_0027
+142	I see. That's what a priestess does...
+143	Yes...
+144	Every battle is a tragedy. Every time blood is spilled, the spirits of the land and the forest cry in agony.	VO_eularea.eularea_sys_0030
+145	The voices of the spirits?	VO_mela.mela_sys_0006
+146	Since the day I was born, I've lived alongside those voices.	VO_eularea.eularea_sys_0006
+147	The lands and the skies have their own will, and which is embodied in the voices and surround us every day as we live our lives...
+148	I've always thought that the Cursed Beasts might have a voice as well...	VO_eularea.eularea_sys_0030
+149	But if we can end this, I think we ought to. This sad, sad way of things...	VO_eularea.eularea_sys_0002
+150	Yes, we can end this. We must. So I must also do what I can.
+151	Even if...
+152	If what?
+153	It's nothing. I'll be off now.	VO_eularea.eularea_sys_0039
+154	Okay...	VO_mela.mela_sys_0030
+155	I think...we feel the same way.
+156	Lord Waginau! The Sephira warriors are ready to move out!	VO_knightm.knightm_sys_0001
+157	Good! Warriors, fall in line!
+158	Our adversary is the Cursed Beast. This is the largest, most threatening being in this world.
+159	However, we are led by Lord Nimul! We have a leader that has weathered many battles; a crew of seasoned warriors!	VO_waginao-c.waginao-c_sys_0002
+160	You all have exhibited exceptional strength. It will be more than enough to carve our way forward!
+161	Warriors, recall your training! Cut them down with your Spiritbonding, and remember your oaths of compassion!	VO_waginao-c.waginao-c_sys_0001
+162	The great tree Sephiron is always with us!
+163	Huzzaaaaaaahhhhhhh!
+164	Great vigor.	VO_waginao-c.waginao-c_sys_0007
+165	(Tomorrow's battle will be fierce. It will be a battle of life and death.)	VO_waginao-c.waginao-c_sys_0030
+166	But we will show that we can overcome this. This is what Nimul... No, what we all desire.
+167	Victory will be ours! We will restore peace to the land!
+168	I've missed this place.	VO_nimuru.nimuru_sys_0007
+169	Yes. We had many conversations here while I hammered away at steel.	VO_kuienai.kuienai_sys_0004
+170	It seems so long ago, now...	VO_kuienai.kuienai_sys_0007
+171	You're too young to talk like that, don't you think?	VO_nimuru.nimuru_sys_0002
+172	You're probably right. But for me, this was the first time I've set off on such a long journey.	VO_kuienai.kuienai_sys_0005
+173	Everything from that day... Washing up in this region, meeting you, becoming friends... I feel like everything has led up to this.	VO_kuienai.kuienai_sys_0007
+174	Yna...
+175	I am a graceless man. My demeanor is poor and I cannot get along with the people of this village.	VO_kuienai.kuienai_sys_0004
+176	That said...
+177	Now even I earnestly feel that I want to save this region.
+178	Next will be your region. I promise I will save all the lands with these hands.	VO_nimuru.nimuru_sys_0005
+179	Then we certainly cannot lose tomorrow.	VO_kuienai.kuienai_sys_0005
+180	Yes. We must win. We will open the door to the future.	VO_nimuru.nimuru_sys_0004
+181	This is the last blade I needed to work on. It is time to ready myself for what will come.
+182	Lord Nimul! The warriors of Sephira have been assembled!
+183	There is no guarantee that we will return from this battle. Have you all prepared your hearts and minds?	VO_nimuru.nimuru_sys_0001
+184	Yes, sir! We will quell the spread of the Sinners over the land!	VO_knightm.knightm_sys_0032
+185	All have set aside their fears and are ready to lay their lives down to fulfill their oaths.
+186	Understood.	VO_nimuru.nimuru_sys_0004
+187	Soldiers, fall in line!
+188	The time has come! The mission to retrieve the Vessel of Purification has begun. We will settle the turmoil that has come upon us!	VO_waginao-c.waginao-c_sys_0001
+189	We people of Sephira value compassion and harmony, but this is the only option we have in the face of this corruption!
+190	With this offensive, we will purify our land and take it back!
+191	All right, let's move out! March!	VO_waginao-c.waginao-c_battle_0007
+192	Huzzaaaaaaahhhhhhh!
+193	Okay, we're ready for liftoff! Mira, Nyx, are you ready?	VO_adlai.adlai_sys_0006
+194	Yeah! Leave everything to me!	VO_mela.mela_sys_0004
+195	Libra is at the ready. We are just waiting for instructions.	VO_nix.nix_sys_0004
+196	All right! Then let's get this party started!	VO_adlai.adlai_sys_0004
+197	Yeah!	VO_mela.mela_sys_0038
+198	I can't believe this. Our once fruitful land has become this...	VO_knightm.knightm_battle_0019
+199	It's certainly horrible. But this is why we must return the blessings of the great tree!	VO_stknightm.stknightm_sys_0018
+200	Morale looks to be high...	VO_nimuru.nimuru_sys_0005
+201	It's to be expected. This is our land. You returned, along with the protection of the Godwolf.	VO_waginao-c.waginao-c_sys_0004
+202	We can't afford to lose. The longer we wait, the more destruction there is. We all understand that.
+203	Yes... It's quite a heavy responsibility.	VO_nimuru.nimuru_sys_0007
+204	The time to fulfill that responsibility has come. Here we go: a horde of Sinners has showed up.	VO_kuienai.kuienai_sys_0002
+205	You've finally made it, Pursuers of Sin. However, you've arrived too late.
+206	...
+207	Now, shadows of the Cursed Beasts! They have come to attack you! Retaliate to your hearts' content!
+208	Grrrooooooggghhh!	VO_asmodeus.asmodeus_battle_0002
+209	Grrroooooaaaagghhh?!	VO_belphegor.belphegor_battle_0001
+210	Ugh... Lord Nimul! The Cursed Beast is here!	VO_stknightm.stknightm_sys_0042
+211	Go forward without fear! Believe in me! Believe in your comrades!	VO_nimuru.nimuru_sys_0001
+212	We're going to take back our home! Huzzah!!!	VO_knightm.knightm_battle_0008
+213	Ah... This doesn't look good, Nimul! It's looking to trigger its earthquake!	VO_waginao-c.waginao-c_sys_0001
+214	No!	VO_nimuru.nimuru_battle_0022
+215	Grraaaaaah!	VO_belphegor.belphegor_battle_0002
+216	Hey, hey! You don't think we'd just let things go according to your plans, huh?	VO_adlai.adlai_sys_0007
+217	Argh!	VO_belphegor.belphegor_battle_0019
+218	Valley of Siddim Protocol activated! Time to bind it to the ground!	VO_adlai.adlai_battle_1030
+219	The magil output is stable! It won't be able to move anytime soon!
+220	Thanks! I'll manage things here. Your battlefield is over there!	VO_adlai.adlai_sys_0034
+221	Separation of Libra is complete. I won't warn you not to take unnecessary risks, but...	VO_nix.nix_sys_0009
+222	Haha, I'll do it if it comes to that. You two are the same, aren't you?	VO_adlai.adlai_sys_0004
+223	...Take care of yourself. We'll see you on the other side.	VO_nix.nix_sys_0007
+224	Of course.	VO_adlai.adlai_sys_0007
+225	What is up with all this manly energy here? Did you forget that I'm here, too?!	VO_mela.mela_sys_0016
+226	Of course not. To do such a thing would surely be equivalent to shooting myself in the foot.	VO_nix.nix_sys_0039
+227	Wait, Nyx! Are you telling me that you have some complaints about having a sister as adorable as me?	VO_mela.mela_sys_0012
+228	Haha, if you two can squabble like that at a time like this, then I'm sure we'll be fine!	VO_adlai.adlai_sys_0011
+229	Nimul, we'll take care of things here. Go to Emmel!	VO_adlai.adlai_sys_0001
+230	Right.	VO_nimuru.nimuru_sys_0004
+231	Onwards, to the village! There's not a moment to spare!
+232	Warriors! Forward march!	VO_waginao-c.waginao-c_battle_0007

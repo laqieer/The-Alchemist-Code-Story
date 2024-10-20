@@ -1,0 +1,77 @@
+﻿001	Ahaha! You knew it was me the entire time and you still came at me with all you had? Talk about rude!	VO_ren.ren_sys_0008
+002	Knowing it was you just gave me extra motivation.	VO_vetel.vetel_sys_0004
+003	Ahaha, incredible! You're still surprising me after all this time!
+004	You're supposed to announce yourself when you arrive. I hope you're not pulling this kind of thing on the others.	VO_vetel.vetel_sys_0030
+005	Don't worry! I'm on my best behavior. I've just been quietly observing all of you. Looks like everyone's giving it their all.	VO_ren.ren_sys_0007
+006	The Scarlet Flame Guard seems to have matured quite a bit compared to how things used to be.
+007	I even heard some rumors about Chloe's Crown's Guard while I was travelling through the other countries.	VO_ren.ren_sys_0031
+008	Most of them are watching pretty carefully to see if it's an effective stopgap while we rebuild our forces.
+009	She's got a pretty tough job if you ask me, with a lot of eyes on her. I'm just your average assassin, but even I can guess that it's no picnic leading a unit like that.
+010	You're right, she's had to run a strict ship to keep things under control here.	VO_vetel.vetel_sys_0007
+011	But she's done very well so far. Many of the troops admire her. I'm sure they'll grow into excellent knights under her watchful eye.
+012	I saw that Nina's got a lot on her plate, too. Working as Vice-Captain while also acting as a bridge between humans and therians.	VO_ren.ren_sys_0045
+013	Victor's come along, too.
+014	Helping out Vice-Captain Nina, inspiring the people around him... Lots of good things said about him after that whole Saga thing, too.	VO_ren.ren_sys_0005
+015	Indeed. Victor has become quite the reliable knight. Everyone's come so far.	VO_vetel.vetel_sys_0006
+016	To the point where recently I've been thinking that I can leave the future of the Scarlet Flame Guard, the future of all of Envylia, in their hands.
+017	Oh, really? If you got that much trust in 'em, how 'bout you start entrusting them with some of that responsibility now? No need to wait for the future to come first.	VO_ren.ren_sys_0044
+018	There's no reason to wait if you think they're ready for it. If you don't think they are, well, I mean... But you do, right?
+019	...
+020	What? What's with that look?! Don't freak me out like that! Did I say something wrong?! Did I?!	VO_ren.ren_sys_0025
+021	Ah, no! It's not wrong, I was simply surprised.	VO_vetel.vetel_event_1015
+022	I just never thought that you of all people would be so straightforward with me.
+023	Well, how else would I get through to you?
+024	It's not like it's a secret why I'm so straight with you.	VO_ren.ren_sys_0030
+025	You didn't forget, right? Gerald also entrusted his last wishes to me.
+026	Ah, that's right...	VO_vetel.vetel_chara_1007
+027	...
+028	Well, I guess you have a point. About trusting the others a little more, but...it's not the time for that yet.	VO_vetel.vetel_sys_0030
+029	The knights are already spread so thin. I can't heap any more responsibilities onto them or else they might just collapse.
+030	Is that why you're doing it all by yourself?	VO_ren.ren_sys_0006
+031	For now. The Blue Flame Guard is recovering. I heard from the king that their new Captain is very enthusiastic.	VO_vetel.vetel_sys_0004
+032	Once they're back on their feet, the Scarlet Flame Guard won't have to carry things all by themselves any longer.
+033	I just have to ride this out. Then, when things stabilize, I'll be able to leave it to the others.
+034	Envylia will be able to overcome this situation as long as the Blue and Scarlet Flame Guards work together.	VO_vetel.vetel_sys_0006
+035	Hmm... Well, I get where you're coming from.	VO_ren.ren_chara_1006
+036	But I feel like you're overlooking one very important thing. Or rather, pretending not to see it at all.
+037	Pretending it's not there doesn't mean no one else can see it.	VO_ren.ren_sys_0004
+038	...
+039	...Well, I'll be around, so I'll keep an eye out.	VO_ren.ren_chara_2006
+040	Hey, those inspection guys were pretty quick on their feet coming here, don't you think? Even though the Holy Guard's probably got a lot on their plate.
+041	They were sniffing around the village, too. Wonder what's got them so interested in this place.	VO_ren.ren_sys_0031
+042	Hmm... So the ruins stretch this far. It isn't just the surrounding area... Even the village may very well be part of it.	VO_mob-saga_omale.mob-saga_omale_sys_0016
+043	The historical value of this place is immeasurable.
+044	I've analyzed the geological sample. It's as we expected: a strong alchemical presence is present throughout the entire village.
+045	The concentration gets higher as you approach the ruins, but it is still incredible that it managed to reach even the village. I wonder what could be inside...	VO_mob-saga_omale.mob-saga_omale_sys_0030
+046	It's incredible... Still, from an alchemic standpoint, this village could be very dangerous. It's calm and peaceful now, but...
+047	Well... The Scarlet Flame Guard is keeping an eye out, so I'm sure it'll be fine.
+048	Still...
+049	(It wouldn't be such a big deal if these were regular ruins, but there's something weird about these... There might even be—)	VO_mob-saga_omale.mob-saga_omale_sys_0031
+050	...! This is a.... So that means there must be a key somewhere...	VO_mob-saga_omale.mob-saga_omale_sys_0025
+051	Hee hee! Tag, you're it! Try and catch me! Wee!
+052	Oh dear, I'm sorry they're keeping you so busy...	VO_mob-saga_ymale.mob-saga_ymale_sys_0036
+053	Not at all! If anything, I'm having a lot of fun myself. If anything, I should apologize to you! It's probably not comfortable having us noisy interlopers hanging around all the time...
+054	It's only natural. You don't discover ruins right on your doorstep every day. The investigation's quickly become the talk of the town.
+055	Even the Holy Guard's arrived in this quaint little village! It's something of a relief to know the Scarlet Flame Guard is here to protect us.	VO_mob-saga_ymale.mob-saga_ymale_sys_0004
+056	I see...	VO_natalie.natalie_sys_0007
+057	Hey, I'm back.	VO_vetel.vetel_sys_0003
+058	Vettel! Oh, you brought Ren with you, too?
+059	Yup, I got some time to kill, so I tagged along.	VO_ren.ren_sys_0005
+060	You got free time? Are you done already?	VO_natalie.natalie_sys_0006
+061	We've dealt with the monsters that reside within the ruins, so the situation should be safe enough for now.
+062	If anything happens, I trust that the Scarlet Flame Guard will be able to handle it.
+063	Is that so? That's a relief...	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+064	Natalie! Come on! Are you playing hide-and-seek with us or not?
+065	I found something super cool! So come and get me, then I can show it to you!
+066	Ah, I'm sorry. This is an important grown-up chat, we can play again after—	VO_natalie.natalie_sys_1034
+067	Aw, but you need to see this! Look! When I hold it up to the light like this, it gets all greenish!
+068	Isn't that...
+069	Oh, we've been finding that type of stone in town here and there lately.	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+070	We've been digging here and there to find materials for the reconstruction effort. That's probably why we're running into so many of them now.
+071	How interesting! Maybe it's a type of ore?	VO_natalie.natalie_sys_0004
+072	Hey kiddo, why don't you hand that pretty stone to me?	VO_mob-saga_omale.mob-saga_omale_sys_0003
+073	Aw, I dunno...
+074	Pretty please? I'll trade you some candy.	VO_mob-saga_omale.mob-saga_omale_sys_0031
+075	Hmm, in that case... Okay, I'll trade you! I can go find another anyway.
+076	...
+077	This is a problem. If these are showing up in the village and those ruins... We can't just let this be.	VO_mob-saga_omale.mob-saga_omale_sys_0042

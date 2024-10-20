@@ -1,0 +1,205 @@
+﻿001	Nngh... Neun...is right! We cannot stop here!	VO_acht.acht_sys_0043
+002	We are the only ones who can bring hope to those who are oppressed!
+003	Here they come! Kagura!	VO_yaurasu.yaurasu_sys_0017
+004	Right!	VO_kagura_3s_kagu.kagura_sys_0004
+005	Neun... Acht... J-just watch. I will lead you both...into our n-new era!	VO_sol.sol_sys_0018
+006	Huzzaaaaahh!!!	VO_sol.sol_sys_0032
+007	Plasma Burst!!!	VO_sol.sol_battle_0001
+008	Haaa... Haaa... Heh, too bad.	VO_sol.sol_sys_0043
+009	Are you okay?	VO_caida.caida_sys_1016
+010	Somehow.	VO_kanon_3s_cano.kanon_sys_0042
+011	You...?!	VO_sol.sol_sys_0025
+012	Pathetic. You're nowhere near as threatening as you were earlier. Looks like you're headed to the afterlife, not the future.	VO_kudhanstein.kudhanstein_sys_0031
+013	Urgh! Shut your mouth! You think I'm done?!	VO_sol.sol_battle_0022
+014	Yeah, I do. I'm putting an end to this myself.	VO_kudhanstein.kudhanstein_sys_0004
+015	Captain Kudan, wait!	VO_caida.caida_sys_0027
+016	What?	VO_kudhanstein.kudhanstein_sys_0027
+017	There's an ominous dark wind circling around him! You shouldn't get too close!	VO_caida.caida_sys_1016
+018	Sol's body is glowing? What is he about to do?	VO_kanon_3s_cano.kanon_sys_0026
+019	You have all been nuisances for long enough! Die!	VO_neun.neun_battle_0012
+020	Whoa! Everybody, get ready to defend yourselves!	VO_basini.basini_sys_0027
+021	Wrong, Basheeny. This is exactly when we should attack.	VO_ortima.ortima_sys_0031
+022	What?! D-do you have a plan?! Not only do physical attacks not harm him, but he can break himself out of your spells!	VO_basini.basini_sys_0012
+023	I might. As we've already seen, a simple attack is not enough to damage him.	VO_ortima.ortima_sys_0004
+024	However, there is no way a person can bulk up the protection they have inside.	VO_ortima.ortima_sys_0007
+025	In...side?	VO_basini.basini_sys_0006
+026	Yep. I call it: The Lightning Rod Strategy!	VO_ortima.ortima_sys_0010
+027	You plan to funnel magic directly into his internal organs?	VO_vetel.vetel_sys_0045
+028	You are a sharp one, Captain Vettel.	VO_ortima.ortima_sys_0020
+029	How do you intend to accomplish this?	VO_vetel.vetel_sys_0031
+030	Right, so...that's the biggest problem.	VO_ortima.ortima_sys_0030
+031	For this to work, someone is going to have to thrust a weapon of some sort into his flesh.
+032	While dodging his powerful swings, of course.
+033	What are you all prattling on about?!	VO_neun.neun_sys_0013
+034	It doesn't matter what your plan is! I will rend you all into bloody, dripping shreds and glory in it!	VO_neun.neun_sys_0015
+035	Whoa, that was...visceral. That guy is super scary! I didn't know I could still get goosebumps like this as a Phantom!	VO_ortima.ortima_sys_0027
+036	Th-there is no time to be scared! How are we going to put this plan into action?!	VO_basini.basini_sys_0016
+037	The plan? The key agent for this mission is already on the move.	VO_ortima.ortima_sys_0031
+038	The key agent?	VO_vetel.vetel_sys_0025
+039	Yes. He took action before I even explained the details to him. I envy you for having such an excellent retainer.	VO_ortima.ortima_sys_0007
+040	Who...? Oh!
+041	I am going to tear into your body and shred your flesh to strips! Let me see your blood!	VO_neun.neun_battle_0012
+042	Huzzzaahhh!!!	VO_victor.victor_battle_0007
+043	What the—?!
+044	Urgh! Why, you little...!	VO_neun.neun_sys_0026
+045	I did it! Captain Vettel! Look, I stabbed him! You shouldn't have underestimated the Scarlet Flame Guard, you gorilla!	VO_victor.victor_sys_0046
+046	Tch! You little brat!	VO_neun.neun_sys_0027
+047	Huzzzaahhh!!!
+048	Urgh?! Why, you—! Huh?	VO_neun.neun_sys_0043
+049	I shouldn't have expected any less from the famed Scarlet Flame Guard. You did well too, Basheeny.	VO_ortima.ortima_sys_0031
+050	You've made your teacher proud. I can leave the future in your hands with confidence.	VO_ortima.ortima_sys_0007
+051	Y-you...?	VO_neun.neun_battle_0019
+052	I can understand what you and your friends are going through, but the beliefs you hold dear will never be compatible with this world. I'm sorry.	VO_ortima.ortima_sys_0030
+053	You've caused too much trouble among the living. You will be able to riot to your heart's content in the world of the dead.
+054	Neun! Get out of there!	VO_sol.sol_battle_0019
+055	Absolute Zero!!!	VO_ortima.ortima_sys_0032
+056	Grraaagh!	VO_neun.neun_battle_0025
+057	Neun!	VO_acht.acht_battle_0022
+058	Nng! Ugff! You...bastards...always making us into...outcasts.	VO_neun.neun_sys_0043
+059	Are we not...e-even allowed to...pursue...the sky we dreamed of?
+060	S-Sol, please... K-kill these bastards... Set...L-Lost Blue...free. Grrraaaaaahh!!!	VO_neun.neun_battle_0025
+061	...!
+062	No...
+063	We did it! B-but...	VO_victor.victor_sys_0009
+064	This...doesn't feel...right.	VO_basini.basini_sys_0018
+065	If you think of all the casualties he caused and victims he left behind, his actions were irredeemable, and yet...	VO_ortima.ortima_sys_0030
+066	He was acting on his own ideas of justice. That's no small thing. We shouldn't just let it fade away. Do you understand?
+067	Yes, sir.	VO_basini.basini_sys_0004
+068	Unforgivable...	VO_sol.sol_sys_0018
+069	Huh?
+070	Those who hurt one of our own must be annihilated. That is our code!	VO_sol.sol_sys_0013
+071	I am going to kill you all! I will slaughter every single one of you, no matter what!
+072	The dark wind within Sol is surging even stronger than before!	VO_caida.caida_sys_0027
+073	No! Sol, you can't!	VO_acht.acht_battle_0022
+074	Love can be a strength, but in the same vein, it can also become a weakness. The person I yearn for taught me that.	VO_spica.spica_sys_0022
+075	What?
+076	Allowing love to be your priority will interfere with your concentration. I was once told that it is better to discard affection if it becomes blind love.
+077	Lord Zahar, I now know that you were expressing your concern for me with those words.	VO_spica.spica_battle_0007
+078	Grk!	VO_acht.acht_battle_0007
+079	Acht!	VO_sol.sol_battle_0019
+080	Nn...ngh! T-take it back! You dare...s-say my affection...for S-Sol is my...weakness?!	VO_acht.acht_battle_0022
+081	I-if you intend...to ridicule my feelings—!	VO_acht.acht_sys_0043
+082	No, please understand. I am envious.	VO_spica.spica_sys_0039
+083	En...vious?	VO_acht.acht_battle_0019
+084	Yes, I am. I envy you for being able to blindly devote yourself to the one you care for.	VO_spica.spica_sys_0038
+085	I can never again meet the person I wish to devote myself to.
+086	Wha—?!
+087	Those left alive must accept the death of those who are gone, but there is no feat more agonizing.	VO_spica.spica_sys_0018
+088	There are times I wish I had followed him to the other side, but I cannot muster the courage to make that choice.
+089	You...	VO_acht.acht_sys_0018
+090	To be honest, I don't know what the right thing to do is anymore. I am so lost.	VO_spica.spica_sys_0022
+091	The honesty of your devotion will surely reach his heart, unlike mine.
+092	That precious soul of yours will surely accompany his to the end.
+093	Agh!	VO_acht.acht_sys_0043
+094	Acht!	VO_sol.sol_sys_0018
+095	The...s-sky we chased after...f-for so long... I-it's fading...but...	VO_acht.acht_sys_0018
+096	My soul...will n-never stop...following you. P-please keep me b-by your side.
+097	Of course I will.	VO_sol.sol_sys_0004
+098	Nng! I...am s-so glad to...have been...w-with you.	VO_acht.acht_battle_0019
+099	Acht!!!	VO_sol.sol_sys_0019
+100	I am glad to have been allowed to bear witness to your passion.	VO_spica.spica_sys_0038
+101	Spica...
+102	You're the only one left.	VO_kudhanstein.kudhanstein_sys_0010
+103	Even you cannot defeat us all.	VO_yaurasu.yaurasu_sys_0016
+104	We will stop you before you do something that can't be undone. That's the least I can do as someone who shares the same hometown.	VO_ortima.ortima_sys_0007
+105	What do you mean "before"?! He's already caused so much damage!	VO_kagura_3s_kagu.kagura_sys_2017
+106	You'll atone for everything you've done!
+107	You've brought terror into the lives of the people of Babel, and caused substantial harm.	VO_kanon_3s_cano.kanon_sys_0017
+108	As the Lord Commander, the keeper of the peace, I cannot forgive you!
+109	What do have you to say for yourself?	VO_kudhanstein.kudhanstein_sys_0031
+110	...
+111	Hmph. You don't even have the strength to talk back, do you?	VO_kudhanstein.kudhanstein_battle_0016
+112	No...	VO_caida.caida_sys_0027
+113	Huh?
+114	Vier... Füry...
+115	What is he...?	VO_kudhanstein.kudhanstein_sys_0027
+116	Sieba... Zehn... Neun... Acht...
+117	No... The dark wind within Sol is getting stronger!	VO_caida.caida_sys_1016
+118	Huh?!	VO_kagura_3s_kagu.kagura_sys_0025
+119	This is an unexpected turn of events. I don't think our dreams are going to come true on this day.       	VO_sol.sol_sys_0010
+120	But I can fulfill one last promise to you. These bastards who took your lives... I will slaughter every single one of them!	VO_sol.sol_sys_0032
+121	Here he comes!	VO_yaurasu.yaurasu_sys_0027
+122	Agh!	VO_kudhanstein.kudhanstein_battle_0019
+123	Hrgh...!	VO_kanon_3s_cano.kanon_battle_0019
+124	Ugh!	VO_kagura_3s_kagu.kagura_battle_0022
+125	I will end it all here. Beg for forgiveness from those friends of mine who you have condemned to the afterlife.	VO_sol.sol_sys_0010
+126	He's...so fast! I-I can't see him!	VO_yaurasu.yaurasu_sys_0042
+127	Th-there's not even time for me to try to sense his presence!	VO_caida.caida_sys_0021
+128	This is a bit of a pickle. We need to think of something, quick!	VO_ortima.ortima_battle_0028
+129	There is nothing you can do! The next strike will be the end of you!	VO_sol.sol_sys_0010
+130	Seriously?! Can't you give me a little time to think?	VO_ortima.ortima_battle_0019
+131	Haha...hahahaha... I forgot to mention how I hate being alone. I'll have you all follow me to hell!	VO_sol.sol_chara_1005
+132	Y-you have to be kidding me!	VO_kanon_3s_cano.kanon_sys_0026
+133	He's... He's going to use all of his remaining power in this one moment!	VO_caida.caida_sys_0027
+134	You mean...self-destruct?!	VO_kagura_3s_kagu.kagura_sys_0026
+135	Kudan, can you still fight?	VO_yaurasu.yaurasu_sys_0017
+136	What?	VO_kudhanstein.kudhanstein_sys_0027
+137	If that man intends to self-destruct, then we have to take him out with one swift blow.	VO_yaurasu.yaurasu_sys_0016
+138	You and Kanon, the two with the most remarkable offensive capabilities, are the only ones we can trust with this task.
+139	I agree that this is the most pragmatic option. Do you think you're up for it, Kanon?	VO_caida.caida_sys_0004
+140	Of course! I can't just stand around and do nothing!	VO_kanon_3s_cano.kanon_sys_0004
+141	I guess that would be the only option. Can you do it, Captain Kudan?	VO_ortima.ortima_battle_0019
+142	...
+143	Kudan!	VO_kagura_3s_kagu.kagura_chara_1008
+144	All right, then! Let's go out with a bang!	VO_sol.sol_sys_0007
+145	Oh no! His energy is rising at an incredible rate!	VO_caida.caida_sys_1016
+146	I'll draw his attention! Seida, can you pinpoint the source of his dark wind?!	VO_yaurasu.yaurasu_sys_0017
+147	Yes... We'll have to aim for the core of his energy! Let's go, Kanon!
+148	Got it!	VO_kanon_3s_cano.kanon_sys_0004
+149	Wow, they make a great team! Well, I guess this leaves me with only one job left to do. Hey, Kagura?	VO_ortima.ortima_sys_0007
+150	I know what you're thinking! Kudan, we're counting on you!	VO_kagura_3s_kagu.kagura_sys_0005
+151	...
+152	Captain Vettel! What can we do?	VO_victor.victor_chara_1004
+153	Their teamwork is flawless. If we were to try anything, we'd just be getting in their way.	VO_vetel.vetel_chara_1007
+154	Tch! So we can only stand by and watch?!	VO_miuna.miuna_battle_0025
+155	Kanon, you've got this!	VO_chloe.chloe_battle_0019
+156	Hmph! No matter what you may be plotting, it is too late!	VO_sol.sol_sys_0010
+157	Isn't that right, Captain Yauras?	VO_sol.sol_sys_0001
+158	He figured out our plan?!	VO_chloe.chloe_battle_0022
+159	You just don't learn, do you?	VO_sol.sol_sys_0022
+160	What?! Where did she go?!	VO_sol.sol_sys_0025
+161	It would be wise to remember that there is not a single captain of the Holy Guard that does not know how to learn from their past experiences!	VO_yaurasu.yaurasu_sys_0016
+162	Immortal Rose!!!	VO_yaurasu.yaurasu_sys_0032
+163	Agh! Nngh! Y-you...	VO_sol.sol_battle_0022
+164	Seida!
+165	I see it! The source of his dark wind... The core of it is in his solar plexus!	VO_caida.caida_sys_1016
+166	You're all dead!	VO_sol.sol_battle_1017
+167	H-his energy... It's surging through him!	VO_caida.caida_sys_0027
+168	Everybody, get down!	VO_chloe.chloe_battle_0022
+169	Burn! All of you!	VO_sol.sol_sys_0032
+170	Whoa!
+171	What? Why did nothing happen?	VO_sol.sol_sys_0027
+172	H-hurry!	VO_kagura_3s_kagu.kagura_battle_0019
+173	What?!
+174	I-I can't hold it...for long!	VO_kagura_3s_kagu.kagura_battle_0022
+175	Redhead! Tch! Dang you for using your phoenix to suppress the blast! Again!	VO_sol.sol_sys_0013
+176	Heartbreaking Arrow!!!	VO_caida.caida_battle_0001
+177	Nngh?!	VO_sol.sol_battle_0022
+178	Got him! That one definitely pierced his core!	VO_caida.caida_battle_0016
+179	Urgh! Y-you lot think this...will kill me?!	VO_sol.sol_battle_0019
+180	Not yet, of course. Seida, thanks for getting the lightning rod where it needs to be!	VO_ortima.ortima_sys_0020
+181	What are you—?!
+182	I'm sorry to inform you, but we'll be draining off some more of your power... Ill Atmosphere!!!	VO_ortima.ortima_sys_0032
+183	Gh... Argh!	VO_sol.sol_sys_0043
+184	The turbulent wind within him stopped! It's frozen!	VO_caida.caida_battle_0016
+185	Kanon!
+186	...?!
+187	Thank you, everybody. I will not let this chance go to waste!	VO_kanon_3s_cano.kanon_battle_0018
+188	N-no!	VO_sol.sol_sys_0025
+189	Eternal Glow!!!	VO_kanon_3s_cano.kanon_sys_0032
+190	Agh!	VO_sol.sol_battle_0022
+191	We got him!	VO_basini.basini_sys_0046
+192	Wait! No, not yet!	VO_caida.caida_sys_1025
+193	Huh?
+194	Ug...ugff...! I-I am...	VO_sol.sol_sys_0019
+195	I am...the light. The sun...of Lost Blue... I... I cannot go down...like this!
+196	H-how?! His dark wind is billowing again?! Kanon! Hit him again!	VO_caida.caida_sys_0021
+197	...?!	VO_kanon_3s_cano.kanon_sys_0042
+198	I'll s-say it again. I am the sun...that will lead...this world into a...n-new era. It doesn't matter how many of you there may be!	VO_sol.sol_sys_0018
+199	I have no intention of parroting this lot's holier-than-thou ideals, let alone joining their little mob...	VO_kudhanstein.kudhanstein_sys_0031
+200	Wha—?!
+201	However, there is one thing I must say on their behalf.	VO_kudhanstein.kudhanstein_sys_0010
+202	Wh-wha...?	VO_sol.sol_sys_0025
+203	Don't you dare look down on us!
+204	Don't you dare look down on the justice of our continent!!!	VO_kudhanstein.kudhanstein_sys_0032
+205	Aghh!!!	VO_sol.sol_battle_0025

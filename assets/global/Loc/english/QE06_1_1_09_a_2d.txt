@@ -1,0 +1,140 @@
+﻿001	Did you get to eat your fill?	VO_celis.celis_sys_0007
+002	Yes, th-thank you so much.	VO_azami-b.azami-b_sys_0034
+003	Oh no, thank you for being alive.
+004	Well, if it wasn't for Amane here, I may not have been.
+005	No, but if I hadn't met you, Azami, I wouldn't even be here.	VO_amane-b.amane-b_sys_0037
+006	We wouldn't have been able to do it alone, but—	VO_azami-b.azami-b_sys_0018
+007	We weren't alone.	VO_amane-b.amane-b_sys_0005
+008	I see.	VO_celis.celis_sys_0021
+009	I thought I lost everything. Duty, Mother and Father...but I was wrong.
+010	I had Amane still.
+011	Azami...
+012	Your duty? Are you perhaps one of the Kagomurasaki?	VO_celis.celis_sys_0001
+013	I am. Everyone else was...	VO_azami-b.azami-b_sys_0004
+014	I understand.	VO_celis.celis_sys_0021
+015	Thank you for saving me! And Amane!	VO_azami-b.azami-b_sys_0034
+016	Wait, where are you going?	VO_amane-b.amane-b_sys_0025
+017	I'm going to hunt demons.
+018	I will avenge my parents and my clan. That's my responsibility as the sole survivor.	VO_azami-b.azami-b_sys_0029
+019	Azami...
+020	Do you have a minute? Here, let me hold you.	VO_celis.celis_sys_0001
+021	Wha—?! What are you doing?!	VO_azami-b.azami-b_sys_0025
+022	I'm proud of you.
+023	?!
+024	You've done so well, but for this one moment, just a little while, you don't have to do anything.
+025	I-I...!
+026	It's okay. You can cry if you want to. It's the human thing to do.	VO_celis.celis_sys_0004
+027	But...	VO_azami-b.azami-b_sys_0029
+028	Cry, cry, then cry some more. It's not too late to hold your head up high after exhausting your tears. You don't have to worry about a thing.
+029	But I—
+030	Where are you planning on going without me?	VO_amane-b.amane-b_sys_0001
+031	Huh?
+032	You said we'd be sisters, at least until we die.	VO_amane-b.amane-b_sys_0037
+033	Neither of us are dead yet, Azami.
+034	Waaah! Waaaaaaaaahhh!!!	VO_azami-b.azami-b_sys_0018
+035	That's right, Azami. You can let it out. You're not alone anymore.	VO_celis.celis_sys_0004
+036	Aaaaaaahhhhhhhhh! Waaaaaahh! Aaaaaahh!	VO_azami-b.azami-b_sys_0019
+037	...
+038	Are you not coming with us?	VO_celis.celis_sys_0003
+039	I have no reason to. I mean, I want to, but—	VO_amane-b.amane-b_sys_0031
+040	You're going through a hard time. Isn't that good enough of a reason to stick together?	VO_celis.celis_sys_0016
+041	But...	VO_amane-b.amane-b_sys_0025
+042	You're her little sister, aren't you?
+043	You're not planning on making me feel lonely again, are you?	VO_azami-b.azami-b_sys_0001
+044	I...
+045	Come here.	VO_celis.celis_sys_0007
+046	?!
+047	I know I'm not your mother, but I can still embrace you. See?
+048	I-I...!
+049	You're freezing. You did so well to endure.	VO_celis.celis_sys_0005
+050	...Uggh...	VO_amane-b.amane-b_sys_0018
+051	This calls for some hot soup! Let's go get ourselves warmed up.	VO_celis.celis_sys_0016
+052	Mm... Uuuhhhghhh...!
+053	Hey, don't start crying now. I just stopped and you're gonna get me to...to...	VO_azami-b.azami-b_sys_0018
+054	Uwaaaaahhh!
+055	Meal's ready! Now, put your hands together and say: thank you for the meal!	VO_celis.celis_sys_0007
+056	Thank you for the meal!
+057	It's so good! I love your cooking, Celis!	VO_azami-b.azami-b_sys_0023
+058	That makes me happy to hear. Amane, don't rush or you'll end up choking.	VO_celis.celis_sys_0008
+059	I'll be fine! I wanna get big and strong as soon as possible!	VO_amane-b.amane-b_sys_0007
+060	Oh? Why is that?	VO_celis.celis_sys_0025
+061	I wanna get big and vanquish demons! So I gotta eat a lot!	VO_amane-b.amane-b_sys_0004
+062	Eating too much isn't gonna help, especially if you swallow your food whole. Can't you eat properly?	VO_azami-b.azami-b_sys_0012
+063	It won't be long before you can't boss me around anymore! I'm gonna eat a lot, get big and strong, and surpass you in every way!	VO_amane-b.amane-b_sys_0010
+064	I'd like to see you try!	VO_azami-b.azami-b_sys_0007
+065	Oh, just you wait! Celis! I want seconds!	VO_amane-b.amane-b_sys_0017
+066	Hehe.	VO_celis.celis_sys_0007
+067	What?
+068	I'm sorry. It's just that you two seem to be doing so much better now.
+069	Neither of you are the same kids I met on that rainy day back then.	VO_celis.celis_sys_0016
+070	It's all thanks to you, Celis!
+071	Hehe, I'm glad you think so. I just wish days like these could last forever.	VO_celis.celis_sys_0007
+072	Oh, how I wish...
+073	Haven't thought of that day in a while.	VO_amane.amane_sys_0007
+074	And that selfish little request still holds.	VO_azami.azami_sys_0004
+075	Well, we are alive. But...	VO_amane.amane_sys_0004
+076	But?
+077	Well, there's something I've been wondering about since that day.
+078	What is it?
+079	Am I not more of a big sister than you, Azami?	VO_amane.amane_sys_0031
+080	You can't be serious!	VO_azami.azami_sys_0025
+081	I'm just saying, the way I was that day was a bit more big-sister-ish!	VO_amane.amane_sys_0025
+082	I'm clearly older than you, which makes me the older sister!	VO_azami.azami_sys_0001
+083	I'm not talking about age here!	VO_amane.amane_sys_0016
+084	I'm stronger than you, and besides—
+085	H-hey! What are you staring at me like that for?!	VO_amane.amane_sys_0027
+086	You haven't grown an inch! I told you eating too much wouldn't help.	VO_azami.azami_sys_0007
+087	Hey, my body is not the only measure of my development! I'll soon be—
+088	Well, as of now, I'm more mature than you are.	VO_azami.azami_sys_0010
+089	Why, you—
+090	What, do you wanna—
+091	Pffft!	VO_azami.azami_sys_0007
+092	Nckk!	VO_amane.amane_sys_0007
+093	Ahahahahahahahahaha!!!
+094	Wow, I can't believe how long it's been. Long enough for us to gain a new every day for ourselves, at least.	VO_azami.azami_sys_0001
+095	And now it's finally time for us to make good on the oath we made back then. We will eradicate the demons.	VO_amane.amane_sys_0004
+096	I will fight to avenge my clan.	VO_azami.azami_sys_0005
+097	What about you, Amane?
+098	I...	VO_amane.amane_sys_0037
+099	"Demons must be eradicated."
+100	I will take out demons as I see fit. That's it.
+101	That's a very ambiguous response. You know, I've been wondering... How was it that you were able to stand against the Discarnate Power that day?	VO_azami.azami_sys_0030
+102	?!	VO_azami.azami_sys_0025
+103	What's the matter, Azami?
+104	Somebody's watching us.	VO_azami.azami_sys_0027
+105	What?	VO_amane.amane_chara_1006
+106	Who's there?! Show yourself!
+107	Uh oh, you found me out. I thought I was being sneaky enough.	VO_celis.celis_sys_0011
+108	Celis!	VO_amane.amane_favorite_0006
+109	I didn't see Azami at the banquet, so I figured she'd be here.	VO_celis.celis_sys_0016
+110	Isn't this the sweetest display of sisterly love! You're gonna make me cry!	VO_celis.celis_sys_0007
+111	Wh-whatever! I'm going.	VO_azami.azami_sys_0025
+112	Oh, don't be like that. It's been a while since we three got together.	VO_celis.celis_sys_0001
+113	The banquet's over, so we should get back to thinking about the mission!	VO_azami.azami_sys_0010
+114	I'm not made of free time, you know!
+115	Aww, are you feeling sensitive? Is it hard being a baby?	VO_celis.celis_sys_0016
+116	Celis! Please!
+117	The look in her eyes just never changes... But there are other things that have.
+118	Like what?	VO_amane.amane_chara_1006
+119	The eyes house your soul, and your soul resides in the humdrum of the everyday.	VO_celis.celis_sys_0004
+120	Those who can't appreciate the value of their everyday life can't protect their everyday life. Still, if the surrounding environment were to change...
+121	Your soul and daily life would change along with it.
+122	What do you mean?	VO_amane.amane_sys_0031
+123	Now that all three of us are members of the Blade Fox, we can't expect things to be exactly like before.	VO_celis.celis_sys_0016
+124	I understand that, but...I still want to spend my every day with you two, no matter what it looks like.	VO_amane.amane_sys_0037
+125	It is for that reason I wield a blade. I want peace for Wadatsumi. I want people to be able to live happily and...
+126	I want them to feel safe, to be able to surround a table for dinner with their whole family. Though I'm not exactly sure how I can accomplish this...	VO_amane.amane_sys_0031
+127	I want the same thing as you do, Amane. I hope we can find the means to accomplish them.	VO_celis.celis_sys_0004
+128	Yeah...	VO_amane.amane_sys_0037
+129	All right then, guess I should focus on the mission like Azami said.
+130	What?
+131	Tanosuke will give you the details.	VO_celis.celis_sys_0001
+132	Yo, how's it going? Try to listen to what I have to say this time, okay?	VO_tanosuke.tanosuke_sys_0007
+133	This is going to be your first mission as a member of the Blade Fox, after all.
+134	A mission... My first mission!	VO_amane.amane_sys_0011
+135	Hey, hey... You trembling already?	VO_tanosuke.tanosuke_sys_0016
+136	It's just adrenaline, that's all!	VO_amane.amane_sys_0016
+137	You're not going to be alone on this mission, so you can loosen up a bit. Hm?	VO_tanosuke.tanosuke_sys_0001
+138	I didn't expect to see demons here. I've got a bad feeling about this.	VO_tanosuke.tanosuke_sys_0031
+139	Anyway, let's take care of them first. Now, stay calm and collected when dealing with them.
+140	Leave them to me!	VO_amane.amane_sys_0004

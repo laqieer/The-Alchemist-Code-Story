@@ -1,0 +1,170 @@
+﻿001	Oh, lucky! It seems like magil is only inhibited within that facility.
+002	We should be able to use Space-Time Manipulation now. We'll be able to fight, too.	VO_nix.nix_sys_0005
+003	It seems likely that was some kind of containment facility.
+004	My Spiritbonding also seems to be available to me now. However, we ought to prepare countermeasures in case we find ourselves in such circumstances again.
+005	Sure, but we have more pressing issues to be concerned with at the moment.
+006	Namely, whether or not there is a hidden entrance here after all, or if it's really just a wall.	VO_nimuru.nimuru_sys_0002
+007	Ouch. Where's the faith? Sure, it looks like a wall, but check this out... It moves. See?	VO_minario.minario_sys_0004
+008	Is this...?	VO_nimuru.nimuru_sys_0006
+009	It's real dark in here. Watch your footing.	VO_minario.minario_sys_0001
+010	This can't be...	VO_kuienai.kuienai_sys_0025
+011	These are the same mechanisms as those inside the clocktower...? Minario, how can this be?
+012	...This is one of the elements that allows Redington to stay airborne, yes.	VO_minario.minario_sys_0005
+013	However, unlike the clocktower's propulsion unit, this is more of a failsafe mechanism...
+014	But I've used it as my own personal hideout ever since I was a kid.	VO_minario.minario_sys_0011
+015	I used to come here whenever things didn't go my way.
+016	So what you're saying is that it's safe?	VO_adlai.adlai_sys_0002
+017	Yeah, it should be. Even my father doesn't know I have a history of sneaking into this place.	VO_minario.minario_sys_0004
+018	That you brought us here means you believe that the mayor really...	VO_nimuru.nimuru_sys_0031
+019	Yeah... He's almost certainly in league with Icona.	VO_minario.minario_sys_0005
+020	I'll bet they're holed up in the clocktower right now, plotting how to handle the Cursed Beast.	VO_minario.minario_sys_0016
+021	Now that they've gone and made us awaken it...	VO_waginao-c.waginao-c_sys_0012
+022	Speaking of, what's going on with Belphegor?	VO_nix.nix_sys_0001
+023	Exactly! If it goes on a rampage, there'll be chaos!
+024	The answer to that lies in this footage.	VO_minario.minario_sys_0002
+025	Is this...image being projected through to us...? But what exactly...?	VO_waginao-c.waginao-c_sys_0006
+026	Isn't that...?!	VO_nimuru.nimuru_sys_0025
+027	Is that Belphegor seated atop a vein?!	VO_adlai.adlai_sys_0025
+028	It certainly looks that way. This is the last of what I was able to get my hands on using the connections I have as a Special Detective.	VO_minario.minario_sys_0005
+029	Everyone in the vicinity was swallowed up by the corruption. There were no survivors.	VO_minario.minario_sys_0013
+030	How awful...	VO_mela.mela_sys_0021
+031	This... Icona did this...	VO_adlai.adlai_battle_0019
+032	And yet the mayor thinks they can control this somehow?	VO_kuienai.kuienai_sys_0031
+033	If so, then it's a false dream. The sheer volume of all this sinful magil... Even that of the Luxuria Belt Region doesn't compare.	VO_waginao-c.waginao-c_battle_0019
+034	How could anyone without the gift of Spiritbonding or Anti-Curse protection even get close?
+035	No... If we go by the mayor's announcement, they may not need to get close.	VO_minario.minario_sys_0039
+036	How could that be possible? Do they have some way to handle that Cursed Beast without coming into contact with it?	VO_nimuru.nimuru_sys_0016
+037	At the very least, they seem to think they do. Of course, the official announcement was a little light on the details...
+038	So what you're saying is that we'd have to confront them directly if we want to know more, huh?	VO_nimuru.nimuru_battle_0022
+039	I should have known you'd be ready and raring to go.	VO_minario.minario_sys_0001
+040	They have Emmel... They have one of ours in their clutches.
+041	Icona was keenly interested in Emmel. It seems most likely that she is being held captive in the research facility within the clocktower.	VO_waginao-c.waginao-c_sys_0004
+042	While we're at it, we can get our airship back, too.	VO_mela.mela_sys_0004
+043	Don't forget they've still got their greedy hands on our Libra!
+044	We're gonna get it back!	VO_mela.mela_sys_0001
+045	We'll have to if we want to take on a Cursed Beast, after all.
+046	It's settled, then.
+047	What are you up to, old dog?	VO_adlai.adlai_sys_0002
+048	Don't you "old dog" me...	VO_kuienai.kuienai_sys_0030
+049	As it happens, we've got all the furnishings to cobble together a few weapons right here, so I'm working on that.
+050	Is that so? Then might I put in a request?	VO_waginao-c.waginao-c_sys_0001
+051	As long as you don't mind that I can't imbue them with magic like the Dragonslayer.	VO_kuienai.kuienai_sys_0037
+052	Whatever you can make will suffice.	VO_waginao-c.waginao-c_sys_0004
+053	Don't you need to do some preparing of your own, Adaleigh?	VO_kuienai.kuienai_sys_0001
+054	Oh, uh, yep! Right you are!	VO_adlai.adlai_sys_0004
+055	Hey, Nimul, I'm going to need a little time. Say, three hours? Can you give me that long?
+056	Sure. In the meanwhile, I'll be putting together an infiltration strategy.	VO_nimuru.nimuru_sys_0004
+057	Minario, could you lend me some of your knowledge about the clocktower?	VO_nimuru.nimuru_sys_0002
+058	You bet I can! I know a lot about this tower, whether it be its security protocols or a certain bigwig's hidden escape route.	VO_minario.minario_sys_0004
+059	If you think that sort of tidbit could come in handy, there's plenty more where that came from.	VO_minario.minario_sys_0007
+060	Hmmm... Just like I thought, a frontal assault would be pretty tough...	VO_nimuru.nimuru_sys_0022
+061	This is the heart of this region, after all. For all of us to go charging in headfirst would be quite the challenge.	VO_minario.minario_sys_0031
+062	Which is why we'll have to go covertly.	VO_minario.minario_sys_0002
+063	Hm... Resources from across the region are currently being delivered to the clocktower to aid in the effort to control the Cursed Beast.
+064	There's an idea. If we conceal ourselves among the deliveries and sneak in that way...	VO_nimuru.nimuru_sys_0045
+065	Do you think you could arrange for that?
+066	As long as Icona is our enemy, they'll know I'm helping you...	VO_minario.minario_sys_0005
+067	But we'll make it work. I have a trump card for crossing that dangerous bridge when it's time.
+068	I'm all done!	VO_adlai.adlai_sys_0006
+069	This is the best I can throw together in a pinch. It'll have to do.	VO_kuienai.kuienai_sys_0031
+070	Great, then we're all set. Let's go get Emmel back!	VO_nimuru.nimuru_battle_0015
+071	Right. Leave this part to me. Don't you dare poke your noses out from that cargo, you got it?	VO_minario.minario_sys_0001
+072	We're counting on you!	VO_nimuru.nimuru_sys_0004
+073	Emergency protocols are in effect. Your cooperation is expected. Please present your courier ID for verification.
+074	Will this do?
+075	...
+076	ID verified. You are cleared for delivery. Please proceed.
+077	Whew... I'm sweating buckets right now.	VO_minario.minario_sys_0017
+078	Gah! It's so cramped! Can't we do something about this crush?	VO_adlai.adlai_sys_0016
+079	You should be grateful there's anywhere to hide at all. Getting an ID for approval of cargo any larger than this would be a nightmare.	VO_minario.minario_sys_0011
+080	At least it got us in.
+081	Right? That was almost too easy!	VO_mela.mela_sys_0007
+082	Indeed. Getting here was far easier than I expected. Is this really the right place?	VO_nix.nix_sys_0005
+083	It ought to be... But like you say, security does seem a little light.	VO_minario.minario_sys_0004
+084	The mayor must have learned of our escape by now... Perhaps we should consider whether this a trap.	VO_kuienai.kuienai_sys_0031
+085	Even if it is, what else can we do if we want to save Emmel and put an end to Icona's plans?
+086	Minario and I will take the lead from here. Stay close, everyone.
+087	...
+088	...
+089	What's the problem? Why did you stop? You're not lost, are you?	VO_mela.mela_sys_0006
+090	Minario, could this be...?	VO_adlai.adlai_sys_0002
+091	Mhmm. That clamor is unmistakable.	VO_minario.minario_sys_0005
+092	The clocktower's interior is shifting around.
+093	This clocktower can change its internal structure? That seems like a lot of effort just to ward off an intruder or two, though.	VO_kuienai.kuienai_sys_0025
+094	No, that can't be right! This tower doesn't have a security protocol like that!
+095	If I were to take a guess... I'd say that this is happening because the clocktower is moving to separate itself from Redington.
+096	Separate...? But isn't this tower what keeps the whole city afloat?	VO_nimuru.nimuru_sys_0006
+097	If it disengages from the city, won't the city go crashing down?	VO_nimuru.nimuru_sys_0002
+098	No, I already told you, didn't I? There are sub-mechanisms all over the city to generate propulsion in the event that the main source is cut off.	VO_minario.minario_sys_0039
+099	That will be enough to sustain floatation a short time.
+100	But what's the point?	VO_nix.nix_sys_0006
+101	I'd like to know that my—	VO_adlai.adlai_sys_0016
+102	The point is to generate enough power to capture a Cursed Beast, of course.	VO_icona.icona_sys_0007
+103	Icona?!
+104	Hi there, Adaleigh! I've been waiting for you.	VO_icona.icona_sys_0002
+105	What have you done with Emmel?	VO_nimuru.nimuru_sys_0001
+106	Oh, do calm down, won't you? We went out of our way to give you a warm welcome. The least you could do is show a little gratitude.	VO_icona.icona_sys_0025
+107	You set us up to cause the Cursed Beast's awakening! How dare you!	VO_waginao-c.waginao-c_battle_0019
+108	My, oh my. Sorry about that. But you lot are hardly innocent in all this.	VO_icona.icona_sys_0030
+109	Who do you think you are, trying to quell calamities the likes of which you do not comprehend with brute force?
+110	Even if it were possible, the pros and cons don't really add up, now do they?	VO_icona.icona_sys_0001
+111	The Cursed Beasts plunge our people into sin, call down calamities upon our lands, and threaten our very existence!	VO_nimuru.nimuru_sys_0014
+112	How can you condemn us for fighting back?
+113	It wouldn't be the first time humanity clashed with the ecology of other forms of life. We see it happen between humans and animals all the time.	VO_icona.icona_sys_0005
+114	Don't you think it's a bit extreme to resort to eradication as the first means of retaliation?
+115	Shouldn't coexistence be the priority? If that fails, then separation of habitats. Eradication should only ever be the very last resort.	VO_icona.icona_sys_0031
+116	If we resort to immediately killing off everything that gets in our way, what would become of the world? Surely you have some idea.
+117	So that's your rationale for preserving and using the Cursed Beasts?
+118	What greater outcome could there be than if we were to succeed? Better to leave our options open, no?	VO_icona.icona_sys_0008
+119	The future is never certain. In order to forge on ahead, we must have a deep understanding of what we need and don't need.
+120	However, how could humanity ever know which is which? What gives us the right to choose? In the absence of knowing, we must hold on to every option available to us.
+121	Do you not see that the Cursed Beasts could be something we might need to forge on with our future?
+122	Need the Cursed Beasts? For our future...?	VO_nimuru.nimuru_sys_0012
+123	By the looks of it, the thought hadn't occurred to you at all.	VO_icona.icona_sys_0027
+124	So...you're saying that the pain and suffering of those who live in this region means nothing at all if you can harness the Cursed Beasts for your vision of the future?	VO_adlai.adlai_sys_0018
+125	This region is merely a testing ground. If the experiment fails, it will be tragic, to be sure...but thankfully, there are six other regions to move on to.	VO_icona.icona_sys_0008
+126	You fiend! Do you realize exactly what it is that you are saying?!	VO_waginao-c.waginao-c_sys_0012
+127	Oh, yes, but never fear. I have laid out plans for the survivors in the worst case scenario, as it were.	VO_icona.icona_sys_0005
+128	Should the experiment fail, then the people of this region need simply to toddle along to another region that will have them.	VO_icona.icona_sys_0031
+129	And my father agreed to all this?	VO_minario.minario_sys_0002
+130	How expressive your face is, Minario... Indeed, your own father—	VO_icona.icona_sys_0007
+131	I believe that's my cue.
+132	Father!	VO_minario.minario_sys_0025
+133	Distance makes the heart grow fonder, my son. Yet I have no right to address you so any longer.
+134	I thought you wanted to make this region thrive!	VO_minario.minario_sys_0001
+135	Wasn't that why you imposed such an ambitious drive for production on the surface folk, forcing them to push through all of the hardship?!
+136	Is this what they strived so hard for?!	VO_minario.minario_sys_0013
+137	One thousand, three hundred, and eighty five.
+138	What's...that?	VO_minario.minario_sys_0012
+139	That's the estimated number of years required for all of the research projects we are undertaking to come to fruition.
+140	Resources are limited. Even the stones of the gods that we mine from the veins will eventually be exhausted.
+141	Even putting that aside, the Cursed Beast's recent activity is paring down the number of miners so drastically that the productivity of this region will collapse sooner rather than later.
+142	At this rate, one way or another, our research will falter in the near future.
+143	We may as well try to use the Cursed Beast's magil as a resource in the meantime.	VO_kuienai.kuienai_sys_0025
+144	Yes... A mechanism that converts the endless font of human sin into magil... If we could get our hands on that, our energy troubles would be a thing of the past!
+145	If we obtain Belphegor, there will be no limit to what we can achieve!
+146	On top of that, the surface dwellers would be free of dreary, backbreaking work of mining.
+147	The promised land awaits! We of Sloth will welcome a new age of indolence!
+148	Don't you see how impossible that is?! You're pinning all of your hopes on capturing and controlling a Cursed Beast! That's just not—!	VO_minario.minario_sys_0015
+149	I'm well aware that it's a long shot. Nevertheless, as mayor of Redington, I have deemed it worth the attempt.
+150	I do not seek your approval. The way of Sloth is to revere our research above all else.
+151	You...! You've lost your damn mind! Father, please!	VO_minario.minario_sys_0013
+152	That's more than enough pleasantries, wouldn't you say? Do forgive me, but we'll be taking our leave now.	VO_icona.icona_sys_0002
+153	Hey! Icona!	VO_adlai.adlai_sys_0025
+154	Unfortunately, I have a lot on my plate right now, but rest assured that our little welcome party is far from over.	VO_icona.icona_sys_0030
+155	If you're interested in learning the results of our little experiment, all you need do is ascend the clocktower.	VO_icona.icona_sys_0031
+156	I have VIP seats reserved just for you!	VO_icona.icona_sys_0007
+157	Wait!	VO_nimuru.nimuru_sys_0014
+158	Nngh... There's just too many. There's no end to them!	VO_nimuru.nimuru_battle_0022
+159	Nimul, Adaleigh... Go on ahead. We'll stay here and slow them down.	VO_waginao-c.waginao-c_sys_0001
+160	Aww, we're really doing this, then?	VO_mela.mela_sys_0039
+161	You'll just have to accept it, Mira. Only a few of us can fight at our full capacity right now.	VO_nix.nix_sys_0005
+162	Aww, but if only we had access to magil, then... It's just not fair!	VO_mela.mela_sys_0030
+163	This is just how it is. Get going, you two!	VO_kuienai.kuienai_sys_0004
+164	Oh, right! Off we go!	VO_adlai.adlai_sys_0033
+165	Thank you! Minario, you'll have to lead the way for us!	VO_nimuru.nimuru_sys_0035
+166	Got it! I've got one hell of a reason to sock my father one now, too!	VO_minario.minario_sys_0005
+167	Are they clear...? Very well, then...	VO_waginao-c.waginao-c_battle_1018
+168	I shall put this blade to the test, here and now!
+169	Do keep in mind what a rush job it was, won't you? If you're not careful with it, it might snap like a twig.	VO_kuienai.kuienai_sys_0002
+170	Then it shall be the wielder's skill that determines its effectiveness... Duly noted. Luckily, that's just how I like it!	VO_waginao-c.waginao-c_sys_0007

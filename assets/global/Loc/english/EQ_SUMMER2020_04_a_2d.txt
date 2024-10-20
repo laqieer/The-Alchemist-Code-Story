@@ -1,0 +1,70 @@
+﻿001	Those Alkaroids also headed for the beach, it seems. The other Alkaroids probably have the same goal.	VO_albell.albell_sys_0002
+002	Someone is commanding them to do this. But why?	VO_albell.albell_sys_0031
+003	...
+004	There's no point in scratching our heads and thinking about this here! We must act first!	VO_mela.mela_sys_0001
+005	Yeah...	VO_albell.albell_sys_0004
+006	Noah? What are you doing?	VO_albell.albell_sys_0005
+007	Darn. These Alkaroids don't have Albea's comb either...	VO_noah.noah_sys_0022
+008	You were concerned about it for me?	VO_albell.albell_sys_0001
+009	That comb is special to you, right? Then we have to get it back.	VO_noah.noah_sys_0003
+010	That's not true. It's a regular comb you could buy anywhere.
+011	That may be true, but what's important about it is how you feel about it.	VO_noah.noah_sys_0031
+012	Like the silver spoon I always have.
+013	Your silver spoon? What is that?	VO_mela.mela_sys_0006
+014	Oh, I don't have it now. Emma is carrying it for me.	VO_noah.noah_sys_0011
+015	Polishing a silver spoon calms me down. So whenever I get annoyed, Emma always casually hands it to me.
+016	Then Pamela made it cuter by putting some decorations on it.
+017	It was just a regular item you can buy at any store, but now it's a special item filled with our memories together.	VO_noah.noah_sys_0007
+018	...
+019	That's why even if it's nothing special to someone else, it's something precious to you.	VO_noah.noah_sys_0002
+020	I see. You all really are close! The two of them should've been on this team with you.	VO_mela.mela_sys_0045
+021	Yeah, but... I've been feeling a bit spoiled by them.
+022	In the back of my head I would always think that even if I get mad, Emma will be there. That's not good!	VO_noah.noah_sys_0031
+023	That's why this time I wanted to be on another team where I can't lean on the two of them. I want to become a more pulled together me for them!
+024	Wonderful... That's wonderful of you, Noah!	VO_suzuka.suzuka_sys_0044
+025	N-no, it's not. I mean, it's not going well, after all.	VO_noah.noah_sys_0025
+026	I still get mad quickly and then you come in and help me. It's not going as I hoped.	VO_noah.noah_sys_0030
+027	That's why I'm not wonderful or anything at all.
+028	No, you are wonderful. Taking that first step is important.
+029	Besides, there was a time when I too trained hard to become strong enough to protect another.	VO_suzuka.suzuka_sys_0031
+030	You too, Suzuka?	VO_noah.noah_sys_0003
+031	If you keep that person's face in mind as you train, you'll put more into your training than you would have by just training by yourself.	VO_suzuka.suzuka_sys_0007
+032	I believe that when you intentionally try to become stronger for someone, that is when you will grow.
+033	So if you strongly wish to grow for your friends, I'm sure that you will.	VO_suzuka.suzuka_sys_0002
+034	Suzuka!
+035	For someone else, huh?
+036	(I became a mechanic because I like machines.)	VO_albell.albell_sys_0031
+037	(I took up my father's mantle and became repair shop Magbea's proprietor.)
+038	(I decided that I had to keep a place for my brother to return to.)
+039	(I've done nothing but chase after my brother. It's all for my brother...)	VO_albell.albell_sys_0030
+069	Albea, something came for you too.	VO_porin.porin_sys_0008
+070	Huh?	VO_albell.albell_sys_0025
+040	Oh...
+041	Wow! A single rose and a beautiful comb! That's so cool! Well done!	VO_eve.eve_sys_0009
+042	(A comb... How...did...? Only my mother should've known that I used...a white buffalo comb...)	VO_albell.albell_sys_0021
+043	Could it have been...my brother?
+044	...
+045	Hey, Albea. It's just like Noah said, isn't it? That comb is very important to you?	VO_mela.mela_sys_0001
+046	It really is. It's a comb that you can buy anywhere, but my brother gave it to me.	VO_albell.albell_sys_0004
+047	...
+048	What's the matter?	VO_albell.albell_sys_0005
+049	So it is super important! Why didn't you say so earlier?!	VO_mela.mela_sys_0012
+050	I had no idea it was that precious! I would have looked harder if I knew that!	VO_suzuka.suzuka_sys_0036
+051	Right?! We have to find something that important! Does it have any special characteristics?!
+052	Umm... In dark places like this cave...if it gets hit with light, it'll give off a white glow.	VO_albell.albell_sys_0031
+053	I see... In that case, it'll be easier to find if it's in here.
+054	Yes, but the octopuses are carrying things out of the cave right now.	VO_suzuka.suzuka_sys_0004
+055	Albea's comb might be mixed in with all the garbage outside. Let's search there later.	VO_suzuka.suzuka_sys_0001
+056	Yeah... Let's deal with the Alkaroid problem and then take our time searching for it.	VO_albell.albell_sys_0037
+057	It glows white, huh? ...Hm?
+058	The octopuses are gathering... That looks gross...	VO_mela.mela_sys_0029
+059	There! Look!	VO_noah.noah_sys_0002
+060	Are those...pirates? Why are they here? And why are the Alkaroids...	VO_albell.albell_sys_0005
+061	Weird... They're not collecting materials at all. I thought that if I left it to Slothstein's machines, they'd gather it quickly.	VO_thiefm.thiefm_sys_0031
+062	When we picked them from the wreck, I was sure we'd scored something great. But the things they're picking up are terrible.	VO_thiefm.thiefm_sys_0030
+063	It actually feels like we're losing more than we gain.
+064	Well, we'll have them search the beach a little longer.	VO_thiefm.thiefm_sys_0002
+065	So they're the ones sending the Alkaroids to the beach!	VO_noah.noah_battle_0019
+066	Grrahck!	VO_aj2000.aj2000_battle_0021
+067	Hm? They're acting a little weird... Hey, oi! What are you doing?!	VO_thiefm.thiefm_sys_0006
+068	Heads up!	VO_suzuka.suzuka_battle_0019

@@ -1,0 +1,114 @@
+﻿001	...
+002	So that's what happened... I'm so sorry. If only we'd noticed sooner, then we could've aided you in battle.	VO_hymnus.hymnus_battle_0022
+003	Don't worry. The reinforcements you sent our way were already plenty of help.
+004	It's unfortunate that it's become extremely difficult to travel in large numbers.	VO_nimuru.nimuru_sys_0030
+005	That man, Quence, possesses Space-Time Manipulation powers that can cover a large area.	VO_kuienai.kuienai_sys_0004
+006	Leading a large troop of men would be like leading lambs to the slaughter. He'd just have to make the air grow heavy again and it'd be over.	VO_kuienai.kuienai_sys_0031
+107	I see...	VO_hymnus.hymnus_sys_0045
+108	But the shield regimen—
+109	I'll take them under my command. Daphne, you should travel with Nimul and the others. I'll leave their protection to you.	VO_hymnus.hymnus_sys_0039
+110	With the Silver Shield's divine protection, there is none more capable than you, even alone.
+111	Yes, sir!	VO_dafne.dafne_sys_0004
+007	Yeah, but that guy is a huge cheat! Why does he get to use all the magil he wants?!	VO_mela.mela_sys_0016
+008	He said he controls the Cursed Beast, so I assume that must be it.	VO_nix.nix_sys_0005
+009	Space-Time Manipulation requires you to manipulate the magil in the atmosphere to be effective.
+010	So if we were to control that Cursed Beast—
+011	Don't be ridiculous! Sure, in theory that'd be possible, but seriously? Do you think we could actually do that?	VO_adlai.adlai_sys_0031
+012	Even Icona struggled with that.
+013	But somehow that man achieved it. We must not forget that.	VO_nimuru.nimuru_sys_0031
+014	But we can't deploy the army... This is tricky.	VO_hymnus.hymnus_sys_0030
+015	The Ira Belt army has surely been told of our approach. They'll be wary.
+016	Traveling in small numbers brings its own risks. It'll be over if the enemy manages to surround you.	VO_hymnus.hymnus_sys_0042
+017	...I may know a good path to take.	VO_andechs.andechs_sys_0001
+018	It's the road I took when I slipped out of the Ira Belt.
+019	It's a very narrow pass, so we can't move a lot of folk through it at once, but if you want to move stealthily it is easily our best option.
+020	Andechs! You shouldn't be up yet!	VO_emmer.emmer_sys_0006
+021	I'm afraid there's no time for me to slumber while the Ira Belt is in danger...
+022	Quence told us himself, didn't he? This place will soon perish.
+023	...It's true. Looking at it objectively, the Ira Belt's days may soon be numbered.	VO_nimuru.nimuru_sys_0005
+024	That's why we have to hurry— Ngh—	VO_andechs.andechs_battle_0019
+025	A-are you okay? Can you still move?
+026	Heh, I'm your everyday righteous knight! Getting cut to pieces is all in a day's work... Hahaha...	VO_andechs.andechs_sys_0005
+027	That's no laughing matter...
+028	But we have no choice but to rely on him for now. None of us know this region like he does.	VO_nimuru.nimuru_sys_0004
+029	What about that child from before? Sulva, right?	VO_mela.mela_sys_0001
+030	We took him back with us before he could slip away, but I don't think we can ask him.
+031	He seems so absent-minded and confused. It's as if he can't get his mind in order.
+032	Let's wait a little longer so that Andechs can recover instead. We can decide what to do then.	VO_nimuru.nimuru_sys_0002
+033	We can go now, I'm fi—
+034	No, you're not.	VO_emmer.emmer_sys_0014
+035	Ouch, ouch, ouch! You're surprisingly strong for a little lady!	VO_andechs.andechs_sys_0043
+036	We depart for the capital tonight. We'll want to move under the cover of darkness as much as possible.	VO_nimuru.nimuru_sys_0001
+037	Let's get Libra back!	VO_mela.mela_sys_0007
+038	Yeah, we're going to have a hard time with the Cursed Beast if we don't retrieve Libra first.	VO_nix.nix_sys_0004
+039	Isn't it kinda weird, though?
+040	What's weird?	VO_nix.nix_sys_0006
+041	We've got other Gears of Judgement, so why did he want Libra out of all of them?	VO_adlai.adlai_sys_0004
+042	Well, the guy also uses Space-Time Manipulation, right? So maybe Libra would the easiest for him to use?	VO_mela.mela_sys_0006
+043	Do you really think that's all there's to it?
+044	I...
+045	Here we go! I'm back on my feet!
+046	Your wounds haven't closed yet, so don't overdo it.	VO_emmer.emmer_sys_0030
+047	Yeah, yeah, I gotcha.	VO_andechs.andechs_sys_0004
+048	So, about that path?
+049	Right. We'll need to head east from here, until we hit this place where there used to be a large river.	VO_andechs.andechs_sys_0005
+050	The heat has long evaporated all of the water, but that means there is now a narrow and covert path surrounded by large boulders in its place.
+051	It will lead us straight into the capital.
+052	I used the same path when I slipped out of this country.
+053	Are you sure about this? We won't get caught?	VO_mela.mela_sys_0001
+054	I can't make any promises, but I'd say it beats traveling over land and getting surrounded by the enemy.	VO_andechs.andechs_sys_0031
+055	Got it. Let's use the path you spoke of. Is everybody ready?	VO_nimuru.nimuru_sys_0005
+056	We will continue to explore the surroundings. If the chance arises, we'll distract the enemy troops.	VO_hymnus.hymnus_sys_0001
+057	...I know it's not much, but I figure it's still better than nothing.
+058	No, I appreciate that and I'm sure it will be helpful. Just be careful.	VO_nimuru.nimuru_sys_0034
+059	Of course.	VO_hymnus.hymnus_sys_0004
+060	Nicaea is taking care of things back at the border camp. We won't have to worry about attacks from behind.
+061	That is most reassuring.	VO_nimuru.nimuru_sys_0007
+062	Let's go then. Everyone, after me!	VO_nimuru.nimuru_battle_0015
+063	Hey. Sulva, right? I brought you a little midnight snack.	VO_nicaia.nicaia_sys_0001
+064	Huh?	VO_nicaia.nicaia_sys_0005
+065	Where did that child run off to?
+066	My brother failed to invade the Invidia Belt.
+067	And now the Invidia Belt has come to attack us instead. I see.
+068	Then this is all going according to that serpent's plan.
+069	That man is dangerous.
+070	He's definitely just using you, my queen.
+071	Hm, he likely is. But I fear I have no other options.
+072	We were simply left with no other hope after my brother fell to the corruption.
+073	Hope...
+074	What is hope anyway? My queen, what do you expect me to do?
+075	What am I supposed to do here? What am I...
+076	Is this the place?	VO_nimuru.nimuru_sys_0001
+077	Yep. The Nameless Valley. We just have to walk upriver and we'll stealthily slip into the capital in no time.	VO_andechs.andechs_sys_0005
+078	You can tell where the water wore away the riverbed... But it really is all dried up now.	VO_adlai.adlai_sys_0044
+079	This river dried up just before I had to make my escape.	VO_andechs.andechs_sys_0016
+080	Satna's awakening has twisted the earth and warped the flow of nature...
+081	Look at how much this place has been twisted and destroyed. Even if we defeat the Cursed Beast now, how much will be left?
+082	...Perhaps we're wrong...and it's already too late.	VO_andechs.andechs_battle_0019
+083	Save the pessimism for when it's over, Andechs.	VO_nimuru.nimuru_sys_0002
+084	The Invidia Belt started to change for the better after the Leviathan was slain.
+085	I'm sure the Ira Belt will experience the same thing.
+086	Of course, you're right... Sorry, this gloomy place got to me for a moment there.	VO_andechs.andechs_sys_0036
+087	The path gets a little complicated here, so make sure nobody gets separated—
+088	Tsk. So it's started this already.
+089	What did?	VO_adlai.adlai_sys_0005
+090	Over there! Mt. Shinai is erupting again!	VO_nimuru.nimuru_battle_0019
+091	We have to hurry!
+092	Hurry?	VO_mela.mela_sys_0006
+093	Andechs, what's the sudden rush?	VO_nimuru.nimuru_sys_0001
+094	Nimul, wait! The magil in this area just flared up in a very strange way!	VO_eularea.eularea_sys_0029
+095	That's...the corruption!
+096	Dammit! We're too late!	VO_andechs.andechs_battle_0019
+097	I remember this—	VO_nimuru.nimuru_battle_0022
+098	This is just like when the Gula Belt was enveloped in Beelzebub's corruption...
+099	It's started...	VO_andechs.andechs_sys_0018
+100	A sign that the night of fire rain is coming.
+112	The night of fire...what?
+113	The name of the catastrophe that made me leave the Ira Belt for aid.	VO_andechs.andechs_sys_0005
+101	The sacred mountain Shinai erupts once every 10 years due to the influence of the slumbering Satna.
+114	It's a minor eruption for now, but it'll grow in ferocity over time.
+115	At full power, its flames are powerful enough to extinguish all signs of human life.	VO_andechs.andechs_battle_0022
+103	And as for the flames that touch the ground—
+104	They turned into Fallen!	VO_kuienai.kuienai_sys_0027
+105	I'll hold off the corruption in this area! Everybody else focus on the enemies in front of us!	VO_dafne.dafne_battle_0007
+106	Here they come!

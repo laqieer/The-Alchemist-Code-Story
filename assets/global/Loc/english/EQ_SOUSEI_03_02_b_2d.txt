@@ -1,0 +1,89 @@
+﻿001	Your friends left the three of you behind?
+002	Well, we can't leave the airship completely undefended.	VO_nix.nix_sys_0004
+003	Someone has to keep watch.
+004	Besides, we can still communicate if we need to. That's why Mira went with them.	VO_nix.nix_sys_0007
+005	Right... Because of your Space-Time Manipulation?	VO_waginao-c.waginao-c_sys_0010
+006	Yes. I'm not acclimated to the magil of this region yet, so teleportation is out of the question, but just speaking with Mira should pose no problem.	VO_nix.nix_sys_0005
+007	Without any magic tools or anything? Wow, some of the other regions are seriously advanced!
+008	From my perspective, the technology of this region is just as impressive.
+009	This region prioritizes the common good over individual profits. One person's progress isn't limited to that person's individual growth alone. It's a wonderful thing.
+010	The fact that technology, and its various benefits, is available to everyone here... That's a philosophy that is more powerful than I could have imagined.
+011	I'm happy to hear that, but with the government in its current condition, that philosophy is nothing more than an empty promise.
+012	Oh?	VO_nix.nix_sys_0045
+013	Anyhow, I confirmed the availability of the materials Adaleigh needs. I mean, it's going to take some time to have them delivered, but that can't be helped.
+014	I expect that by the time Adaleigh gives up and comes back, they should be ready!
+015	Pardon me. I've been wondering...	VO_emmer.emmer_sys_0001
+016	What's the matter, miss?
+017	Just...what kind of relationship do Icona and Adaleigh have?
+018	I just couldn't help but wonder.	VO_emmer.emmer_sys_0031
+019	Ah, well...
+020	So Icona is sort of his senior in terms of engineering studies. They both came from the same orphanage.
+021	Orphanage?	VO_waginao-c.waginao-c_sys_0006
+022	They lived down below. It's tough down there. A harsh environment and rigorous labor keeps the life expectancy pretty low compared to those in the "above."
+023	Above? Below? Ah, you mean the city and the surface that Icona spoke of.
+024	Ah, so you've heard.
+025	Only a handful of people get to live in the floating cities, but for this region, that's just how it is.
+026	But those two had a rather strange set of circumstances...
+027	Circumstances?
+028	Brains. Smarts like you wouldn't believe.
+029	I thought Father was joking when he brought them up, but they proved their worth in no time, and now they're officially Engineers.
+030	They didn't just let their dreams be dreams. I really admire that about them.
+031	Even after all these years, she keeps an eye on him.
+032	However... No, never mind.
+033	In any case, Icona's like a big sister to Adaleigh.
+034	That's all I really know about them.
+035	I'm sorry.	VO_adlai.adlai_sys_0035
+036	What's up with you, Adaleigh? Apologizing out of nowhere like that.
+037	But your arm... Had I been more careful...	VO_adlai.adlai_sys_0018
+038	You mean this? Don't bother worrying about it.
+039	It was just flesh. I'd been thinking it was time for an upgrade anyway.
+040	See? Look, this thing's so useful! My mechanical arm eliminates the need to carry around equipment and tools.
+041	And look: it's made of the same alloy that I plan to use for airship armaments, so it's super strong!
+042	Th-that's not what I meant!
+043	You wouldn't have gotten hurt at all if only I...	VO_adlai.adlai_sys_0019
+044	Adaleigh...
+045	How long are you going to dwell on the past?
+046	There's no point in being scared of making mistakes. Just look back, analyze your mistakes, and try again, do better!
+047	The important thing is to learn from failure, right?
+048	...This is the Mayor's office.
+049	No one's here. What is going on...?	VO_kuienai.kuienai_sys_0002
+050	There are so many weird tools in here! Hey, what's this?	VO_mela.mela_sys_0046
+051	Don't touch anything! It could be dangerous!	VO_adlai.adlai_sys_0014
+052	Jeez, just tossing around chemicals like that...	VO_adlai.adlai_sys_0027
+053	It looks like Icona was here a lot. She really has no space in her mind for something like "crisis management."	VO_adlai.adlai_sys_0030
+054	This model...	VO_nimuru.nimuru_sys_0006
+055	It's a model of the floating city. You see that in the middle?
+056	We saw this under the witch's mansion. Stones that draw their power from the transmutation of life itself...	VO_nimuru.nimuru_sys_0004
+057	Huh? Oh, you're right!	VO_mela.mela_sys_0006
+058	It looks just like it, right?! I was surprised when I saw it in Luxuria, too.
+059	Adaleigh, what is this?
+060	This is the fuel mined from the underground caverns of this region.
+061	Mined? This rock can be found underground in this region?!	VO_nimuru.nimuru_sys_0026
+062	We call it the "Stone of the Gods."
+063	No one knows its origin, let alone how it exists at all. Some theorize that it might be an ancient fossil, but...
+064	...Of the Gods...
+065	But it's weird. In Luxuria, this stone was transmuted from the magil of living things, but this is rock that we dug up from under the surface...	VO_adlai.adlai_sys_0031
+066	If they're both the same thing, how did this get underground?
+067	Apologies for the interruption, but I've found something interesting!	VO_kuienai.kuienai_sys_0001
+068	What is it all the sudden? Oh, this...	VO_adlai.adlai_sys_0005
+069	It looks like some kind of report. Something to do with the scouting of the tunnels.	VO_kuienai.kuienai_sys_0031
+070	Indications of illegal mining. Further investigation required immediately.
+071	Does this mean that the mayor has gone to the surface to investigate?	VO_nimuru.nimuru_sys_0002
+072	There's a high likelihood of that.	VO_kuienai.kuienai_sys_0004
+073	Maybe Icona's there too!
+074	She did say that the mayor summoned her.
+075	So we just missed them...
+076	C-come in! Report! Fallen have been spotted in the underground mining area! Repeat, Fallen have been spotted—
+077	What? Fallen?!	VO_nimuru.nimuru_sys_0025
+078	Where! Where is your exact location?!
+079	And you are? This is a direct line to the mayor's—
+080	This is Adaleigh, Official Engineer of Redington! I came to meet the mayor but... Whatever! Just tell me!
+081	U-understood! Fallen have appeared in Redington management division F, and there are injuries reported! Please send reinforcements—
+082	Is Icona with the team? Is Icona there?!
+083	Affirmative! However, she got separated from the party and—
+084	Got it! We're on our way! Nimul, it's okay, right?	VO_adlai.adlai_battle_0019
+085	Of course it is.	VO_nimuru.nimuru_sys_0004
+086	Thank you!
+087	First, we need to go down to the surface! The airship should be able to handle that for now!
+088	Then we should act immediately. Mira, can you send word to Emmel?
+089	Okay! Leave it to me!	VO_mela.mela_sys_0038

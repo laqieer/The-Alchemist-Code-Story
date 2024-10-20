@@ -1,0 +1,54 @@
+﻿001	We'll be in trouble if the witches catch us, so let's sneak over to Eve's house. This way!	VO_leychel.leychel_sys_0003
+002	U-Understood.	VO_frayze.frayze_sys_0004
+003	Um, Fraise…your armor. Could you try to keep it down?
+004	Oh! S-Sorry. There's not much I can do about that--	VO_frayze.frayze_sys_0031
+005	…You there! Halt!	VO_courtmage.courtmage_sys_0002
+006	Uh-oh.	VO_leychel.leychel_sys_0029
+007	*Sigh* May I help you?	VO_leychel.leychel_sys_0030
+008	What do you mean "May I help you?" Why are you bringing outsiders into Lustburg…especially a man?	VO_courtmage.courtmage_sys_0012
+009	You, you're a knight of Envylia, aren't you? What business do you have in Lustburg? Hmm...I've seen that face before…	VO_courtmage.courtmage_sys_0001
+010	Geez! What difference does it make? It's not like he's breaking the law. He just came here to meet someone!!	VO_leychel.leychel_sys_0050
+011	He may not have done any harm…yet. However, we put little faith in outsiders--especially men.	VO_courtmage.courtmage_sys_0030
+012	However, if he's a relative of yours... Well, that's a different story.	VO_courtmage.courtmage_sys_0031
+013	Uh, yeah! He is! He's my...boyfriend…and, uh…we're going to be family soon!	VO_leychel.leychel_sys_0007
+014	!?	VO_frayze.frayze_sys_0025
+015	So, we came to say hello! Didn't we, honey? *Wink*	VO_leychel.leychel_sys_0008
+016	…Is that so?
+017	R-Rachel?! What are you talking about? You know my heart belongs to Eve--	VO_frayze.frayze_sys_0028
+018	Shh! Just play along!
+019	!?!?!?
+020	…A witch and a knight? Not a bad combination, if you ask me.	VO_courtmage.courtmage_sys_0044
+021	I agree! He'll be great for experimenting on once he becomes an insect…	VO_courtmage.courtmage_sys_0045
+022	…!	VO_leychel.leychel_battle_0019
+023	(…Keep it together! Don't let them get to you. Not now…)
+024	Phew, another full day of training…	VO_eve.eve_sys_0030
+025	…Huh? Isn't that…Rach? And…
+026	…WHAT!?	VO_eve.eve_sys_0006
+027	M-My darling Fraise is with Rach!? W-What's going on? Why are they together!?	VO_eve.eve_sys_0026
+028	Did little Rach really take my Fraise?	VO_eve.eve_sys_0021
+029	…But wasn't this guy seeing Eve? I guess they broke up, huh?	VO_courtmage.courtmage_sys_0002
+030	I guess… I bet he has exquisite genes. I'm sure a student from the School of Magic would be a better fit than Eve anyway.
+031	…Or he can choose me. I'll show you a great time, sweetcakes.	VO_courtmage.courtmage_sys_0007
+032	Uh…	VO_frayze.frayze_sys_0016
+033	Now, just hold on a minute!	VO_eve.eve_sys_0028
+034	Stop it!	VO_leychel.leychel_sys_0015
+035	!
+036	Tch…What are you doing?	VO_courtmage.courtmage_battle_0019
+037	That's my line! Don't touch him!
+038	(…Rach…cares that much for my Fraise-muffin…?)
+039	What's all the commotion?	VO_courtmage.courtmage_sys_0012
+040	Uh-oh.	VO_leychel.leychel_sys_0027
+041	…You're a student at the School of Magic, aren't you? And an honor student, no less...	VO_courtmage.courtmage_sys_0001
+042	Engaging in this kind of activity is a no-no. We'd better inform the headmistress… You'll probably have to be…expelled.	VO_courtmage.courtmage_sys_0016
+043	Eek…	VO_leychel.leychel_sys_0029
+044	Hold it right there!	VO_eve.eve_sys_0012
+045	Eve!	VO_leychel.leychel_sys_0025
+046	Eve, my sweet!	VO_frayze.frayze_sys_0025
+047	I overheard what just happened…and YOU were the one who tried to solicit Fraise first!
+048	Expulsion DENIED!	VO_eve.eve_sys_0015
+049	Pft…You're more worried about covering for this girl than you are about your man being stolen from you?	VO_courtmage.courtmage_sys_0010
+050	Er…Rach hasn't done anything wrong! She was just protecting my darling Fraise!	VO_eve.eve_sys_0016
+051	…Even if we were romantic rivals…I know that Rach is a really kind person and she's Moa's friend.
+052	She loves her mom and…cares a lot about other people. I know she has a good heart.
+053	Eve…
+054	That's why I gotta take care of her! Rach and Fraise and everybody! I'll defend all of them!	VO_eve.eve_sys_0012

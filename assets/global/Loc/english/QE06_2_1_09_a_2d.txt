@@ -1,0 +1,96 @@
+﻿001	…Ngh…
+002	…!
+003	Oh! You awake? Here, drink this.	VO_kouga.kouga_sys_0006
+004	The food is almost ready. Don't worry it's not poisoned or anything. Have a sip and be patient.
+005	…!!
+006	…What's your angle?	VO_kaede.kaede_sys_0001
+007	Nothing really… You shouldn't make any sudden movements after what happened earlier. You must be tired. It was no easy task carrying you all the way here.	VO_kouga.kouga_sys_0004
+008	…! What's that supposed to mean?
+009	Er, never mind. It must have been my imagination. I'm sure that's what it was.	VO_kouga.kouga_sys_0030
+010	Anyway… what's with that line you said earlier--the you-wouldn't-have-to-die-if-you-just-left-me-alone line?	VO_kouga.kouga_sys_0031
+011	…!
+012	Embarrassed? Maybe you should try not fainting next time.	VO_kouga.kouga_sys_0001
+013	…!!!
+014	Shut up! Shut up, shut up, shut up!	VO_kaede.kaede_sys_0029
+096	Well, just take it easy for now…
+015	Stay back!… Filthy human!	VO_kaede.kaede_sys_0012
+016	Hang on! Just calm down, will ya? I'm no match for you if you start rampaging again. Let's just calm down and talk it out.	VO_kouga.kouga_sys_0013
+017	…
+018	Perfect! Just like that! Take a deep breath and exhale. Now breathe in again and...breathe out.	VO_kouga.kouga_sys_0011
+019	…
+020	Heh heh! Thanks.	VO_kouga.kouga_sys_0034
+021	Why did you bring me here? Humans and demons...are supposed to be enemies!	VO_kaede.kaede_sys_0002
+022	Yeah, well...I'm not surprised you think that way.	VO_kouga.kouga_sys_0031
+023	What do you plan to do to me? I'm not so weak that I'll submit to the likes of you…
+024	Ah-ah-ah! Aren't you hungry? I told you not to move so much.	VO_kouga.kouga_sys_0030
+025	I…will never forgive your kind!
+026	I'll never forget what you did to us…for as long as I live!
+027	…Is that right.	VO_kouga.kouga_sys_0021
+028	Go to hell!
+029	Oof…	VO_kaede.kaede_battle_0019
+030	I told you, stop moving around! I don't want to have to carry you again.	VO_kouga.kouga_sys_0016
+031	Stop implying that I’m heavy! And don't touch me!	VO_kaede.kaede_favorite_0008
+032	..!
+033	…I bet you've had a rough life, haven't you?
+034	…What would you know?	VO_kaede.kaede_sys_0029
+035	Just a hunch.
+036	My brother and I... We promised we'd kill all humans!
+037	Okay then. How about you devour me?	VO_kouga.kouga_sys_0037
+038	…
+039	I won't let you devour all of me, but at least enough to satisfy your hunger.	VO_kouga.kouga_sys_0001
+040	If that will make you feel better-even just a little bit--why not take a bite?
+041	Go on. What's the matter?	VO_kouga.kouga_sys_0005
+042	…!!!
+043	Urr…blechhh!!!
+044	…?	VO_kouga.kouga_sys_0025
+045	Urrrrrahhhhh!!
+046	…What's wrong?	VO_kouga.kouga_sys_0002
+047	Stay back…Urrrgh!
+048	You can't eat humans...can you?	VO_kouga.kouga_sys_0001
+049	STAY BACK!!!
+050	…	VO_kouga.kouga_sys_0031
+051	…I'll kill you.
+052	Hahahahaha!	VO_kouga.kouga_sys_0008
+053	What's so funny?	VO_kaede.kaede_sys_0012
+054	Now I feel like I've got to make you eat me!	VO_kouga.kouga_sys_0004
+055	Drop dead!!!
+056	…!!!	VO_kaede.kaede_sys_0025
+057	I'll have you know, I know how to handle a kitchen knife.	VO_kouga.kouga_sys_0006
+058	Tch…	VO_kaede.kaede_battle_0019
+059	Relax. Just take a seat.
+060	Be quiet!
+061	Sit down.	VO_kouga.kouga_sys_0030
+062	…!
+063	I don't know how badly humans hurt you, but…	VO_kouga.kouga_sys_0001
+064	I'm sorry.	VO_kouga.kouga_sys_0035
+065	…!?	VO_kaede.kaede_sys_0025
+066	I won't ask you to forgive us, but if there's one thing I can do…	VO_kouga.kouga_sys_0010
+067	It's to apologize and give you something to eat.
+068	…What is it with you?	VO_kaede.kaede_sys_0002
+069	I told you. I'm Koga.
+070	Just a top-class chef!	VO_kouga.kouga_favorite_0001
+071	…!
+072	Hey, are you alright?	VO_kouga.kouga_sys_0016
+073	…Stay back.	VO_kaede.kaede_sys_0016
+074	You're too hungry to move, aren't you? You've got no choice but to eat or you'll die.	VO_kouga.kouga_sys_0002
+075	…
+076	What about that promise you made with your brother? You can't let this opportunity go to waste.	VO_kouga.kouga_sys_0001
+077	…
+078	Hang on a sec. I'm going to add a little more seasoning.
+079	….If you still plan on killing me, then…	VO_kouga.kouga_sys_0004
+080	At least eat what I've prepared for you first!	VO_kouga.kouga_sys_0007
+081	…
+082	…
+083	…Anybody home? Helloooo?	VO_kouga.kouga_sys_0012
+084	…You think I'd believe a word a human says? I know you're just trying to butter me up so that I'll let my guard down…	VO_kaede.kaede_sys_0029
+085	…And then you'll take whatever you can. That's the human way… Well, I won't let you take any more from me!!!
+086	…	VO_kaede.kaede_battle_0019
+087	Huh? Are you…Are you gonna do that "rampage" thing?
+088	Come on... Not inside, okay? This is my house--it's not the same as outside.	VO_kouga.kouga_sys_0030
+089	*ROAR*	VO_kaede.kaede_sys_0032
+090	A----ND she's rampaging again!!!
+091	*Snarl*
+092	…!	VO_kouga.kouga_sys_0025
+093	Hahaha… Just my luck.	VO_kouga.kouga_sys_0011
+094	*Groan*
+095	I guess this is no laughing matter… Sheesh, you're quite the handful, aren't you?	VO_kouga.kouga_sys_0006

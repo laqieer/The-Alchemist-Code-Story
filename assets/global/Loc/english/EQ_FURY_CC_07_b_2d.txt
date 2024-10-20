@@ -1,0 +1,106 @@
+﻿001	If I could make one request...	VO_ikasa.ikasa_sys_0001
+002	Is this the part where you beg me to spare you?	VO_sol.sol_sys_0002
+003	Button is a kind girl. She's...liable to break at some point, even without your interference.
+004	The shrine maiden?	VO_sol.sol_sys_0044
+005	Your purpose is to assassinate your target, isn't it?	VO_ikasa.ikasa_sys_0003
+006	If I wait for her to break, I won't get paid.	VO_sol.sol_sys_0004
+007	I want her to live, even if it means that she will break someday. Even after she breaks, I want her to go on living.	VO_ikasa.ikasa_sys_0005
+008	So if you try to kill Button now, you'll have to go through me.	VO_ikasa.ikasa_sys_0001
+009	You're asking me to just let her go?	VO_sol.sol_sys_0012
+010	It'd be nice if you could watch over her for me.
+011	What if she doesn't break?	VO_sol.sol_sys_0001
+012	Good point. I think...	VO_ikasa.ikasa_sys_0005
+013	I think she'll end up putting a spell on the world.
+014	I like the sound of that.	VO_sol.sol_sys_0007
+015	I'd like to see this world get turned upside down.	VO_sol.sol_sys_0008
+016	The more one lives, the closer death creeps.
+017	Out of the darkness we come, and into the darkness we tread. At some point in our life, we merely turn around and head back the way we came. Yet somehow, humans have forgotten this simple truth.
+018	I suppose that is why they cling so desperately.
+019	Desperately and pathetically to that which makes them who they are—whatever that thing may be.
+020	What path exists, then, for those who would offer up that crucial something in exchange for power?
+021	I...do not know. Where, oh where, do they go...
+022	Knowing that the more one lives, the closer death creeps?
+023	It sounds like rain to me now.
+024	All the death throes, the screams, the clang of swords clashing, the cacophony of war...
+025	The wind that whistled on that day, the rush of the river, the sunlight dappled through the trees, the sights of the foreign lands, the paths, the mountains, the trees, the mornings, the days, and the nights...
+026	Even death.
+027	All of the tragedies I cannot forget. All of these memories surge in a constant stream in my mind—yet to me, this feels akin to the incessant dripping of early-summer rain.
+028	It's all just noise.
+029	Füry.	VO_sol.sol_sys_0002
+030	Yes?	VO_fuelie.fuelie_sys_0004
+031	Do you hate me?	VO_sol.sol_sys_0001
+032	Yes...a little.	VO_fuelie.fuelie_sys_0005
+033	Füry?	VO_vier.vier_sys_0001
+034	Yes?	VO_fuelie.fuelie_sys_0004
+035	It's time for work. Help me tend the store for once, won't you?
+036	Sure. I'd be happy to.
+037	Füry?	VO_zwei.zwei_sys_0001
+038	Yes?	VO_fuelie.fuelie_sys_0004
+039	Do you think, um... Could I get a reading?	VO_zwei.zwei_sys_0002
+040	Yes. Of course.
+041	Füry.	VO_drei.drei_sys_0002
+042	...
+043	Are you ignoring me?	VO_drei.drei_sys_0025
+044	Oh, yes. I was.	VO_fuelie.fuelie_sys_0004
+045	May I get a reading?	VO_drei.drei_sys_0007
+046	Let me see... Good fortune awaits you.	VO_fuelie.fuelie_sys_0031
+047	You just made that up.	VO_drei.drei_sys_0031
+048	Yes.	VO_fuelie.fuelie_sys_0005
+049	I made it up.
+050	Harmony. An absence of hate.
+051	A hatred that grows too great will crush the spirit.	VO_fuelie.fuelie_sys_0022
+052	You gave me a new family. A new home.	VO_fuelie.fuelie_sys_0003
+053	It seems that sometimes our prayers are granted.	VO_sol.sol_sys_0020
+054	What?	VO_fuelie.fuelie_sys_0025
+055	Nothing.
+056	My mind was groaning under the weight of my past...until you offered to accompany me into the future of Lost Blue.
+057	That is why despite the fact I cannot see the sky right now...
+058	Just say the magic words.
+059	It doesn't hurt. It doesn't hurt. Everything is fine.
+060	These are the magic words. A spell to the make the pain go away.
+061	Please give light...to the children of Lost Blue...who are filled with...potential...!	VO_fuelie.fuelie_sys_0018
+062	We...live in a land that the sun does not reach... We must give the oppressed people...the same rights...that those on the land above have!	VO_fuelie.fuelie_battle_0019
+063	Our...sky...in...Lo...Lost...Blue...!!! Aghh!!!	VO_fuelie.fuelie_sys_0018
+064	All you need to do is say the magic words. It doesn't hurt. It doesn't hurt. Everything is fine.
+065	Look, Seida! Those tens of thousands of soldiers have disappeared!	VO_kanon_3s_cano.kanon_sys_0025
+066	All you need to do is say the magic words. It doesn't hurt. It doesn't hurt. Everything is fine.
+067	All the streets and buildings that had collapsed have been restored...?!
+068	Just say the magic words.
+069	Welcome back.	VO_ikasa.ikasa_sys_0002
+070	I've been looking for you...	VO_fuelie_fuelie-b.fuelie_sys_0007
+071	Did you break the curse?	VO_ikasa.ikasa_sys_0001
+072	The...curse?
+073	Y'know, the one you put on yourself. All that stuff about living up to your name—blaming yourself for everything...	VO_ikasa.ikasa_sys_0004
+074	No.
+075	It still haunts me. I lost to this curse of mine.	VO_fuelie_fuelie-b.fuelie_sys_0030
+076	Haha!	VO_ikasa.ikasa_sys_0008
+077	Ikasa...
+078	Yeah?	VO_ikasa.ikasa_sys_0006
+079	I'm sorry.	VO_fuelie_fuelie-b.fuelie_sys_0035
+080	You don't need to apologize. I thought that was a pretty good joke.	VO_ikasa.ikasa_sys_0007
+081	No, I... I wasn't apologizing for what I just said.	VO_fuelie_fuelie-b.fuelie_sys_0001
+082	I wanted to apologize for...cursing you.	VO_fuelie_fuelie-b.fuelie_sys_0003
+083	What're you talking about?	VO_ikasa.ikasa_sys_0029
+084	At a time when no one would have anything to do with me...
+085	You were the first person who actually reached out and helped me.	VO_ikasa.ikasa_sys_0001
+086	Wh-what?
+087	"We're family, aren't we?" Remember when you told me that?
+088	I-I...!
+089	I'm happy.	VO_ikasa.ikasa_sys_0007
+090	I can't believe I...never realized...
+091	Because I got to be with you.
+092	I never realized...until just now...
+093	That my world was peaceful all along.	VO_fuelie_fuelie-b.fuelie_sys_0007
+094	I can hear the rain in the distance, pounding endlessly away.
+095	First, to the horizon that stretches out as far as the eye can see. Second, to the lands you've been dreaming of all your life. Third, back to your peaceful homeland fading into the distance behind you.
+096	Fourth, to the side of your faithful friend and fellow dreamer. Fifth, to the sky above you. What do you see?
+097	Do you want my honest answer?
+098	Give it to me straight.	VO_ikasa.ikasa_sys_0005
+099	It's horrible! Stormy skies, as far as the eye can see!	VO_fuelie_fuelie-b.fuelie_sys_0008
+100	Ha! Then this journey is proceeding exactly as expected!	VO_ikasa.ikasa_sys_0004
+101	She is my umbrella.
+102	As we continue our journey through the rain, I press my open palm to yours and link our fingers together.
+103	The path we tread is treacherous and paved with loss. The itinerary we have planned is very likely wrong.
+104	Still, with those magic words, we can smile through our pain.
+105	The rain is still pounding away...
+106	But I don't care how loud it is, as long as I can still hear your voice.

@@ -1,0 +1,244 @@
+﻿001	My goal has always been to become the kind of person that my family can be proud of.
+002	With my weapons and machines, with my hair and the significance of its color...
+003	If I just did my best, if I just worked harder than anyone else... As a child...I really thought that all my effort would be enough.
+004	When we were children...before I became aware of things, our parents split up.
+005	I went with my father and my older brother went with my mother.
+006	I don't really remember my mother's face, but I remember meeting her just once.
+007	I have never forgotten what she said to me then.
+008	You have a brother who is aiming to become an excellent alchemist.
+009	I'm sure he will become a great Paladin and a wonderful alchemist. He will be a brother that will make you proud.
+010	You must do your best to be a sister that can make him just as proud.
+011	When I think back on it, I'm not sure if she said that out of some sort of misplaced parental affection, or if she was just being polite, or what.
+012	Then she died, so I guess I'll never know.
+013	I've since heard that my brother quit the Holy Guard and has given up on being an alchemist.
+014	Still... I've never been able to shake her words.
+015	I don't even know his name, or his face, let alone where he might be now.
+016	And yet, I feel like I've been waiting for him my entire life.
+017	I'll be back soon, Father.
+018	[Thank you so much for your continued patronage.]
+019	[I apologize for the inconvenience, but there is something that I must do.]
+020	[As such, I regret to inform you that the shop will be closing indefinitely. Signed, Albea.]
+021	I have a place to return to.
+022	My father, who taught me all that I know as a mechanic...
+023	Was a stubborn, old-fashioned man who would never wear this mask of mine.
+024	He always saw me as a child, no matter how much I grew.
+025	Yet, at the very end, he finally recognized me as my own person. It took him that long, even though I'd been filling more shop requests than him for quite some time.
+026	It was the smoke and the vapors, the byproducts of our work, that finally did him in.
+027	He left me this workshop, filled with all the things he made...and the empty space that used to be his to work in.
+028	Neither of us were particularly good at organizing things, and the mess just seems to be getting more and more unmanageable.
+029	He used to say that it was his dream to make machines do it all for him.
+030	He told me that he had no regrets about leaving the workshop to me.
+031	In the end, he finally let me go out into the world.
+032	I've made us a home, brother. You have a place to come back to.
+033	If I don't know anything about my brother, I won't be able to bring him home.
+034	I bet he's just as stubborn as I am.
+035	Th-that was such a moving story! Unnnghhh...
+036	Don't cry!	VO_wilhelm.wilhelm_sys_0012
+037	Bleugh!
+038	Don't throw up on me!	VO_wilhelm.wilhelm_sys_0027
+039	My little brother is the only family I have, too! I think I know how you feel!
+040	So you used to run a shop, huh? I guess that explains all this stuff you're carrying.	VO_wilhelm.wilhelm_sys_0044
+041	It might come in handy at some point. I've been told that the outside world can be a dangerous place.	VO_albell.albell_sys_0037
+042	I brought everything I could get my hands on.
+043	That's great! There's no point wasting time on packing, after all. You've just gotta hurl everything within arm's reach into your suitcase and call it a day!
+044	Exactly. It's important to be prepared.	VO_albell.albell_sys_0004
+045	Yup! You got it!
+046	Sounds like you two have a lot in common.	VO_wilhelm.wilhelm_sys_0010
+047	Heheh!
+048	I decided that I'm not going home without my brother.	VO_albell.albell_sys_0016
+049	I want to ask him why he gave up on being an alchemist.
+050	You need to learn the workings of a machine in order to understand the error message.
+051	Maybe I need to learn Alchemy in order to understand my brother.
+052	That was what I thought, anyway.	VO_albell.albell_sys_0030
+053	Slothstein Research Laboratory
+054	You got turned away.	VO_wilhelm.wilhelm_sys_0045
+055	Yes, but I overheard the researchers talking about how they recently discovered the ruins of an ancient civilization of Babel that have some connection to Alchemy.	VO_albell.albell_sys_0004
+056	The people who went to investigate them disappeared, so they were warned to stay away.
+057	And yet here you are.
+058	You've got to be thorough when you're debugging.	VO_albell.albell_sys_0037
+059	Amazing! I see that eavesdropping on unsuspecting researchers is a piece of cake for you.	VO_wilhelm.wilhelm_sys_0030
+060	Well, it's not that easy.	VO_albell.albell_battle_1015
+061	Wow. A miniature, winged, flyable mecha.
+062	Whoa! Incredible!
+063	It's not at all difficult to make.	VO_albell.albell_sys_0004
+064	All right! All right!
+065	Wh-what is it?	VO_albell.albell_sys_0025
+066	S-so do you think I could make one, too?!
+067	I didn't know girls liked this kind of stuff.	VO_albell.albell_sys_0044
+068	Of course we do, you dummy! This is so freaking cool!
+069	Y-you really think so?	VO_albell.albell_sys_0025
+070	All right, then. All we need are the blueprints and the necessary materials.
+071	Blueprints?! Lemme see, lemme see! I wanna try!
+072	O-okay.	VO_albell.albell_sys_0004
+073	Aww... I can't do it.
+074	Heheh. You're a strange one.	VO_albell.albell_sys_0007
+075	Why don't we just make do with the one that's already made?	VO_wilhelm.wilhelm_sys_0002
+076	Well, the place is pretty well-guarded. There's a limit to how much information we can gather just by eavesdropping.	VO_albell.albell_sys_0031
+077	If someone were to tell you everything you wanted to know about Alchemy, would you back off the ruins?	VO_wilhelm.wilhelm_sys_0045
+078	What connection do you have with these ruins?	VO_albell.albell_sys_0002
+079	I am not obligated to answer that.	VO_wilhelm.wilhelm_sys_0010
+080	Then there's no reason for me to leave, is there? I won't be making any promises.	VO_albell.albell_sys_0044
+081	You're kinda a brat, you know that?	VO_wilhelm.wilhelm_sys_0030
+082	Excuse me?!
+083	Oho!
+084	There are some lines you shouldn't cross.	VO_wilhelm.wilhelm_sys_0014
+085	Look who's talking! I feel like you just crossed exactly such a line!	VO_albell.albell_sys_0029
+086	Which one would that be?	VO_wilhelm.wilhelm_sys_0004
+087	Wh-which one...?!
+088	Gimme a break! You've been fussing with your hair the whole time we've been talking. You're such an obnoxious brat!	VO_wilhelm.wilhelm_sys_0030
+089	That's it! That's the line, right there!	VO_albell.albell_sys_0013
+090	Quit whining already—and keep your voice down!	VO_wilhelm.wilhelm_sys_0004
+091	Ugh! You are so annoying!	VO_albell.albell_sys_0029
+092	By the way, do you bathe?	VO_wilhelm.wilhelm_sys_0002
+093	Wh-what?! What did you just... What?!	VO_albell.albell_sys_0026
+094	I'm not saying you smell bad or anything.	VO_wilhelm.wilhelm_sys_0007
+095	Y-you...! I... I don't have to put up with this!	VO_albell.albell_sys_0025
+096	Calm your boots.
+097	That's it! I'm... I'm going by myself!	VO_albell.albell_sys_0013
+098	Aww... Don't be like that!
+099	Get out of the way, Mira.	VO_albell.albell_sys_0029
+100	Huh?!
+101	Hold on a sec. You can't touch me.
+102	M-my hand... It went right through you! Wh-what's going on?	VO_albell.albell_sys_0027
+103	What the hell?	VO_wilhelm.wilhelm_sys_0025
+104	We're gonna make a trade!
+105	Well... Now that you mention it, there is something I want to look into. I guess I can tag along.	VO_wilhelm.wilhelm_sys_1016
+106	No way!	VO_albell.albell_sys_0029
+107	Yes way!
+108	Howdy.
+109	Oh! Mister Will, what a pleasant surprise!
+110	Urgh. I can't believe they actually call him Mister Will.	VO_albell.albell_sys_0026
+111	I know, right? It's gross! Bleurgh!
+112	Heheh, it sure is.
+113	You can call me Mister Will, too, you know?	VO_wilhelm.wilhelm_sys_0007
+114	Dream on.	VO_albell.albell_sys_0040
+115	What can we do for you today, Mister Will?
+116	Just a spot of research. Mind if I come in?	VO_wilhelm.wilhelm_sys_0037
+117	Of course not! We are forever in your debt after—well, you know...
+118	Let's talk about that some other time, shall we?	VO_wilhelm.wilhelm_sys_1020
+119	But of course! Please, take as long as you need.
+120	I can't believe this. They turned me away without listening to a word I had to say.	VO_albell.albell_sys_0029
+121	It always helps to have people in your debt.	VO_wilhelm.wilhelm_sys_0007
+122	What was that all about, anyway?	VO_albell.albell_sys_0002
+123	Everyone has a few things in their past they'd rather not talk about.	VO_wilhelm.wilhelm_sys_0001
+124	That researcher really seemed devoted to you.	VO_albell.albell_sys_0044
+125	You know what they say. All the people of the world are one.	VO_wilhelm.wilhelm_sys_1016
+126	That doesn't answer my question.	VO_albell.albell_sys_0003
+127	Well, that would be because I have no intention of answering you.	VO_wilhelm.wilhelm_sys_0007
+128	Hmph. What is that?	VO_albell.albell_sys_0005
+129	Don't tell me you've never seen a deck of cards before!	VO_wilhelm.wilhelm_sys_0004
+130	Of course I have.	VO_albell.albell_sys_0039
+131	There are fifty-two cards in a deck, divided into four different suits.	VO_wilhelm.wilhelm_sys_0037
+132	I know!	VO_albell.albell_sys_0039
+133	I just figured that you probably never had any friends to play games like this with, given that all you seem to do is fiddle around with your machines.	VO_wilhelm.wilhelm_sys_0044
+134	Are you... Are you making fun of me?	VO_albell.albell_sys_0013
+135	I sure am.	VO_wilhelm.wilhelm_sys_0007
+136	Hahahahahahaha!
+137	Well, I'm totally clueless!
+138	Huh?	VO_wilhelm.wilhelm_sys_0004
+139	Did you say they're a dock of cards?
+140	That's D-E, not D-O.	VO_wilhelm.wilhelm_sys_0001
+141	Oh, a dork of caddies?
+142	Where did the R come from?	VO_wilhelm.wilhelm_sys_0030
+143	Doorknob caddies?
+144	How is it getting longer? Are you doing this on purpose?!	VO_wilhelm.wilhelm_sys_0012
+145	Anyway, like I was saying... There are fifty-two cards in a deck, which is divided into four different suits...
+146	So you cut them to play, right?
+147	Don't cut them! You're not meant to cut them!	VO_wilhelm.wilhelm_sys_0025
+148	Cut means shuffle, Mira. You mix them up like this.	VO_albell.albell_sys_0003
+149	Let's play a round of Old Maid.	VO_wilhelm.wilhelm_sys_0037
+150	Why?	VO_albell.albell_sys_0039
+151	Aren't you bored? You're stuck in this stuffy old library, waiting for your lecture on Alchemy.	VO_wilhelm.wilhelm_sys_0004
+152	Oh, go on, then. Hurry up and deal them.	VO_albell.albell_sys_0017
+153	So everyone has to hold the cards, right?
+154	Will you play, too, Mira?	VO_albell.albell_sys_0004
+155	No, I think I'll pass.
+156	Wh-what?! Then it's just the t-two of us!	VO_albell.albell_sys_0025
+157	I can't touch things, remember?
+158	W-well, I...!	VO_albell.albell_sys_0013
+159	I will begin by explaining the Alchemy of Slothstein.	VO_wilhelm.wilhelm_sys_1020
+160	You're starting now?	VO_albell.albell_sys_0021
+161	Open that textbook to page one hundred.	VO_wilhelm.wilhelm_sys_0024
+162	I can't be playing cards if I have to look at the book!	VO_albell.albell_sys_0026
+163	Put your pairs off to the side, chop-chop.	VO_wilhelm.wilhelm_sys_0007
+164	Ah! W-wait! I can't—!	VO_albell.albell_sys_0027
+165	This country considers efficiency above all else. Dwelling on efficiency, however, can easily become laziness.	VO_wilhelm.wilhelm_sys_0031
+166	Ooh, getting straight to the point!
+167	Through the application of Alchemy, we have advanced our steam engines; our machines.
+168	Not only that, but we have used Alchemy to enslave Demons and put them to work so that we may develop our island home at a faster rate. Their assistance is considered a necessity.
+169	D-Demons...?	VO_albell.albell_sys_0005
+170	Hey, it's your turn. Draw a card.	VO_wilhelm.wilhelm_sys_0012
+171	Urgh, fine!	VO_albell.albell_sys_0029
+172	These Demons are said to be an ancient weapon, created in secrecy using extreme and ancient Alchemy.
+173	...
+174	According to history, as recorded by the Holy Order, these Demons instantaneously reduced the ancient civilization of Babel to ashes.
+175	Should they become the enemy of mankind once more, only Alchemy could stop them.
+176	Well, perhaps not even Alchemy.	VO_wilhelm.wilhelm_sys_0039
+177	I've never seen anything like that.	VO_albell.albell_sys_0031
+178	Well, it's kept behind closed doors, of course. Top secret, and all that—with the full approval of the Holy Guard to back it, of course.	VO_wilhelm.wilhelm_sys_0037
+179	The Demons have been made so that they will lose their powers the moment they leave the country. That way, they can't infringe upon the Order's precious Magna Code.
+180	This is how Slothstein has made use of Alchemy for the purpose of its own efficiency, and thus made incredible progress as a society.
+181	Hooray for the use of destructive weapons to achieve a world that's both safe and secure... I guess.
+182	Now do you understand why you weren't allowed in here?	VO_wilhelm.wilhelm_sys_0007
+183	I...
+184	Heh! I win.
+185	Ah!	VO_albell.albell_battle_1018
+186	You can keep it.	VO_wilhelm.wilhelm_sys_0002
+187	Wh-what?	VO_albell.albell_sys_0025
+188	The joker. Consider it a gift.
+189	In any case, that's the nature of Alchemy itself. There have always been those who would use it for their selfish purposes, bringing untold calamities upon the world.
+190	This is why it is treated as a taboo art, to be used only by the Holy Order, who adhere strictly to what is known as the Alchemist Code.
+191	...
+192	(Alchemy was first created in order to defeat the Cursed Beasts.)
+193	(However, the art has changed together with the flow of time.)
+194	(It has been a menace to humanity, a tool used to destroy whole civilizations.)
+195	(Why is that?)
+196	My brother was in the Holy Guard.	VO_albell.albell_sys_0002
+197	Good man.	VO_wilhelm.wilhelm_sys_0044
+198	He was poached by the Holy Guard shortly after joining the Wratharis army.	VO_albell.albell_sys_0037
+199	He was called a genius alchemist.
+200	...
+201	A genius... Well, a genius ex-alchemist, who was born in Slothstein and is living in Wratharis. I feel like there should be someone in the field who knows about him.	VO_albell.albell_sys_0002
+202	Would you mind asking around the laboratory for me?
+203	Pfft.	VO_wilhelm.wilhelm_sys_0007
+204	Do I really look like the do-gooder type to you?	VO_wilhelm.wilhelm_sys_0002
+205	Not really.	VO_albell.albell_sys_0039
+206	I've already finished my research. I even gave you a lecture as a bonus. I think I've done more than enough.	VO_wilhelm.wilhelm_sys_0030
+207	If you keep pushing, you'll end up getting yourself killed.
+208	Oh, please.	VO_albell.albell_sys_0044
+209	I'm serious. I'm warning you.	VO_wilhelm.wilhelm_sys_0004
+210	Who's going to kill me, hm? You? Or someone else?	VO_albell.albell_sys_0002
+211	...
+212	Let me guess... It's for my own good?	VO_albell.albell_sys_0010
+213	That's right.	VO_wilhelm.wilhelm_sys_0037
+214	Then it seems I have nothing to lose.	VO_albell.albell_sys_0031
+215	Where are you going?	VO_wilhelm.wilhelm_sys_0004
+216	I'm going to go and have a look around for myself.	VO_albell.albell_sys_0016
+217	Pursue Alchemy all you like. It's not going to get you anywhere.	VO_wilhelm.wilhelm_sys_0001
+218	I'm not going to give up just because it's dangerous. I'm made of tougher stuff than that.	VO_albell.albell_sys_0039
+219	Even if I were afraid of being killed, and I quit while I was ahead and went back to my shop...
+220	I'd...just be alone.
+221	...
+222	I... I don't want to be alone.	VO_albell.albell_sys_0022
+223	...
+224	Umf... There.	VO_albell.albell_sys_0030
+225	Huh? What're you doing on the ground?	VO_wilhelm.wilhelm_sys_0004
+226	Speed Gear.	VO_albell.albell_sys_0004
+227	What's wrong with you? Why do you keep pressing the buttons on your shoes?
+228	Goodbye.	VO_albell.albell_sys_0010
+229	Whoa! Holy...!	VO_wilhelm.wilhelm_sys_0044
+230	Wow! That's crazy fast!
+231	I guess we'll just have to follow her on foot.	VO_wilhelm.wilhelm_sys_0029
+232	Why are we following her?
+233	Just 'cause.	VO_wilhelm.wilhelm_sys_0004
+234	I thought you weren't the do-gooder type.
+235	Did you lose sight of her?
+236	Yeah. A while ago now.	VO_wilhelm.wilhelm_sys_0037
+237	Huh? What do you mean?
+238	Hanging back and waiting to attack us until we reached a deserted area... You really know your stuff.	VO_wilhelm.wilhelm_sys_0001
+239	Those who approach the Cursed Beasts must be removed.	VO_stknightm.stknightm_sys_0007
+240	Just so you know, that girl who ran away doesn't know anything.	VO_wilhelm.wilhelm_sys_0012
+241	I'm the only one who knows anything.
+242	I'm also the only one with this stone... See?
+243	That's...!
+244	We don't need more people crossing lines that shouldn't be crossed. I'm doing enough of that for everyone.

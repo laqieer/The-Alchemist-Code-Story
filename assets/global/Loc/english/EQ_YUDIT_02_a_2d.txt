@@ -1,0 +1,112 @@
+﻿001	Huff... Huff... Is that the last of them?
+002	Of the ones in the vicinity, at least.	VO_basini.basini_sys_0005
+003	Phew... Good! On to the next location then!
+004	How about you take a minute to actually breathe first? You're wheezing like an old man!	VO_victor.victor_sys_0030
+005	I am...not! Huff...	VO_budd.budd_sys_0012
+006	Yes you are! Anyway, what do you mean, the next location? We don't know where we're meant to go!
+007	Oh... Right.	VO_budd.budd_sys_0025
+008	Haste makes waste, Bud. These Taurus are unlike any we've fought before. We need to tread carefully.	VO_basini.basini_sys_0017
+009	What?! The Taurus combat force is...gone? All of them?	VO_basini.basini_sys_0020
+010	Yep. They've been wiped out. From what I hear, they were going up against Taurus at least twice the size of any we've seen before.	VO_kazahaya.kazahaya_sys_0006
+103	Not only that, but they've been corrupting the nature of Saga with an incredibly potent miasma.
+104	The Sprite Trio are doing what they can to keep the corruption from spreading using their Ouija.
+105	However, if the entire combat force couldn't stand against these creatures... Then we can't expect the Sprite Trio to hold out indefinitely.
+011	Yep. The fiends aren't sitting quietly, either. They're destroying and consuming everything in sight—monsters and people alike.	VO_kazahaya.kazahaya_sys_0030
+012	The weird thing is that after they've caused a certain amount of destruction, the creatures calm down a bit, like they're satisfied with their progress.
+013	But that doesn't even give us time to rest and regroup, because outbreaks of regular Taurus have been on the rise since these Giant Taurus showed up.	VO_kazahaya.kazahaya_sys_0031
+014	So they come out to clean up the leftovers, huh?	VO_basini.basini_sys_0045
+015	Come to think of it... It's interesting that they've been consuming everything in sight.
+016	What if the hunger they're sating isn't an appetite for sustenance, but Alchemia?	VO_basini.basini_sys_0031
+017	Their sheer size means that they'd require a lot more Alchemia than regular Taurus.
+018	(If I'm right, and the Taurus really are after Alchemia, they could do some serious damage to the Matter...)
+019	(And if there are any Sacred Stones hidden in Saga... Things are going to get real ugly, real fast.)	VO_basini.basini_battle_0019
+020	...
+106	Time is of the essence. We need to put a stop to the Taurus before they become too powerful.
+107	We cannot allow Saga to fall to corruption.
+108	If we don't eradicate the chaos here, it could threaten all of Babel.
+109	(But why are these abnormal Taurus so focused on Saga?)	VO_basini.basini_sys_0030
+110	(Actually...I think I read a report about Judith's father researching something in Saga...)
+111	(That's right... It was about Demonic Soldiers and other ancient lifeforms. He warned that they could pose a serious threat to the entire world if left unchecked.)
+112	(That report was what got him executed. His passion for researching devices both magical and mundane was deemed dangerous, and his research a violation of the taboo on Alchemy.)
+113	(The Holy Order of Babel never gave Judith's father a chance to work alongside them.)
+114	(He had learned too much, I guess. Got too close to finding out about the Cursed Beasts.)	VO_basini.basini_sys_0022
+115	(So he never got to fulfill his life's work.)
+116	(But maybe he would have, if I'd learned all this just a little earlier. I might have been able to change things for the better.)
+117	Figuring out what's driving the Taurus will be crucial, but right now we need to focus on stopping them from wreaking any further havoc.
+118	So then as Lord Commander, I know where I must go.
+119	So you ended up coming here to Saga, did you? Huh.	VO_kazahaya.kazahaya_sys_0010
+021	The Taurus combat force is no more.	VO_basini.basini_sys_0030
+022	They were elite, experienced fighters who knew exactly what they were up against, and these new Taurus wiped them out in one. That doesn't leave us with many options.
+023	So that's why you called us, huh?	VO_victor.victor_sys_0045
+024	Yep.	VO_basini.basini_sys_0005
+120	The Sprite Trio are working tirelessly to purify the corruption wherever it spreads.
+025	While they're taking care of that, we need to do something about the Giant Taurus. We've fought them before, which is more than most people can say.
+026	I've already informed the Trio of this plan.
+027	Okay. Guess we'd better get a move on, then. Wouldn't wanna have to listen to another lecture from anyone.	VO_victor.victor_sys_0029
+028	Sorry. I'm sure you have enough on your plates as it is, but...	VO_basini.basini_sys_0036
+029	Hey, what are friends for, right? Besides, we can't let something that big and dangerous just wander around and do whatever it wants!	VO_victor.victor_sys_0007
+038	We already know we can beat them! We've done it before, and we can do it again!	VO_victor.victor_sys_0003
+039	Right, Bud?	VO_victor.victor_sys_0002
+040	...
+041	Bud? Bud!
+042	Huh? Uh... Yeah! Exactly! That's what I was thinking.	VO_budd.budd_sys_0004
+043	Don't just make up an answer! You weren't even listening, were you?
+044	I-I was so! Anyway, let's just go kick some Giant Taurus butt already!	VO_budd.budd_sys_0012
+045	What're you in such a hurry for?! This is important, y'know!	VO_victor.victor_sys_0016
+046	I'm not in a hurry! I've just got stuff on my mind, unlike you!
+047	What's that supposed to mean?!	VO_victor.victor_sys_0012
+048	Hmm...
+049	Like I said... I realize you've got a lot on your plate.	VO_basini.basini_sys_0001
+050	Kagura told me. I'm sorry to bother you with this when you're in the middle of rebuilding the Blue Flame Guard.	VO_basini.basini_sys_0035
+051	...
+052	Haa...	VO_budd.budd_sys_0030
+053	(It's not like I can just ignore the fact that the people of Saga are at risk.)	VO_budd.budd_sys_0029
+054	(Countless lives will be lost if the Giant Taurus threat isn't dealt with soon...and I would hate to turn down a favor from a friend.)
+055	(But I'm the captain of the Blue Flame Guard, aren't I?)
+056	(It wouldn't be right for me to leave the Guard while it's still in turmoil...)	VO_budd.budd_sys_0031
+057	What are you doing? If you're going, get moving already!	VO_kagura_3s_kagu.kagura_sys_0001
+058	I-I never said I was going!	VO_budd.budd_sys_0025
+059	You didn't have to! It's practically seeping from your pores!	VO_kagura_3s_kagu.kagura_sys_0030
+060	From my...pores?
+061	What's your problem, anyway? You followed me when I told you not to. Why are you hesitating now?	VO_kagura_3s_kagu.kagura_sys_0012
+062	That was...different.
+063	Maybe, but even so... You were glad you came after me, right? I sure was.	VO_kagura_3s_kagu.kagura_sys_0003
+064	So quit trying to puzzle out an answer. It's not like you're good at that kind of deep thinking anyway. Just do what you know is right.
+065	But I...
+066	What's with you? It's not like you to hesitate to go where you know you're needed.	VO_kagura_3s_kagu.kagura_sys_0002
+067	If you're worried about the Guard, don't be! The other members will take care of things while you're gone, and if anything bad happens, I'll be around to deal with it.
+068	I've been helping Envylia get back on its feet, so I can easily watch over things until you get back.	VO_kagura_3s_kagu.kagura_sys_0007
+069	Are you sure? I can't ask you to do that...	VO_budd.budd_sys_0001
+070	It's fine! I owe you one, anyway.	VO_kagura_3s_kagu.kagura_sys_0037
+071	You do?
+072	Remember when I wasn't sure if it was okay for me to step down as captain in order to help with the restoration efforts? You told me that I should follow my heart, right?	VO_kagura_3s_kagu.kagura_sys_0005
+073	The Holy Guard had more or less sorted itself out, but the world was still far from being on its feet.	VO_kagura_3s_kagu.kagura_sys_0016
+074	Even so, the people of this world were fighting to survive with everything they had. All I wanted to do was help them, however I could.
+075	To do that, I needed to see what they were going through in each nation with my own eyes—to be right there beside them. But though this was something I'd need to do to help Wadatsumi recover, I knew I wouldn't have the freedom to travel like that as captain.
+076	I was at my wits end when you told me that if I was going to regret not having done it, I should just go ahead and do it.	VO_kagura_3s_kagu.kagura_sys_0004
+077	I give great advice, huh?	VO_budd.budd_sys_0008
+078	Not that I needed it. I already knew what I was going to do long before you told me that.
+079	Still, your words gave me the final push I needed to actually make my decision final. So I'm grateful to you. Just a little bit.	VO_kagura_3s_kagu.kagura_sys_0033
+080	Kagura...
+081	Anyway, there's only one thing I have to say to you: If you're going to regret not going, then you should just up and go already.
+082	Ohh... I see. So that's why. It all makes sense now.	VO_victor.victor_sys_0044
+083	What're you talking about? And why're you looking at me all misty-eyed?!	VO_budd.budd_sys_0012
+084	Oh, no reason. I was just thinking that I get why you're in such a rush now.	VO_victor.victor_sys_0007
+085	I told you, I'm not! And I don't like what you're implying.
+086	I just feel like I dumped everything on Kagura's shoulders.	VO_budd.budd_sys_0016
+087	I want to see these Taurus defeated as soon as possible so I can get back to Envylia and relieve Kagura. That's all!
+088	That sounds like the definition of being in a hurry to me, Bud.	VO_victor.victor_sys_0030
+089	Well, frankly, the sooner we defeat these creatures, the better. People's lives are at stake here. Let's just hope this goes well.
+090	Crap... We've got company again. Where are they all coming from?! And how many of these Taurus are we going to have to defeat before we reach the big one?!	VO_victor.victor_sys_0029
+091	Well, at least we've confirmed that Taurus activity is definitely increasing.	VO_basini.basini_sys_0045
+092	C'mon! Let's just send this lot flying so we can keep moving!
+093	Hey! Bud! Don't charge in alone! Geez...	VO_victor.victor_sys_0003
+094	And...he's gone.	VO_basini.basini_sys_0030
+095	Still, we're pretty outnumbered. We really should've brought Judith with us, huh?	VO_victor.victor_sys_0002
+096	Maybe, but she's a citizen—one of the people I am bound to protect. She doesn't need to be dragged into this.
+097	Yeah, but we could really use her Mecha Weapon right about—
+098	Did somebody call for a genius inventor?	VO_judith.judith_sys_0008
+099	That voice...	VO_basini.basini_sys_0025
+100	Huzzaaaahhh!	VO_judith.judith_sys_0032
+101	J-Judith?! What in the world?!
+102	Let's save the catch-up for after we've beat these guys into the ground, yeah?

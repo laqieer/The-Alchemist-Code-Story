@@ -1,0 +1,38 @@
+﻿001	We're almost to the border. We should be seeing the Gluttony checkpoint soon.	VO_kamui.kamui_sys_0030
+002	The security is heavier than I expected.	VO_tina.tina_sys_0031
+003	There were already rumors of nobility and merchants from Gluttony Foss defecting when we were heading into the desert.	VO_logi-b.logi-b_sys_0004
+004	If Ceclidis is in control of the military, I would expect him to enforce the prevention of such things.
+005	What should we do? Should we cross the border through the mountains to avoid the checkpoint?	VO_tina.tina_sys_0001
+006	No. They should be here soon.	VO_kamui.kamui_sys_0037
+007	Who?	VO_tina.tina_chara_1009
+008	Sorry to keep you waiting, boss.
+009	Right on time. Good.	VO_kamui.kamui_sys_0008
+010	Merchants?	VO_logi-b.logi-b_sys_0025
+011	This caravan is transporting supplies and weapons to a fortress in Gluttony Foss.	VO_kamui.kamui_sys_0004
+012	A country in the throes of a civil war is the prime client to sell weapons and supplies to. It wouldn't be strange if there were to be merchants who think like that, would it?	VO_kamui.kamui_sys_0007
+013	Interesting.	VO_tina.tina_sys_0044
+014	These are real weapons, but of course we won't really be selling them to Gluttony's army.	VO_kamui.kamui_sys_0037
+015	They'll be meeting up with the rebel forces after crossing the border to make contact for us.
+016	They will negotiate their support on our behalf.
+017	Why aren't we going with them?	VO_logi-b.logi-b_sys_0031
+018	We were attacked by the Collectors of Wisdom.	VO_kamui.kamui_sys_0037
+019	There is a chance that we are under their surveillance.
+020	We need to move as a small number to increase our chances of avoiding their eyes.
+021	I see.	VO_logi-b.logi-b_sys_0045
+022	Now let's join the caravan and cross the checkpoint. This is where the real fighting starts.	VO_kamui.kamui_battle_0015
+023	Halt! What's in the wagon?
+024	It's a shipment of supplies to the fortress. Here's my letter of introduction.	VO_kamui.kamui_sys_0006
+025	This does seem legitimate. All right, move along!	VO_gluttony-y.gluttony-y_sys_0004
+026	Did it work?	VO_tina.tina_chara_1009
+027	Looks like it. Hopefully nothing will go wr—	VO_logi-b.logi-b_sys_0004
+028	Now! Attack!
+029	What the—? It's a raid!	VO_gluttony-y.gluttony-y_sys_0025
+030	Argghhh!	VO_gluttony-y.gluttony-y_battle_0022
+031	Time is of the essence! Take what you can, and set fire to the rest! Try to avoid combat where you can!
+032	This is unexpected.	VO_kamui.kamui_sys_0027
+033	What should we do?! They'll take all the supplies!	VO_tina.tina_battle_1016
+034	I say that we aid the Gluttony army here.	VO_kamui.kamui_sys_0017
+035	It should make our travels ahead much easier if they owe us a favor.
+036	But do not use Alchemy or Ouija. We cannot afford to have our identities uncovered just yet.
+037	Don't worry, I have a bow! Let's go, Logi!	VO_tina.tina_sys_0004
+038	I'll take care of the bandits around the wagon!	VO_logi-b.logi-b_sys_0037

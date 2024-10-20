@@ -1,0 +1,68 @@
+﻿001	What am I doing all the way here in Lustburg?	VO_albell.albell_sys_0029
+002	(What's wrong with me? Why am I relying on a fortune-teller?)	VO_albell.albell_sys_0030
+003	(I wonder if Deneb's fortunes are really that accurate.)	VO_albell.albell_sys_0031
+004	(She seems a little air-headed. I hope I'm doing the right thing.)
+005	Sigh... That being said, she's late.	VO_albell.albell_sys_0030
+006	(If she really is as amazing as the rumors say she is...I wonder what I should ask her?)
+007	This is starting to become troublesome. Maybe I'll go home.	VO_albell.albell_chara_1003
+008	Sorry to keep you waiting!	VO_deneb.deneb_sys_0007
+009	(Here she is. What perfect timing.)	VO_albell.albell_battle_1018
+010	I do apologize. You must be tired by now.	VO_deneb.deneb_sys_0036
+011	I'm fine.	VO_albell.albell_sys_0005
+012	Please, sit over here. Would you like some tea? I have some delicious herbal tea.	VO_deneb.deneb_chara_1006
+013	No, I don't need the tea. More importantly, um, I want you to read my fortune.	VO_albell.albell_sys_0039
+014	Do you see the night sky?	VO_deneb.deneb_sys_0002
+015	What? The night sky?	VO_albell.albell_sys_0025
+016	(What is she talking about?)	VO_albell.albell_chara_1001
+017	When I was a child I loved to look at the night sky!	VO_deneb.deneb_sys_0007
+018	As I continued to observe the lovely stars, before I knew it, I had become an astrologer and a fortune-teller. Heheh.	VO_deneb.deneb_sys_0008
+019	I-I see. Um... I came here to have my fortune read.	VO_albell.albell_battle_1018
+020	Please don't rush. First of all, how about we talk a little?	VO_deneb.deneb_sys_0003
+021	Huh? Talk...?	VO_albell.albell_chara_1001
+022	Yes! What is it that you like?	VO_deneb.deneb_sys_0005
+023	Well, I like building machines...and repairing them...and stuff...
+024	Machines? Oh, that's amazing! If my telescope breaks, maybe I'll ask you to repair it!	VO_deneb.deneb_sys_0009
+025	... ...
+026	Hey... Why do you like working with machines?	VO_deneb.deneb_event_1006
+027	Well, my father was a mechanic and he ran his own machine shop and repair studio, so I dabbled in it a lot when I was a child.
+028	What I really loved was the smell and atmosphere of the studio. That's what I came to love the most.
+029	Heheh.	VO_deneb.deneb_sys_0008
+030	Hm? You asked me, so don't laugh about it.	VO_albell.albell_sys_0013
+031	Oh, I'm sorry. You said "love" twice, so I can tell you really do like it a lot.	VO_deneb.deneb_chara_1005
+032	Oh...	VO_albell.albell_battle_1018
+033	So, you've also been continuing something that you liked as a child. You're the same as me. I'm happy to hear that. Hehe.	VO_deneb.deneb_sys_0007
+034	(She's such a hassle. I should've gone home.)	VO_albell.albell_sys_0030
+035	So, when you make machines, what do you enjoy about it the most?	VO_deneb.deneb_sys_0002
+036	Well...I never really thought about that.	VO_albell.albell_sys_0025
+037	I guess I like it when I assemble something and it turns out exactly the way it was designed to be.	VO_albell.albell_sys_0031
+038	Right, right. And?	VO_deneb.deneb_sys_0044
+039	... ... (Seriously. This is really getting to be a hassle.)	VO_albell.albell_chara_1008
+040	Um, I think I'll...	VO_albell.albell_battle_1018
+041	All right. So why don't you enjoy working with machines anymore?	VO_deneb.deneb_event_1006
+042	What? How did you...I didn't say anything about that. Is this one of your fortunes?	VO_albell.albell_sys_0026
+043	No. It's not a fortune.
+044	Then...how?	VO_albell.albell_sys_0025
+045	Well, when you talk about these machines that you're supposed to "love" working with, you don't seem to be enjoying it at all.	VO_deneb.deneb_sys_0031
+046	... ...
+047	People rely on fortune-tellers when they want somebody to hear what they have to say, you know?	VO_deneb.deneb_sys_0007
+048	You might be right. Yeah. Can you listen to what I have to say?	VO_albell.albell_chara_1001
+049	Of course. That's why you're here. And that's why I'm in front of you.	VO_deneb.deneb_sys_0037
+050	Oh! I'm sorry.	VO_deneb.deneb_sys_0042
+051	What's the matter?	VO_albell.albell_sys_0005
+052	The stars are badly aligned. It seems like an uninvited guest has come.	VO_deneb.deneb_sys_0030
+053	I'm sorry. Excuse me for a moment.	VO_deneb.deneb_sys_0035
+054	(Did an "uninvited guest" really come?)	VO_albell.albell_sys_0021
+055	Yes...
+056	(Who are they?!)	VO_albell.albell_sys_0025
+057	What do you want? I have turned down your request over and over again.	VO_deneb.deneb_sys_0003
+058	Deneb, we'll have you come today!	VO_thiefm.thiefm_sys_0002
+059	I have a guest right now. Please leave.	VO_deneb.deneb_sys_0015
+060	Why would you turn us down?! Wratharis needs your abilities.	VO_thiefm.thiefm_sys_0017
+061	We'll place you in a good position in Wratharis. We'll get lots of money. It works out well for all of us.
+062	I don't think so. The stars also do not point in that direction.	VO_deneb.deneb_sys_0040
+063	I disagree! You should be grateful that Wratharis is willing to pay the country's money for a mere fortune-teller like you!	VO_thiefm.thiefm_sys_0012
+064	Ouch! What are you doing?! I said I'm not going!	VO_deneb.deneb_sys_0043
+065	What?! Hey, let's take her by force.	VO_thiefm.thiefm_sys_0026
+066	Wait. I need to hear what she has to tell me! Don't take her away!	VO_albell.albell_sys_0002
+067	Who are you? Stay out of this!	VO_thiefm.thiefm_sys_0006
+068	I see. Well, if you're going to act like that...it's a hassle, but I'll have to stop you!	VO_albell.albell_sys_0006

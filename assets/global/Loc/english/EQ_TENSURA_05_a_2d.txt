@@ -1,0 +1,58 @@
+﻿001	Milim!	VO_riml.riml_sys_0025
+002	Hey, Rimuru! Did you explore a little? This Babel place is pretty fascinating. It has all kinds of things I've never seen before!	VO_mirim.mirim_sys_0003
+003	Oh, of course I brought you souvenirs, too! Here you go!	VO_mirim.mirim_sys_0007
+004	Oh, uhm. Thanks.	VO_riml.riml_sys_0011
+005	Souvenirs?!	VO_albell.albell_sys_0003
+006	Just let it go...
+007	Heheh. Nice to meet you! I'm the one and only Dragonoid known as the Destroyer!	VO_mirim.mirim_sys_0010
+008	The Demon Lord Milim Nava!
+009	Demon Lord?!	VO_albell.albell_sys_0025
+010	I've already had a lot of fun in this world, so I figured it was about time I join you!	VO_mirim.mirim_sys_0006
+011	I can't believe you found us such a good place to mess around in! Just what I'd expect from my bestie!	VO_mirim.mirim_sys_0008
+012	I didn't exactly go looking for one...	VO_riml.riml_sys_0031
+013	I've basically just been snarfing down a bunch of food since I got here, so I was starting to crave some action! Let's get this show on the road!	VO_mirim.mirim_sys_0004
+014	The energy in this world feels all weird. Not sure how that'll transfer to a battle, hmm...
+015	It might be a lil' hard for me to hold back...but, eh, I'm sure it'll be fine!	VO_mirim.mirim_sys_0031
+016	(That's not going to be fine at all!)	VO_riml.riml_sys_0012
+017	(This is bad news... If Milim goes all-out, she's going to wipe this whole country off the map!)
+058	Uhm, hey, Milim!	VO_riml.riml_sys_0002
+018	I'm sorry, but I wanted to ask you to sit this one out. The fight with the Orc Disaster, I mean...	VO_riml.riml_sys_0031
+019	Whaaaat?!	VO_mirim.mirim_sys_0011
+020	Why?! Rude! That's so boring!	VO_mirim.mirim_sys_0016
+021	Why are you the only one who gets to have fun?!	VO_mirim.mirim_sys_0012
+022	U-uhm...	VO_riml.riml_sys_0029
+023	Oh, right! I remember now! I ate this super delicious thing earlier!	VO_riml.riml_sys_0011
+024	Huh?	VO_mirim.mirim_sys_0025
+025	I've never had something so good in my entire life! I bet you can't get it anywhere else...	VO_riml.riml_sys_0007
+026	Wh-what? Really?	VO_mirim.mirim_sys_0003
+027	You ate something that good without me?! What is it? Come on!	VO_mirim.mirim_sys_0022
+028	Oh man, it was soooo good! I think there's only one left, though...	VO_riml.riml_sys_0031
+029	Not fair! Not fair! You meanie! You sly slime! I wanted to eat one, too!	VO_mirim.mirim_sys_0012
+030	Hm? Oh man, what am I going to do now... I only just have this measly single one left... What to do, what to do...	VO_riml.riml_sys_0006
+031	Nnnnhhhhhhhh!	VO_mirim.mirim_sys_0016
+032	F-fine! I'll listen to you this once! That'll be enough, right? Right? Right?!	VO_mirim.mirim_sys_0031
+033	(Phew. That worked.)
+034	Your Milim-handling skills are improving every day.	VO_benimaru.benimaru_sys_0008
+035	That's because you guys keep putting that responsibility on me!	VO_riml.riml_sys_0012
+036	Were you talking about the deep-fried water lizard? That was pretty good.	VO_kureto.kureto_sys_0001
+037	Really? I thought it was a little hard to look at... Wait! This isn't the time for that.	VO_albell.albell_sys_0029
+038	Oops, you're right.
+039	Hunger...
+040	...Rimuru already saved roughly 150,000 of these orcs once.	VO_benimaru.benimaru_sys_0030
+041	He gave them a warm world and future. One where nobody has to has to starve...
+042	And now all of these guys have to die without ever realizing there was a much better world waiting for them out there...	VO_benimaru.benimaru_sys_0028
+043	Benimaru...	VO_kureto.kureto_sys_0003
+044	...
+045	Not really in the mood to fight them, huh, Benimaru?
+046	Different timeline or not, these guys could have eventually become our comrades. It doesn't feel right to cut them down.
+047	...Yeah. I know.	VO_riml.riml_sys_0031
+048	But I won't hold back in a fight, nor will I forgive any orc that lays a hand on you. That's what I told Geld back then, and I'll stand by that.	VO_benimaru.benimaru_sys_0004
+049	A Samurai General that can't even back up his words is a lousy excuse for a Samurai General.	VO_benimaru.benimaru_sys_0010
+050	...I want to eat.	VO_orcdisaster.orcdisaster_battle_0001
+051	Devour... Feed...
+052	(Great Sage... How's it looking? Is it possible?)
+053	Answer: Theoretically, consuming the Orc Disaster would make it possible.	VO_daikenja.daikenja_sys_0015
+054	(Good enough.)	VO_riml.riml_sys_0032
+055	I promised Demon Lord Geld that I'd devour all the orc's sins for them, so...let me do the same for you.
+056	Let's finish this.
+057	Graaaaaarrrgghhhhh!	VO_orcdisaster.orcdisaster_battle_0003

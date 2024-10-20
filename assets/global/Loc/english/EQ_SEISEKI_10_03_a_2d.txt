@@ -1,0 +1,76 @@
+﻿001	Northern Pride. Headquarters of the Holy Guard.
+002	Kazahaya! He's back!
+003	You were right, mistress!	VO_suzuka.suzuka_chara_1010
+004	It appears that Greed Dike's main troops plan to reach us by going through the Saga region!
+005	Saga! That must mean they went after the Matter first!	VO_kanon_3s_cano.kanon_sys_0042
+006	It appears that Captain Othima has headed towards Saga.	VO_suzuka.suzuka_sys_0031
+007	Captain Yauras and Captain Seida are already heading there as well. Saga may very well become the setting for this crucial battle!
+008	...!
+009	More importantly, there's one more thing I must warn you about!	VO_kazahaya.kazahaya_sys_1018
+010	Captain Othima told me this was the utmost priority.
+011	The utmost priority...? What is it?	VO_kanon_3s_cano.kanon_sys_0026
+012	There is a possibility that the Lion Monarch Orion is a Vessel of Reincarnation.
+013	A Vessel of...Reincarnation?	VO_kanon_3s_cano.kanon_sys_0031
+014	My apologies. I'm not entirely sure what that means, but...	VO_kazahaya.kazahaya_sys_0022
+015	Having heard the rumors surrounding Orion from Basheeny...Captain Othima told me to tell you this.
+016	Rumors...?
+017	The rumors surrounding Greed Dike's Sacred Stone.
+018	According to Basheeny...the Lion Monarch Orion might have Greed Dike's Sacred Stone embedded within his body.	VO_kazahaya.kazahaya_sys_0031
+019	Within his body...?! Does that mean...	VO_kanon_3s_cano.kanon_sys_0026
+020	...Sorry, Suzuka! I'm gonna step out for a moment!	VO_kanon_3s_cano.kanon_sys_0042
+021	Mistress...?! Where are you going?!	VO_suzuka.suzuka_sys_0026
+022	To the office! I'll come back right away!	VO_kanon_3s_cano.kanon_sys_0004
+023	The Sacred Stone is embedded within his body! Captain Othima...is Orion to become the Vessel of Reincarnation?!	VO_kanon_3s_cano.kanon_sys_0021
+024	Saga region. Fire Temple.
+025	Agh...!!!	VO_hoo.hoo_sys_0043
+026	It appears the people around here belong to a battle tribe. There seems to be a considerable difference according to each faction.	VO_sol.sol_sys_0044
+027	Unfortunately...your esteemed fighting power doesn't work on me.
+028	After all, when it comes to brute force, I am well acquainted with one of the most powerful fighters in all of the continent.
+029	Having been trained daily by this individual, your attacks do little damage to me.
+030	...Ug...ghh...!!!	VO_hoo.hoo_sys_0027
+031	You're the leader of this faction, aren't you?	VO_sol.sol_sys_0001
+032	If you obey my instructions and give me your Matter, I'll back down quietly, you know?
+033	Ack...! D-don't make me laugh! I will never submit to...scum like...you...	VO_hoo.hoo_sys_0016
+034	...Bang.	VO_sol.sol_battle_0001
+035	Huh...?!	VO_hoo.hoo_sys_0025
+036	Oh, dear. Once again, because of your stubbornness, countless lives have vanished in an instance.	VO_sol.sol_sys_0022
+037	Y-you...!!!	VO_hoo.hoo_battle_0019
+038	That Tehre...he was smart. In order to protect his tribe, he submitted and gave me his Matter.	VO_sol.sol_sys_0002
+039	Sh-shut up! W-we will not waver in the face of danger!	VO_hoo.hoo_sys_0018
+040	We of the Fuu faction only look ahead to the future!
+041	If I were to give you the Matter, Saga's future would...
+042	...How should I best convey this to you?	VO_sol.sol_sys_0031
+043	!!!	VO_hoo.hoo_sys_0025
+044	The more you resist...the more that future of yours ceases to exist.	VO_sol.sol_sys_0007
+045	Ughhh...!	VO_hoo.hoo_sys_0043
+046	...N-no!!!	VO_kagura_3s_kagu.kagura_sys_0027
+047	I'll give you one last chance. Answer me carefully. Your next words will determine the fate of your people.	VO_sol.sol_sys_0002
+048	Ug...ghh...!	VO_hoo.hoo_sys_0027
+049	Do your people want to live...or do they want to be blown to oblivion? Which is it?	VO_sol.sol_sys_0001
+050	Stop!!!	VO_kagura_3s_kagu.kagura_sys_0028
+051	Ughh...! Arghh!!!	VO_hoo.hoo_battle_0019
+052	...!
+053	You're certain...Tehre is alive?	VO_hoo.hoo_sys_0001
+054	How many times do I have to tell you? Are you finally going to follow his wise example?	VO_sol.sol_sys_0004
+055	Agh... This is...for the sake of protecting my people...	VO_hoo.hoo_sys_0027
+056	That was a handful, but now I've got two of them.	VO_sol.sol_sys_0016
+057	Prepare yourself! May our god rain fury down on you!	VO_hoo.hoo_sys_0018
+058	A god...?
+059	Is this god...stronger than me?	VO_sol.sol_sys_0007
+060	!!!	VO_hoo.hoo_sys_0025
+061	Come on...let's go, redhead.	VO_sol.sol_sys_0002
+062	...Ack...!	VO_kagura_3s_kagu.kagura_battle_0019
+063	Fuu! Are you going to let him go?!	VO_thiefm.thiefm_battle_0019
+064	Destruction of the Matter is our final option. We must avoid it until we have no other choice.	VO_hoo.hoo_sys_0004
+065	But...!	VO_thiefm.thiefm_sys_0018
+066	That wind warrior...she told us there was a way to prevent the worst possible outcome.	VO_hoo.hoo_sys_0005
+067	She said she was willing to sacrifice her life in order to protect the Matter.
+068	Are you talking about Captain Seida of the Holy Guard's 3rd Regiment?	VO_thiefm.thiefm_sys_0031
+069	Yes... Let's believe her words.	VO_hoo.hoo_sys_0004
+070	When the worst possible outcome befalls us...we will destroy it with our hands.
+071	I'm glad you're okay. What a relief.	VO_caida.caida_battle_0016
+072	I know I'll receive a scolding for saying this, but...	VO_caida.caida_sys_0035
+073	In our current predicament...we have no one to rely on but Asena.
+074	Asena will come to protect Saga. I'm sure of it.
+075	The Godwolf Asena. Until then...please, protect Beelzebub a little longer.
+076	...I will leave now.

@@ -1,0 +1,80 @@
+﻿001	Okay... So it's like they're Mega Taurus, and they're affecting all the other Taurus around Babel?	VO_judith.judith_sys_0045
+002	Huh. Interesting. Sounds like you're definitely gonna need my Mecha Weapon on this campaign!
+003	So? What're we waiting for? Let's get going already!	VO_judith.judith_sys_0008
+004	O-Oh...	VO_budd.budd_sys_0011
+005	What's wrong, Bud? I would've thought you'd be the first to agree with a proposal like that.	VO_victor.victor_sys_0007
+006	I do agree, but...seeing someone even more charged up than I am zapped me of energy for some reason.
+007	And why shouldn't I be worked up about this, huh? We can't let creatures like that run free! We've gotta do something about this before people get hurt! Right, Basheeny?	VO_judith.judith_sys_0016
+008	The Giant Taurus have already wiped out the team most capable of combating them. This is going to be an incredibly dangerous mission, and it wouldn't be right for me to endanger a citizen like yourself.	VO_basini.basini_sys_0030
+009	Basheeny!	VO_judith.judith_sys_0012
+010	At least, that's what I should say—but honestly, I'm relieved to have you with us.
+011	Your Mecha Weapon will help us save countless lives in our battle against the Taurus. If you are truly willing, I'd like to formally request your aid.	VO_basini.basini_sys_0001
+012	Sure! I mean, I was planning on tagging along whether you agreed to it or not, but it's nice to be invited.	VO_judith.judith_sys_0007
+013	Thank you, Judith.	VO_basini.basini_sys_0033
+014	We believe that the cause of the Giant Taurus' rampage lies in their appetite for Alchemia.
+015	If left unchecked, the Giant Taurus will eventually reach the Matter. We must act quickly, for this outcome must be avoided at all costs.
+016	Huh? Matter?	VO_judith.judith_sys_0004
+017	Matter is a substance powerful enough to rival the Sacred Stones.	VO_basini.basini_sys_0004
+018	Wow... I didn't think that was possible.
+019	In other words, if the Giant Taurus eats that stuff, we'll have an even bigger problem on our hands.	VO_budd.budd_sys_0031
+020	As if the Giant Taurus weren't a big enough problem all on their own...	VO_victor.victor_sys_0029
+021	The point is, we have to strike before that happens.
+022	However, it's important to remember that the Giant Taurus we face this time are different from any we've fought before.
+074	A single one of these creatures could likely corrupt the entire forest of Saga.
+075	But Saga is not the only nation in peril. If they absorb enough power, these Taurus could threaten our world on an unprecedented scale.
+023	It would seem that the Taurus we once fought have evolved into a new and more powerful species—at least, that's what I've gathered from the reports. It's also possible that they have reverted to some more primal form.	VO_basini.basini_sys_0031
+024	If such things are indeed possible, I wouldn't be surprised if an even greater threat were to arise in Babel at some point...
+076	Ugh... I sure hope not. This new kind is crazy powerful enough as it is.	VO_victor.victor_sys_0029
+077	I think your father suspected this before any of us, Judith. He feared the advent of a threat that would eclipse the Taurus.
+078	What?!	VO_judith.judith_sys_0025
+079	Your father... He sent a report on that subject to the Holy Order of Babel.
+025	Oh... I didn't know about that report, but he wrote about a threat like that in his journals, too.	VO_judith.judith_sys_0031
+026	What?!	VO_basini.basini_sys_0025
+027	These journals... You've read them, then?
+028	Yeah. He mentioned some terrifyingly powerful creature that once roamed Babel...	VO_judith.judith_sys_0004
+029	And that if it were to come back, humankind would face an unprecedented disaster...or something.
+030	That's why my dad invented the Mecha Weapon: to give the world a means of fighting that creature!	VO_judith.judith_sys_0044
+080	There's a bunch of other stuff in his journals, too, but most of it's kinda hard for me to follow.
+081	Still, I can tell that my dad was doing everything he possibly could to protect this world that I live in—for me, and everyone else who lives in it.
+031	I...see.
+032	Thank you for sharing that with me, Judith. I appreciate it, but I don't think you should mention those journals to anyone else...	VO_basini.basini_sys_0045
+033	For your own safety.
+034	Y-yeah... You're probably right.	VO_judith.judith_sys_0027
+035	...
+036	Anyway, whatever ginormous monstrosity shows up next, we'll be here to deal with it and protect the people of Babel! Right?	VO_victor.victor_sys_0007
+037	Right... Yes.	VO_basini.basini_sys_0005
+038	The mere existence of immense Alchemic powers can throw the balance of this world into chaos.
+039	Our role is to serve the world and its people by eliminating such threats in order to protect them from harm.
+040	Eliminate...	VO_judith.judith_sys_0030
+041	That reminds me of something you said before. "If something even has the slightest chance of endangering Babel, I will eliminate it, no matter how small the danger may seem."	VO_judith.judith_sys_0003
+042	Then you said something like... "For the sake of our future, I need to be more careful."
+043	I didn't know you paid so much attention to my words.
+044	They probably stuck in my mind because I didn't like them. Even now, I can't say I fully agree...	VO_judith.judith_sys_0040
+045	But now that I've seen more of the world, I kind of get where you were coming from. I get how easy it is for power to change peace into chaos.
+046	That's why any big power is feared and mistrusted. I see that now.
+047	(Even my new-and-improved Mecha Weapon is going to be seen as a threat by some people.)	VO_judith.judith_sys_0018
+048	(But even so, I...)
+049	Judith...
+050	I still can't forgive the Holy Guard for killing my father.	VO_judith.judith_sys_0031
+051	But sometimes... I can kind of understand why it happened. I can see that you were driven by your own ideas of justice.
+052	You shouldn't force yourself to understand, or forgive us. It's only right that you should hate the Holy Guard for what we did. For what it's worth... I'm sorry.	VO_basini.basini_battle_0019
+053	You don't need to apologize. I know you're not the one who killed my dad.
+054	True, but as Lord Commander, it is my duty to shoulder everything that the Holy Guard has done and will do: past, present, and future.	VO_basini.basini_sys_0030
+055	For it is my mission to protect the peace of the continent and the world that has been left in my care. Both because that is my role as Lord Commander, and because it is my heart's desire.
+056	Basheeny... I—
+057	Hey! What do you mean "your care"? Don't act like this is all on you! The three of us swore that vow together! Didn't we, Bud?	VO_victor.victor_sys_0010
+058	Exactly! Don't go thinking you're the only one protecting this world. That's why I became the captain of the Blue Flame Guard! To keep people safe, and...!	VO_budd.budd_sys_0006
+059	And...
+060	Bud?	VO_judith.judith_sys_0004
+061	...
+062	Basheeny is tackling his duty head-on, and fighting to protect everything that was entrusted to him.
+063	But what about me? Isn't there more I should be doing as the captain of the Blue Flame Guard?	VO_budd.budd_sys_0016
+064	Maybe I'm just...not cut out to be captain.	VO_budd.budd_sys_0030
+065	Oh, come on! Quit berating yourself, will you? It's painful to listen to!
+066	Huh?! D-don't tell me I said that part out loud!	VO_budd.budd_sys_0026
+067	Afraid so.
+068	Whew. Y'know, I had no idea you had so little confidence in yourself.	VO_victor.victor_sys_0030
+069	Tch... Just forget you heard that, all right?!
+071	H-hey! Bud! Wait up!	VO_victor.victor_sys_0003
+072	What am I going to do with those two? Anyway... We'd better get a move on too, Judith.	VO_basini.basini_sys_0017
+073	R-right!

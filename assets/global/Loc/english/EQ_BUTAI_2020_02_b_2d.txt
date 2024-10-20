@@ -1,0 +1,329 @@
+﻿001	Blockhead.	VO_kaya.kaya_battle_1015
+002	Kaya, please! Your strength could save—!	VO_zain.zain_sys_0042
+003	You are so thick.
+004	Wh-why are you so angry with me?!	VO_zain.zain_battle_0016
+005	You're so dense... Though perhaps that's necessary when you're Lord Commander, and trying to take care of the entire world.	VO_kaya.kaya_sys_0031
+006	What's that supposed to mean? I'm not blind to the world around me! I'm entirely capable of being sensitive, and caring, and—!
+007	But isn't this world incredibly wide? Are the depths of its history not endless? You can't see everything. Only a fool would think otherwise.	VO_kaya.kaya_sys_0022
+008	...
+009	This is why I quit.	VO_kaya.kaya_sys_0006
+010	Is that all you have to say about it?	VO_zain.zain_sys_0029
+011	Without saying a word...
+012	Sometimes there are words we'd rather leave unsaid. Surely you can appreciate that.	VO_kaya.kaya_sys_0031
+013	...
+014	Without saying a word, you...
+015	Wha—?!	VO_zain.zain_sys_0025
+016	Zain? What's wrong?
+017	How...?
+018	Zain?
+019	Why are you—?!	VO_zain.zain_sys_0042
+020	———!
+021	But you're...!
+022	Stop! Zain!	VO_kaya.kaya_battle_0022
+023	I have to go!
+024	What did you see?	VO_kaya.kaya_sys_0001
+025	I just need to check and make sure. That's all—
+026	Stop it. You mustn't go that way.
+027	K-Kaya?
+028	Don't go.
+029	Why not? I know this road. It leads to the underground slums, doesn't it?	VO_zain.zain_sys_0016
+030	You don't need to know what's down there.
+031	What are you talking about?
+032	I only managed to find the barest mentions of the place when I was digging into the history of Slothstein.	VO_kaya.kaya_sys_0031
+033	The sunken city where light does not reach. The underground world that's not recorded on any map.
+034	Lost Blue.
+035	Inhabited only by orphans of war and criminals who can no longer show their faces on the surface.
+036	A place for vagrants with nothing left to lose. A last resort, where those who are already as good as dead wind up.
+037	A place for all the world's "expendables".
+038	I pick up my share of undesirable pursuers every time I set foot in that place.	VO_kaya.kaya_sys_0029
+039	So that's why you asked me to escort you during that mission!
+040	Don't you find it strange that this is the first you're hearing of this place? You, a Lord Commander?	VO_kaya.kaya_sys_0001
+041	I...!
+042	Take some time to think on that.
+043	But Kaya... This is all the more reason for—	VO_zain.zain_sys_0029
+044	Zain.
+045	Are you just going to pretend you never saw it? Like everyone else?
+046	Zain...
+047	I will illuminate every inch of this world, Kaya. This isn't just the Holy Guard's stance—it's mine.
+048	You're only fooling yourself with lies like that.	VO_kaya.kaya_sys_0022
+049	Where did you go?	VO_zain.zain_battle_0016
+050	Where are you?
+051	You lost, old man?	VO_sol.sol_sys_0006
+052	Excuse me?
+053	Those are some pretty fancy digs you've got on you.	VO_sol.sol_sys_0007
+054	I'm... looking for someone.
+055	Oh, yeah?	VO_sol.sol_sys_0044
+056	A... woman.
+057	Old flame of yours?	VO_sol.sol_sys_0031
+058	Well...
+059	In a slum like this? You looking for her, or chasing her down?	VO_sol.sol_sys_0001
+060	Saving her, of course.
+061	Heh. So you're the decent kind, huh?	VO_sol.sol_sys_0007
+062	I-I suppose.	VO_zain.zain_sys_1047
+063	No need to get all bashful.	VO_sol.sol_sys_0022
+064	No need to compliment me.
+065	Look, I actually know this area pretty well. How 'bout I help you out?	VO_sol.sol_sys_0038
+066	You'd do that?	VO_zain.zain_sys_0025
+067	It's no trouble. I was just on my way home from work.	VO_sol.sol_sys_0004
+068	How 'bout we swing past my place for a bit?
+069	He left... I shouldn't have let him go.	VO_kaya.kaya_sys_0031
+070	...
+071	Why can't he be honest with me?	VO_kaya.kaya_sys_0022
+072	Oh, dear. Trouble in paradise?
+073	Hm...
+074	Are you in good health?	VO_waginao-b.waginao-b_sys_0001
+075	This... doesn't bode well.
+076	I have to say, I really enjoyed the trip here.	VO_waginao-b.waginao-b_sys_0005
+077	Hello, Most Reverend Bishop Waginau.
+078	You know, I think I'm starting to understand where your flights of fancy come from.	VO_waginao-b.waginao-b_sys_0004
+079	Should you really be exposing your fair countenance to the harsh rays of the sun? What if a commoner were to lay eyes upon you?	VO_kaya.kaya_sys_0007
+080	There's no need for that silly rule in here. No need for pretenses, either.
+081	I'm here to make... an earnest request.
+082	A request? Then you came all the way out here to convince me to return? I suppose you felt the Lord Commander wasn't up to the task.	VO_kaya.kaya_sys_0030
+083	Our Lord Commander is a gentle man. His kindness is part of his charm.	VO_waginao-b.waginao-b_sys_0006
+084	It certainly is.
+085	I'd like you to curb your archaeological and historical investigations.	VO_waginao-b.waginao-b_sys_0020
+086	Would you, now?
+087	Come, it's for your own good. Didn't you yourself mention that you've been attacked on multiple occasions?
+088	It is my wish that the Holy Guard should stand as one. If you persist in this foolishness, we could lose you. Just think—Zain would be devastated.	VO_waginao-b.waginao-b_sys_0002
+089	I do get attacked every time I get too close to the slums. Those hooded figures—	VO_kaya.kaya_sys_0029
+090	Residents of Lost Blue, I'm sure. They don't seem the sort to take kindly to someone prying into their business.	VO_waginao-b.waginao-b_sys_0030
+091	Right.
+092	Now, now. You wouldn't turn your back on me without giving me the courtesy of an answer, surely?	VO_waginao-b.waginao-b_battle_0019
+093	Upon reflection, I thought it best I extricate our Lord Commander from Lost Blue as quickly as possible. I should make haste.
+094	Ahh... I see. I shall leave this matter in your capable hands, then.	VO_waginao-b.waginao-b_sys_0045
+095	Actually, Most Reverend Bishop Waginau... I have a request to make of you in turn.
+096	Let's hear it.	VO_waginao-b.waginao-b_sys_0006
+097	Please disregard my resignation letter.
+098	The usual, then.	VO_waginao-b.waginao-b_battle_0016
+099	My apologies.
+100	Not to worry. I am only too happy to oblige.	VO_waginao-b.waginao-b_sys_0037
+101	Hmhm. I couldn't disappoint such a pretty face.	VO_kaya.kaya_sys_0007
+102	Whatever beauty I may have pales in comparison to yours.	VO_waginao-b.waginao-b_sys_0005
+103	Oh, please. There's no need to be so humble.	VO_kaya.kaya_sys_0008
+104	Oh, please. There's no need to flatter me so.	VO_waginao-b.waginao-b_sys_0007
+105	I wasn't—
+106	...
+107	Is this...?
+108	Welcome to the world's cesspool, my friend.	VO_sol.sol_sys_0004
+109	Terra: Lost Blue (Memories)
+110	So, who did you say you were looking for, again?	VO_sol.sol_sys_0001
+111	I—
+112	Ey, Yuvan! Is that guy your mark for today?	VO_thiefm.thiefm_sys_0002
+113	Ugh! You reek. Get out of my face!	VO_sol.sol_sys_0016
+114	Yuvan?
+115	That's me. Pretty cool name, huh?	VO_sol.sol_sys_0007
+116	Heh heh heh. C'mon, Yuvan! Let us have him already.	VO_thiefm.thiefm_sys_0007
+117	So this was a setup.	VO_zain.zain_sys_0042
+118	You only have yourself to blame. This was obviously a trap.	VO_sol.sol_sys_0044
+119	Don't keep me waitin'! I haven't eaten anythin' in days! I'll take whatever I can get.
+120	Check out his fancy digs! These'll sell good. Nice one, Yuvan!	VO_thiefm.thiefm_sys_0024
+121	W-wait! I'm not here to fight you! Can't we talk about this?!
+122	You can't win. Lay down your weapon.	VO_zain.zain_sys_0012
+123	Yeah, yeah. Settle down. It's not like I wanted to fight you, anyway.
+124	What?!	VO_zain.zain_sys_0025
+125	These guys are the real catch today. Let's see what they've got...	VO_sol.sol_sys_0007
+126	W-wait... You used me as bait?!
+127	It was just too good of an opportunity to pass up—you stick out like a sore thumb down here. So when idiots like these inevitably come and attack you, even if I help out, it's just self-defense.
+128	...	VO_zain.zain_sys_0029
+129	You're not feeling bad for them, are you? Man, you really are dense.
+130	Huh?
+131	They're not worth your pity, you know. Not this lot.
+132	They steal whatever they can get their hands on, they eat filth off the streets, and they kill without a second thought.	VO_sol.sol_sys_0022
+133	Then I should convey my gratitude. I'm—
+134	Don't mention it. And no need to introduce yourself—I don't care who you are.
+135	You look cool. That's enough for me.	VO_sol.sol_sys_0010
+136	R-right...
+137	So how are you planning on rescuing that damsel of yours, anyway?	VO_sol.sol_sys_0031
+138	If I find her... I'm going to take her away from here.	VO_zain.zain_sys_0031
+139	Heh. You sayin' this place isn't good enough for your girl?	VO_sol.sol_sys_0002
+140	Oh, no, I... Sorry. I didn't mean to imply that.	VO_zain.zain_battle_0018
+141	Listen... I don't know what the deal is between the two of you, but if your girlfriend is down here, she's already saved, isn't she?	VO_sol.sol_sys_0001
+142	What? Excuse me, but you literally just called this place a cesspool.
+143	Sure did. This is a place where the sun doesn't shine. Not many people would choose to come to this godforsaken place.	VO_sol.sol_sys_0005
+144	But those who do are here because they can't live anywhere else. This is the only place they can thrive. You feel me?
+145	For people like that, this place is its own sort of salvation. You can steal, and wallow in the mud... Even if you carry some terrible sins and secrets that should never see the light of day, so what? Light don't shine down here anyway.
+146	Nobody's gonna track you down here. Nobody's going to come after you. That alone is a pretty big relief for some of the people here.	VO_sol.sol_sys_0010
+147	Some people... just want to be left alone?
+148	Pretty much.	VO_sol.sol_sys_0004
+149	What about you, Yuvan?
+150	Who, me?	VO_sol.sol_sys_0027
+151	Yes. What makes you so different from them?
+152	Do you not wish to be saved?
+153	Saved? Hah.	VO_sol.sol_sys_0031
+154	I want to save all those I possibly can. And I won't give up until I've illuminated every corner of this world!	VO_zain.zain_sys_0042
+155	Hah! That's cute. Maybe I ought to call you the Rising Sun.	VO_sol.sol_sys_0007
+156	Are you trying to be funny?	VO_zain.zain_sys_0030
+157	Funny? Hmph. You're the one who's funny. Are you going to try and save those cretins who were ready to tear you limb from limb? Are you going to try and shed light on this stinking cesspool? You can try... But it's not gonna work.
+158	I want to at least see where my words can take me.
+159	You sure like your words, huh? Heh. I like your spirit, old man.	VO_sol.sol_sys_0045
+160	Is that what drew you to him, too?	VO_sol.sol_sys_0001
+161	Who're you talk—?
+162	Come on. No point hiding anymore. Come out where we can see you.	VO_sol.sol_sys_0002
+163	Wha—?!	VO_zain.zain_sys_0025
+164	No need to be shy. You're his old flame, right? That's why you've been following us. Watching us.
+165	I thought I would finally get to hear your voice again.
+166	I-I can't believe it! I... I don't even know what to say! Haha...	VO_zain.zain_sys_0029
+167	...
+168	I have so many questions. Why are you here? What have you been doing all this time?
+169	...
+170	Talk to me, please... I just want to hear your voice.	VO_zain.zain_battle_0016
+171	But you merely clutched at your throat...
+172	———!
+173	And when your lips did move, no sound escaped them.
+174	What's wrong?
+175	Not sure how far your words are going to get you with this one.	VO_sol.sol_sys_0001
+176	Is there something wrong with your voice?
+177	The terrible scars on your throat had left you without a voice.
+178	Wh-what happened to you?	VO_zain.zain_sys_0022
+179	"This is a place for the people the world has discarded—myself included. There is no salvation for us."
+180	No...
+181	"Trying to save me after I've been neglected for so long is a kindness I could do without."
+182	Those aren't her words.	VO_zain.zain_sys_0012
+183	How would you know?
+184	I...!
+185	If words are so important to you, then it only makes sense for you to discard someone like her, who can't talk.	VO_sol.sol_sys_0005
+186	No! I wouldn't—	VO_zain.zain_battle_0016
+187	Sorry. Are my words getting a little too harsh for you?	VO_sol.sol_sys_0035
+188	Wh-what's gotten into you all of a sudden?
+189	Oh, nothing... I just really hate guys like you, who wave around this illusion of justice.	VO_sol.sol_sys_0022
+190	I...!
+191	Come on, Zain. Let's go home.	VO_kaya.kaya_sys_0001
+192	Well, well. Your friend's dressed real fancy too. There some kinda VIP tour of the slums going on that I haven't heard about?	VO_sol.sol_sys_0044
+193	If I'm a VIP, I don't need to respond to you.
+194	Heh. Touche.	VO_sol.sol_sys_0007
+195	...
+196	Come on, Zain. We need to go.	VO_kaya.kaya_sys_0001
+197	...
+198	That goes for us, too, little lady. No point hanging around here.	VO_sol.sol_sys_0001
+199	I...
+200	———?
+201	I won't abandon you here. And I will illuminate this place, if it's the last thing I do!	VO_zain.zain_sys_0020
+202	...
+203	Heh. Funny thing to say when you're wearing a dark expression like that.	VO_sol.sol_sys_0010
+204	You chivalrous fool.	VO_kaya.kaya_sys_0029
+205	That's me.
+206	I really am an idiot.	VO_zain.zain_sys_0016
+207	Love got you down?	VO_ortima.ortima_sys_0007
+208	Why...? Why am I such a fool?
+209	It is love though, right?
+210	Northern Pride: Headquarters of the Holy Guard (Memories)
+211	Othima, how would you give a voice to someone who cannot speak?	VO_zain.zain_sys_0031
+212	Uhh... You're going to have to give me more to go on than that.
+213	There's someone I want to save through the power of words, but I don't know how to go about it.
+214	And this person can't talk? Is that the only obstacle here?	VO_ortima.ortima_chara_0010
+215	I keep trying to think of a way to make it work, but I'm coming up empty. I'm such a useless fool...
+216	You really are, if you can't see the simple solution right in front of you.
+217	Wh-what do you mean?	VO_zain.zain_sys_0026
+218	Just write letters. Duh.
+219	Letters! Why didn't I think of that?!
+220	Love letters, eh? Pretty romantic stuff.	VO_ortima.ortima_sys_0010
+221	I-it's not like th—
+222	And by romantic, I mean boring. How old-fashioned can you get?	VO_ortima.ortima_sys_0022
+223	I-I'm not writing love letters!
+224	Sure you're not.
+225	I'd rather die than have to express something like that in written form!	VO_zain.zain_sys_0042
+226	Now you're just exaggerating.
+227	Hello, you two. Just popped in to say good bye. I'm heading out for a bit.
+228	Well, well. If it isn't Little Miss I'm-Not-Quitting-After-All. Where are you off to?
+229	Tease me if you like, but I got a fifty percent increase in my salary when I returned.	VO_kaya.kaya_sys_0007
+230	Are you serious?! I guess Waginau really did mean business when he went off to personally retrieve you, then.	VO_ortima.ortima_sys_0044
+231	Why don't you try handing in your resignation too? Who knows—it might pay off.
+232	I doubt it. I think it's a little early in my career for me to be pulling a stunt like that.	VO_ortima.ortima_sys_0031
+233	Besides, it looks like our boss just hit puberty. Gotta help him through that first.	VO_ortima.ortima_sys_0046
+234	Haha.
+235	Speaking of which... Any idea what to do about Lord Zain?
+236	He's just a little overexcited. May I suggest a bucket of cold water to bring him back to his senses?	VO_kaya.kaya_sys_0022
+237	Will do. Love is in the air...
+238	Kaya... Where are you headed?
+239	I'm going to investigate the Slothstein ruins again.	VO_kaya.kaya_sys_0006
+240	Don't worry, I'm not leaving anyone in the lurch. I've finished up my work—and I'm not going to turn away from a raise like that.
+241	I see... Hold on a moment.	VO_zain.zain_sys_0037
+242	Here.
+243	Oh? A letter?	VO_kaya.kaya_sys_0031
+244	Would you deliver it to Lost Blue for me?
+245	I... What?	VO_kaya.kaya_sys_0025
+246	I'm giving Othima's strategy a try.
+247	His... strategy?	VO_kaya.kaya_sys_0004
+248	Yes! I'm going to use letters to communicate.
+249	Letters?	VO_kaya.kaya_sys_0005
+250	They're the best way to converse with someone who can't talk. I could've kicked myself for not thinking of it earlier!
+251	What...? Oh... I see.	VO_kaya.kaya_sys_0011
+252	I-it was Othima's idea.
+253	So... you want me to deliver a love letter for you?
+254	I-it's not a love letter!	VO_zain.zain_sys_1047
+255	Of course not.	VO_kaya.kaya_sys_0022
+256	J-just think of it as a mission! A mission like any other!
+257	Right. Sure. Why not?	VO_kaya.kaya_sys_0030
+258	Kaya, please... This is the best a fool like me can hope for.
+259	It's true. You really are a blockhead.
+260	You didn't even write an address.	VO_kaya.kaya_chara_1003
+261	Dang... That's almost medieval!	VO_sol.sol_sys_0010
+262	I've got a delivery. For the girl.
+263	———!
+264	You here alone? Where's the pompous suit of armor?	VO_sol.sol_sys_0002
+265	You should cut him some slack—he's going through a rough patch. He's at that age, you know.
+266	Lost Blue (Memories)
+267	Who're we meant to write back to?	VO_sol.sol_sys_0001
+268	I'm sorry?
+269	There's no return address or anything. Are we just supposed to write "Dear So-and-So"?	VO_sol.sol_sys_0004
+270	Oh, blank will do. I know who to give it to.
+271	Blank, huh? Okay.	VO_sol.sol_sys_0045
+272	You're not going to read it, are you? I told you, it's for her. Keep your nose out of it.	VO_kaya.kaya_sys_0012
+273	It'll go unread, then. She's refusing to open it.
+274	...
+275	Besides, you haven't paid me a delivery fee.	VO_sol.sol_battle_1017
+276	A fair point.
+277	Heh. Tell you what—I'll read this, and consider it paid.
+278	"To you, who has forgotten how to smile."	VO_sol.sol_sys_0031
+279	...
+280	"Are you smiling?"	VO_sol.sol_sys_0044
+281	"Are you able to smile down there, in that place where the light does not penetrate?" Ugh. Nope, sorry. I can't go on. I think I'm gonna barf.
+282	"I never forgot you, you know. Not even for a moment. Your existence is carved permanently into my heart."	VO_kaya.kaya_sys_0031
+283	...
+284	Curse my photographic memory.	VO_kaya.kaya_sys_0001
+285	A rather passionate letter, wouldn't you say?	VO_sol.sol_sys_0010
+286	...
+287	So, are you going to send a reply?	VO_sol.sol_sys_0022
+288	"Yet I couldn't get you to smile."	VO_kaya.kaya_sys_0006
+289	"I want to hear your thoughts. Will you share them with me? Remember: the promise we made is still unfulfilled."
+290	"You brightened my life. All I wanted was to shine some light on yours as well."	VO_kaya.kaya_sys_0044
+291	"Why did you go? Why didn't you tell me anything?"
+292	"Dear Mister Blank."
+293	Mister... Blank?	VO_zain.zain_sys_0029
+294	Oh, dear. I suspect that's my fault.
+295	Northern Pride: Headquarters of the Holy Guard (Memories)
+296	And? Don't leave me in suspense. What else did she write?	VO_kaya.kaya_sys_0001
+297	"Thank you for your passionate love letter."
+298	I-it wasn't supposed to be a love letter! All I did was put my emotions into words...	VO_zain.zain_sys_1047
+299	"In response to the feelings you describe, I must confess..."	VO_kaya.kaya_sys_0005
+300	W-wait, is that really the next part?! Kaya, hold on, don't read that yet! I'm not rea—!	VO_zain.zain_sys_0026
+301	"I'm very curious as to how a puffed-up VIP plans to shine his light on me down here."
+302	"Cheers, from the world of darkness."
+303	Wha—?!	VO_zain.zain_sys_0025
+304	"Much love, Yuvan, the man dressed all in black." Wait... Yuvan?!
+305	Pffft! Hahaha.
+306	Why—?
+307	Hey, I'm just the delivery girl. He was the one who actually passed on the letter to her.	VO_kaya.kaya_sys_0006
+308	But then... how am I supposed to know if my words were even received?
+309	Oh, she got them, all right. Yuvan read the letter out loud.	VO_kaya.kaya_sys_0023
+310	He what?!
+311	With a little help from me.	VO_kaya.kaya_sys_0044
+312	You...!	VO_zain.zain_sys_0025
+313	How did it go again? "Your existence is carved permanently into my heart"?
+314	Oh, gods... Please let this be a dream. If not, may the ground swallow me up!
+315	Dummy.	VO_kaya.kaya_sys_0008
+316	If I didn't know any better, I'd think this was a romantic comedy.	VO_kanon_3s_cano.kanon_sys_0008
+317	Northern Pride: Archives (Present Day)
+318	This is Lord Zain's final will and testament?
+319	That can't be right... Can it?	VO_kanon_3s_cano.kanon_sys_0039
+320	Lord Zain... You were the embodiment of light.
+321	You illuminated so much of this world... In fact, you still shine on even now, like the stars above.
+322	Justice is an uncertain concept, yet somehow you made it seem absolute.	VO_kanon_3s_cano.kanon_sys_0022
+323	You continued to pursue your farfetched dreams of a world entirely at peace, right up until your dying breath.
+324	And now the weight of your legacy is mine to bear. I don't know how I'm supposed to do that. I don't think I can do it.	VO_kanon_3s_cano.kanon_sys_0030
+325	How did you manage it? I wish I could ask you that. Why did you have to...
+326	Huh? There's something sticking out of the diary.
+327	Is this... a bookmark?	VO_kanon_3s_cano.kanon_sys_0031
+328	I met you for the first time shortly before my promotion to Lord Commander.
+329	You were still very talkative back then.

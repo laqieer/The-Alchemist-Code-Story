@@ -1,0 +1,92 @@
+﻿001	Ngh?!
+002	(Why did I stop?!)
+003	Why do you hesitate? Show me your resolve!	VO_dhiruga.dhiruga_sys_0001
+004	Eep! Aaahh!	VO_neena.neena_sys_0025
+005	I win.	VO_dhiruga.dhiruga_sys_0001
+006	Ngh... I guess I really am weak.	VO_neena.neena_sys_0027
+007	Not at all.	VO_dhiruga.dhiruga_sys_0031
+008	Huh?	VO_neena.neena_chara_1005
+009	You fight well and your talents are more than sufficient. However, you are lacking something crucial.
+010	Would you tell me the reason why you wish to join the Scarlet Flame Guard so badly?	VO_dhiruga.dhiruga_sys_0002
+011	I want to repay Sir Gerald for everything he's done for me—but I'm not good enough, and I don't even know what it is I'm missing!	VO_neena.neena_chara_1002
+012	I presume you are talking about the Sir Gerald who serves as the vice-captain of the Scarlet Flame Guard?	VO_dhiruga.dhiruga_sys_0005
+013	Yes. Sir Gerald has helped me out a lot, and his father saved me once.
+014	I don't think I could ever truly repay him for everything he's done for me, but I want to try.
+015	I see. Miss Nina, what you lack is not strength. It is resolve...or perhaps I should say faith.	VO_dhiruga.dhiruga_sys_0031
+016	For whom do you fight? For what purpose? What are the beliefs that drive your blade, and where is your resolve to see them through?
+017	These are the things you lack, Miss Nina.
+018	The proof lies in your halted attack during our fight.	VO_dhiruga.dhiruga_sys_0020
+019	Huh? Th-that was just...	VO_neena.neena_chara_1005
+020	I can understand your hesitation. It is something that we all face on the field of battle, many times over.	VO_dhiruga.dhiruga_sys_0005
+021	However, the only means of overcoming your hesitation is conviction.
+022	As I have said, this is what you lack—and that is why you lost to me. It was not a question of strength, but of resolve.	VO_dhiruga.dhiruga_sys_0002
+023	Conviction...	VO_neena.neena_chara_1005
+024	Your convictions have no justice to them.	VO_gerard.gerard_sys_0002
+025	If you truly wish to join, you must show me proof that you have the conviction to stand by your principles.	VO_gerard.gerard_sys_0002
+026	U-um!	VO_neena.neena_sys_0001
+027	W-would you...keep teaching me? Please! I really, really want to improve!
+028	I suppose I could. My squadron is due to leave on a monster hunt shortly. Will you join us?	VO_dhiruga.dhiruga_sys_0007
+029	Yes! I'd be happy to!	VO_neena.neena_sys_0038
+030	Good. Glad to have you on board.	VO_dhiruga.dhiruga_sys_0037
+031	Y-you mean it?! Thank you! Thank you so much!	VO_neena.neena_sys_0033
+032	Listen up, everyone. This is Nina. She'll be accompanying us on our mission.	VO_dhiruga.dhiruga_sys_0001
+033	She's not a knight, but I'm sure you won't have any complaints about her sword arm. Treat her like she's part of the team!
+034	Hi! It's lovely to meet you all!	VO_neena.neena_sys_0001
+035	A therian?
+036	She's a damn therian...
+037	O-oh...
+038	(I should've known...)	VO_neena.neena_sys_0030
+039	(But...I can't afford to let this get me down!)
+040	First, we'll head to the village that has been suffering monster attacks.	VO_dhiruga.dhiruga_sys_0001
+041	The wastelands nearby are supposed to be rife with the creatures.
+042	Recently they've gotten braver, and have started skulking around the edge of the village. It's only a matter of time before they assault the village proper.	VO_dhiruga.dhiruga_sys_0031
+043	It is up to us to put down these monsters and restore peace to the village.
+044	All right, let's begin. Be on your guard!	VO_dhiruga.dhiruga_battle_0012
+045	Huh?
+046	—————!	VO_gluttony-y.gluttony-y_sys_0028
+047	(W-was that a scream?!)
+048	Dilga! Someone's being attacked!
+049	What?	VO_dhiruga.dhiruga_sys_0006
+050	You might not have heard it, but my ears are more sensitive than humans'. There was a scream coming from that direction!	VO_neena.neena_chara_1002
+051	Lead the way, Nina.	VO_dhiruga.dhiruga_sys_0001
+052	S-stay away! Stay back!
+053	Huzzah!	VO_dhiruga.dhiruga_battle_0004
+054	Are you all right?!
+055	Y-yes, I'm... Y-you're...! You're a therian!
+056	I...um...
+057	(Just forget about it, Nina! Focus on what's most important here!)
+058	I'll take care of this! Please, get yourselves to safety!
+059	R-right... Sorry about that. You saved our lives! Please, protect our village!
+060	Grrroooooorghh!	VO_Mwolf.Mwolf_battle_0028_a
+061	Captain! Another wave is coming!
+062	These numbers are far greater than what we expected. You there! Run back to the capital and call for reinforcements!	VO_dhiruga.dhiruga_battle_0020
+063	I want you and your knights to defend the village. The rest of the squadron will maintain a line of defense here with me. These fiends will not get past us!	VO_dhiruga.dhiruga_sys_0001
+064	Understood!
+065	As knights of the Envylian Guard, it is our duty to prevent any further harm from coming to these people!
+066	For our nation and the people of this land!
+067	Huzzah!
+068	Nina, I'm counting on you to support us. Fight well!	VO_dhiruga.dhiruga_sys_0002
+069	Right! Y-you too!
+070	We've taken out so many of them, but...	VO_neena.neena_sys_0016
+071	Grrroooooorghhhh!	VO_Mwolf.Mwolf_battle_0028_a
+072	Captain! We have sustained heavy losses. We should momentarily withdraw and regroup!
+073	You idiot! What do you think will happen to the village if we withdraw? We must hold fast until reinforcements arrive!	VO_dhiruga.dhiruga_sys_0015
+074	But, sir—!
+075	If I were to withdraw now and let this village be overrun by monsters, I would be breaking my oath to protect the people of this land and Envylia!
+076	I would rather die than let that happen!
+077	Dilga...
+078	What does being a therian have to do with anything? What should be protected in this world but the joy and laughter of the people—of all people?
+079	I will not stand by and watch someone's home be taken from them!
+080	Now, you run along, and don't worry about me. I'm not going to fall here! Gwahahaha!
+081	I...
+082	I agree! We can't withdraw!
+083	We're the only people who can protect this village!	VO_neena.neena_sys_0012
+084	This village is someone's hometown! How would you feel if it was your hometown that was in danger? Would you stand by and watch it fall?!
+085	Th-that's...!
+086	Stand fast! This is what you have been training for!	VO_dhiruga.dhiruga_sys_0001
+087	If you cannot even protect this village you're standing right in front of, how can you hope to protect the whole of Envylia?!
+088	I will fight! Even if I'm left here to fight alone, I won't budge an inch!	VO_neena.neena_battle_0010
+089	Hah. Well? Are your ears not burning with shame?	VO_dhiruga.dhiruga_sys_0007
+090	The enemy has dwindled! Let's show them what our determination is made of!	VO_dhiruga.dhiruga_battle_0012
+091	Huzzzzzzaaaaaahhhhh!
+092	Huzzaaah!	VO_neena.neena_sys_0032

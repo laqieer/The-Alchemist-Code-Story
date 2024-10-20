@@ -1,0 +1,31 @@
+﻿001	Oh. It's been a while since I've breathed this air. It feels good to be back in Slothstein!	VO_hazel.hazel_sys_0004
+002	Oh...Carol.	VO_hazel.hazel_chara_1010
+003	Hey, Hazel! I haven't seen you in a while. Have you gotten used to your job as a mercenary?	VO_carol.carol_sys_0009
+004	Long time no see. Yeah. I just got back, actually. Have you been shopping? Looks like you're carrying a lot of bags.	VO_hazel.hazel_chara_1020
+005	Yes. I was buying tools for a spring cleaning. Vincent isn't going to be at the manor for a few days, so I thought I'd use this opportunity to make it spick and span.	VO_carol.carol_sys_0004
+006	I see. It's rare for Vincent to be absent for so long. I'm proud of you for cleaning the house in the meantime.	VO_hazel.hazel_sys_0045
+007	Hey! Don't pat my head like I'm a little girl. I'm always telling you not to.	VO_carol.carol_chara_1011
+008	Anyway, thank you for holding my bags.	VO_carol.carol_sys_0029
+009	Not at all. It's nothing. By the way, Carol, have you gotten used to your prosthetic leg?	VO_hazel.hazel_sys_0007
+010	A long time ago! You ask me that every time we meet, Hazel.	VO_carol.carol_sys_0005
+011	Do I? Maybe it's because I remember the day I carried you to Vincent's manor.	VO_hazel.hazel_sys_0016
+012	Oh... Vincent told me about it. He said that he was the one who found me, but you were the one who carried me back.
+013	But that was a long time ago! Look at me now. I can even go out to do the shopping and everything.	VO_carol.carol_sys_0010
+014	Yeah. I'm really proud of you.	VO_hazel.hazel_sys_0008
+015	Hey! There you go again!	VO_carol.carol_chara_1011
+016	Heheh. Sorry.	VO_hazel.hazel_sys_0023
+017	Seriously. Even Vincent doesn't treat me so childishly.	VO_carol.carol_sys_0030
+018	You think so? Anyway, I'm sure that you're very important to Vincent as well, Carol.	VO_hazel.hazel_sys_0025
+019	And you're very important to me too.	VO_hazel.hazel_chara_1010
+020	I know that. You're always so protective of me, Hazel... Thank you.	VO_carol.carol_sys_0007
+021	You're welcome.	VO_hazel.hazel_sys_0004
+022	(When Carol first came to Vincent's manor...she was trembling, in pain, and never stopped crying.)
+023	(She was even scared of my prosthetic legs... All the more reason why I want to do everything I can so that Carol can keep smiling the way she is now.)
+024	Huh? There seems to be some kind of commotion going on over there.	VO_carol.carol_sys_0031
+025	You're right. I wonder what it is.	VO_hazel.hazel_sys_0006
+026	Ru-run! A Guard Droid has gone rogue!	VO_knightm.knightm_sys_0028
+027	A-a Guard Droid...gone rogue?! Oh dear...	VO_carol.carol_sys_0027
+028	!
+029	(I can't afford to let Carol see the rogue Guard Droid...I won't allow it!)
+030	It's all right. I'll go stop it. Wait here with the bags. I'll be back right away!	VO_hazel.hazel_chara_1006
+031	Hazel...?!	VO_carol.carol_chara_1004

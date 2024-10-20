@@ -1,0 +1,145 @@
+﻿001	Come one, come all! The freshest vegetables straight from Envylia!	VO_mob-saga_omale.mog-saga_omale_sys_0007
+002	Water and food, enough for two weeks. The cheapest you have is fine.	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+003	I can't believe we can't get started yet! We came all the way out here to build some noble their mansion, and we have to wait?!	VO_thiefm.thiefm_sys_0016
+004	So, this is the Desert Zone, huh?	VO_kamui.kamui_sys_0044
+005	A bit unrefined, but it's got a good, lively atmosphere. There's something not quite right about it, though...	VO_kamui.kamui_sys_0031
+006	This place is too put together to have just received Liberation Army and Sephira refugees.	VO_kamui.kamui_sys_0027
+007	Ow! Hey, watch it!	VO_mob-saga_ymale.mob-saga_ymale_sys_0043
+008	Oh. I apologize.	VO_kamui.kamui_sys_0035
+009	Hm? Hey, did you come from out of town?	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+010	Yes, from Gluttony.	VO_kamui.kamui_sys_0004
+011	Huh! That's rare.	VO_mob-saga_ymale.mob-saga_ymale_sys_0044
+012	I escaped the civil war in Gluttony and came here in search of my friends.	VO_kamui.kamui_sys_0037
+013	Have you seen any refugees around here recently?	VO_kamui.kamui_sys_0001
+014	Uh, did you hit your head or something?	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+015	What?	VO_kamui.kamui_sys_0027
+016	The civil war in Gluttony, right? With the military coup that ended with the general becoming king?	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+017	That happened, like, decades ago.
+018	What?!	VO_kamui.kamui_sys_0028
+019	That battle against Ceclidis and his forces was decades ago?!	VO_kamui.kamui_sys_0021
+020	Decades?!
+021	Was I wandering the desert for that long?! Impossible!	VO_kamui.kamui_sys_0026
+022	If it had really been that long, I would have aged!
+023	Alchemy is a deep and varied art. While pushing the limits of its possibilities, at some point I realized I had become more spirit than human.
+024	This immortality is my curse for plunging into the most forbidden depths of Alchemy.
+025	No... It couldn't be that, could it?	VO_kamui.kamui_sys_0018
+026	If so much time has passed, any leads that might help me find my friends must be cold already.	VO_kamui.kamui_sys_0017
+027	Still, I can't give up. I swore to find them! I must believe they survived!
+028	Even if it was ages ago, there must be someone who remembers what happened! I just have to find them!
+029	Are you certain?	VO_kamui.kamui_sys_0028
+030	Yeah, they didn't have the mark on their bodies or whatever, but there was a community of refugees who escaped Gluttony some decades ago.	VO_thiefm.thiefm_sys_0004
+031	Do you know where to?	VO_kamui.kamui_sys_0002
+032	I could tell you, but if you don't mind me saying, I don't think you want to go there.	VO_thiefm.thiefm_sys_0031
+033	Why would that be?	VO_kamui.kamui_sys_0027
+034	They are retainers to the nobility. I don't know how or why, but the upper class of this country protects them.	VO_thiefm.thiefm_sys_0030
+035	All that can mean is that there's something shady about them.
+036	Let me give you some advice, sir: stay away. No need to stir up unnecessary trouble.	VO_thiefm.thiefm_sys_0002
+037	But even so...I must try.	VO_kamui.kamui_sys_0042
+038	If you say so...	VO_thiefm.thiefm_sys_0030
+039	The settlement is in that direction, beyond three oases. Just be prepared for a rough time.	VO_thiefm.thiefm_sys_0002
+040	This is...worse than I thought.	VO_kamui.kamui_sys_0031
+041	The Alchemia held in the sand here must be destabilizing the climate in this area.
+042	This is no place for people to live. Could the Sephira really be here? Well, I suppose that would be a good deterrent to anyone poking their noses around this area.	VO_kamui.kamui_sys_0030
+043	Halt, traveler.	VO_hisham.hisham_sys_0022
+044	What...?
+045	There is only barren wasteland beyond this point. You will gain nothing there.	VO_hisham.hisham_sys_0003
+046	You will not find whatever it is that you seek.
+047	On the contrary.
+048	What?	VO_hisham.hisham_sys_0006
+049	The people I seek must be here. Those whose devotion to Sephiron and her compassion is emblazoned upon their bodies.
+050	You..? Could it really be?!	VO_hisham.hisham_sys_0026
+051	My name is Kamui. I've come to fulfill my duties as Protector.	VO_kamui.kamui_sys_0037
+052	You...	VO_hisham.hisham_sys_0018
+053	K-Kamui?
+054	Could you be...Hisham?	VO_kamui.kamui_sys_0028
+055	It really is you! Your eyes, your face... Everything about you is just as I remember!	VO_hisham.hisham_sys_0020
+056	Hisham... You've changed quite a bit.	VO_kamui.kamui_sys_0027
+057	Of course I have! Do you have any idea how long it's been?!	VO_hisham.hisham_sys_0018
+058	Everybody I cared for... Everybody we knew, they're gone, and I've... I've been...	VO_hisham.hisham_sys_0019
+059	Hisham, I'm sorry to have made you wait for so long.	VO_kamui.kamui_sys_0035
+060	Uuh... Uuaaaahhh!!!
+061	...
+062	The soil is withered... Could this also have been caused by the loss of Sephiron?	VO_kamui.kamui_sys_0031
+063	That's what the wise women who survived said.
+064	They said that Babel is adjusting to a new natural order after the destruction of the old one.
+065	The expansion of the desert is the result of that? I take it this new natural order does not like humans very much.	VO_kamui.kamui_sys_0044
+066	Life in the desert isn't so bad. There is much to be learned simply by surviving day by day.
+067	Heh...	VO_kamui.kamui_sys_0007
+068	Hm? Did I say something funny?	VO_hisham.hisham_sys_0006
+069	Oh, no. I was just remembering... You always enjoyed the pursuit of knowledge. You've really grown into an impressive adult.	VO_kamui.kamui_sys_0008
+070	It has been a long time since anybody talked to me like I was a child. This is...somewhat embarrassing.	VO_hisham.hisham_sys_0047
+071	On the other hand, you have not changed at all. I'm surprised that you don't feel worse after all that time in the desert.
+072	I know what you mean. It almost scares me, how good I feel.	VO_kamui.kamui_sys_0004
+073	It has been too long since we were separated on that battlefield.	VO_hisham.hisham_sys_0022
+074	Time turns all emotions, anger, and sadness alike into dust and carries them away on the wind.
+075	Yes, I cannot disagree.	VO_kamui.kamui_sys_0037
+076	I am grateful that you kept the Sephira survivors together, especially since it has made it possible for us to meet again.	VO_kamui.kamui_sys_0007
+077	Unfortunately, I was not a particularly good leader. We lost many before I gained the experience and wisdom to lead well. By then, I was already beginning to really feel my age...	VO_hisham.hisham_sys_0018
+078	If we had not been separated from Isidore...	VO_hisham.hisham_sys_0020
+079	...
+080	That day, the Jam descended upon us like a tidal wave.
+081	Ea-earthquake?!	VO_hisham-b.hisham-b_sys_0027
+082	No... I sense that energy that makes me feel like my skin is on fire.	VO_ishido.ishido_chara_1007
+083	Wh-what?! Eek!	VO_malta.malta_battle_0025
+084	A giant wave of the Jam?! Hisham! Get over here!	VO_ishido.ishido_sys_0025
+085	I-it's no use! They're gonna...?!	VO_hisham-b.hisham-b_sys_0043
+086	Ngh—aaaaaah!!!	VO_ishido.ishido_sys_0018
+087	Isidore...?	VO_hisham-b.hisham-b_chara_1009
+088	Hurry! Take everybody far from here! I won't be able to hold this for long!	VO_ishido.ishido_sys_1021
+089	O-okay!	VO_hisham-b.hisham-b_sys_1047
+090	Everybody! Hurry, this way!	VO_hisham-b.hisham-b_sys_0001
+091	That was the last person! Isidore, hurry! Over here!	VO_hisham-b.hisham-b_sys_0018
+092	Got it!	VO_ishido.ishido_sys_0004
+093	What?! Oh, n—!	VO_ishido.ishido_battle_0022
+094	I-Isidore?! Isidore! No!!!	VO_hisham-b.hisham-b_sys_0027
+095	Isidore and Malta were never found.	VO_hisham.hisham_sys_0018
+096	I see... I'm sorry. That must have been tough for you.	VO_kamui.kamui_sys_0030
+097	Yes... The years have been long, indeed.	VO_hisham.hisham_battle_0019
+098	That day, the sephirah disappeared from the skin of most Sephira.
+099	In addition, we all grieved the loss of Sephiron's protection from this land.
+100	And yet...you survived.	VO_kamui.kamui_sys_0004
+101	Yes, we survived. Sadly, that's all we've done. We haven't managed anything more than that.	VO_hisham.hisham_sys_0004
+102	I don't know how they find us, but there are some raiders that target the Sephira.
+103	The nobles of this desert see the Sephira bloodline as nothing more than some resource to be taken control of.
+104	If things remain as they are, we will soon be torn apart and forget the importance of our heritage.	VO_hisham.hisham_sys_0018
+105	Perhaps that might be best for the Sephira in the long run, but...
+106	It is too early to give up, don't you think?	VO_kamui.kamui_sys_0031
+107	Yes, I do. We must believe there is some purpose to our survival. To that end, it is necessary to continue to protect...	VO_hisham.hisham_sys_0037
+108	No, not just protect. We must also teach and share the Sephira's traditions, crafts, and the compassionate will of Sephiron.
+109	A strong bond among the Sephira people is paramount to achieving that.	VO_kamui.kamui_sys_0037
+110	Have you decided on a name yet?	VO_hisham.hisham_sys_0045
+111	I have. We shall deliver the Sephira, the fruits of the desert, into the next generation. If that is our task, then—	VO_kamui.kamui_sys_0004
+112	We shall call ourselves the Fruit Peddlers.
+113	A secret society?! Sorry, but I don't know about anything like that.	VO_thiefm.thiefm_sys_0006
+114	I see...
+115	Besides, those Sephira that you speak of... Sure, some decades ago, a bunch of them came here as refugees.	VO_thiefm.thiefm_sys_0004
+116	Since then, I've heard that most of them were actually just mercenaries or former soldiers of Gluttony.
+117	While they were here, public order went right down the drain.	VO_thiefm.thiefm_sys_0030
+118	To be honest, most people don't even like talking about that period of time, so watch who you bring this topic up with.	VO_thiefm.thiefm_sys_0002
+119	Thank you for your advice. By the way, could I get one of those fruits?
+120	Well, you're a big spender, ain't ya? Most travelers just stock up on water and the cheapest food.	VO_thiefm.thiefm_sys_0011
+121	Uh, um... I was just going to visit a friend, and I figured it would be rude not to bring a gift.
+122	Heheh, let me guess. She's cute and you like her, right?	VO_thiefm.thiefm_sys_0044
+123	I-it's not like that.
+124	Well, whatever. Here you go. I've even wrapped it up pretty for you. Be careful out there, kid.	VO_thiefm.thiefm_sys_0007
+125	I will. Thank you.
+126	...
+127	I should've known it wouldn't be that easy.
+128	I came all the way out here with the information I gleaned from mother's stories, but I guess this is the end of the line.
+129	I guess it really was just some rumor that Sephira survivors built themselves a community in the desert.
+130	Ack!
+131	Hey, kid! Watch where you're going!	VO_thiefm.thiefm_sys_0016
+132	I'm sorry, I didn't mean to! I was so lost in thought—
+133	Hey, now... Those are some pretty nice clothes you got. You a noble or something?	VO_thiefm.thiefm_sys_0010
+134	Well, I...
+135	I can't believe this. We work our asses off all day to make a living, while nobles like this waste of space get to take cute little vacations.	VO_thiefm.thiefm_sys_0016
+136	I-it's not like that!
+137	(He's alone. I'd prefer to talk this out, but he doesn't seem to be willing to listen.)
+138	(I'll just make a run for it when I get the chance.)
+139	Just looking at you pisses me off! Hey, guys, get out here!	VO_thiefm.thiefm_battle_0019
+140	What...?
+141	There're too many! I might be in trouble here.
+142	Thugs really are the same, no matter where you go.	VO_kamui.kamui_sys_0030
+143	What?!	VO_thiefm.thiefm_sys_0006
+144	Do you not find it shameful to outnumber a kid by so many? Let me assist you, young one.	VO_kamui.kamui_sys_0016
+145	Huh? Oh, uh, thank you!

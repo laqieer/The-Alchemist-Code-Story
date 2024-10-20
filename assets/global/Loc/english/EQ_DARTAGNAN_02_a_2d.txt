@@ -1,0 +1,82 @@
+﻿001	It ends here!	VO_dartaniun.dartaniun_chara_1018
+002	... ...
+003	Hm? What's the matter?	VO_dartaniun.dartaniun_sys_0005
+004	No...I just realized you really are a knight. Thanks to you, the damage didn't spread too far.	VO_megistus.megistus_event_1006
+005	That's fine and all, but...did you figure out the cause?	VO_dartaniun.dartaniun_sys_0031
+006	Oh, hold on a second...	VO_megistus.megistus_sys_0004
+007	Hey, you gotta be kidding.	VO_megistus.megistus_sys_0050
+008	What's the matter?	VO_dartaniun.dartaniun_sys_0005
+009	It didn't go rogue... There's an illegally modified control board on this Droid.	VO_megistus.megistus_sys_1019
+010	Does that mean...?	VO_dartaniun.dartaniun_sys_0025
+011	What did you say?!	VO_amis.amis_sys_0026
+012	It's Amis' voice!	VO_dartaniun.dartaniun_chara_1008
+013	Something seems to have happened over there too.	VO_megistus.megistus_sys_0005
+014	Amis! What happened?	VO_dartaniun.dartaniun_sys_0001
+015	D'Artagnan, Megistos...
+016	Documents have been removed from our office. They're all regarding confidential information about our airships.	VO_amis.amis_sys_0018
+017	What? In other words, what happened just now...	VO_megistus.megistus_sys_0012
+018	There's a high possibility that someone set it up so that they could steal the documents. Right now, we're gathering the non-employees within the facility.
+019	Huh? Am I under suspicion as well?!	VO_dartaniun.dartaniun_sys_0016
+020	Of course not. That's the one thing I'm sure of.	VO_megistus.megistus_sys_0016
+021	Megistos...?	VO_dartaniun.dartaniun_sys_0025
+022	(Is he covering for me? Huh? Is he actually a good person?)
+023	There's no way you'd have the brain to pull something like this off.	VO_megistus.megistus_sys_0002
+024	That's why?! I regret ever having questioned my opinion of you!	VO_dartaniun.dartaniun_sys_0026
+025	Huh? What are you getting mad about?	VO_megistus.megistus_sys_0016
+026	Who wouldn't get mad about being talked about like that?!	VO_dartaniun.dartaniun_sys_0032
+027	Of course. No one in the Technology Division thinks you were involved D'Artagnan.	VO_amis.amis_sys_0011
+028	But from an external perspective, it's not that simple.
+029	That's why I need the two of you to investigate this matter.
+030	You want us to prove our own innocence!	VO_dartaniun.dartaniun_sys_0045
+031	Wait, hold on. Why am I a part of it too?	VO_megistus.megistus_sys_0050
+032	Well, D'Artagnan isn't very knowledgeable about this facility, right?	VO_amis.amis_sys_0006
+033	But I'm busy with examining the damage and other information control, so...
+034	In that respect, you have time on your hand, and you're surprisingly resourceful, so I'd feel reassured.
+035	You just want to throw all of this onto me, don't you?!	VO_megistus.megistus_sys_0001
+036	I also have to do things like confirm whether or not the blueprints have been stolen!
+037	I'll take care of that, so don't worry about it.	VO_amis.amis_sys_0011
+038	I think it's a good opportunity for you to take a break from the guns and cannons you're always working with.
+039	All right. Good luck!	VO_amis.amis_sys_0041
+040	Hold on a sec, look...argh. She's gone.	VO_megistus.megistus_event_1006
+041	I guess I have no choice. Hey, Lady Knight, what are we going to investigate first?	VO_megistus.megistus_sys_0029
+042	... ...
+043	Hey?	VO_megistus.megistus_sys_0002
+044	Huh, what do you mean? Investigate what?	VO_dartaniun.dartaniun_sys_0025
+045	Wait... You don't understand the situation at all, do you?	VO_megistus.megistus_sys_0003
+046	Hmm. I'm not really the type to put my brain to work.	VO_dartaniun.dartaniun_battle_0022
+047	Sigh... Listen. Right now we're in a pretty bad situation.	VO_megistus.megistus_sys_0029
+048	The documents for our precious airship were stolen. You get that?
+049	Ye-yeah...	VO_dartaniun.dartaniun_sys_0016
+050	Well, normally we'd assume that an outside party used what happened as a distraction to infiltrate our office, but...	VO_megistus.megistus_event_1017
+051	The situation is a little different. That's because we know the Droid was directly tampered with.
+052	Huh? Why?	VO_dartaniun.dartaniun_sys_0025
+053	We inspect our Droids once every week. If someone were to make even the tiniest of adjustments before that, we'd find out immediately.	VO_megistus.megistus_sys_0004
+054	We were betrayed by an insider. In other words, we can assume there's a spy in our ranks.
+055	No way... I can't believe someone would betray a good leader like Amis!	VO_dartaniun.dartaniun_sys_0021
+056	But, um, how do you we investigate that?
+057	That's the problem. The spy, of course, would have inside information regarding us. If we were to launch an all-out investigation, they would probably go into hiding.	VO_megistus.megistus_sys_0004
+058	That's not good!	VO_dartaniun.dartaniun_sys_0026
+059	Right. So I have a plan that I personally find very amusing.	VO_megistus.megistus_sys_0007
+060	I doubt anyone will pursue me this far.	VO_thiefm.thiefm_sys_0030
+061	That being said, even after that incident, the security was still a joke.
+062	Those in the Technology Division have become lax to their core. It was a smart choice to abandon ship.	VO_thiefm.thiefm_sys_0029
+063	How did it go?	VO_stknightm.stknightm_sys_0001
+064	Huh?! A-ah, you. Of course, it went well.	VO_thiefm.thiefm_sys_0018
+065	As you can see, there's information regarding the airship as well as blueprints for the latest artillery system.
+066	This will buy me a position in Gluttony's military ranks, right?
+067	Ah, was that what the conditions were?	VO_stknightm.stknightm_sys_0005
+068	He-hey, come on. I put my life on the line for this...huh?	VO_thiefm.thiefm_battle_0020
+069	Wh...why...?	VO_thiefm.thiefm_battle_0026
+070	Sorry, this information is all I need. I've no intention of recruiting a traitor like you into our ranks. Heheh.	VO_stknightm.stknightm_sys_0007
+071	With these blueprints for Slothstein's military equipment, the day when we will reign glorious over Gluttony's military is nigh!
+072	In other words, you're not only terrorists from our perspective, but Gluttony's as well.	VO_megistus.megistus_sys_0045
+073	Ah. What a terrible story. Thanks to that, it's clear to me that I don't need to go easy on you.
+074	I was just thinking about test-driving this guy over here.	VO_megistus.megistus_sys_0023
+075	It's made with the technology you wanted. Why don't you experience firsthand just how much power it's packing!	VO_megistus.megistus_battle_0014
+076	Huh. Long distance attack! It is aimed precisely towards us?!
+077	Wh-what...?!	VO_stknightm.stknightm_sys_0026
+078	Of course, it doesn't end here! Go, D'Artaggy!	VO_megistus.megistus_sys_0007
+079	I told you not to call me that!	VO_dartaniun.dartaniun_sys_0032
+080	Bullets are limited! Aim directly for the head of the 'herd'!	VO_megistus.megistus_sys_0002
+081	Yeah, yeah, I know what I'm doing!	VO_dartaniun.dartaniun_sys_0010
+082	Arg-gghh! I will not die here...!	VO_stknightm.stknightm_battle_0028_c

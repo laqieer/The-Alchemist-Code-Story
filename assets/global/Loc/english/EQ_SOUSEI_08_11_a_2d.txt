@@ -1,0 +1,122 @@
+﻿001	Well... Since Quence has gone out to face the opposition, I should go as well.	VO_ignacio.ignacio_sys_0031
+002	Wait, Ignacio.	VO_helenne.helenne_sys_0001
+003	Yes?	VO_ignacio.ignacio_sys_0006
+004	When you said that Emmel is just stalling for time, what did you...or, rather, why did you say that?
+005	Well... I said it because it's true. I had no ulterior motives in pointing it out.	VO_ignacio.ignacio_sys_0020
+006	Okay. But I think humans need that extra time, if only just so they can figure out what the right thing to do is from their perspective.	VO_helenne.helenne_sys_0031
+007	How about you? What do you think about that? Still not convinced?
+008	Well... I—	VO_ignacio.ignacio_battle_0019
+009	There it is again! When did you start doing that?
+010	Doing what?
+011	When did you start having to think about your answers like that? You preface everything with "Well, I," and choose your words so carefully now. You never used to do that.	VO_helenne.helenne_sys_0003
+012	We— I-I mean, I dunno! It's been so long, I forget!	VO_ignacio.ignacio_sys_0039
+013	(I'm sorry, Helene, but I'm not an ally to Emmel. I don't think I ever will be.)	VO_ignacio.ignacio_sys_0035
+014	Listen well, my son. We are but the shadows. We are the evil that sows chaos amongst the living. We are but a pack of zombies that hungrily devour the flesh of those who cross our paths.
+015	You must protect the true Nimul—the Child of God. Take the suffering and misfortunes that fall upon him unto yourself.
+016	Our savior has already resolved himself to save the world. In return, you must dirty your hands...
+017	Even if the savior himself despises you for it.
+018	Nimul. Child of God. You say you wish to save all the people of the world...	VO_ignacio.ignacio_sys_0030
+019	But there are some who simply cannot be saved. Even if their bodies may yet live, their hearts—their souls—will perish. And most of them have chosen this fate for themselves.
+020	They've chosen to live solely that the world may one day be reborn...and saved.
+021	Yet through your actions, you seek to rip this choice away from them. To deprive them of it...to deprive us of it! Can you even fathom how devastating that is?	VO_ignacio.ignacio_sys_0022
+022	That's a bit more of an entrance than I was expecting to make...	VO_nimuru.nimuru_battle_0022
+023	It certainly wasn't subtle. I hope those four haven't dragged any civilians into this mess.	VO_adlai.adlai_sys_0030
+024	It did make for an excellent diversion, though.	VO_waginao-c.waginao-c_sys_0004
+025	What's up next, Nimul?	VO_kuienai.kuienai_chara_1003
+026	Given how loud that was, we should assume that they more or less know exactly what we're up to now.	VO_nimuru.nimuru_sys_0031
+027	And based on what Quence said, it seems clear he wanted to keep us from coming into contact with Emmel.
+028	So we're going to be running into more literal roadblocks, then, most likely.	VO_adlai.adlai_sys_0031
+029	Exactly. That's why I think we should split into two groups here.	VO_nimuru.nimuru_sys_0004
+030	You want to split our forces even more?	VO_waginao-c.waginao-c_sys_0022
+031	I know we're stronger as a team, but our movements are much easier to track. We can be more covert with smaller numbers.	VO_nimuru.nimuru_sys_0005
+032	Eulalia and I will head west. Yna, Adaleigh, and Waginau, you three head east.	VO_nimuru.nimuru_sys_0002
+033	Roger! I've actually been analyzing the stealth magitek the people from Ire Belt were using.	VO_adlai.adlai_sys_0037
+034	It might not be able to block sounds, but it can at least make us invisible to the enemy.
+035	Is it really all right for me to go with Adaleigh, and not you?
+036	I have a general idea of this structure's layout. I think I can more or less serve as a guide. That could help you find her faster, Nimul.	VO_kuienai.kuienai_sys_0031
+037	Your knowledge would better suit them than me. It'll help keep them out of trouble.
+038	Is that all right?
+039	Oh, of course!	VO_kuienai.kuienai_sys_0004
+040	Let's do this, you old dog!	VO_adlai.adlai_sys_0008
+041	Can you not call me that, please?	VO_kuienai.kuienai_sys_0030
+042	Haha. Been a while, hasn't it? Kind of makes me nostalgic for the good old days!	VO_adlai.adlai_sys_0004
+043	It has been a while. But I am neither old nor a dog, so let's not have any more trips down that particular memory lane!	VO_kuienai.kuienai_sys_0005
+044	For my part, I think the division Nimul suggested is well reasoned. I'm skilled in subterfuge magic, so I can help keep him concealed.	VO_eularea.eularea_sys_0006
+045	...
+046	Waginau? Is something bothering you?	VO_nimuru.nimuru_sys_0006
+047	No. I'm fine with this arrangement.	VO_waginao-c.waginao-c_sys_0039
+048	Good. Then let's go!	VO_nimuru.nimuru_battle_0015
+049	...
+050	Okay, something's definitely up. You've haven't said a word since we split up with Nimul! What's going on, Waginau?	VO_adlai.adlai_sys_0001
+051	I just feel a bit uneasy, that's all.	VO_waginao-c.waginao-c_sys_0016
+052	About what?
+053	About what that man said—Shahel, was it?	VO_waginao-c.waginao-c_sys_0004
+054	Emmel? Come to stop us? Don't be absurd!	VO_nimuru.nimuru_sys_0016
+055	I had a feeling you wouldn't believe me, even though I speak the truth.
+056	What would be the point of us fighting? What would it accomplish?	VO_nimuru.nimuru_sys_0004
+057	Our journey nears its end. We have defeated many Cursed Beasts and freed many Belt Regions already.
+058	The future is within our grasp now. A future where everyone can be saved.
+059	There's nothing further that Emmel needs to bear responsibility for, yet you're saying that—	VO_nimuru.nimuru_battle_0022
+060	Tell me, how exactly do you plan on saving the world?
+061	...	VO_nimuru.nimuru_battle_0019
+062	You've felled six of the seven Cursed Beasts and come all this way, yet you still have no plan for sealing the deal. The part where you actually save people is one big question mark.
+063	All you've been doing is going around mindlessly flaunting your power whenever you see people or circumstances you deem worthy of it.
+064	Will you use your Alchemy to purify the corruption, perhaps? Or to cleanse the world of sin magil?
+065	Can you even do either of those things with it?
+066	I—
+067	Her ambition in all of this is to give you time to realize yours, Nimul. That's all.
+068	She believes so strongly that you'll find a way to achieve your goal, she's willing to sacrifice herself for it. She's fought so hard to stay alive just so she can give you that opportunity.
+069	But, that's...!	VO_nimuru.nimuru_sys_0001
+070	No... No. These are all empty claims. You have no evidence to back up these lies of yours.
+071	See for yourself, then. My Castle Hierosolyma stands before you.
+072	I presume even you cannot dispute what your own eyes show you.
+073	Fine, then. I'll call your bluff!	VO_nimuru.nimuru_sys_0004
+074	Nimul completely bought into his words. But I still feel this is nothing more than a trap, or some other form of deception. We must remain vigila—	VO_waginao-c.waginao-c_sys_0002
+075	Waginau! Stop!	VO_kuienai.kuienai_sys_0002
+076	What?!	VO_waginao-c.waginao-c_battle_0019
+077	Adaleigh, I thought our forms were supposed to be completely concealed?!	VO_waginao-c.waginao-c_sys_0001
+078	We should be invisible to them! But that shot sure wasn't off by much...
+079	I'm afraid we've inherited all of our comrade Icona's techniques.
+080	And according to her, magic is something that everyone should be able to use here.	VO_ignacio.ignacio_sys_0001
+081	So of course, it's only natural that we would familiarize ourselves with powers of disguise.
+082	Waginau. Adaleigh. This is as far as you go. I'm afraid neither of you have the proper ticket for the show that awaits beyond.	VO_ignacio.ignacio_sys_0015
+083	Are you saying...?	VO_adlai.adlai_sys_0012
+084	It's just as I feared. This was all a trap to lure Nimul in.	VO_waginao-c.waginao-c_sys_0025
+085	That fool's sister is his weak point. His over-protectiveness will be his undoing.	VO_ignacio.ignacio_sys_0006
+086	We received a tip that, should Father bring her up in conversation with Nimul, it would almost certainly cloud his judgment.
+087	So you did lie to us! Is she even here?! Certainly, she hasn't taken over this land as you said!
+088	She is here, and she has indeed taken control. I assure you, none of the information presented was untruthful.	VO_ignacio.ignacio_sys_0039
+089	What?!	VO_adlai.adlai_battle_0019
+090	She bested my father and became the rightful heir to this land. But of course, that doesn't mean she has control over the will of the people who live here.
+091	And that will is where my heart lay.	VO_ignacio.ignacio_sys_0045
+092	Ignacio. You addressed Waginau and Adaleigh, but you left me out. That can't have been an oversight. What have you got up your sleeve?
+093	Yna Ku. I'd like to offer you a choice.	VO_ignacio.ignacio_sys_0002
+094	Will you rejoin the Infinite Serpent?
+095	The Ceremony of Creation is close at hand.
+096	No matter how hard Emmel should try to stop it, nor how much Nimul should scrabble to find a path forward, there remains only one way to save this world, and the Ceremony is it.	VO_ignacio.ignacio_sys_0030
+097	...Are you out of your mind?	VO_kuienai.kuienai_sys_0020
+098	What are you trying to accomplish here?
+099	Yna, you were never able to let down your guard with us, were you? You learned our techniques, and our intelligence...	VO_ignacio.ignacio_sys_0031
+100	But in the end, you left Superbia Belt without discovering our true intentions. Though you should be well aware of them now.
+101	And so you must know that this is the only way to save the world.
+102	Hmph.	VO_kuienai.kuienai_sys_0010
+103	Sorry to say, my outlook on the world is nowhere near as bleak as the Infinite Serpent's. I'm convinced there's another way forward for us; we just haven't found it yet. But it's there.
+104	Pity. I'd heard you were more of a realist.	VO_ignacio.ignacio_battle_0011
+105	I am. But I've also made new friends and discovered the joy of pursuing one's dreams. And that's what won me over.	VO_kuienai.kuienai_sys_0031
+106	What a shame. I truly thought we might be able to see eye-to-eye.	VO_ignacio.ignacio_battle_0010
+107	Well, don't blame me for not fitting into your delusions!
+108	Oh, my! I'd heard the smiths of Avaritia Belt were well-practiced in the way of the sword, but I had no idea just how wily you lot were.
+109	How were you able to dodge that?!	VO_kuienai.kuienai_sys_0025
+110	Quence showed me that same technique before. And given how frighteningly quick on the draw those who can use it are, I was naturally keeping myself at attention for just such an attempt.
+111	Grrr!	VO_kuienai.kuienai_battle_0019
+112	What are you planning to do with Nimul and Emmel?!	VO_waginao-c.waginao-c_sys_0001
+113	Nothing in particular. I simply intend to encourage him to make a choice.
+114	A choice, huh?	VO_waginao-c.waginao-c_sys_0006
+115	Nimul has the right to decide the future, but his time to make that decision is quite limited.	VO_ignacio.ignacio_sys_0001
+116	And if there must be a limit, would it not be preferable to extend it as much as possible, so he can weigh his options more carefully?
+117	Even, of course, if more time means more suffering for us all...
+118	The only thing I'm getting from all of this is that you're our enemy.	VO_waginao-c.waginao-c_sys_0004
+119	Exactly so. I must stall you here until those two siblings come to a proper conclusion.	VO_ignacio.ignacio_sys_0006
+120	I'm afraid no matter how hard I try, I can't see the value in that course of action. Our ways of thinking are just too far apart.
+121	In other words... Get out of our way, or we'll get you out of our way.	VO_kuienai.kuienai_battle_0015
+122	Very well, then. If it's a fight you're looking for...!	VO_ignacio.ignacio_sys_0038

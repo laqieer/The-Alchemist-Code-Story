@@ -1,0 +1,224 @@
+﻿001	You mean to tell me the assassinations of our nobles are being carried out by a single culprit?
+002	That is correct, my lord. We humbly apologize for disturbing you with such foul news at this critical moment.	VO_stknightm.stknightm_sys_0027
+003	Why not let the Blue Flame Guard rid us of the rogue?
+004	The Blue Flame Guard?! But my lord, if we were to reduce the number of them guarding this castle, we may very well become the assassin's victims!	VO_knightm.knightm_sys_0025
+005	Then what do you suggest we do? Are we to simply leave those beyond these walls to die?	VO_thiefm.thiefm_sys_0031
+006	I-I would never...! Still...	VO_knightm.knightm_battle_0019
+007	The mobilization of the Blue Flame Guard would cause much distress among the populace. We need something more...subtle.	VO_stknightm.stknightm_sys_0031
+008	Have we the time to devise a plan for such an endeavor? Time is of the essence here!	VO_thiefm.thiefm_sys_0018
+009	With our legal reforms still under way, the absence of the knights may cost us dearly.
+010	There is no other choice. We will have to employ mercenaries for the defense of nobles beyond our walls. Make a proclamation of this decision at once!
+011	Yes, my lord!
+012	Gah! Who would dare to do such a thing?! And for what nefarious reasons?!	VO_stknightm.stknightm_battle_0022
+013	Some people really just have it.	VO_natalie.natalie_sys_0023
+014	"It"?	VO_vetel.vetel_sys_0025
+015	Luck! Or whatever you want to call it! I mean, come on. As soon as Vettel becomes our captain, we get a national commission?	VO_natalie.natalie_sys_0008
+016	...You make it sound as though I have no luck.	VO_gerard.gerard_sys_0002
+017	Still, it doesn't mean we have accepted him as our captain!	VO_thiefm.thiefm_sys_1047
+018	Tsk, tsk. This kind of resistance to positive change is why we're seen as soldiers that can barely do more than hack and slash.	VO_natalie.natalie_sys_0030
+019	Natalie, what are you trying to say?	VO_gerard.gerard_sys_0031
+020	I'm just saying that accomplishing this mission is a big chance to get the Scarlet Legion's name out there and show the world what we can do! That is, if the assassin really exists.	VO_natalie.natalie_sys_0016
+021	Well, it is a fact that the people in the upper crust of society in Envylia are getting assassinated.	VO_vetel.vetel_sys_0031
+022	One would think the Blue Flame Guard would be the ones doing something about it.	VO_gerard.gerard_sys_0030
+023	How pitiful. I understand they're still working out the kinks of governance, but it's shameful that they're failing to defend the lives of their own countrymen.	VO_gerard.gerard_sys_0016
+024	That's a little unfair. I'm sure they're just following orders.	VO_vetel.vetel_sys_0030
+025	They're probably stuck on guard duty at the castle, since the country declared independence only recently.
+026	In any case... I suppose we should just be thankful we have this opportunity.	VO_gerard.gerard_sys_0010
+027	Hey, you. What business might you have here at this hour?
+028	What?!
+029	Oh, well, you see...we were employed to do some patrols around here. Apparently, several crimes were reported in the area recently... And you are...?	VO_vetel.vetel_event_1015
+030	I see. I serve as a footman in this mansion. I am just now returning from running errands for my lord.
+031	You've heard of the recent incidents, have you not? Be cautious when walking out at night.	VO_gerard.gerard_sys_0002
+032	My, my. Such kind young men! Thank you for your regards. Now, I must be off. Good luck with your patrols.
+033	Everything seems to be fine here. Should we take a look around back?	VO_natalie.natalie_sys_0002
+034	Go ahead. Vettel, I leave the rest of this to you.	VO_gerard.gerard_sys_0004
+035	Gerald? Where are you going?	VO_natalie.natalie_sys_0006
+036	I just need to check something. I'll be right back.	VO_gerard.gerard_sys_0039
+037	What? Wait, Gerald! Gerald!	VO_natalie.natalie_sys_0027
+038	It's fine. He's not the kind of person who just does things on a whim. We can leave whatever it is to him.	VO_vetel.vetel_sys_0007
+039	Really? Hmph. You'd think that as a former captain, he would know a thing or two about teamwork.	VO_natalie.natalie_sys_0029
+040	We still consider him our captain, y'know.	VO_thiefm.thiefm_sys_1047
+041	Shut it!	VO_natalie.natalie_sys_0012
+042	Whew... It's been a long day. Time for bed.
+043	Not even a fragment of wariness. Pathetic.
+044	Wh-who are you?!	VO_knightm.knightm_sys_0025
+045	Ugh! Boring! So very boring!	VO_ren.ren_sys_0013
+046	How am I supposed to enjoy this?! What's wrong with you?! Did they forget to hook up the fight-or-flight instinct when they were building you?	VO_ren.ren_sys_0029
+047	Y-you transformed?! Wh-what are you?!	VO_knightm.knightm_sys_0042
+048	Me? I'm an assassin. The last man you will ever meet. Heh! What do you think? Good catchphrase, right?	VO_ren.ren_sys_0006
+049	I'm honestly a little disappointed that you're the only one here to appreciate it, though.	VO_ren.ren_sys_0030
+050	An assassin?! You mean, the one that has been—?!	VO_knightm.knightm_sys_0020
+051	Gah! Literally every other one of my targets said the same thing! It's just like, show a little creativity! Is that too much to ask?	VO_ren.ren_sys_0013
+052	S-somebody, help!!!	VO_knightm.knightm_sys_0028
+053	Oh, wow. Not even your last words are original. C'mon, try another one.	VO_ren.ren_sys_0028
+054	Give me a "Come at me, bro!" or a "Smite me, oh mighty smiter!" Hmph. The lack of respect in this industry is really appalling.	VO_ren.ren_chara_1006
+055	Eeeeek!!!	VO_knightm.knightm_sys_0019
+056	Oof. Nothing, huh? Well, I'm done here. It was barely worth crawling out of bed for this mission.	VO_ren.ren_sys_0030
+057	Just...die already.	VO_ren.ren_battle_0014
+058	Eeeek!!!	VO_knightm.knightm_sys_0018
+059	Huh...?	VO_ren.ren_sys_0025
+060	You've got quite a mouth on you. Assassin may not be the best job for you.	VO_gerard.gerard_sys_0030
+061	P-please, help me!	VO_knightm.knightm_sys_0019
+062	No need to ask. That is my mission, after all.	VO_gerard.gerard_sys_0004
+063	Who are you?	VO_ren.ren_sys_0001
+064	I am Gerald, Vice-Captain of the Scarlet Legion; a mercenary under the employ of Envylia.	VO_gerard.gerard_sys_0010
+065	A mercenary? Heh... Hehehe...	VO_ren.ren_sys_0006
+066	...?	VO_gerard.gerard_sys_0006
+067	Heh heh... Hahaha! Yes! Yes, finally!	VO_ren.ren_sys_0010
+068	Oh man, oh man, oh man! This is exactly the kind of thing I've been waiting for!	VO_ren.ren_sys_0046
+069	You're perfect!	VO_ren.ren_sys_0023
+070	You're...a strange one. What's your deal?	VO_gerard.gerard_sys_0002
+071	That's my line! What gave me away?! Was my wig crooked?	VO_ren.ren_sys_0006
+072	What's strangest to me is that more people didn't notice. There isn't an old man in the world who can walk so silently.	VO_gerard.gerard_sys_0017
+073	My footsteps?! Ugh, of course!	VO_ren.ren_sys_0045
+074	The biggest issue, however...?	VO_gerard.gerard_sys_0016
+075	No matter how perfect the disguise, there's no way someone emanating so much bloodlust could fail to draw attention.
+076	Bloodlust! Oh, you are good.	VO_ren.ren_sys_0025
+077	What...?
+078	This is so, so, so, so sweet! You are freaking great!	VO_ren.ren_sys_0046
+079	This is the excitement I've been looking for! Yahooo!!!	VO_ren.ren_sys_0008
+080	H-here he comes!	VO_knightm.knightm_sys_0028
+081	Oh, yes! This! This is what I'm in it for! There's no thrill in killing the pathetic, gormless targets! It's only in outdoing their capable guards!	VO_ren.ren_sys_0010
+082	Having the chance to witness such staunch, strong defenders such as yourself lose their cool when I flawlessly fulfill my mission objectives... This is the dream!
+083	Thank you, you witless noble! As a reward for your participation, I will gladly win this game with your death!	VO_ren.ren_sys_0033
+084	What?!	VO_ren.ren_sys_0026
+085	You definitely speak too much. You! Get out of here. You'll just get in my way.	VO_gerard.gerard_sys_0002
+086	Th-thank you! Thank you!	VO_knightm.knightm_sys_0027
+087	What the...? Hey, wait a minute!	VO_ren.ren_sys_0025
+088	You're not going anywhere. You're not the only one here on a mission.	VO_gerard.gerard_sys_0039
+089	Haha! A battle between two hired hands! Seriously the best!	VO_ren.ren_sys_0024
+090	Why am I not surprised that you are committed to monologuing even right before a fight?	VO_gerard.gerard_sys_0030
+091	"Before" a fight? Sorry, but it's already over.	VO_ren.ren_sys_0006
+092	What...?	VO_gerard.gerard_sys_0027
+093	...Nngh?!  Wh-when did you...?!	VO_gerard.gerard_sys_0042
+094	Oops! Did you forget? I'm an assassin! Duh!	VO_ren.ren_sys_0010
+095	My name is Ren, and I...am the last man you will ever meet.
+096	Ugh...!	VO_gerard.gerard_battle_0022
+097	Oh man. Thanks to you, this turned out to be an exhilarating night! After all that, I feel a little sorry to say this, but...I do have to go after that noble.	VO_ren.ren_sys_0008
+098	A mission is a mission after all. Gotta finish what I came for. Bye, Vice-Something of the Whatever Legion!	VO_ren.ren_sys_0030
+099	Huh...? Whoa!	VO_ren.ren_sys_0025
+100	Urgh... I am Gerald, Vice-Captain of the Scarlet Legion! You better not forget it again!	VO_gerard.gerard_battle_0019
+101	Ouch... Well! Throwing people across the room now, are we? Didn't your mama teach you any manners? Heh...hehehe... You seriously don't disappoint!	VO_ren.ren_sys_0042
+102	Argh! I am going to shut that trap of yours! ...Gah!	VO_gerard.gerard_sys_0025
+103	N-not now! Come on, legs! Move!!!	VO_gerard.gerard_battle_0019
+104	Aw, is this the end? I don't want it to end yet! I guess it's a sign of growing up to recognize that all fun times come to an end. Sorry Vice-Captain, but this is your time to die!	VO_ren.ren_sys_0030
+105	Ngh! This can't be how it ends!	VO_gerard.gerard_battle_0019
+106	...?!	VO_ren.ren_sys_0026
+107	I don't think I've ever seen you backed into a corner like this.	VO_vetel.vetel_battle_0002
+108	?!
+109	Sorry, was I late?	VO_vetel.vetel_sys_0035
+110	Yeah...as usual.	VO_gerard.gerard_sys_0004
+111	Uh-oh! Backup! Am I the one at a disadvantage now? That just adds to the excitement!	VO_ren.ren_sys_0025
+112	"Excitement"...?	VO_vetel.vetel_sys_0025
+113	He talks a lot.	VO_gerard.gerard_battle_0019
+114	I wish I could spend a little more time getting to know you since you just got here, but I have a mission to accomplish. Sorry, but I have to end this now!	VO_ren.ren_sys_0035
+115	Vettel, watch out! He's fast!	VO_gerard.gerard_sys_0025
+116	...! No way! You can see my moves?!	VO_ren.ren_sys_0025
+117	Well, you're far from the first opponent I've faced who was quick on their feet. There were plenty of people like that when I was in the Holy Guard.	VO_vetel.vetel_sys_0030
+118	Wow, really?! You're a Paladin?!	VO_ren.ren_sys_0026
+119	Ex-Paladin.	VO_vetel.vetel_sys_0004
+120	Oh, this just keeps getting better! Can a Paladin handle this?!	VO_ren.ren_sys_0025
+121	Ack...!	VO_vetel.vetel_sys_0042
+122	Wow! You really can keep up with me! You're fantastic!	VO_ren.ren_sys_0027
+123	Vettel is the Scarlet Legion's Captain. You shouldn't underestimate him.	VO_gerard.gerard_sys_0010
+124	About that...	VO_vetel.vetel_battle_0019
+125	...?
+126	He got you?!	VO_gerard.gerard_sys_0027
+127	He really is fast, isn't he?	VO_vetel.vetel_sys_0042
+128	Oh man, seriously? Really? Wow! Me?	VO_ren.ren_sys_0023
+129	I've never been praised by a member of the Holy Guard before! My bad!  Former Holy Guard member.	VO_ren.ren_sys_0009
+130	Don't let your guard down, Vettel! This one can hit you with an attack out of nowhere!	VO_gerard.gerard_sys_0002
+131	Gerald! Vettel! Are you okay?!	VO_natalie.natalie_sys_0016
+132	Natalie!	VO_gerard.gerard_sys_0025
+133	Oh? My, my. Is Lady Luck smiling down upon me? Is that a weakness I can take advantage of coming this way?	VO_ren.ren_sys_0006
+134	Natalie! Run!	VO_gerard.gerard_sys_0027
+135	What?!	VO_natalie.natalie_sys_0025
+136	I'm so sorry, but this the way to get to those tough guys. Don't hate me, okay?	VO_ren.ren_sys_0010
+137	Noooooo!!!	VO_natalie.natalie_sys_0028
+138	What?!
+139	Urk!	VO_vetel.vetel_battle_0023
+140	Vettel?! Vettel!	VO_natalie.natalie_sys_0021
+141	Alright! This turned out even better than I expected!	VO_ren.ren_sys_0009
+142	Protecting your friend by giving up your arm? You guys keep getting cooler and cooler!	VO_ren.ren_sys_0008
+143	Vettel... Bear with it just a little longer. This should be over in a moment.	VO_gerard.gerard_sys_0036
+144	A sneak attack from behind? You shouldn't annou—	VO_ren.ren_sys_0006
+145	...?! What the...? Hey, let go! I said let go!!!	VO_ren.ren_sys_0025
+146	Too late.	VO_gerard.gerard_sys_0010
+147	?!	VO_ren.ren_battle_0019
+148	You can't dodge from this close. This is the end.	VO_gerard.gerard_battle_0004
+149	Wh-wha...?! Whaaaa!!!	VO_ren.ren_sys_0026
+150	Gerald! Wait!	VO_vetel.vetel_sys_0018
+151	What...?!	VO_gerard.gerard_sys_0027
+152	?!
+153	Let me ask you one thing. What do you fight for?	VO_vetel.vetel_battle_0019
+154	What? You mean, who's my client? That's the one thing I won't talk about. You might not think much of us, but we assassins do have something of a code.	VO_ren.ren_sys_0025
+155	No, I mean...why did you choose a life of constant danger? Why do you wield a blade?	VO_vetel.vetel_battle_0021
+156	Why? For...money? Nngh!	VO_ren.ren_sys_0031
+157	Don't move! I will cut you down!	VO_gerard.gerard_sys_0002
+158	I am really not loving this situation...	VO_ren.ren_sys_0030
+159	Money. You take lives for something like that?	VO_vetel.vetel_chara_1007
+160	Oh, please. If you're gonna lecture me, just don't. If I were to write on paper all the sermons thrown at me, it'd stack taller than the Tower of Babel.	VO_ren.ren_sys_0002
+161	This is just the way the world is, okay? Kill or be killed.	VO_ren.ren_sys_0007
+162	You little...!	VO_gerard.gerard_sys_0012
+163	Gerald, hold on! I'm sorry. I don't mean to lecture you. I just want to know if this really makes you happy.	VO_vetel.vetel_sys_0014
+164	Happy?	VO_ren.ren_sys_0025
+165	Y-yeah... Sorry, this seriously hurts. Do you mind if I get this sword out of my arm?	VO_vetel.vetel_battle_0019
+166	I mean...sure. I'm not really in a position to say that you can't...	VO_ren.ren_sys_0037
+167	Dead right.	VO_gerard.gerard_sys_0004
+168	I said stop it. Ow! Huh... This is a good sword. Well maintained.	VO_vetel.vetel_sys_0014
+169	Uh, thanks.	VO_ren.ren_sys_0034
+170	You're very good with it. Don't you think your talents are wasted on something as frivolous as money?	VO_vetel.vetel_sys_0004
+171	Uh...	VO_ren.ren_sys_0025
+172	No matter what it costs you to swing this blade, you will only ever get those little pieces of paper. Instead...	VO_vetel.vetel_sys_0016
+173	What if a single swing of that blade could make hundreds, thousands, maybe even millions of people smile? Maybe it's just me, but it sounds a little more interesting than what you're doing now.
+174	Millions? ...Smile?	VO_ren.ren_sys_0025
+175	Well, we just started. So maybe a few dozen at best for now.	VO_vetel.vetel_event_1015
+176	But I truly believe that we can become an order of knights with that kind of influence.
+177	What?!
+178	Think about it. Taking lives, living hidden in the shadows...or saving lives, surrounded by happiness.	VO_vetel.vetel_sys_0001
+179	I think the latter would be much more fun. Don't you think so?
+180	What?!
+181	What's the point of all your chatter? What are you getting at?	VO_ren.ren_sys_0001
+182	Chatter? No, this is an invitation.	VO_vetel.vetel_sys_0025
+183	Uh...	VO_ren.ren_sys_0025
+184	Hey. Hey, wait a minute...!	VO_gerard.gerard_sys_0027
+185	The Scarlet Legion could use his help. My instincts tell me we could achieve more than we could have ever dreamed if he was with us... It's just...a feeling.	VO_vetel.vetel_sys_0004
+186	What did you say?!	VO_gerard.gerard_sys_0012
+187	What do you think? Any objections?	VO_vetel.vetel_sys_0007
+188	I do! I object! He almost killed me!!!	VO_natalie.natalie_sys_0040
+189	Yet he didn't. He attempted to, and he failed. We'll get him to apologize properly.	VO_vetel.vetel_sys_0025
+190	What...? An apology?! Really?!	VO_natalie.natalie_sys_0029
+191	Yeah, really.	VO_vetel.vetel_sys_0031
+192	Haha... Hahahahahaha!!!	VO_ren.ren_sys_0010
+193	What's so funny? I'm dead serious!	VO_vetel.vetel_sys_0016
+194	Sorry, man! Really...but, seriously, did you forget? I'm an assassin. Do you need to hear it again? Assassin! Assassin. Assassin, assassin, assassin.	VO_ren.ren_sys_0035
+195	I could do this all day. Honestly, how can one troop of mercenaries have this much character?	VO_ren.ren_sys_0008
+196	...! Does that mean...?	VO_vetel.vetel_sys_0007
+197	Nah. Don't get ahead of yourself.	VO_ren.ren_chara_1006
+198	Ah!	VO_vetel.vetel_battle_0022
+199	The sword! Gerald!	VO_natalie.natalie_sys_1034
+200	Wait!	VO_vetel.vetel_battle_0019
+201	Ugh!	VO_gerard.gerard_battle_0019
+202	Don't worry. There's no reason for me to fight you guys anymore. I mean, that stupid noble got away.	VO_ren.ren_sys_0007
+203	Wait, does this mean I was bested by that idiot?	VO_ren.ren_sys_0006
+204	I know you were hired for this mission, but if possible, I'd appreciate it if you'd let him go. I'd rather not fight you anymore.	VO_vetel.vetel_sys_0001
+205	That's the first time someone's tried asking me something like that straight to my face. You really are interesting.	VO_ren.ren_sys_0016
+206	Wait! Can I get your answer to my invitation?	VO_vetel.vetel_sys_0042
+207	Well, I'll have to report that I failed the mission first, and then...who knows?	VO_ren.ren_chara_1006
+208	I failed tonight, but it was still the best night ever! Thanks, weirdos!	VO_ren.ren_chara_2006
+209	Wait!	VO_vetel.vetel_sys_0018
+210	Who are you calling weirdos?!
+211	Vettel! Are you okay?!	VO_natalie.natalie_sys_0026
+212	Y-yeah, I just lost a little too much blood.	VO_vetel.vetel_sys_0027
+213	Aw, look at that. We've got a pretty ridiculous captain, don't we?	VO_thiefm.thiefm_sys_0030
+214	Is "ridiculous" your nice way of saying "stupid"?	VO_thiefm.thiefm_sys_0004
+215	Yeah.	VO_thiefm.thiefm_sys_0045
+216	I can hear you, you know?	VO_vetel.vetel_battle_0022
+217	Did... Did you guys call him your captain?	VO_natalie.natalie_sys_0006
+218	Well...yeah. Maybe.	VO_thiefm.thiefm_sys_0007
+219	What...?
+220	I mean... He was willing to give up an arm to protect Natalie. Who can object to a captain like that?	VO_thiefm.thiefm_sys_0030
+221	You...!	VO_gerard.gerard_sys_0009
+222	Come on. Get up, you stupid Captain.	VO_thiefm.thiefm_sys_0016
+223	Natalie, you can fix up this idiot's wounds, right?	VO_thiefm.thiefm_sys_0002
+224	I can hear you, you know!	VO_vetel.vetel_battle_0022

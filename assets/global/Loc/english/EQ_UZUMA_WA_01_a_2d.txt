@@ -1,0 +1,90 @@
+﻿001	Uzuma...I give you this hourglass. Take good care of it.
+002	If anything happens...I'm certain this hourglass will protect you.
+003	(Mother? Mother...where are you? Answer me!)	VO_uzma.uzma_sys_0025
+004	(No...no... My feet are sinking... I can't walk anymore!)	VO_uzma.uzma_sys_0020
+005	(I'm sinking! Ohh...no...I can't...breath...)	VO_uzma.uzma_sys_0027
+006	... ...!	VO_uzma.uzma_battle_0019
+007	It's...morning.	VO_uzma.uzma_sys_0016
+008	(I'm...alive.)
+009	It woke me up again today.	VO_uzma.uzma_sys_0022
+010	You're going out early today, "Mina."	VO_mob-saga_omale.mog-saga_omale_sys_0006
+011	Gotta work! That's right, old man! I heard there was a famous fortuneteller in this town. Do you know where I can find her?	VO_miuna.miuna_sys_0005
+012	Oh, are you talking about Uzuma? She does her fortune-telling at the corner of the square where there aren't too many people.	VO_mob-saga_omale.mog-saga_omale_sys_0004
+013	...But she's got a dark atmosphere about her. Besides, there are some bad rumors about her.	VO_mob-saga_omale.mog-saga_omale_sys_0031
+014	Bad rumors? Is she a fraud?	VO_miuna.miuna_sys_0006
+015	No, not those kinds of rumors. Her divinations are certainly accurate, but...she sees things.	VO_mob-saga_omale.mog-saga_omale_sys_0030
+016	She sees people's deaths.
+017	When she foresees someone's death, they really do die. Some believe that she uses her power of divination to kill off people who badmouth her.
+018	Thus, she's received the nickname Messenger of Death.
+019	Hmm. Messenger of Death, huh?	VO_miuna.miuna_sys_0031
+020	I don't know what business you have with her, but I'd stay away from her if I were you.	VO_mob-saga_omale.mog-saga_omale_sys_0031
+021	Sorry for keeping you waiting!
+022	Seriously! You're late, dad! Come on! Let's go!	VO_miuna.miuna_chara_1015
+023	At least let me eat my breakfast in peace. Honestly, you're so impatient. Who raised you this way?
+024	Hahahah. Indeed, I wonder who. Reminds me a lot of a strapping lad I knew. He was filled with energy and vigor, always running about where he pleased.	VO_mob-saga_omale.mog-saga_omale_sys_0008
+025	Tsk. Right. Oh, by the way...breakfast was delicious, old man.
+026	Thanks for everything. Take care of yourself.
+027	Hey, enough with the formalities, "Uhara"! You make it sound like this is our final farewell!	VO_mob-saga_omale.mog-saga_omale_sys_0006
+028	Come and drop by the next time you're around these parts!	VO_mob-saga_omale.mog-saga_omale_sys_0010
+029	Heh. Will do, old man.
+030	Dad, hurry!	VO_miuna.miuna_chara_1015
+031	Fine, fine.
+032	"Uhara", huh? This pseudonym has come in handy over the years. All right, let's go Miuna.
+033	Finally!	VO_miuna.miuna_sys_0004
+034	(The hourglass...the falling sands... It calms me...)
+035	... ...! Fate...	VO_uzma.uzma_sys_0027
+036	(Today...someone will die again... Maybe...it will be me!)	VO_uzma.uzma_sys_0018
+037	(That tree that is supposed to be protecting us...is gone now... My mother...is gone now...)
+038	I wish this divination...were wrong.	VO_uzma.uzma_sys_0022
+039	Uzuma...the feared fortuneteller, known as the Messenger of Death.
+040	The father and daughter hurry to her, these two who will one day be remembered as the legendary blacksmiths.
+041	When these three meet, the sands of destiny will reverse their flow.
+042	And when every last grain of sand has fallen, they will arrive—
+043	(That man...will find a gold coin on the ground, but...he will gamble with it...and ultimately suffer immense loss.)	VO_uzma.uzma_sys_0016
+044	(The lady's husband is having an affair with a barmaid...)
+045	Sigh...	VO_uzma.uzma_sys_0030
+046	(Why do I always see such bad things?)
+047	Found you.	VO_thiefm.thiefm_sys_0002
+048	?!	VO_uzma.uzma_sys_0025
+049	(What a frightening man! Who is he?!)	VO_uzma.uzma_sys_0020
+050	Oh! There she is!	VO_miuna.miuna_chara_1008
+051	?
+052	You're the fortuneteller called Uzuma!	VO_miuna.miuna_sys_0007
+053	Um...ye-yes, but...	VO_uzma.uzma_sys_0025
+054	(Huh? That man from a moment ago is gone...)
+055	We want you to divine the whereabouts of what we're searching for.	VO_miuna.miuna_sys_0001
+056	Oh...	VO_uzma.uzma_battle_0019
+057	...Hey, are you listening?	VO_miuna.miuna_chara_1015
+058	Miuna, it's rude to ask like that. Seriously, who raised you?
+059	You did, dad.	VO_miuna.miuna_sys_0025
+060	Ack. Ah...anyway, putting that aside.
+061	Ah, Uzuma, was it? Do you know about the mineral called Sephirium?
+062	Sephirium...?!	VO_uzma.uzma_sys_0025
+063	You do?! Please, tell us where it is!	VO_miuna.miuna_chara_1008
+064	In the past, it could often be mined around here, but now...	VO_uzma.uzma_chara_1008
+065	We know that. Right now, it's a rare mineral, isn't it?	VO_miuna.miuna_sys_0030
+066	It's absolutely necessary that we obtain it. We want you to divine its whereabouts!
+067	Ve-very...well. I will divine your request.	VO_uzma.uzma_sys_0042
+068	...From mercy to severity...the road of force...sublimity to...forever? Furthered ahead...the road of majesty...oh, no...it collapses!	VO_uzma.uzma_sys_0016
+069	Origins, kingdom...is this the road of judgment? No...the reversing tides of the desert! There...!	VO_uzma.uzma_sys_0021
+070	U-um...I didn't really understand that, but...is there still some Sephirium lying around?	VO_miuna.miuna_sys_0031
+071	...Yes. It is within the Temporal Cave...hidden in the desert.	VO_uzma.uzma_sys_0016
+072	Hey, who's sneaking around back there?
+073	?!	VO_miuna.miuna_sys_1028
+074	...?	VO_uzma.uzma_sys_0025
+075	...You're the man I saw earlier!	VO_uzma.uzma_sys_0027
+076	I've finally found you...Uzuma. I'll have you come with us!	VO_thiefm.thiefm_sys_0008
+077	Huh...?	VO_uzma.uzma_sys_0025
+078	N-no...!	VO_uzma.uzma_battle_0022
+079	Miuna, take her and run!
+080	Understood!	VO_miuna.miuna_sys_0018
+081	Eeek...?!	VO_uzma.uzma_battle_0025
+082	Don't let her get away! Chase her!	VO_thiefm.thiefm_battle_0019
+083	Huff...huff... O-ohh!	VO_uzma.uzma_sys_0043
+084	They're still chasing us, huh? Miuna, can you manage?
+085	Leave it to me, dad!	VO_miuna.miuna_sys_0038
+086	So you've given up, huh? Now hand Uzuma to us.	VO_thiefm.thiefm_sys_0007
+087	No way! We still have questions we need to be answered!	VO_miuna.miuna_sys_0039
+088	Are you going to resist us? What can one little girl do?	VO_thiefm.thiefm_sys_0044
+089	Hey. Take Uzuma by force.	VO_thiefm.thiefm_sys_0002
+090	How dare you make fun of me! I'll tear you to pieces!	VO_miuna.miuna_sys_0016

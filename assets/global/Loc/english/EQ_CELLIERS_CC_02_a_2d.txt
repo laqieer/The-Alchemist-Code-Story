@@ -1,0 +1,63 @@
+﻿001	It's about time for Mielikki to come over. The tea and cookies are all set...	VO_celliers.celliers_sys_0004
+002	Oh, she's here!
+003	Hello there. You're Celliers, yes?	VO_flamel.flamel_sys_0034
+004	Huh? Wh-who are you?	VO_celliers.celliers_sys_0025
+005	Oh, my apologies. I forgot to introduce myself. I am Flamel, a Court Mage.	VO_flamel.flamel_sys_0004
+006	A Court Mage...
+007	Oh, Celliers, my adorable little laboratory rat.
+008	...!	VO_celliers.celliers_battle_0019
+009	...What does a Court Mage want with me? I have no business with you lot.
+010	What? Um, do calm down. I'm simply—	VO_flamel.flamel_sys_0002
+011	Howdy-do, Celliers! ...Oh, who is this?	VO_mielikki.mielikki_sys_0003
+012	Mielikki...
+013	Come on, man, you can't leave a guest waiting in the entryway!	VO_mielikki.mielikki_sys_0012
+014	Oh!
+015	Yes... Yes, you're right. I should at least hear him out... Sorry, Mielikki.	VO_celliers.celliers_sys_0035
+016	Eh heh heh. As long as you get it, it's cool!	VO_mielikki.mielikki_sys_0007
+017	So you are... Mielikki, is it?	VO_flamel.flamel_sys_0003
+018	You know me, do you?
+019	Why yes. Your uncle, your elder sister, both Court Mages, yes? I've made their acquaintance on multiple occasions...	VO_flamel.flamel_sys_0005
+020	Oh, you have a sister, Mielikki? I had no idea. And he said "uncle," but you say "father"...	VO_celliers.celliers_sys_0025
+021	That's right, you haven't met either of them, have you, Celliers!	VO_mielikki.mielikki_chara_1010
+022	Pops and Sis are both Court Mages. That keeps them too busy to come see me, though.
+023	Sis is amazing! And I call him Pops, but he's actually my mom's little brother.
+024	Still, he raised me like his own daughter, and that's a fact!	VO_mielikki.mielikki_sys_0007
+025	I see...	VO_celliers.celliers_sys_0045
+026	If you're friends with Pops and Sis, you must be a good guy!	VO_mielikki.mielikki_sys_0045
+027	Come on, you should join the two of us. I brought some tasty sweets Mom made for me.
+028	Hey Celliers, help me set everything out, will you?	VO_mielikki.mielikki_sys_0002
+029	S-sure, will do.	VO_celliers.celliers_sys_0004
+030	(Celliers' progressed crystallization has been undone. Could it be...?)
+031	...And thus, I've come to check on your condition, on Michael's behest.	VO_flamel.flamel_sys_0031
+032	Is that right! That old fart's nicer than he looks!
+033	Still, why so sudden, don't you think? He said he wouldn't help too much, since I want to be self-sufficient.	VO_celliers.celliers_sys_0002
+034	Indeed, he did say as much. Even so, something seems to be amiss.	VO_flamel.flamel_sys_0005
+035	Something's amiss?	VO_mielikki.mielikki_sys_0025
+036	Have you observed any...suspicious characters about?	VO_flamel.flamel_sys_0001
+037	Suspicious characters...	VO_celliers.celliers_sys_0031
+038	(No, that was just a customer. Wouldn't be right to cast suspicion on him outright...)
+039	...Sorry, can't really say. Customers come from all over these days, so a lot more boots cross my threshold these days.	VO_celliers.celliers_sys_0003
+040	Oh yeah, Celliers' crystals are a huge hit!	VO_mielikki.mielikki_sys_0004
+041	I see. A huge hit, you say...
+042	...Is something strange about that?	VO_celliers.celliers_sys_0002
+043	The truth is...rumors have been circulating as of late: that Celliers' crystals have the power to remove curses.	VO_flamel.flamel_sys_0004
+044	What?!
+045	Were the tales to end there. But it seems some dubious dealings are afoot, in search of your crystals.
+046	That's why Michael asked me to check in on you. If this is but a false alarm, then fine by me.	VO_flamel.flamel_sys_0005
+047	Still, to plug away at your trade in a new place, only to have undue trouble hinder your efforts, well. Dreadful, if you ask me.
+048	Wow, you came all this way, just for me? Th-thank you very much...	VO_celliers.celliers_sys_0045
+049	Ahaha, don't mention it. This is a welcome respite, one I'm more than happy to indulge.	VO_flamel.flamel_sys_0007
+050	The sun is shining, the weather is warm. Unheard of back home—it snows constantly, you see.
+051	You don't say? We barely get any sort of snowfall here, perfect for growing flowers—
+052	...AHHH!	VO_mielikki.mielikki_sys_0028
+053	What?! Wha-what is it, Mielikki?!	VO_celliers.celliers_sys_0026
+054	Flowers! Growing! I forgot to water my flower bed!
+055	Flower bed? You mean that sizeable patch outside?	VO_flamel.flamel_sys_0002
+056	Yeah, I'd better hurry on over! Poor babies, this gorgeous weather's wasted on them!
+057	W-wait, Mielikki, I'll come help! We'll pick this up later, Flamel.
+058	Whew... Oh thank goodness, all my darlings got the water they needed. Thanks for the assist, Celliers!	VO_mielikki.mielikki_sys_0030
+059	Sure, I'm just glad we made it in time, and—oh?	VO_celliers.celliers_sys_0004
+060	Are you Celliers?
+061	Um, yes I am. And you are...?	VO_celliers.celliers_sys_0005
+062	!!
+063	Come with us. Your crystals are required to protect us from curses.

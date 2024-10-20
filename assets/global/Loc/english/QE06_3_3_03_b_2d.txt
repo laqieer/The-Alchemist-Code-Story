@@ -1,0 +1,73 @@
+﻿001	That should just about take care of the Hidden Ogre menace out here.	VO_tanosuke.tanosuke_sys_0001
+002	Shall we find Judius, then?	VO_ugachi.ugachi_sys_0004
+003	Captain Tanosuke, what's the situation?!	VO_amane.amane_sys_0001
+004	Amane? What's going on? Where's Judius?	VO_tanosuke.tanosuke_sys_0006
+005	Headquarters...is collapsing?!	VO_azami.azami_sys_0025
+006	What's going on?!	VO_amane.amane_sys_0025
+007	Only the commanding officers of the Blade Fox should be aware of this mechanism. Who is responsible for activating it?
+008	I think we're missing a few crucial details here. Care to fill us in on what happened in there?	VO_tanosuke.tanosuke_sys_0001
+009	......
+010	Jubei. Of course.	VO_ugachi.ugachi_sys_0021
+011	She's...trying to save us...
+012	I'm all too familiar with her methods. Always the same: wantonly acting upon her whims, without a word of explanation to anyone!
+013	Stop. Do you intend to forfeit your position and leave the corps, without so much as a farewell?	VO_ugachi.ugachi_sys_0001
+014	I've broken the rules. There's nothing I can say to change that.	VO_juubei.juubei_sys_0005
+015	I don't believe you'd do anything of the sort without adequate cause. I suspect you had your reasons, and I'd like to hear them.	VO_ugachi.ugachi_sys_0002
+016	The facts are the facts.
+017	Jubei!
+018	I don't know how things will turn out in the end, but there is one thing I'd like to say to you before I go.	VO_juubei.juubei_sys_0002
+019	And what's that?
+020	Just that you needn't bear alone all the burdens you've packed upon yourself—not the resentment, nor the anger, nor even the Black Star. Things may look bleak now...	VO_juubei.juubei_sys_0003
+021	But someday, I hope you'll be able to settle down and read your books undisturbed. Never stop moving forward, sword in hand, until the day everyone in Wadatsumi can know such peace.	VO_juubei.juubei_sys_0001
+022	...!
+023	Farewell, my young pupil. If fate wills it, we'll meet again!	VO_juubei.juubei_sys_0007
+024	...That infuriating woman!	VO_ugachi.ugachi_sys_0021
+025	Captain Ugachi...
+026	Celis and Jubei alike are just far too impulsive, always doing whatever they think needs to be done, without saying a word to anyone else...
+027	Without so much as a nod to me!	VO_ugachi.ugachi_sys_0027
+028	It's really been eating at you, hasn't it? That's why you've been so uppity all this time. You just wanted to see Jubei again.
+029	Is that a fact?
+030	You're mistaken. I just decided long ago that if ever I did see her again...I'd thump her thick skull.	VO_ugachi.ugachi_sys_0001
+031	You're not fooling anybody.	VO_tanosuke.tanosuke_sys_0010
+032	Reminiscing aside, our next move is unclear. How should we proceed? ...Wait, look!
+033	What is it, Amane?	VO_azami.azami_sys_0001
+034	Over there!	VO_amane.amane_sys_0016
+035	Figs, humans. Pepper, mushrooms. Burdock, corpses.	VO_ogre.ogre_battle_0028_b
+036	Burdock, corpses. Spring herbs, toadstools. Cucumber, winter melon.
+037	Count to one hundred, and get a demon!
+038	The demon parade has come again!	VO_ogre.ogre_battle_0002
+039	The Discarnate Power has returned!
+040	Why, hello, everyone. I'm so glad to see you all looking well.	VO_ogre.ogre_battle_0019
+041	Huaaahhh!	VO_azami.azami_sys_0032
+042	Whoa, there! Let's not get carried away, little miss. I'm not here to fight.	VO_ogre.ogre_battle_0021
+043	What?!	VO_amane.amane_sys_0025
+044	There's a little matter I'd like to speak with you on.	VO_ogre.ogre_battle_0001
+045	You want to talk? After you've snuffed out the flames of so many?!
+046	!!!
+047	Hmm? You got quiet for a moment. Are you prepared to hear me out, then?	VO_ogre.ogre_battle_0019
+048	One matter. You may address one matter with us. Make it count.	VO_amane.amane_sys_0003
+049	In that case, I pose a question to you: was it not the humans who tyrannically wielded their ideologies over us first?	VO_ogre.ogre_battle_0002
+050	What do you mean by that?
+051	Don't even listen to this beast's drivel. It's not worth your time. Shouldn't you be planning how to cut it down instead?	VO_ugachi.ugachi_sys_0001
+052	I want to know what it's talking about. There's too much we don't understand.	VO_amane.amane_sys_0001
+053	Good, good. I expect you'll find this subject quite interesting indeed.	VO_ogre.ogre_battle_0001
+054	So, let me rephrase my question a bit: why do you believe humans are in the right?	VO_ogre.ogre_battle_0002
+055	What?	VO_amane.amane_sys_0025
+056	Humans, as a rule, attempt to eliminate anyone who isn't like they are. Can that truly be called righteousness?	VO_ogre.ogre_battle_0003
+057	What do you mean, exactly?
+058	Allow me to provide an example scenario.	VO_ogre.ogre_battle_0020
+059	Let's say there's a man who has a close friend, and let's say their bond is even stronger than blood.
+060	"I'll stand by you, no matter what."<br>The man and his friend both say something trite like this to each other.
+061	And nothing actually changes between them. Nothing at all aside from outward appearance.
+062	Yet outward appearance is enough, it would seem.
+063	That man's appearance changes, and on that fact alone, his dear friend tries to kill him.
+064	The man can't make heads or tails of it. Mostly because, at the time, the man doesn't even know his own appearance has changed.
+065	He only notices when, after barely escaping with his life, he happens to catch his reflection in the surface of a lake.
+066	"I'll stand by you, no matter what," they'd both said.
+067	But that was clearly just an empty platitude.
+068	So, in this instance, who is in the wrong? The man had no desire to fight his friend. He never fought back. He simply defended himself from what would've been a mortal attack.	VO_ogre.ogre_battle_0003
+069	I-I don't—	VO_amane.amane_sys_0027
+070	That man never truly understood why his friend had turned on him.	VO_ogre.ogre_battle_0021
+071	If, say, you were that man...would you?	VO_ogre.ogre_battle_0019
+072	...
+073	I'm...so confused. What does all of this mean?

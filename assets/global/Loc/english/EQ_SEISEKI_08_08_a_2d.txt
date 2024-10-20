@@ -1,0 +1,123 @@
+﻿001	Reinforcements! What are you doing?! Please, hurry this way!	VO_knightm.knightm_sys_0042
+002	Don't be stupid! This is more important! Hey, hang in there!	VO_knightm.knightm_sys_0025
+003	...! Oh...is this the Blue Flame Guard?!	VO_monzein.monzein_sys_0029
+004	Did you come here from the castle?!	VO_basini.basini_sys_0022
+005	Ugh...M-Monzein...?	VO_dhiruga.dhiruga_battle_0024
+006	Dilga!!! You...	VO_monzein.monzein_sys_0027
+007	Don't speak to him! He's in a dangerous state!
+008	!!!
+009	I-I'm okay... Th-they...took me out...O-Orion...and his immortal...soldiers...	VO_dhiruga.dhiruga_sys_0042
+010	Ca...Captain Jared...has already passed away. M-most of the Blue Flame Guard...was destroyed...
+011	And the king?! Is the Sacred Stone safe?!	VO_monzein.monzein_sys_0027
+012	I-I'm not sure... When I came around...I found myself lying here.	VO_dhiruga.dhiruga_sys_0018
+013	I-I feel so...ashamed! I-if something were to happen...to the king...I...I...!!!	VO_dhiruga.dhiruga_sys_0022
+014	...Dilga.
+015	Captain Monzein!	VO_basini.basini_sys_0025
+016	Shut up. Shut up for now. First give me an update on the internal situation.	VO_monzein.monzein_sys_0012
+017	N-no, it's not that! Please look at the grand staircase! It's the Greed Dike army!	VO_basini.basini_chara_1011
+018	Wh-what the...? Look how many of them there are!	VO_monzein.monzein_sys_0027
+019	We don't even compare to their numbers! They have five...no around ten times as many men as we do!	VO_basini.basini_sys_0020
+020	Look! At the head of the army...! It's Waginau and...	VO_basini.basini_sys_0027
+021	The Lion Monarch...Orion!	VO_monzein.monzein_battle_0019
+022	So this is where they were! There's no doubt that they're here to take Leviathan from the king!	VO_basini.basini_sys_0018
+023	But...how do they plan to do it? It's hard to imagine that they'll just walk away.
+024	People of Envylia, listen well! I now have a message to deliver from the King of Envylia!	VO_waginao.waginao_sys_0010
+025	A message...?	VO_monzein.monzein_sys_0027
+026	O-oh...! Your Majesty!	VO_dhiruga.dhiruga_sys_0026
+027	What a relief! He's safe!	VO_basini.basini_sys_0009
+028	People, there's no need to make such noise. The battle is now over.
+029	The battle is over? What is he talking about?	VO_monzein.monzein_sys_0026
+030	After having engaged in a long dialogue, I have reached a conclusion. We, the Kingdom of Envylia, will now become a vassal of Greed Dike!
+031	What...?!	VO_dhiruga.dhiruga_sys_0025
+032	Envylia is voluntarily swearing allegiance to Greed Dike?!	VO_monzein.monzein_sys_0022
+033	I'm sure some of you may be confused. However...all of this is for the future of Envylia!
+034	As the era of warfare approaches...if we bond ourselves with Greed Dike, we have nothing to be afraid of!
+035	Their mighty army will promise us peace beyond that which we now possess!
+036	B-but...does that mean we will now fall under Greed Dike rule?	VO_knightm.knightm_sys_0029
+037	But think about it! The Greed Dike army, which is said to be the strongest of this world...they're gonna protect us.	VO_thiefm.thiefm_sys_0002
+038	Maybe now those thieves of Wratharis, who've been the root of our troubles, will lay off a little.
+039	Huh...?! Don't you realize that your country is being taken away from you?!	VO_monzein.monzein_sys_0027
+040	Ack! I don't want to hear that from you lot who are just visiting!	VO_thiefm.thiefm_battle_0019
+041	Even when it comes to the Guard, it's not like they're always here to save us. We're the ones that are always being placed in harm's way!
+042	Depending on how you look at it, we may be even safer than we are now, but...	VO_knightm.knightm_sys_0006
+043	What kind of nonsense are you spewing! Dilga!	VO_monzein.monzein_sys_0042
+044	I-I find it hard to believe...that His Majesty would make such a decision like that.	VO_dhiruga.dhiruga_sys_0027
+045	But...if it's the words of the king...then it is the will of Envylia.
+046	Are you serious?! Even you're gonna go along with all this nonsense?!	VO_monzein.monzein_sys_0029
+047	But...	VO_dhiruga.dhiruga_sys_0028
+048	What are you hesitating about?! There's no way something like this can be tolerated!
+049	W-wait! What are you gonna do?!	VO_basini.basini_sys_0014
+050	What do you think I'm gonna do! I'm gonna go rescue the king from Orion's grasp!
+051	Do you think I'm gonna remain silent when the country is being lost like this?!
+052	B-but...who is asking for that?!	VO_basini.basini_sys_0018
+053	What...?
+054	I mean...the king aside, even the villagers don't seem to be opposing the proclamation!	VO_basini.basini_chara_1011
+055	If the Kingdom of Envylia itself is seeking to align themselves with Greed Dike...
+056	Do we, the Holy Guard, have any right to prevent it from happening?!
+057	Well...
+058	Everyone, don't be deceived! Those aren't the words of your king!
+059	What the...?!	VO_monzein.monzein_sys_0025
+060	Over there! That boy...!
+061	Who are you? Stand down, boy...you are in the presence of the king!	VO_waginao.waginao_sys_0005
+062	I'm not a boy! I'm Bud...Bud Crowley! I am a proud Knight of the Blue Flame!
+063	B-Bud...?! That idiot!	VO_dhiruga.dhiruga_sys_0027
+064	Who is he?
+065	H-he's a young knight that belongs to the Blue Flame Guard!	VO_dhiruga.dhiruga_battle_0019
+066	He is currently assigned to protecting the king...ugh...a-at this rate...!
+067	Enough! There's nothing you can do about your wounds. Rest over there for now.	VO_monzein.monzein_sys_0027
+068	Please, wait! Captain Monzein...I can't let you go as well!	VO_basini.basini_sys_0014
+069	You... Are you telling me that you want me to stand back and watch them kill the boy?!
+070	If you were to make a move now, how would you get around their massive military force?!	VO_basini.basini_chara_1011
+071	If the 2nd Regiment is completely destroyed...when reinforcements arrive, we would clearly be at a disadvantage!
+072	If we miss our chance to counterattack, we would pretty much be guaranteeing Greed Dike's victory!
+073	But...!	VO_monzein.monzein_sys_0018
+074	Until Captain Yauras and the others arrive, we shouldn't move!	VO_basini.basini_sys_0018
+075	If the Holy Guard cannot save Envylia, then who can?!
+076	All of this is for the sake of Envylia's future! Please...endure it for now!
+077	Uck...!	VO_monzein.monzein_sys_0029
+078	B-Bud...! Don't be an idiot! You'll be killed!	VO_dhiruga.dhiruga_sys_0043
+079	Captain Dilga! No...I won't stand down!
+080	I am a Knight of the Blue Flame! It is my honor and duty to save the king!
+081	To...to save the king? What do you mean?	VO_dhiruga.dhiruga_sys_0025
+082	I can tell... There is no way that His Majesty, who loves his people deeply, would ever make such a proclamation!
+083	I'm sure they are using their magic and forcing him to speak!
+084	Forcing him?	VO_basini.basini_sys_0006
+085	Hmph. What nonsense. Please, Your Majesty...do not let him bother you. Continue.	VO_waginao.waginao_sys_0010
+086	Very well. My people...!
+087	Emperor Orion who stands before you now...has promised to do everything in his power to protect Envylia!
+088	His extraordinary commitment has struck a chord in my heart!
+089	This decision...I am certain...will lead to a bright future for all of us.
+090	I...will not only accept Emperor Orion's offer...but would also like to present him with a gift as a sign of gratitude!
+091	...What is he going to do?	VO_monzein.monzein_sys_0018
+092	The Sacred Stone Leviathan...which has long been passed down among the royal lineage of Envylia...
+093	As a sign of my gratitude, I would like to present it to Emperor Orion...
+094	What...?!	VO_monzein.monzein_sys_0027
+095	N-no...! Your Majesty...that is going too far!	VO_dhiruga.dhiruga_sys_0027
+096	Leviathan is a Sacred Stone that harbors deep jealousy.
+097	If it were to fall into the hands of someone other than its rightful owner, it would bring about disaster.
+098	Thus, we will now hold a ceremony to transfer its ownership to Emperor Orion!
+099	People of Envylia, pay attention and welcome this historical moment!
+100	This is all for the sake of Envylia's future!
+101	My people, rejoice! This moment will bring about true enlightenment for Envylia!
+102	Ack! It's all a lie! Everyone...don't be fooled!
+103	Hmph. Do you intend on disturbing this sacred ritual? It looks like we have a rebel on our hands. Take care of him.	VO_waginao.waginao_sys_0010
+104	Uck...!	VO_monzein.monzein_sys_0029
+105	...! No! Captain Monzein!	VO_basini.basini_sys_0015
+106	Argh! Are the reinforcements still not here?!	VO_monzein.monzein_battle_0019
+107	B-Bud! Stop! Sh-sheathe your sword!	VO_dhiruga.dhiruga_sys_0042
+108	Sheathe my sword? You've got to be kidding me. If now is not the time to risk our lives...then when?
+109	What...?	VO_dhiruga.dhiruga_sys_0025
+110	I am a knight! The path that I open before me with my sword is the one I am destined to take!
+111	If were to spend a lifetime bending my will to the tune of others...then I would prefer to sacrifice my life for something I believe in!
+112	...!
+113	...Do it.	VO_waginao.waginao_sys_0010
+114	Bu...Bud!	VO_dhiruga.dhiruga_sys_0027
+115	Ack...?! If you're gonna attack then attack!!!
+116	Lightning Axe!!!	VO_monzein.monzein_chara_1017
+117	?!
+118	That's...!	VO_waginao.waginao_sys_0027
+119	Ack! I thought it would end up like this...!	VO_basini.basini_battle_0019
+120	"If now is not the time to risk our lives...then when?" You say?
+121	Huh...?
+122	You have a naive code of chivalry...but it's not bad. Here they come.	VO_monzein.monzein_sys_0010
+123	...!

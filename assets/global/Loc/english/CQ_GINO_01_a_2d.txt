@@ -1,0 +1,48 @@
+﻿001	Gather round!	VO_stknightm.stknightm_sys_0001
+002	We are about to begin the training session. But before we begin, be noted that there have been a number of incidents involving bandits in the area.	VO_stknightm.stknightm_sys_0005
+003	The knights will handle the situations. But for you cadets, it is your duty to obsereve and report any suspicious activities.
+004	Yes, sir!
+005	Right. Now let us begin. For today's session, this will be a joint session with the knights, so do you best!	VO_stknightm.stknightm_sys_0004
+006	A training session with actual knights? I'm nervous…
+007	Hm? Why so nervous?	VO_gino.gino_sys_0004
+008	Well, because they're the real deal. And I've never even seen one up close.
+009	And to be able to spar with real knights? This is a rare opportunity.
+010	…	VO_gino.gino_sys_0044
+011	Oh, I guess for someone like you with a brother that's a knight… It's not a big deal for you.
+012	…	VO_gino.gino_sys_0022
+013	I heard that Fraise was so great that he even received an award during training. Isn't that right?
+014	That's amazing. Gino, I'm sure you'll be just as great. I mean, you are his younger brother after all.
+015	Again with that…	VO_gino.gino_sys_0016
+016	Hm?
+017	Nothing… Nevermind.	VO_gino.gino_battle_0019
+018	(Everyone everywhere always saying "Fraise is great!" Ugh, I can't deal with it.)
+019	(I want to lash out and release my frustrations, but I know if I do that, it would make things worse...)
+020	(He's only just become a captain. What does that have to do with me?)
+021	(Ugh… So frustrating.)	VO_gino.gino_sys_0030
+022	Hey, look! The knights!
+023	Hmm…	VO_gino.gino_sys_0044
+024	(Perfect. I can let out some frustration through some sparring.)
+025	(The other cadets are a bit too weak. I'll be able to let out more strength against an actual knight.)	VO_gino.gino_sys_0007
+026	…and that concludes the rules for today. But before we start, here is a word from the commander.	VO_stknightm.stknightm_sys_0004
+027	The knights that will take part in today's training session are the latest Royal Knights.	VO_knightm.knightm_sys_0001
+028	Simply stated, they are newcomers. They are close to you cadets in age and they should also be close in skills.
+029	For you boarding school cadets that will protect Envylia in the future as knights, take this as a grand opportunity.	VO_knightm.knightm_sys_0004
+030	And now, let us begin training!	VO_stknightm.stknightm_sys_0005
+031	Um, You are my partner…? I mean, are you my partner?	VO_victor.victor_sys_0002
+032	Yeah…	VO_gino.gino_sys_0037
+033	I'm Victor! Nice to meet you.	VO_victor.victor_sys_0005
+034	…
+035	W-what's wrong?	VO_victor.victor_sys_0006
+036	For a knight, you don't seem like much. How can I put it…? Like, weak looking.	VO_gino.gino_sys_0022
+037	Huh?
+038	These other cadets are no match for me, so I was looking forward to sparring with a real knight. But a newbie? What a disappointment…	VO_gino.gino_sys_0044
+039	H-hey, what's wrong with you?	VO_victor.victor_sys_0012
+040	I…I mean, hey! You really shouldn't talk to a senior like that…	VO_victor.victor_sys_0011
+041	Stop that silly act… It's disgraceful.	VO_gino.gino_sys_0001
+042	Wha…?
+043	If you want respect from me, don't blabber. Show me with your sword!
+044	I want a fight that I can put my power into. So show me what you got. Don't let your guard down or you'll get hurt!	VO_gino.gino_sys_0010
+045	…!
+046	With all my might then?	VO_victor.victor_sys_0022
+047	You're a brat with some confidence. Alright then.	VO_victor.victor_sys_0010
+048	If that's what you want, let's have some fun.

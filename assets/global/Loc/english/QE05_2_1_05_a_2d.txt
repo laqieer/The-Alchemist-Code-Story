@@ -1,0 +1,48 @@
+﻿001	Lord Waginau? Those wounds! What happened to you?!	VO_kamui-b.kamui-b_sys_0027
+002	Ceclidis had more tricks up his sleeve than I thought.	VO_waginao-b.waginao-b_sys_0018
+003	Heh. How very unlike me to underestimate my opponent's strength...	VO_waginao-b.waginao-b_sys_0010
+004	However, we have more important topics to discuss.
+005	It was always an expected eventuality that the ancient veil would be lifted and Sephiron would become known to the world.
+006	Expected?! Do you mean to tell me you knew the village would be attacked?!	VO_ishido.ishido_sys_0025
+007	I had no way of knowing when it would happen or who would do so.	VO_waginao-b.waginao-b_sys_0004
+008	However, this was always a possible outcome as long as the Sephira and their Protector kept a stranglehold on the secrets of their taboos.
+009	What...?!
+010	Once knowledge of Sephiron and her secrets made its way out of the village, it was only a matter of time until somebody attempted to make use of her powers.	VO_waginao-b.waginao-b_sys_0022
+011	The previous Lord Commander foresaw this issue and prepared a contingency plan, the Desert Zone.
+012	The Desert Zone? The contingency plan is...the desert?	VO_ishido.ishido_sys_0006
+013	Yes. For generations, the Holy Guard has granted the desert people autonomy.	VO_waginao-b.waginao-b_sys_0004
+014	That is how we have been able to maintain a region outside the influence of the seven nations.
+015	Only the Lord Commander knew that the purpose of doing so was for the protection of the Sephira.	VO_waginao-b.waginao-b_sys_0022
+016	Now is the time to make use of his foresight.
+017	The Sephira, with their immense Alchemia, will be hunted down by those who plan to abuse the powers of Alchemy.	VO_waginao-b.waginao-b_sys_0002
+018	The Desert Zone was created to harbor the Sephira when the village and its secrets were brought to light.
+019	I've already ordered the rear guard to prepare to escort the Sephira there.	VO_leordas.leordas_sys_0004
+020	The moment their retreat is complete, we will assault Ceclidis and his forces with all of our might!
+021	No matter how large the army, it cannot function without its head.
+022	So we must first pinpoint Ceclidis' location.	VO_kamui-b.kamui-b_sys_0031
+023	From within that army? He's probably safely ensconced by his soldiers.	VO_ishido.ishido_sys_0022
+024	According to our scouts, only his lieutenants were seen in their headquarters.	VO_leordas.leordas_sys_0030
+025	Do you suppose he anticipates a direct attack on his position?	VO_kamui-b.kamui-b_sys_0037
+026	That, or he has other intentions.	VO_leordas.leordas_sys_0005
+027	Ceclidis is not one to risk danger for the sake of honor or glory.
+028	For him to take it upon himself to lead an army to battle, there is likely some other ulterior motive at work here.	VO_leordas.leordas_sys_0031
+029	If that is true, one thing does come to mind.	VO_waginao-b.waginao-b_sys_0016
+030	Lord Waginau...?	VO_kamui-b.kamui-b_sys_0027
+031	When I faced him in battle, he held a particular stone in his hand.	VO_waginao-b.waginao-b_sys_0004
+032	That makes it likely that Ceclidis' intention is to find Sephiron.
+033	Sephiron?!	VO_kamui-b.kamui-b_sys_0027
+034	If my theory is correct, we do not have the luxury of time. We must make it to Sephiron before he does.	VO_waginao-b.waginao-b_sys_0018
+035	In that case, I will leave Ceclidis to you, Waginau.	VO_leordas.leordas_sys_0045
+036	I shall personally lead the Liberation Army into battle to distract the Royal Army's main forces and prevent any interference to your operation.
+037	I will go with you, Lord Waginau.	VO_kamui-b.kamui-b_sys_0037
+038	We will be deep behind enemy lines. I cannot guarantee your safety.	VO_waginao-b.waginao-b_sys_0020
+039	I understand. I am willing to take that risk, as we do not have any other choice, correct?	VO_kamui-b.kamui-b_sys_0006
+040	Very well.	VO_waginao-b.waginao-b_sys_0010
+041	I will come too!	VO_ishido.ishido_sys_0001
+042	Isidore?! You are still battling the darkness. Who knows what will happen if you approach Sephiron?!	VO_kamui-b.kamui-b_sys_0027
+043	I know, but as the commander of the warriors, I have a responsibility to fight for the good of this village!	VO_ishido.ishido_sys_0004
+044	Isidore?
+045	General Leordas, I leave command of my warriors to you.	VO_ishido.ishido_sys_0041
+046	Understood. I'll be waiting for the good news.	VO_leordas.leordas_sys_0037
+047	The plan is this: we shall identify and slip through a gap in the enemy's defenses, then make our way directly to Sephiron.	VO_waginao-b.waginao-b_sys_0005
+048	Remember that we will be fighting behind enemy lines! If you fall behind, you will be left behind!	VO_waginao-b.waginao-b_battle_0007

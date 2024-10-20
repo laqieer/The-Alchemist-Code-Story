@@ -1,0 +1,110 @@
+﻿001	I won't make the same mistakes again.	VO_kaya.kaya_battle_0010
+002	It seems the time has come.	VO_kaya.kaya_sys_0006
+003	...
+004	I must admit that I am surprised...	VO_waginao.waginao_sys_0030
+005	That you are here...and, well, appearing to be exactly as you were the last time we met.	VO_waginao.waginao_sys_0003
+006	You should have been more thorough.	VO_kaya.kaya_sys_0010
+007	I told you, didn't I? I warned you that if anyone did intend to come after me, they would likely come prepared.	VO_kaya.kaya_sys_0001
+008	How did you know that I would be in Slothstein?
+009	I knew that you wouldn't be able to leave the matter of that mysterious girl alone.	VO_kaya.kaya_sys_0010
+010	So you are here to throw away the life that you once barely escaped with, are you?	VO_waginao.waginao_sys_0010
+011	I'm already dead.	VO_kaya.kaya_sys_0039
+012	Then what are you doing here?	VO_waginao.waginao_sys_0044
+013	The justice of the continent, which I once worked towards, has been entirely lost.
+014	I cannot return to the past. I cannot continue into the future.
+015	I suppose that makes me a restless spirit who can't move on.	VO_kaya.kaya_sys_0008
+016	It seems to me that you just don't know when to quit.	VO_waginao.waginao_sys_0010
+017	I could say the same about you.	VO_kaya.kaya_sys_0003
+018	You... What would you know?	VO_waginao.waginao_sys_0012
+019	I know that while there may not be much that a spirit can achieve, there is one thing of which I am still capable.	VO_kaya.kaya_sys_0007
+020	I can stop you.
+021	What?!	VO_waginao.waginao_sys_0026
+022	This isn't like me at all, but...it can't hurt to unleash one's full strength...on occasion.	VO_kaya.kaya_battle_0014
+023	Did it...work? Is it...over?
+024	Are you all right?	VO_cheryl.cheryl_sys_0014
+025	D-did I...protect...Lofia?	VO_lavina.lavina_sys_0002
+026	You did. You really did.	VO_cheryl.cheryl_sys_0037
+027	You did so well! I'm so proud of you, Ravina!	VO_rofia.rofia_sys_0023
+028	Eheheh...	VO_lavina.lavina_sys_0007
+029	L-Lofia said...she's...proud of me.	VO_lavina.lavina_sys_0008
+030	We'll have some dessert together when you wake up.	VO_rofia.rofia_sys_0007
+031	Heheh... Ahahahah! Yay! I get to...eat sweets...with...Lofia. I'm so...excited...I can't...wait.	VO_lavina.lavina_sys_0011
+032	Ravina...
+033	She's fine. Just sleeping.
+034	Lofia.
+035	...
+036	Don't move.	VO_stknightm.stknightm_battle_0010
+037	Wh-what the...?
+038	Guard the deactivated Demonic Soldiers.	VO_stknightm.stknightm_sys_0001
+039	Paladins...?
+040	We are the knights of the Holy Order who were stationed in Slothstein.
+041	We have been in Wratharis for quite some time now, however, investigating the ruins of an ancient civilization of Babel.
+042	There can be no mistake that the activation of the Demonic Soldiers and the damage to the city are your doing.
+043	What?!	VO_cheryl.cheryl_sys_0026
+044	Many of the citizens here witnessed a girl with light blue hair attacking Redington with magic.
+045	N-no...!
+046	As for you, Court Mage Lofia...
+047	Yes?
+048	You are the one responsible for subduing members of the Holy Guard in the ruins of Lustburg not more than a few days ago.
+049	Y-you've got it all wrong! The Paladins who came to the ruins were in Lustburg illegally! They had no right to be investigating!
+050	I didn't even do anything to them! The ruin's defenses were what—!
+051	What's more, you murdered your fellow Court Mage, Michael, and fled to Slothstein.
+052	M-Michael...? A-are you saying that you killed—!
+053	Court Mages are primarily charged with the duty of defending their country. A lone Court Mage invading a neighboring nation has the potential to threaten the Alliance of the Seven Kingdoms.
+054	Objection!	VO_cheryl.cheryl_sys_0015
+055	Who are you?	VO_stknightm.stknightm_sys_0005
+056	I am Inquisitor Cheryl of the Holy Order of Babel.
+057	Is that so? Then there should be no reason for you to interfere.	VO_stknightm.stknightm_sys_0007
+058	Court Mage Lofia is innocent.
+059	Oh?	VO_stknightm.stknightm_sys_0008
+060	A sect of the Holy Guard is plotting to have her killed.
+061	By utilizing the order of assassins known as Corpse, they have attempted to unlawfully conceal the truth of Alchemy.
+062	...
+063	The imperative of the Holy Guard is the regulation of Alchemy. The last time I checked, that certainly did not involve turning those skills against the general public.
+064	Despite which, at this very moment all across the country, your organization is monopolizing Alchemy while at the same time consistently burying various truths and perils at your own convenience.
+065	We of the Holy Guard adhere to the Alchemist Code.
+066	The secret you wish to bury revolves around the existence of the calamitous Cursed Beasts—which slumber in each of the Seven Kingdoms—and their connection to the Sacred Stones, does it not?
+067	...
+068	Should the truth come to light, the foundation of the Holy Guard's position as the sole proprietor of Alchemy would be greatly shaken.
+069	Nonetheless, it is imperative that I bring this truth before the Inquisition, posthaste; that they may deliberate it at council.
+070	The Inquisition, huh?
+071	That's right.
+072	I'm afraid that isn't possible.	VO_stknightm.stknightm_sys_0015
+073	And why not?
+074	I've heard you out, but that's as far as this is going to go. Unfortunately for you, you don't have the right to do any of the things you just talked about.	VO_stknightm.stknightm_sys_0010
+075	This course of action is nothing less than my duty.
+076	I guess I'll have to be the one to break it to you... You've been dismissed, Cheryl. You're no longer a member of the Inquisition.
+077	What?!
+078	Dismissed?!	VO_cheryl.cheryl_sys_0025
+079	I've got it all here in writing.
+080	No... This isn't possible.	VO_cheryl.cheryl_sys_0021
+081	For forcibly and unlawfully conducting an investigation that exceeds the bounds of her position as an inquisitor, Cheryl is hereby dismissed from the aforementioned role. That's what it says.
+082	No, I... I'm pursuing my mission directive even now.	VO_cheryl.cheryl_sys_0017
+083	Don't believe me? This is an official document signed by both the administrator of the Inquisition and the Bishop of the Holy Order, Lord Waginau himself.
+084	Wh-what?!
+085	You have accused the Holy Guard of an outrageous plot, despite having been dismissed from your position. This is a significant crime.
+086	Moreover, we have ample reason to believe that you will flee if given the chance. Your accompaniment of Court Mage Lofia says much to that effect. As such, in these special circumstances...
+087	Your capture has been deemed unnecessary. I have been given permission to dispose of you here and now.	VO_stknightm.stknightm_sys_0007
+088	Wait!	VO_cheryl.cheryl_sys_0026
+089	Cheryl!
+090	This is far too hasty. I will return to Headquarters and negotiate with—
+091	You aren't to be given the time.	VO_stknightm.stknightm_sys_0040
+092	Ngh!	VO_cheryl.cheryl_battle_0019
+093	To accomplish our aim, we can't allow you to remain alive.	VO_stknightm.stknightm_sys_0029
+094	No!
+095	Ah!	VO_rofia.rofia_sys_0042
+096	You're the Court Mage, Lofia, correct?	VO_stknightm.stknightm_sys_0001
+097	A Paladin? Here in the center of the city?	VO_rofia.rofia_sys_0043
+098	To accomplish our aim, we can't allow you to remain alive.
+099	Corpse!
+100	(So the Holy Guard and the Inquisition were in cahoots all along! Or did Corpse strong-arm the Inquisition into doing their bidding?)
+101	Cheryl?! What's going on?! Cheryl!
+102	It is time. We will hereby eliminate Cheryl, former inquisitor of the Holy Order of Babel.	VO_stknightm.stknightm_battle_0011
+103	(I can't believe that the organization that's meant to be responsible for the justice of the continent is this corrupt! Resorting to murder to cover up their crimes...)
+104	Other targets include the blue-haired girl, the sniper in the clock tower, and Court Mage Lofia.	VO_stknightm.stknightm_sys_0001
+105	(If this is the future that awaits us...)
+106	...
+107	I'm sick of saying goodbye.
+108	Whoa!
+109	L-Lofia?
+110	I have a very important promise that I must keep.

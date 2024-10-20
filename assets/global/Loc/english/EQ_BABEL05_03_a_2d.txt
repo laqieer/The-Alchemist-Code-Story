@@ -1,0 +1,115 @@
+﻿001	A Road in Lustburg
+002	The snow is already piling up.	VO_albell.albell_battle_1018
+003	(Deneb...)
+004	(This fortuneteller is known for being incredibly precise. She divined my brother's whereabouts for me once.)
+005	(She might be able to tell me more; this time in more detail...)
+006	(But...)
+007	(I can't seem to bring myself to even knock on her door.)
+008	The snow is piling up, you know?	VO_sophia.sophia_sys_0002
+009	Huh?	VO_albell.albell_sys_0025
+010	Goodness! What pretty hair you have!	VO_sophia.sophia_sys_0007
+011	Ah, um, I'm s-sorry...	VO_albell.albell_battle_1018
+012	Are you here to see Deneb?	VO_sophia.sophia_sys_0002
+013	...
+014	I am sorry, but Deneb is going to be on holiday for a while.	VO_sophia.sophia_sys_0036
+015	Her store is closed, in fact, although I am tending it today in her absence.
+016	...
+017	Would you like some tea?	VO_sophia.sophia_sys_0002
+018	Deneb is all right, isn't she?	VO_albell.albell_sys_0002
+019	She is. I am afraid that I can't tell you where she is, however.	VO_sophia.sophia_sys_0005
+020	Th-that's...fine.	VO_albell.albell_sys_0004
+021	Oh? What is this? A telescope?	VO_sophia.sophia_sys_0006
+022	Could you...give this to Deneb for me?	VO_albell.albell_sys_0002
+023	Tell her I said thank you, and that...
+024	I'm finally getting close to an answer, and will do my best to find it.
+025	You...	VO_sophia.sophia_sys_0001
+026	I'd better get going.	VO_albell.albell_sys_0004
+027	Wait! Hold on a moment!	VO_sophia.sophia_chara_1017
+028	Wh-what is it?	VO_albell.albell_sys_0005
+029	Is your name...Albea?	VO_sophia.sophia_sys_0002
+030	Ah...	VO_albell.albell_sys_0025
+031	Achoo!
+032	You've been out in the cold for a while, haven't you? Here. Have some nice, warm tea.	VO_sophia.sophia_sys_0016
+033	Th-thank you.	VO_albell.albell_battle_1018
+034	I haven't introduced myself yet, have I? My name is Sophia.	VO_sophia.sophia_chara_1001
+035	...
+036	Is something the matter? Is something on my...?	VO_sophia.sophia_sys_0004
+037	It's just... You keep playing with your hair, as if you're...trying to cover your ears, or something.	VO_albell.albell_battle_1018
+038	Oh, that! It's just a silly habit of mine.	VO_sophia.sophia_chara_1017
+039	...
+040	P-please excuse me.	VO_sophia.sophia_sys_0036
+041	N-no, I'm sorry! I worry about my hair, too. I shouldn't have—!
+042	I've heard about you from Deneb. She said that someday, a pink light would come to look anew upon the stars.	VO_sophia.sophia_sys_0002
+043	So she was expecting me.	VO_albell.albell_sys_0016
+044	You're exactly as she described. Look at that large contraption on your back! You really like machines, don't you?	VO_sophia.sophia_sys_0005
+045	Oh, this? This is something my father left me. We made it together, actually. I prefer miniature ones myself, though.	VO_albell.albell_battle_1018
+046	It must be awfully important to you. Do you carry it with you everywhere?	VO_sophia.sophia_sys_0007
+047	It requires a huge amount of Alchemia to function, so I can't power it on my own.	VO_albell.albell_sys_0037
+048	There's just someone who I...really want to show it to, whether it's working or not.
+049	Is that where you're headed?	VO_sophia.sophia_sys_0045
+050	I'm looking for my older brother.	VO_albell.albell_sys_0004
+051	Ah, yes. Deneb told me that you asked her to divine his location.	VO_sophia.sophia_sys_0005
+052	What brought you back here, then?	VO_sophia.sophia_sys_0002
+053	Well, it's just... I'm not sure anymore. I feel like I'm getting closer to my brother, but apparently that's dangerous.	VO_albell.albell_sys_0031
+054	I've come this far, and if it was just me, I wouldn't mind getting involved in something risky.
+055	It's when I think about dragging someone else into harm's way that I get scared. I didn't know I could feel so...afraid.
+056	Hmm...
+057	Thank you for the tea.	VO_albell.albell_chara_1001
+058	Are you leaving already?	VO_sophia.sophia_sys_0006
+059	I don't want to trouble you.	VO_albell.albell_sys_0004
+060	...
+061	Albea. Look at me.	VO_sophia.sophia_sys_0002
+062	H-huh?	VO_albell.albell_sys_0005
+063	Th-those are...!	VO_albell.albell_sys_0025
+064	Elf ears!
+065	You needn't worry about putting me in harm's way.	VO_sophia.sophia_sys_0007
+066	Wh-what do you mean?	VO_albell.albell_sys_0025
+067	Elves have very good hearing, you see. Not only that, but we are a people who have been on the verge of being oppressed and used for selfish gain many times over. If nothing else, I am used to danger.
+068	O-oppressed...?	VO_albell.albell_sys_0027
+069	I can help you.	VO_sophia.sophia_sys_0002
+070	B-but...	VO_albell.albell_sys_0018
+071	You remind me of someone, you know.	VO_sophia.sophia_sys_0007
+072	I have a friend who is waiting for the return of their younger sister.
+073	They always smile fondly when they speak of her.
+074	Yet I am convinced that they are not truly happy in her absence.
+075	I...!
+076	Please. Allow me to lend you my strength.	VO_sophia.sophia_chara_0015
+077	Wh-why is there ice in here—and it's...floating?!	VO_albell.albell_sys_0025
+078	Where is the star whose shadow falls upon the ice? Where is the soul which drifts beneath the floe? With an eye above and an eye below, I will divine their radiant glow!
+079	Albea, do you have anything of your brother's? Something that resonates with him?	VO_sophia.sophia_sys_0002
+080	Something...that resonates with my brother?	VO_albell.albell_sys_0031
+081	Ah! I do! H-here!	VO_albell.albell_battle_1018
+082	Is this...a military uniform from the army of Wratharis?	VO_sophia.sophia_sys_0006
+083	My mother gave it to me a long time ago.	VO_albell.albell_sys_0004
+084	She made it for me when I was little, for me to grow into. It's based on my brother's uniform.
+085	It's the only real memory I have of my brother.
+086	May I borrow it?	VO_sophia.sophia_sys_0002
+087	P-please take good care of it.	VO_albell.albell_sys_0018
+088	But of course.	VO_sophia.sophia_sys_0005
+089	What are you going to do with it?	VO_albell.albell_sys_0002
+090	Project the star steeped in memories upon the ice to reveal the trail.
+091	Also...
+092	Y-yes?	VO_albell.albell_sys_0005
+093	We will be needing a spell to make sure that everything goes well!	VO_sophia.sophia_sys_0007
+094	J-just make sure you give it back!	VO_albell.albell_sys_0018
+095	Ohohoh! Do you have so little faith in me?	VO_sophia.sophia_sys_0008
+096	If I didn't have faith in you, I wouldn't have handed it to you in the first place!	VO_albell.albell_sys_0029
+097	Oh, dear.	VO_sophia.sophia_sys_0050
+098	...
+099	Please!
+100	Hm...
+101	Your brother's star has sunk to the depths of the river of rage, leaving its light scrambled upon the surface.
+102	The river of rage? Does that mean...Wratharis?	VO_albell.albell_sys_0005
+103	Upriver lies the source of the star stream itself. It lies still, with open maw.
+104	The source of the...star stream?	VO_albell.albell_sys_0025
+105	The ancient capital, tied to the forbidden art.
+106	The forbidden art? Alchemy? The ancient...?	VO_albell.albell_sys_0031
+107	Wait! Does this mean that there are ruins in Wratharis like the ones in Slothstein?	VO_albell.albell_sys_0021
+108	Eventually, your brother's star will be drawn spiraling into the center and engulfed...
+109	Taken to the place of the sealed.
+110	Ah!
+111	I knew it!	VO_albell.albell_battle_0019
+112	Who are these—?!	VO_sophia.sophia_sys_0025
+113	They're annoying, that's what they are!	VO_albell.albell_sys_0030
+114	I see! They're a danger, then, I take it.	VO_sophia.sophia_sys_0029
+115	You've got that right!	VO_albell.albell_sys_0037

@@ -1,0 +1,85 @@
+﻿001	Gyarr?!	VO_Mwolf.Mwolf_battle_0028_b
+002	Huh. I think I've gotten a little rusty.	VO_malta.malta_sys_0016
+003	What do you mean?! Miss Malta, that was amazing! I should have never doubted you!	VO_hisham-b.hisham-b_sys_0026
+004	Hehe. Now do you get it?	VO_malta.malta_sys_0007
+005	Yeah! I totally understand what they meant when they told me that I should never, ever make you mad.	VO_hisham-b.hisham-b_sys_0005
+006	I understand that fear on a visceral level now!	VO_hisham-b.hisham-b_sys_0007
+007	Wait, who said that?	VO_malta.malta_chara_1009
+008	Ahem. Malta?
+009	Yes, Isidore?	VO_malta.malta_sys_0006
+010	You're off the hook this time, but you are a druidic priestess. You're vital to this village.	VO_ishido.ishido_sys_0002
+011	It's important that you not risk yourself when so many are relying on you.
+012	But this was easy enough to do myself...	VO_malta.malta_sys_0016
+013	That's not what I'm talking about! Kamui, say something.	VO_ishido.ishido_sys_0030
+014	Me? Uh, hmm...
+015	The precision of your Spiritbonding is brilliant, as always.	VO_kamui-b.kamui-b_sys_0031
+016	I learned a lot from observing your techniques, such as your ability to sense the beasts before you could even see them...	VO_kamui-b.kamui-b_sys_0037
+017	Not that! I'm trying to say we were worried!	VO_ishido.ishido_sys_0012
+018	No matter how strong you are, a single slipup and it could be the end for you.
+019	Even though you're a master at Spiritbonding, you're still a woman, and I...	VO_ishido.ishido_sys_0002
+020	If anything happened to you, I...	VO_ishido.ishido_sys_0022
+021	I think you're worrying too much.	VO_malta.malta_sys_0001
+022	And what's wrong with that? I—	VO_ishido.ishido_sys_0006
+023	There you are!
+024	What the...?	VO_ishido.ishido_sys_0001
+025	The Chief has called an urgent meeting! He wants the three of you to gather immediately.
+026	My father?	VO_malta.malta_sys_0006
+027	We'd better hurry. Can you take care of Hisham? I need you to take him home.	VO_kamui-b.kamui-b_sys_0001
+028	Understood.
+029	What? But...	VO_hisham-b.hisham-b_chara_1009
+030	From here on, it's grown-ups only. Don't worry about it yet.	VO_kamui-b.kamui-b_sys_0002
+031	Okay.	VO_hisham-b.hisham-b_sys_0016
+032	Sorry to keep you waiting. Let's hurry.	VO_kamui-b.kamui-b_sys_0035
+033	Yeah, but what do you think could be so urgent?	VO_ishido.ishido_sys_0004
+034	They're here.
+035	Sephira Guard Captain Isidore, at your service.
+036	Father, what's going on?
+037	The oracles have foreseen an outbreak of corruption.	VO_iakof.iakof_sys_0016
+038	...!	VO_kamui-b.kamui-b_sys_0017
+039	The incarnation of Beelzebub's curse, the Jams, have appeared?	VO_ishido.ishido_sys_0025
+040	Then it is our duty to eradicate them.	VO_kamui-b.kamui-b_sys_0004
+041	Yes.	VO_iakof.iakof_sys_0004
+042	Now is the time for us, the people of Sephira, to fulfill the duty entrusted to us so long ago.	VO_iakof.iakof_sys_0001
+043	Where should we go?
+044	At the eastern end of this southern region that our hidden village is located, there is what seems like the remains of a village.	VO_iakof.iakof_sys_0037
+045	It is a long way from our village, but the fastest horse in the village can reach it in a day.	VO_iakof.iakof_sys_0031
+046	I will gather our warriors immediately!	VO_ishido.ishido_battle_0001
+047	No... It may be better not to bring so many people.	VO_iakof.iakof_sys_0039
+048	With the unrest in the royal capital and the uprisings in other regions, it would be a bad time for us to come to light.
+049	We have already left the stage of history. Getting entangled in the troubles of the outside world may trigger new tragedies.	VO_iakof.iakof_sys_0022
+050	So then...?	VO_ishido.ishido_sys_0006
+051	Malta and Kamui, I entrust to you two the task of purification.	VO_iakof.iakof_sys_0001
+052	Please wait! I should also—	VO_ishido.ishido_sys_0025
+053	Isidore, what is the post that has been assigned to you?	VO_iakof.iakof_favorite_0003
+054	...Captain of the Sephira Guard, sir.	VO_ishido.ishido_sys_1021
+055	You cannot leave the village and your warriors.	VO_iakof.iakof_sys_0005
+056	In addition, you are to be the Chief of this village.
+057	You understand the confusion it will bring if you abandon your duties for personal reasons, don't you?
+058	Yes...
+059	I trust that with your skills, you two will need no extra escort. I leave the task in your hands.	VO_iakof.iakof_sys_0041
+060	Yes.
+061	Yes, father.	VO_malta.malta_favorite_0006
+062	I'll go ask the stable master for horses!
+063	Wait, I'll—	VO_kamui-b.kamui-b_sys_0002
+064	Isidore...?	VO_kamui-b.kamui-b_sys_0005
+065	Take care of her.	VO_ishido.ishido_sys_0002
+066	Like I said, no matter how skilled she is in Spiritbonding, she's not a warrior.
+067	I wish I could go with you and protect Malta with my own hands.
+068	But that would force me to turn my back on the duties I have pledged to fulfill as a Sephira.	VO_ishido.ishido_sys_0022
+069	So I'm leaving it up to you, my best friend.
+070	If anything happens, you protect her.	VO_ishido.ishido_sys_0041
+071	Of course.	VO_kamui-b.kamui-b_sys_0004
+072	According to what the Chief said, the place filled with corruption should be just up ahead, but...	VO_kamui-b.kamui-b_sys_0031
+073	Malta, can you sense it?	VO_kamui-b.kamui-b_sys_0001
+074	Yes, I sense some distorted Alchemia.	VO_malta.malta_sys_0020
+075	It's...much bigger than I imagined...
+076	Then let's purify the land first.	VO_kamui-b.kamui-b_sys_0037
+077	We'll use our skills to separate the Jams from the Alchemia of the earth to weaken them!
+078	Got it! Leave the purification to me. Kamui, synchronize with me!	VO_malta.malta_sys_0038
+079	Got it!	VO_kamui-b.kamui-b_sys_0004
+080	"I beseech the supreme...!"	VO_malta.malta_battle_0007
+081	Wait, Malta! They've already found us!	VO_kamui-b.kamui-b_sys_0027
+082	Kamui, what do we do?	VO_malta.malta_chara_1009
+083	You purify the land! I'll take care of the Jams attacking us!	VO_kamui-b.kamui-b_sys_0002
+084	I'm on it!	VO_malta.malta_sys_0005
+085	"I wield understanding in my right hand and mercy in my left. With the wisdom I have inherited, I will guide you to right the wrong—"	VO_malta.malta_battle_0007

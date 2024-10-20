@@ -1,0 +1,55 @@
+﻿001	...
+002	Natalie, does the medic unit need to resupply? Natalie...?	VO_vetel.vetel_sys_0002
+003	Huh...?	VO_natalie.natalie_sys_0006
+004	I know how you feel...but this is no time to let ourselves lose sight of things. Your unit needs you to lead them.	VO_vetel.vetel_sys_0030
+005	You're one to talk. Time has passed since...but you haven't bounced back yet either.	VO_natalie.natalie_sys_0030
+006	What are you talking about? I'm fine.	VO_vetel.vetel_event_1015
+007	The knights are worried about you, you know. They've been saying that there are shadows gathering within Sunbright Vettel.	VO_natalie.natalie_sys_0016
+008	Hmm. I thought I'd been doing a good job of hiding that.	VO_vetel.vetel_sys_0016
+009	I just haven't come to terms yet with all the things we lost when the Lion Monarch Orion descended on us.	VO_natalie.natalie_sys_0018
+010	Yeah.	VO_vetel.vetel_sys_0030
+011	...
+012	Uh... Ahem. I'm sorry to interrupt.	VO_neena.neena_sys_0001
+013	You don't need to be so polite, Nina. What is it? Did Victor do something again?	VO_vetel.vetel_sys_0005
+014	Um... No! It's really not his fault, he's just quite, um...loud? He didn't mean to startle me. It really was my own fault for... Ahem. I apologize. I seem to have gotten off track.	VO_neena.neena_battle_1028
+015	I needed to speak with you in regards to another matter.	VO_neena.neena_chara_1002
+016	Another matter? What do you mean, Nina?	VO_natalie.natalie_chara_1002
+017	I'm so sorry. I know it's not my place, but...I just thought that maybe...it might be good for the two of you to, um... Maybe perk up a little?	VO_neena.neena_sys_0027
+018	I know that Sir Gerald wouldn't be happy to see the two of you this way.
+019	Gerald...?	VO_vetel.vetel_sys_0025
+020	Um, well... It just feels like we're letting him down by not being able to move on.	VO_neena.neena_sys_0012
+021	I remember he said something like...
+022	"We swore that our iron wills should stand indomitable in the face of hardship in order to ensure the joy and laughter of the people!"
+023	Something terrible happened. We lost someone important to us due to senseless violence. That's our  reality. However...if we lose sight of our promises and what we were fighting for in the first place...	VO_neena.neena_sys_0027
+024	...!
+025	...Honestly, I think he would sneer at us. He fought until the bitter end for the principles he held dear and the vow he once made with you.
+026	Sir Gerald entrusted me with carrying on all that he held in his heart.
+027	Like his hope to support Captain Vettel in continuing his role as the heart of the Scarlet Flame Guard.
+028	Like his devotion to the Scarlet Flame Guard, always putting it first, before even himself.
+029	I truly hope to become like him; someone who fully embodies all the ideals of the Scarlet Flame Guard!	VO_neena.neena_battle_0019
+030	But I can't do it alone. I need you to look to the future and do this with me.	VO_neena.neena_sys_0041
+031	...Heh. Nina's got that spark, just like Gerald always did. Don't you think, Natalie?	VO_vetel.vetel_sys_0030
+032	Hmph!
+033	Oh no... I'm sorry! I'm sorry for letting my mouth run away with me!	VO_neena.neena_battle_0016
+034	You! You are so like Gerald. It makes me sick! I can practically hear that idiot laughing at us!	VO_natalie.natalie_sys_0004
+035	Heh... By the way, Nina, does that mean you're aiming for the same position he held? Are we looking at the future Vice-Captain of the Scarlet Flame Guard?	VO_natalie.natalie_sys_0007
+036	U-um... I-if that...was what Sir Gerald would have wanted... I will do my best! I will definitely do my best to become a suitable Vice-Captain!	VO_neena.neena_sys_0050
+037	In that case, I will do my part by healing your wounds! Just...like I used to do for Gerald.	VO_natalie.natalie_sys_0004
+038	Indeed... It's time to start looking to the future. That is the path he left behind for us. Right, Vettel?	VO_natalie.natalie_sys_0007
+039	Indeed. Thank you, Nina!	VO_vetel.vetel_sys_0007
+040	Come on, it's time to shake this all off. We need to pump morale back up!	VO_natalie.natalie_sys_0002
+041	Morale, huh?	VO_vetel.vetel_sys_0031
+042	About that... Actually, I kind of have an idea. You know the dress uniform for knights...?	VO_neena.neena_sys_0001
+043	This is...where the Scarlet Flame Guard began!	VO_chloe.chloe_sys_0009
+044	Yes. This is where Gerald, Natalie, and I made the vow that started all of this.	VO_vetel.vetel_sys_0004
+045	Huh. Interesting place to decide to have some swordfights.	VO_ren.ren_sys_0044
+046	It was Nina's idea! It seemed a fitting way to honor Gerald, who spent his life in battle until the very end.	VO_natalie.natalie_sys_0004
+047	She thought that it would be nice to come here to show him that our iron will has not faded, that we are still fighting the good fight wherever we can.
+048	Gerald saw battle, even practice matches, as a place that opens up the potential to grow.	VO_vetel.vetel_sys_0004
+049	Even if it was a training match, Ironheart Gerald would come at you with his full strength, no mercy.
+050	And after a thousand swings, too. That guy was certainly consistent in his bull-headedness... Well. Are we going to do this or what?	VO_ren.ren_sys_0007
+051	Aw, yeah! I'm pumped up about this! This is gonna be fun!	VO_victor.victor_sys_0032
+052	Eep!	VO_neena.neena_sys_0026
+053	Victor! Quit freaking Nina out!	VO_chloe.chloe_battle_0019
+054	Ahem. Now then, shall we begin this...unconventional memorial service for my old friend, Gerald? A training mission of sorts.	VO_vetel.vetel_battle_1030
+055	Are you watching, Gerald? I hope you're happy! We're doing this for you, you know! Scarlet Flame Guard, at the ready!

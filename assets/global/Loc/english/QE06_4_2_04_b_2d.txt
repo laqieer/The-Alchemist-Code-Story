@@ -1,0 +1,88 @@
+﻿001	...
+002	Huff...huff...huff...!
+003	Well?	VO_amane.amane_sys_0001
+004	My body is more used to it than before, but...something still isn't quite right. I'm not sure how to put it into words.	VO_logi-b.logi-b_sys_0031
+005	I can feel the power welling within me, but...the power and the sword are separate, and I don't know how to link them. That's the best I can explain it.
+006	I see. Then all we can do is continue to train. I'll stay with you for as long as it takes!	VO_amane.amane_sys_0016
+007	The way you hold your sword is all wrong.
+008	Huh?
+009	Sumeragi said something to me once. He said that true power is never to be found in a sword if that sword is wielded like a weapon.	VO_mikaboshi.mikaboshi_sys_0002
+010	What does that mean?
+011	Well...
+012	You're holding that thing like a weapon! When you do that, its shape starts to become unwieldy, and you start making mistakes.	VO_sumeragi.sumeragi_sys_0001
+013	That's fine. I still beat you! Like always.
+014	That's beside the point! I just don't want to see anything happen to you, you know?	VO_sumeragi.sumeragi_sys_0030
+015	Then what's the right way to hold it?	VO_mikaboshi.mikaboshi_sys_0001
+016	You need to treat it like an extension of your body. Don't stop training with it until you can!	VO_sumeragi.sumeragi_sys_0004
+017	And I don't mean swinging the thing around at nothing. That doesn't make you a better fighter.
+018	Real training like that would take a lot of time, though. Like, way too much.	VO_mikaboshi.mikaboshi_sys_0016
+019	Well, then you'd better get started, huh? Stop complaining and start doing!
+020	Fine, fine...
+021	In the end, I never did quite get the feel for it, but I think you just might. And...I mean, I guess you kinda have to!	VO_mikaboshi.mikaboshi_sys_0030
+022	An extension of my body, huh?
+023	That certainly doesn't sound like the sort of mindset one can just...pick up.	VO_logi-b.logi-b_battle_0019
+024	Do you think you can do it, though, Logi?
+025	Do I have a choice? I just wish I could see an example of this technique in action.	VO_logi-b.logi-b_sys_0037
+026	I think I could learn it a little bit faster if I had a model to follow along with.
+027	You've already seen it, haven't you? In a flash of memory or two, at least.
+028	Yes, but there's a real difference between a vague memory and following along with it for real.	VO_logi-b.logi-b_sys_0039
+029	I'm sorry. If only I were stronger, I may have been able to recreate Celis' technique.	VO_amane.amane_sys_0035
+030	...
+031	Logi?
+032	(At this rate, we won't be able to obtain Kagutsuchi after all. Not practically, anyway. I'm sure Logi understands that as well.)	VO_amane.amane_sys_0031
+033	(Is this my failing? Is my weakness going to be our downfall?)
+034	(Just when we thought we'd found a way! After we'd come so far! We can't give up now!)
+035	(There has to be something... Something that can help us with Kagutsuchi. Anything!)	VO_amane.amane_sys_0042
+036	(I need power! Power enough to fight against the Malice that terrorizes us.)
+037	(Power to retie all the knots that bind us together as one in this once peaceful land!)
+038	You again? Hmph. Wait... You seem to be empty inside this time around. Have you found a reason to desire power now, perhaps?	VO_uroboros.uroboros_sys_0016
+039	And to be powerful as your own person, not simply as a vessel? It only makes sense you would.
+040	You! I... No, there are more important things to worry about right now than any misgivings I may feel here.	VO_amane.amane_sys_0003
+041	I need...strength. The strength to retie Wadatsumi's binds. The strength to mend this broken land!
+042	Is that desire truly your own? Or is it a remnant of the consciousness that heretofore dwelled within you?	VO_uroboros.uroboros_sys_0001
+043	It is my own.	VO_amane.amane_sys_0004
+044	Oho?
+045	Even apart from Mikaboshi, I wish to bring peace back to Wadatsumi. With all of my heart.	VO_amane.amane_sys_0037
+046	Can you prove to me that this isn't a mere remnant of her will?
+047	I don't need to! I know my own desire! That's why I'm here, isn't it?!	VO_amane.amane_sys_0017
+048	I don't know who you are, but if you can give me the strength I need to save Wadatsumi, then I beg of you, give it to me now!
+049	I don't care what happens to me. If Kagutsuchi isn't mastered soon, everything we've done will be for naught!	VO_amane.amane_sys_0002
+055	How intriguing it is, your wish to retie the bindings of this land. Past, present, and future, all connected...
+056	Very well. This contract of truth is now sealed.	VO_uroboros.uroboros_sys_0006
+057	Your fervent desire to tie together loose strands of thoughts and feelings shall become your power.
+058	What does that mean? Can't you be a little clearer about it?	VO_amane.amane_sys_0001
+087	Feelings reside not only in people, but in things as well.
+088	And worlds are born within those things...worlds with their own thoughts and memories. You shall have the power to touch those things, and connect to their deepest thoughts and memories within.	VO_uroboros.uroboros_sys_0004
+089	If you wish it, a projection of the owner's life can be produced from within an item, for example.
+090	Your true power will be drawn out not on the battlefield, but in the connections from feeling to feeling, thought to thought.
+091	I still don't understand...	VO_amane.amane_sys_0016
+059	The feelings within objects remain static. Human feelings change, but those belonging to mere things do not.
+060	Over and over they form bonds, until those bonds are inevitably broken, pulling powerful emotions from their bearers as the severed strings retract, to be incorporated into their very identities.
+061	Your power is that of connection.	VO_uroboros.uroboros_sys_0005
+062	My power is the ability to connect people together... No, the ability to connect people and things together. It's...The Alchemy of Connection!
+063	Goodbye, former vessel. It seems even as an unoccupied mortal, your true nature remains unchanged.	VO_uroboros.uroboros_sys_0003
+064	I wonder what these connections of yours will draw from those they bind, in the end?
+065	I look forward to finding out.
+066	Wai—!	VO_amane.amane_sys_0042
+067	?! What's wrong?	VO_logi-b.logi-b_sys_0025
+068	Oh, uh...
+069	Did you think of something?	VO_mikaboshi.mikaboshi_sys_0006
+070	...
+071	Feelings reside not only in people, but in things as well.
+072	And worlds are born within those things...worlds with their own thoughts and memories. You shall have the power to touch those things, and connect to their deepest thoughts and memories within.	VO_uroboros.uroboros_sys_0004
+073	If you wish it, a projection of the owner's life can be produced from within an item, for example.
+074	Your true power will be drawn out not on the battlefield, but in the connections from feeling to feeling, thought to thought.
+075	Alchemy! Amane, you went there too?!	VO_logi-b.logi-b_sys_0005
+076	Too? Then you've experienced it as well?	VO_amane.amane_sys_0025
+077	Once, yes. Though I'm not familiar with this...Alchemy of Connection.
+078	Could it be like when you enter my mind?	VO_mikaboshi.mikaboshi_sys_0001
+079	You understand, Mikaboshi?!
+080	If you think about it, it makes sense. You're both currently inside the Spirit Stone Mikaboshi, sharing my consciousness.	VO_mikaboshi.mikaboshi_sys_0002
+081	So with your Alchemy, as long as you've got an object with strong emotions inside it, you can summon a person deeply connected to that object into its world.
+082	You can also connect the emotions within that object to other people...
+083	And not only that, you can potentially summon the owner of the object to the world inside of it. At least...that's my interpretation!	VO_mikaboshi.mikaboshi_sys_0004
+084	I see... So you're a Phantom Soldier who doesn't fight, but rather builds connections!
+085	It seems a test may be in order here.	VO_amane.amane_sys_0004
+092	That's...the dagger Jubei brought back with her?
+093	Celis'. With this, we could learn that technique from Celis herself...from your mother, directly.	VO_amane.amane_sys_0005
+086	...!

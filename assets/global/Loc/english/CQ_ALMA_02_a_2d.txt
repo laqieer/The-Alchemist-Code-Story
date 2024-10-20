@@ -1,0 +1,78 @@
+﻿001	As the monsters are gone, we shall continue with our practice. Allow me to remind you that you cannot use magic. Understood?	VO_mob_female.mob_female_sys_0030
+002	I will be taking a look around the perimeter to make sure there are no more monsters.
+003	(This area isn't where monsters live. Aren't they supposed to live in forests?)	VO_alma.alma_sys_0031
+004	Phew, glad we made it through! Right, Alma?	VO_lizbeth.lizbeth_sys_0016
+005	Well, I guess we got our exercise in before eating, at least... Huh?	VO_alma.alma_sys_0010
+006	Urgh... My stomach...hurts...
+007	Me too. Ever since I tasted the stew...
+008	Really? Oh no. You all did all that with a stomachache? Are you two all right?!	VO_lizbeth.lizbeth_sys_0026
+009	I feel fine. And you seem fine too, Lisbeth? I...	VO_alma.alma_sys_0004
+010	Hmph.
+011	(She's...smiling?)	VO_alma.alma_sys_0006
+012	We'll swap out the other groups' herbs with this and take everyone else out. How about it?
+013	(No way! She didn't... Did she really swap out the herbs in all the madness earlier?!)	VO_alma.alma_battle_0023
+014	(She really went and did something so petty. But tattle-telling on her won't lead to anything interesting.)
+015	(And that herb isn't that toxic, so it'll be fine if I let things go on as they are.)	VO_alma.alma_sys_0030
+016	Urgh... Ow, ouch...
+017	Hey? Are you okay? Where does it hurt?!	VO_lizbeth.lizbeth_sys_0001
+018	Recovery magic! ...That won't work! I haven't learned any magic that'll heal stomach pain!
+019	Hey, calm down, Lisbeth. You can't use magic during practice.	VO_alma.alma_event_1013
+020	If you use magic, you might lose points. Is that what you want?
+021	Now's not the time to be worrying about something like that!	VO_lizbeth.lizbeth_sys_0002
+022	?!
+023	(Why... Why does she care about other people this much?)	VO_alma.alma_sys_0031
+024	(I took it for granted that all witches would resort to anything to become elite.)
+078	(That's what all the witches I met were like.)
+025	(But this girl might be different from the others.)	VO_alma.alma_sys_0004
+026	Wait! Why are you okay?! That's weird!
+027	I don't know. Maybe you all messed up when cooking yours?	VO_jogakusei.jogakusei_sys_0010
+028	Now that I think about it, weren't you at our cooking station when the monsters came?!
+029	You! You didn't put something in our stew, did you?
+030	I saw her over there, too! So what's your explanation for this?!
+031	Huh? What? What are you talking about?	VO_lizbeth.lizbeth_sys_0005
+032	Sigh... Why don't you just give up and tell the truth?	VO_alma.alma_sys_0030
+033	I-I... Yeah... That's right. You said that we should use this opportunity to mess with the other groups.	VO_jogakusei.jogakusei_sys_0042
+034	A-Alma was the one that told me to do it!
+035	What?!	VO_alma.alma_sys_0025
+036	What are you talking about?! I would never do that!	VO_alma.alma_sys_0003
+037	I could see Alma doing that. She's always standing off to the side, never really bothering to talk to any of us...
+038	And her grades aren't that good either... Maybe she did it to improve her grade in this class. Urgh... Hurts...
+039	...
+040	(I knew this wasn't going to end well. Ugh. This is so annoying.)	VO_alma.alma_sys_0022
+041	Sigh... So if I gave the command, I should just apologize, right?
+042	Wait!	VO_lizbeth.lizbeth_sys_0002
+043	Why do you have to apologize, Alma? You can't!	VO_lizbeth.lizbeth_sys_0012
+044	Huh?! Wh-what's with you all of a sudden?
+045	Well, I know for a fact that you would never do something like that!
+046	N-never? Why are you so sure about that?	VO_alma.alma_chara_1010
+047	Because you're not a bad person!
+048	You came to help me carry the firewood!	VO_lizbeth.lizbeth_sys_0003
+049	And you noticed the small scratch Matthew had that he even didn't notice he had!
+050	Because you're kind! So there's no way it could've been you!
+051	Besides, it doesn't matter why their stomachs are hurting right now! Healing them is much more important right now!	VO_lizbeth.lizbeth_sys_0031
+052	Th-that's true, but...!
+053	So everyone! Eat the stew we made! It'll heal you in a flash!	VO_lizbeth.lizbeth_sys_0001
+054	Huh? You wanna give it to them? But it's our assignment.
+055	Yeah! Is that all right with you two?	VO_lizbeth.lizbeth_sys_0004
+056	It's fine with me, but what about you? We put a lot of effort into it and it's perfect.
+057	Of course it's fine!	VO_lizbeth.lizbeth_sys_0007
+058	B-but! If we give everyone some, the stew will be all gone! At least let the teacher grade it first...	VO_jogakusei.jogakusei_sys_0021
+059	Geez, now's not the time to talk about practice when everyone's feeling so terrible!	VO_lizbeth.lizbeth_sys_0010
+060	Besides, the stew came out great.
+061	It should be eaten while it's hot. Right?	VO_lizbeth.lizbeth_sys_0008
+062	Uh...
+063	(If it were graded, it would've been our first step towards becoming an elite witch.)
+064	(Eating the stew while it's hot is more important? Seriously?)	VO_alma.alma_sys_0031
+065	Insects?! At a time like this?! They're crawling all over the place! So gross!
+066	Why are there insects here?! They're not supposed to be aggressive! They're only supposed to attack if they're attacked first!	VO_lizbeth.lizbeth_sys_0025
+067	Shoo, go away! Wh-why are they only coming towards me?!	VO_jogakusei.jogakusei_sys_0027
+068	Yui is getting surrounded by insects! I have to save her!	VO_lizbeth.lizbeth_battle_0020
+069	Wait, how is you jumping into things going to help?!	VO_alma.alma_event_1013
+070	But I can't just leave her to fend for herself!
+071	What?!
+072	(Can't leave her? But if it means sticking your neck into danger... That's crazy.)	VO_alma.alma_sys_0011
+073	(It's crazy, but...)
+074	(She's serious.)
+075	Grrrah, fine!	VO_alma.alma_battle_0004
+076	Alma, it's too dangerous! We should call the teacher...
+077	Hiyah! You're right, but I jumped in the fray before I realized I was going to!

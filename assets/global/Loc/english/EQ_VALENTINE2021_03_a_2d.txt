@@ -1,0 +1,86 @@
+﻿001	Hyaaaaah!	VO_margaret.margaret_sys_0032
+002	Phew... That's all of them.	VO_margaret.margaret_sys_0016
+003	I can't believe the chocolate the girl ate was made with Purple Cacao. It's no wonder her symptoms were so bad!
+004	Purple Cacao is the most potent and difficult to use of them all. And there's no known way to neutralize its poison when working with it.	VO_margaret.margaret_sys_0031
+005	It's unconscionable to think that anyone would use it to make and sell chocolate! What kind of deviant would even consider something so flagrant?!	VO_margaret.margaret_sys_0017
+006	I don't know, but it sure was a waste of perfectly good Purple Cacao. At least I was able to get a truly fascinating medical exam out of it.
+007	Lizzy... That girl was in a really bad state. You shouldn't talk like that.	VO_margaret.margaret_sys_0027
+008	I fail to see why not. She's the one who chose to buy and eat the chocolate. I can't imagine what could've possessed her to do that.	VO_elizabeth.elizabeth_sys_0031
+009	That is a good question. Her uniform identifies her as a student from the School of Magic, so she should've been well-acquainted with the cacao's many dangers.	VO_margaret.margaret_sys_0045
+010	Well, she should be waking up soon, if Elizabeth's prognosis is anything to go by, so how about we get the story straight from the horse's mouth?	VO_charis.charis_sys_0002
+011	Glad to see you're okay. So, how are you feeling? Can you tell me who you bought this chocolate from?	VO_margaret.margaret_sys_0002
+012	...
+013	I'm not trying to scare you, but you were in critical condition. If Lizzy hadn't treated you, your life could've been in serious danger.	VO_margaret.margaret_sys_0016
+014	We have to find the source of that chocolate so things don't get out of hand—so more people don't get hurt.	VO_charis.charis_battle_0019
+015	I know you don't want to get anyone in trouble, yourself included, but it's really important that you tell us where you bought it. Please.
+016	I don't know where he is right now. He's a traveling peddler.
+017	A peddler?	VO_margaret.margaret_sys_0031
+018	Okay. And why, exactly, did you buy the chocolate from him?	VO_charis.charis_sys_0006
+019	I got a really bad score on one of my tests recently, and it made me think maybe I'm not cut out to be a witch...	VO_jogakusei.jogakusei_sys_0018
+020	Then...somebody told me there was a peddler in town who sold chocolate that can grant wishes.
+021	("Somebody"?)
+022	I found him, and he recommended this particular chocolate to me.	VO_jogakusei.jogakusei_sys_0031
+023	He said that in order to become a proper witch, I needed to be both magnanimous and composed, and that Purple and Blue Cacao could help me with that.
+024	But because it was black market chocolate, it had high concentrations of cacao, which meant it'd be especially effective, but also have even worse side effects.	VO_jogakusei.jogakusei_sys_0012
+086	He said I wouldn't be able to become a proper witch without going through at least a little pain and suffering, though.
+025	No wonder you didn't want anyone to help you at first. But you must know that Rainbow Cacao is contraband for a reason, right?	VO_elizabeth.elizabeth_sys_0044
+026	Yeah. I've been taught how dangerous it is. We all have. But the peddler said that if I could withstand its effects, it'd make me stronger.	VO_jogakusei.jogakusei_sys_0005
+027	He even told me that all the elite witches knew this and worked to get it banned from public sale so no one could become as strong as they are.
+028	He was so convincing, I... I just...	VO_jogakusei.jogakusei_sys_0018
+029	Fell right into his trap. What an awful man.	VO_charis.charis_sys_0022
+030	I don't really get it, though. Why would you be so desperate to succeed as a witch that you'd be willing to eat something you knew was probably poisonous?	VO_charis.charis_sys_0031
+031	Because there's no point in becoming a witch at all if you're not one of the elite! No one'll ever listen to you otherwise.
+032	What do you mean?
+033	She means that a witch is only as powerful and influential as she is successful.
+034	Powerful enough to ignore all the citizens' requests for Rainbow Cacao and hold a monopoly over its distribution, for example.	VO_margaret.margaret_sys_0030
+035	I see...	VO_charis.charis_sys_0045
+036	I understand why you bought the chocolate. But I hate to tell you, eating it will not have any lasting effect on your magnanimity or composure.	VO_elizabeth.elizabeth_sys_0031
+037	What? But...isn't that what Purple and Blue Cacao are supposed to do?	VO_jogakusei.jogakusei_sys_0025
+038	It is. But the effects of Rainbow Cacao are temporary. Sure, purple will increase your charm, and blue will make you calm...	VO_elizabeth.elizabeth_sys_0004
+039	But the components of the cacao aren't absorbed into the body, which means its effects won't last beyond when the material is...expunged from the system.
+040	Ugh. So it was all for nothing...	VO_jogakusei.jogakusei_sys_0021
+041	That peddler was just lying from beginning to end! What an awful man, indeed!	VO_margaret.margaret_sys_0025
+042	I might embellish my wares a little to gain more interest, but I'd never outright lie about any of them. Especially if it would put my customers in danger!
+043	I used to say the thing I hate most is when a merchant doesn't know the first thing about what they're selling and is too lazy to look it up...but dangerous misrepresentation is on a whole other level!	VO_margaret.margaret_sys_0010
+044	This seems to have struck a chord with you. You're spot-on, though.	VO_charis.charis_sys_0010
+045	Yes, Margaret's absolutely right. The very least he should have done is explain the actual risks and the actual effects of the cacao.	VO_elizabeth.elizabeth_sys_0006
+046	Even I provide a thorough description of the side effects when I prescribe potentially dangerous medicine to my patients.
+047	Granted, people don't really seem to want to take it after I do, but it's the thought that counts, right?	VO_elizabeth.elizabeth_sys_0011
+048	...
+049	That is ethically sound, if...nothing else.
+050	I bet it's because of that peddler that so many people in town are getting sick.	VO_charis.charis_sys_0044
+051	Still, it's strange...
+052	What is?	VO_elizabeth.elizabeth_chara_1009
+053	Well, despite all the chaos that chocolate's causing, the peddler is presumably still selling it, or else there wouldn't be so many new cases. It's surprisingly brazen.	VO_charis.charis_sys_0002
+054	Oh! That's a good point.	VO_margaret.margaret_sys_1011
+055	I'm going to patrol the area. If there really is still someone out there hawking chocolate, then there will most likely be other people nearby suffering its effects.	VO_charis.charis_sys_0004
+056	This could be a good chance to gather some intel on his source, too. You two go on ahead without me and try to find this black market the court mages were talking about.
+057	Wait, but—	VO_margaret.margaret_chara_1011
+058	Don't worry about me! I'll catch up with you soon enough.	VO_charis.charis_sys_0007
+059	Whoa! Just like that, she's gone! She does not mess around.	VO_margaret.margaret_sys_0025
+060	We should get going too, Margaret.	VO_elizabeth.elizabeth_sys_0003
+061	Oh, right!	VO_margaret.margaret_sys_0006
+062	...
+063	......
+064	Margaret? What's the matter?	VO_elizabeth.elizabeth_event_1015
+065	Huh? Oh! Nothing. Nothing at all. Why do you ask?	VO_margaret.margaret_sys_1011
+066	Well, usually, you'd be so much more excited and energetic. Seeing you all lost in your own head is a sure sign something's wrong, I'd say.	VO_elizabeth.elizabeth_sys_0031
+067	Ahaha! I'm not lost in my own head! See? I'm just as chipper as ever! Big smiles, all around!	VO_margaret.margaret_sys_1011
+068	Are you, now? If you say so. If there is something bothering you, though, please feel free to talk to me about it. And if you're just tired, I should have the perfect medicine to take care of that.
+069	Hehe! Thanks! That's my Lizzy: always so thoughtful and caring!	VO_margaret.margaret_sys_0007
+070	...
+071	(Lizzy really is a thoughtful and caring person, and she even went out of her way to save me despite the fact that I was a total stranger to her. She really is like a goddess to me, but...)	VO_margaret.margaret_sys_0027
+072	I don't know about you, but it looks to me like she's just having fun experimenting on that poor girl.	VO_charis.charis_sys_0031
+073	...
+074	(Is that the sort of attitude she had when she was saving me? I was unconscious at the time, so I really have no idea what was going through her head...)	VO_margaret.margaret_sys_0031
+075	(And I love Lizzy, so I personally don't mind being her guinea pig if she needs one...)
+076	(But if she's actually using strangers who are suffering as test subjects for her experiments—and enjoying it, no less!—I don't know how to feel about that.)
+077	(And it can't help but raise the question: why did she save me in the first place?)	VO_margaret.margaret_sys_0016
+078	(What even am I to her? Does she see me as a little sister? I'm the one who started that whole "We're sisters now" nonsense, so it might just be me who thinks of her that way.)
+079	Margaret? Margaret, are you listening to me?	VO_elizabeth.elizabeth_sys_0003
+080	Oh, yes! Of course I...am?	VO_margaret.margaret_sys_0025
+081	What the...?! Why are we surrounded?!	VO_margaret.margaret_sys_0020
+082	I just told you. The chocolate I took from the girl is attracting all these monsters to us.	VO_elizabeth.elizabeth_sys_0012
+083	You weren't listening to me at all! Margaret, what's gotten into you?!	VO_elizabeth.elizabeth_sys_0022
+084	Aaah! I'm so sorry! I can't believe I totally tuned you out! But...this really isn't the time for that, is it?!	VO_margaret.margaret_sys_0035
+085	Grrrrraaaaarrrrrrrrgggghhhhh!	VO_Mwolf.Mwolf_battle_0028_a

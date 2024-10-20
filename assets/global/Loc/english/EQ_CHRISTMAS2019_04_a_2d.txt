@@ -1,0 +1,130 @@
+﻿001	We did it, Birgitta! We got them to leave!	VO_clima.clima_sys_0007
+002	It was a pretty forceful method, but...it worked, I suppose!	VO_birgitta.birgitta_sys_0004
+003	Well, we should probably settle on a tree quickly. The sun is setting after all.
+004	That's right. Let's pick a tree! The biggest one!	VO_clima.clima_sys_0004
+005	I'll also look!
+006	Me too!
+007	"I'll go with you!"	VO_lotia.lotia_sys_0004
+008	They're all gigantic trees, just look at 'em all!
+009	...
+010	Ravina? Is Winter Holiday not fun?	VO_lotia.lotia_sys_0002
+011	Hmm... I mean, everyone seems to be having fun, I'm not saying Winter Holiday isn't fun, but...	VO_lavina.lavina_sys_0031
+012	Everyone is having a great time. When I was younger there never were events as fun as this. I'm kinda jealous!
+013	Really?
+014	Really!	VO_lotia.lotia_sys_0006
+015	Apparently, Winter Holiday comes from another world. Some people brought it here to "bring smiles to the children."
+016	Wow, you know so much.	VO_lavina.lavina_sys_0045
+017	Heh. I've been doing some background reading so I can be ready for this Winter Holiday duty.	VO_lotia.lotia_sys_0007
+018	One person wanted to share this joy around the world and has made so many people happy.
+019	All who cherishes this wonderful event are good kids!
+020	...I also think so. Michael, as well as Lofia, they're doing their best for the sake of Winter Holiday.	VO_lavina.lavina_sys_0006
+021	You are as well, Ravina, right? You yourself said you wanted to help out with the festivities, right?
+022	...but, that's only because I thought I could be with Michael and Lofia.
+023	They always have to work this time of the year, that's why I thought that if I also worked on Winter Holiday, I could be with them.	VO_lavina.lavina_sys_0018
+024	I requested to do security alongside them...but they wouldn't let me.
+025	Is that so? Well, me too, Ravina.	VO_lotia.lotia_sys_0005
+026	Huh?	VO_lavina.lavina_sys_0025
+027	I also requested to work security on Winter Holiday.
+028	Really?! Why?
+029	Well, Winter Holiday is when all the cake shops put out their best cakes, right?	VO_lotia.lotia_sys_0004
+030	Lofia said there's always a ton of sweet cakes on Winter Holiday. So I thought, I definitely gotta get in on that!
+031	There are also cakes that aren't found in Gluttony Foss, I need me some of those cakes.	VO_lotia.lotia_sys_0007
+032	I thought there'd be a chance to eat those yummy cakes...
+033	...but, but while I was looking into it, I realized something.	VO_lotia.lotia_chara_1011
+034	Realized what?	VO_lavina.lavina_sys_0005
+035	Well...if you don't reserve a cake ahead of time, you can't get one!	VO_lotia.lotia_sys_0018
+036	Ah, yeah, I suppose that's true.
+037	I thought to myself, "How awful, how terrible! I won't be able to eat Winter Holiday cake! Even though it's Winter Holiday!"
+038	But, then I thought, the decorations around town are really exciting, and preparing for the party with you and everyone else was really REALLY fun.	VO_lotia.lotia_sys_0007
+039	Winter Holiday, a day when we work to make others smile, how wonderful!
+040	Even if there is no cake?	VO_lavina.lavina_sys_0003
+041	Even if there is no cake.	VO_lotia.lotia_sys_0004
+042	...
+043	Of course, it would be even better with cake! That goes without saying.
+044	But that's fine. It's okay to say we're lonely. It's okay to say we crave cake.
+045	...I guess so.
+046	It is!	VO_lotia.lotia_sys_0004
+047	Wanting to eat cake, loving the Winter Holiday... I really feel those things!	VO_lotia.lotia_sys_0007
+048	...
+049	(But I feel lonely when Michael and Lofia are not around)
+050	(So I thought I wouldn't enjoy the Winter Holiday. But...)
+051	...I see now. It's okay to feel both.	VO_lavina.lavina_sys_0006
+052	...Thank you, Lotiyah.	VO_lavina.lavina_sys_0034
+053	This tree is the biggest!	VO_neena.neena_sys_0009
+054	Great. Ravina and everyone are here already. I lost...	VO_clima.clima_sys_0009
+055	It's not about winning or losing!
+056	(I really just stumbled upon this spot...)
+057	Everyone found the tree together!	VO_lotia.lotia_sys_0005
+058	I lost...	VO_clima.clima_sys_0016
+059	Heh, but don't you think it's great we found a tree we can all agree on?	VO_lavina.lavina_sys_0007
+060	Yes! Very true!	VO_clima.clima_sys_0007
+061	So, let's take this tree and decorate it with Michael and Lofia in mind!
+062	Then it'll be the most wonderful tree ever!	VO_neena.neena_sys_0008
+063	...yeah.	VO_lavina.lavina_sys_0006
+064	Okay, let's ask the Maruda tribe if they will carry it back for us while we go home first.
+065	Phew, we are finally home.	VO_birgitta.birgitta_sys_0022
+066	The Maruda tribe said they would deliver it to the party by sled for us, so that's settled...
+067	Hm? What happened to Klima and the rest of them?	VO_birgitta.birgitta_sys_0006
+068	Hehe...	VO_lotia.lotia_sys_0007
+069	I... I think I'll just stick with what I'm wearing now.	VO_lavina.lavina_sys_0002
+070	Nope! This is a Winter Holiday party! Dress like it!	VO_neena.neena_sys_0012
+071	Exactly.	VO_clima.clima_sys_0004
+072	B-but...	VO_lavina.lavina_sys_0031
+073	Ooh! I'm good at this! Perfect! You look so cute!	VO_lotia.lotia_sys_0008
+074	Wow, Ravina, you look great!	VO_birgitta.birgitta_sys_0007
+075	Y-you think so?	VO_lavina.lavina_sys_0025
+076	Of course! You look so festive, Michael and Lofia are sure to be thrilled!	VO_birgitta.birgitta_sys_0004
+077	Mhmm. For sure!	VO_lotia.lotia_sys_0006
+078	...
+079	...Thanks.	VO_lavina.lavina_sys_0007
+080	Amazing! The town is all glittery, like the starry night sky!	VO_neena.neena_sys_0009
+081	You were in the Maruda tribe village, Nina, so you didn't see it happening, but Ravina did all of this. Look, and over there!	VO_clima.clima_sys_0001
+082	Hey you two! Don't run! Wait!	VO_birgitta.birgitta_sys_0012
+083	Oh, no, it's not that big of a deal.
+084	What are you saying?! This is positively wonderful! It's as if the entire town is celebrating Winter Holiday!	VO_lotia.lotia_sys_0030
+085	The town, the people, everything is in the Winter Holiday spirit! And it's all thanks to Ravina. Look!
+086	Mommy, look! The decorations are so pretty! Winter Holiday is so much fun!
+087	Don't run! If you don't behave, Santa won't bring you a present!
+088	What, no! I'll behave!
+089	Well, we better do our shopping and get home quickly then, huh?
+090	This year's decorations are so cute! Everything sparkles!
+091	Only someone who truly loves Winter Holiday could decorate like this.
+092	Everyone loves your decorations, Ravina.	VO_lotia.lotia_sys_0007
+093	Thanks.	VO_lavina.lavina_sys_0006
+094	You will certainly get your wish from Santa.
+095	That would be nice.
+096	Although, first we need to complete that tree.	VO_lotia.lotia_sys_0007
+097	Right!	VO_lavina.lavina_sys_0006
+098	Even so, where did those two go? I thought they would be back by now.
+099	Shall we go look for them?
+100	Hm? You guys...
+101	Hey! Good timing! Didn't you guys see Santa?	VO_rosa.rosa_sys_0002
+102	There's been a report of a sighting nearby. We'll catch him this year!
+103	Huh? What are you talking about?
+104	Those two... Those two are trying to catch Santa and expose him...	VO_neena.neena_sys_0016
+105	They can't just go causing trouble for Santa like that.	VO_clima.clima_sys_0012
+106	Hmm, have you two actually finished all of your work?	VO_birgitta.birgitta_sys_0030
+107	"Bringing presents to unfortunate children everywhere," isn't this your task?	VO_birgitta.birgitta_sys_0002
+108	Hm? We were doing our work! But, something more important came along, so we put it on hold...	VO_rosa.rosa_sys_0005
+109	That's right! It's our dream to catch Santa!	VO_shayna.shayna_sys_0004
+110	So, you're saying you haven't finished your work...
+111	We'll finish everything once we've caught Santa!	VO_rosa.rosa_sys_0010
+112	Santa isn't some thing you can go and catch!	VO_neena.neena_sys_0012
+113	By the way, what was that about sightings being reported?
+114	Oh yeah! Someone had a composite sketch drawn. The person looks like this, apparently.
+115	Th-this is...
+116	This person kind of looks like...Michael.	VO_lavina.lavina_sys_0003
+117	That's what I thought too!
+118	Which reminds me, we mistook Michael for Santa before and attacked him.	VO_shayna.shayna_sys_0031
+119	What?	VO_lavina.lavina_sys_0012
+120	Seems so! He looks just like Santa.	VO_rosa.rosa_sys_0031
+121	...
+122	Causing trouble for Michael... I won't allow that!	VO_lavina.lavina_sys_0016
+123	R-Ravina?! Calm down!	VO_lotia.lotia_sys_0027
+124	That person just now... He kind of looks like the sketch.	VO_clima.clima_sys_0001
+125	True! Red hat, white beard, glasses!
+126	Which means... THAT's Santa! We gotta catch him!	VO_rosa.rosa_sys_0032
+127	Oy... You don't want to stop Santa Claus doing his work, do you?	VO_thiefm.thiefm_sys_0007
+128	Huh? Who are you guys?
+129	I don't know, but they don't look like one of Santa's pals, do they?
+130	It's time for us to make some money. And I'm not gonna let you get in my way.	VO_thiefm.thiefm_sys_0010

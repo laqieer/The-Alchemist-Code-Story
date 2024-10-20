@@ -1,0 +1,77 @@
+﻿001	Father...! What is his condition?!	VO_tina.tina_sys_0020
+002	We tended to him, but we only have temporary measures. Eventually, his body will begin to corrupt again.	VO_adne.adne_sys_0037
+003	There is still no true way to purify the blight of the Jam.
+004	No...! Are you saying that there is no way to save him?!	VO_tina.tina_sys_1050
+005	Any possibility would lie with our Sprite.	VO_adne.adne_sys_0031
+006	The Sprite who is well-trained in the ways of Mother Nature may know of some way.
+007	He took on the curse to protect me and the children of our village.	VO_tina.tina_battle_1016
+008	I will deliver him to the Sprite!
+009	To Voda...?	VO_adne.adne_sys_0025
+010	Yes. In any case, I am a wind shaman.	VO_tina.tina_sys_0005
+011	I must report about Gluttony Foss's invasion, the truth about the raids, and what I have witnessed with my own eyes. Don't you agree, father?
+012	Don't worry about me.	VO_moca.moca_sys_0039
+013	Ever since I began investigating the Jam eco-system, I knew something like this would happen.
+014	You...!	VO_tina.tina_sys_1050
+015	My failure has caused considerable trouble for you.	VO_moca.moca_sys_0036
+016	I would like to apologize to the people of the Toxotes tribe for this disturbance. I am Mocca...from the Neva tribe.	VO_moca.moca_chara_0001
+017	Please, raise your head. I am the one who should thank you for saving my daughter.	VO_adne.adne_sys_0039
+018	Please, it was nothing. Saving a fellow individual from Saga is the least I could do.	VO_moca.moca_sys_0039
+019	The Neva tribe...are you from the Fire Sprite Fuu's faction?	VO_mob-saga_omale.mog-saga_omale_sys_0006
+020	My tribe belongs to that faction, yes. As for myself, I have no intention of being tied down to any faction.	VO_moca.moca_sys_0005
+021	But...neutral trading villages are one thing...	VO_mob-saga_omale.mog-saga_omale_sys_0031
+022	But it is prohibited to enter villages of other tribes unless in the event of an emergency. You are aware of that, right?
+023	Yes.	VO_moca.moca_sys_0005
+024	I believe that all of Saga is currently in a state of emergency.
+025	You said that you were investigating the Jam's eco-system, didn't you? Are you talking about that outbreak we had?	VO_adne.adne_sys_0001
+026	Indeed. It's not just limited to this village.	VO_moca.moca_sys_0005
+027	I learned this from having traveled across the land.
+028	All across Saga there have been mass outbreaks of the Jam.
+029	What...?	VO_tina.tina_sys_0026
+030	If this situation is left like this, it will develop into a serious situation.	VO_moca.moca_sys_0042
+031	I've been investigating the Jam's source while alerting each tribe I travel to.
+032	But...why are you doing this on your own?	VO_mob-saga_omale.mog-saga_omale_sys_0045
+033	If this situation is so dire, then shouldn't those of the Neva tribe work with you?
+034	I am working alone because of the tribal boundaries you just mentioned.	VO_moca.moca_sys_0005
+035	If I were to go around with my tribe, there is a possibility that other tribes would not accept me.
+036	Hm...	VO_mob-saga_omale.mog-saga_omale_sys_0031
+037	So...what does any of that have to do with me?	VO_tina.tina_sys_0001
+038	Huh...?	VO_moca.moca_sys_0025
+039	You said that you were looking for me...didn't you?	VO_tina.tina_chara_1009
+040	... ...
+041	Looking for Tina...? What does that mean?	VO_adne.adne_sys_0025
+042	Please, I would like to request that you leave her in my care for a while.	VO_moca.moca_sys_0002
+043	Wh-what...?!	VO_tina.tina_sys_1050
+044	What are you talking about?	VO_adne.adne_sys_0031
+045	Tina is...a wind shaman.	VO_moca.moca_sys_0005
+046	Ever since the destruction of the Alize people, there have been no Shamans to take on the title of Wind Sprite.
+047	The wind crystal Matter has lost its power.
+048	And wind shamans are no longer being born.
+049	I believe that the massive outbreaks of Jam began when the wind Matter lost its power.
+050	What does that have to do with my power?	VO_tina.tina_sys_0031
+051	To settle this problem and return peace to this land...	VO_moca.moca_sys_0004
+052	I believe that the Sprite Quartet must be restored.
+053	To do so, it is crucial to restore the power of wind Matter.
+054	If someone with the power of a Sprite can shower the wind Matter with their Ouija, I believe it will regain its strength.
+055	I would like to ask for her assistance in this...as a wind shaman.	VO_moca.moca_sys_0002
+056	What...?!	VO_adne.adne_sys_0027
+057	Y-you want me...to restore the wind Matter?!	VO_tina.tina_sys_1050
+058	To be honest...I thought I was chasing an impossible dream.	VO_moca.moca_sys_0005
+059	But...I actually managed to find her.
+060	In the fight just now, I sensed her potential as a wind shaman...
+061	It filled me with the desire to bring her full potential to fruition.
+062	Please. Would you let me take her with me?	VO_moca.moca_sys_0042
+063	We could revive the wind and bring back the equilibrium of the past...and restore peace to Saga!
+064	But why does one of Fuu wield the wind Matter?!	VO_adne.adne_sys_0025
+065	Excuse me, Chief Adone! We've identified what appears to be a Gluttony soldier on the outskirts of the village!	VO_mob-saga_ymale.mob-saga_ymale_sys_0036
+066	How large is their army?!	VO_adne.adne_sys_0027
+067	W-well...there's only one of them! However, this is no ordinary individual!
+068	Father! I'll go!	VO_tina.tina_battle_1016
+069	Tina!	VO_adne.adne_sys_0027
+070	When I think of the village...my instincts tell me to stay. But when I think about Saga as a whole...	VO_tina.tina_battle_0019
+071	There he is! Over there!
+072	...!
+073	Who are you? Weren't you supposed to go and fetch Chief Adone?	VO_gaiorgeos.gaiorgeos_sys_0006
+074	Tsk! I am Adone's daughter, Tina, the eventual 45th chief who will lead the Toxotes tribe!	VO_tina.tina_favorite_0002
+075	Oh? In that case...	VO_gaiorgeos.gaiorgeos_sys_0005
+076	Show me what you're made out of.
+077	...!

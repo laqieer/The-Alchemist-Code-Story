@@ -1,0 +1,22 @@
+﻿001	...So that's how it is. What do you think? Do you understand now?
+002	Yes! You're incredible, Professor Deneb! Astronomy is difficult, but your teaching is so comprehensive.	VO_knightf.knightf_sys_0004
+003	Oh, come now! Such flattery will get you nowhere. Good luck on the next test.	VO_deneb.deneb_sys_0007
+004	Thank you! By the way, Professor, is that customer still following you around?	VO_knightf.knightf_sys_0034
+005	...Yes.
+006	Why hold a grudge against you just because your misfortunate prediction was correct?! Please be careful, Professor.	VO_knightf.knightf_sys_0030
+007	Thank you. But I'll be okay. I'm sure it's just his way of blowing off steam. He'll understand eventually.	VO_deneb.deneb_sys_0034
+008	...Sigh.	VO_deneb.deneb_sys_0030
+009	That being said, I guess no one enjoys having a misfortunate prediction told to them.
+010	I wonder if sharing the future that the stars speak to me is truly the right thing to do.
+011	...Sigh.	VO_deneb.deneb_sys_0022
+012	Hey, watch where you're going!	VO_thiefm.thiefm_sys_0002
+013	Oh! I'm sorry...	VO_deneb.deneb_chara_1005
+014	(Oh dear... In my absentmindedness, it looks like I've wandered into a dangerous place.)
+015	Oww... Sorry isn't enough! You'll have to pay a compensation fee!	VO_thiefm.thiefm_sys_0018
+016	What...but I...	VO_deneb.deneb_sys_0025
+017	Or...will you compensate me in other ways?	VO_thiefm.thiefm_sys_0007
+018	What...?	VO_deneb.deneb_event_1005
+019	(Wh-what should I do?)	VO_deneb.deneb_sys_0020
+020	What are you people doing here? It's not healthy to bully a young lady like that!	VO_eve.eve_sys_0001
+021	Who the heck are you?!	VO_thiefm.thiefm_sys_0006
+022	Jeez...I just got back from training, but I guess I'll have to work up another sweat!	VO_eve.eve_sys_0030

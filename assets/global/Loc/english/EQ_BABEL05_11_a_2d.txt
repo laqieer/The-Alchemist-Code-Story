@@ -1,0 +1,260 @@
+﻿001	The birthday I lost my parents...
+002	What's your name?
+003	Cheryl.
+004	Your parents were researching sorcery in Slothstein. Do you have any thoughts about what they were doing?
+005	No.
+006	Discontent with simply studying magic, they overreached by breaking the taboo on Alchemy to study the very foundations of magic itself.
+007	Would you like to see your parents?
+008	No.
+009	Your parents seemed to feel that they needed to understand the truth of Alchemy.
+010	What do you think of that?
+011	I would say that it is foolish nonsense.
+012	Here I am again.
+013	The country of sloth, ever dependent upon the power of magic, the applied art of Alchemy.
+014	In this, my hateful homeland, I was never indolent. I knew only self-control.
+015	I recoiled from the things I loved, and instead took all that I loathed upon myself.
+016	I was not a greedy child. I didn't ask for much.
+017	So long as I was good, my parents were always kind to me, but...
+018	We never went on trips together as a family, or anything like that.
+019	I suppose they had little time to spend with me. Looking back, I merely surmise that they must have enjoyed their work very much.
+020	I never sought anything, yet still I lost so much.
+021	The only thing I ever asked for was that we might stay together. I wished for nothing else.
+022	Helpless rage will inevitably morph into twisted hate.
+023	I knew this.
+024	Yet, for the first time in my life, I began to desire something. I wished for it, over, and over, and over again.
+025	I wanted Alchemy to cease to exist.
+026	Slothstein, Real Heaven - Lowest Level of the Slums
+027	Cheryl!
+028	I haven't seen you in a while, Courage.	VO_cheryl.cheryl_sys_0007
+029	You could try contacting me once in a while.	VO_courage.courage_sys_0004
+030	Aren't you happy to see me?	VO_cheryl.cheryl_sys_0008
+031	I didn't say you aren't welcome.	VO_courage.courage_sys_0005
+032	How are you getting along with Reagan?
+033	Oh! You have to hear this! I just mentioned that it's been so many years since father left, and do you know what he said to me?	VO_courage.courage_sys_0002
+034	He said, "Knowing you, if you saw him again, you'd end up sobbing and burying your face in his chest."	VO_courage.courage_chara_1008
+035	Can you believe that?! I'm not talking to him right now.	VO_courage.courage_chara_2008
+036	Hmhm. It's good to see that nothing has changed around here.	VO_cheryl.cheryl_sys_0008
+037	Hey! What's that supposed to mean?	VO_courage.courage_sys_0006
+038	Well, this is the fourth time you've told me this story.
+039	The sixth, actually. It's still bugging me, so there'll probably be a seventh.	VO_courage.courage_sys_0040
+040	May we come in?	VO_cheryl.cheryl_sys_0001
+041	Sure. It's messy, though.	VO_courage.courage_sys_0031
+042	Anyway, shut up, will you?	VO_courage.courage_chara_1001
+043	I haven't even said anything yet!	VO_rofia.rofia_sys_0025
+044	You need my help, right?	VO_courage.courage_sys_0002
+045	Well, no, I—
+046	Your face says it all.	VO_courage.courage_sys_0010
+047	That's not really—	VO_rofia.rofia_sys_0031
+048	Spit it out already!	VO_courage.courage_sys_0012
+049	You're the one who told me to shut up!	VO_rofia.rofia_sys_0025
+050	So what if I did?	VO_courage.courage_sys_0005
+051	Huh?	VO_rofia.rofia_sys_0025
+052	Well?	VO_courage.courage_sys_0006
+053	Courage, please.
+054	Who is this, anyway?	VO_courage.courage_sys_0001
+055	Her name is Lofia. She's currently on the run, due to some...special circumstances.
+056	And you are?	VO_rofia.rofia_sys_0031
+057	This is Courage. She is perhaps the most outstanding gunner in all of Babel.
+058	Cheryl! Did you have to say it like that?!	VO_courage.courage_sys_0047
+059	There's no need to be bashful.	VO_cheryl.cheryl_sys_0008
+060	There's nothing more embarrassing than when your family talks big about you in front of strangers.	VO_courage.courage_sys_0050
+061	F-family? W-well, that's... I...!	VO_cheryl.cheryl_sys_0047
+062	Hah! Look who's blushing now!	VO_courage.courage_sys_0023
+063	Are the two of you related?
+064	My parents used to take care of Courage, back when they were still in good health.
+065	Yeah, right after my father disappeared.	VO_courage.courage_sys_0004
+066	...
+067	Hey, you! What do you think you're looking at? My eyes are up here!	VO_courage.courage_sys_0012
+068	Wha—?! No! I wasn't...! I was just thinking that your outfit was really nice, that's all.
+069	See? I knew your eyes were wandering!	VO_courage.courage_sys_0039
+070	N-no, I really wasn't...!
+071	Oh, Nyx. You've gone all red. I'm surprised at you!	VO_rofia.rofia_sys_0028
+072	No, no, no! You've got it all wrong!
+073	I must say that I do not appreciate this behavior, Nyx. This is no way to treat one's host.	VO_cheryl.cheryl_sys_0012
+074	Will the three of you cut it out already?! I don't have time for this!
+075	You've mentioned that, but your eyes were awfully busy just now.	VO_rofia.rofia_sys_0015
+076	Urgh!
+077	I just couldn't help but notice how nice her clothes and accessories are, that's all!
+078	Huh? Really? Well, thanks, I guess.	VO_courage.courage_sys_0048
+079	Her outfit, huh? Yeah, right.	VO_rofia.rofia_sys_0007
+080	Accessories, indeed!	VO_cheryl.cheryl_sys_0045
+081	Oh, come on!
+082	Look at him, trying to act all charming.	VO_rofia.rofia_sys_0008
+083	I definitely caught his eyes lingering on several places where there are no accessories.	VO_cheryl.cheryl_sys_0008
+084	No fair! Don't gang up on me!
+085	These are all homemade. I use a special magical filament to run Alchemia through them and make them glow.	VO_courage.courage_sys_0002
+086	Aren't they lovely?	VO_courage.courage_sys_0023
+087	Y-yeah... Super pretty.
+088	(There are gadgets in this time that I've never seen before, and the people here wield Alchemia in ways I've never even heard of it being used.)
+089	(Who knew you could use Alchemia for things like this?)
+090	You can still feel a little buzz from the Alchemia when you touch them. Here.	VO_courage.courage_sys_0002
+091	O-oh, really?
+092	Just what is that hand of yours reaching for, Nyx?!	VO_rofia.rofia_sys_0028
+093	C-Courage! What do you think you're doing?!	VO_cheryl.cheryl_sys_0014
+094	Huh? I-I was talking about my accessories, not me! The accessories!	VO_courage.courage_sys_0025
+095	Nyx! Nyx! Hey, Nyx!	VO_rofia.rofia_sys_0002
+096	What do you want?!
+097	Why don't we step outside for a bit?	VO_rofia.rofia_sys_0007
+098	Sure. J-just let me think in peace for a moment.
+099	(I'm such an idiot!)
+100	(What was I thinking?!)
+101	(I can't even think about touching anything under these circumstances!)
+102	Can we talk about something else now?	VO_courage.courage_sys_0031
+103	Other than your work as a mercenary and the gunner competitions that sometimes take place in other countries, you are always home, are you not?	VO_cheryl.cheryl_sys_0001
+104	Well, you never know... Father might come back someday! Don't forget, I have those maintenance jobs from time to time, too.	VO_courage.courage_sys_0004
+105	Real Heaven is a slum city that you will not find on any map. It suits our purposes well.
+106	In the extreme case that something should happen, however, Courage will protect you.
+107	You want me to watch this kid, too?	VO_courage.courage_sys_0001
+108	I can protect myself!
+109	Remind me, Courage... What is your daily training routine?	VO_cheryl.cheryl_sys_0002
+110	Huh? I go up to the clock tower after every meal and scope out the town with my sniper rifle, three times a day. Why?	VO_courage.courage_sys_0006
+111	Whoa!
+112	Wow!	VO_rofia.rofia_sys_0025
+113	What? You got something to say?	VO_courage.courage_sys_0012
+114	You have to keep an eye out for your father, just in case.	VO_cheryl.cheryl_sys_0001
+115	You know it! I can't afford to miss him!	VO_courage.courage_sys_0038
+116	So if there happened to be someone suspicious near Lofia, here, would you notice them?
+117	Urgh! You're always lumping things on me!	VO_courage.courage_sys_0029
+118	You would be doing me a big favor.	VO_cheryl.cheryl_sys_0041
+119	That's what you always say!
+120	It would only be for a little while, as long as it takes for me to make the short trip to Northern Pride.
+121	Then I'll come straight back here to see you.
+122	...
+123	You know, with Lofia here to mind the house in case of your father's return, you could even go outside of the slums to search for him.	VO_cheryl.cheryl_sys_0001
+124	Consider my magic at your disposal. Just so you know, I can't make anything but dessert, though.	VO_rofia.rofia_sys_0037
+125	...
+126	It's fine. I have other options for a house-sitter.	VO_courage.courage_sys_0031
+127	Other options...?	VO_cheryl.cheryl_sys_0006
+128	I suppose you just up and left without telling your friends?	VO_courage.courage_sys_0002
+129	I can't really talk about it.	VO_rofia.rofia_sys_0035
+130	Hmph.	VO_courage.courage_sys_0044
+131	(She just left without telling them anything, huh?)
+132	(Or maybe... She really couldn't talk about it, to them, either.)
+133	Fine. I'll do it. I might as well.	VO_courage.courage_sys_0045
+134	Thank you!	VO_rofia.rofia_sys_0033
+135	I don't really get what's going on, but once this is all over... Make sure you tell your friends about it, all right?	VO_courage.courage_sys_0002
+136	I'm sure they'd appreciate it.
+137	I will now present my account of what has occurred before the Holy Order. All of the evidence I need has been recorded in my monocle.
+138	I expect that my investigation into the Holy Guard will progress much more quickly with the full might of the Inquisition behind it.
+139	Your unjust persecution, Lofia, should also be swiftly resolved. You will only have to hold on a little while longer.
+140	...
+141	I didn't think I'd get to see her...my friend...again.
+142	Thank you, Cheryl. You've done so much for me.	VO_rofia.rofia_sys_0034
+143	There's no need for that. You are the one who made this possible, Lofia.
+144	In fact... You saved me.
+145	What are you talking about?
+146	I refuse to live my life being controlled and used by those in power.
+147	Power must be controlled. I will be the one to keep it in check, and to pass judgment on those who would misuse it.
+148	Now, the opportunity to do so is upon me.
+149	I must live long enough to see it done.
+150	The Space-Time Manipulator!
+151	Huh?!
+152	What was that?	VO_rofia.rofia_sys_0025
+153	I can hear the ringing of a bell, and... Who is that speaking?
+154	Adrift in the sea of time, the pendulum stirs the depths of the waves. Gather where the light falls, so that I may see you.
+155	Wait, this is...!
+156	Where the hell is this voice coming from?	VO_courage.courage_sys_0025
+157	Sea floor and cerulean sky, woven and unfurled. Be it chance or be it fate, we are chased by dreams both infinite and finite.
+158	Mira?!
+159	Now, come!
+160	Ahhhhhh!	シェリル・ロフィア
+161	Chance Encounter!!!
+162	What in the world?!	VO_cheryl.cheryl_sys_0025
+163	Wh-where are we?	VO_rofia.rofia_sys_0025
+164	Phantoms?! Wait, no, that can't be right.	VO_wilhelm.wilhelm_sys_0025
+165	Chance Encounter.
+166	A space-time technique which, for a limited time, pulls together people who hold the same convictions from their separate times.
+167	Even people who have no idea what's going on? Isn't that kinda rude?	VO_wilhelm.wilhelm_sys_0004
+168	Well... It is somewhat random.
+169	It's a big help, either way.	VO_wilhelm.wilhelm_sys_0007
+170	Nyx...?	VO_cheryl.cheryl_sys_0002
+171	What?! How do you know Nyx?!
+172	No, you aren't Nyx at all. Where are we?	VO_cheryl.cheryl_sys_0025
+173	H-how did we get here? Just a second ago we were—	VO_rofia.rofia_sys_0042
+174	Grooooorrrgggghhhhh!	VO_Mmajin.Mmajin_battle_0001
+175	Ahh!	VO_rofia.rofia_battle_0022
+176	What manner of...?!	VO_cheryl.cheryl_sys_0025
+177	I have no idea what's going on, but they're not our enemies, right?	VO_wilhelm.wilhelm_sys_0001
+178	Probably not!
+179	Yo.	VO_wilhelm.wilhelm_sys_0002
+180	Yes?	VO_cheryl.cheryl_sys_0006
+181	You wanna lend us a hand?
+182	Who are you, anyway, old man? You're suspicious.	VO_rofia.rofia_sys_0002
+183	Heh. I'm not an old man. Call me Mister Will.	VO_wilhelm.wilhelm_sys_0015
+184	Only an old man would want to be called "Mister".	VO_rofia.rofia_sys_0031
+185	What?! The hell kinda logic is that?!	VO_wilhelm.wilhelm_sys_0012
+186	Besides, Will is an old man's name.	VO_rofia.rofia_sys_0006
+187	Oh, is it now! Is that so? Hell no, that ain't so!	VO_wilhelm.wilhelm_sys_0031
+188	Are those...Demonic Soldiers?	VO_cheryl.cheryl_sys_0021
+189	Now how do you know that, pretty lady?	VO_wilhelm.wilhelm_sys_0025
+190	P-pretty lady?!	VO_cheryl.cheryl_sys_0025
+191	Yeah, you. Don't you like it?	VO_wilhelm.wilhelm_sys_0037
+192	W-we only just met!	VO_cheryl.cheryl_sys_0050
+193	Was I being too forward?	VO_wilhelm.wilhelm_sys_0035
+194	N-no, not at all! I mean, I...! I will not penalize you for that nonsensical statement.
+195	Anyway, it doesn't really matter who you guys are right now.	VO_wilhelm.wilhelm_sys_0030
+196	We don't have the strength to fight them at the moment, so would you mind doing us a favor and helping out?
+197	To what end?	VO_cheryl.cheryl_sys_0001
+198	Our survival.	VO_albell.albell_sys_0037
+199	Y-your eyes are all red. Have you been crying?	VO_rofia.rofia_sys_0042
+200	Someone very important to me just passed away. I want to live on, for their sake.	VO_albell.albell_sys_0018
+201	So, please... Please help us.
+202	...
+203	Very well. I accept your request as reasonable and just.	VO_cheryl.cheryl_chara_1001
+204	Cheryl?	VO_rofia.rofia_sys_0025
+205	I need no reason to execute these disgusting products of Alchemy, believe you me!
+206	Moreover, by fighting beside these people, who are only trying to survive, and by experiencing this other time...
+207	Perhaps we can find out why.
+208	Why...you were killed.
+209	Maybe.	VO_rofia.rofia_chara_1023
+210	Don't cry.	VO_rofia.rofia_sys_0002
+211	...
+212	I want to keep on living, too.
+213	Just like you.	VO_rofia.rofia_sys_0007
+214	I...!
+215	Th-thank you.	VO_albell.albell_sys_0033
+216	Magnus...
+217	I'll be back soon.
+218	The same...
+219	What?	VO_cheryl.cheryl_sys_0006
+220	She said that this technique pulls together people who hold the same convictions.
+221	I suppose she did, yes.	VO_cheryl.cheryl_sys_0037
+222	Which means that we must share some convictions with them...
+223	As well as with each other.	VO_rofia.rofia_sys_0002
+224	Perhaps.	VO_cheryl.cheryl_sys_0039
+225	I've been wishing for something...
+226	Even though I know in my heart of hearts that it will never come true.
+227	I just can't help but want to see her again.
+228	I accept your request as reasonable and just.	VO_cheryl.cheryl_chara_3001
+229	Hahah. Why are you acting all high-and-mighty?	VO_rofia.rofia_sys_0007
+230	You do realize that I am an inquisitor...	VO_cheryl.cheryl_sys_0007
+231	Yes, but you're a lenient one.	VO_rofia.rofia_sys_0008
+232	Only on those who are closest to me.	VO_cheryl.cheryl_sys_0037
+233	Let's have tea together later.	VO_rofia.rofia_battle_0018
+234	Very well. Perhaps we might have something spicy for now, then?	VO_cheryl.cheryl_sys_0005
+235	Where do you keep all those pickles, anyway?	VO_rofia.rofia_sys_0025
+236	Would you like some?	VO_cheryl.cheryl_sys_0001
+237	Hmmm...	VO_rofia.rofia_battle_0024
+238	Yes, please!	VO_rofia.rofia_sys_0032
+239	Hmhm. Here you are.	VO_cheryl.cheryl_sys_0008
+240	Umgf...
+241	Oh.
+242	How are they?	VO_cheryl.cheryl_sys_0001
+243	...
+244	They're not spicy anymore.
+245	Boot up, Campanella!	VO_albell.albell_sys_0007
+246	It's so bright! Is this...Alchemy?!	VO_cheryl.cheryl_sys_0046
+247	It's so pretty.	VO_rofia.rofia_sys_0046
+248	Father, mother, Magnus... Let's go!
+249	It's family vacation time!
+250	Grrrroooooorrgghhh!	VO_Mmajin.Mmajin_battle_0002
+251	Ah, this is the true pleasure of traveling.	VO_wilhelm.wilhelm_sys_0007
+252	Huh?	VO_albell.albell_sys_0005
+253	Nothing beats raising hell with the people you meet along the way.
+254	Well, we're not strangers anymore!
+255	It's like a picnic.	VO_rofia.rofia_sys_0007
+256	Like going out together as a family.	VO_cheryl.cheryl_sys_0007
+257	I guess that makes us...	VO_rofia.rofia_sys_0002
+258	Lofia...?	VO_cheryl.cheryl_sys_0006
+259	Something like a family.
+260	You're lenient on those you're closest to, right, Cheryl?	VO_rofia.rofia_sys_0008

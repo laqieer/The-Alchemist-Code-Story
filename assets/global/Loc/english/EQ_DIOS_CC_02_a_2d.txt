@@ -1,0 +1,83 @@
+﻿001	Don't get any closer! I'll cut this kid's head off!	VO_thiefm.thiefm_sys_0002
+002	Ack... You vile scum! Let the hostage go and surrender yourself!	VO_thiefm.thiefm_battle_0019
+003	Why would I listen to the likes of you, you suzerain dogs!	VO_thiefm.thiefm_sys_0010
+004	Mommy...help...
+005	Oh, Sir Paladins! Please, help my child...	VO_stknightf.stknightf_sys_0019
+006	What should we do? We can't afford to let the bandit escape, but, if we move now, the girl will be killed.	VO_knightm.knightm_sys_0042
+007	Argh... It's between capturing the bandit or saving the hostage's life...	VO_stknightm.stknightm_sys_0043
+008	Heheh. Yes. You better not move. You have no choice but to let us escape!	VO_thiefm.thiefm_sys_0008
+009	Move!	VO_dios.dios_battle_0007
+010	Agyaahhh...?!	VO_thiefm.thiefm_battle_0027
+011	He killed the bandit without a moment's hesitation!	VO_knightm.knightm_sys_0025
+012	Mommy!
+013	Oh, thank you! Thank you so much!	VO_stknightf.stknightf_sys_0042
+014	Well, that was quite the dangerous stunt to pull off. I guess we should give it up for our "hero" Dias. He couldn't care less about the hostage.	VO_stknightm.stknightm_sys_0001
+015	How can you call yourselves Paladins when you don't even know how to save a hostage from a bandit?	VO_dios.dios_sys_0030
+016	Huh...
+017	You're useless.	VO_dios.dios_sys_0010
+018	(There's no point in bringing them along with me. They'll just get in the way.)	VO_dios.dios_sys_0016
+019	I'll take down the bandits on my own.	VO_dios.dios_sys_0001
+020	(Useless...huh? Who would've thought a day would come when I would be throwing that term at someone...)
+021	You useless brat! Stop lazing around and work!	VO_thiefm.thiefm_sys_0002
+022	Your parents died in the war and you're being fed and clothed by the kindness of the neighboring village! Work harder and pay back your debt!	VO_thiefm.thiefm_sys_0029
+023	Ah...
+024	Yuffie! You again? Stop dropping our special cargo, you useless brat!	VO_thiefm.thiefm_sys_0002
+025	Stop! Don't hit Yuffie!	VO_dios.dios_sys_0015
+026	What's that? Dias, are you gonna defy your elders again?
+027	Yuffie's body is weak! I'll work enough for both of us! That's fine, right?!	VO_dios.dios_sys_0041
+028	Dias...
+029	Well, well, what a reliable older brother. Still, you better not let it get to your head!	VO_thiefm.thiefm_sys_0007
+030	That's enough for now. Let him be. He says that he'll work enough for both of them.
+031	Understood...Mayor...	VO_thiefm.thiefm_sys_0016
+032	Thank you, Mayor! I'll work as hard as I can.	VO_dios.dios_sys_0033
+033	We'll be relying on you. Let Yuffie get some rest.
+034	They made you work so hard. This is all we have to eat... So much for being fed...	VO_dios.dios_sys_0029
+035	Dias...eat this...
+036	Yuffie? Sorry for making you worry. I'm fine so you eat it all yourself.	VO_dios.dios_sys_0025
+037	No. I'm full already...
+038	(Of course, she isn't... As her older brother, I need to do better by her.)	VO_dios.dios_sys_0018
+039	Hyahhh! This work is nothing!	VO_dios.dios_battle_0008
+040	Well, you're in high spirits, aren't you, Dias? If you're gonna work for your sister's portion as well then lend me a hand over here.	VO_thiefm.thiefm_sys_0010
+041	Got it! I'll do anything!	VO_dios.dios_sys_0037
+042	(Ack... This isn't two people's portion. They're making me work at least three times as hard. I've gotta keep a calm face in front of Yuffie.)	VO_dios.dios_sys_0013
+043	Dias, look!
+044	Hm? It's a small but really beautiful flower. Where did you find it?	VO_dios.dios_event_1005
+045	There were many of them blossoming near the village. I thought if I let them grow in the vase, they'll make this house look gorgeous.
+046	Thank you, Yuffie. I'll do my best too.	VO_dios.dios_sys_0008
+047	Hey, Dias...do you know the language of the flowers?
+048	Mom taught it to me before!
+049	I don't...for starters, what's the name of this flower?
+050	It's a begonia. Tomorrow I'll tell you what it represents in the language of the flowers. Try to give it some thought, Dias!
+051	Fine. Let's go to bed now.	VO_dios.dios_sys_0037
+052	Hey, Dias! Help over here today!	VO_thiefm.thiefm_sys_0002
+053	Fine, I'll do it! Whether it be two or three people's share of work!	VO_dios.dios_sys_0004
+054	That guy made me slave away until dark... I wonder if Yuffie ate properly.	VO_dios.dios_sys_0029
+055	(That's right. I didn't have time to think about the language of the flowers.)
+056	I'm home...Yuffie! Are you still awake?
+057	... ...
+058	Yuffie, what's the matter! Yuffie! Hey! Your throat...	VO_dios.dios_sys_0027
+059	Mayor! I need your help! Yuffie's throat...her throat...	VO_dios.dios_sys_0019
+060	Ah, Dias. I need to talk about it with you as well. We've found a buyer for Yuffie.
+061	A buyer...?	VO_dios.dios_event_1005
+062	Rejoice! A noble took a liking to Yuffie and decided to purchase her. He seems to share some kind of...well...benevolent hobby.
+063	Just as a precaution, since he didn't want to hear her crying or shouting while playing, he asked if I could crush her throat beforehand.
+064	So I just gave her some medicine to drink that would crush her throat. That's all it does, so don't worry.
+065	...That's all it does? Are you serious, you vile piece of scum?!	VO_dios.dios_battle_0023
+066	What's that? An aristocrat is gonna buy your useless brat of a sister! How about you have a little more gratitude?!
+067	Shut up! Shut up! Yuffie... Give back Yuffie her voice! Give it back!	VO_dios.dios_sys_0043
+068	The kid is acting like he's possessed!	VO_thiefm.thiefm_battle_0024
+069	Hey, you! Go beat this brat outside!
+070	I can make more money from selling Yuffie than if you worked all your life!
+071	Just because a worthless, incompetent piece of trash like you works twice as hard...it doesn't give you any bragging rights!
+072	Argh! Yuffie...! How dare you treat Yuffie that way!	VO_dios.dios_battle_0025
+073	... ...!
+074	Yuffie, you're a valuable commodity so come this way! Forget about Dias.
+075	... ...!!!
+076	Yuffie! Yuffie...!	VO_dios.dios_sys_0020
+077	Shut up, you brat! Do you want me to kill you out of spite?
+078	What are all of you doing there?!
+079	Back then, I was powerless. I couldn't protect Yuffie. Ultimately, the mayor and the villagers ended up beating me to an inch of my life.	VO_dios.dios_sys_0042
+080	That was when he saved me.
+081	Hey, Paladin. Did you come all the way here alone?	VO_thiefm.thiefm_sys_0002
+082	Hehehe. A risk-taker, huh?	VO_thiefm.thiefm_sys_0008
+083	I see. It looks like that's the bandits' hideout. An odd twist of fate...	VO_dios.dios_sys_0007

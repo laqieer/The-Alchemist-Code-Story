@@ -1,0 +1,176 @@
+﻿0001	Alchemy—the forbidden art—said to have been eradicated from the world. Its resurrection would mean a threat to all of Babel. To determine the truth, the Blue Flame Guard is ordered to search for the rebels.
+0011	In search of the rebel army hideout, Logi and Dias head towards the Gilrack Ruins. En route, they enter the Woods of Mystical Nights. The sorrowful flames of war will inevitably transform the hearts of the brothers bound together by fate.
+0021	The sins of their father's past, unknown to Logi and Dias; Agatha's secret held by Sabareta... As Caesar, the phantom bent on revenge, approaches, what truth will be discovered in the collapsing ruins?
+0031	With the Lizard Brigade's use of Alchemy come to light, the Holy Guard intervenes. These elite knights alone are permitted to use Alchemy under the authority of the Holy Order of Babel. Sent to serve under them, the conflicted Dias pursues Agatha's whereabouts.
+0041	During a fierce battle, Dias finally unleashes his hatred. His desire for revenge vanquishes his enemy's dark Alchemy. Is it a door of hope or a descending stairway of despair? Furthermore, who will Dias draw his innocent blade against next?
+0051	The Demon, an ancient weapon responsible for the destruction of ancient Babel, has already been carried off. To counter the mighty Demon, Gabirond fuels Dias's desire for revenge. Will his awoken bloodlust defeat the Demon?
+0061	Ashamed of his inability, Logi seeks further power. Zeke, learning that Dias has defeated the Demon on his own, experiences unease. The two head to the ruins of Fort Mugarde where the Lizard Brigade has gathered. There, they witness something terrifying—
+0071	Against Sabareta's will, the Demon suddenly begins to activate. As the two armies violently clash, will there truly be any victors? To save Agatha, Logi plunges deep into the flames of war.
+0081	Logi manages to rescue Agatha. However, Sabareta takes possession of the Demon and vanishes. To end the cycle of revenge, Logi heads to stop Sabareta.
+0091	Dias is determined to kill Sabareta, leader of the Lizard Brigade. However, having learned of his father Zeke's desire for peace with Wratharis, he is unable to hide his confusion. To know his father's true intentions, he makes his way to him with Gabirond.
+0101	Worried about Agatha, Dias intently pursues the Lizard Brigade led by Sabareta. Will Logi be able to save his brother Dias as the Power of Darkness consumes him? And what is the real meaning behind Gabirond's smile?
+0111	Envylia and Wratharis—in the hope of establishing peace between the two kingdoms, Agatha heads towards the meeting point. Meanwhile, Sabareta senses something sinister about Gabirond. Individual motives, hidden beneath the surface, slowly begin to intertwine.
+0121	Why Dias and his dad? Is conflict the only solution? Logi's sorrow echoes across the brutal battlefield. Can Logi's faith save the vengeful desires of both kingdoms—and Dias's soul?
+0131	Logi and Sabareta succeed in delaying Dias and the Holy Guard. However, Logi's words do not reach Dias's stubborn heart. Unaware of this, Agatha and Zeke advance to seek an audience with King Patrick.
+0141	With the Sacred Stone Satna dwelling within her, Agatha is the Vessel of Reincarnation! The real aim of the Holy Guard's intervention was to get their hands on her. Will she be able to escape their dark schemes?
+soul	Many a knight visits the historical ruins. Search for Soul Shards in its deepest parts, and attempt a new Soul Encounter with the phantom soldier who sleeps within the sealed casket.
+s001	Dmg Limit: 1000
+t001	Map Effect: Magic Dmg -50%
+t002	Map Effect: Missile Dmg -50%
+t003	Map Effect: Slash Dmg -50%
+t004	Map Effect: Strike Dmg -50%
+t005	Map Effect: HP +50%<br><br>Cannot use recovery items or spells
+t006	Map Effect: Pierce Dmg -50% Jump Damage -50%
+t007	Map Effect: Status effect resistance +50%
+t008	Map Effect: Ranged attack damage -50%
+t009	Map Effect: Light Unit ATK Power +20%
+t010	Map Effect: Wind Unit ATK Power +20%
+t011	Map Effect: Strike Dmg +30%
+t012	Map Effect: Thunder Unit ATK Power +20%, Slash Dmg +50%
+t013	Map Effect: Water Unit ATK Power +20%, Missile Dmg +30%
+t014	Map Effect: Thunder Unit ATK Power +20%, Cast Time -30%
+t015	Map Effect: Water Unit ATK Power +20%
+t016	Map Effect: Wind Unit ATK Power +20%, Missile Dmg +15%
+t017	Map Effect: Light Unit ATK Power +20%
+t018	Map Effect: Magic Res +50%
+t019	Map Effect: Strike Dmg & Pierce Dmg +50%
+t020	Map Effect: Cast Time +30%
+t021	Map Effect: Area ATK Res +50%
+t022	Map Effect: Slash Dmg +50% & Area ATK Res +30%
+t023	Map Effect: Missile Dmg +50% & Cast Time +30%
+t024	Map Effect: Magic Res +50% & Status Res +30%
+t025	Map Effect: Strike Dmg +50% & MATK Res +30%
+t026	Map Effect: Slash Res +50% & Fire Units ATK Power +40%
+t027	Map Effect: ATK Power +30% excluding Light Units
+t028	Map Effect: MATK Res +50% & Water Units ATK Power +40%
+t029	Map Effect: ATK Power +30% excluding Thunder Units
+t030	Map Effect: Area ATK Res up 50%, Magic Res +40% & Dark Units ATK Power +40%
+t031	Map Effect: Area ATK Res +50% & Light Units ATK Power +40%
+t032	Map Effect: Area ATK Res +40%. Slash Dmg +30% & Magic Evasion Rate +20%
+t033	Map Effect: Pierce Dmg +30% & Wind Units ATK Power +30%
+t034	Map Effect: Strike Dmg +30%. Magic Evasion Rate +40% & Fire Units ATK Power +20%
+t035	Map Effect: MATK Res +20%, Slash Dmg +30% & Dark Units ATK Power +20%
+t036	Map Effect: Missile Dmg +30%, Slash ATK Res +30% & Wind Units ATK Power +20%
+t037	Map Effect: Status Res +20%, Slash Dmg +10%, Strike Dmg +10% & Thunder Units ATK Power +30%
+t038	Map Effect: Status Res +20%, Wind Res +20% & Thunder Units ATK Power +30%
+t039	Map Effect: Slash ATK Res +20%, Fire Res +15% & Strike ATK Power +40%
+t040	Map Effect: Thunder Res +20%, All Water Units DEF +10% & Water Units ATK Power +30%
+t041	Map Effect: Stop Res +50%, MATK Res +30% & Fire Units ATK Power +30%
+t042	Map Effect: Dark Res +20%, Strike ATK Power +30% & Thunder Units ATK Power +20%
+t043	Map Effect: Slash ATK Res +30%, Missile ATK Power +30% & Thunder Units ATK Power +20%
+t044	Map Effect: MATK +20%, Strike ATK Power +20% & Wind Units ATK Power +30%
+t045	Map Effect: Water Res +20%, Pierce ATK Power +30% & Fire Units ATK Power +30%
+t046	Map Effect: Slash ATK Res +40%, MATK Res +40% & Water Units ATK Power +30%
+t047	Map Effect: Water Res +20%, MATK Res +30% & Fire Units ATK Power +30%
+t048	Map Effect: Wind Res +20%, MATK +20% & Thunder Units ATK Power +30%
+t049	Map Effect: Dark Res +20%, Light Units ATK Power +30% & All Status Res +30%
+t050	Map Effect: Water Res +20%, Slash ATK Res +30% & Fire Units ATK Power +30%
+t051	Map Effect: Pierce ATK Power +20%, MATK +20% & Thunder Units ATK Power +30%
+t052	Map Effect: Water Res +20%, Debuff Res +30% & Fire Units ATK Power +30%
+t053	Map Effect: Magic Res +30%, Reverse Attack +30% & Water Units ATK Power +30%
+t054	Map Effect: Slash Res +30%, Wind Res +30% & Thunder Units ATK Power +30%
+t055	Map Effect: Magic Res +30%, Slash Res +30%, Missile ATK Power +30%
+t056	Map Effect: Wind Res +30%, Reverse Attack +30% & Thunder Units ATK Power +30%
+t057	Map Effect: Dark Res +30%, Missile ATK Power +30% & Light Units ATK Power +30%
+t058	Map Effect: Wind Res +30%, Missile ATK Power +30% & Thunder Units ATK Power +30%
+t059	Map Effect: Thunder Res +30%, Pierce ATK Power +20% & Water Units ATK Power +30%
+t060	Map Effect: Water Res +30%, Slash ATK Power +30% & Fire Units ATK Power +30%
+t061	Map Effect: Fire Res +30%, MATK Power +30% & Wind Units ATK Power +30%
+t062	Map Effect: Light Res +30%, Missile ATK Power +30% & Dark Units ATK Power +30%
+t063	Map Effect: Wind Res +30%, Missile ATK Power +30% & Thunder Units ATK Power +30%
+t064	Map Effect: Slash ATK Res +30%, MATK Power +30% & Light Units ATK Power +30%
+t065	Map Effect: Water Res +30%, Missile ATK Power +30% & Fire Units ATK Power +30%
+t066	Map Effect: Slash ATK Res +30%, MATK +30% & Dark Units ATK Power +30%
+t067	Map Effect: Thunder Res +30%, Missile ATK Power +30% & Water Units ATK Power +30%
+t068	Map Effect: Water Res +30%, Pierce ATK Power +30% & Fire Units ATK Power +30%
+t069	Map Effect: Light Res +30%, MATK +30% & Dark Units ATK Power +30%
+t070	Map Effect: Wind Res +30%, Strike ATK Power +30% & Thunder Units ATK Power +30%
+t071	Map Effect: Water Res +30%, MATK +30% & Fire Units ATK Power +30%
+e001	Dmg Limit: 500
+e002	Dmg Limit: 200
+e003	Map Effect+ Units can be changed during battle
+t072	Map Effect: Status Res +50%, PATK/MATK +15% & Dark Unit ATK Power +30%
+t073	Map Effect: Wind Res +30%, Slash ATK Power +30% & Thunder Unit ATK Power +30%
+t074	Map Effect: Dark Res +30%, MATK +30% & Light Unit ATK Power +30%
+t075	Map Effect: Fire Res +30%, Pierce ATK Power +30% & Wind Unit ATK Power +30%
+t076	Map Effect: Status Res +50%, Debuff Res +50% & PATK +30%
+t077	Map Effect: Light Res +50%, Pierce ATK Power +30% & Dark Unit ATK Power +30%
+t078	Map Effect: Water Res +30%, Slash ATK Power +30% & Fire Units ATK Power +30%
+t079	Map Effect: Thunder Res +30%, MATK +30% & Water Unit ATK Power +30%
+t080	Map Effect: Wind Res +30%, Missile ATK Power +30% & Thunder Units ATK Power +30%
+t081	Map Effect: Fire Res +30%, MATK +30% & Wind Unit ATK Power +30%
+t082	Map Effect: Reduces received Dmg for units from Lost Blue
+t083	Map Effect: Dark Res +50%, MATK +30% & Light Unit ATK Power +30%
+t084	Map Effect: Thunder Res +30%, Strike ATK Power +30% & Water Unit ATK Power +30%
+t085	Map Effect: Fire Res +30% & Wind Unit All DEF +20% & Wind Unit ATK Power +30%
+t086	Map Effect: Water Res +30% & Fire Unit All DEF +20% & Fire Unit ATK Power +30%
+t087	Map Effect: Wind Res +30%, MATK +30% & Thunder Unit ATK Power +30%
+t088	Map Effect: Light Res +50%, Slash ATK Power +30% & Dark Unit ATK Power +30%
+t089	Map Effect: Water Res +30% & Fire Unit All DEF +20% & Fire Unit ATK Power +30%
+t090	Map Effect: Thunder Res +30% & Water Unit All DEF +20% & Water Unit ATK Power +30%
+t091	Map Effect: Wind Res +30%, MATK Power +30% & Thunder Unit ATK Power +30%
+t092	Map Effect: Water Res +30%, Slash ATK Power +30% & Fire Units ATK Power +30%
+t093	Map Effect: Light Res +50%, PDEF +50% & Dark Unit ATK Power +30%
+t094	Map Effect: Raises Status Res & Reduces Dark Phantom received Dmg
+t095	Map Effect: Fire Res +30%, Slash ATK Power +30% & Wind Unit ATK Power +30%
+t096	Map Effect: Thunder Res +30%, Pierce ATK Power +30% & Water Unit ATK Power +30%
+t097	Map Effect: Reduces Cast Time, MATK Power +30% & Dark Unit ATK Power +30%
+t098	Map Effect: Water Res +30%, MATK Power +30% & Fire Unit ATK Power +30%
+t099	Map Effect: Raises Jewel Auto Regen, Missile ATK Power +30% & Light Unit ATK Power +30%
+t100	Map Effect: Raises All Res Types, non-type ATK Power +30%, MATK -50%
+t101	Map Effect: Wind Res +30%, Slash ATK Power +30% & Thunder Unit ATK Power +30%
+t102	Map Effect: Dark Res +30%, PATK +30% & Light Unit ATK Power +30%
+t103	Map Effect: All Stats Buffs weakened, greatly lowers probability of activating Reactions
+t104	Map Effect: Thunder Res +30%, Slash ATK Power +30% & Water Unit ATK Power +30%
+t105	Map Effect: Water Res +30%, Missile ATK Power +30% & Fire Units ATK Power +30%
+t106	Map Effect: Light Res +30%, Reduces Cast Time, MATK +30%, PATK +30%
+t107	Map Effect: Water Res +30%, PATK +20%, MATK +20%, Fire Unit ATK Power +30%
+t108	Map Effect: Wind Res +30%, Slash ATK Power +30% & Thunder Unit ATK Power +30%
+t109	Map Effect: Dark Res +30%, Missile ATK Power +30% & Light Units ATK Power +30%
+t110	Map Effect: Water Res +30%, Strike ATK Power +30% & Fire Unit ATK Power +30%
+t111	Map Effect: Dark Res +30%, Slash ATK Power +30% & Light Unit ATK Power +30%
+t112	Map Effect: Wind Res +30%, PATK +30% & Thunder Unit ATK Power 30%
+t113	Map Effect: Light Res +30%, PATK +30%, Dark Unit ATK Power +30%
+t114	Map Effect: Water Res +30%, Missile ATK Power +30% & Fire Units ATK Power +30%
+t115	Map Effect: Thunder Res +30%, PATK +30% & Water Unit ATK Power +30%
+t116	Map Effect: Fire Res +30%, MATK +30% & Wind Unit ATK Power +30%
+t117	Map Effect: Thunder Res +30%, Missile ATK Power +30% & Water Units ATK Power +30%
+t118	Map Effect: Thunder Res +30%, MATK Power +30% & Water Units ATK Power +30%
+t119	Map Effect: Light Res +30%, Slash ATK Power +30% & Dark Units ATK Power +30%
+t120	Map Effect: Fire Res +30% & Wind Unit All DEF +20% & Wind Unit ATK Power +30%
+t121	Map Effect: Reduces received Dmg for units from Lost Blue
+t122	Map Effect: Thunder Res +30%, Slash ATK Power +30% & Water Unit ATK Power +30%
+t123	Map Effect: Wind Res +30%, Pierce ATK Power +30% & Thunder Units ATK Power +30%
+t124	Map Effect: Max Dmg 3000 & greatly lowers Healing
+t125	Map Effect: PATK +30% & greatly raises Status Res
+t126	Map Effect: Reduces received Dmg for units from Lost Blue
+t127	Map Effect: Thunder Res +30% & Water Unit All ATK +30%
+t128	Map Effect: Wind Res +30% & Thunder Unit All ATK +30%
+t129	Map Effect: Light Res +50% & Dark Unit All ATK +30%
+t130	Map Effect: Dark Res +50% & Light Unit All ATK +30%
+t131	Map Effect: Greatly raises Status Res & raises Single ATK Res
+t132	Map Effect: MATK Power -100% & Dark Unit All DEF +20%
+t133	Map Effect: Fire Res +30% & Wind Unit ATK Power +30%
+t134	Map Effect: HP +100% & Strike ATK Power -100% & Water Unit All ATK -50%
+t135	Map Effect: Lost Blue Origin Unit All ATK -50% & Light Unit All ATK +30%
+t136	Map Effect: Strong vs Dark +50% & Pierce ATK Power +30%
+t137	Map Effect: Strong vs Water +50% & Strike ATK Power +30% & Fire Unit ATK Power +30%
+t138	Map Effect: Strong vs Wind +50% & Missile ATK Power +30% & Water Unit ATK Power +30%
+t139	Map Effect: Strong vs Thunder +50% & greatly raises Initial Jewels & Water Unit ATK Power +30%
+t140	Map Effect: Water Unit ATK Power/All DEF +20%
+t141	Map Effect: Greatly lowers Initial Jewels & greatly raises Hit Rate
+t142	Map Effect: Light Res +50% & Missile ATK Power +30% & Dark Unit ATK Power +30%
+t143	Map Effect: Thunder Res +50% & MATK +30% & Water Unit ATK Power +30%
+t144	Map Effect: Greatly raises Missile Res & Dark Res +50% & Pierce ATK Power +30%
+t145	Map Effect: Greatly raises Initial Jewels & Back ATK Power +30% & PATK +30%
+t146	Map Effect: Wind Res +50% & Thunder Unit ATK Power +30%
+t147	Map Effect: Greatly raises Status Res & Thunder Unit All DEF +20%
+t148	Map Effect: Slash ATK Power +30% & Fire Res +50% & Wind Unit ATK Power +30%
+t149	Map Effect: MATK +30% & Strike ATK Power +30% & greatly raises Mag Res
+t150	Map Effect: Greatly raises Initial Jewels & Status Res & Fire Unit All Def +20%
+t151	Map Effect: MATK +30% & Dark Res +50% & Light Res ATK Power +30%
+t152	Map Effect: Greatly raises Slash Res & Strike ATK Power +30% & Water Unit All DEF +20%
+t153	Map Effect: Greatly raises Initial Jewels & Hit Rate & Slash ATK Power by 30%
+t154	Map Effect: Fire Res +50% & PATK +30% & Wind Unit ATK Power +30%
+t155	Map Effect: Greatly raises Missile Res & Mag Evasion Rate & Thunder Unit ATK Power +30%
+t156	Map Effect: None

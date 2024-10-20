@@ -1,0 +1,80 @@
+﻿001	Are you sure it's okay?	VO_moca.moca_sys_0002
+002	What is okay?	VO_tina.tina_chara_1009
+003	Leaving the village. Now that Chief Adone has died, you're the chief, right?
+004	The village is protected by the Elder and the support of all the villagers...it will be all right.	VO_tina.tina_sys_0004
+005	For starters, you were the one who wanted to take me with you, right?	VO_tina.tina_sys_0010
+006	Right. If we can revive the power of the wind...of Matter, we should be able to suppress the outbreak of Jam.	VO_moca.moca_sys_0004
+007	I want to protect Saga. That feeling still hasn't changed, but...when I think about your tribe...	VO_moca.moca_sys_0020
+008	Don't worry about it. It was my father's wish for me to leave the village.	VO_tina.tina_chara_1002
+009	Not that I have any idea how all of this will end up.
+010	You're strong.	VO_moca.moca_sys_0007
+011	Huh...?	VO_tina.tina_sys_0025
+012	With Chief Adone dead, I thought you might be discouraged, but...	VO_moca.moca_sys_0039
+013	My father said he'll always be watching over me.	VO_tina.tina_sys_0007
+014	He still lives in my heart. I have nothing to mourn.
+015	Heh. Don't worry. I'm sure it'll all work out. We'll do everything we can to restore the wind...agh!	VO_moca.moca_sys_0007
+016	...! Are you okay?!	VO_tina.tina_sys_1050
+017	Ye-yeah... If I can overcome the pain and fever, I should be fine...	VO_moca.moca_sys_0042
+018	That being said, the time is approaching. We must hurry to Voda.	VO_tina.tina_battle_1016
+019	First of all, let's take a break in the village. We're almost there, right?	VO_moca.moca_sys_0020
+020	Yes.	VO_tina.tina_sys_0004
+021	Paza village, huh? I've always wanted to go there.	VO_moca.moca_sys_0009
+022	It's got one of the biggest markets in all of Saga, right?
+023	It faces the main road that connects with the other villages. For the tribes around here, it's something of an intersecting village. It should still be flourishing more than ever.	VO_tina.tina_sys_0004
+024	It should still be...? Don't you always pass by it when you visit Voda?	VO_moca.moca_chara_1009
+025	I usually avoid Paza village and go through the forest. The reason why we're heading there now is so that you can get some rest.	VO_tina.tina_chara_1002
+026	You usually avoid Paza village...? Why?	VO_moca.moca_sys_0025
+027	Paza is a neutral trade village where people from different tribes come and go. Because of that, the strife between tribes never ceases there.	VO_tina.tina_chara_1009
+028	We of the Voda faction dislike conflict. That is why we avoid the Paza village.	VO_tina.tina_sys_0016
+029	There is strife between the tribes even in the famous Paza village with its free market?	VO_moca.moca_sys_0021
+030	Yes. In order to avoid any unnecessary conflict, my father often told me not to go near Paza village if possible.	VO_tina.tina_sys_0004
+031	If you had the physical strength to make it through the forest, I wouldn't be stopping by.
+032	I see. Naturally, there'll be plenty of merchants at the marketplace.	VO_moca.moca_sys_0045
+033	We may be able to gather information regarding the outbreak of Jam. We're almost there, right?
+034	Wait here.	VO_tina.tina_chara_1009
+035	...?! Where are you going...?!	VO_moca.moca_sys_0025
+036	It'll be faster to confirm how far we are from on top of a tree.	VO_tina.tina_sys_0004
+037	Wh-whoa! No wonder they call the Voda faction the guardians of the forest.
+038	That being said...it's hard to believe that the strife has spread to the point that even they are shunning this land.	VO_moca.moca_sys_0029
+039	I can see it! It shouldn't take more than 20 minutes for us to get there. Let's go!	VO_tina.tina_battle_1015
+040	Bleeaaargh!	VO_lizbeth.lizbeth_battle_0027
+041	Honestly...I've never had a customer who got so dragon-sick before.
+042	Aren't those broomsticks that you witches ride on a lot more uncomfortable?
+043	We...well, this dragon...it shakes and smells like a beast...and...bleeaaargh!	VO_lizbeth.lizbeth_sys_0018
+044	Gluah...you're making me feel sick too. Anyway, we've arrived.
+045	This is Paza village. It's a fairly large one where a market is held.
+046	Paza village... I've finally arrived...in Saga!	VO_lizbeth.lizbeth_sys_0027
+047	So this is Saga! Wow! There's a lot of people!	VO_lizbeth.lizbeth_sys_0024
+048	Paza village starts from around here. It's a neutral trade village with a vast marketplace.
+049	What do you mean "from around here"?	VO_lizbeth.lizbeth_sys_0005
+050	This village of Paza was formed when people began to gather and form a market along the main road.
+051	In theory, the center of the town is a little further ahead, but there are no clear territorial boundaries. There are a lot of villages like that in Saga.
+052	That's why even the customers need a "permit" from the chief of a tribe, or else the land would be overrun by intruders.
+053	Wow! So it's like the entrance gate into Saga!	VO_lizbeth.lizbeth_sys_0044
+054	This road is connected to each tribe's village. It should be easy to get to any one of them.
+055	Um...what did you mean earlier when you called it a neutral trading village?	VO_lizbeth.lizbeth_sys_2048
+056	Ah. In Saga, the individual tribes...
+057	They are roughly divided and belong to one of three factions based on their code of conduct.
+058	There are deep chasms between each faction and, unless you have a valid reason, you can't move freely between villages of different factions.
+059	That being said...there are some things that just can't be supplemented for within an individual community, right?
+060	Oh...so it's a village where anyone can enter?	VO_lizbeth.lizbeth_sys_1048
+061	Yep. It's a neutral area that goes beyond tribe or faction where you can obtain whatever it is you are lacking.
+062	That's what a neutral trading village is. It's a village where individuals from any faction can come and go as they please.
+063	I thought it would be the perfect place to first take a foreigner like you, young lady.
+064	So, even though it's a place of freedom, there's still quite a bit of friction going on here. What are the three factions?	VO_lizbeth.lizbeth_sys_0018
+065	There's the "Tehre of Earth" faction that merchants like myself belong to that actively tries to incorporate new cultures.
+066	Then there's the "Fuu of Fire" faction that is a warlike tribe responsible for Saga's military.
+067	Finally...there's the nature-worshiping faction called the "Voda of Water." They place an emphasis on training new shamans.
+068	Tehre...? Fuu...? Voda...?	VO_lizbeth.lizbeth_sys_0005
+069	They're the names of the three great shamans they call the Sprite Trio.
+070	Tehre is the shaman of earth...Fuu is the shaman of fire...and Voda is the shaman of water.
+071	And they're the ones who manage the artifacts called Matter, which resemble Philosopher's Stones.
+072	In the past...the Wind Sprite also existed...and together they were called the Sprite Quartet.
+073	Wa-wait...!	VO_lizbeth.lizbeth_sys_0029
+074	There's so much to learn. Why didn't you tell me all of this during the trip?!	VO_lizbeth.lizbeth_sys_0012
+075	Weren't you the one who told me not to talk to you because you were feeling sick?!
+076	Sorry...	VO_lizbeth.lizbeth_sys_0036
+077	In any case, the Sprite Trio consists of the three ultimate shamans gathered from amongst the various tribes.
+078	Essentially, they are supposed to work hand-in-hand...
+079	Unfortunately, due to their beliefs, I would be hard-pressed to say they were united. That's the current state of the tribes in Saga.
+080	How could that happen? You're all from the same land of Saga.	VO_lizbeth.lizbeth_sys_0020

@@ -1,0 +1,105 @@
+﻿001	So, I have to know. Do samurais actually commit seppuku?	VO_zaharu.zaharu_sys_0002
+002	Sep...puku?	VO_mea.mea_sys_0025
+003	It's a Wadatsumi custom; a form of ritual suicide. I believe it's also called harakiri. It's where you pierce your own stomach with a katana.	VO_niggle.niggle_sys_0004
+004	Eurgh!	VO_mea.mea_battle_0026
+005	Gross! Why the heck would anyone do something like that?!	VO_ila.ila_sys_0025
+006	It's a form of penitence. A way to demonstrate one's willingness to atone for one's crimes.	VO_zen.zen_sys_0006
+007	Y-you mean people do it willingly?! No way!
+008	It's an incredibly painful way to go. A slow, torturous death—unless someone grants you the mercy of a beheading.	VO_niggle.niggle_sys_0010
+009	Why don't they just get someone to behead them in the first place?	VO_mea.mea_sys_0031
+010	And why does it have to be the stomach?! I mean, yikes! Ow! I'd take a beheading any day of the week—I mean, if I had to.	VO_ila.ila_sys_0001
+011	Sometimes the leader or commander of an organization commits the act, sacrificing themself to protect the honor of their family and subordinates.
+012	I see... "Take me instead," huh? That's certainly a very final way to get the message across.	VO_niggle.niggle_sys_0031
+013	Unthinkable.
+014	Right?!
+015	Death achieves nothing.	VO_zaharu.zaharu_sys_0010
+016	In this life, we don't have time to regret, or reflect on our mistakes. We best pay tribute to those who have fallen by moving ever forwards in their name.
+017	...
+018	The path of life takes many forms. For some of us it's a straight line, faithfully followed from beginning to end, with all side paths ignored.
+019	For others it is a maze of indecisions and mistakes, with many forks in the road, much backtracking, and not a little wandering astray.
+020	We may stumble, but only by standing up again and pressing on can we guarantee that we will someday reach the truth.	VO_zaharu.zaharu_sys_0031
+021	True enough.	VO_zen.zen_sys_0004
+022	Welcome to the Shadow Messiah. Vagrant, murderer, bodyguard... Whatever you may be, you may make yourself at home.	VO_zaharu.zaharu_sys_0007
+023	Thank you for the meal, and for allowing me to stay the night. I am in your debt.	VO_zen.zen_sys_0033
+024	Think nothing of it. It serves my interests as well as yours.
+025	This lot have been starving for company, you see.
+026	Huh?! No we haven't!	VO_ila.ila_sys_0025
+027	It's so quiet here without Silma...and Spica...	VO_mea.mea_sys_0018
+028	W-well, maybe she has, but not me! I don't get lonely or nothin'!	VO_ila.ila_sys_0011
+029	From time to time, even I find myself missing how these halls used to ring with laughter...	VO_zaharu.zaharu_sys_0031
+030	Ahahaha!
+031	It's been a while since I've been able to give my wife a decent meal and a good night's rest.	VO_zen.zen_sys_0030
+032	That you continue to fight, even after all you've been through—even after the death of your daughter, and the ruin of your wife's mind...
+033	I must admit, I am impressed. You are clearly strong of will and determined in your purpose, unafraid to fight alone.
+034	You know, I daresay we have something in common. We, too, seek to reset the world...	VO_zaharu.zaharu_sys_0002
+035	And remove from it those who would harm our family.
+036	We will achieve a new order, under which those we love will be provided for.
+037	You...have a family?	VO_zen.zen_sys_0001
+038	Her heart lives on within me...	VO_zaharu.zaharu_sys_0004
+039	Eternally.
+040	Maybe Yogi had a point...	VO_zen.zen_sys_0031
+041	You're goin' to have a hard time fightin' off her attackers with her on your back like that.
+042	I will proceed alone from this point on.	VO_zaharu.zaharu_sys_0004
+043	No way! I’m a member of Shadow Messiah! I should always be with you!	VO_ila.ila_sys_0020
+044	I...I swore to Corvus that I would!
+045	If you truly are a member of Shadow Messiah...then you are one with me, and you will inherit my will, Shadow Messiah Ila.	VO_zaharu.zaharu_sys_0038
+046	Oh!
+047	Protect Mia from harm.	VO_zaharu.zaharu_sys_0041
+048	Yeah, okay...	VO_ila.ila_sys_0018
+049	You are the ones who will inherit my will. You will carry my beliefs along the passage of time. Do I make myself clear?	VO_zaharu.zaharu_sys_0007
+050	Y-yeah...
+051	Yes.	VO_mea.mea_sys_0004
+052	Zehn, I leave them in your care.	VO_zaharu.zaharu_sys_0002
+053	Understood.	VO_zen.zen_sys_0038
+054	Perhaps that was his version of committing seppuku.	VO_zen.zen_sys_0031
+055	The Shadow Messiah was on the verge of collapse.
+056	Maybe, by leaving it behind, he hoped to bury his past self...
+057	I suppose this is why people seek companionship, or a place to call their own. We all need a receptacle in which to deposit our burdens when they grow too heavy.
+058	Who do I turn to now, Mitsu?	VO_zen.zen_sys_0001
+059	Y-you're not going to kill yourself, are you?!	VO_nazhu.nazhu_sys_0025
+060	Believe me, I would if I could.	VO_zen.zen_sys_0004
+061	Wh-what?!
+062	But I can't leave her behind.	VO_zen.zen_sys_0016
+063	S-so, what? You're just going to carry her around with you? Forever?	VO_nazhu.nazhu_sys_0001
+064	Besides...the only thing that deserves a place around my neck is this.	VO_zen.zen_sys_0030
+065	What's...?	VO_nazhu.nazhu_sys_0006
+066	This scarf was their birthday present to me.	VO_zen.zen_sys_0004
+067	I'm going to hold on to it, no matter how much it hurts.
+068	(And I will hold on to this, no matter how much it hurts!)	VO_nazhu.nazhu_sys_0018
+069	A zebra could never hope to best a lion.	VO_orione.orione_sys_0010
+070	Obviously. I am well aware of that.	VO_nazhu.nazhu_sys_0016
+071	Then why don't you give up? Your pitiful resistance is only delaying the inevitable.	VO_orione.orione_sys_0001
+072	Hmph. You don't understand, do you?
+073	What?	VO_orione.orione_sys_0006
+074	There was once one who put the lion in his place.	VO_nazhu.nazhu_sys_0001
+075	In one fell swoop, he managed to delay the invasion of Wadatsumi, force the abolishment of Imperial Security, and rob you of a valuable pawn.
+076	Not only that, but I've heard tell that when Greed Dike's hostilities suddenly stopped, some fled Wadatsumi, allowing them to escape the chaos to come.
+077	Tch!	VO_orione.orione_sys_0025
+078	Make no mistake, the man you thought so little of changed the fate of a nation right under your nose!	VO_nazhu.nazhu_sys_0018
+079	However minute an effect that might have had on history, it cannot be denied that he left a scratch right across your snout, lion!
+080	What are you trying to say, whelp? What part of this do you claim I fail to understand?	VO_orione.orione_sys_0003
+081	You still don't get it? Well, then, allow me to enlighten you: He proved that you can be harmed by the weak.	VO_nazhu.nazhu_sys_0004
+082	Hmph. If you're quite done spouting nonsense, I'm ready to finish this.	VO_orione.orione_sys_0007
+083	Come, now. What's the hurry? You're enjoying yourself, aren't you?
+084	Hah. You're amusing, I'll give you that.	VO_orione.orione_sys_0005
+085	In that case...	VO_nazhu.nazhu_sys_0007
+086	You ought to remember me!
+087	But just in case...I'll give you something to remember me by!	VO_nazhu.nazhu_battle_0040
+088	Fool... You cannot touch me.	VO_orione.orione_sys_0010
+089	Satisfied?
+090	Thanks for clearing the room.	VO_orione.orione_sys_0005
+091	So kind of you to grant him the opportunity for his little battle to take place.	VO_waginao.waginao_sys_0007
+092	I merely showed him the respect a warrior deserves.
+093	What are you going to do about that fellow he mentioned... D. Lily, was it? Will you have a different agent of the Elite Guard take care of him?
+094	D. Lily?	VO_orione.orione_sys_0006
+095	We are still searching for him, of course.	VO_waginao.waginao_sys_0031
+096	My survival of the fittest policy remains intact. Nothing has changed.	VO_orione.orione_sys_0010
+097	I expected as much.	VO_waginao.waginao_sys_0004
+098	At least...not within the beliefs I hold as ruler of this nation.	VO_orione.orione_sys_0030
+099	Oh?	VO_waginao.waginao_sys_0044
+100	I find myself wondering... What was the point of scrapping Imperial Security to create the Elite Guard?	VO_orione.orione_sys_0007
+101	Was it not because you wanted an organization to guard you more closely?
+102	Hmph. That was rhetorical; I wasn't asking you. Anyway, to return to our previous subject... Who's this D. Lily you mentioned?	VO_orione.orione_sys_0001
+103	What? Surely you jest! Was he not the traitor who tried to kill you?	VO_waginao.waginao_sys_0025
+104	Did that happen?
+105	It's not ringing any bells. Whoever they were, I've clean forgotten them.	VO_orione.orione_sys_0007

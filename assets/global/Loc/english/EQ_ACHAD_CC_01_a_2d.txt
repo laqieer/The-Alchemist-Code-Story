@@ -1,0 +1,111 @@
+﻿001	I don't want the memories we made to be for naught.
+002	We lost and we were painted as the villains. That makes me the angriest of all.
+003	Even though your fate tears my heart apart... Even though I'd like to end it all and throw it all away...
+004	I will shine on until the morning comes again.
+005	Excerpts from The Babel Continental Times:
+006	"An End to the Lion Monarch's Charge"
+007	"The Holy Guard managed to uphold their absolute justice across the land through might, effort, and sacrifice. It is with great joy that we report their astounding victory to the entire continent."
+008	"Tragedy." "Mourning." "Bitter Tears." "Hope for a better future."
+009	"A resounding loss for Greed Dike." "Circumstances surrounding Emperor Orion's death uncertain."
+010	"The Loss of the 11th Lord Commander."
+011	An excerpt from Lucas Langum's "The Glorious Holy Guard," regarding the Lord Commander:
+012	"Surrounded by those who share his ideals, he gazed up at the sky, hoping for something better than the world they had inherited. May the heavens look kindly upon they who embrace true justice, even as they burn bright and turn to ash."
+013	The heavens don't look kindly on us.	VO_sol.sol_sys_0010
+014	For us there are no prophets or saviors. No gods to pray to.
+015	No family, no peace or quiet. Just the fight to stay alive. To kill to survive.	VO_sol.sol_sys_0004
+016	What place is there for virtue when stealing is the only way to survive? What need is there for honesty?
+017	Our binding commandments are our only asset.	VO_sol.sol_sys_0022
+018	All we have is our resolve to keep on living.
+019	I am the sun that was born in the sunken city without light!
+020	I cannot lose! My destiny is to win!
+021	You are holding your life together with nothing more than sheer force of will.
+022	What drives you to do so?
+023	We found two corpses.	VO_stknightm.stknightm_sys_0005
+024	A man and a woman. The wounds they received in that final blast made them difficult to identify.	VO_stknightm.stknightm_sys_0017
+025	However, we've determined that the bodies must belong to Sol, the leader of the Templars, and his associate and fellow Templar, Acht.
+026	Dispose of them.	VO_stknightm.stknightm_sys_0037
+027	If there is no one left to speak of the Templars...	VO_sol.sol_sys_0001
+028	Wouldn't that mean we no longer exist?
+029	*Slrpp* *Slurp*
+030	*Gulp*
+031	Mmgf...hnmm...
+032	*Gulp*
+033	Was it enough?
+034	...
+035	Your meal, I mean.
+036	Yes.	VO_acht.acht_battle_0019
+037	Don't get any on your dress, okay?
+038	Amu.
+039	Yes?	VO_acht.acht_sys_0004
+040	You should be more discerning. I can't believe you will even drink blood from corpses.
+041	Yes.
+042	Do you really like blood that much?
+043	No.	VO_acht.acht_sys_0016
+044	Haha. I see.
+045	I'm guessing you must be really hungry then, huh?
+046	...
+047	It's fine. Drink up.
+048	*Sip*
+049	That's it.
+050	*Slurrrp*
+051	There you go. You're such a good girl.
+052	No.	VO_acht.acht_battle_0019
+053	This is the world's garbage can.
+054	A place for rebellious slaves to be thrown away.
+055	...
+056	We're all just born to be devoured.
+057	And if we're not tasty enough, we're cast aside like trash.
+058	...
+059	But who wants to be devoured? I certainly don't. So maybe it's better to taste bad, after all.
+060	I want to live, without being devoured or discarded. How about you, Amu?
+061	There's no need to consider them human. They're more like livestock, if anything.
+062	Hmph. She's awfully popular for a lowly slave. I suppose no one can resist a pretty face...
+063	You know it. Beauties always do well in the arena.
+064	Regardless of the outcome, the audience gets something nice to look at, yes? In fact, it makes for a better spectacle when they lose.
+065	I suppose there are plenty of war orphans to go around, to make up for the ones you lose in battle.
+066	Indeed. So what do you say, Mayor? I only deal in the best and most obedient slaves. Guards, maids, assistants; I can provide whatever you need.
+067	We'll see about that. I have yet to see your work in action.
+068	Heheheh... Then please do enjoy the show.
+069	Ladies and gentlemen! It's what you've all been waiting for!
+070	What will happen when man and beast clash? It's the pure of heart versus the wild and wicked! Will we see innocence prevail over the evils of this world?!
+071	Either way, I, for one, can't wait to see that pristine white dress dyed red with guts and glory!
+072	She's beautiful, inside and out! She's everyone's favorite girl of pure heart! The gladiator who's slashed her way into our hearts!
+073	She's got no will of her own! She's the artificial maiden! The beast of war! That's right, give it up for...AMU!!!
+074	Amu! Amu! Amu! Amu!
+075	"Artificial" maiden?
+076	I created her to be the perfect servant, who lives only to serve other humans. As such, she possesses no will of her own.
+077	You're into that sort of thing?
+078	Oh, no, it's nothing like that. It's simple business savvy. As I always say, my business provides "a blank slate for everyone." That way, my products can be adjusted to suit the needs of any prospective buyer.
+079	Amu! Amu! Amu! Amu!
+080	You've certainly got an eye for showmanship. She might just be the opening act, but you've got the crowd on the edge of their seats.
+081	She's a clever girl. She could even be trained to be an excellent assistant.
+082	Don't get hurt, okay?
+083	Yes.	VO_acht.acht_sys_0004
+084	I can see that, but hasn't she had too easy a time of it? I've heard she's yet to be defeated.
+085	Haha! You're not the first to say something like that. I'm sure the audience is growing bored of all these easy victories as well. That's why I decided to mix things up a little this time around.
+086	Is today the day that the artificial maiden's winning streak finally comes to an end? Hold on to your seats, ladies and gentlemen, because it's time to introduce today's opponent!
+087	Huh?
+088	What's this?!
+089	THE GREAT EXPERIMENTAL BEAST! Brr... This guy gives me the chills!
+090	This monster among monsters is feeling cranky, and not at all in the mood to be slain by human hands today!
+091	This sort of beast is normally reserved as a punishment for dangerous criminals and outlaws. I had to pull some strings to get my hands on one, but I couldn't be happier with the purchase.
+092	Its enhanced physique and improved reflexes were all achieved through medical experimentation. I set out to create the ultimate weapon, and this is what I ended up with.
+093	However, like Amu, it has seen a few too many victories.
+094	The loser will die, and the winner will be wounded enough to make them easy to take care of later... Now that's an efficient way to control your livestock.
+095	You know, I've managed to really cut costs on Amu's meals lately. I told her that if she was hungry, she should just drink the blood of corpses—and by the gods she actually did it! Isn't that hilarious?
+096	It's time for the first match! ARE YOU READY?
+097	She will be fighting five consecutive matches without a break today. There's no doubt about it: her winning steak shall be punctuated with her own death!
+098	FIGHT!
+099	At last! Here it is! A good old Colosseum bloodbath!
+100	No... Impossible!
+101	And Amu wins her fourth match of the day! All that remains is the final battle! Will she remain undefeated, or will she fall here?!
+102	What a bore. She's making this look easy.
+103	K-kill her already! Unleash all the beasts at once if you must! Just make sure that Amu dies!
+104	Well, folks, the Colosseum's master is in high spirits today! Looks like we're in for a real show!
+105	Ooh!
+106	All right! The fifth and final battle is upon us at last! Here we go!
+107	...
+108	ARE YOU READY?
+109	...
+110	Thanks for the meal.
+111	GO!

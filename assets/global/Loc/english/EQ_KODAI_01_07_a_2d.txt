@@ -1,0 +1,40 @@
+﻿001	Hello there, Sir Dragon! Welcome to our town!
+002	Is this your first time here? Please, have a look at our wares! I can offer you a good deal, if anything catches your eye!
+003	Such...an aggressive welcome.	VO_zafilys.zafilys_sys_0030
+004	I thought humans feared and revered us...
+005	But no one here seems to fear me in the slightest. And this isn't exactly the kind of reverence I had in mind, either.
+006	How am I meant to focus on my search for Lil when every other person in town is calling out to me? Hmph. I suppose there's only one proper answer to that.	VO_zafilys.zafilys_sys_0031
+007	Good. Up here, I can see the whole landscape in a single glance. Now, where could you be, Lil?
+008	Hmm?	VO_zafilys.zafilys_sys_0005
+009	That was a close one!
+010	What do you think you're doing, Claybelle?!	VO_zafilys.zafilys_sys_0006
+011	A little sparring after a meal to help with digestion. Nothing more.	VO_clabul.clabul_sys_0004
+012	I did have quite the illuminating dinner conversation, though. Heh... Who knew you could ever be somebody's papa?! Hahaha!
+013	You found Lil?! Where is she?!	VO_zafilys.zafilys_sys_0025
+014	She's safe and sound in my mansion at the moment.	VO_clabul.clabul_sys_0006
+015	But I can't let you see her just yet.
+016	What? You dare side with Ophioneus?!	VO_zafilys.zafilys_sys_0012
+017	Oh, I have absolutely no intention of doing that, believe me. I'm just not yet certain I can fully trust you, either.	VO_clabul.clabul_sys_0031
+018	Schmeier wishes for Ouroboros to understand humanity. Lil is the culmination of that wish.
+019	This makes Schmeier a kindred soul of mine. I would have no objections to lending her my aid, as one who lives among and believes in the potential of humanity.
+020	Then why wouldn't you—?!	VO_zafilys.zafilys_sys_0004
+021	That sense of camaraderie does not extend to you just yet, Zafeiris!	VO_clabul.clabul_sys_0002
+022	...
+023	Why were you with Schmeier to begin with?	VO_clabul.clabul_sys_0001
+024	Why would a man known only to speak of the future through the lens of past sins and glories be...coupled...with one of our foremost researchers?
+025	Well...	VO_zafilys.zafilys_sys_0042
+026	In all honesty, I don't know how to answer that.
+027	All I can say is, I was entrusted with Lil's care.
+028	That tells me nothing. Perhaps I need to coerce the truth out of you with a little more force.	VO_clabul.clabul_sys_0016
+029	What?!
+030	Grrrr...
+031	Creation of beasts from magil?! Is this one of the fruits of your research?!	VO_zafilys.zafilys_sys_0031
+032	Quite a trick, no? It's hard to make them do finer tasks, but when I'm short-handed, they can be awfully useful nonetheless...	VO_clabul.clabul_sys_0004
+033	Particularly when I need a physical barrier to rely on. I know what you're capable of, Guardian Dragon.
+034	As such, I have no intention of facing you without a few advantages to help even the scales a bit.
+035	I have no reason to fight you.	VO_zafilys.zafilys_sys_0002
+036	Tough. I have reason enough for the both of us. Schmeier is a friend of mine.	VO_clabul.clabul_sys_0006
+037	And she entrusted her dearest wishes to you. So I need to be certain that you've got both the strength and the will to adequately see them through.	VO_clabul_transform.clabul_transform_battle_0028_b
+038	You're serious, then? All right! If you insist!	VO_zafilys.zafilys_battle_0019
+039	Let me forewarn you, though: In this form, I cannot hold my strength back. You'll be lucky to survive.	VO_zafilys_transform.zafilys_transform_battle_0002
+040	Heh. Big words from a big blockhead!	VO_clabul_transform.clabul_transform_battle_0019

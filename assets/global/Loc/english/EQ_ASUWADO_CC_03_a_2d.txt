@@ -1,0 +1,35 @@
+﻿001	......
+002	Would you like some tea, Carla?	VO_ankh.ankh_sys_0003
+003	Oh, yes, please. Thank you.	VO_karla.karla_sys_0006
+004	...
+005	......
+006	Hey, Ryle! Care to join the land of the living?	VO_karla.karla_sys_0002
+007	Whaaaat...?	VO_ryle.ryle_sys_0006
+008	We've come all this way to see you. The least you can do is wake up and give us a proper reception, you lazy oaf!
+009	Ehh, nah, you're fine. I've got my own work to deal with.	VO_ryle.ryle_sys_0040
+010	You grumble about being busy far more than the guild members who are actually on task!	VO_ankh.ankh_sys_0016
+011	And you're sleeping rather well for a guy with a mark on his head. Letting down on your guard will end up doing you in, you know.	VO_karla.karla_sys_0030
+012	All the more reason now is the perfect time for me to get some rest while I still can, don't you think?	VO_ryle.ryle_sys_0031
+013	I'll wake up when the situation calls for it.
+014	Hmph. I know you.	VO_aswad.aswad_sys_0001
+015	Oh! Najam, was it? Long time no see. What an unexpected surprise.	VO_ankh.ankh_sys_0044
+016	...
+017	I'm extremely grateful to you for giving me a bit of a break last time we met. But this time...	VO_ankh.ankh_sys_1038
+018	Well, let's just say I won't be holding back, should you plan to turn your blade toward Master Ryle.
+019	I don't recall giving you a break last time. As I said then, you simply weren't my mark.	VO_aswad.aswad_sys_0002
+020	Things are different this time, however. I'll do what I must to complete my mission.
+021	I see. In that case, I'm afraid I'm going to have to stand in your way, and things might get a bit messy.	VO_ankh.ankh_sys_0045
+022	(I don't get it. Why is he so adamant about protecting that wreck of a guild captain?)
+023	(No... That's none of my concern. I have a job to do. Nothing else matters.)
+024	From the outside, it seemed rather empty in here. Not many guild members in attendance today. It's good to know that assessment was correct.	VO_aswad.aswad_sys_0005
+025	Now if you'll excuse me, I'm going to have to cut through you to get to my mark. Do pardon the intrusion!
+026	Lady Najam!
+027	Look out! They've got reinforcements!	VO_karla.karla_sys_0003
+028	Tch. All these maggots, crawling out of their holes...	VO_ankh.ankh_sys_0042
+029	Seems like we've got a pest problem indeed.	VO_ryle.ryle_sys_0004
+030	Master Ryle! You've finally decided to move those lazy bones of yours?
+031	What, you think I'd miss this party? You all take care of the riff-raff. I'll handle Najam.	VO_ryle.ryle_sys_0041
+032	So, you do actually get out of bed from time to time.
+033	I do what I want. And whatever I need to do to protect my people.	VO_ryle.ryle_sys_0010
+034	...
+035	The Desert Wings are my people. And I'm not about to let anyone walk all over them.	VO_ryle.ryle_sys_0002

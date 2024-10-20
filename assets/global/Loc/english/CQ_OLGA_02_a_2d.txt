@@ -1,0 +1,59 @@
+﻿001	I'm so glad you were with me, Olga. I can't believe we got surrounded like that so quickly.
+002	Heheheh! That was nothing!	VO_olga.olga_sys_0023
+003	Anyway, are you feeling this too? Something seems to be going on over toward the market.	VO_olga.olga_sys_0031
+004	Yeah, something is definitely happening in that direction. Let's check it out!	VO_alba.alba_chara_2001
+005	Shut your trap! You've already paid, so you can't go mouthing off now.	VO_thiefm.thiefm_sys_0006
+006	What? Come on! Please!	VO_knightm.knightm_sys_0018
+007	My products are held in high regard, even among the Holy Guard! You can't blame your lack of sensibility on me!	VO_thiefm.thiefm_sys_0029
+008	I heard something about the Holy Guard! What's happening here?!	VO_olga.olga_sys_0003
+009	What's with you, woman?! Stay out of this!	VO_thiefm.thiefm_sys_0006
+010	Say that again! You have a problem with me being a woman?	VO_olga.olga_sys_0012
+011	O-Olga, please... We don't even know the details of the situation yet. Just calm down.	VO_alba.alba_sys_0027
+012	A-are you friends with that therian?	VO_knightm.knightm_sys_0001
+013	Oh, uh, yes. I apologize on Olga's behalf. Do you mind if I ask what happened?	VO_alba.alba_chara_1001
+014	That merchant! He sold me a knock-off piece of crap!	VO_knightm.knightm_sys_0004
+015	I spent a fortune on it, and it broke within the day!
+016	Ha! You were the one that jumped all over the deal, hollering about how it's such a rare item!	VO_thiefm.thiefm_sys_0010
+017	Hmm... Hey, can I see the bow that you bought?	VO_olga.olga_sys_0031
+018	Yeah, sure. It's this one here.
+019	What is this?! Even children's toys are built from better material!	VO_olga.olga_sys_0012
+020	The decorations on it are pretty intricate, but they ruin the durability of the bow itself. It's no wonder it broke!	VO_alba.alba_chara_1007
+021	Hey, hey, hey! You're scaring off my customers! It's his fault for wasting his money!	VO_thiefm.thiefm_sys_0017
+022	If you think my product's a sham, then why don't you go and bring me something authentic? You won't find anything but shams and knock-offs in this world!
+023	Sure, he's the one that chose to buy the bow, but you sold it to him! You have no right to ridicule him!	VO_olga.olga_sys_0017
+024	I'm no merchant, so I can't claim to know how this is supposed to work, but I can tell you that you—and your products—are unreliable!
+025	Shut it! You lookin' for a fight?!	VO_thiefm.thiefm_battle_0019
+026	Olga! Watch out!	VO_alba.alba_battle_0019
+027	Aghhh!	VO_thiefm.thiefm_battle_0025
+028	Have you no pride? People like you should never deal with weapons ever again!	VO_olga.olga_sys_0030
+029	Tch! This isn't over yet!	VO_thiefm.thiefm_sys_0022
+030	Olga, are you hurt?	VO_alba.alba_sys_1050
+031	I'm fine. I wouldn't let scum like that put a scratch on me.	VO_olga.olga_sys_0007
+032	Anyway, you don't look like a fighter at all. What were you buying a bow for?
+033	I've always wanted to go on an adventure, so I figured I'd need a weapon to take with me.	VO_knightm.knightm_sys_0004
+034	Huh...	VO_olga.olga_sys_0044
+035	My grandfather travels all over the world, and he always brings home some new story about his adventures. I just had to have one of my own.	VO_knightm.knightm_sys_0030
+036	But, I guess I underestimated this world. I couldn't even see through a swindler like him. I should just go back to my village.
+037	What? You don't have to give up on your dream over this.	VO_olga.olga_sys_0025
+038	No, but I should train myself a little more before going on a journey. I couldn't even handle that spot of trouble without your help.	VO_knightm.knightm_sys_0031
+039	I learned a lot today. You're from Saga too, right? I hope to see you again.
+040	Nothing but shams and knock-offs in this world, huh?	VO_olga.olga_sys_0016
+041	I think you know already since you've been to my village before, Aruba, but there's not a single person there who would deceive another for the sake of making money.	VO_olga.olga_sys_0001
+042	Yeah, your people don't like to get out much, but they're all nice people.	VO_alba.alba_sys_0004
+043	Thank you... But there are other people, it seems, who cherish money over all, and would hurt others for it.	VO_olga.olga_sys_0007
+044	Yeah...	VO_alba.alba_chara_1007
+045	To them, that is the right thing to do, and my way of thinking appears to be a sham.	VO_olga.olga_sys_0020
+046	Olga...
+047	I've taken down plenty of bandits in my time, but I suppose even they had their reasons for living the way they do.	VO_olga.olga_sys_0031
+048	My people and I despise Alchemy, and the Holy Guard who bends the laws of nature, but...
+049	If I imagine all the people who are saved by these same things, I sometimes lose sight of what truly is important to me.
+050	Wait, what's going on? Can't I have just one serious moment to myself?	VO_olga.olga_sys_0016
+051	Hey! You there! You'll pay for what you did!	VO_thiefm.thiefm_sys_0002
+052	Oh, hey. You're that merchant from earlier.	VO_olga.olga_sys_0022
+053	A Paladin...! There they are! They're the ones who caused trouble at the market! We're so lucky to have you here, Mr. Paladin!
+054	What?! Hey!	VO_alba.alba_sys_0025
+055	So you're the ones illegally causing the drop in value of items at the market?	VO_stknightm.stknightm_sys_0005
+056	...
+057	I'll take that as a yes.	VO_stknightm.stknightm_sys_0001
+058	Wh-what the—?! Olga! You can't just let them—	VO_alba.alba_sys_0027
+059	Shut up! Shut up! All of you! Can't you let me think for a second?!	VO_olga.olga_battle_0019

@@ -1,0 +1,85 @@
+﻿001	Hmm... Ngh...
+002	I-is this...an altar?
+003	Y-you...!	VO_mary.mary_battle_0019
+004	Rise and shine, druidic priestess.	VO_seclidis-b.seclidis-b_sys_0007
+005	Tell me, how does it feel? What is it like to lay your eyes upon the origins of your decimated tribe?
+006	Why did you bring me here?! What are you planning, Ceclidis, you madman?!
+007	Well, now that is no way to greet someone. Have you no manners?
+008	You ought to show some respect to your king, even if it's only superficial.
+009	Wh-why did you bring me here?
+010	To sacrifice you, of course. I mean to follow suit with your people's ancient traditions.	VO_seclidis-b.seclidis-b_sys_0010
+011	What?!
+012	The druidic priestess has always been the vessel in which the Alchemia of the land is collected.
+013	You are naturally attuned to Alchemia, even capable of containing the powers of the Sacred Stones within you!	VO_seclidis-b.seclidis-b_sys_0008
+014	There is none other than you who can perform this duty!
+015	The Sephira... How irksome they have been, time and time again.
+016	But I must praise them for successfully imbuing a living human being with qualities comparable to my Shadow Excelsior.
+017	A heretical deed if there ever was one! Do you not think it only natural that your Sephira tribe fell to ruin?	VO_seclidis-b.seclidis-b_sys_0011
+018	How dare you! You were the one directly responsible for their fall!	VO_mary.mary_battle_0019
+019	Hmm, what a powerful glare. Defiance, anger, hate... I can feel them all emanating from you.	VO_seclidis-b.seclidis-b_sys_0006
+020	Let me hear your lamentations as you are ceremoniously sacrificed!	VO_seclidis-b.seclidis-b_sys_0008
+021	What?!
+022	Dear host...
+023	What?
+024	Blood... I need more blood.
+025	This land of greed must be filled with more tragedy and scorn.
+026	The resurrection ceremony... To revive Cryphone, we will require many more sacrifices.
+027	We've leveled the entire royal capital and it's still not enough, eh? What a glutton you are.	VO_seclidis-b.seclidis-b_sys_0011
+028	A half-hearted awakening would be meaningless. We will need great power to take what we must from the Holy Order.
+029	Hmph, very well. What use do I have for soldiers in the coming battles, anyway?	VO_seclidis-b.seclidis-b_sys_0010
+030	Devour your fill and prepare for the awakening. Try to take as many of our enemies with you as possible while you're at it.
+031	Of course.
+032	Have you not caused enough death?! So many of your own people...and yet... What are you planning on accomplishing?!
+033	Is it not obvious?
+034	I will become the supreme ruler of this continent! I have desired nothing else for over a hundred years!
+035	Haaahahahahah!	VO_seclidis-b.seclidis-b_sys_0023
+036	You monster!
+037	(He's mad! How can we hope to defeat such a terrifying monster?!)
+038	(Seriolde... Please, run away! Everyone, you must flee!)
+039	The enemy forces are routing! This is our chance to push through!
+040	Something is not right.	VO_gaiorgeos.gaiorgeos_sys_0016
+041	General? Is something wrong?	VO_knightm.knightm_sys_0001
+042	This is too easy. Yes, we have disheveled their formations and the desert's climate is on our side, but...
+043	These are elite commanders of Gluttony Foss' military. It's hard to believe they would break so easily, under any circumstances.
+044	You mean this could be some sort of ruse? Has our invasion of the royal capital been exposed?	VO_knightm.knightm_sys_0016
+045	I'm not sure, but it would be best to take precautions. Send a message to every division! Avoid excessive pursuits! Prepare for the enemy's retaliation!	VO_gaiorgeos.gaiorgeos_sys_0009
+046	Yes, Sir!	VO_knightm.knightm_sys_0032
+047	The enemy has eased their assault! Now's our chance for a counterattack! General!
+048	...
+049	General? May we have your orders?
+050	We've been engaging these desert rabble for three days! If they continue to pressure us like this, the troops' morale will...
+051	...
+052	General...?	VO_knightm.knightm_sys_0001
+053	Hehe... Gahahahahahaha!
+054	G-General?! What is the matter?!
+055	Wh-wha—?!
+056	The time has come! Children of Gluttony Foss, you will now become the groundwork for my survival!
+057	Wha...? No!
+058	S-stop! No! I don't want to die! Aaaaahh!	VO_knightm.knightm_sys_0028
+059	G-General, look!
+060	Tch! Sound the retreat!	VO_gaiorgeos.gaiorgeos_sys_0042
+061	Leave your weapons and supplies! Just run! Touch that dark mass, and you won't survive!
+062	Ceclidis, you monster! You dare sacrifice your own troops like this?!
+063	That was the main force of Gluttony's army! Further invasion of the desert would be impossible without them!
+064	Wha—?!	VO_gaiorgeos.gaiorgeos_battle_0019
+065	General?!
+066	Pull yourselves together! We have no time to waste! Just go on without me!	VO_gaiorgeos.gaiorgeos_sys_0002
+067	B-but...!
+068	Hahaha! Not bad! Your reputation does you no service, Flame-Armed General!
+069	You're the ones who betrayed the Sephira... And you, Ceclidis! You have my cousin Marie, don't you?!	VO_gaiorgeos.gaiorgeos_sys_0001
+070	Exactly! The ceremony can begin at any moment, but we still need more blood! Give us your life!
+071	Huzzaaahh!
+072	You fool! Did you think spineless back-stabbers like yourselves could defeat me?!	VO_gaiorgeos.gaiorgeos_sys_0017
+073	What are you doing standing around?! All of you, get back!	VO_gaiorgeos.gaiorgeos_sys_0002
+074	R-right away, Sir!
+075	Hahaha... Hahahahahaha! You are the fool, Georgios!
+076	What?	VO_gaiorgeos.gaiorgeos_sys_0006
+077	Th-this can't be!	VO_gaiorgeos.gaiorgeos_sys_0025
+078	We are eternal! The strength you pride yourself on is as nothing before our might!
+079	Ngh! You would go so far as to abandon your human form?!	VO_gaiorgeos.gaiorgeos_sys_0028
+080	Everyone! Save the General!	VO_knightm.knightm_battle_0019
+081	No, don't! Stay back, or—
+082	I'll devour you all!
+083	Waaaaaaaaaahh!	VO_knightm.knightm_battle_0025
+084	How dare you!	VO_gaiorgeos.gaiorgeos_battle_0019
+085	Hahaha! Resistance is futile, humans! Lay down and become my flesh and blood!

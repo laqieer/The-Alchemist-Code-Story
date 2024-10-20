@@ -1,0 +1,41 @@
+﻿001	Th-thank you! You saved me! He-here it is! The squirrel pottery!
+002	Well done. You defended it until the end.	VO_zaharu.zaharu_chara_1008
+003	Of course!
+004	How much will it be?	VO_zaharu.zaharu_sys_0002
+005	Please, you saved my life! The least I could do is give it to you! I won't take any money for it!
+006	I will...excuse myself now! Thank you, truly, for everything!
+007	Heh. A piece of poetry created by a true master, huh? This far out-values the life of that merchant.	VO_zaharu.zaharu_sys_0007
+008	Well then...now that I've managed to safely procure the squirrel...
+009	...?	VO_zaharu.zaharu_sys_0006
+010	Lord Zahar? What is the matter?	VO_spica.spica_sys_0003
+011	What the...? The squirrel's tail...there's a crack in it!!!	VO_zaharu.zaharu_sys_0027
+012	This crack wasn't present when I viewed it at the marketplace! That merchant! He hardly protected it at all!
+013	Those blasted bandits! Tsk! Such a thing like this...!	VO_zaharu.zaharu_sys_0019
+014	Oh! The tail...	VO_spica.spica_chara_1002
+015	I have no need for something that is flawed!	VO_zaharu.zaharu_sys_0029
+016	?!	VO_spica.spica_chara_1009
+017	...Honestly. What a waste of time!	VO_zaharu.zaharu_sys_0031
+018	(He doesn't have any need...for something that's flawed...)	VO_spica.spica_sys_0022
+019	(Yes...of course...a day will come...when I'll no longer be able to remain by his side.)
+020	(When Lord Zahar obtains a power so great...that he will no longer need my inferior strength... When that day comes...)
+021	(I...won't be needed any more...like this squirrel.)
+022	Lord Zahar, this squirrel figurine...may I keep it for myself?	VO_spica.spica_sys_0003
+023	... ...
+024	It's rare for you to express such a desire.	VO_zaharu.zaharu_sys_0006
+025	Is that so?	VO_spica.spica_chara_1002
+026	You're aware that it's blemished, right? Are you fine with that?	VO_zaharu.zaharu_sys_0002
+027	Yes. I wish to have it.	VO_spica.spica_sys_0004
+028	Fine. Do as you like.	VO_zaharu.zaharu_sys_0037
+029	Thank...you.	VO_spica.spica_event_1005
+030	Heh. You're a strange one to want something that is broken.	VO_zaharu.zaharu_sys_0007
+031	... ...
+032	Um...Lord Zahar!	VO_spica.spica_battle_0019
+033	What is it?	VO_zaharu.zaharu_sys_0025
+034	This squirrel...I'm going to treasure it!	VO_spica.spica_sys_0012
+035	... ...
+036	I see. Do as you like.	VO_zaharu.zaharu_sys_0022
+037	We leave now, Spica.	VO_zaharu.zaharu_sys_0002
+038	Understood!	VO_spica.spica_sys_0038
+039	(One day...I will no longer be able to stay by his side...)
+040	(But, until that time comes, I will serve Lord Zahar with all my strength...)
+041	(And to the best of my ability!)

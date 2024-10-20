@@ -1,0 +1,124 @@
+﻿001	W-wow! You just took those Greed Dike soldiers out with one blow! Who are you?!
+002	It doesn't matter. More importantly...how can you be sure those aren't the words of the king?
+003	Huh...?
+004	You said they are making the king say those words, right? What proof do you have of that?
+005	I am currently serving by the king's side in order to protect him.
+006	Yeah...I heard from Dilga.	VO_monzein.monzein_sys_0004
+007	The king was the kind of person who would make conversation with me even when was I still an apprentice.
+008	Even to the likes of me he would say, 'Always try to live up to your title as a knight.'
+009	...What?	VO_monzein.monzein_sys_0025
+010	He meant that peace is not always brought about by force.
+011	When people come together...and use their power to protect that bond...peace becomes a possibility for the first time.
+012	Greed Dike's military strength will bring about peace in this country?
+013	The king I know would never say something like that!
+014	Ah! I see...	VO_monzein.monzein_sys_0045
+015	Honestly. I'm completely amazed by your actions...although you did complicate matters.	VO_basini.basini_sys_0017
+016	Huh? Argh!!!	VO_monzein.monzein_sys_0026
+017	Ug...ughhh! Ba...Basheeny...?!	VO_monzein.monzein_sys_0042
+018	You...!
+019	You better not move. I can pierce him this very moment.	VO_basini.basini_sys_0007
+020	Emperor Orion!
+021	It was quite a hassle...but I managed to apprehend the Holy Guard's Captain Monzein of the 2nd Regiment!
+022	It's been a while, Lord Waginau.
+023	Captain Monzein the Great Thunder Axe...who would've thought I would run into you here.	VO_orione.orione_sys_0024
+024	Monzein...?! You?!
+025	Tsk! What're you playing at?!	VO_monzein.monzein_battle_0019
+026	It should be pretty obvious.	VO_basini.basini_sys_0010
+027	Unfortunately...I do not plan on being annihilated alongside you.
+028	Wait, did you betray us again?!	VO_monzein.monzein_sys_0027
+029	What is going on? Didn't you turn on us?	VO_waginao.waginao_sys_0006
+030	Turn on you? Heheh. Did I manage to deceive you as well Lord Waginau? That is the highest honor.	VO_basini.basini_sys_0006
+031	I have gained access to all the captains of the Holy Guard beginning with the Lord Commander himself. I am now in a position to lure them to wherever you please.
+032	You brat...there'll be no forgiveness for you now!!! Huzzaaahh!!!	VO_monzein.monzein_battle_0010
+033	Oops! Honestly, your actions are completely futile.	VO_basini.basini_sys_0025
+034	This is why you're always being used as a pawn.
+035	As a pawn...?!	VO_monzein.monzein_sys_0027
+036	Don't you understand?	VO_basini.basini_sys_0005
+037	Because of your brash personality, people take advantage of you...both your enemies and your friends.
+038	...!	VO_monzein.monzein_sys_0029
+039	You're wasting my time. At least put on a good show.	VO_basini.basini_sys_0030
+040	Lord Waginau, reinforcements will soon arrive.	VO_basini.basini_sys_0001
+041	It would be best to handle this man before they arrive. It can be troublesome if they were to rendezvous.
+042	Reinforcements? Well...there's no need for us to reveal our hand.	VO_waginao.waginao_sys_0044
+043	Are you sure you're not betraying us?	VO_waginao.waginao_sys_0003
+044	That's exactly what I am telling you.	VO_basini.basini_sys_0004
+045	They were truly a bunch of honest fools. It hardly took much effort to infiltrate their ranks.
+046	You scum...!!! Lightning Axe!!!	VO_monzein.monzein_sys_0042
+047	Hmph. Where are you even aiming at? Honestly...his rage has made him go crazy...	VO_waginao.waginao_sys_0010
+048	...! Please escape! The stairway is going to collapse!	VO_stknightm.stknightm_sys_0027
+049	What...?!	VO_waginao.waginao_sys_0026
+050	...Good job.	VO_basini.basini_sys_0034
+051	Agh...! Y-you...Basheeny!!!	VO_waginao.waginao_battle_0022
+052	My apologies...but let me correct what I just said.	VO_basini.basini_sys_0036
+053	I did not turn on you. Instead, I found something to believe in.
+054	Hmph. Honestly, kid...using me as a pawn.	VO_monzein.monzein_sys_0010
+055	I'm sorry. That was the only move I could think of.	VO_basini.basini_sys_0030
+056	I didn't come all the way here to choose the path of complete annihilation...
+057	Tighten the defenses. They're after the King of Envylia.	VO_orione.orione_sys_0001
+058	Are you sure about that?	VO_basini.basini_sys_0007
+059	What...?	VO_orione.orione_sys_0026
+060	Ack...?! Why me...?!
+061	There's no point in playing dumb. Ever since I heard that the king was being controlled, I've been searching my surroundings.	VO_basini.basini_sys_0010
+062	You were the only one, weren't you? When the king was talking, you had your eyes facing downward with your head bowed.
+063	Wh-what about that...?!
+064	Moreover, you were murmuring something with your lips. They were the king's words, weren't they?
+065	I'm not that easily deceived. After all, I was pretty much forced to learn how to resist the Phantom Arts when I served under Lord Waginau!
+066	Ack!!! I-I heard nothing about there being another who knew the arts!	VO_vier.vier_battle_0019
+067	Huh?! He disappeared?!	VO_basini.basini_sys_0025
+068	Furthermore, you definitely didn't say anything about him being such a cute young man. Aren't these things you should be informing me of?	VO_vier.vier_sys_0022
+069	A girl?! Ack...! You...!	VO_basini.basini_sys_0006
+070	Unfortunately...I'm no longer there. I am one of the Veda Templars...Vier, wielder of the Phantom Scent.	VO_vier.vier_sys_0007
+071	Young man...are you a little more interested now?	VO_vier.vier_sys_0001
+072	The Veda Templars?! Wh-what are they?!	VO_basini.basini_sys_0027
+073	Hehe. Women are mysterious creatures. You must suppress your desire to know everything.	VO_vier.vier_sys_0008
+074	Oh no...we're surrounded!	VO_basini.basini_sys_0027
+075	Ack! Lightning Axe!!!	VO_monzein.monzein_sys_0042
+076	Run! Let's regroup...this way!	VO_monzein.monzein_battle_0019
+077	G-got it!	VO_basini.basini_sys_0018
+078	Run...? Aren't you talking about yourself?	VO_vier.vier_battle_1017
+079	What...?	VO_monzein.monzein_sys_0027
+080	Heheh. So you're using a countermeasure for the Phantom Arts. I wonder if your little countermeasure can work against my craft?	VO_vier.vier_sys_0008
+081	Wh-what the...my arm!	VO_basini.basini_sys_0027
+082	?!
+083	Aghh!!!	VO_monzein.monzein_sys_0042
+084	Captain Monzein!!!	VO_basini.basini_battle_0019
+085	Is he being manipulated by the Phantom Arts?!
+086	Heheh. Even the world-renowned Monzein cannot do much against an attack he can't see...	VO_orione.orione_sys_0007
+087	It appears so. Vier...take out Basheeny. It'll be troublesome if we leave him be.	VO_waginao.waginao_sys_0007
+088	Hmph. Can you stop making me do everything? Just use your own soldiers that you're so proud of.	VO_vier.vier_sys_0010
+089	You cheeky little... Immortals, advance!	VO_waginao.waginao_sys_0012
+090	There are so many immortal soldiers!
+091	Agh! R-run!	VO_monzein.monzein_battle_0019
+092	My...my body...! Ack! Captain! Fall back immediately!	VO_basini.basini_sys_0018
+093	What...?!	VO_monzein.monzein_sys_0027
+094	Reinforcements will arrive soon. You must do whatever you can to rendezvous with Captain Yauras!
+095	By doing so...it'll give the king a chance to recapture the country!
+096	Tsk...! What about you?!	VO_monzein.monzein_sys_0029
+097	Don't worry about me! This is my "atonement." I have already made my decision!	VO_basini.basini_chara_1011
+098	Atonement?!	VO_monzein.monzein_sys_0027
+099	My atonement for having underestimated that woman!	VO_basini.basini_sys_0005
+100	More importantly...this is my atonement to myself for my actions against the Holy Guard in the past...!
+101	Ever since I decided to join Commander Kanon...I've prepared myself for this!
+102	Basheeny...	VO_monzein.monzein_sys_0018
+103	Do it!!!	VO_waginao.waginao_sys_0010
+104	Come on. Hurry up and go!	VO_basini.basini_sys_1019
+105	Ack! Don't be stupid! I can't leave my men to die...	VO_monzein.monzein_sys_0029
+106	Honestly. You're so stubborn.	VO_basini.basini_sys_0017
+107	Perfect. Let me use this final opportunity to tell you this.	VO_basini.basini_sys_0010
+108	I hate you...you're an emotional, stubborn piece of work.
+109	What...?!	VO_monzein.monzein_sys_0027
+110	Haha. You should at least try and fix that blockheaded nature of yours.	VO_basini.basini_sys_0011
+111	...Goodbye.
+112	...!
+113	Ack...! Huzzzaahhhh!!!	VO_monzein.monzein_chara_1017
+114	What the...?! What are you doing?!	VO_basini.basini_sys_0025
+115	...That's odd.	VO_monzein.monzein_sys_0010
+116	Huh...?	VO_basini.basini_sys_0006
+117	I hate you as well. Do you think I'd actually follow your instructions?	VO_monzein.monzein_sys_0020
+118	Don't be stupid! No...! Stay back!	VO_basini.basini_sys_0020
+119	Get them!!!
+120	Ack! You little brat! Take this! Grit your teeth, Basheeny!!!	VO_monzein.monzein_battle_0019
+121	?! Agh!!!	VO_basini.basini_battle_0022
+122	All right...!
+123	Ughh...!!! Ack...ckk...!	VO_monzein.monzein_sys_0042
+124	Captain!!!	VO_basini.basini_sys_1019

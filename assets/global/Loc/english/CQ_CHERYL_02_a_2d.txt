@@ -1,0 +1,68 @@
+﻿001	Dammit... They're stronger than I thought. It's not worth fighting them...	VO_thiefm.thiefm_sys_0042
+002	You lose!	VO_courage.courage_sys_0010
+003	So, we're "not worth fighting" you say? Are you taking orders from someone?	VO_courage.courage_sys_0031
+004	Hey, are you alright? Could you tell us what's going on?	VO_cheryl.cheryl_sys_0001
+005	Actually...
+006	...so what you're saying is that you were in a facility and they were about to do something "scary" so you ran away.	VO_cheryl.cheryl_sys_0045
+007	Yeah.
+008	Those scientists were scary and I had home to go back to. My parents are gone.
+009	I was too scared to stay there.
+010	So what was it that was scary? What were they going to do?	VO_courage.courage_sys_0002
+011	I...don't know. But the scientists said something about "experimenting."
+012	Experimenting...	VO_cheryl.cheryl_sys_0039
+013	Sounds very suspicious. Cheryl, what should we do?	VO_courage.courage_chara_1007
+014	First of all, we need to keep this child safe. We can't just leave a child like this alone around here.	VO_cheryl.cheryl_sys_0037
+015	First, let's find the Peacekeepers...
+016	Wait! My little sister's still there.
+017	Your little sister?	VO_cheryl.cheryl_sys_0006
+018	They're going to do experiments. Not me, but on my sister. I have to help her.
+019	So you escaped in order to find help and rescue her.	VO_courage.courage_sys_0044
+020	Alright. We promise to rescue her. Let's go, Cheryl!	VO_courage.courage_sys_0045
+021	Courage! Wait a minute. There are a lot of things to consider.	VO_cheryl.cheryl_sys_0014
+022	An inquisitor's job is to find those who violate the Magna Code... At the moment we don't have enough evidence for an inquisitor to investigate.
+023	But if we don't move now it might be too late. Let's at least go and have a look.	VO_courage.courage_battle_0019
+024	It's against the rules for an inquisitor to act arbitrarily. We would need permission from a superior.	VO_cheryl.cheryl_battle_0019
+025	I have a strong will as an inquisitor and it's important for me to follow protocol.
+026	Strong authority may lead to violence... But if we follow the rules, all will be fine.	VO_cheryl.cheryl_sys_0029
+027	Cheryl, I honestly understand what you're saying. But if we hesitate, something worse could happen.	VO_courage.courage_sys_0004
+028	You can't let that happen, can you?
+029	...
+030	Courage. How are you not afraid? You have a gun that is powerful enough to kill...	VO_cheryl.cheryl_sys_0002
+031	Powerful enough to take a life away in an instant.
+032	Of course I'm afraid. But I have to be cautious when I aim it accordingly.	VO_courage.courage_chara_1007
+033	I would never point my gun in the wrong direction. It's always aimed at the correct target.
+034	The correct target...	VO_cheryl.cheryl_sys_0039
+035	Hey, Cheryl. I know how important it is to follow the rules...	VO_courage.courage_sys_0002
+036	But don't you think it's the right thing to do when you see this frightenened little child with your own eyes?	VO_courage.courage_sys_0031
+037	...!
+038	Hey, Cheryl. What you say makes sense, and of course it's important to follow the rules.	VO_stknightm.stknightm_sys_0001
+039	But if we follow every rule and regulation, we're bound to miss important details along the way.
+040	Cheryl. Do not forget where we place our stance on rule violations.	VO_stknightm.stknightm_sys_0045
+041	(I must find the violators...)	VO_cheryl.cheryl_sys_0022
+042	...
+043	But... you are an inquisitor, and not like me who has free will.	VO_courage.courage_chara_1007
+044	I'm going to go alone, so please look after the child, Cheryl. Time to go!	VO_courage.courage_sys_0002
+045	...
+046	(Laws must be followed. If one breaks the rules, one shall be punished...just like them.)<br>	VO_cheryl.cheryl_sys_0029
+047	(But...)
+048	Are you done with your paperwork, Cheryl? I'm done with mine, so it's time for a break.	VO_stknightm.stknightm_sys_0001
+049	Um, no. No yet.
+050	Why? You're being a bit too strict on yourself. Aren't you taking too much time doing that?	VO_stknightm.stknightm_sys_0031
+051	That's not the case...	VO_cheryl.cheryl_sys_0003
+052	...
+053	Excuse me. Before you go on break, could you watch this child? There are a few more things I need to finish up.	VO_cheryl.cheryl_sys_0035
+054	What is with the number of guards? There are way too many to be guarding an orphanage!
+055	Ugh... This is not good.	VO_courage.courage_battle_0024
+056	Courage!	VO_cheryl.cheryl_sys_0001
+057	Cheryl? What the...? Isn't this against protocol for you?	VO_courage.courage_sys_0025
+058	That may be true, but...	VO_cheryl.cheryl_sys_0037
+059	I can't just watch a little child cry and not do anything about it when I can.
+060	My duty as an inquisitor is priority, but I have to use my power for what I believe is right.	VO_cheryl.cheryl_sys_0001
+061	Cheryl!
+062	An inquisitor? What's the meaning of this? What is an inquisitor doing here...?	VO_thiefm.thiefm_sys_0025
+063	Why are you panicking? Unless, there's something that you're hiding perhaps?	VO_cheryl.cheryl_sys_0039
+064	Ngh...	VO_thiefm.thiefm_battle_0019
+065	I'm not sure what's going on, actually. I just said, "I want you to meet that child's sister." And then all this ruckus occurs.	VO_courage.courage_sys_0031
+066	So, this would be classified as self defense, right?	VO_courage.courage_sys_0002
+067	Understoof. I accept your request for a legitimate inquisition.	VO_cheryl.cheryl_chara_1001
+068	D-dammit...! Do not let them inside! Do as I say!	VO_thiefm.thiefm_sys_0002

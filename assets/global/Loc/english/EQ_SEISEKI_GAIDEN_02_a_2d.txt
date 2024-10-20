@@ -1,0 +1,50 @@
+﻿001	Zain, I appoint you as the tenth Lord Commander. As a symbol of proof, take this—the holy sword, Excalibur!
+002	Yes, sir!
+003	Zain, from this moment forward, your place is in the Holy Guard, and the will you must uphold is that of the justice of Babel. You must never forget this!
+004	I will uphold justice, no matter what! I will strive to never bring shame to the name of absolute justice in Babel...or to the Holy Guard.
+005	As the great tree never wavers, as the ocean never reveals its true depths, be prudent. Become the sword that symbolizes justice itself.
+006	Be the guiding light that leads Babel. Your fate and the fate of this world are one and the same. I am entrusting it to you, Zain!
+007	Yes, sir!
+008	I'm so tired... It's so unlike me to go on an outing like this. I really don't like the outdoors. I'm much more suited to reading old texts in my room.	VO_kaya.kaya_sys_0030
+009	Don't complain. You want to find the lost truth, don't you? Will this take us to Envylia?	VO_zain.zain_sys_0012
+010	Yes. First, we must verify whether what is depicted on that mural is the truth or not.	VO_kaya.kaya_sys_0006
+011	Speaking of Envylia, the 2nd Regiment should be heading out to battle with the Shadow Messiah survivors about now.	VO_zain.zain_sys_0029
+012	That's true... Come to think of it, didn't we receive some requests from Envylia? The Philosopher's Stone was used, and there was the matter of the Holy Guard...
+013	Argh! They keep toying with us from the shadows! Come out and fight us like men, fair and square!	VO_monzein.monzein_battle_0019
+014	Vice-Captain, we ought to retreat for now. It's inefficient to continue fighting like this.	VO_caida.caida_sys_1016
+015	What do you know, newcomer?! Turning your back on cowards who skulk in the shadows... And you call yourself a member of the 2nd Regiment?!	VO_monzein.monzein_sys_0013
+016	What's more, our opponent is the Shadow Messiah! It's entirely possible that they will come for us the instant we turn our backs!
+017	As Lady Kaya isn't present, I am the one responsible for the 2nd Regiment... So just be quiet and do as I say, newcomer!
+018	If Lady Kaya were here, she would take much more effective measures against them. How can you not have learned more from her after fighting at her side for so long? Did you learn nothing?	VO_caida.caida_sys_0022
+019	Your only specialty is reckless behavior. It seems that I will have to make up for that somehow.
+020	You little...! Wraaaaaaaagh!!!	VO_monzein.monzein_battle_0001
+021	Aaaaargh! N-no way...	VO_thiefm.thiefm_battle_0027
+022	Y-you took down the entire tree?!	VO_caida.caida_sys_1025
+023	Cowards who lurk in the shadows could never best the 2nd Regiment! I will fight them openly, head-on, and win! That is my way!	VO_monzein.monzein_sys_0010
+024	I know that even these rebels have their own sense of justice.
+025	However, so long as it stands in opposition to the justice of Babel, I cannot let it go unpunished!
+026	There must be a limit to how inefficient you can be.	VO_caida.caida_sys_0030
+027	That's good, Monzein. Keep that fire within you. Use it to boost morale of the Holy Guard.	VO_kaya.kaya_sys_0044
+028	Wha—? Kaya! What are you talking about?! You're the Captain of the 2nd Regiment!	VO_monzein.monzein_sys_0027
+029	You can't abandon your duty like this! It sets a poor example for the recruits!
+030	That fire... I've never had it. It enriches your life, doesn't it? It's a very good thing.	VO_kaya.kaya_chara_1003
+031	Yes. Monzein...the day that you will succeed me as Captain is closer than you think.	VO_kaya.kaya_sys_0007
+032	Lady Kaya!	VO_monzein.monzein_sys_0029
+033	Um, Lady Kaya? And...Lord Zain? What are you doing here?
+034	It's part of my duty as Lord Commander. I'm embarking on a very important... Important...	VO_zain.zain_chara_0009
+035	Research mission. We are on our way to Envylia.	VO_kaya.kaya_sys_0006
+036	I didn't think we would run into the 2nd Regiment. But I see that you are doing well without me.	VO_kaya.kaya_sys_0008
+037	However, these methods are...inefficient. Without you, Lady Kaya—	VO_caida.caida_sys_0030
+038	Wait. What's this? I sense a sinister presence on the wind.	VO_caida.caida_sys_0027
+039	Well, well. You noticed. I think you and Monzein will make a good pair, Seida.	VO_kaya.kaya_sys_0005
+040	What? What are you talking about?	VO_monzein.monzein_sys_0026
+041	We're surrounded! Prepare yourselves!	VO_caida.caida_sys_1016
+042	What?!	VO_monzein.monzein_sys_0027
+043	Kaya, we should help them.	VO_zain.zain_sys_0012
+044	No... We're going to watch.	VO_kaya.kaya_sys_0039
+045	What?!	VO_zain.zain_chara_0011
+046	This is nothing. You can handle it, right, Monzein?	VO_kaya.kaya_sys_0001
+047	Of course! Lady Kaya, Lord Zain...! Please, stand back and watch!	VO_monzein.monzein_sys_0004
+048	We are the ones under attack! We are the ones who must fight!	VO_monzein.monzein_sys_0010
+049	Now I can finally fight you fair and square. My name is Monzein, Vice-Captain of the Holy Guard.
+050	We must not embarrass ourselves in front of the Captain and the Lord Commander. Now...into formation... Charge!	VO_monzein.monzein_battle_0030

@@ -1,0 +1,105 @@
+﻿001	I was always alone.
+002	She was the one who saved me...
+003	My only friend.
+004	I will save her.
+005	No matter what...
+006	I want her to smile.
+007	For that to happen... I need the power to save her...
+008	Here and now...
+009	Nngh.	VO_tlitor.tlitor_sys_0004
+010	Where...am I?
+011	Oh, good. It looks like it was successful.	VO_lakinna.lakinna_sys_0009
+012	Who are you?
+013	I'm Lakina.	VO_lakinna.lakinna_chara_1001
+014	I'm the one who called you here.	VO_lakinna.lakinna_sys_0050
+015	Called me here? What do you mean? What is this place?	VO_tlitor.tlitor_sys_0025
+016	I'm the one who called you, but I can't imagine what great twist of fate may have brought you here.	VO_lakinna.lakinna_sys_0031
+017	Anyway, what's your name?	VO_lakinna.lakinna_sys_0001
+018	My name is Toritoh. Introducing myself properly is difficult, however...	VO_tlitor.tlitor_sys_0003
+019	The Holy Order called me General.
+020	Oh! You're from the Holy Order?! So that's how you ended up here. This should be easier to explain, then.	VO_lakinna.lakinna_sys_0009
+021	This is the world inside the Sacred Stone Lucifer.	VO_lakinna.lakinna_sys_0002
+022	There is something I have to do no matter what, so I want you to help me.	VO_lakinna.lakinna_sys_0041
+023	W-wait just a moment! A world...? Inside of Lucifer?! What is the meaning of this?!	VO_tlitor.tlitor_sys_0026
+024	To put it simply, this is the world between life and death. All things that die pass through the world that Lucifer created.	VO_lakinna.lakinna_sys_0039
+025	They get filtered here, so to speak.
+026	Well...I am dead, I know that much, but your explanation really doesn't clear up much.	VO_tlitor.tlitor_sys_0031
+027	First of all, why do you know so much about Lucifer?	VO_tlitor.tlitor_sys_0001
+028	A single Sacred Stone can shake a country to its core... Why do you know so much about these stones when even I don't?
+029	Because I'm the Captain of the 7th Regiment of the Holy Guard.	VO_lakinna.lakinna_sys_0002
+030	You're a member of the Holy Guard?! And a captain, at that?!	VO_tlitor.tlitor_sys_0025
+031	I've never heard of the 7th Regiment, though.
+032	That's not a surprise. It's one of the Holy Guard's... No, the world's...great secrets.	VO_lakinna.lakinna_sys_0005
+033	I'll tell you about it, about the group I belong to...
+034	The regiment of one.
+035	Lord Zain, where are we? What is this strong Alchemia I feel?	VO_lakinna.lakinna_sys_0001
+036	...
+037	Is something wrong?
+038	Lakina... I beg your forgiveness, but there is a responsibility that I must entrust to you, even at this young age.	VO_zain.zain_battle_0018
+039	Here and now, I appoint you as Captain of the Holy Guard's 7th Regiment.
+040	The 7th Regiment?	VO_lakinna.lakinna_sys_0025
+041	Only the Lord Commander and the council's Most Reverend Bishop know of its existence. Here...look at this.
+042	Wait, is this...?	VO_lakinna.lakinna_sys_0020
+043	Yes. It's the Sacred Stone Lucifer.
+044	The 7th Regiment was founded to keep its power under control, with this stone being handed down over the years to the next captain of the regiment.
+045	To sacrifice their whole being for the sake of holding back the power of "Pride" and protecting the world order, that is the job of the Captain of the 7th Regiment.
+046	To protect the world order?	VO_lakinna.lakinna_sys_0025
+047	Spawned from the seclusion of this Sacred Stone is the sin of Pride...	VO_zain.zain_sys_0016
+048	Lucifer sorts the souls of those that have passed, you see.
+049	In the world born of Lucifer—the world between life and death—souls who succumb to the stone's influence will meet their doom.	VO_zain.zain_sys_0029
+050	The strong souls who don't give into this power gain the right to become phantoms.
+051	You can't be serious... But...power like that—!	VO_lakinna.lakinna_sys_0027
+052	To keep those souls it deems worthy bound to this world...such is the power of "Pride."	VO_zain.zain_sys_0030
+053	Among the powers of the Sacred Stones that are already known, this power stands apart, and we, as members of the Holy Order, have a responsibility to protect the world from it.
+054	No one knows what kind of chaos the Sacred Stones might bring if it becomes publicly known how directly they relate to alchemy.	VO_zain.zain_sys_0016
+055	Seven countries on the Continent of Babel and each country has a Sacred Stone...
+056	That's right. That's why the Holy Guard is stationed in all seven countries.
+057	I see... That's why the headquarters of the Holy Guard and the Holy Order are in Northern Pride, where Lucifer is.
+058	It's helpful that you catch on so quickly, Lakina.	VO_zain.zain_sys_0010
+059	I get the gist of it, but how do we keep Lucifer under control?
+060	Those who are close to death are forcefully pulled into the world of Lucifer—physical body and all—by the power of Pride.	VO_zain.zain_sys_0029
+061	That's the terrifying thing about Lucifer... If it's overlooked, what do you think will happen?
+062	Lives that could otherwise certainly be saved would be lost. Lives that should still continue on would be extinguished.	VO_lakinna.lakinna_sys_0039
+063	That's right. That's why those who are adept in alchemy are assigned to Lucifer.	VO_zain.zain_sys_0020
+064	They regularly pour their Alchemia into the stone to keep Lucifer's focus on them. You could almost call them managers.
+065	They keep Lucifer's Pride under control, and to the best of their abilities, keep the unnecessary deaths to a minimum.
+066	Which protects the world order...	VO_lakinna.lakinna_sys_0029
+067	And that's why my life...will be spent here.
+068	If you agree, of course.
+069	I think this may just be the workings of fate.	VO_lakinna.lakinna_sys_0050
+070	Lord Zain, I would be honored to take on the captaincy of the 7th Regiment!	VO_lakinna.lakinna_sys_0041
+071	Then, I was summoned as a phantom?	VO_tlitor.tlitor_sys_0030
+072	Yes. I wasn't sure whether I'd be able to summon you here or not, but it seems you have a stronger soul than most.	VO_lakinna.lakinna_sys_0037
+073	I would expect nothing less of someone referred to as General among members of the Holy Order. Perhaps this is also fate.	VO_lakinna.lakinna_sys_0050
+074	Is that really the truth, though? You took on this self sacrificing mission all alone?	VO_tlitor.tlitor_sys_0031
+075	Yes. In a comparison between my life and the world order...	VO_lakinna.lakinna_sys_0005
+076	It is obvious which is more important, is it not? I knew it had to be fate.	VO_lakinna.lakinna_sys_0007
+077	That may be the case, but I can't agree!	VO_tlitor.tlitor_battle_0022
+078	Huh?	VO_lakinna.lakinna_sys_0025
+079	Lives are not something that should be left to fate!	VO_tlitor.tlitor_sys_0014
+080	You can't just let yourself become a victim! You can't allow yourself to be someone else's scapegoat!
+081	Don't try and wrap everything up with a nice little bow by calling it fate!	VO_tlitor.tlitor_sys_0015
+082	Toritoh...?
+083	Someone in my past fought tooth and nail to teach me to reject that kind of mentality...so I refuse to believe that everything is determined by fate!
+084	I don't know for sure if I'm one to talk...but I still won't simply sit back and let someone live that way.	VO_tlitor.tlitor_sys_0016
+085	...
+086	I see.
+087	I won't ask the details of your circumstances, but I do thank you for getting upset on my behalf.
+088	I feel I can trust you, so please, lend me your strength.	VO_lakinna.lakinna_sys_0001
+089	Before that, tell me something: You're the manager of this stone's power, correct? Why are you in here yourself, then?	VO_tlitor.tlitor_sys_0001
+090	If this is the world between life and death, does that mean you've died as well?	VO_tlitor.tlitor_sys_0016
+091	Well, not exactly, but...it's hard to explain.	VO_lakinna.lakinna_sys_0039
+092	Of course, since you're lending me your strength, it would be best if I explain everything to you in full.	VO_lakinna.lakinna_chara_1003
+093	Hm... All right. Where should we start?	VO_lakinna.lakinna_sys_0031
+094	Hn...!	VO_lakinna.lakinna_sys_0042
+095	Phew...
+096	(Doing this every day, alone... Going toe to toe with Lucifer...)	VO_lakinna.lakinna_sys_0030
+097	(To face the power of Pride that could consume me if I let my guard down...)
+098	(I cannot let that power grow out of control. That much is certain, but...)	VO_lakinna.lakinna_sys_0031
+099	(It's a bit lonely.)	VO_lakinna.lakinna_sys_0018
+100	Thank you. You can just set the daily necessities down over there, as always.	VO_lakinna.lakinna_sys_0033
+101	Sorry, but I'm not your average Holy Order pleb.	VO_basini.basini_sys_0030
+102	What? Who...?	VO_lakinna.lakinna_sys_0025
+103	Who are you?! How do you know about this place?!	VO_lakinna.lakinna_sys_0029
+104	There's no need for names because this is where you die.	VO_basini.basini_battle_0010
+105	What?!

@@ -1,0 +1,133 @@
+﻿001	The wolf is coming. The wolf is coming. The wolf is coming.
+002	No...! The house is on fire! This is a joke, isn't it? This has to be a dream!	VO_stknightf.stknightf_sys_0028
+003	Everyone, wake up! Take the women and children to the village mayor's house!	VO_knightm.knightm_battle_0019
+004	... ...
+005	Mr. Soldier, please help! My mom has a fever and she can't move...	VO_knightf.knightf_sys_0019
+006	...Huh?	VO_knightf.knightf_sys_0025
+007	Burn everything! Leave no traces behind!	VO_thiefm.thiefm_battle_0002
+008	We are a wolf pack. Our shapeless terror will demonstrate our value!
+009	The wolf came, he saw, he killed.
+010	Oh... When will I be free of this dream?
+011	Freed! It's been a while.	VO_neville.neville_sys_0001
+012	Well well, General Neville the Ice Snake. What would you like with your humble librarian?	VO_freed.freed_sys_0009
+013	Come now. That's no way to speak to an old classmate.	VO_neville.neville_sys_0030
+014	My apologies for the irony. So what did you want with me? I'm surprised you stopped by.	VO_freed.freed_sys_0035
+015	Well, I'd love to reminisce about old times, however...	VO_neville.neville_sys_0007
+016	Has something troublesome occurred? It's always these things when it comes to you.	VO_freed.freed_sys_0044
+017	Don't say that. Neither Caesar nor Vlad cared to inquire about these occurrences.	VO_neville.neville_sys_0030
+018	Furthermore, my subordinates lack any influence when it comes to the nobility.
+019	So you want me to wield my father's authority? I'm worried this will eventually be the death of me.	VO_freed.freed_sys_0010
+020	Resources from the border village of Envylia that were meant for the Stones has been halted.
+021	For how long?	VO_freed.freed_sys_0007
+022	These past few months.	VO_neville.neville_sys_0004
+023	Of course, it's just one of many facilities. The halt of supplies in and of itself won't cause too many problems. However...
+024	Something sounds fishy. Are there any signs of one of the houses having made a move?	VO_freed.freed_sys_0045
+025	There are no noticeable movements from within the Capital. At least nothing has occurred on the surface.	VO_neville.neville_sys_0031
+026	That's troublesome. Wasn't that an orphanage?	VO_freed.freed_sys_0016
+027	They were receiving sufficient aid, and our demands were within a humanitarian range. If there is a problem, it must be some form of fraud...	VO_freed.freed_sys_0031
+028	Or perhaps the Holy Guard have caught wind of our research. Either way, we must hurry to confirm this.
+029	No need to rush things. Shouldn't we take a more measured approach?	VO_freed.freed_sys_0007
+030	Many of my subordinates were originally orphans. I want to avoid any problems spreading from there.	VO_neville.neville_sys_0018
+031	Do you think it will result in war?	VO_freed.freed_sys_0002
+032	At this rate, it may be inevitable.	VO_neville.neville_sys_0004
+033	Very well. It might be worth being useful to our country from time to time. I'll prepare for an inspection.	VO_freed.freed_sys_0030
+034	Much appreciated. Oh, also...	VO_neville.neville_sys_0041
+035	I'll pass this on to you.
+036	This...	VO_freed.freed_sys_0025
+037	It's a prototype for a Stone. After one use it will crumble, but it should help make your Alchemy stronger.	VO_neville.neville_sys_0005
+038	Are you sure you want to hand such a precious thing to me?	VO_freed.freed_sys_0007
+039	I've determined that you'll need it. Let it be a reminder of how important this mission is.	VO_neville.neville_sys_0004
+040	Of course. If you can avoid using it, there's no harm in that.
+041	Why does war always make people rush through life?	VO_freed.freed_sys_0030
+042	Both time and history will eventually pass, we silently allow ourselves to drown in oceans of books.
+043	Oh, this world truly is a stifling place.	VO_freed.freed_sys_0016
+044	Ah, welcome! You must be tired from your long journey. I've prepared a room!	VO_knightm.knightm_sys_0007
+045	No, I am stationed outside the village. Thank you for your concern.
+046	Is that so? I thought you were here for the Stone's ingredients...	VO_knightm.knightm_sys_0044
+047	Director.	VO_freed.freed_sys_0049
+048	A-ah, apologies! However, if not for that then why on earth...?	VO_knightm.knightm_sys_0003
+049	Like I said, I am here just to inspect. There is no need for you to cater to my requests.	VO_freed.freed_sys_0016
+050	Oh, that being said, how are the children?	VO_freed.freed_sys_0004
+051	All of them are fine, although a majority of them have suffered from the loss of their parents or siblings in the war.	VO_knightm.knightm_sys_0007
+052	However, thanks to His Majesty's generous support, they have been able to spend their days with smiles on their faces.
+053	Any effect from the blood collecting?	VO_freed.freed_sys_0006
+054	As per our instructions, we have been securing a small bottle's worth every month only from the children with high levels of Alchemia.
+055	Oh...last month, one of the elder children came down with a cold, so the amount we sent was less than usual.
+056	I see. Last month, huh?	VO_freed.freed_sys_0045
+057	(According to Neville though, there's been a halt over the past few months. Well, well...)
+058	I'll request for His Majesty's continued support, so please rest assured.	VO_freed.freed_sys_0033
+059	Indeed! Thank you!
+060	Well then, I'll return to my station.	VO_freed.freed_sys_0004
+061	Ah. I'll take you to the gate.
+062	...Ah.
+063	Oops. Are you okay?	VO_freed.freed_sys_0007
+064	Yes, Mr. Soldier.
+065	Hey, Blanchett, you're not with the others?
+066	The other children said they saw a rabbit in the forest, and they went running off.	VO_blanchett.blanchett_sys_0018
+067	They left the hospital without permission...	VO_knightm.knightm_sys_0030
+068	I'll stay in my room.
+069	Very well. I'm sorry to have left the children in your care. Please rest.	VO_knightm.knightm_sys_0004
+070	Who was that child?	VO_freed.freed_sys_0002
+071	Her? She recently came to this orphanage. A few months ago her village was burned down.
+072	Burned down?	VO_freed.freed_sys_0025
+073	Apparently, they were attacked by bandits. The landlord looked into the matter, but could not make clear of what had occurred.	VO_knightm.knightm_sys_0031
+074	...
+075	This applies to all the children of this orphanage...but it is tragic that they've all lost something at such a young age.	VO_knightm.knightm_sys_0030
+076	A halt of supplies over the past few months.
+077	A decline in supplies for last month.
+078	A few months ago, someone burned down a village.
+079	The landlord, huh?	VO_freed.freed_sys_0044
+080	Well hello, handsome. Is this seat taken?	VO_vanekis.vanekis_sys_0007
+081	Neville told me about you. Apparently, you're a resourceful informant.	VO_freed.freed_sys_0003
+082	Can you at least try to play along a little more?	VO_vanekis.vanekis_sys_0016
+083	I've taken care of this place myself, so there's no need for unnecessary measures.	VO_freed.freed_sys_0010
+084	You don't really seem to understand how adults socialize.	VO_vanekis.vanekis_sys_0030
+085	So what did you want to ask?
+086	I'm still in the preliminary stage of my investigation. I'd like to know everything I can about this village, but...	VO_freed.freed_sys_0031
+087	To begin with, what kind of person is the landlord?	VO_freed.freed_sys_0002
+088	Oh, well you're a clever one. The administrator of the National Library appointed without having accomplished much...
+089	I thought you'd just be leeching onto your father's name, but it seems like you might actually make for stimulating conversation.
+090	So do you have any information?	VO_freed.freed_sys_0007
+091	I have quite the story, actually. It's just a rumor but a highly credible one.	VO_vanekis.vanekis_sys_0038
+092	...So?	VO_freed.freed_sys_0006
+093	The landlord here...
+094	Oh, good! There you are!	VO_knightm.knightm_sys_0018
+095	Director?	VO_freed.freed_sys_0025
+096	The villagers said they saw a wolf in the woods. Apparently, someone has been attacked as well!	VO_knightm.knightm_sys_0019
+097	The children have gone into the forest and haven't returned yet! Please!
+098	First, calm down. Do you know where the children are?	VO_freed.freed_sys_0027
+099	Most likely, they went to pick wild vegetables...there's a spot that the village hunter often teaches them.	VO_knightm.knightm_battle_0019
+100	First, let's go there and look. I'm sorry Vanekis, but we'll have to continue this conversation later...
+101	Yes. When you return.	VO_vanekis.vanekis_sys_0006
+102	Well then, Director. Can you please lead the way?	VO_freed.freed_sys_0004
+103	Y-yes!
+104	Oh, found a mushroom!
+105	Hey! That's a poison mushroom, you know? The color is weird.
+106	True. But maybe it's okay?
+107	No, it's not! Look, let's eat the wild vegetables we were taught about.
+108	Really? But they're so bitter!
+109	...Hey.	VO_blanchett.blanchett_chara_2001
+110	Oh! Blanc! Were you here too?
+111	The sun is setting. The director is worried so how about we go home?
+112	Hey, Blanchett! You're new here! Don't act so bossy just because you're older than us!
+113	No, I'm not trying to...	VO_blanchett.blanchett_sys_0018
+114	Just a little bit longer! Remember what the teacher said?
+115	This year, the taxes are really high, so we've hardly been able to store any wheat.
+116	But we can come again tomorrow...huh!	VO_blanchett.blanchett_sys_0018
+117	Blanc? What's the matter?
+118	...It's coming.	VO_blanchett.blanchett_chara_1006
+119	Huh? What's coming...?
+120	Ahhhh?! A wolf!
+121	Eeek?! N-no, don't come!
+122	Ah...aaaah! Ha...aahahah!	VO_blanchett.blanchett_sys_0008
+123	Honestly! How annoying!	VO_blanchett.blanchett_sys_0011
+124	Blanchett...?
+125	Oh, but I might as well extend my hospitality! Right?!
+126	I'll chop you into small pieces!!! Come on! Who's inside your stomach?!	VO_blanchett.blanchett_battle_0014
+127	Wh-what are you doing?! Hurry, we need to run...!
+128	What's that?! You're in the way so back off! I'm completely annoyed by the stink of these beasts!	VO_blanchett.blanchett_sys_0012
+129	Groooowwl!!!
+130	Ahahaha! There's more! And more! I'll tear you all to pieces!!!	VO_blanchett.blanchett_sys_0008
+131	Blanchett!	VO_freed.freed_sys_0027
+132	(The Philosopher's Stone is responding to her Alchemia?)	VO_freed.freed_sys_0026
+133	No, now isn't the time to think. Please stand back, Director. We'll take care of this.	VO_freed.freed_battle_0023

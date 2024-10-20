@@ -1,0 +1,82 @@
+﻿001	Chaaarge!	VO_shayna.shayna_battle_0008
+002	You're not harmed are you?	VO_chihaya.chihaya_sys_0003
+003	I'm fine. Thank you for saving me.
+004	So these are the bandits. I can't believe they would attack here.	VO_chihaya.chihaya_sys_0020
+005	Look, Chihaya! The map they were carrying has some sort of marks all over it.	VO_shayna.shayna_sys_0001
+006	Those marks... Those are the places they've appeared so far.	VO_chihaya.chihaya_sys_0031
+007	You're right. Is this some sort of attack plan? The spots are all over, but none are near the fair.	VO_shayna.shayna_sys_0045
+008	Oh? What's this cave?	VO_shayna.shayna_sys_0031
+009	Hm... It seems central to all the scattered marks.
+010	If we go there, I'm sure we'll learn something useful.	VO_chihaya.chihaya_sys_0004
+011	But what could be the intent behind attacking all these various places?
+012	You think they could be trying to confuse and thin out security? But to what end?	VO_shayna.shayna_sys_0022
+013	They're likely after the special wedding knives.
+014	!
+015	You think that's what they're after?	VO_shayna.shayna_sys_0012
+016	Yes. The Felici ore wedding knives have been targeted before.
+017	Felici ore is rare enough on its own, and the knives I make from it often fetch a high price.
+018	Those at the fair are of the highest quality, so it makes sense that's what they'd be after.
+019	I can't believe something made to bring happiness to others is the cause of all this chaos.	VO_chihaya.chihaya_sys_0022
+020	Well, we shouldn't waste time here. I'll go warn the people at the fair to tighten up security.
+021	I was intending to make my way there now to watch the cake cutting performance.
+022	That'd be very helpful, but...are you sure it's safe to go on your own?	VO_chihaya.chihaya_sys_0020
+023	I'll be fine. I'm not carrying any Felici ore with me, so they won't attack me.
+024	The bandits hideout is likely in that cave. Please, be careful.
+025	Hm... Could that be--?	VO_shayna.shayna_sys_0006
+026	Hey! Chihaya look at this framed picture. Isn't it adorable?	VO_shayna.shayna_sys_0009
+027	It looks like a wedding drawn by a child. Everybody has marvelous smiles!
+028	Um, Shayna... This isn't our studio to just be looking at--	VO_chihaya.chihaya_sys_0030
+029	Oh...
+030	It must be a child's drawing of a wedding they attended. It seems like it really left an impression.	VO_shayna.shayna_sys_0023
+031	Hey! There are a number of letters pinned to this corkboard over here.
+032	Someone wrote how the wedding knife made their ceremony any even more wonderful memory.
+033	I wonder... Could this picture and these letters all be from people who were at a wedding where one of the knives was used?	VO_chihaya.chihaya_sys_0045
+034	Seems that way. It's pretty impressive! Imagine all these people feeling compelled to express their gratitude in letters.	VO_shayna.shayna_sys_0007
+035	All these heartfelt letters of thanks really warm the spirit when you read them.
+036	Everyone seems so grateful to have had such exceptional marriage ceremonies.
+037	Seems so...	VO_chihaya.chihaya_sys_0005
+038	I can understand why the studio owner works so hard to craft those special knives.	VO_shayna.shayna_sys_0045
+039	Huh?	VO_chihaya.chihaya_sys_0006
+040	I've received a number of fan letters myself, and they never fail to make me happy.	VO_shayna.shayna_sys_0004
+041	It's because the feelings of those who see and support me are coming directly to me.
+042	Receiving letters such as these, you'd naturally be driven to work hard.	VO_shayna.shayna_sys_0008
+043	...
+044	Let's go, Chihaya! We must be quick in finding the bandits' hideout!	VO_shayna.shayna_sys_0001
+045	Yes, you're right.	VO_chihaya.chihaya_sys_0004
+046	Those letters were really lovely though, weren't they? They were so filled with joy!	VO_shayna.shayna_sys_0007
+047	Yes, the people that wrote them conveyed a deep gratitude and happiness.	VO_chihaya.chihaya_sys_0005
+048	In them, I finally understood why everyone is so passionate about the bridal fair.
+049	A wedding is a celebration of life as two people who deeply love each other come together.	VO_chihaya.chihaya_sys_0047
+050	(It's a happy embarkation different from the occasion where I saw the heart of the bride ignored.)
+051	That's why everyone wants to congratulate the couple. And why the fair staff and artisans are so dedicated.
+052	That crafter was pretty impressive. Already making the finest items, but uncompromising in trying to improve for others.	VO_shayna.shayna_sys_0004
+053	Well, I won't be outdone! I'll just have to work harder to please my fans!
+054	I'll need to be stronger and prettier... I'll have to fight in an even more appealing way! But to do that... Hmm...
+055	U-Um... Shayna?	VO_chihaya.chihaya_sys_0002
+056	I just had a great idea!
+057	I need you to do something for me! When our duty is fulfilled, teach me to dance!	VO_shayna.shayna_sys_0001
+058	Y-You want me to teach you?	VO_chihaya.chihaya_sys_0025
+059	Yes! I've thought about this a while, and your dancing has a hidden loveliness I lack.	VO_shayna.shayna_chara_1001
+060	Whenever you perform, it's so graceful, and I'm captivated all over again.
+061	Oh... I-I see.	VO_chihaya.chihaya_sys_0006
+062	If I add your dance skills to my movements, I'll be even more elegant.	VO_shayna.shayna_sys_0004
+063	Then the fans who watch me fight will be even happier! So please, teach me to dance!
+064	Rather, teach me the secret of your hidden cuteness!
+065	Well, if it's to make people happier, I suppose I could...	VO_chihaya.chihaya_sys_0003
+066	Heh, you really do think of your fans' feelings.	VO_chihaya.chihaya_sys_0007
+067	But I don't know that there is a secret to it. It all comes from daily practice.
+068	*Grumble* So what you're saying is that daily training is what matters just like with combat. Is that right?	VO_shayna.shayna_sys_0045
+069	Aside from that... Well... Whenever I perform I want those who see me to feel happy.	VO_chihaya.chihaya_sys_0031
+070	When someone sees me dance, I want to put joy into their heart, even if only a little.
+071	That makes perfect sense! You do your best for the fans, which is why your dancing is so cute!	VO_shayna.shayna_sys_0044
+072	Fans?
+073	(Oh...)
+074	I love watching Chihaya dance. She has such a kind face and is so beautiful when she does.	VO_mizuchi.mizuchi_sys_0008
+075	You can really tell she wants everyone to be happy, and when I see that it touches me.
+076	(Mizuchi...)
+077	I did notice how everyone who watched me wore glad and warm expressions.	VO_chihaya.chihaya_sys_0005
+078	It was like they were telling me they knew I wanted them to be happy.
+079	So your dancing really did bring those people cheer.	VO_shayna.shayna_sys_0007
+080	I guess so...	VO_chihaya.chihaya_sys_0037
+081	(I can't say everything I did was proper for Wadatsumi, but still...)
+082	There were those who understood the important emotions I poured into my dance.

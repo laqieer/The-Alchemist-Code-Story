@@ -1,0 +1,101 @@
+﻿001	Today's outdoor recreation activity will be a group practice with teams of three. Please take a look at today's schedule as a group.	VO_mob_female.mob_female_sys_0005
+002	(I just got into this school and it's already a pain... Ugh, group projects.)	VO_alma.alma_sys_0029
+003	This practice will give me a chance to show off my magic!
+004	Me too!
+005	(Seems like the others are weirdly into it. They're way too fired up.)	VO_alma.alma_sys_0031
+006	(Excited to get to know each other, I guess. Or, more likely, desperate for other people to know them.)
+007	(I guess all witches are like that. All the witches I've seen so far have been like that.)	VO_alma.alma_sys_0030
+008	(It's boring how they all think the same. Well, I shouldn't point fingers... I'm cut from the same cloth since I'm here, too.)
+009	(Ugh. Can't something interesting happen for once?)	VO_alma.alma_sys_0022
+010	Hey, you're Alma...right?	VO_lizbeth.lizbeth_sys_0001
+011	Yeah?	VO_alma.alma_sys_0006
+012	This is the first time we've properly talked, right? I'm Lisbeth! We're in the same group together!
+013	Oh... Is that so?
+014	Yup! Let's do our best!	VO_lizbeth.lizbeth_sys_0004
+015	Hmmm. Sure, Lisbeth.	VO_alma.alma_chara_1004
+016	Today's assignment is for each group to make a magic stew with different effects.
+017	Your evaluation will be based on your group's teamwork and ability to reproduce the recipe. Also...you are not to use magic at all!	VO_mob_female.mob_female_sys_0004
+018	What! Why?!
+019	But I thought I'd be able to show off my magic!
+020	Silence!	VO_mob_female.mob_female_sys_0014
+021	This practice is to test whether you've absorbed the knowledge about magic ingredients you should have learned up to this point.
+022	No magic may be used, whether for cooking or gathering materials or anything else.
+023	I will be watching and grading you all from a different location. Make sure to cooperate well with the other members in your group.	VO_mob_female.mob_female_sys_0030
+024	Now then, please start your practice.
+025	Huh. Well, this is new, I guess.	VO_alma.alma_sys_0031
+026	Our team's assignment is "a recipe that can heal someone in any physical condition"!
+027	Don't you wish they would just teach us magic normally instead of making us do something weird like this?	VO_jogakusei.jogakusei_sys_0016
+028	Really? I think it'll be interesting.	VO_lizbeth.lizbeth_sys_0005
+029	Magic is still hard for me, but I have made stew with my mom before.
+030	Besides, even witches should be able to make a good meal. So let's give it our all!	VO_lizbeth.lizbeth_sys_0007
+031	Sigh... But it's more important for elite witches to be able to do magic than cook.	VO_jogakusei.jogakusei_sys_0030
+032	What? Why? Even witches have to eat. Plus, making food yourself is fun!	VO_lizbeth.lizbeth_sys_0025
+033	Huh?
+034	Ahaha! Sure! I guess first up is making something we can eat, then.	VO_alma.alma_sys_0008
+035	(I haven't talked to Lisbeth that much before, but she seems kinda interesting.)
+036	(...No, all witches are the same in the end.)	VO_alma.alma_chara_1010
+037	(They kick each other down and steal people's lovers... They all only think of themselves. They're all selfish, narrow-minded people.)
+038	(It's clear as day to me. I've seen them do the same thing over and over, and I'm going to use that to my advantage.)	VO_alma.alma_sys_0030
+039	(I've sold so much information about them in order for me to live on my own. Witch scandals are especially profitable.)
+040	(But I lose hope every time I get my hands on new information about witches only focused on their ambitions, witches with loose lips... They're all the same. All of them.)
+041	Alma?	VO_lizbeth.lizbeth_sys_0001
+042	Hmm?
+043	What's wrong? Are you not feeling well?
+044	No, I'm fine. I just spaced out for a second.	VO_alma.alma_sys_0004
+045	Looks like the stew needs to simmer for a bit longer. And we're almost out of firewood.	VO_alma.alma_sys_0031
+046	Lisbeth's still not back yet. Just how far did she go to get firewood? I guess I should go check on her.
+047	I'm sure she's fine. She's bad at magic, so she goes above and beyond to do things like this so she can get more points. She's just faking it. Don't you think so, too?	VO_jogakusei.jogakusei_sys_0010
+048	Maybe.	VO_alma.alma_sys_0006
+049	That's why she talks to guys so easily and talks about insects like they're human or whatever. She doesn't have the self-awareness necessary to become a noble witch.
+050	You, on the other hand, are very promising, Alma. You're athletic, calm, collected, and can fade into the background, in a good way.	VO_jogakusei.jogakusei_sys_0001
+051	You have a lot to say with Lisbeth gone... So what's your point?	VO_alma.alma_sys_0001
+052	In short, I think you could become an elite of the elite of witches! We should work together!	VO_jogakusei.jogakusei_sys_0004
+053	We'll swap out the other groups' herbs with this and take everyone else out. How about it?
+054	Is this what you used in that other class a little while ago? The stuff that made your stomach hurt when you ate it?	VO_alma.alma_sys_0002
+055	Sigh... I was wondering what you were going to suggest. I don't do things that seem like a hassle.	VO_alma.alma_sys_0029
+056	But if you get good grades, your tuition will be waived.	VO_jogakusei.jogakusei_sys_0006
+057	Your family's poor... I mean, I heard money is tight for you, so...
+058	Oh, there's rumors going around about me?	VO_alma.alma_sys_0045
+059	I would love to hear where you heard that from...but right now we have to finish up this stew.
+060	So I'm going to go gather firewood after all.
+061	(Sigh... I feel sick. Nothing good comes from working in groups.)	VO_alma.alma_sys_0030
+062	(Toxic herbs, stupid gossip, cheap tricks... She wants to become an 'elite' that badly?)
+063	(She may still be a student, but she's definitely got alllll the terrible parts of witches down pat.)	VO_alma.alma_sys_0022
+064	Witches all only think about themselves. They're the worst.
+065	(But I guess since I'm selling other people's information to survive, I'm just like them, huh.)	VO_alma.alma_sys_0011
+066	Oh? Is that you, Alma?! What are you doing here?	VO_lizbeth.lizbeth_chara_1008
+067	Well, I thought it would be difficult to carry firewood by yourself, so I... Huh?
+068	Oh, thank you, Alma! And look at this!	VO_lizbeth.lizbeth_sys_0024
+069	Matthew helped me gather firewood! That's why there's so much.
+070	I see. Thank you.	VO_alma.alma_sys_0007
+071	No, I just...
+072	Oh. Matthew, you hurt your hand.	VO_alma.alma_sys_0006
+073	Even small wounds can fester. We have to sterilize it. Here, put this on it and it'll speed up the healing.
+074	I didn't even notice. Thank you.
+075	Alma, you're amazing! Good job noticing a small wound like that! Do you know a lot about medicinal plants?	VO_lizbeth.lizbeth_sys_0046
+076	I'm not that knowledgeable, but I guess I've got practical knowledge? I guess collecting information on a regular basis was worth something.
+077	See, you are amazing!
+078	Hehe. Plus, you're kind.	VO_lizbeth.lizbeth_sys_0007
+079	Kind? Me? Ehehe. That's the first time someone has ever called me that.	VO_alma.alma_sys_0031
+080	Really? I wonder why?	VO_lizbeth.lizbeth_sys_0025
+081	Never mind that. Let's get this firewood back quickly. Practice is almost over.	VO_alma.alma_sys_0001
+082	Oh! Right! We have to hurry—whoa!
+083	Geez. That's what you get for running with all that firewood. Honestly... You need to be more careful.
+084	(Huh? I was annoyed up until a second ago, but it's all gone away now.)	VO_alma.alma_chara_1024
+085	Huh? Lisbeth... What did you just say?	VO_jogakusei.jogakusei_sys_0025
+086	Yeah? I said that Matthew showed me a place where there's a lot of firewood.	VO_lizbeth.lizbeth_sys_0005
+087	Eeeeek! That's this wood?! I can't believe it! A man touched this firewood!	VO_jogakusei.jogakusei_sys_0043
+088	Huh?! What?! What is it?! Is something wrong?	VO_lizbeth.lizbeth_sys_0026
+089	Everything is wrong!
+090	(Sheesh, just because a man touched it. Firewood is firewood.)	VO_alma.alma_sys_0029
+091	(Although, I guess someone like Lisbeth who can be so open with everyone is rare.)
+092	Well, the fire is already lit and we already started using it, so it can't be helped. So let's just simmer the stew a little more and...	VO_alma.alma_sys_0002
+093	Aaaaah!
+094	What?! What's going on?	VO_alma.alma_sys_0025
+095	Everyone over there seems like they're panicking. What's happening?!	VO_lizbeth.lizbeth_sys_0001
+096	Everyone, run! Monsters are attacking!
+097	Monsters?!
+098	Grraaaah!
+099	Oh no!	VO_mob_female.mob_female_sys_0042
+100	This is an emergency! You are now all permitted to use magic to fight them! Everyone, vanquish the monsters nearest you!	VO_mob_female.mob_female_sys_0030
+101	We got the green light from the teacher now, which means we'd better do something. Let's go!

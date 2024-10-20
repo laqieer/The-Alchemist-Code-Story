@@ -1,0 +1,33 @@
+﻿001	Letitia!
+002	Yes, what is it?	VO_laetitia.laetitia_sys_0022
+003	Why did you bring that squirt along with us?!	VO_ila.ila_sys_0001
+004	...
+005	It would have been cruel of us to leave her behind there, don't you think?	VO_laetitia.laetitia_sys_0030
+006	So, why not just take her home?!	VO_ila.ila_sys_0012
+007	Weren't you listening? She's a war orphan as well; all the more reason for us to take her into our care. Right, Mia?	VO_laetitia.laetitia_sys_0022
+008	Y-yes...	VO_mea.mea_battle_1018
+009	Oi, squirt!	VO_ila.ila_sys_0001
+010	Huh? Y-yes?	VO_mea.mea_battle_0020
+011	You must be living with someone, right? Like your grandparents or something?	VO_ila.ila_sys_0003
+012	You've got a place to go back to, don't you?! What if we take you back, huh?
+013	But...if I went back to my grandparents', I'd only be a bother to them...	VO_mea.mea_battle_0026
+014	A home is a still a home!	VO_ila.ila_battle_0019
+015	Ila, what are you getting so mad about? She can just stay with us.	VO_syrma.syrma_sys_0003
+016	I don't care if she stays here, either! I just hate the fact that she has somewhere to go back to, but she won't!	VO_ila.ila_sys_0007
+017	...
+018	Ila, Silma, Spica...from this day forth, Mia is a part of our family.	VO_laetitia.laetitia_sys_0007
+019	I leave her in your charge. Take good care of her. Hehe.	VO_laetitia.laetitia_sys_0041
+020	...
+021	Spica, what do you think?	VO_syrma.syrma_sys_0031
+022	What? Me? I don't know...but knowing Letitia, she's probably got some scheme up her sleeve.	VO_spica.spica_sys_0006
+023	Gah. Still, I don't like this at all.	VO_ila.ila_sys_0007
+024	Letitia, I'm against letting this girl join the Shadow Messiah, as well.	VO_niggle.niggle_sys_0002
+025	Don't worry. She won't be joining us.	VO_laetitia.laetitia_sys_0022
+026	Then why—?	VO_niggle.niggle_sys_0006
+027	To protect her, for the time being.	VO_laetitia.laetitia_sys_0004
+028	If that's all, then I'll leave it be.	VO_niggle.niggle_sys_0012
+029	Lord Zahar, I will begin reviewing the research notes.	VO_laetitia.laetitia_sys_0001
+030	Good. Begin as soon as possible. The research may have other applications besides creating the Sacred Darkstone.	VO_zaharu.zaharu_sys_0004
+031	Other applications?	VO_niggle.niggle_sys_0006
+032	Oh, this is unexpected. Heh heh...	VO_zaharu.zaharu_sys_0008
+033	Breaking new ground in alchemy... A "contract with the darkness."	VO_zaharu.zaharu_sys_0010

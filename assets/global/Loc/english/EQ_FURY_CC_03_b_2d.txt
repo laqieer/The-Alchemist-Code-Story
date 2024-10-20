@@ -1,0 +1,87 @@
+﻿001	You picked the wrong target.	VO_ikasa.ikasa_sys_0010
+002	I-I was just giving you a warning! I mean, two girls traveling alone? Let down your guard and this is what you get!
+003	What does our gender have to do with it? Pretty sure you're the bad one here.
+004	Not like I profited, is it? All that luggage, and nothing but rags! What're you lugging this stuff around for? It's trash!	VO_thiefm.thiefm_battle_0019
+005	Take that back.
+006	What'd you say?	VO_thiefm.thiefm_sys_0012
+007	Take. That. Back.
+008	Why should I?! It's true, ain't it?
+009	That's her favorite kimono. Her best one.
+010	Like I care! Let me go already!	VO_thiefm.thiefm_sys_0029
+011	Y'know, I've really been looking forward to this trip.
+012	If you ruin it for me, you're going to regret it.	VO_ikasa.ikasa_sys_0015
+013	Ikasa!
+014	Hey, Button.
+015	Oh, thank goodness everything's all right!
+016	How is everything all right? Our luggage got stolen.	VO_ikasa.ikasa_sys_0029
+017	That doesn't matter!	VO_fuelie_fuelie-b.fuelie_sys_0001
+018	Huh?
+019	Look, I'll give everything back, so just let me go already!	VO_thiefm.thiefm_sys_0002
+020	Um...	VO_fuelie_fuelie-b.fuelie_sys_0001
+021	What? You got a problem with that arrangement?
+022	May we shake hands?	VO_fuelie_fuelie-b.fuelie_sys_0002
+023	Huh?	VO_thiefm.thiefm_sys_0006
+024	Button...
+025	Please. Let's shake hands.
+026	Are you nuts or something?	VO_thiefm.thiefm_sys_0003
+027	I come from Wadatsumi. In my homeland, people once lived alongside demons.
+028	I'm not here to listen to your rambling!	VO_thiefm.thiefm_sys_0030
+029	In fact, my nation was built on the relationship between people and demons. That is why I would like to make peace with you. To understand you.
+030	Hmph.
+031	Tell me. Why do you steal?	VO_fuelie_fuelie-b.fuelie_sys_0002
+032	I lost a bet at the Colosseum, and am up to my neck in debt! So my fingers just sorta...slipped. Pfft... Bwahahaha!	VO_thiefm.thiefm_sys_0010
+033	You're pathetic.	VO_ikasa.ikasa_sys_0030
+034	How about you, huh? Don't you hate me, lady?	VO_thiefm.thiefm_sys_0002
+035	I did think it was quite mean of you to do that to me...
+036	But I left emotions like hatred and anger behind a long time ago.	VO_fuelie_fuelie-b.fuelie_sys_0007
+037	Button...
+038	Well, I suppose your fate is in the hands of the law now. Guards!	VO_fuelie_fuelie-b.fuelie_sys_0041
+039	What the hell?! Are you serious?! You're turning me in? After all that? I thought you were gonna let me go!	VO_thiefm.thiefm_sys_0025
+040	You did something wrong.
+041	It is only right that you pay for your crimes. I hope you can forgive me.	VO_fuelie_fuelie-b.fuelie_sys_0010
+042	No one is happy to be cursed.	VO_fuelie_fuelie-b.fuelie_sys_0001
+043	The magic rites used by myself and the other shrine maidens of Wadatsumi impact our vision, hearing, and sense of touch.	VO_fuelie_fuelie-b.fuelie_sys_0002
+044	The greater our mastery becomes, the more our senses are affected. Our sense of pain, even our connection to reality...
+045	I believe that these powers should not be misused.
+046	That's why you'll try and reach an understanding even with criminals?	VO_ikasa.ikasa_sys_0001
+047	I merely wish to lead the people of this world to justice and peace with magic words of comfort, rather than cursed rites.
+048	I suppose you think that's awfully convenient of me.
+049	Nah. I love it.	VO_ikasa.ikasa_sys_0007
+050	Wh-what?	VO_fuelie_fuelie-b.fuelie_sys_0025
+051	I love that about you. I think it's a great way to be.
+052	Still...this dream of mine likely won't be possible without my homeland's powers, or without people like you by my side, Ikasa.	VO_fuelie_fuelie-b.fuelie_sys_0002
+053	Yet I pray that one day, we shall have peace.
+054	Peace like the calm waters of Wadatsumi. Peace that brings equality and happiness to the people. Peace so absolute that hatred is forgotten.
+055	I wanted to achieve that peace, if only for those around me to start with.
+056	Now, however... I am beginning to see that I was wrong.	VO_fuelie_fuelie-b.fuelie_sys_0016
+057	I don't think so.
+058	Prayer alone is powerless, but use force and war will never end.	VO_fuelie_fuelie-b.fuelie_sys_0030
+059	Simply uttering magic words does not alleviate hatred. Instead, its curse will bite deeper and deeper into the spirit.
+060	In the end, it appears that a ruler must have absolute control for peace and justice to be possible. At least, that is the truth I have come to see reflected in the world.
+061	However, I cannot become a ruler like that.	VO_fuelie_fuelie-b.fuelie_sys_0029
+062	That's okay, though.
+063	Even now, I fail to live up to the grace of my name.	VO_fuelie_fuelie-b.fuelie_sys_0016
+064	Excuse me, Your Majesty?	VO_ikasa.ikasa_sys_0001
+065	Huh?	VO_fuelie_fuelie-b.fuelie_sys_0004
+066	C'mon, is that any way for royalty to behave? Pretend you're the ruler of the land.
+067	Wh-what doth disturb ye? Speak! We tire of thee!
+068	Mmm... Nope. Doesn't suit you.	VO_ikasa.ikasa_sys_0030
+069	That's just what I imagine a king sounds like...	VO_fuelie_fuelie-b.fuelie_sys_0016
+070	Y'know what, Button? I think it's pretty rare for rulers to start wars.	VO_ikasa.ikasa_sys_0001
+071	Then what causes the spread of conflict?	VO_fuelie_fuelie-b.fuelie_sys_0006
+072	Lots of things. Religion, energy resources, wealth, land, weapons. Who deserves to control which power... The list goes on and on.
+073	Like I said⁠—I like your beliefs. I like that you pray for peace.
+074	I think it would be great to have a ruler who asks foreigners and criminals for handshakes as readily as they do their knights.	VO_ikasa.ikasa_sys_0005
+075	A ruler like that would be beloved by the people.	VO_ikasa.ikasa_sys_0007
+076	Ikasa...
+077	Excuse me, Your Majesty?	VO_ikasa.ikasa_sys_0001
+078	Wh-what is it? Speak thine mind!
+079	And thou shouldst bow thine head when you speak to us! And keep thine eyes in front!
+080	Huh? Which is it?	VO_ikasa.ikasa_sys_0006
+081	Hm? Oh... Can you bow your head while keeping your eyes in front? No, no, that doesn't work...	VO_fuelie_fuelie-b.fuelie_sys_0025
+082	Heh. Her Majesty isn't sure what she wants, huh? Well, I am but a lowly soldier, but if Your Majesty would allow me to offer her some advice?
+083	W-we will permit it!
+084	Just go.	VO_ikasa.ikasa_sys_0001
+085	G-go? Go where?	VO_fuelie_fuelie-b.fuelie_sys_0006
+086	To see the world.
+087	To the world's end.	VO_ikasa.ikasa_sys_0007

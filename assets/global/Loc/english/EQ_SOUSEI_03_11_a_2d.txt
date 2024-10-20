@@ -1,0 +1,41 @@
+﻿001	Why are you keeping me here?	VO_emmer.emmer_sys_0001
+002	Hmm?	VO_icona.icona_sys_0006
+003	I refused to cooperate with you.
+004	So wouldn't the obvious response be to throw me in a cell or something?
+005	Now, now. Don't be so cold. You and your friends may have allied yourselves against me, but you're still guests of my precious little brother.	VO_icona.icona_sys_0007
+006	What kind of host would I be if I just threw you in a prison cell?
+007	I just can't comprehend the way your mind works...	VO_emmer.emmer_sys_0031
+008	Oh, I wouldn't expect you to.	VO_icona.icona_sys_0004
+009	That said, I do have one reason in particular... A very good reason for giving you a front row seat.	VO_icona.icona_sys_0025
+010	And that is?	VO_emmer.emmer_sys_0025
+011	As a matter of fact, I was just telling your brother...	VO_icona.icona_sys_0005
+012	This experiment may not succeed.
+013	That is the nature of experimentation, after all! Failure is all part of the process. No matter how well one prepares, the unexpected will always take its toll.	VO_icona.icona_sys_0031
+014	But then... So what you're really saying is that you're making a sacrifice of this region!	VO_emmer.emmer_sys_0020
+015	Is it really that shocking? You've taken your share of dangerous risks during your travels, have you not?	VO_icona.icona_sys_0006
+016	I suppose you could say that, but...!
+017	Well, what it comes down to is planning fail-safes for when an experiment goes wrong. That's a part of a scientist's duties.	VO_icona.icona_sys_0004
+018	And you are one of those fail-safes.
+019	I...am?	VO_emmer.emmer_sys_0006
+020	You are the Vessel of Purification—the trump card we can play to rescue the Gula Belt Region.
+021	It stands to reason that you mean to survive, no matter the cost, and make your escape from here. Am I wrong?	VO_icona.icona_sys_0001
+022	...
+023	And yet, I wonder if you can sit patiently and watch this region meet its destruction right in front of your eyes without lifting a finger to help?	VO_icona.icona_sys_0008
+024	You... How dare you?!	VO_emmer.emmer_battle_0019
+025	Heheh. Don't make such a scary face. After all, you might not even have to do anything if this experiment succeeds.	VO_icona.icona_sys_0007
+026	...
+027	(Nimul... What should I do?)
+028	Damn! This way's a dead end, too!	VO_adlai.adlai_battle_0019
+029	The architecture in here is shifting more than I thought possible.	VO_minario.minario_sys_0013
+030	If we just keep stumbling on blindly, we'll only lose more and more time to this transforming maze.
+031	Is there no way around it?	VO_nimuru.nimuru_sys_0002
+032	If Icona's words can be trusted, then the architectural shifts are simply the result of the tower changing in preparation to execute a different function.
+033	In that case, no matter how much change the architecture undergoes, the control center at the heart of it must remain stable.
+034	Even if that's the case, we'd have to find a path that leads there.	VO_minario.minario_sys_0039
+035	There's a limit to how much the structure of this tower can change, no matter how much Icona has tampered with it. The skeleton of the structure shouldn't be any different.	VO_adlai.adlai_sys_0031
+036	I just need a little time.	VO_adlai.adlai_sys_0002
+037	Based on the route we've travelled so far and what I know of Icona's design habits, I might be able to reverse engineer the architectural patterns.
+038	Are you serious? Can you really do that?	VO_minario.minario_sys_0014
+039	I'll have to, won't I?! So pipe down and buy me some time!	VO_adlai.adlai_battle_0019
+040	All we can do is trust in Adaleigh. Are you ready for a fight, Minario?	VO_nimuru.nimuru_sys_0004
+041	Of course I am, but ugh. What a pain. Let's just get this over with.	VO_minario.minario_sys_0005

@@ -1,0 +1,34 @@
+﻿001	(We've managed to fight off the first wave. Still, the enemy's main army lies further ahead. When will they attack?)	VO_lucretia.lucretia_sys_0032
+002	(It's difficult to fight when I'm not positioned at the vanguard.)	VO_lucretia.lucretia_sys_0012
+003	There you are...	VO_gein.gein_sys_1047
+004	You again...what is the matter?	VO_lucretia.lucretia_sys_0006
+005	Well, in the battle earlier...I was stunned by the way you led your men. That being said...	VO_gein.gein_event_1001
+006	I see the confusion amongst your soldiers now. With you usually at the vanguard, they are not used to this new formation.
+007	Are you still thinking about the scolding you received from your varlet?	VO_gein.gein_sys_0020
+008	Lord Gane, why did you come all the way here?	VO_lucretia.lucretia_sys_0001
+009	You are not my subordinate. There is no reason for you to be here.
+010	It's true that I am not your subordinate... However, I am a knight. Isn't it natural for me to make a stand in battle?	VO_gein.gein_sys_0037
+011	I see. That is true. Well then, tell me honestly.	VO_lucretia.lucretia_sys_0004
+012	Why do you follow me? What is your goal?	VO_lucretia.lucretia_sys_0018
+013	I am here to help you, my queen. How is that for a reason?	VO_gein.gein_sys_0031
+014	Do I look like someone who needs help?	VO_lucretia.lucretia_sys_0010
+015	Sigh... I guess that reason isn't convincing enough.	VO_gein.gein_sys_0020
+016	You're are strong... And, indeed, you do not need my help.
+017	...
+018	Well then...I'll tell you my goal.	VO_gein.gein_sys_0016
+019	My father is a Paladin. However, there's nothing about him that stands out in particular. Furthermore, he never commits blunders.
+020	He's an honorable knight... I know that sounds good, but he truly is a harmless, mediocre human.
+021	I do not want to become like my father!	VO_gein.gein_event_1013
+022	I will rise in the world! Yes! I will ascend all the way to becoming a king!
+023	That is my hope! I will do whatever is necessary to achieve that!
+024	I have already gotten close to you...for this reason.	VO_gein.gein_sys_0020
+025	(So...he'll do whatever is necessary to achieve his goal...)
+026	Pww...pwahahaha!!!	VO_lucretia.lucretia_sys_0008
+027	What's so funny?	VO_gein.gein_sys_0002
+028	I found your whole speech quite stimulating! I appreciate your resolve!	VO_lucretia.lucretia_chara_1003
+029	Here they come!	VO_lucretia.lucretia_battle_0020
+030	Soldiers of Envylia! We are all in this together! Follow me. I am Lucretia, the Queen of Envylia!	VO_lucretia.lucretia_battle_0015
+031	Queen Lucretia...are you sure about this? You'll be scolded by your varlet again.	VO_gein.gein_sys_1047
+032	Who cares. I'll do things the way I want to!	VO_lucretia.lucretia_sys_0010
+033	Gane! Follow me! If you wish to be my groom, then focus on the enemy before us!	VO_lucretia.lucretia_sys_0002
+034	Yes, my queen! I am your knight and I will accompany you to the ends of the earth!	VO_gein.gein_battle_0002

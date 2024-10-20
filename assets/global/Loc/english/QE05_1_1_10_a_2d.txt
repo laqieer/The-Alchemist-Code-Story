@@ -1,0 +1,53 @@
+﻿001	It really is the Paladins!	VO_gluttony-y.gluttony-y_sys_0024
+002	Here? Now?!	VO_gluttony-y.gluttony-y_sys_0031
+003	Hey! Is that not Teona, the Arena Champion?! I'm a huge fan!	VO_gluttony-y.gluttony-y_sys_0026
+004	...
+005	Now, where might I find the commander of this army?	VO_waginao-b.waginao-b_sys_0005
+006	That would be me.	VO_leordas.leordas_sys_0005
+007	That armor... Only generals of the Gluttony Army are permitted to wear that armor!	VO_theona.theona_chara_1006
+008	So this must be the leader of the Liberation Army, General Leordas.	VO_kamui-b.kamui-b_sys_0044
+009	I am the former General of Gluttony Foss' First Legion, Leordas.	VO_leordas.leordas_sys_0031
+010	My name is Waginau. We, of the Holy Guard, having judged that it is the Liberation Army that represents true justice, have decided to lend a hand.	VO_waginao-b.waginao-b_sys_0005
+011	We appreciate the assistance, but we are a rebel force that stands against King Narol.	VO_leordas.leordas_sys_0033
+012	I would have expected the Holy Guard to turn against us instead.
+013	The Holy Guard believes in absolute justice over all else.	VO_waginao-b.waginao-b_sys_0039
+014	The actions of the soldiers sent from the royal capital stand in stark opposition to those ideals.
+015	To overlook the slaying of the innocent and the razing of blameless villages would be to forsake our moral code.	VO_waginao-b.waginao-b_sys_0016
+016	Even the Lord Commander would do the same.
+017	Then, I humbly accept your help. This harbor is a key stronghold for us.	VO_leordas.leordas_sys_0045
+018	If this place falls in the hands of the North, the people of the South would be exploited again.
+019	Um, if I may...	VO_theona.theona_sys_0002
+020	It may be because I live in the royal capital that I never got a real sense of how things are, but is the relationship between the North and South really like that?
+021	This country was founded in the mountain ranges in the North.	VO_leordas.leordas_sys_0031
+022	What is currently known as the country of Gluttony came to be only after the annexation of the fertile lands in the South.
+023	From then on, a system was established through which the nobility in the North rule over the peasants in the South.
+024	And yet, we have endured.
+025	Unfortunately, the fertility of the lands that had once supported the people of the South did not last.	VO_leordas.leordas_sys_0030
+026	The southern people believed their prayers will one day be answered, and so we persevered, but all that was left for us was this barren wasteland!
+027	We were the ones who nurtured this land, developed it, and harvested its valuable resources, but the nobles in the North have drained all the wealth our efforts have produced.
+028	The southern people can endure no more! If this country does not change, we are all doomed to perish!	VO_leordas.leordas_sys_0012
+029	King Narol is a wise man. I am sure he would be willing to hear grievances from his subjects.	VO_kamui-b.kamui-b_sys_0031
+030	I am aware of that. Even a King cannot fully ignore the voices of his people.	VO_leordas.leordas_sys_0005
+031	However, the separation of class within Gluttony, the nobles obsessing over politics, avaricious merchants who sell even other humans as property...
+032	His Majesty alone cannot change all of this. This country needs a total revolution in order for anything to change.	VO_leordas.leordas_sys_0030
+033	As interesting as this speech is, we may be better served focusing on the defense of this harbor.	VO_waginao-b.waginao-b_sys_0030
+034	Of course. What are your ideas? With the enemy outnumbering us four to one, a frontal assault would be suicide.	VO_leordas.leordas_sys_0038
+035	If we were to hide within the city, they would surely set fire to it, just as they did the nearby villages.
+036	You can leave that to me. As far as I can tell, the Royal Army's chain of command is frail.	VO_waginao-b.waginao-b_sys_0004
+037	This is probably the fault of their commander. Crush the head and the body will fall.
+038	Create a diversion and take out their leaders? I would assume the enemy would be expecting that.	VO_leordas.leordas_sys_0044
+039	We should also assume they will be expecting a charge by your Paladins after seeing them fight earlier.
+040	Agreed. Therefore, I shall lend you my Paladins.	VO_waginao-b.waginao-b_sys_0005
+041	What?	VO_leordas.leordas_sys_0025
+042	Leordas is on the move?!	VO_gluttony-o.gluttony-o_sys_0005
+043	They seem to be preparing for a frontal assault with the Holy Guard knights.	VO_gluttony-y.gluttony-y_sys_0037
+044	Send our forces forward! Ignore the Holy Guard and encircle them from the flanks!	VO_gluttony-o.gluttony-o_sys_0012
+045	Yes, sir! Surrounding the enemy, sir!	VO_gluttony-y.gluttony-y_battle_0001
+046	Leordas, you fool. Did gaining a few reinforcements go to your head?	VO_gluttony-o.gluttony-o_sys_0010
+047	Hah! Finally! I can now return to General Ceclidis with good news.	VO_gluttony-o.gluttony-o_sys_0008
+048	Who is the one letting things go to their head again?	VO_waginao-b.waginao-b_sys_0010
+049	Wh-when did you...?!	VO_gluttony-o.gluttony-o_sys_0027
+050	It was foolish of you to come here alone! Guards, get him!	VO_gluttony-o.gluttony-o_sys_0010
+051	Huzzah!
+052	Now, Kamui!	VO_waginao-b.waginao-b_sys_0007
+053	"I beseech the supreme..."	VO_kamui-b.kamui-b_favorite_0001

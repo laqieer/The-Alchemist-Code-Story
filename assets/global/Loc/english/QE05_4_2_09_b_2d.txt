@@ -1,0 +1,62 @@
+﻿001	Upsy-daisy! There we are.
+002	You're, um... Marie?	VO_agasa-b.agasa-b_sys_0001
+003	Oh! Miss Agatha!	VO_mary.mary_chara_1012
+004	Oops! Oh, dear! There goes the laundry!	VO_mary.mary_sys_0027
+005	Ah! I'm so sorry! I'll pick it up!	VO_agasa-b.agasa-b_sys_0026
+006	Th-thank you!	VO_mary.mary_sys_0034
+007	I must say... You're a hard worker, aren't you, Marie? I could a learn a thing or two from you.	VO_agasa-b.agasa-b_sys_0007
+008	Oh, no, not at all! There's simply not much else for me to do here!
+009	Marie? I heard a scream. Is everything all right?	VO_moca.moca_sys_0006
+010	Oh, Miss Mocca! I'm sorry! I'll bring it in now!	VO_mary.mary_chara_1012
+011	No need to get all flustered. There's no rush. Agatha?	VO_moca.moca_sys_0039
+012	Are you helping out around the barracks, too, Mocca?	VO_agasa-b.agasa-b_sys_0001
+013	Yeah. I've got this illness, so no one will let me out on the front lines.	VO_moca.moca_sys_0004
+014	That's why I'm guarding Marie and helping out back here. They think it's easier on me, I guess.
+015	A-are you ill, Mocca?	VO_agasa-b.agasa-b_sys_0025
+016	Oh, right. I haven't told you about it, have I?	VO_moca.moca_chara_1009
+017	The Jam that attacked the city in the desert left a curse on me.
+018	Wh-what?	VO_agasa-b.agasa-b_sys_0025
+019	Kamui and the others have helped me keep it suppressed, so it's actually not that bad.	VO_moca.moca_sys_0030
+020	Are you in pain? I... I'm sorry. That's a stupid question, isn't it?	VO_agasa-b.agasa-b_sys_0027
+021	Hahah! It does sting a bit sometimes, I suppose—more than a bit, really—but it's not like it's for forever!	VO_moca.moca_sys_0011
+022	If we can take down Ceclidis, the curse should disappear.
+023	Ceclidis... What does he want with Marie? What does he want with me?	VO_agasa-b.agasa-b_sys_0022
+024	I don't fully understand it, either.	VO_mary.mary_sys_0039
+025	I know that I am a druidic priestess; that the blood running through my veins is considered special even among the Sephira.
+026	I am not sure what other possible reason there could be.
+027	A druidic priestess, huh? What is that, anyway?	VO_moca.moca_sys_0031
+028	I'm afraid I don't know. I am sorry. I know so little.	VO_mary.mary_sys_0036
+029	It's all right! There's nothing to worry about. Logi and the others will protect us, no matter—	VO_agasa-b.agasa-b_sys_0010
+030	Huh? Wh-what...?	VO_agasa-b.agasa-b_sys_0025
+031	Where...am I?	VO_agasa-b.agasa-b_sys_0027
+032	Ah, it's been quite a while since we've had visitors here.
+033	Wh-who's there?!	VO_agasa-b.agasa-b_sys_0026
+034	Is that you, Marie? W-wait, you're not—	VO_agasa-b.agasa-b_sys_0025
+035	There is nothing to fear. This is but the staircase that links the Truth to this world—or what is left of it.
+036	The...Truth?	VO_agasa-b.agasa-b_sys_0027
+037	Ah, so you have some level of self-awareness here, I see. This is very interesting—wait, no, that's not right.
+038	I am very happy to think that your will has made it all the way here despite fate's folly.
+039	I am certain that Ouroboros will rejoice in your return as well. You are the new Vessel of Reincarnation, after all.
+040	The Vessel...of Reincarnation?	VO_agasa-b.agasa-b_sys_0025
+041	Wh-what does that even mean?! I don't know anything about that at all!	VO_agasa-b.agasa-b_sys_0031
+042	I... I don't even know anything about myself.	VO_agasa-b.agasa-b_sys_0022
+043	There is nothing to fear. The legend has already collapsed, and our protection has faded to a distant time.
+044	Only the name itself remains in this world. It is naught but a husk, which serves to tell us that such a role once existed.
+045	If that's true, then why are Marie and I being targeted?!	VO_agasa-b.agasa-b_sys_0018
+046	That is because you are both vessels for the blood of the Cursed Beasts.
+047	The Cursed...Beasts? I'm sorry, I really don't know anything...	VO_agasa-b.agasa-b_sys_0025
+048	Oh, you don't need to apologize! You are a very caring person, aren't you? To put it simply...
+049	Ah, it seems that the connection is weakening. What am I going to do with you?
+050	Oh, well. I suppose it cannot be helped. One last thing, then...
+051	Beware the lure of the Stone. It seeks to enter this world via your desires.
+052	Wait! What is that supposed to—	VO_agasa-b.agasa-b_sys_0027
+053	...tha! ...ss Agatha?!	VO_mary.mary_sys_0027
+054	Ngh!	VO_agasa-b.agasa-b_sys_0018
+055	Are you all right, Miss Agatha?	VO_mary.mary_sys_0001
+056	I... Huh? Wh-what? D-did something happen?	VO_agasa-b.agasa-b_sys_0025
+057	You fell down all of a sudden. If Marie hadn't been holding onto you, you would've fallen on your face.	VO_moca.moca_sys_0001
+058	What?! R-really?! I'm sorry! Th-thank you, Marie!	VO_agasa-b.agasa-b_sys_0025
+059	You really don't look well. I think we ought to call for the medic.	VO_mary.mary_sys_0001
+060	N-no, I'm fine. It was just a dizzy spell.	VO_agasa-b.agasa-b_sys_0010
+061	(What was that all about? Am I just tired?)	VO_agasa-b.agasa-b_sys_0030
+062	The lure of the Stone... What could that mean?	VO_agasa-b.agasa-b_sys_0031

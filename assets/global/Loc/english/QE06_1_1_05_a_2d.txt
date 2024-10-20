@@ -1,0 +1,101 @@
+﻿001	I've heard your report, we've delivered that child to base, and I would love to take a nap right abut now, but...	VO_tanosuke.tanosuke_sys_0001
+002	You seem to be having trouble swallowing this situation. You have any questions? I'll answer what I can.
+003	What...was that? I've never heard of people turning into demons!	VO_amane.amane_sys_0001
+004	What exactly are demons?! What are we fighting against?!
+005	Whoa, slow down. All right, let me answer one at a time.	VO_tanosuke.tanosuke_sys_0031
+006	Demons are...well, demons.
+007	Do you think an answer like that will suffice?!	VO_amane.amane_sys_0025
+008	Not at all. You interrupted me before I could say more. You'll be losing points for not being able to listen.	VO_tanosuke.tanosuke_sys_0030
+009	What...?	VO_amane.amane_chara_1006
+010	Also, watch your attitude. That's another point reduction.	VO_tanosuke.tanosuke_sys_0001
+011	Wh-what are you doing? This isn't the time for that!	VO_amane.amane_sys_0025
+012	It most certainly is. Did you forget? You're in the middle of your trial.	VO_tanosuke.tanosuke_sys_0016
+013	I'm...sorry.	VO_amane.amane_sys_0016
+014	Good. Now, you've studied the history of Wadatsumi, correct? There are three major variations of demons. They are?	VO_tanosuke.tanosuke_sys_0005
+015	Pure demons, half-bloods born from a human and a demon, and...demons that used to be human.	VO_amane.amane_sys_0037
+016	Exactly. Though currently there are no confirmed cases of half-bloods due to concentrated efforts made in the past to eradicate them.
+017	I've read there was a time when those who were not human were ostracized.	VO_amane.amane_sys_0004
+018	Good, good. Glad to hear you're a studious one. So then, what do you make of what you saw today?	VO_tanosuke.tanosuke_sys_0044
+019	A demon that was formerly a human... It can't be that Demon's Blood, the pandemic that nearly destroyed Wadatsumi is...?!	VO_amane.amane_sys_0026
+020	Negativity, or in other words, corruption can consume people. Those who have been corrupted turn into demons it reacts to some factor found in the people of Wadatsumi.	VO_tanosuke.tanosuke_sys_0031
+021	That is what we call Demon's Blood. But now...
+022	We've confirmed that those bit by demons will turn as well.	VO_tanosuke.tanosuke_sys_0030
+023	To be more specific, the sentient pure-bloods can amplify the corruption within people to turn them into demons, while the "normal" demons can bite people to turn them.
+024	That's about it, really.	VO_tanosuke.tanosuke_sys_0005
+025	I...see.	VO_amane.amane_sys_0027
+026	Is it safe to assume that this is information the common people do not know? That only the Blade Fox are aware of this truth?	VO_amane.amane_sys_0031
+027	That's right. To avoid a massive panic, we've issued a gag order on the matter. Only members of the Blade Fox know this.	VO_tanosuke.tanosuke_sys_0005
+028	So then, some of the demons we have fought against could have been...?!	VO_amane.amane_sys_0001
+029	Yes. They could have once been an important person to someone.
+030	That's horrible!	VO_amane.amane_battle_0019
+100	This is information only disclosed to those whom we are sure will continue fighting as a member of the Blade Fox after learning such a truth.
+101	There is a regulation that none of you have been told of. A member of the Blade Fox that is bitten by a demon must be purged by their squad before they themselves turn into a demon.
+031	Do you still want to join the Blade Fox? Do you still wish to fight for the people of Wadatsumi?	VO_tanosuke.tanosuke_sys_0001
+032	...
+033	I see you don't yet have an answer to those questions. Strange, since I seem to remember someone hollering about being the one to bring peace to Wadatsumi...	VO_tanosuke.tanosuke_sys_0016
+034	I still stand by those words.
+035	Hmph. Then let me ask you this.	VO_tanosuke.tanosuke_sys_0001
+036	Why did you go against regulation and turn your back to a demon?
+037	Because I heard that girl calling out for help.	VO_amane.amane_sys_0031
+038	Did you not think of the possibility that one of the other students could die because of your actions?
+039	You don't mean...?!	VO_amane.amane_sys_0026
+040	Fortunately or not, no one died, but there were casualties. But the possibility existed.	VO_tanosuke.tanosuke_sys_0005
+041	If I must choose between regulations and a voice calling for help, I know which is more important to me.	VO_amane.amane_sys_0010
+042	Are you saying I should ignore a life I have the chance to save?	VO_amane.amane_sys_0001
+043	Let one demon go and a hundred lives are lost. Remember that. Your actions were dangerous.	VO_tanosuke.tanosuke_sys_0016
+044	And it caused unnecessary casualties.
+045	Wh-what?
+046	Wh-what the...!	VO_amane.amane_sys_0025
+047	I told you. Casualties.	VO_tanosuke.tanosuke_sys_0005
+048	I-I...!
+049	If only I had been there...	VO_tanosuke.tanosuke_sys_0030
+050	Urgh!	VO_amane.amane_battle_0019
+051	Bind!	VO_tanosuke.tanosuke_battle_0001
+052	Now, you do it.	VO_tanosuke.tanosuke_sys_0003
+053	Me?
+054	You know the regulation. A member of the Blade Fox that is bitten by a demon must be purged by their squad before they themselves turn into a demon.	VO_tanosuke.tanosuke_sys_0001
+055	But I...!
+056	What's the matter, Amane?
+057	Even if they've turned into demons...I just can't!	VO_amane.amane_sys_0027
+058	Even though you had no problem cutting down that little girl's mother?	VO_tanosuke.tanosuke_sys_0016
+059	...
+060	Amane.
+061	"I hate demons."
+062	"Demons must be eradicated."
+063	(What is this overwhelmingly dark feeling? It's different from before...)
+064	"Unforgivable."
+065	"They took everything from me."
+066	Amane?
+067	...
+068	Demons must be eradicated.
+069	That's right.	VO_tanosuke.tanosuke_sys_0005
+070	...
+071	Urgaaaahh!	VO_utsushiogre.utsushiogre_battle_0028_a
+072	Forgive me.	VO_amane.amane_sys_0035
+073	As your proctor, I should disqualify you from this trial.	VO_tanosuke.tanosuke_sys_0031
+074	But, personally, I don't disagree with your instinct to save the girl and your compassion.	VO_tanosuke.tanosuke_sys_0005
+075	Or with why you would hesitate on this matter.
+076	Captain Tanosuke...	VO_amane.amane_sys_0001
+077	I do not regret anything I did. But it is true that all of this tragedy is a result of my own actions.
+078	What am I to do?	VO_amane.amane_sys_0018
+079	You must live. You are not allowed to die.	VO_tanosuke.tanosuke_sys_0003
+080	Huh?	VO_amane.amane_chara_1006
+081	To pay for the harm you've done, you must bring peace to Wadatsumi. Wasn't that your mission?	VO_tanosuke.tanosuke_sys_0001
+082	It is.	VO_amane.amane_sys_0037
+083	Then you must live.	VO_tanosuke.tanosuke_sys_0005
+084	Thank you, Captain Tanosuke.	VO_amane.amane_sys_0034
+085	Aw, don't thank me. It makes me feel weird. I get all sneezy when people thank me!	VO_tanosuke.tanosuke_sys_0027
+086	Achoo! Achoo! Aaaahchoo!!!
+087	Wha—! I was being serious!
+088	Those of us who survived should at least be smiling. Don't you think?
+089	I see...	VO_amane.amane_sys_0007
+090	...
+091	Is something the matter, Captain Tanosuke?	VO_amane.amane_sys_0001
+092	Ah, it's nothing.
+093	?! Another demon!	VO_amane.amane_sys_0025
+094	So you've noticed. The trial is still going, you know?
+095	Oh, geez!!! That freaked me out!	VO_amane.amane_sys_0028
+096	You weren't expecting a fair fight on the battlefield, were you? You should learn to never let your guard down.	VO_tanosuke.tanosuke_sys_0030
+097	Need a hand?	VO_tanosuke.tanosuke_sys_0001
+098	Back off! I can handle it!	VO_amane.amane_sys_0042
+099	Demons must be eradicated!

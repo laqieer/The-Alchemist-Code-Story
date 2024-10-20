@@ -1,0 +1,38 @@
+﻿001	(Ugh... Carriages are so cramped inside. And dark, to boot!)
+002	Rrg...	VO_ines.ines_sys_0016
+003	Ines? Are you all right?	VO_nazario.nazario_sys_0004
+004	Y-yeah. I'm fine.
+005	......
+006	Excuse me, driver? Could you stop here for a moment?	VO_craris.craris_sys_0002
+007	Claris?
+008	Come out, please, Ines, won't you? The flowers around these parts are stunningly beautiful.
+009	Whoa! I had no idea there were meadows like this around here.	VO_ines.ines_sys_0024
+010	Well, we are now quite a distance from your forest.
+011	The scent from these flowers is known to calm one's nerves. Take a deep breath here, and you should quickly feel at ease.
+012	Really? All right, then.<br>Huff... Haaaa...	VO_ines.ines_sys_0043
+013	Well? How do you feel?
+014	I...do feel a little better now. Thank you.	VO_ines.ines_sys_0005
+015	Glad to hear it!	VO_craris.craris_sys_0007
+016	......
+017	Nasario? Is something bothering you?	VO_craris.craris_sys_0002
+018	I'm troubled by the state of the forest.	VO_nazario.nazario_sys_0004
+019	I was closely observing our surroundings as we left it earlier, and noted it wasn't just the Rattys that are exasperated...but all the creatures. Every last one.	VO_nazario.nazario_sys_0022
+020	Is that...because of me? Because a human had entered into your sacred space?
+021	No. You've been accepted by the spirits.	VO_nazario.nazario_sys_0031
+022	The ancient blessing placed upon your lineage was recognized and acknowledged. The creatures of the woods should not have seen you as any sort of threat.	VO_nazario.nazario_sys_0001
+023	So, what then?
+024	There must be another who disturbs the noble timbre of the forest.	VO_nazario.nazario_sys_0006
+025	......
+026	Wait, so someone other than Claris was there too? For what reason, though?	VO_ines.ines_sys_0001
+027	Could someone have the high elves in their sights, like...before...?	VO_ines.ines_sys_0016
+028	Ines...
+038	The only thing I can say for certain is that they have not yet approached us, small comfort though that may be. But do rest assured, I am remaining on guard in case they do.	VO_nazario.nazario_sys_0002
+029	Um... I'm sorry to interrupt, but we are falling behind schedule.
+030	Right. We should go.	VO_craris.craris_sys_0004
+031	......
+032	Ines, take a look at this.
+033	Is it...a lantern?	VO_ines.ines_sys_0006
+034	Yes. I noticed the carriage is a bit dark inside, so I thought perhaps we could use it to make the remainder of our trip a bit more comfortable.	VO_craris.craris_sys_0005
+035	But I wasn't certain if you'd want to. What do you think?
+036	I-I think it's a good idea. Thank you.	VO_ines.ines_sys_0005
+037	......

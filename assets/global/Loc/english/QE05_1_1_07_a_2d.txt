@@ -1,0 +1,148 @@
+﻿001	I am Ceclidis, General of the Third Legion.	VO_seclidis.seclidis_sys_0007
+002	My apologies. My name is Kamui.	VO_kamui-b.kamui-b_sys_0003
+003	Hrm. Never heard of you. Judging from your garb, you are from one of the southern tribes.	VO_seclidis.seclidis_sys_0031
+004	(He seems suspicious. Does he believe I might be a spy for the rebel forces? Then...?)
+005	I once called that place my home, yes.	VO_kamui-b.kamui-b_sys_0006
+006	But no longer?	VO_seclidis.seclidis_sys_0044
+007	Indeed. Now, I am a mere wanderer, plying divination as my trade.	VO_kamui-b.kamui-b_sys_0006
+008	A fortune-teller, huh? You're not planting foolish thoughts into the king's head, are you?	VO_seclidis.seclidis_sys_0045
+009	I am not sure what you may be implying, but I did indeed divine the answers to some questions the King had.
+010	Of course, of course. We are in trying times. I can see why the King might seek solutions in omens and conjurations.	VO_seclidis.seclidis_sys_0044
+011	So? What did he ask?	VO_seclidis.seclidis_sys_0037
+012	Forgive me, sir...	VO_kamui-b.kamui-b_sys_0027
+013	You cannot tell me? I must say, this only makes me suspicious.	VO_seclidis.seclidis_sys_0001
+014	Are you interested in having your fortune told, Ceclidis? In that case, I may be able to humor you.	VO_waginao-b.waginao-b_sys_0044
+015	Who...?
+016	You! When did you...?	VO_seclidis.seclidis_sys_0027
+017	(He got this close without my noticing?! Who is this man?!)
+018	I apologize for startling you. I could not help but interject.	VO_waginao-b.waginao-b_sys_0007
+019	I am Waginau. I command the scouting legion of the Holy Guard.
+020	The Holy Guard?!	VO_kamui-b.kamui-b_sys_0027
+021	Lord Waginau, how may I be of assistance?	VO_seclidis.seclidis_sys_0020
+022	No, no. I simply found it rather peculiar to hear the general of the Gluttony Army's Third Legion seemingly interested in fortune-telling.	VO_waginao-b.waginao-b_sys_0006
+023	I am certainly no expert, but I thought I might lend my meager abilities to satisfy your curiosity in the matter.
+024	What exactly do you want?	VO_seclidis.seclidis_sys_0012
+025	We are simple scouts. We don't have any particular expectations.	VO_waginao-b.waginao-b_sys_0039
+026	Or do you know of some affair that may require our attention, General Ceclidis?	VO_waginao-b.waginao-b_sys_0010
+027	Hmph. Your humor leaves a lot to be desired.	VO_seclidis.seclidis_sys_0010
+028	If it will not leave you too bereft, may I borrow this man for a while?	VO_waginao-b.waginao-b_sys_0044
+029	Me, sir?	VO_kamui-b.kamui-b_sys_0037
+030	As I suspected. You hail from the same village as I.	VO_waginao-b.waginao-b_sys_0007
+031	I would be much obliged if you would tell me stories of my old home. I recently find myself missing it.
+032	If you wish, gladly.	VO_kamui-b.kamui-b_sys_0006
+033	...
+034	Unless you take issue, General?	VO_waginao-b.waginao-b_sys_0006
+035	Oh, no. I apologize for keeping you. Please, by all means.	VO_seclidis.seclidis_sys_0039
+036	Thank you. Excuse me, sir.	VO_kamui-b.kamui-b_sys_0006
+037	Hmph. Divination, huh?	VO_seclidis.seclidis_sys_0010
+038	There is no way that straight-laced king of ours would rely on such parlor tricks to make decisions.
+039	Who was that man?	VO_seclidis.seclidis_sys_0016
+040	Interested? Shall we lend you one of ours to tail him?	VO_stknightm.stknightm_sys_0001
+041	No, we have more important things to worry about. First, we must locate the Sacred Stone.	VO_seclidis.seclidis_sys_0039
+042	I suppose this is as good a place as any.	VO_waginao-b.waginao-b_sys_0005
+043	...
+044	No need to feel so threatened. I do have something I wish to discuss with you.	VO_waginao-b.waginao-b_sys_0007
+045	I appreciate you getting me out of that situation, but the Holy Guard maintains the balance of this continent's Alchemia.	VO_kamui-b.kamui-b_sys_0003
+046	What would a member of such an organization have to discuss with me?
+047	I was speaking truthfully earlier.	VO_waginao-b.waginao-b_sys_0011
+048	I could not neglect one from the same village I came from in their time of need.
+049	What are you talking about?	VO_kamui-b.kamui-b_sys_0037
+050	Perhaps you will understand me better if I show you this...	VO_waginao-b.waginao-b_sys_0003
+051	That symbol on your neck is...a sephirah?! The mark of wisdom found only on our people! Then you are...	VO_kamui-b.kamui-b_sys_0027
+052	I left home a long time ago. Since then, I have joined the Holy Guard.	VO_waginao-b.waginao-b_sys_0004
+053	I am acquainted with the current village chief, Iakov. Perhaps you could try to trust me a little.
+054	Even if that is true, what is the Holy Guard doing in Gluttony?	VO_kamui-b.kamui-b_sys_0031
+055	The Holy Guard's presence here during a civil war is tantamount to adding fuel to a fire. What business do you have here?
+056	Well, well. You are shrewder than I had expected.	VO_waginao-b.waginao-b_sys_0044
+057	There is a possibility that Alchemy may have been abused here. The Holy Guard is here to verify that suspicion.
+058	What?! If that is true...	VO_kamui-b.kamui-b_sys_0027
+059	We are not yet sure. That is why I have come here with my legion to investigate.	VO_waginao-b.waginao-b_sys_0039
+060	We are taking every precaution not to disturb Gluttony's current state of affairs, for example, by bringing only the minimum required number of men.
+061	Unfortunately, as you well know, for investigation and nothing more, having foreigners snooping around may agitate this country's situation.	VO_waginao-b.waginao-b_sys_0030
+062	That is why I have decided to hire a bodyguard.
+063	In particular, my mind would be put at ease if it were someone from my hometown watching my back.	VO_waginao-b.waginao-b_sys_0007
+064	Besides, the well-being of that child with you at the Arena seems to weigh heavily on your mind.
+065	You...	VO_kamui-b.kamui-b_battle_0019
+066	You were watching that?
+067	Of course. It would have been a waste to miss such a wonderful display of skill, on par with any veteran gladiator.	VO_waginao-b.waginao-b_sys_0004
+068	That fight in the Arena is another reason I decided to ask you for this favor.
+069	It is highly unusual for a Sephira leaving the village on official business to bring a child along.
+070	I can only assume you found him somewhere on the course of your journey here. While your intentions are admirable, you haven't any plan for him, have you?
+071	If you take this job, we would be happy to take him into our care.
+072	I believe the Holy Guard would be of some assistance in finding the child's family. Would you not agree?
+073	I am sorry, but...I am not in any position to make such a deal.	VO_kamui-b.kamui-b_sys_0039
+074	Why is that?	VO_waginao-b.waginao-b_sys_0006
+075	As you know, I am here on official business from Chief Iakov.	VO_kamui-b.kamui-b_sys_0030
+076	Even if you were born a Sephira, you now belong to the outside.
+077	I cannot lend my strength to an outside organization of my own accord.
+078	I also cannot simply leave that child in your care.
+079	It is not impossible that you are plotting to manipulate me into doing something I would rather not.
+080	If that is the case, I cannot allow the risk of that child being used as hostage.
+081	Ah... It seems that in attempting to sweeten the deal, I have invited your suspicion.	VO_waginao-b.waginao-b_sys_0011
+082	Then I must show you some of my cards.	VO_waginao-b.waginao-b_sys_0005
+083	Specifically, there may be an opportunity for you to find the source of your Sacred Stone problem.
+084	That's...!	VO_kamui-b.kamui-b_sys_0027
+085	There was some kind of large-scale movement of Alchemia somewhere in southern Gluttony.	VO_waginao-b.waginao-b_sys_0004
+086	The Holy Guard sent us to investigate that unusual event.
+087	Are you saying Sephiron may be—?!	VO_kamui-b.kamui-b_sys_0027
+088	That is part of what I am here to investigate.	VO_waginao-b.waginao-b_sys_0005
+089	Chief Iakov is aware of the urgency of this matter, though we do not have the time to wait for you to confirm the matter with him.
+090	You must believe me when I say that I do all this in the name of "absolute justice"—and for the sake of peace on this continent.
+091	I see you are indeed pressed for time.	VO_kamui-b.kamui-b_sys_0020
+092	Still, I will give you what time I can to think about it. If you wish to take the job, meet me at the West Gate of the royal capital tomorrow morning.	VO_waginao-b.waginao-b_sys_0004
+093	So, Hisham, are you interested in becoming a gladiator?	VO_theona.theona_sys_0045
+094	Becoming a...? I think it's cool, but I don't think I could ever do anything like that.	VO_hisham-b.hisham-b_sys_0037
+095	You're too young to be so pessimistic! You definitely can if you train!	VO_theona.theona_sys_0007
+096	Ooh, I know! What do you think about coming to see the training school?	VO_theona.theona_chara_1006
+097	There are a lot of students who go there, so you might find someone from the same place as you!
+098	Mmm, but I—oh, hey! Kamui!	VO_hisham-b.hisham-b_sys_0031
+099	Welcome back. Did you finish your errands, Kamui?	VO_theona.theona_chara_1006
+100	Yes.	VO_kamui-b.kamui-b_sys_0004
+101	Is something wrong?	VO_hisham-b.hisham-b_sys_0001
+102	Hisham, it seems our time together ends here.	VO_kamui-b.kamui-b_sys_0035
+103	What do you—?	VO_hisham-b.hisham-b_chara_1009
+104	I was hired as a guide for the Holy Guard. I will be leaving the royal capital as early as tomorrow.	VO_kamui-b.kamui-b_sys_0004
+105	It will be a dangerous journey, not suitable for a child.
+106	...
+107	Teona, I know this is asking a lot, but do you know of anybody who would be able to take Hisham in?	VO_kamui-b.kamui-b_sys_0001
+108	I think the training school may be able to help, but...	VO_theona.theona_sys_0031
+109	N-no! I don't want to be left behind, Kamui!	VO_hisham-b.hisham-b_sys_0021
+110	Hisham...	VO_kamui-b.kamui-b_favorite_1007
+111	I-I know I'd just be a burden, b-but please don't go without me!	VO_hisham-b.hisham-b_sys_0020
+112	Do not treat your own life so cheaply!	VO_kamui-b.kamui-b_sys_0002
+113	You survived until now to come to Eos so you could find your family, did you not?
+114	Y-yeah, but...	VO_hisham-b.hisham-b_sys_0018
+115	Then...I will be Hisham's protector.	VO_theona.theona_sys_0002
+116	What? We may be heading straight into the fray of battle!	VO_kamui-b.kamui-b_sys_0012
+117	Did you forget? My whole purpose here is to challenge you to another fight.	VO_theona.theona_sys_0010
+118	If I lose sight of you here, who knows if we will ever cross paths again!
+119	Besides, I already promised Hisham that I'd help him uncover his memories.	VO_theona.theona_sys_0007
+120	Thank you, Miss Teona!	VO_hisham-b.hisham-b_battle_0018
+121	You, of all people, know my strength, Kamui. There shouldn't be any problem.	VO_theona.theona_sys_0002
+122	Fine. Do as you like.	VO_kamui-b.kamui-b_sys_0038
+123	It is time.	VO_waginao-b.waginao-b_sys_0002
+124	We will head first to the harbor city to the West. Everybody keep up!
+125	Why the harbor?	VO_hisham-b.hisham-b_sys_0002
+126	Do you know what the largest industry is for this country?	VO_kamui-b.kamui-b_sys_0001
+127	I dunno.	VO_hisham-b.hisham-b_sys_0031
+128	Mercenaries, right?	VO_theona.theona_sys_0031
+129	I've heard that mercenaries from Gluttony are making a name for themselves in the Desert Lands and Greed Dike.
+130	Close, but no.	VO_kamui-b.kamui-b_sys_0044
+131	International trade. Goods from the desert, Saga, and Slothstein are traded overseas.
+132	Of course, mercenaries are among those "goods".
+133	So the wealth of this country is concentrated in the harbors.	VO_theona.theona_sys_0045
+134	Exactly. A perfect place to gather intel on this country's state of affairs.	VO_kamui-b.kamui-b_sys_0004
+135	I had no idea...	VO_hisham-b.hisham-b_sys_0044
+136	I've heard that the maritime trade here is strictly under the control of the government.	VO_waginao-b.waginao-b_sys_0005
+137	It's no wonder civilians would not be familiar with it.
+138	Lord Waginau, are we going to follow this road straight out?	VO_theona.theona_sys_0002
+139	That's the plan. This road connecting the royal capital to its harbors has been well maintained.	VO_waginao-b.waginao-b_sys_0004
+140	It may be risky, but it's the quickest route.
+141	Um, risky?	VO_hisham-b.hisham-b_sys_0001
+142	Like Kamui mentioned earlier, the harbor is this country's heart.	VO_waginao-b.waginao-b_sys_0005
+143	So the rebel forces will naturally want to move to occupy this area.
+144	I see. That was why you were looking for bodyguards.	VO_theona.theona_sys_0045
+145	Right. As representatives of justice, we cannot run or hide, no matter how outnumbered we may be.	VO_waginao-b.waginao-b_sys_0038
+146	Which means—
+147	There they are! Like the intel said, it's the Holy Guard!	VO_gluttony-y.gluttony-y_sys_0042
+148	It is for situations like these that we need your help.	VO_waginao-b.waginao-b_battle_0019

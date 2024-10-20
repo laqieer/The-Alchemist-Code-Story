@@ -1,0 +1,146 @@
+﻿001	Lord Zahar? Dinner is ready.	VO_laetitia.laetitia_sys_0002
+002	Right.	VO_zaharu.zaharu_sys_0004
+003	We're having sautéed rabbit meat tonight.
+004	Yup, that's right! Caught by yours truly!	VO_syrma.syrma_sys_0003
+005	And me!
+006	...
+007	I see. You lot went hunting, did you?	VO_zaharu.zaharu_sys_0006
+008	I took them. It was part of their training.
+009	Good. Keep it up.	VO_zaharu.zaharu_sys_0045
+010	You got it!
+011	You betcha!	VO_ila.ila_sys_0004
+012	Yes, my lord.	VO_spica.spica_sys_0004
+013	On that note, I have something to report, Lord—
+014	Later.	VO_zaharu.zaharu_sys_0004
+015	Must you be reminded again, Corvus? You should know by now that Lord Zahar doesn't like to be bothered during mealtimes.	VO_laetitia.laetitia_sys_0001
+016	Right... Sorry.	VO_niggle.niggle_sys_0018
+017	Now, let's eat. We wouldn't want our dinner to get cold.	VO_laetitia.laetitia_sys_0007
+018	It looks so good! Doesn't it, Spica?	VO_syrma.syrma_sys_0007
+019	Y-yeah...
+020	Om nom nom nom!
+021	Ugh. Ila, use your knife and fork.	VO_niggle.niggle_sys_0002
+022	Why should I?! It's easier this way!	VO_ila.ila_sys_0016
+023	Hmph. One of these days, I'm going to need to teach you table manners.	VO_niggle.niggle_sys_0016
+024	Urgh! No, thanks! Those sound boring!	VO_ila.ila_sys_0029
+025	I'm afraid I'm going to have to insist. You eat like a pig.	VO_niggle.niggle_sys_0030
+026	Aw, don't be like that, Corvus!
+027	When she first came here, Ila couldn't eat anything, remember? But now she joins us at mealtime every day!
+028	So what if she's a little messy? At least she's eating!	VO_syrma.syrma_sys_0007
+029	Hmph. Fine. I suppose there's no rush.	VO_niggle.niggle_sys_0016
+030	...	VO_spica.spica_sys_0022
+031	...
+032	...
+033	Spica? Is it not to your taste?	VO_laetitia.laetitia_sys_0001
+034	Huh? Oh, um... No, it's… It's nothing like that. I just don't have much of an appetite.	VO_spica.spica_sys_0039
+035	Oh, dear. That's no good.	VO_laetitia.laetitia_sys_0030
+036	C'mon, Spica, try some! It's really good!	VO_syrma.syrma_sys_0003
+037	Yeah, okay...	VO_spica.spica_sys_0037
+038	...
+039	That was excellent as always, Letitia.	VO_zaharu.zaharu_sys_0002
+040	I'm so glad you enjoyed it.	VO_laetitia.laetitia_sys_0007
+041	Psst! Hey, can I ask you something?
+042	I've been wondering this for a while, but does Lord Zahar only eat Letitia's cooking?	VO_syrma.syrma_sys_0031
+043	I don't think I've seen him eat anything but fruits and vegetables when Letitia's not here.
+044	He's always been like that.	VO_niggle.niggle_sys_0004
+045	Oh, really?	VO_syrma.syrma_sys_1011
+046	He only ever ate bread and vegetables when he was in the Holy Guard.
+047	Considering he is apparently of Elven descent, I didn't think he would eat meat or fish...	VO_niggle.niggle_sys_0031
+048	But when Letitia began preparing meals for him in Wratharis, he ate whatever she served.
+049	I'm sure he wouldn't touch it if it wasn't for the fact that Letitia made it, however.	VO_niggle.niggle_sys_0016
+050	Huh...	VO_syrma.syrma_sys_0005
+051	...
+052	I don't like her, but she cooks good.	VO_ila.ila_sys_0005
+053	I don't think that's why he likes it.	VO_syrma.syrma_sys_0031
+054	Huh? What do you mean?	VO_ila.ila_sys_0006
+055	Corvus.	VO_zaharu.zaharu_sys_0002
+056	Ahem. Yes, my lord?	VO_niggle.niggle_sys_1050
+057	Actually, all of you should hear this. I'm going away for a while.
+058	What?	VO_spica.spica_sys_0025
+059	Where are you going?
+060	...
+061	You're not going to tell us, are you?	VO_syrma.syrma_sys_0030
+062	U-um... Can I go with—	VO_spica.spica_sys_0003
+063	I only need Letitia and a few of our rank and file to join me. In fact, Letitia's presence is essential.	VO_zaharu.zaharu_sys_0014
+064	I... understand.	VO_spica.spica_sys_0029
+065	Will you not share your plans with me, Lord Zahar?
+066	Hmph. There is no need; I won't be gone long.	VO_zaharu.zaharu_sys_0010
+067	Very well, then.	VO_niggle.niggle_sys_0037
+068	During my absence, I will leave the Shadow Messiah in your care, Corvus.	VO_zaharu.zaharu_sys_0041
+069	Babysitting duty, is it? Oh, joy of joys...	VO_niggle.niggle_sys_0016
+070	Keep a close eye on Spica in particular.
+071	Spica?	VO_niggle.niggle_sys_0006
+072	We need to rid her of her doubts.	VO_zaharu.zaharu_sys_0004
+073	Doubts, huh...	VO_niggle.niggle_sys_0031
+074	Aaargh!	VO_ila.ila_battle_0019
+075	Hah. It was a good idea to try for a sneak shot, but your execution needs work.	VO_niggle.niggle_sys_0010
+076	Yup. It was super obvious what you were going for.	VO_syrma.syrma_sys_0007
+077	Dang it!	VO_ila.ila_sys_0017
+078	...	VO_spica.spica_sys_0022
+079	C'mon, Spica! How long are you planning on moping around for?
+080	Chin up!	VO_syrma.syrma_sys_0014
+081	Silma...
+082	If anything, with Lord Zahar gone for a while, now's your chance to make a change!	VO_syrma.syrma_sys_0003
+083	What do you mean?	VO_spica.spica_sys_0006
+084	This is an opportunity for you impress him! You've gotta train really hard, until you're strong enough to beat Corvus!
+085	I-I can't do that...	VO_spica.spica_sys_0031
+086	But, Spica... If you don't start getting stronger soon, Lord Zahar will abandon you!	VO_syrma.syrma_sys_0031
+087	Wh-what?!	VO_spica.spica_sys_0025
+088	You want to be with him, don't you? You don't want him to leave you behind, do you?
+089	I...
+090	(Of course not... That's why I'm here. I want to be with Lord Zahar.)
+091	Thank you, Silma. You're right—I'll see what I can do!	VO_spica.spica_sys_0033
+092	That's the spirit! You've got this, Spica!	VO_syrma.syrma_sys_0006
+093	Right!	VO_spica.spica_sys_0004
+094	Erm... Sir?	VO_knightm.knightm_sys_0001
+095	What is it? Did something happen?	VO_niggle.niggle_sys_0006
+096	...	VO_spica.spica_sys_0006
+097	Not exactly, no. I was just wondering what we're going to do about dinner.	VO_knightm.knightm_sys_0031
+098	Dinner?
+099	Yes. Lady Letitia isn't here, so I was hoping you would have some instructions for me.	VO_knightm.knightm_sys_0030
+100	Oh, right. She always takes care of meals, doesn't she? Well... Let me think...	VO_niggle.niggle_sys_0031
+101	...
+102	I'm sure he wouldn't touch it if it wasn't for the fact that Letitia made it, however.	VO_niggle.niggle_sys_0016
+103	Corvus? I-I'll do it. I'll make dinner!	VO_spica.spica_sys_0003
+104	Oh?	VO_niggle.niggle_sys_0006
+105	Huh?! B-but, Spica—!	VO_syrma.syrma_sys_0025
+106	I insist!
+107	(Wow. I've never seen Spica so serious about something before.)
+108	Very well. Dinner is your responsibility tonight, then.	VO_niggle.niggle_sys_0016
+109	Understood.	VO_spica.spica_sys_0004
+110	S-Spica? Are you sure about this? It's not too late to back down—	VO_syrma.syrma_sys_0011
+111	Silma!	VO_spica.spica_sys_0002
+112	This is my chance to grow.
+113	This isn't what we talked about at all and you know it!
+114	But I will grow!
+115	(The darkness within me whispers unsettling things.)
+116	(I'm... concerned.)	VO_niggle.niggle_sys_0018
+117	Lord Zahar? We have almost reached Wratharis.	VO_laetitia.laetitia_sys_0002
+118	Good.	VO_zaharu.zaharu_sys_0004
+119	Why didn't you bring Spica with you?
+120	...
+121	She seemed very eager to accompany you. Tee hee.	VO_laetitia.laetitia_sys_0007
+122	Don't be ridiculous.	VO_zaharu.zaharu_sys_0002
+123	I'm just teasing. But you've been worried about her, haven't you?
+124	She's weak.	VO_zaharu.zaharu_sys_0016
+125	True. She's a kind soul.	VO_laetitia.laetitia_sys_0004
+126	Yes, and that's part of her chosen role—but right now, her kindness is merely weakness.	VO_zaharu.zaharu_sys_0031
+127	Strength in kindness...
+128	That's to be Spica's role in your new order, isn't it, Lord Zahar?	VO_laetitia.laetitia_sys_0045
+129	She must be trained.
+130	Well, that's Corvus's responsibility.
+131	Indeed.	VO_zaharu.zaharu_sys_0004
+132	Hee hee. I certainly couldn't do it.	VO_laetitia.laetitia_sys_0007
+133	We are the will. Corvus and the others exist to put our will into motion.	VO_zaharu.zaharu_sys_0005
+134	As you—	VO_laetitia.laetitia_sys_0005
+135	Did you hear that?	VO_zaharu.zaharu_sys_0006
+136	Yes... Something's lurking here.	VO_laetitia.laetitia_sys_0022
+137	A mythical beast? Corvus mentioned that one of the creatures was hanging around our base.	VO_zaharu.zaharu_sys_0031
+138	Come to think of it... There were signs of animal experiments being conducted in the basement facility of the Holy Order we raided the other day.
+139	And one of the guards said something about not having time to deal with us.	VO_zaharu.zaharu_sys_0004
+140	Because of the runaway test subjects, perhaps?
+141	Hmph. Sounds about right. Then I suppose the creature hanging around here must be the escapee in question.	VO_zaharu.zaharu_sys_0010
+142	Oh, what a mess they've left us with! Hee hee.	VO_laetitia.laetitia_sys_0007
+143	At any rate—
+144	Grrrrrrrrr!	VO_MwolfBig.MwolfBig_battle_0019
+145	I say we clear our path of all obstacles.	VO_zaharu.zaharu_sys_0001
+146	As you command.	VO_laetitia.laetitia_sys_0005

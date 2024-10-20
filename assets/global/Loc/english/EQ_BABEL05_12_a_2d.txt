@@ -1,0 +1,231 @@
+﻿001	Lofia!	VO_lavina.lavina_sys_0003
+002	Hm? What is it?	VO_rofia.rofia_sys_0005
+003	I want to get better at controlling my magic!	VO_lavina.lavina_sys_0002
+004	Because I... I love you and Michael so much. I never want to leave your side!
+005	But I've still got a long way to go. If I want to keep up with the two of you, I need to try harder!
+006	That's the spirit! I'll lend you all the help I can, Ravina.	VO_rofia.rofia_chara_1023
+007	I just keep remembering things from the past.
+008	Things like...how the main reason to eat sweets is because they make you feel happy.
+009	And...how the reason for inviting someone to a tea party is because eating together makes the food taste better.
+010	I guess I can't help but reminisce.
+011	I was trying not to remember things like this since parting ways with Milis, because it hurts too much.
+012	Well... I'm sure I'll see her soon.
+013	You do need bitter tea to enjoy sugary sweets, after all.
+014	It's finally afternoon tea time.
+015	No snacks for you yet!
+016	Why not?	VO_rofia.rofia_sys_0025
+017	You've been asleep for several days, you know; since you got caught up in Chance Encounter.
+018	Time travel is hard on both the mind and the body; not to mention that your transfer point was a battlefield, of all things.
+019	You should've seen the final boss!	VO_rofia.rofia_sys_0006
+020	It was quite imposing, wasn't it?	VO_cheryl.cheryl_sys_0031
+021	Pfft. No way.
+022	Anyway, I feel just fine! Argh! Nngh...	VO_rofia.rofia_sys_0042
+023	Told you! Lofia, your wounds were particularly bad. They aren't fully healed yet so just take it easy, all right?
+024	Where is Courage?	VO_cheryl.cheryl_sys_0001
+025	She's out on her daily patrol of the city.
+026	During our encounter, we met a girl who looked just like you, Nyx.	VO_cheryl.cheryl_sys_0039
+027	That would be my twin sister, Mira.
+028	She's the one you were looking for, isn't she?	VO_rofia.rofia_sys_0002
+029	I apologize on her behalf for all the trouble she caused you.
+030	Not at all. Besides, this is great! You've finally found her!	VO_rofia.rofia_sys_0023
+031	Well, yeah, but...
+032	Nyx...?
+033	You know that man we met there, that Mister Will fellow...?	VO_cheryl.cheryl_sys_0001
+034	The old guy?	VO_rofia.rofia_sys_0031
+035	I knew there was something familiar about him, and now I know why.
+036	Every single individual who has left the Holy Guard is recorded in my monocle database.
+037	I once mentioned that there was a Wilhelm from Lustburg, did I not? According to my records, he left the Holy Guard several decades ago.
+038	What?!	VO_rofia.rofia_sys_0025
+039	Yet his appearance was more or less unchanged from the time of his resignation.
+040	You know what this means, right? Your encounter must have taken place several decades in the past.
+041	Ooh, spooky! It's just like magic!	VO_rofia.rofia_sys_0026
+042	Aren't you a Court Mage, or something? I would've thought you'd be used to magic.
+043	Heheh. I suppose I shouldn't be surprised.
+044	I've got a pretty good idea of where my sister is now, so I'm gonna go back to my time to store up power for a bit, then go and get her.
+045	Why don't you just use that Chance Encounter thing again?	VO_rofia.rofia_sys_0002
+046	Pfft. As if it were that easy.
+047	Is it difficult?	VO_cheryl.cheryl_sys_0001
+048	It's not something that just anyone can do, anytime they like.
+049	Chance Encounter is a technique which can only be activated the instant in which an emotional upheaval reaches its peak.
+050	What does that mean?	VO_rofia.rofia_sys_0031
+051	Sometimes, when you hear really good news you get a bit dizzy, right? I guess the same goes for when you find out about something tragic, too.
+052	Hope, despair, and the emotions that they inspire create waves, which in turn bring about very slight distortions in time.
+053	When the difference between hope and despair reaches its furthest point, it creates a rift, and pouring immense magical energy into that rift is what initiates Chance Encounter.
+054	If you know so much about it, Nyx, then surely you could bring about Chance Encounter too, couldn't you?	VO_cheryl.cheryl_sys_0001
+055	Mira, my big sis...? She's a genius, you know.
+056	I'm one to consider things logically, by following the causal relationship between events starting from the point furthest in the past.
+057	My sister, though, she always has her eyes on the future. She does whatever she fancies doing. Everything she does is based on her whims.
+058	I see. That explains why we were so randomly pulled from the future.	VO_cheryl.cheryl_sys_0045
+059	I can't do things like that. It's just not me.
+060	Besides, I don't have nearly enough power right now. I wonder if my sister took it all?
+061	Is it a kind of magic?	VO_rofia.rofia_sys_0044
+062	Heh. Space-time manipulation is surely ancient witchcraft in your time.
+063	I suppose that would indeed be the case. I think I believe it now. You are from the past, after all.	VO_cheryl.cheryl_sys_0002
+064	I don't care if you don't believe me or not, you know. I'm just glad you're hearing me out.
+065	This might sound kinda weird, but if it wasn't for you two getting mixed up in that fight, I never would've found my sister. So...thanks.
+066	Y-you are most welcome.	VO_cheryl.cheryl_sys_0011
+067	It wasn't a leisure trip or anything, you know. We ended up in some ruins with this giant thing attacking us.	VO_rofia.rofia_sys_0016
+068	Would you pass on our gratitude when you return to your time?	VO_cheryl.cheryl_sys_0001
+069	Of course.
+070	I wish we could thank Wilhelm and... What was her name again? Alby... Alba...	VO_cheryl.cheryl_sys_0039
+071	Are you talking about Albea?
+072	Huh?
+073	I wouldn't normally intrude like this, but I've been waiting for you to wake up.	VO_kaya.kaya_chara_1011
+074	Y-you...! You're...!	VO_cheryl.cheryl_sys_0026
+075	Do you know her, Cheryl?	VO_rofia.rofia_sys_0002
+076	Sh-she's the former Captain of the 2nd Regiment of the Holy Guard... Kaya.	VO_cheryl.cheryl_sys_0002
+077	Impressive. I see that you're well-informed even on retired captains from previous decades. You're an inquisitor, I take it?	VO_kaya.kaya_sys_0005
+078	You disappeared after retiring from the Holy Guard—but that was... That was decades ago!	VO_cheryl.cheryl_sys_0017
+079	What?! Does that mean she's already a crone? She really doesn't look like one, though...	VO_rofia.rofia_sys_0025
+080	Ahahahaha! Just how old do you think I am?	VO_kaya.kaya_sys_0001
+081	M-maybe just a tiny bit older than me?	VO_rofia.rofia_sys_0031
+082	I don't know your age, but I suppose I must look fairly young, then.	VO_kaya.kaya_sys_0009
+083	Shouldn't you be an old lady?!	VO_rofia.rofia_sys_0025
+084	Perhaps decades have passed since I retired, but for me, that event was only a few days ago.	VO_kaya.kaya_sys_0001
+085	Wh-what does that mean?!	VO_cheryl.cheryl_sys_0025
+086	No way! Are you a time-traveler, too?!
+087	No. If I had to liken myself to someone, it would be her.	VO_kaya.kaya_sys_0039
+088	M-me?	VO_rofia.rofia_sys_0025
+089	Like you, I too, was killed by the Holy Guard.	VO_kaya.kaya_sys_0021
+090	Well, to put a finer point on it, I was killed by the dark underbelly of the Holy Guard.
+091	The...dark underbelly?	VO_cheryl.cheryl_sys_0006
+092	They are known as Corpse.	VO_kaya.kaya_sys_0006
+093	I have never heard this name before. You claim that they are part of the Holy Guard?	VO_cheryl.cheryl_sys_0026
+094	Of course, they do not make their existence obvious to inquisitors like yourself. Those who know of them are shortly erased, as a matter of fact. As we were.
+095	Ah!
+096	P-please! You must tell me of them!
+097	Are you prepared for the truth of it? You might not like what I have to say.	VO_kaya.kaya_sys_0005
+098	I am. This is for the good of my organization, for my mission, and...above all...for Lofia's sake.	VO_cheryl.cheryl_sys_0005
+099	Corpse are a league of assassins in service to the Holy Order of Babel.	VO_kaya.kaya_sys_0021
+100	Their mission is to eliminate—in absolute secrecy—those who would touch upon the mysteries of Alchemy, as well as those who claim possession of the Sacred Stones and anything pertaining to them...
+101	All so that they can retain their monopoly on the selfish use of Alchemy.
+102	So they were the ones who came after me! Corpse!
+103	Ugh. I can't stop the bleeding. This is bad.
+104	The reason for all of this is because the Holy Order of Babel is desperate to cover up the existence of the Cursed Beasts, as well as to silence those who learn of them.
+105	As such, the activities of the organization called Corpse can largely be divided into two different categories: warnings and elimination.
+106	Warnings involve applying pressure to those whose actions have not yet made them targets for assassination, in order to have them distance themselves from the truth.
+107	Of course, they are not shy about elimination—dead men tell no tales, after all. However, those who are given warnings are afforded the possibility of escaping with their lives.
+108	Elimination, on the other hand, is carried out regardless of the difficulties faced. Once decided, the target's life will be taken.
+109	I didn't think I would be so disappointed to face the end.	VO_kaya.kaya_battle_0028
+110	They intended to eliminate me. I was their target.
+111	This isn't like me at all.	VO_kaya.kaya_chara_1008
+112	...	VO_kaya.kaya_sys_0027
+113	I must...survive this.	VO_kaya.kaya_sys_0043
+114	Th-this stone...should...
+115	Othima's research created a Philosopher's Stone with the ability to seal people away.
+116	Making use of the techniques that he employed, I managed to create a similar stone.
+117	After unearthing the history of the present day, I was going to use this stone to go ahead and look upon the history of the future.
+118	I imagined myself an observer of history... How foolish. It really isn't like me to daydream.
+119	...	VO_kaya.kaya_battle_0022
+120	I'm sorry...that I couldn't stay with you...	VO_kaya.kaya_sys_0036
+121	Zain.	VO_kaya.kaya_sys_0007
+122	I swear on my honor as a knight.
+123	The stone in which I was sealed fell from a gap between the flagstones of the ruins, escaping the notice of Corpse.
+124	It passed right through the underground of Slothstein, eventually ending up in Lost Blue.
+125	It is difficult to break the seal of such a stone, even with outside interference, so it truly was a gamble I made that day.
+126	It is the Alchemia Pura, the immense Alchemia that I carry within me, which allowed me to live for so long, preserving my life within the stone.
+127	Eventually, after much time had passed, the stone's power gradually faded and the seal weakened along with it until—at long last—I was released from its confines.
+128	When I woke, the Lion Monarch's Charge was a thing of the past and the world had changed drastically.
+129	So too, had the Holy Order, and even the justice of the continent.
+130	My, I don't usually waffle on like this.	VO_kaya.kaya_chara_1008
+131	I used up most of my Alchemia in my resurrection, so I am still far from at my best.	VO_kaya.kaya_sys_0022
+132	I have continued my research in secret, both in Lost Blue and here in Real Heaven.
+133	Never in my wildest dreams, however, did I imagine that I would be able to meet an inquisitor.	VO_kaya.kaya_sys_0008
+134	The Cursed Beasts... Corpse... The ancient army of Demonic Soldiers that I witnessed during Chance Encounter... Visitors from the distant past...
+135	Taken together, I have ample evidence with which I can censure the Holy Order and bring its dark side into the light!	VO_cheryl.cheryl_sys_0045
+136	If you do all that...will I be able to return to Lustburg?
+137	Yes, although you will need to be patient for just a little longer.	VO_cheryl.cheryl_sys_0005
+138	...
+139	I wanted to talk to you about that. Erm... Lofia, was it?	VO_kaya.kaya_sys_0001
+140	Yes?
+141	The information that you have uncovered is likely not so different from that which I hold, making you a target for elimination by Corpse.
+142	Well, they did try to kill me.	VO_rofia.rofia_sys_0031
+143	Corpse is not so naive an organization as we may think.	VO_kaya.kaya_sys_0039
+144	Oh?
+145	We've already beaten them several times, you know.
+146	That would be because Cheryl has been designated to receive a warning.	VO_kaya.kaya_sys_0031
+147	I suppose they did withdraw rather skillfully, but...	VO_cheryl.cheryl_sys_0031
+148	Lofia. You were healed after Chance Encounter, weren't you?
+149	Have you noticed anything...odd? About yourself, I mean.	VO_kaya.kaya_sys_0001
+150	Odd...? Well, my wounds aren't fully healed, but that's not all that strange.	VO_rofia.rofia_sys_0031
+151	Told you! You should be lying down!
+152	You do realize...	VO_kaya.kaya_sys_0002
+153	That you were killed, don't you?
+154	Huh? I-I mean, they tried, but I'm alive.
+155	No.	VO_kaya.kaya_sys_0039
+156	Your body...	VO_kaya.kaya_sys_0002
+157	It is dead. You are already dead.	VO_kaya.kaya_sys_0006
+158	H-huh?
+159	What?	VO_cheryl.cheryl_sys_0006
+160	She's...dead?
+161	It would have taken some truly elaborate and refined magic. Forcing a soul to rejoin its lifeless body... Only a truly skilled Mage could accomplish such a feat.	VO_kaya.kaya_sys_0021
+162	H-hold on a second...
+163	It is not your physical body that is animate, but rather, the soul inside you.
+164	H-hold it!
+165	Your bodily functions will gradually deteriorate. First will come a loss of the senses, such as taste and touch.
+166	Eventually, both your mind and your body will come to a standstill, your soul will depart, and you will die.
+167	S-stop! Just stop talking for a second!	VO_rofia.rofia_sys_0013
+168	What...is this nonsense?	VO_cheryl.cheryl_sys_0002
+169	I know that the truth must be difficult for you to hear.	VO_kaya.kaya_sys_0036
+170	What you are saying cannot possibly be true!	VO_cheryl.cheryl_sys_0014
+171	Does that... Does that mean that her wounds won't...?
+172	Her body's healing capabilities have been drastically reduced.	VO_kaya.kaya_sys_0006
+173	N-no! I...! I'm...!	VO_rofia.rofia_sys_0021
+174	It is good to see that you are all right.
+175	Good?! Exactly what part of this is good?!
+176	Does she look all right to you?! You... It's your fault that Lofia—!
+177	Why was Lofia attacked, then?!
+178	That matter...is currently under investigation.
+179	You killed Lofia! It was all you lot! You're all to blame!
+180	I-I'm...! I'm still alive!
+181	Are you sure you didn't sense it?	VO_kaya.kaya_sys_0001
+182	Ngh... N-no...! Not really... Not at all!
+183	Very well. Perhaps we might have something spicy for now, then?	VO_cheryl.cheryl_sys_0005
+184	Where do you keep all those pickles, anyway?	VO_rofia.rofia_sys_0025
+185	Would you like some?	VO_cheryl.cheryl_sys_0001
+186	Hmmm...	VO_rofia.rofia_battle_0024
+187	Yes, please!	VO_rofia.rofia_sys_0032
+188	Hmhm. Here you are.	VO_cheryl.cheryl_sys_0008
+189	Umgf...
+190	Oh.
+191	How are they?	VO_cheryl.cheryl_sys_0001
+192	...
+193	They're not spicy anymore.
+194	Nnngh!	VO_rofia.rofia_sys_0042
+195	Lofia?!
+196	Aggghhhhh! I-I can't... I can't walk!	VO_rofia.rofia_sys_0043
+197	She is unlikely to ever regain the stamina that she once had.	VO_kaya.kaya_sys_0015
+198	Is this an aftereffect of the time leap?!
+199	Th-that's... There's no way! It's...impossible!
+200	Lofia...?	VO_cheryl.cheryl_sys_0003
+201	Umgf... Mmff... You need sugar for energy... Umgf... So I brought everything I could carry.
+202	I've got cookies, cream puffs, tarts, brioche... They're a little squishy, but they're still good.
+203	...
+204	Umgf... Mmff... Umgf...
+205	It's impossible. There's no way. There's just no way.
+206	Lofia... Stop. Please.
+207	Th-there's no way...they could possibly taste...any less delicious...than they always have...
+208	Lofia!
+209	Nothing.
+210	I taste...nothing. No sweetness at all.
+211	Cheryl!
+212	Courage, I'm sorry, but—
+213	Look outside!	VO_courage.courage_sys_0002
+214	Wh-what is it?	VO_cheryl.cheryl_sys_0025
+215	It's snowing!
+216	What...?	VO_knightm.knightm_sys_0020
+217	It never snows in Redington. It wasn't even cold today!	VO_knightf.knightf_sys_0022
+218	Umgf... Mmff... Umff... Umgf...
+219	Umgf... Ahh!
+220	Haaaa...haaaa...haaaa... Oh!
+221	Wh-where...?
+222	Wh-where is Lofia?!
+223	Arghh! The ground is freezing cold! I-is this...ice?!	VO_knightm.knightm_sys_0028
+224	The store is frozen over! What the heck?! What in blazes is goin' on here?!	VO_knightm.knightm_sys_0027
+225	That girl...! What is she doing here?!
+226	Get away from her!
+227	You killed her!
+228	I...!	VO_cheryl.cheryl_sys_0025
+229	You... You alchemists took Lofia from me! You stole everything—everyone—from me!
+230	E-everyone...? What are you talking—?!	VO_cheryl.cheryl_sys_0014
+231	I hate Alchemy! I hate it! I despise it! I loathe it!

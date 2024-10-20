@@ -1,0 +1,195 @@
+﻿001	(From the moment I was born, I was alone. I grew up in this room without a single companion.)	VO_zaharu.zaharu_sys_0018
+002	(I knew nothing of my parents. I knew nothing of myself.)
+003	(Three times a day, the sound of a key turning in the lock announced the arrival of the servant girl who brought my meals.)
+004	(The girl called me Zahar. I guessed it was my name.)
+005	(She always looked at me with eyes filled with scorn.)	VO_zaharu.zaharu_battle_0019
+006	(Perhaps it is hard to imagine, but that was the time when I felt most keenly that I was hated by those around me.)
+007	(Even though I didn't know why. No one ever told me. No one ever even spoke to me.)
+008	Look, look! The flowers are blooming! How pretty!
+009	(Sometimes, I heard the voices of other children outside.)	VO_zaharu.zaharu_sys_0007
+010	(It was forbidden to open the curtains, but I would open them just enough to peek outside.)
+011	(That room was always dark. My life was inextricably linked to that darkness.)
+012	(That was why I so desperately envied those who existed outside of it.)
+013	(There were a great many books to read in that room. I read all of them to learn about the world.)
+014	(One day...)
+015	I am pleased to make your acquaintance.	VO_laetitia.laetitia_sys_0007
+016	My name is Letitia. I shall be your caregiver from today.
+017	...
+018	(She looked right at me. She even spoke to me.)
+019	Hello, Zahar. I am only a little older than you, I hear. I could be your sister. Heh.	VO_laetitia.laetitia_sys_0001
+020	Sis...ter?	VO_zaharu.zaharu_sys_0025
+021	Yes. I also heard that you have been on your own all this time. It must have been very lonely.	VO_laetitia.laetitia_sys_0004
+022	From today, I shall be your sister. We shall be less lonely together.	VO_laetitia.laetitia_sys_0007
+023	I have not been lonely. I have no need of a family. After all, I never had one before.	VO_zaharu.zaharu_sys_0007
+024	I see. Even here, there is no place for me.	VO_laetitia.laetitia_sys_0016
+025	Excuse me?
+026	Ah, it is nothing for you to concern yourself with.	VO_laetitia.laetitia_sys_0036
+027	This is just the same as everywhere else I have been.	VO_laetitia.laetitia_sys_0030
+028	Why are you looking for a place?	VO_zaharu.zaharu_sys_0006
+029	What? You... I see. I am a dark elf.	VO_laetitia.laetitia_sys_0027
+030	Dark elf...?	VO_zaharu.zaharu_sys_0025
+031	Yes. I suppose nobody ever told you... You really were all alone all this time...	VO_laetitia.laetitia_sys_0016
+032	Y-you... Would you tell me? Can you tell me who I am? Who my parents are?! And...what is a half-elf?!	VO_zaharu.zaharu_battle_0021
+033	It might not be what you want to hear. It may even be painful to hear.	VO_laetitia.laetitia_sys_0001
+034	Yes. I want to know. I have to know! Tell me!	VO_zaharu.zaharu_battle_0019
+035	Okay. I will. Let me start from the beginning...	VO_laetitia.laetitia_sys_0038
+036	(Letitia is the one who taught me everything...)
+037	(I was the unwanted spawn of a high-elf princess and a human.)
+038	(My father was executed when my existence came to light. My mother died soon after I was born.)
+039	(My family was, apparently, highly regarded among even the highest of high-elves. Knowledge of my existence would have been a stain on their reputation.)
+040	Dark elves like me are also despised by the high-elves.	VO_laetitia.laetitia_sys_0030
+041	But why?	VO_zaharu.zaharu_sys_0025
+042	Once upon a time, one of my ancestors slayed their friend in cold blood.	VO_laetitia.laetitia_battle_0019
+043	The ill-gotten dark power they received for slaying a high-elf caused their Alchemia to transform them into a fallen being.
+044	We carry the blood of those traitors in ourselves. That is why the pure-blooded high-elves disdain us.	VO_laetitia.laetitia_sys_0029
+045	Why did your ancestor kill their own friend?	VO_zaharu.zaharu_sys_0007
+046	I do not know. It happened too long before either of us were born.	VO_laetitia.laetitia_sys_0030
+047	Letitia... Why are you here?	VO_zaharu.zaharu_sys_0049
+048	This family... They bought me.	VO_laetitia.laetitia_sys_0018
+049	Bought you...?	VO_zaharu.zaharu_sys_0025
+050	I am a slave. The dark elves challenged the high-elves, and lost.	VO_laetitia.laetitia_sys_0004
+051	I am, essentially...a prize of war.
+052	That is why I am here. It is my fate to come here, to be with you.
+053	Slave...	VO_zaharu.zaharu_sys_0018
+054	(I had learned of slaves before, in books.)
+055	(So I understood that the two of us were the same. We were both people with no home left to us.)
+056	Letitia... Would you stay here?	VO_zaharu.zaharu_sys_0049
+057	Oh. If...it is all right...but you...	VO_laetitia.laetitia_sys_0027
+058	I want to learn more from you. So...please. Stay.	VO_zaharu.zaharu_sys_0007
+059	Thank you, Zahar. I will stay with you as long as you want me to.	VO_laetitia.laetitia_sys_0033
+060	(We were inseparable after that.)
+061	(When she wasn't with me, I stayed in the room, alone again.)
+062	(I learned so much from her about the world; things that were not in my books.)
+063	(Things...I would have never known if I had not met her.)
+064	Look, look! I found a seed!
+065	Wow! It's so round and cute!
+066	...
+067	Zahar, it's time to eat. Oh... What are you looking at?	VO_laetitia.laetitia_sys_0002
+068	There are children outside. If I strain my eyes, I think I can see a huge tower in the distance, as well...	VO_zaharu.zaharu_sys_0007
+069	Zahar... Do you want to go outside?	VO_laetitia.laetitia_sys_0001
+070	No. It's better in here, with you. I mean...	VO_zaharu.zaharu_chara_1001
+071	You mean...?	VO_laetitia.laetitia_sys_0027
+072	It is too bright outside. It's...uncomfortable.	VO_zaharu.zaharu_sys_0049
+073	"Throw off the chains the glitterati have laid upon thou and rise to be the King of Darkness."	VO_laetitia.laetitia_sys_0016
+074	What...? What is that?	VO_zaharu.zaharu_sys_0025
+075	An old saying of the dark elves. "For whom does the King of Darkness rise? For whom does the King of Darkness fight?"	VO_laetitia.laetitia_sys_0004
+076	The King of Darkness...	VO_zaharu.zaharu_sys_0025
+077	The dark elves have always been the target of abuse from other elves, especially high-elves.	VO_laetitia.laetitia_sys_0004
+078	For us, this is a prophecy of hope; one that promises that a hero will rise up to save us from our suffering.	VO_laetitia.laetitia_sys_0007
+079	I would do it.	VO_zaharu.zaharu_sys_0018
+080	Huh?	VO_laetitia.laetitia_sys_0006
+081	If someone ever tried to hurt you... I would rise up and become the King of Darkness to save you.	VO_zaharu.zaharu_sys_0007
+082	Zahar... Thank you. That's a promise, isn't it?	VO_laetitia.laetitia_sys_0033
+083	Yes. I promise.	VO_zaharu.zaharu_sys_0004
+084	Well, in that case... I had better teach you some alchemy so that you can keep your promise.	VO_laetitia.laetitia_sys_0007
+085	Alchemy?
+086	But it has to be our little secret, okay? It is forbidden for those outside the Holy Guard to use alchemy.	VO_laetitia.laetitia_sys_0030
+087	However...if you truly wish to become the King of Darkness, you will need alchemy. I believe that you can do it.
+088	I will do it. If it will help me protect you, I will do anything.	VO_zaharu.zaharu_sys_0007
+089	Heheh. Thank you, Zahar. Then, here is a present to seal our promise.	VO_laetitia.laetitia_sys_0007
+090	A necklace...? Made of wood?	VO_zaharu.zaharu_sys_0006
+091	It's a special handmade necklace, just for you. Take good care of it, okay?	VO_laetitia.laetitia_sys_0004
+092	Okay... Thank you.
+093	(One day...)
+094	(Letitia was late bringing my food. I was hungry...)	VO_zaharu.zaharu_sys_0031
+095	What is...?
+096	My liege... Please, no...	VO_laetitia.laetitia_battle_0022
+097	(Letitia...?)	VO_zaharu.zaharu_sys_0025
+098	You pathetic, disgusting dark elf! You've gotten dirt on my clothing!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+099	I-I didn't do it, sir... You crashed into me...	VO_laetitia.laetitia_sys_0029
+100	Listen to you. Are you talking back to me, dark elf?	VO_mob-saga_omale.mog-saga_omale_sys_0031
+101	N-no...	VO_laetitia.laetitia_battle_0022
+102	Tsk... Well, you can pay me back...with your Alchemia.	VO_mob-saga_omale.mog-saga_omale_sys_0010
+103	(What is happening? I can see a little through the keyhole...)	VO_zaharu.zaharu_sys_0049
+104	Get on your knees, dark elf. I'll take it myself.	VO_mob-saga_omale.mog-saga_omale_sys_0012
+105	Ngh...!	VO_laetitia.laetitia_battle_0019
+106	(Letitia!)	VO_zaharu.zaharu_battle_0021
+107	...
+108	I said to get on your knees. What are you, deaf?	VO_mob-saga_omale.mog-saga_omale_sys_0012
+109	Tch, dark elves are all the same. Dumb as cattle.	VO_mob-saga_omale.mog-saga_omale_sys_0016
+110	I understand.	VO_laetitia.laetitia_sys_0029
+111	Good. Then get on your knees.	VO_mob-saga_omale.mog-saga_omale_sys_0010
+112	(Letitia!!!)	VO_zaharu.zaharu_sys_0028
+113	Stop! Stop!!!	VO_zaharu.zaharu_battle_0024
+114	Wh-What is...?!	VO_mob-saga_omale.mog-saga_omale_sys_0026
+115	Z-Zahar...	VO_laetitia.laetitia_sys_0027
+116	Leave...her...alone!	VO_zaharu.zaharu_sys_0027
+117	The half-elf? How dare you leave that room, you festering half-breed!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+118	I will tell my father! You, who killed my wife... You will die, just as your father did!
+119	No!!!
+120	Nngh?! Urg... H...elp...	VO_mob-saga_omale.mog-saga_omale_sys_0043
+121	Zahar...
+122	Grr... Graaahhhhhhh!!!	VO_zaharu.zaharu_sys_0043
+123	Zahar!
+124	(I don't remember anything after that.)
+125	(Some elf elder I'd never seen before showed up and ordered us to leave.)
+126	(My prison and my paradise...I lost them both in one fell swoop.)
+127	(Reborn, and cast out into the world, I finally got to see what lay behind those four walls.)
+128	...
+129	So? What do you think?	VO_laetitia.laetitia_sys_0001
+130	It's...big.	VO_zaharu.zaharu_sys_0007
+131	Haha! It gets bigger than this! The towns are bigger, the mountains, the oceans, the forests...and the tower.	VO_laetitia.laetitia_sys_0004
+132	Tower...? The Tower of Babel? That we could see in the distance from the house?	VO_zaharu.zaharu_sys_0025
+133	Yes! Do you want to go see it?	VO_laetitia.laetitia_sys_0004
+134	Hm... I think I do.	VO_zaharu.zaharu_sys_0007
+135	Okay! It's a little far, though. I don't know if we'll be able to make it.	VO_laetitia.laetitia_sys_0016
+136	Come on, let's go! The two of us can go anywhere we want!	VO_zaharu.zaharu_sys_0023
+137	That's true. You're so strong, Zahar. It was amazing to see you in action.	VO_laetitia.laetitia_sys_0004
+138	I didn't know I had that in me... I just completely lost it when I saw you being treated like that.	VO_zaharu.zaharu_sys_0027
+139	Actually, I've been feeling off since I killed that elf...
+140	It's probably because you've become a dark elf, like me.	VO_laetitia.laetitia_sys_0018
+141	When an elf kills another, the Alchemia in the blood that is spilled transforms them into a dark elf.
+142	I'm...a dark elf? Oh... Oh! That makes me...happy!	VO_zaharu.zaharu_sys_0008
+143	Wh-what? Why? Dark elves are despised by all of elven society!	VO_laetitia.laetitia_sys_0027
+144	What does that matter to me? But that I could become someone a little more like you... That's an honor.	VO_zaharu.zaharu_sys_0007
+145	Zahar... You really have become my defender. Thank you.	VO_laetitia.laetitia_sys_0034
+146	Of course I did! I promised you, didn't I? I will become the King of Darkness to protect you.	VO_zaharu.zaharu_sys_0023
+147	Yes, you did. You... Well. Yes. I believed you then, and I believe you now.	VO_laetitia.laetitia_sys_0004
+148	My King of Darkness.
+149	(Ever since then, we have travelled all over the world.)
+150	(The world is truly as great and wide as she said. Filled with struggle and cruelty...but also kindness and beauty.)
+151	(I had grown to hate it when all I could see was a tiny sliver of what I couldn't have, but I fell in love with the world that I could move through freely.)
+152	(We battled goblins and the occasional human on our journeys. Our coming of age was filled with danger and adventure.)
+153	(Hundreds, thousands of days later...)
+154	Hey, did you hear? A forest in the west of Wratharis has completely withered.	VO_thiefm.thiefm_sys_0002
+155	Oh yeah, I heard that. I even heard that it's become an actual desert!	VO_thiefm.thiefm_sys_0004
+156	No way! Isn't that where the elves lived?	VO_thiefm.thiefm_sys_0030
+157	What?! That stuck-up lot? I didn't know they lived outside the dominion of the Holy Order...	VO_thiefm.thiefm_sys_0006
+158	Yeah. Well, they're probably dead now, if that forest has fallen to desertification.	VO_thiefm.thiefm_sys_0004
+159	Still, it's crazy how all these forests and towns are just dying out like this, huh?	VO_thiefm.thiefm_sys_0031
+160	The world's totally gone curdled... There're goblins and ferals everywhere, fights breaking out all over...	VO_thiefm.thiefm_sys_0030
+161	...
+162	What's on your mind, Zahar?	VO_laetitia.laetitia_sys_0001
+163	Nothing. We should head out soon.	VO_zaharu.zaharu_chara_1001
+164	Now that I think about it, we've been travelling all this time and we haven't made it to the Tower of Babel yet.	VO_zaharu.zaharu_sys_0031
+165	Hmm, you're right. Well, it's not really easy to get to it with the Holy Guard patrolling the surroundings, and the prohibition on alchemy...	VO_laetitia.laetitia_sys_0004
+166	But we still have time. We'll get to it one day.	VO_laetitia.laetitia_sys_0007
+167	One day... You're right. I wonder... I wonder if the elves in that forest really are gone. Those high-elves who imprisoned us...	VO_zaharu.zaharu_sys_0007
+168	Huh. Well... They were the kind who were quite stuck in their ways. I suspect they died along with that forest.	VO_laetitia.laetitia_sys_0022
+169	What? Do you mourn their loss?	VO_laetitia.laetitia_sys_0001
+170	Hmph. Of course not. I feel nothing. Really.	VO_zaharu.zaharu_sys_0010
+171	I am the same.	VO_laetitia.laetitia_sys_0004
+172	I'm more concerned with the future than the past.	VO_zaharu.zaharu_sys_0002
+173	The future?	VO_laetitia.laetitia_sys_0006
+174	Yes. We elves live for a long time... I'm starting to wonder how to fill that time.	VO_zaharu.zaharu_sys_0004
+175	It's been on my mind for a while.
+176	This world is a bright and beautiful place, but...war and suffering...never seem to end.	VO_zaharu.zaharu_sys_0018
+177	In fact, it only ever seems to get worse...and worse...
+178	On top of that, the forests are dying and turning to desert. I've been thinking that this world needs to change.
+179	It seems to me like the only ones who are able to do something about it...are us elves.	VO_zaharu.zaharu_sys_0031
+180	I've gotten much stronger compared to when I was young. I've seen and experienced much, as well. I feel like...this is something I must do.
+181	Once I started thinking about it, I just couldn't stop.
+182	I see... Well, wherever you decide to go, whatever you decide to do... I will follow you.	VO_laetitia.laetitia_sys_0016
+183	Thank you, Letitia. Let us work together and do what we can to change this flawed world!	VO_zaharu.zaharu_sys_0004
+184	What...? What was that? Did you hear that?	VO_zaharu.zaharu_sys_0006
+185	Someone is screaming. It's coming...from that village!	VO_laetitia.laetitia_sys_0004
+186	Let's go!	VO_zaharu.zaharu_battle_0019
+187	Hyaahhhh! Graaaaaaaah!
+188	G-goblin! S-someone! Please, save us!	VO_knightm.knightm_sys_0028
+189	Cleric, where's the Holy Guard?!	VO_knightm.knightm_sys_0018
+190	I-I'm not... I'm just—!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+191	Cleric?!	VO_knightm.knightm_sys_0025
+192	N-No... It's nothing! Everyone, run! Run!	VO_mob-saga_omale.mog-saga_omale_sys_0029
+193	That village is under attack! Letitia, let's go save them!	VO_zaharu.zaharu_sys_0027
+194	Yes, I'm right behind you!	VO_laetitia.laetitia_sys_0004
+195	With this many goblins, we have no choice but to use alchemy...	VO_zaharu.zaharu_battle_0019

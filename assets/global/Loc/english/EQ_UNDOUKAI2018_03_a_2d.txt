@@ -1,0 +1,92 @@
+﻿001	The time has finally come! It's the event of the century! The Survival Race is about to start!	VO_theona.theona_sys_0007
+002	I, Teona, will be your play-by-play announcer, while Richie here—who has nothing better to do—will be your commentator!
+003	Was that necessary?	VO_rish.rish_battle_1010
+004	Now to explain the course! First, you will take ten laps around the arena.	VO_theona.theona_sys_0007
+005	Then you will cut through the plains and enter the wasteland! Over to you, Lotiyah!
+006	Hello, everyone! Lotiyah here, who you'll find at the turnaround point! Once you get to me, please make a U-turn and head straight back to the arena!	VO_lotia.lotia_sys_0004
+007	If you try to cheat, well... My sweet little babies will chase you down!	VO_lotia.lotia_sys_0007
+008	What are...?! Hey! Don't chew on the set! Stop it! B-back to you, Teona!	VO_lotia.lotia_sys_0014
+009	And that concludes the explanation of the course!
+010	Incidentally, the cameras and other equipment making this broadcast possible were acquired with the help of Phantoms from Slothstein and Lustburg!	VO_theona.theona_sys_0007
+011	This is rather a bigger deal than I thought.	VO_rish.rish_sys_0031
+012	Okay! Is everyone all set? Then it's time! Ready... Go!	VO_theona.theona_sys_0045
+013	Hahah! We're going to blow them away! Don't go falling off now!	VO_charis.charis_battle_0009
+014	Wow! Look at the Blonde Sloths go! They've taken the lead with breakneck speed!	VO_theona.theona_sys_0024
+015	W-wait! Let me get strapped in! I'm going to fall! I'm falling!	VO_megistus.megistus_battle_0027
+016	Ahahahahahahah!	VO_charis.charis_sys_0008
+017	Sh-she's fast! But you know what? So am I!	VO_daisy.daisy_sys_0025
+018	What's this?! Daisy is speeding ahead on what appears to be modified mech gear! What has she done to it?	VO_theona.theona_sys_0009
+019	We modified it to make it capable of keeping up with a motorcycle. It can now convert the user's own energy into momentum.	VO_regen.regen_sys_0010
+020	I see. Thank you for that exquisite explanation. I award you five Teona Points!	VO_theona.theona_sys_0045
+021	That little savage really goes all in, doesn't she? If nothing else, it's impressive that it can support their combined weight.	VO_rish.rish_sys_0011
+022	Hey, Richie! I can hear you, you know!	VO_daisy.daisy_sys_0016
+023	He has a point, though. It's incredible that this thing can support the two of us, especially at this speed... Reagan's Theory is phenomenal!	VO_daisy.daisy_sys_0007
+024	Hmm... I wonder if we can go any faster? Perhaps a little tweak here...	VO_regen.regen_sys_0031
+025	Aaaaahhh! I'm gonna lose my balance!	VO_daisy.daisy_sys_0027
+026	Don't panic. You must work with the speed. Imagine that you're attacking.	VO_regen.regen_sys_0002
+027	R-right!	VO_daisy.daisy_sys_0025
+028	Hold it right there!	VO_dorothea.dorothea_sys_0032
+029	Oh, would you look at that! Closing in from behind at a ferocious speed that is almost as frightening as the intensity of their love are Dorothea and Reida!
+030	Hmph! There's nothing frightening about it!	VO_dorothea.dorothea_sys_0014
+031	Look at that unbelievable dash! Incredible! Is this the hidden strength of a woman in love?!	VO_theona.theona_sys_0031
+032	Never underestimate the power of love! My feelings for my brother are strong enough to shatter boulders and hot enough to melt permafrost! This race is nothing compared to that!	VO_reyda.reyda_battle_0016
+033	I'll do whatever it takes to obtain any power that will allow me to assist him!	VO_reyda.reyda_sys_0007
+034	That's right! Do I seek power? Of course I darn well do!	VO_dorothea.dorothea_sys_0010
+035	I'll become so powerful, and then he'll... Heheheh...	VO_dorothea.dorothea_sys_0023
+036	I've been curious about this since yesterday, but... Who exactly is this man you keep referring to?	VO_reyda.reyda_sys_0002
+037	Who? I could speak of his brilliance forever, but I don't know his name.	VO_dorothea.dorothea_sys_0025
+038	I see... Unrequited love, for someone whose name you don't even know. How marvelous! I'm sure he must be a lovely man.	VO_reyda.reyda_sys_0045
+039	He is! He is stronger than anyone, and his fighting figure is remarkable. He is the best man in the world!	VO_dorothea.dorothea_sys_0007
+040	The best man...in the world?	VO_reyda.reyda_sys_0025
+041	C-could it be...?! Is that man my brother?!	VO_reyda.reyda_sys_0021
+042	What?!	VO_dorothea.dorothea_chara_1004
+043	There can be no mistake! The man you just described...	VO_reyda.reyda_sys_0029
+044	The best man in the entire world... He can be none other than my brother, Reido!
+045	As if I could love such a lanky man! Don't make me laugh! Just imagining it gives me chills!	VO_dorothea.dorothea_sys_0013
+046	E-excuse you?! The price for saying such horrible things about my brother is death! Prepare yourself!	VO_reyda.reyda_sys_0027
+047	You're the one who should die for insinuating that I would like a weed like that! I hope you're not expecting me to go easy on you!	VO_dorothea.dorothea_chara_1004
+048	Uh-oh. What's this? Are the two lovestruck women having some sort of internal conflict?! They're at each other's throats so intensely they've gone off course!
+049	There, passing them by, is...the Magia Gunslinger Pair!	VO_theona.theona_sys_0007
+050	Is that really our team name? Couldn't she come up with something cooler?!	VO_vivi.vivi_sys_0030
+051	Look at those two... They're so heated up over—whoa!	VO_lavina.lavina_sys_0029
+052	Oh, no! Ravina, distracted by the fight, has tripped over a pebble!
+053	Careful! You would've gotten hurt if I hadn't caught you!
+054	S-sorry...	VO_lavina.lavina_chara_1006
+055	You all right? You've gotta stay focused, okay?	VO_vivi.vivi_sys_0030
+056	I... I am!	VO_lavina.lavina_sys_0012
+057	Don't worry. I'll catch you again if I have to. Now, let's head straight for the goal!	VO_vivi.vivi_sys_0007
+058	R-right!	VO_lavina.lavina_chara_1006
+059	Aww, how sweet! Fifty Teona Points to the Magia Gunslinger Pair!	VO_theona.theona_sys_0009
+060	What exactly is your standard for giving out these points based on?	VO_rish.rish_sys_0001
+061	What is this?	VO_meifan.meifan_sys_0029
+062	Oh? Is it really so unclear what I feel deserves to be rewarded points? It's very simple. You see—	VO_theona.theona_sys_0006
+063	Nobody cares about that! Vivi!	VO_meifan.meifan_sys_0018
+064	Hey! The audience is not allowed to enter the race cou... She is definitely not listening.	VO_theona.theona_sys_0016
+065	M-Mei Fang?! What's wrong?!	VO_vivi.vivi_sys_0026
+066	What do you mean, what's wrong?!	VO_meifan.meifan_sys_0013
+067	I came all the way out here to cheer you on for this race and what is this I find?! That girl! Who is she?!
+068	M-me?	VO_lavina.lavina_sys_0025
+069	Yes, you! I do not appreciate those leering eyes of yours one bit, nor will I tolerate the way in which you are ogling my best friend! Are you conspiring against me, you thieving cat?!	VO_meifan.meifan_sys_0029
+070	Who are you?! You're so rude!	VO_lavina.lavina_sys_0012
+071	We're taking this competition seriously. If you're going to get in our way, I won't hold back!
+072	Hmph! I'd love to see you try and so much as touch me, peasant!	VO_meifan.meifan_sys_0010
+073	What a turn of events! Ravina seems to be preparing to do battle with Mei Fang!	VO_theona.theona_sys_0025
+074	Let's see how Vivi reacts to this situation!
+075	Well, looks like Mei Fang might make a new friend, so I guess I'll...do nothing?	VO_vivi.vivi_sys_0031
+076	She will do nothing! She's just going to stand back and watch! Meanwhile, the gap between them and those in the lead is growing as we speak!
+077	If this continues, the victory will go to either Caris' team, or to the little savage and her mate.	VO_rish.rish_chara_1017
+078	Oh, no, Richie! Aren't you forgetting someone?!	VO_theona.theona_sys_0010
+079	Aaagh! Why am I doing this?! This is pointless!	VO_gormalas.gormalas_battle_0025
+080	Captain Gormalas! We'll never catch up to the lead at this pace!	VO_dhiruga.dhiruga_sys_0029
+081	We, the warriors of the De Tribe and Go Tribe—once enemies, now comrades—shall take the day!
+082	Enough! I'm done playing this foolish game!	VO_gormalas.gormalas_sys_0012
+083	You know, I heard that the grand prize for winning this competition is some rather valuable treasure.	VO_dhiruga.dhiruga_sys_0031
+084	Why didn't you say that before?! Let's do this!	VO_gormalas.gormalas_battle_1017
+085	Glad to have you on board! Now it is time for us to unleash our power!	VO_dhiruga.dhiruga_sys_0008
+086	Huzzahhh!	VO_dhiruga.dhiruga_sys_0032
+087	Wh-what the—?! Are those stars? Bonfires? No...! They're two bright souls, and they're charging this way!	VO_daisy.daisy_sys_0027
+088	Hey, what was it that you said was important for Mech War Games? What do you need to do to win?	VO_regen.regen_sys_0002
+089	What? Uh, you need the speed and precision to hit your opponent in certain applicable areas!	VO_daisy.daisy_sys_0025
+090	I see. Then use that precision and speed, Daisy, and you should be able to win against their muscles.	VO_regen.regen_sys_0031
+091	Thanks! I've got it!
+092	And now...we fight!	VO_dhiruga.dhiruga_battle_0012

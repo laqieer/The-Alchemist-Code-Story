@@ -1,0 +1,69 @@
+﻿001	Wow! You're all so powerful!	VO_shengmei.shengmei_sys_0009
+002	Naturally! Those who would call themselves adventurers must be strong!	VO_princess.princess_sys_0004
+003	Some things are worthy of a little pride. Your command was excellent, Sovereign.	VO_gunner.gunner_battle_0013
+004	Indeed! Gunner, your marksmanship was magnificent!	VO_princess.princess_sys_0005
+005	Thanks for watching my back, Protector! You really saved me back there.	VO_fencer.fencer_sys_0034
+006	Heheh. As a Protector, it is my duty to be the shield of any adventurer. Your swordsmanship is impressive, Fencer.	VO_paladin.paladin_sys_0023
+007	I'm so jealous of all of you! If only I could appear as I was... I just don't feel like myself anymore.	VO_shengmei.shengmei_sys_0030
+008	Are you sure? I thought you were fantastic.	VO_gunner.gunner_sys_0006
+009	R-really? Heheh... Well, I am a pirate, after all. Oh, that's right! I still don't get what's going on here, so...	VO_shengmei.shengmei_sys_0025
+010	Right. We need to explain what happened. I'll start.	VO_gunner.gunner_sys_0045
+011	We are adventurers from another world. We heard a voice crying for help, and followed it here.
+012	According to Fencer, the voice is somehow related to the linking of our worlds.
+013	A cry for help? Hmm... I can't ignore someone in trouble, even if we have to find them first.	VO_shengmei.shengmei_sys_0031
+014	If we help them, it might fix the link between our worlds, so that we can all go home!	VO_fencer.fencer_sys_0004
+015	Perhaps, but there is no guarantee.	VO_gunner.gunner_sys_0005
+016	Good! Now we know what needs to be done! We must embark on an adventure to seek out the owner of that voice!	VO_princess.princess_chara_1005
+017	I'll do whatever it takes to get home—but first, it's most important for us to help the person in need!	VO_paladin.paladin_sys_0005
+018	Indeed! A motley bunch we may be, but I am counting on all of you!	VO_princess.princess_sys_0004
+019	Hell yeah! U-um...? Shouldn't we be going?	VO_shengmei.shengmei_sys_0032
+020	We should...but we have no idea where this person may be.	VO_gunner.gunner_sys_0001
+021	That's true. It would certainly save us some time if the person calling for help had also shouted their location.	VO_paladin.paladin_sys_0045
+022	Should we try asking?	VO_fencer.fencer_sys_0031
+023	Lo, there! Mysterious voice! Where are you? If you can hear me, please respond!
+024	Um... Perhaps it would be better to start by gathering information in a nearby city or village.	VO_gunner.gunner_sys_0001
+025	Indeed! Intelligence gathering is the foundation of good adventuring!	VO_princess.princess_sys_0045
+026	There should be a village west of here!	VO_fencer.fencer_sys_0037
+027	Excellent! Then, once more, I decree our adventure begun! Let us be off!	VO_princess.princess_chara_1005
+028	Hurrah!
+029	Hmmm... I'm not sure how I feel about this group.	VO_gunner.gunner_sys_0030
+030	Ahahahaha! It'll be all right! Ragtag groups like this make for the best of adventures!	VO_shengmei.shengmei_sys_0011
+031	Hmph. Perhaps you're right. I suppose it's only natural to be excited at the beginning of a new adventure, after all. Heheh.	VO_gunner.gunner_sys_0007
+032	...
+033	Wh-what's that look for?	VO_gunner.gunner_sys_0016
+034	Everything I've seen of you so far is so cool, calm, and collected...	VO_shengmei.shengmei_event_1006
+035	So what you said just now was kind of surprising—and that smile of yours is really cute!	VO_shengmei.shengmei_sys_0007
+036	D-don't be ridiculous.	VO_gunner.gunner_sys_0047
+037	I'm not! You're definitely a passionate adventurer, just like the rest of them!	VO_shengmei.shengmei_event_1006
+038	I'd appreciate it if you wouldn't make fun of me.	VO_gunner.gunner_sys_0016
+039	Don't worry! I'm not making fun of you!	VO_shengmei.shengmei_sys_0008
+040	Gunner! Shenmei! What are you dillydallying for?!	VO_princess.princess_sys_0002
+041	L-let's go, Shenmei!	VO_gunner.gunner_battle_0019
+042	All right!
+043	I see. So you were in the middle of searching for your companions when we appeared.	VO_princess.princess_sys_0044
+044	Falling into a trap and getting separated from your group...	VO_paladin.paladin_sys_0030
+045	An elementary mistake.	VO_gunner.gunner_sys_0010
+046	Oh, no! How embarrassing. Hahahaha!	VO_fencer.fencer_sys_0011
+047	I hope you find them soon!	VO_shengmei.shengmei_sys_0007
+048	Me, too! Ah, that's the village up ahead!	VO_fencer.gunner_sys_0005
+049	Huh? Something seems off.	VO_shengmei.shengmei_chara_1008
+050	Wh-what?!	VO_fencer.fencer_sys_0006
+051	Grrrrrrraaaaaaarrrrrrrgggghhhh!
+052	M-monsters! At a time like this?!	VO_thiefm.thiefm_sys_0027
+053	Civilians should take refuge indoors immediately!	VO_knightm.knightm_sys_0042
+054	Take the infected to the Church! Quickly!
+055	We will chase away the monsters! We must not let them take even a single step into the village!	VO_knightm.knightm_battle_0010
+056	Hm...?
+057	The village is being attacked by monsters! We gotta go help out!	VO_shengmei.shengmei_sys_0027
+058	Sh-Shenmei, wait! We need to hurry!	VO_gunner.gunner_battle_0019
+059	Nrrrgggghhhh?!	VO_knightm.knightm_battle_0024
+060	Grrrraaaarrrrggggghhhh!
+061	Huzzzaaahhh!	VO_shengmei.shengmei_battle_0009
+062	You all right, soldier?!	VO_shengmei.shengmei_sys_0020
+063	Wh-who are...? Ah! Behind you!	VO_knightm.knightm_sys_0025
+064	Huh?!	VO_shengmei.shengmei_sys_0025
+065	Grrrrrraaarrrrrrrggggghhhh!
+066	Just in time!	VO_gunner.gunner_sys_0032
+067	Gunner! Th-thanks!	VO_shengmei.shengmei_sys_0034
+068	You don't need to thank me. Let's quickly take out these creatures!	VO_gunner.gunner_sys_0007
+069	Got it!	VO_shengmei.shengmei_sys_0006

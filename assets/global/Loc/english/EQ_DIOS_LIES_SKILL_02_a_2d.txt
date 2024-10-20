@@ -1,0 +1,63 @@
+﻿001	This forest is swarming with monsters and vermin. I'm surprised you made it so far on your own.	VO_dios.dios_sys_0001
+002	I've been here before, so I thought I'd be able to handle them all on my own.	VO_lizbeth.lizbeth_sys_0018
+003	Well, I guess they don't stand much of a chance when you use your alchemy.	VO_dios.dios_sys_0031
+004	But it must take a lot out of you to cast one of your spells. It's not like you can keep casting them one after another.
+005	Um...	VO_lizbeth.lizbeth_sys_1048
+006	Lisbeth, don't just stand there daydreaming. Something could take you by surprise.	VO_dios.dios_sys_0001
+007	R-right...	VO_lizbeth.lizbeth_sys_0018
+008	Well?	VO_dios.dios_sys_0045
+009	Hm?	VO_lizbeth.lizbeth_sys_0005
+010	Which way are we heading? You've been here before, haven't you?	VO_dios.dios_sys_0001
+011	Um...	VO_lizbeth.lizbeth_chara_1024
+012	Don't tell me you don't remember.	VO_dios.dios_sys_0030
+013	N-no, I do! It's this way! I think...	VO_lizbeth.lizbeth_sys_1048
+014	You think...?	VO_dios.dios_sys_0016
+015	I came here with Alma and Rebecca last time. We were chatting the whole way, so I didn't pay much attention. We had a blast, though!	VO_lizbeth.lizbeth_sys_0027
+016	That's...not what I'm worried about.	VO_dios.dios_sys_0039
+017	We climbed the rockface using some rope, and skated on the ice... It was so much fun.	VO_lizbeth.lizbeth_sys_0007
+018	That was the catalyst to us becoming good friends.
+019	This forest will always hold a special place in my heart.
+020	I see... Sounds like a wonderful memory. Good friends should be cherished.	VO_dios.dios_sys_0011
+021	Yes, definitely!	VO_lizbeth.lizbeth_sys_0006
+022	If we tiptoe across, we'll find ourselves at a field of Stub Rules.	VO_lizbeth.lizbeth_chara_1007
+023	The ice does seem solid... You're sure it's safe?	VO_dios.dios_sys_0031
+024	Yes, watch me!	VO_lizbeth.lizbeth_event_1005
+025	Hey! Lisbeth, be careful!	VO_dios.dios_sys_0001
+026	Just like Rebecca showed me... Easy does it...
+027	See?! I made it across! Alma! Rebecca! It's all thanks to you!	VO_lizbeth.lizbeth_battle_1029
+028	We're almost there. I'm positive that at the end of this path...is the ice mirror that reveals the one you love.	VO_lizbeth.lizbeth_sys_0007
+029	...
+030	(I wonder who Dias might see in the mirror?)	VO_lizbeth.lizbeth_chara_1007
+031	(He did say that there's someone who is very special to him. It must...be her.)
+032	(My chest...kind of...hurts.)	VO_lizbeth.lizbeth_sys_0027
+033	Huh? Where are we?	VO_lizbeth.lizbeth_chara_1008
+034	Hm? Dias? Where did you go? Dias?!	VO_lizbeth.lizbeth_sys_1048
+035	Ugh... What is that weird smell? Smells kind of sweet and tang—urgh... It reeks! I think I'm going to be ill...	VO_lizbeth.lizbeth_sys_0018
+036	Lisbeth...	VO_venus.venus_favorite_0002
+037	Wh-who is it?!	VO_lizbeth.lizbeth_sys_0025
+038	Y-Your Highness! Why are you here?	VO_lizbeth.lizbeth_battle_0025
+039	Lisbeth... What do you wish to attain by giving him Asmodeus? Do you hope that he will love you in return?	VO_venus.venus_favorite_0002
+040	What?! N-no, that's not it at all! I just...wanted to be of assistance to him...	VO_lizbeth.lizbeth_sys_0025
+041	Even if he won't love you back?	VO_venus.venus_sys_0044
+042	...!
+043	Your feelings are unreciprocated. He does not love you.	VO_venus.venus_sys_0002
+044	To he who desires the Sacred Stone, you are nothing but a tool to be used and discarded.	VO_venus.venus_sys_0007
+045	...
+046	Why do you waver, Lisbeth?	VO_venus.venus_sys_0006
+047	You allow these uncertain feelings of yours to cloud your judgment. For 200 years I have protected this ancient relic, and you dare to bequeath it to an outsider?!	VO_venus.venus_sys_0013
+048	My... My feelings aren't uncertain! I've thought about it again and again! This is the decision I came to after considering all possible outcomes!	VO_lizbeth.lizbeth_sys_0020
+049	Hahahahaha! Very well... If you are certain, then is it eternal love you seek?	VO_venus.venus_sys_0044
+050	If this man does not return your affections, you will find no flower at the end of your journey, nor shall you ever even hope to escape from these woods.	VO_venus.venus_sys_0003
+051	I...	VO_lizbeth.lizbeth_sys_1048
+052	Such hesitation...and yet you claim yours to be true love, Lisbeth?	VO_venus.venus_battle_0007
+053	She's too strong! I'm...going to die!	VO_lizbeth.lizbeth_sys_0027
+054	Lisbeth!	VO_dios.dios_sys_0025
+055	Are you all right?	VO_dios.dios_sys_0050
+056	Dias...? Where has...Her Highness gone?	VO_lizbeth.lizbeth_chara_1007
+057	Hmm? Oh, it seems the weeds growing here have a hallucinatory effect.	VO_dios.dios_sys_0004
+058	H-hallucinatory?! Then, none of that was real? Well, that's a relief.	VO_lizbeth.lizbeth_sys_0025
+059	(The smell has faded. Has he been watching over me all this time?)	VO_lizbeth.lizbeth_sys_1048
+060	(Actually...come to think of it... He's always been like this. He's helped me so many times before, too.)
+061	(I want to return the favor!)
+062	(There isn't even a hint of uncertainty in how I feel anymore!)
+063	Lisbeth! Here it comes!	VO_dios.dios_battle_0021

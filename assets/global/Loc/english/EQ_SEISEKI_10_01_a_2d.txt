@@ -1,0 +1,183 @@
+﻿001	A few hours earlier in Saga region. Where the road diverges towards Northern Pride.
+002	All right, Kazahaya. I'm sorry, but...	VO_ortima.ortima_sys_0007
+003	I understand.	VO_kazahaya.kazahaya_sys_0037
+004	The main Greed Dike army is currently headed towards Saga. Their final destination is Northern Pride.
+005	Yes. Assuming the worst possible outcome...that Saga's Matter has been taken...we must tighten our guard.	VO_ortima.ortima_sys_0031
+006	Of course. We have no intention of letting them do as they please.	VO_basini.basini_sys_0007
+007	Captain Othima...please, you must stop Orion's march.	VO_kazahaya.kazahaya_battle_0022
+008	Trust me. I'd love nothing better than to do so.	VO_ortima.ortima_sys_0030
+009	Still, even if we cannot stop Greed Dike's invasion...if we manage to steal their Sacred Stone.
+010	I'm thinking we may be able to reverse the tide.
+011	Sacred Stone...? Are you referring to Envylia's Leviathan? If so...	VO_kazahaya.kazahaya_sys_0005
+012	No...I'm talking about Greed Dike's Sacred Stone Mammon.	VO_ortima.ortima_sys_0031
+013	Greed Dike's Sacred Stone...?!	VO_kazahaya.kazahaya_sys_0025
+014	Yes. This is the shrewd Orion we're speaking of. I'm assuming he's not complacent enough to leave the Sacred Stone Mammon in his country.
+015	There's a high chance he's carrying it with him.
+016	I see! An eye for an eye, huh?	VO_kazahaya.kazahaya_sys_0045
+017	Indeed. If we manage to obtain it, we won't be placed at a disadvantage when it comes to the sheer number of Sacred Stones.
+018	Yes. However, I doubt matters will go so smoothly...judging by the look Basheeny's face.	VO_ortima.ortima_sys_0004
+019	Huh...?	VO_basini.basini_sys_0006
+020	You really are an honest one, aren't you? It's written all over your face.	VO_ortima.ortima_sys_0022
+021	Oh... Well, um...how can I say it...I just recalled something that's been bothering me.	VO_basini.basini_sys_0047
+022	Bothering you...?	VO_ortima.ortima_sys_0031
+023	It's just a rumor...one that I heard when I was with Waginau.	VO_basini.basini_sys_0001
+024	Apparently, Orion is harboring Greed Dike's Sacred Stone Mammon within his body.
+025	...!!!
+026	The Sacred Stone...is within his body?!	VO_kazahaya.kazahaya_sys_0025
+027	Ah, well...it's only a rumor. However, if it's true, it can pose some serious problems.	VO_basini.basini_chara_1011
+028	It was such an absurd story, I had completely forgotten about it. However...
+029	I see... So that's why Orion has been obsessing over Nimul's power.	VO_ortima.ortima_battle_0019
+030	What...?	VO_basini.basini_sys_0006
+031	Sorry, Kazahaya...there's another thing I wish to relay to Kanon.	VO_ortima.ortima_chara_1011
+032	In fact...it's by far the most important thing she must know about.
+033	The most important...?! What is it?!	VO_kazahaya.kazahaya_sys_0025
+034	There is a possibility that Orion is a Vessel of Reincarnation.
+035	...I'm sorry, but you must convey this to Kanon...even at the risk of death.
+036	...!
+037	Present day. Somewhere in Saga. A windy hill.
+038	What a deep blue sky...what bright and warm sunshine!	VO_sol.sol_sys_0024
+039	What a wonderful view! It surpasses anything I've imagined!
+040	It's a far outcry from Slothstein's foggy sky.	VO_sol.sol_sys_0046
+041	Who would've thought such a beautiful sky existed in this world!
+042	... ...
+043	Soon, this sky will belong to us, the Lost Blue! The mere thought fills me with excitement!	VO_sol.sol_sys_0009
+044	...Hey, redhead...you'll lend me your strength as well, right?	VO_sol.sol_sys_0001
+045	If you're from Wadatsumi, then you must've lost your sky as well, right?
+046	...Don't put me in the same boat as you.	VO_kagura_3s_kagu.kagura_sys_0015
+047	Jeez... Well, I guess that's what happens when people have different definitions of justice.	VO_sol.sol_sys_0022
+048	Never mind. Not only will I change your rigid worldview, but I'll change this entire world as well!	VO_sol.sol_sys_0010
+049	This entire world...? That sounds like a pipe dream.	VO_kagura_3s_kagu.kagura_sys_0012
+050	A pipe dream...?
+051	How long do you think the Holy Guard and the ruling countries are gonna let your tyranny go unchecked?	VO_kagura_3s_kagu.kagura_chara_1013
+052	They'll wipe that smirk off your face soon enough!
+053	Are you sure about that?	VO_sol.sol_sys_0031
+054	Of course, I am! At the very least...after what you did to Yauras...I will never, ever forgive you!	VO_kagura_3s_kagu.kagura_sys_0013
+055	Those who live for the moment...will never carve their names in history.	VO_sol.sol_sys_0022
+056	...What?	VO_kagura_3s_kagu.kagura_sys_1017
+057	You'll never grasp the world if you remain focused on just one aspect of it.	VO_sol.sol_sys_0010
+058	It's only the arrogance of those who live in their minuscule worlds who think there is only one truth in this world.
+059	What are you talking about?! Speak in a way that I can understand!	VO_kagura_3s_kagu.kagura_sys_2017
+060	No need to rush things. Eventually, you'll be forced to understand...when this sky belongs to us.	VO_sol.sol_sys_0007
+061	...Anyway! Enough of that...let's enjoy this deep blue sky for now!	VO_sol.sol_sys_0001
+062	Hahah! Honestly...it makes me feel lucky to be alive!	VO_sol.sol_sys_0009
+063	What's wrong with you...?	VO_kagura_3s_kagu.kagura_sys_1047
+064	Maybe you should be asking them instead of me.	VO_sol.sol_battle_1017
+065	Them...?	VO_kagura_3s_kagu.kagura_sys_0025
+066	...?! What the... Who are those troops?!	VO_kagura_3s_kagu.kagura_sys_0027
+067	Halt! So...you're the one who's been working in cohorts with the Greed Dike army.	VO_gluttony-o.gluttony-o_sys_0010
+068	Gluttony Foss, huh? If you don't wish to die then go home. I have no business with you.	VO_sol.sol_sys_0044
+069	What did you say...?	VO_gluttony-o.gluttony-o_sys_0016
+070	The woman called Seida has your Sacred Stone Beelzebub, doesn't she?	VO_sol.sol_sys_0002
+071	I said that I have no time to waste on you.
+072	...! So...you know about that!	VO_kagura_3s_kagu.kagura_battle_0019
+073	I've heard rumors.	VO_sol.sol_sys_0004
+074	I also know that woman Seida isn't one to easily reveal the location of the Sacred Stone.
+075	In that case, wouldn't it be more efficient to aim for something certain?	VO_sol.sol_sys_0010
+076	Something certain...?	VO_gluttony-o.gluttony-o_sys_0005
+077	The sacred crystals which belong to the Saga tribes called Matter.	VO_sol.sol_sys_0004
+078	I plan to quickly get my hands on them. I have no business with you people who have no Sacred Stone of your own.
+079	How dare you...! Even if you have no business with us, we have business with you! Attack!!!	VO_gluttony-o.gluttony-o_sys_0013
+080	...Get back.	VO_sol.sol_sys_0002
+081	Huh...?	VO_kagura_3s_kagu.kagura_sys_0025
+082	Ack...! Artillery...?!	VO_kagura_3s_kagu.kagura_battle_0022
+083	If you don't want to die then stay put there. Honestly. To think I was going to spare his life.	VO_sol.sol_sys_0016
+084	...! What are you gonna do?!	VO_kagura_3s_kagu.kagura_sys_0039
+085	A little warm up. I'm gonna destroy Gluttony Foss.	VO_sol.sol_sys_0007
+086	...Bang.	VO_sol.sol_battle_0001
+087	Aghhhhh!!!	VO_gluttony-y.gluttony-y_battle_0026
+088	Ca-Captain! Our pincer assault was blown apart!	VO_gluttony-y.gluttony-y_sys_0027
+089	Impossible! What happened?!	VO_gluttony-o.gluttony-o_sys_0025
+090	N-no way... You took out all those soldiers with one blow?!	VO_kagura_3s_kagu.kagura_sys_0022
+091	Don't worry. I won't lay a hand on you...not until I can get ahold of your Matter.	VO_sol.sol_sys_0010
+092	Wa-wait! Stop!!!	VO_kagura_3s_kagu.kagura_battle_0019
+093	Kingdom of Envylia.
+094	Huff...huff... All that's left are those so-called "experiments," but...!	VO_victor.victor_battle_0019
+095	Argh... They're too strong!	VO_victor.victor_battle_1028
+096	...Not good.	VO_vetel.vetel_battle_0019
+097	Huff...huff...! ...Hyah!	VO_chloe.chloe_battle_0023
+098	Even though they're  strong individually, if we work together, we should be able to take them down!
+099	Exactly! It's not like you to cave in Captain Vettel!	VO_victor.victor_sys_0010
+100	No... I'm not talking about Envylia.	VO_vetel.vetel_battle_0019
+101	Huh...?	VO_chloe.chloe_sys_0025
+102	Look how much we're struggling against this scouting party. They're not even the main army.	VO_vetel.vetel_sys_0042
+103	And the mysterious Templars are the ones leading them.
+104	If Greed Dike were to come at us with full force, even Northern Pride may not stand a chance...	VO_vetel.vetel_sys_0018
+105	...! Kanon is in danger...?!	VO_chloe.chloe_sys_0042
+106	...?! Chloe! Don't let your guard down!	VO_vetel.vetel_battle_0022
+107	?! O-oh no...!	VO_chloe.chloe_battle_0022
+108	Chloe!!!	VO_victor.victor_sys_0028
+109	...That must be quite some skill to catch you off guard from behind.	VO_spica.spica_sys_0022
+110	Huh...?	VO_chloe.chloe_battle_0021
+111	What's is going on here?	VO_spica.spica_sys_0003
+112	Spica...!	VO_chloe.chloe_sys_0042
+113	Ag...ggh!
+114	...! It's not done yet!	VO_vetel.vetel_battle_0019
+115	What...?!	VO_chloe.chloe_battle_0022
+116	...Hyaaaah!!!
+117	Gggaah...!!!
+118	You gotta be kidding me! You're not getting away with doing whatever you want!
+119	Bud...!	VO_victor.victor_sys_0009
+120	Spica, please! Head to Northern Pride!	VO_chloe.chloe_sys_0002
+121	...? Northern Pride?	VO_spica.spica_sys_0006
+122	Greed Dike's army is making its way there as we speak!	VO_chloe.chloe_battle_0019
+123	Captain Vettel, she is familiar with Kanon as well! I'm sure she will be an asset to the Holy Guard!	VO_chloe.chloe_sys_0041
+124	We of the Scarlet Flame Guard can't afford to leave our posts here.	VO_vetel.vetel_sys_0037
+125	However, with the king now dead...and you of the Blue Flame Guard having lost your role as the Royal Guard, you should be able to move about as you please.
+126	Bud...I ask you this as a fellow Flame Guard captain... Would you please deliver her to Northern Pride?	VO_vetel.vetel_sys_0041
+127	Me? But...for the sake of my scattered comrades of the Blue Flame Guard...
+128	If Northern Pride falls...	VO_vetel.vetel_battle_0019
+129	Not only Envylia, but the entire continent of Babel will be engulfed in darkness.	VO_vetel.vetel_sys_0018
+130	After I finish off the Greed Dike soldiers here, I'll follow after you.
+131	I understand your dedication to your men, but...please.	VO_vetel.vetel_sys_0041
+132	...! Captain Vettel...
+133	Kanon is in danger! Please, Spica! Lend Kanon your strength!	VO_chloe.chloe_battle_0019
+134	...!
+135	Meanwhile...in Saga region.
+136	No...way! How could you take out all those soldiers...in such a short time?!	VO_kagura_3s_kagu.kagura_sys_0022
+137	The deciding factor of strength in battle is not the number of soldiers. If you can't understand that...then you have no right to be in command.	VO_sol.sol_sys_0010
+138	Ug...ghh...!	VO_gluttony-o.gluttony-o_battle_0026
+139	I was planning on letting you go...but you really are an idiot, aren't you? Goodbye.	VO_sol.sol_sys_0022
+140	Wa-wait! Al-alright...! I'll tell you the location of the Sacred Stone!	VO_gluttony-o.gluttony-o_battle_0020
+141	What...?
+142	I-I'll tell you the whereabouts of our Sacred Stone Beelzebub!	VO_gluttony-o.gluttony-o_sys_0019
+143	So, please, spare my life! I have a newborn child!
+144	Indeed. Well, where is Beelzebub currently located?	VO_sol.sol_sys_0044
+145	It's been securely kept in the army's headquarters! Let me take you there immediately!	VO_gluttony-o.gluttony-o_sys_0018
+146	...I see. You must be executed after all.	VO_sol.sol_sys_0022
+147	What...?!	VO_gluttony-o.gluttony-o_sys_0025
+148	We have an absolute law that we must never lie. You have broken this law. Thus, you will be executed.
+149	Wa-wait...! Please, wait!!!	VO_gluttony-o.gluttony-o_sys_0027
+150	If Beelzebub was in Gluttony, wouldn't they first and foremost solidify their defenses there?	VO_sol.sol_sys_0013
+151	That Seida woman, who is famous for her shrewdness, would never hide it somewhere so obvious...idiot.
+152	!!! Wh...what have you done?!	VO_kagura_3s_kagu.kagura_sys_0028
+153	It's all right. He was instantaneously turned into ashes. He wouldn't have felt any pain.	VO_sol.sol_sys_0007
+154	H-how insignificant is a human's life to you?! You crushed him as if he were an insect.	VO_kagura_3s_kagu.kagura_sys_0042
+155	Are you saying you'd be fine with me killing an insect?	VO_sol.sol_sys_0044
+156	Huh...? No...it's not that I would be fine with it, but...	VO_kagura_3s_kagu.kagura_sys_1047
+157	Humans, insects, plants...they're all living entities, aren't they? Do you mean to tell me that one life is worth more than another?	VO_sol.sol_sys_0002
+158	...Well...	VO_kagura_3s_kagu.kagura_sys_0018
+159	You people speak of valuing life...but, you're wrong. A life itself has no value.	VO_sol.sol_sys_0022
+160	Do you understand your stupidity in valuing each life while their numbers are countless?
+161	Stupidity...?! How dare you?!	VO_kagura_3s_kagu.kagura_sys_0025
+162	Don't you realize the contradiction in your own argument?	VO_sol.sol_sys_0001
+163	Isn't that very mouth you use to utter such niceties also used to consume animals?
+164	Sacrifices must be made in order to survive!	VO_kagura_3s_kagu.kagura_battle_0019
+165	We pay respect to the creatures we consume as food. We're not the same as you! You slaughter with no regard to the life you've ended!
+166	Heheh. The frenzy in your voice is more than enough to prove you aware of the contradiction in your logic.	VO_sol.sol_sys_0007
+167	Humans eat other creatures, thus terminating their lives.
+168	No matter how eloquently you put it, that's the unwavering truth.
+169	It's in human's nature to lengthen their own lives by robbing other creatures of theirs.
+170	Agh... Then...if you say that life itself has no value, then where does value exist?	VO_kagura_3s_kagu.kagura_battle_0022
+171	It's obvious. It exists in our resolve.	VO_sol.sol_sys_0010
+172	Our resolve...?	VO_kagura_3s_kagu.kagura_sys_1047
+173	Our resolve will continue on long afterward our spirit and flesh perish. You understand that, don't you?	VO_sol.sol_sys_0004
+174	All things physical will fade away one day. There is no value there.
+175	There is only one thing that determines the value of life-resolve.
+176	So...there's no sin in taking the lives of others then?! There's something fundamentally wrong with your way of thinking!	VO_kagura_3s_kagu.kagura_battle_0019
+177	No matter how much I try to convince you, I doubt you'd understand. You've never seen the "dimension beyond."	VO_sol.sol_sys_0022
+178	...Huh...?	VO_kagura_3s_kagu.kagura_sys_1047
+179	Ah, nothing. More importantly, we have company.	VO_sol.sol_sys_0007
+180	Company...?	VO_kagura_3s_kagu.kagura_sys_0025
+181	Are they...from the tribes of Saga?
+182	Enough talk. Come on...let's go, redhead. The first Matter is already right before our eyes.	VO_sol.sol_sys_0002
+183	Wa-wait...stop!!!	VO_kagura_3s_kagu.kagura_sys_0026

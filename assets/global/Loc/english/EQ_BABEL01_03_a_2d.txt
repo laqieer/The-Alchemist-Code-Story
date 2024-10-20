@@ -1,0 +1,120 @@
+﻿001	Have a safe trip! Isn't this amazing, though? To get a summons from the King himself!	VO_natalie.natalie_sys_0007
+002	It is pretty big that our report was able to identify Wratharis as one of the parties involved in these incidents.	VO_vetel.vetel_sys_0004
+003	Yeah... Seems like things might get busy around here. Be careful out there, Gerald!
+004	You, too. Hold down the fort for us. Let's go, Vettel.	VO_gerard.gerard_sys_0041
+005	They must be the Scarlet Legion, the ones who repelled the assassin! They seem quite reliable, do they not?	VO_stknightm.stknightm_sys_0046
+006	Hmph. Despite already having the Blue Flame Guard, now we are in the hands of this disreputable lot. How embarrassing.	VO_knightm.knightm_sys_0010
+007	It is thanks to them that we no longer fear a rogue blade lurking in the shadows. We ought to roll out the welcome wagon for them.	VO_thiefm.thiefm_sys_0031
+008	I suppose we could grant them the honor of tending to the therians' needs.	VO_knightm.knightm_sys_0007
+009	Indeed. It was a waste to have our prestigious Blue Flame Guard handle the shepherding of those savages.	VO_thiefm.thiefm_sys_0004
+010	A fine job suited for these mercenary rabble!	VO_knightm.knightm_sys_0008
+011	Well, well. We are simply...honored...to be here.	VO_gerard.gerard_sys_0010
+012	Silence. Captain Vettel and Vice-Captain Gerald of the Scarlet Legion, on behalf of the people, we thank you for your efforts.
+013	Bringing light to the connection between Wratharis and the assassin is a worthy service to the country, indeed!
+014	The knowledge that this incident was tied to the recent incidents in the therian villages is also valuable.
+015	Information is power. We can leverage it to our advantage. "Know thine enemy" is the antithesis to the fear and insecurity of wondering what lies in the shadows.
+016	It is empowering to no longer be blinded by a lack of knowledge. War is not just about physical power, and you have given us the tools to prepare for what is to come.
+017	We commend you for your contribution to this country and hold great expectations for what you will bring to our glorious Envylia in the future, no matter where your roots lie.
+018	We are not worthy of such high praise.
+019	As proof of our trust in you, the Scarlet Legion, we ask you to go to the therian villages.
+020	There, you will be our first line of defense against Wratharis. Do not allow them to get away with whatever nefarious designs they may have upon our people!
+021	We shall also consider the possibility of officially recognizing the Scarlet Legion as its own knight order.
+022	We shall not disappoint you, sir! Thank you for this opportunity!
+023	Wonderful. You are a boon to all of us here in Envylia. Thank you, Scarlet Legion.
+024	It's incredible that we might have the chance to become a proper knight order! My head is spinning. This is beyond anything I could have expected!	VO_vetel.vetel_sys_0007
+025	What? Pull yourself together. It doesn't matter if we're a knight order or not. The only thing we should concern ourselves with is staying true to what we believe in.	VO_gerard.gerard_sys_0030
+026	You say that, but thanks to your instincts, you were able to save the noble, and the Scarlet Legion can take this unprecedented step forward. Well done, Gerald.	VO_vetel.vetel_sys_0004
+027	It's a bit early to be passing congratulations around. Hmph. You go on ahead.	VO_gerard.gerard_sys_0039
+028	Okay. Be careful.	VO_vetel.vetel_sys_0037
+029	Hey. I know you're there, and it's driving me nuts. Come out now so we can settle this like men.	VO_gerard.gerard_sys_0029
+030	!!!
+031	To try to kill me like this...	VO_gerard.gerard_sys_0016
+032	Tch. This is a cowardly way to try to get back at me, you chatty assassin.	VO_gerard.gerard_battle_0019
+033	Hahaha! What's wrong with it? Weren't you bored without me?	VO_ren.ren_sys_0007
+034	What are you doing here?	VO_gerard.gerard_sys_0002
+035	What am I...? Well! Fine words for someone who got me fired! I quite liked my job, too. I expect you to take responsibility for this unfortunate situation I find myself in, since it's your fault and all.	VO_ren.ren_sys_0030
+036	Responsibility...? No, wait... You can't be serious.	VO_gerard.gerard_sys_0006
+037	What's with that? You're the one who invited me to join you!	VO_ren.ren_sys_0016
+038	You...? No. No way. Do you really understand what you're getting yourself into?	VO_gerard.gerard_sys_0027
+039	How shocking, Sir Gerald! That's sounds more like something that I should be asking you, no?	VO_ren.ren_sys_0030
+040	I mean... Uh...	VO_gerard.gerard_battle_0019
+041	Well, anyway. I brought a gift for the occasion!	VO_ren.ren_chara_2006
+042	Gift...?	VO_gerard.gerard_sys_0006
+043	I did a little...ahem...snooping around my contacts, and I might've pissed a few people off, but...there's some information you might be interested in.	VO_ren.ren_sys_0005
+044	What?!
+045	Heh. Good, right? I know. You don't have to say it.	VO_ren.ren_sys_0001
+046	Hmph. Not bad. So, what did you find out about your client?	VO_gerard.gerard_sys_0004
+047	Sadly, not so much, except that they are almost certainly from Wratharis.	VO_ren.ren_chara_1006
+048	Wratharis!	VO_gerard.gerard_sys_0027
+049	Whew! Glad that's all off my chest. You know, information like that doesn't come cheap in this industry! Getting that bit of information was like pulling teeth from a four-year-old.	VO_ren.ren_sys_0005
+050	I see... I don't know anything about that, but just knowing the Wratharis connection is like hitting the jackpot.	VO_gerard.gerard_sys_0004
+051	Tsk! Did I say that was all? Did I? No. Listen to me when I'm talking, will you? After all, I'm sure it's important to you that they've decided to contract a different assassin after all that.
+052	A different assassin...? They're planning to send someone else to complete your mission?	VO_gerard.gerard_sys_0006
+053	Hm... Dunno if there's anyone else of my caliber to do what I do. I mean... Unless they get the Leonharts to come in from Slothstein.	VO_ren.ren_sys_0031
+054	Leonharts...?	VO_gerard.gerard_sys_0006
+055	I mean, you didn't think my people were the only ones out there, right? There's us, and there's the Leonharts. Honestly, I'm curious what would happen if we were pit against one another...	VO_ren.ren_sys_0004
+056	Ahem, not that it seems likely to happen. I haven't heard anything about the Leonharts working with Wratharis. I'm just saying.	VO_ren.ren_chara_2006
+057	Then...you're saying we don't need to worry about them?	VO_gerard.gerard_sys_0005
+058	Well, it's better to be prepared than to be caught with our pants down. After all, it sounds like Wratharis is preparing to send reinforcements to the therian villages.	VO_ren.ren_sys_0005
+059	For the Alchemia Particles contained within the therians?	VO_gerard.gerard_sys_0027
+060	What?! How did you know?! Aw man, I guess this news wasn't as juicy as I thought it was.	VO_ren.ren_sys_0026
+061	Apparently they're planning to use those Alchemia Particles to craft a Philosopher's Stone.
+062	Philosopher's Stone...? Alchemy?!	VO_gerard.gerard_sys_0027
+063	Oh, you don't know that bit?	VO_ren.ren_sys_0006
+064	This is way bigger than I could have imagined.	VO_gerard.gerard_sys_0030
+065	Hey. Hey! Helloooo? This is just a thought, but maybe we should start heading over to the therian village.	VO_ren.ren_sys_0001
+066	Right... The therians.	VO_gerard.gerard_sys_0016
+067	What's with that face, Sir Gerald? What are you gonna do if your face gets stuck that way?	VO_ren.ren_sys_0006
+068	In Envylia, there aren't a lot of people who are particularly interested in the safety of the therians. It explains why that's fallen to the Scarlet Legion...	VO_gerard.gerard_sys_0039
+069	Huh! Interesting!	VO_ren.ren_sys_0025
+070	We share the same space, but there's not much effort on either side in terms of cross-cultural understanding.	VO_gerard.gerard_sys_0005
+071	Sir...Gerald?	VO_ren.ren_sys_0002
+072	It's nothing. Thank you for the information. It has been extremely helpful.	VO_gerard.gerard_sys_0039
+073	Oh, good. I'm glad to hear my efforts were not wasted. Honestly, it's shameful how people under duress will just go ahead and tell you whatever you want to hear.	VO_ren.ren_sys_0007
+074	Duress...?	VO_gerard.gerard_sys_0006
+075	Whoops! That's just my world, man. Did I mention I was an assassin? This kind of thing is pretty on par.	VO_ren.ren_sys_0005
+076	You... Just... Ugh. In any case, I suppose we'd better make our way over to the therian village.	VO_gerard.gerard_sys_0030
+077	Thank you for coming to us, Ren.	VO_vetel.vetel_sys_0007
+078	Nah. You all just happen to be more interesting than anything else going on. Nothing to thank me for.	VO_ren.ren_sys_0007
+079	I see. Then did you have new information for us?	VO_vetel.vetel_sys_0004
+080	Eh, just rumors that someone in Wratharis is planning to use the Alchemia harvested from the therians to make a Philosopher's Stone.	VO_gerard.gerard_sys_0004
+081	Just—?! Finding out about the Alchemia Particles was bad enough, but a Philosopher's Stone...?	VO_vetel.vetel_sys_0026
+082	Are they really planning to defy the Magna Code and resort to using alchemy?!
+083	That's ridiculous... The Holy Guard would never let that slide.	VO_vetel.vetel_sys_0018
+084	We need to figure out what their true intentions are. We're almost at the village.	VO_gerard.gerard_sys_0004
+085	Um...!	VO_neena.neena_battle_1028
+086	A...therian child?	VO_vetel.vetel_sys_0025
+087	...
+088	Please don't be afraid. I am Vettel, Captain of the Scarlet Legion. We have come because we heard that the therian village was under attack again.	VO_vetel.vetel_sys_0001
+089	Would it be possible for you to take us to your leader?	VO_vetel.vetel_sys_0041
+090	...
+091	Um...	VO_neena.neena_sys_0018
+092	Gerald...	VO_vetel.vetel_sys_0030
+093	Fine... Just be sure to lead the way properly.	VO_gerard.gerard_sys_0004
+094	U-um... Okay.	VO_neena.neena_sys_0016
+095	Hoh... So Wratharis is planning to attack our village again.
+096	And this time, you come not as a representative of the Holy Guard, but as leader of some mercenary band.
+097	Yes. We would be much obliged if you would allow us to stay and protect this village.
+098	Leave this place at once. Last time, we allowed you here because you were a knight of the Holy Guard.
+099	"Therians and humans, separate but equal." That is the code we live by. If it comes down to being protected by ruffians like you or defending ourselves with our own hands, we would prefer the latter.
+100	How can you say that?! We're just here to help!	VO_natalie.natalie_sys_0029
+101	Who knows what would have happened last time if Vettel and the Scarlet Legion hadn't been around!
+102	Whatever happened last time, that was against our explicit wishes. We asked for none of this. We are not a people to be protected. We are capable of handling this ourselves.
+103	We have done so multiple times before. My people have weathered natural disasters and human-made disasters on our own until now. What need have we of you now?
+104	But—	VO_vetel.vetel_sys_0022
+105	How long do you plan to protest? We are aware that many humans don't care if we live or die. They would prefer we were wiped off the face of the planet.
+106	We don't mind. In fact, we share similar sentiments. Why bother to protect us? What do you lose by withdrawing as we ask?
+107	We are therians. Our lives are defined by the "kill or be killed" creed.
+108	Nngh...	VO_gerard.gerard_battle_0019
+109	Gerald, your head is sparking like crazy... Are you okay? Do you need any medicine or anything?	VO_natalie.natalie_sys_1034
+110	You therians are always saying the same thing! Always the same excuses!	VO_gerard.gerard_battle_0019
+111	Gerald...
+112	There was once a proud man willing to put his life on the line for therians.	VO_gerard.gerard_sys_0016
+113	As a result, his life was taken prematurely. He died to protect therians!
+114	Just so we can stand here now, listening to some therians spout the same crap that the nobles did about "kill or be killed!"
+115	So what? You're saying my father deserved to be killed because he was weak? I refuse to acknowledge that!	VO_gerard.gerard_battle_0019
+116	Gerald, calm down.	VO_vetel.vetel_battle_0019
+117	Never mind... We will protect you because that is the mission we have been given.	VO_gerard.gerard_battle_0019
+118	That is what he taught me. That is what we have sworn to do.
+119	Ahem, uh... So, sorry to interrupt, but there's kind of an army out there. Are we going to do something about that...?	VO_ren.ren_sys_0027
+120	Of course. The honor of the Scarlet Legion is on the line. We will go forth to meet the enemy as we promised.	VO_gerard.gerard_sys_0004

@@ -1,0 +1,75 @@
+﻿001	Boy, show me that spear.	VO_thiefm.thiefm_sys_0001
+002	I want to see that gun.	VO_stknightm.stknightm_sys_0001
+003	Here you go! This spear was made in Envylia and this gun is from Slothstein.	VO_alba.alba_sys_0004
+004	I see... This is quite an impressive spear.	VO_thiefm.thiefm_sys_0044
+005	Can't complain when it comes to this gun either.	VO_stknightm.stknightm_sys_0031
+006	Right? I acquired it myself! Here, we only sell items of the best quality!	VO_alba.alba_sys_0007
+007	Aruba!	VO_tiruru.tiruru_chara_1003
+008	?	VO_alba.alba_chara_1006
+009	Hey, Chiruru!	VO_alba.alba_chara_1001
+010	And a hello to you two as well, Kiki and Adel.	VO_tiruru.tiruru_sys_0007
+011	Woof!
+012	Sniff!
+013	Heheh. You two seem as chipper as ever.	VO_tiruru.tiruru_sys_0008
+014	Aruba...are you still working...today as well?	VO_tiruru.tiruru_sys_0003
+015	Yep. You know how there was a big war in that nearby country, right?	VO_alba.alba_sys_0004
+016	So, there's been a large demand for different items.
+017	I see... Hey, do you remember the plans we made for today?	VO_tiruru.tiruru_sys_0045
+018	Of course I do! Today was supposed to be the day we were gonna hang out.	VO_alba.alba_chara_1007
+019	Yeah.	VO_tiruru.tiruru_sys_0005
+020	Hey, boy, do you have any swords?	VO_thiefm.thiefm_sys_0002
+021	Oh! Of course! I have some very fine quality swords from Wratharis!	VO_alba.alba_chara_1001
+022	What about armor? Something light and durable...	VO_stknightm.stknightm_sys_0001
+023	Ah! In that case, this is also made in Wratharis...	VO_alba.alba_chara_1008
+024	Kiki, Adel, you're also bored because Aruba is so busy?	VO_tiruru.tiruru_sys_0022
+025	Sniff...
+026	...Let's try and wait a little longer, okay? After all, today all of us are supposed to hang out together.	VO_tiruru.tiruru_sys_0030
+027	Woof!
+028	Hey, boy! How much for this axe?	VO_thiefm.thiefm_sys_0031
+029	Coming now! Well, that would be...	VO_alba.alba_chara_1001
+030	Phew...!	VO_alba.alba_sys_0022
+031	Good job, Aruba. You were really busy today as well.	VO_tiruru.tiruru_chara_1003
+032	Yeah. I'm exhausted. Hey, Chiruru...can we hang out tomorrow instead?	VO_alba.alba_chara_1007
+033	Huh?! No! It has to be today!	VO_tiruru.tiruru_sys_0026
+034	But the sun is going to set soon...and I'm so tired.
+035	I'll take tomorrow off from work. Okay?
+036	...No. It has to be today.	VO_tiruru.tiruru_chara_2001
+037	It's nice to see how much you wanted to hang out, but...	VO_alba.alba_sys_0029
+038	Don't be so selfish...
+039	I'm not being selfish!	VO_tiruru.tiruru_sys_0029
+040	Come on! What's the matter? You're acting out of sorts...	VO_alba.alba_sys_0016
+041	Look. I get that you might've been lonely recently, since I haven't had much time to hang out, but...
+042	It's my work. What I am supposed to do?
+043	Agh...! No...that's not the point...	VO_tiruru.tiruru_sys_0012
+044	Well, it is. Try to be more supportive of my situation.	VO_alba.alba_sys_0012
+045	Seriously...you're an idiot, Aruba!	VO_tiruru.tiruru_sys_0018
+046	Hey! Chiruru! Seriously. What's gotten into her?	VO_alba.alba_chara_1001
+047	Why is she so stubborn today? What difference does it make between today and tomorrow?	VO_alba.alba_sys_0030
+048	Woof!!!
+049	Hey! Oww! Kiki, Adel, stop!	VO_alba.alba_sys_0042
+050	Growwwwl!
+051	Huh? You two blame me as well?	VO_alba.alba_sys_0025
+052	Woof!
+053	All right, fine! Let's chase after her! Sigh... What a day.	VO_alba.alba_sys_0016
+054	Sniff, sniff, sniff...
+055	Hey...did Chiruru really come this way?	VO_alba.alba_sys_0002
+056	Woof!
+057	Wait...isn't this the forest where a lot of rogue mercenaries have been showing up lately?	VO_alba.alba_sys_0018
+058	I hope Chiruru is okay...
+059	Mm...	VO_tiruru.tiruru_sys_0018
+060	Now, now...don't look so scared, young lady. Hehehe...	VO_thiefm.thiefm_sys_0008
+061	Now that I look at you carefully, you're quite the looker, aren't you?	VO_knightm.knightm_sys_0007
+062	Hey, one of my buddies is a slave merchant. I'm sure he'll take her off our hands for a handsome price.	VO_thiefm.thiefm_sys_0002
+063	Wonderful! Hey, young lady...we'll have you come with us.	VO_knightm.knightm_sys_0044
+064	Sob...sob...	VO_tiruru.tiruru_sys_0018
+065	Cry as much as you like! There's no one here to save you! Hyahahah!	VO_knightm.knightm_sys_0010
+066	Sob...waah...waaaaahhh!!!	VO_tiruru.tiruru_sys_0019
+067	Ughh...?! My ears...!	VO_thiefm.thiefm_battle_0025
+068	Huhhh...?! Wh-what's going on?! There's no wind, but the trees...!	VO_knightm.knightm_sys_0027
+069	Wh-what...the...?!	VO_stknightm.stknightm_sys_0043
+070	Aghh! It's her mouth...! Cover...her...mouth!	VO_thiefm.thiefm_sys_0018
+071	Ack...! Come here!!!	VO_knightm.knightm_battle_0022
+072	Mfff...! Ughhh...!	VO_tiruru.tiruru_sys_0042
+073	What a voice! What is she?!	VO_stknightm.stknightm_battle_0025
+074	...Well, as long as we keep her mouth covered, there's nothing she can do to stop us!	VO_thiefm.thiefm_sys_0010
+075	Chiruru! No! We need to save her! Let's go, Kiki, Adel!	VO_alba.alba_sys_0027

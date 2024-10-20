@@ -1,0 +1,100 @@
+﻿001	Hmph. Once again, my plans have been thwarted. No matter. This still falls within the acceptable margin of error. It's time to focus on the next step in my grand scheme.	VO_zaharu.zaharu_sys_0027
+002	You should take a little more time to recover before you rush back. Besides, I've got some questions you might be able to answer...	VO_gerard.gerard_sys_0002
+003	I have no time to waste on answering questions from a small-fry like you.	VO_zaharu.zaharu_sys_0010
+004	Interesting words from someone who couldn't defeat my sword.	VO_gerard.gerard_sys_0010
+005	Oh. It's you. I recall your face now.	VO_zaharu.zaharu_battle_0019
+006	I'm honored. Now, tell me... What exactly do you plan to do with the Alchemia Particles you've taken from the therians?	VO_gerard.gerard_sys_0044
+007	If you are planning to use them for alchemy, you must know that you will bring the Holy Guard down on your own head.
+008	Ha! The Holy Guard? What could they do, with their false justice? There is no value, only weakness, in fearing the Holy Guard.	VO_zaharu.zaharu_sys_0008
+009	My dream is of a new order, one built upon the powers of darkness! Such pitiful peons such as yourselves could never understand what I am trying to accomplish!
+010	Yet you dare to stand in the way of my glorious duty to bring peace and harmony to this world...not just once, but twice!	VO_zaharu.zaharu_sys_0013
+011	I will not allow it this time! Prepare to be left behind like the trash that you are!	VO_zaharu.zaharu_sys_0032
+012	Ngh?! Please... My life is not so cheap that it can be taken by a sword such as yours!	VO_gerard.gerard_battle_0019
+013	What's this, Sir Gerald? You found their boss? Nice! Let me play, too!	VO_ren.ren_battle_0004
+014	Another small-fry... Tch. Easy enough to crush two as it is one!	VO_zaharu.zaharu_sys_0010
+015	Heh. Hehehehe. Hahahaha! This is great! I love it! Yes, yes, yes, yes!!!	VO_ren.ren_sys_0008
+016	This is the best! You're great! You are exactly what I expected from the Hero of Wratharis! You're the perfect final boss!	VO_ren.ren_sys_0023
+017	Hero of...? Ren, stay on your guard! He's stronger than you might think!	VO_gerard.gerard_sys_0027
+018	What are you even saying? You didn't even know he was the Hero of Wratharis until I told you just now! Heh. Come on, boss! Let's play!	VO_ren.ren_sys_0010
+019	Gerald! Ren!
+020	I am rapidly losing sight of the usefulness of this battle. Since I have already accomplished what I came here for, perhaps it is time for me to cut my losses and leave.	VO_zaharu.zaharu_sys_0018
+021	Where do you think you're going?! Ren, with me!	VO_gerard.gerard_battle_0004
+022	It's too late. He's gone.	VO_ren.ren_sys_0029
+023	Gerald, Ren, are you alright?! Was that...?!	VO_vetel.vetel_battle_0019
+024	Yes. It was that man from before, the one from Wratharis. I think it's safe to say he's no mere pawn. He's most likely behind all of this.	VO_gerard.gerard_sys_0004
+025	You may be right... Still, that is something to take heart from.	VO_vetel.vetel_chara_1007
+026	We chased the puppet master off. Now all that remains is to take care of the puppets he left behind!
+027	Indeed. Time to end this!	VO_gerard.gerard_battle_0004
+028	Oh... They're incredible...	VO_neena.neena_sys_0046
+029	We've taken care of the kidnappers. Go check on your people. Make sure they're okay.	VO_gerard.gerard_sys_0016
+030	Understood!	VO_neena.neena_battle_1028
+031	That won't be necessary. We looked over them ourselves. Some have incurred injuries, but nothing life-threatening. They are all fine.	VO_knightm.knightm_sys_0001
+032	That's such a relief to hear... Um...thank you...	VO_neena.neena_sys_0009
+033	Hmph.	VO_gerard.gerard_sys_0010
+034	It's over... Whew. It looks like we were able to pull it off.	VO_vetel.vetel_sys_0007
+035	Zahar fought that last battle... The Hero of Wratharis and the man once widely considered to be the next Lord Commander of the Holy Guard.	VO_knightm.knightm_sys_0016
+036	He was wearing a disguise, but he was unmistakable. If you all hadn't shown up to scare him off when you did...
+037	I don't think we could have survived that battle. Thank you, from the bottom of our hearts.
+038	It's nothing to thank us for. This all is just part of our mission.	VO_vetel.vetel_event_1015
+039	I must apologize for underestimating you. I was blinded by prejudice regarding your backgrounds, but it has been an honor to stand on the same battlefield as you.
+040	Ah... It seems like we are finally gaining the recognition we are due.	VO_natalie.natalie_sys_0007
+041	I don't think it's going to be as simple as that. For Envylia's official knight order to be saved by a mere mercenary gang...	VO_gerard.gerard_sys_0039
+042	The nobles aren't going to be happy about that. They're too set in their ways to just accept something like this.
+043	It doesn't matter. All we have to do is focus on protecting who we can, and maybe one day we really can become a proper knight order.	VO_vetel.vetel_sys_0004
+044	Chief!	VO_neena.neena_battle_1028
+045	Ah, Nina. I'm glad to see you unharmed. Go see your parents, I'm sure they're looking for you. Humans... Well. I have nothing to say to you.
+046	Chief, you...! U-um... I'm so sorry about him.	VO_neena.neena_sys_0027
+047	Just go on. Your parents are waiting.	VO_gerard.gerard_sys_0010
+048	Not just once, but twice... I promise you, I'll find a way to repay this debt!	VO_neena.neena_sys_0033
+049	Um... I must ask... How does one become strong...like you? Hypothetically.	VO_neena.neena_battle_1028
+050	...
+051	A thousand swings of the sword a day, followed by practice bouts. I don't know if it's something you could handle.	VO_gerard.gerard_sys_0010
+052	A thousand?! N-no way...	VO_neena.neena_sys_0026
+053	That much is nothing for someone with an iron will. All of us who stand here have completed that training and more.	VO_gerard.gerard_sys_0004
+054	I-I see... Um... If I practice every day like you say, will you accept the strength of my convictions?	VO_neena.neena_sys_0029
+055	Hmph. If they're really as strong as you say, perhaps I will.	VO_gerard.gerard_sys_0010
+056	They are! One day, I'll get you to recognize that!	VO_neena.neena_battle_0019
+057	That's unnecessary. Now, hurry up. Go.	VO_gerard.gerard_sys_0039
+058	Now it's time to find out the truth, whether these fellows want to tell us or not.	VO_gerard.gerard_sys_0016
+059	...
+060	Oh! Hey, I'm good at that. Soooo... Tell me, friend, what do you know of Philosopher's Stones? We can do this the hard way...or the harder way.	VO_ren.ren_sys_0007
+061	Legion, it's time to head back! This battle is ours! We protected the therian village and defeated our enemy!	VO_vetel.vetel_sys_0007
+062	Lift your heads high! We stopped Wratharis' plot in its tracks! We protected our country! We protected Envylia! Just as we will continue to do!
+063	You did well. You have indeed done a great service to your country. Not only have you pushed our enemy back, but you protected the therian village and even saved the Blue Flame Guard.
+064	There are those who would oppose your actions, even as we all reap their benefits. However... Your extraordinary success deserves nothing less than being elevated to the position of a true knight order of Envylia!
+065	You have been known as the Scarlet Legion. To honor the history of that name, henceforth you shall be the Scarlet Flame Guard!
+066	Th-this is an honor beyond all imagining! We vow, now and forevermore, to dedicate our swords to the betterment of the country of Envylia and the world!
+067	Hmph. These pitiful upstarts have become an officially recognized knight order... Absolutely disgraceful.	VO_knightm.knightm_sys_0010
+068	Indeed. To bestow such honor on that riffraff is beyond the pale. They will probably crumble under the responsibility and force us to drive them out.	VO_thiefm.thiefm_sys_0011
+069	Ahem.	VO_knightm.knightm_sys_0003
+070	Urk...
+071	I was hoping to convey my congratulations for the occasion.	VO_knightm.knightm_sys_0001
+072	You are...the Blue Flame Guard from...	VO_vetel.vetel_sys_0046
+073	It seems that you still have your detractors, but we of the Blue Flame Guard recognize your strength as a knight order. After all, even we started out less...organized.	VO_knightm.knightm_sys_0016
+074	From here on out, let us work together as equals to protect the peace of Envylia and, as you indicated before, all the people of the world.
+075	We greatly appreciate your words. I... We are honored to have the chance to serve Envylia in this way.	VO_vetel.vetel_sys_0007
+076	Heh. The lot of you are exactly what we need right now. I suspect that many eyes will be on you to see exactly what you will do in your new role.	VO_knightm.knightm_sys_0007
+077	Well. I shouldn't monopolize the man of the hour. My soldiers are waiting for me. I shall take my leave of you. Good luck.
+078	That was incredible, Vettel! If only Gerald could have been here for that...	VO_natalie.natalie_sys_0008
+079	Gerald...can only ever be himself. I'm sure he has good reason for not being here. Natalie, I suspect we will get a lot busier. I expect I will be leaning on your strength more and more.	VO_vetel.vetel_sys_0031
+080	Leave it to me, Vettel. I haven't forgotten the vow I made once upon a time. I'll be here to support you to the end.	VO_natalie.natalie_sys_0038
+081	Brace yourselves! Our commitment to our beliefs has brought us this far, and we have been gifted the opportunity to use our swords to protect the vulnerable!
+082	We will become the sun that gently watches over the weak, in the name of the Scarlet Flame!
+083	We shall face all who oppose us! We shall never forget our iron will, even as we transition from mercenary to knight!
+084	This is just another step on our path to become the defenders of joy and of peace!
+085	Scarlet Flame Guard... This is just the beginning!	VO_vetel.vetel_battle_1030
+086	Are you seriously just going to skip the thing?	VO_ren.ren_sys_0001
+087	Vettel's better at all that. I...can't seem to adjust to it.	VO_gerard.gerard_sys_0004
+088	Natalie's there with him, though... I mean... You okay with that?	VO_ren.ren_sys_0016
+089	As usual, you talk too much. The three of us are just childhood friends.	VO_gerard.gerard_sys_0002
+090	Huh. Well, if you say so. I mean, I'm sure Natalie's missing you right now, but that's not my business, right?	VO_ren.ren_sys_0044
+091	That lovely little lady tries her heart out to keep up with you and you barely bat an eye. Not a lot of people find another like that, you know?	VO_ren.ren_sys_0001
+092	Silence. Now, did you get anything useful?	VO_gerard.gerard_sys_0016
+093	Nothing specific. Might've gone a little too far, too... Whoops.	VO_ren.ren_chara_1006
+094	I did find out that the same rumors about Philosopher's Stones have been going around on their side as well.
+095	Interesting. I suppose it doesn't matter. We'll take them down whatever their plans are, but... Ren...	VO_gerard.gerard_sys_0010
+096	Yep, yep. Got it. I'll head over to Wratharis and do some more information-gathering.	VO_ren.ren_sys_0005
+097	I mean, who else can do what I can? It's gonna take some time, though.	VO_ren.ren_sys_0007
+098	It's fine. What we really need right now is more information on what's going on in Wratharis. You'd better bring some good info back.	VO_gerard.gerard_sys_0004
+099	Heh. Alright, Sir Gerald. I'll do that as long as you don't let anyone else kill you in the meantime.	VO_ren.ren_sys_0004
+100	Hmph. You talk too much.	VO_gerard.gerard_sys_0007

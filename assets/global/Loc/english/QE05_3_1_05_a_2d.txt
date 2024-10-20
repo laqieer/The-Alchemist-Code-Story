@@ -1,0 +1,91 @@
+﻿001	Look! Water! There's water!	VO_mary.mary_sys_0046
+002	It's been so long since I've seen so much water!
+003	It's so cold!	VO_mary.mary_sys_0008
+004	She's like a little kid.	VO_tina.tina_sys_0007
+005	Kinda.	VO_moca.moca_sys_0004
+006	Seeing her like this makes it hard to believe what she told us last night.
+007	Gluttony Foss has been ruled by one king for the past hundred years.
+008	One king?! I mean, I could understand if it was a Great Sprite like Voda, but a human?	VO_tina.tina_sys_0025
+009	Impossible, I know. That's one of the reasons why he's a monster, right?	VO_moca.moca_sys_0039
+010	Exactly. He controls amorphous demons and devours people, robbing them of their Alchemia in order to extend his life.
+011	Amorphous demons? You don't mean—!	VO_tina.tina_sys_0022
+012	I heard that they were called the Jam.	VO_mary.mary_sys_0039
+013	No!	VO_moca.moca_sys_0027
+014	The king's power is now well beyond that of any human.
+015	He is the embodiment of gluttony. A monster that devours land, people, and life.
+016	The nobility of Gluttony Foss have obeyed him blindly, fearing what may become of any transgressions, but...
+017	The situation changed with the failure at Saga.	VO_moca.moca_sys_0031
+018	Yes. The king is weakened after failing to acquire Beelzebub.
+019	With the purifying power of the Sephira's Protector, we may now defeat the king.
+020	We may now return the country of Gluttony Foss to its people!
+021	She wants to restore the country to how it should be. That's not really something that I can understand, to be honest.	VO_tina.tina_sys_0031
+022	Me neither, but there's something about her that makes me feel empathetic.	VO_moca.moca_sys_0004
+023	I think she knew she had to change, that she had to make changes to protect what must be protected, and resolved to do just that.
+024	Yeah...
+025	I was surprised, though, to hear you invite her along with us.	VO_moca.moca_sys_1011
+026	What do you mean?	VO_tina.tina_chara_1009
+027	Well, you're usually a bit more withdrawn with people. What brought about this change in you?	VO_moca.moca_sys_0031
+028	She...looked sad.	VO_tina.tina_sys_0004
+029	I just thought to myself, what would Lisbeth do? And it just sort of came out.
+030	Hmm... I think this is a good thing.	VO_moca.moca_sys_1011
+031	It's about time you learned to open up to people, Tina.
+032	Hold on, look who's talking!	VO_tina.tina_sys_1050
+033	When are you going to start smiling more? Didn't you learn anything from Lisbeth?	VO_tina.tina_sys_0001
+034	Uh, you were the one saying that I should do what comes naturally to me, remember?!	VO_moca.moca_sys_0042
+035	Yeah, but you're the last person I need telling me to open up to people!	VO_tina.tina_battle_1016
+036	Both of you, please! Won't you include me in your little chat?	VO_mary.mary_sys_0030
+037	You shouldn't be fighting. We're here to have some fun in the water, aren't we?
+038	...
+039	...
+040	Erm...hello? You're starting to frighten me.	VO_mary.mary_sys_0006
+041	Ahhh! Wait, that's not fair! It's two against one!	VO_mary.mary_sys_0027
+042	Oh no... My clothes are all wet.	VO_mary.mary_sys_0018
+043	Sorry, Marie. I got a little carried away back there.	VO_moca.moca_sys_0035
+044	Here, use this cloth to dry yourself off. Sorry about that.	VO_tina.tina_sys_0007
+045	Ah, thank you! Umf...	VO_mary.mary_sys_0031
+046	Marie! Don't take your clothes off here! Have you no shame?!	VO_moca.moca_sys_0026
+047	Huh? But I'd hate to catch a cold. Shouldn't I at least wring out my clothes?	VO_mary.mary_sys_0006
+048	I guess there's no argument as to who's the most open of the three of us.	VO_tina.tina_sys_0030
+049	I'm sorry?	VO_mary.mary_chara_1009
+050	Th-that mark!	VO_moca.moca_sys_0025
+051	Oh, I've had this since birth. It's apparently called the sephirah.	VO_mary.mary_chara_1012
+052	Hmm... I am afraid I'll definitely catch a cold like this. Shall we return to the inn?
+053	What's wrong? Is there something on my face?	VO_mary.mary_sys_0001
+054	Mocca...	VO_tina.tina_sys_0001
+055	Yeah, it's the same mark that was on Georgios. She really must be a Sephira.	VO_moca.moca_sys_0037
+056	You know my cousin?	VO_mary.mary_sys_0006
+057	Marie, what did you just say?	VO_tina.tina_sys_0025
+058	Georgios is my cousin. Oh, well, of course. If you're from Saga, I suppose you would know about him.	VO_mary.mary_sys_0004
+059	He was the general in charge of the invasion.
+060	You're related to him, Marie?!	VO_tina.tina_sys_0022
+061	Could it be that you two know of his whereabouts?	VO_mary.mary_sys_0001
+062	Well, we do think he's alive, but...	VO_moca.moca_sys_0039
+063	Oh, thank goodness.	VO_mary.mary_sys_0044
+064	He was not among the army that returned, so I had thought that he may have fallen in battle. I only hope that he is alive...
+065	I have to say, I did not see this coming.	VO_moca.moca_sys_0031
+066	Miss Mocca?	VO_mary.mary_sys_0006
+067	Well... It's just that you're nothing like him.	VO_tina.tina_sys_0031
+068	Yeah. Georgios was sort of...a warrior, through and through.	VO_moca.moca_sys_0004
+069	Whereas you're...sweet? Graceful? Totally different.	VO_moca.moca_sys_0031
+070	Heheh. I suppose we are different. I was never blessed with his physical strength.	VO_mary.mary_sys_0007
+071	You see this cloth? Georgios purified it with his power.	VO_moca.moca_sys_0001
+072	I think I can feel his energy within it, but...your wounds...	VO_mary.mary_chara_1012
+073	Ah, they're from fighting against the Jam. We came out to this desert in search of a way to purify their corruption.	VO_moca.moca_sys_0004
+074	I'm... I'm sorry. Had I been more attuned to my powers...	VO_mary.mary_sys_0022
+075	I fear that I may only be able to delay the progression of the corruption for a little while.	VO_mary.mary_sys_0036
+076	Don't feel so bad. We started this journey with nothing.	VO_moca.moca_sys_0039
+077	Now we're here with someone of the Sephira. We're making progress!
+078	I know that my cousin would have been a better contact for you, but...	VO_mary.mary_sys_0031
+079	I am fortunate. I never thought that I would find two people who would cooperate with me as you have.
+080	All we have to do now is find the Sephira and return to—
+081	Forget it. Such a future is not in store for you. Your journey ends here.	VO_thiefm.thiefm_sys_0029
+082	What?!	VO_mary.mary_sys_0006
+083	Marie!	VO_tina.tina_sys_1050
+084	Ngh!	VO_logi-b.logi-b_battle_0019
+085	Who are you? Why do you stand in my way?	VO_stknightm.stknightm_sys_0001
+086	Why...?	VO_logi-b.logi-b_sys_0018
+087	What?
+088	Why did you kill that child?! Why?!	VO_logi-b.logi-b_sys_0021
+089	This worthless thing? I could barely extract any Alchemia from it.	VO_stknightm.stknightm_sys_0005
+090	I simply rid myself of worthless livestock. That is all.	VO_stknightm.stknightm_sys_0007
+091	Huzzaaaaaaaah!	VO_logi-b.logi-b_battle_0008

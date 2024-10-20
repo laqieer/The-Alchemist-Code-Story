@@ -1,0 +1,139 @@
+﻿001	Look at you! You've got this sparring thing down! This is great! How about...this?!	VO_karla.karla_sys_0008
+002	You handled that one well, too! You're pretty good, you know that? Your injuries seem to have healed well.	VO_karla.karla_sys_0009
+003	I could say the same of you, Carla. I'm glad we're on the same side. You're stronger than I thought.	VO_balt.balt_sys_0007
+004	I think you're amazing, Balt. I could never fight like that, myself.
+005	It looks like we're evenly matched at the moment! Let's have a little break and then go one more round.	VO_karla.karla_sys_0031
+006	All right. I'm up for it.	VO_balt.balt_sys_0006
+007	Huzzzzzaaaaahhhhh!	VO_karla.karla_sys_0032
+008	What is this power?!	VO_balt.balt_sys_0005
+009	Carla, stop! You can't control it yet!
+010	Ngh....!	VO_karla.karla_battle_0019
+011	Carla?!	VO_balt.balt_sys_0025
+012	Heheh. I guess that didn't go so well. What am I gonna do?	VO_karla.karla_sys_0011
+013	That power of yours is too strong. You must be careful.
+014	By the gods... What was that?	VO_balt.balt_sys_0003
+015	It's just this power I have. It's kind of "hrmph," but I know if I do it right, it'll go "bam"!	VO_karla.karla_sys_0031
+016	But it just won't go "fwooosh" like I want it to. It just ends up going "floop."	VO_karla.karla_sys_0030
+017	I...didn't understand any of that, but I do know that if you keep pushing yourself you won't be able to move... Please don't make me worry about you.
+018	I know, I know, but if I master this power, I can use it to help you protect the desert!	VO_karla.karla_sys_0018
+019	I need to learn to control it. That's why I can't afford to be down—ngh! Crap, I still can't stand.
+020	I understand how you feel. I still need to get stronger. I never want to experience such hopelessness ever again.	VO_balt.balt_sys_0022
+021	I see... So you've got a lot on your shoulders too, huh? Let's go another round when I can stand up again.	VO_karla.karla_sys_0027
+022	Carla... You're going too far. Just being able to stand doesn't mean you should keep sparring.
+023	I'm sure that when you have something you want to protect, you'll be able to control that power of yours.
+024	What do you mean?	VO_karla.karla_sys_0004
+025	It's just a hunch. Now, then. I'm going to go do some shopping at the oasis near here.
+026	Oh, wait, don't go yet! I'll go with you once we've gone another round.
+027	You can't even stand! If I wait for you to finish, it'll be too late. I'll be fine on my own.
+028	Are you certain? I've heard rumors lately that the villages near here are being raided, one after the other.	VO_balt.balt_sys_0003
+029	Hahah. I'll be fine. It's not far.
+030	Balt, take care of Carla for me while I'm gone, all right? I'll see you both later.
+031	Is this oasis nearby? Will he really be all right on his own?	VO_balt.balt_sys_0031
+032	Yeah. We usually go together, but we've never been attacked before. I'm sure he'll be fine.	VO_karla.karla_sys_0006
+033	To be honest, I'm a little worried, too, but worrying about it won't help anything. So let's go another round...in a bit.	VO_karla.karla_sys_0031
+034	All right.	VO_balt.balt_sys_0006
+035	Tch... What's with these guys?! They wouldn't answer our questions, and now they're rebelling!	VO_neun.neun_battle_0019
+036	This is proof that there are survivors of the Sephira here. There would be no reason for them to resist, otherwise.	VO_siewa.siewa_sys_0022
+037	Enough! They've tried to cheat us, right?! That means we can crush them! Right?!	VO_neun.neun_sys_0017
+038	True... I was hoping that we could be discreet, but if we cannot gather information that way, we may have to change tactics.	VO_siewa.siewa_sys_0031
+039	I must say, this request from Greed Dike has really piqued my interest. The survivors of the Sephira, said to possess more Alchemia than ordinary humans...
+040	If we can capture them, we may find ourselves one step closer to achieving the manifestation of Veda.
+041	We may also find something related to the great tree, Sephiron. I'm sure Sol will be pleased.	VO_siewa.siewa_sys_0007
+042	All right! Let's get rid of this scum and head back victorious, gifts in hand!	VO_neun.neun_sys_0009
+043	Don't forget that we're here only at Greed Dike's request. However, for our own purposes, I won't deny us the chance to make a brilliant show of destroying them!	VO_siewa.siewa_sys_0016
+044	That's what I like to hear! Huh...? Hey! Who's that bastard sneaking around over there?! Come here!	VO_neun.neun_sys_0023
+045	...!
+046	Where do you think you're going?!	VO_neun.neun_sys_0003
+047	Neun!	VO_siewa.siewa_sys_0003
+048	Why did you stop me?! I could've killed him in a second!	VO_neun.neun_sys_0006
+049	Please try making use of that space between your ears every now and again. We have already destroyed most of the villages in this region. We need a new source of information, see?	VO_siewa.siewa_sys_0022
+050	Hmph. So we'll use him as bait?	VO_neun.neun_sys_0044
+051	Let's follow him. I'm sure he will lead us to another village.	VO_siewa.siewa_sys_0007
+052	All right, but now that I'm all worked up, I'd better get to have some fun soon!	VO_neun.neun_sys_0045
+053	We will find the survivors of the Sephira...so let us make quick work of these insubordinate fools!	VO_siewa.siewa_sys_0008
+054	Haa...haa... Did they say Greed Dike?! W-with a whole country behind this...I have no hope of doing anything on my own!
+055	Think, Hawk! At this rate, the desert will be...! I have to do something!
+056	...!
+057	What're you rushing around for, Hawk? Is something wrong?	VO_karla.karla_sys_0004
+058	We have to leave. Now.
+059	Wha—?	VO_karla.karla_sys_0025
+060	Did something happen?	VO_balt.balt_sys_0003
+061	I saw the people who are going around destroying villages. They'll be coming here next.
+062	I see... So those weren't just rumors, huh? I'm sorry, Hawk, but I can't just run away.	VO_karla.karla_battle_0019
+063	I have to protect the peace of the desert. If I run away now, that's just, you know...negligent.
+064	These aren't people you want to fight! I saw them. They destroyed the oasis in an instant!
+065	Greed Dike is involved in this somehow, too. I heard them talking about it. There's nothing we can do about something on that scale, not by ourselves.
+066	You hear me? We can't do anything!
+067	What difference does it make if an entire country's behind this?! With my power, there's no way I'll lose to them so easily! Where are they now?	VO_karla.karla_sys_0012
+068	......
+069	Hawk, tell me! The desert is in danger, right?	VO_karla.karla_battle_0019
+070	They were west of the oasis. We should still have some time, but they'll be here soon.
+071	West. Got it!	VO_karla.karla_sys_0006
+072	Hawk?	VO_balt.balt_sys_0025
+073	Balt... Take care of Carla.
+074	Hawk...!	VO_balt.balt_sys_0026
+075	Ankh! Haa...haa...
+076	Hawk?! What's the rush? Is something wrong? It's rare for you to have business with me.	VO_ankh.ankh_sys_0027
+077	There's no time. I'm only going to say it once, so listen carefully. You're the only one I can trust!
+078	There are people targeting the survivors of the Sephira, going around from village to village and oasis to oasis, destroying them! If they aren't stopped, soon the entire desert will fall!
+079	I want you to reach out to all the merchant guilds. They must come together for the sake of the desert!
+080	So please, hurry! These people are incredibly strong!
+081	I'm not sure that I can get them together so quickly, Hawk.	VO_ankh.ankh_sys_0020
+082	We won't stand a chance unless every fighter in the desert faces them together! You must gather everyone who can fight! I'm counting on you!
+083	Wait! Hawk, what are you going to do?	VO_ankh.ankh_battle_0019
+084	I'm going to the court. I'm going to ask them for reinforcements.
+085	What?! That's ridiculous! You've renounced your claim to nobility! The court will never accept such a request from you!	VO_ankh.ankh_sys_0027
+086	Each community protects itself. That's the unspoken rule of the desert!
+087	The notion of everyone protecting the desert together would never even occur to them. I'm not sure they'd even take a moment to consider it! It's much more likely that they would simply ignore you!	VO_ankh.ankh_sys_0042
+088	You'll never know unless you try! I know that deep down inside the people of this desert are hoping for a peaceful home!
+089	That's why I've been trying to restore the desert. I believe that my work is the beginning of a movement toward that future!
+090	So I have to do everything I can! The desert will never change unless there is someone willing to take that first step!
+091	B-but...!
+092	You fool! How dare you set foot in this court after throwing away your status as a member of the nobility?!	VO_stknightm.stknightm_sys_0010
+093	Our verdict is unchanged. If we offer up the remnants of the Sephira, then this will all be resolved. I see no problem.	VO_stknightm.stknightm_sys_0001
+094	I've told you over and over, that's only a temporary solution! If we keep relying on such measures, the desert will be destroyed!
+095	Enough! How dare you come here and criticize our way of doing things after forsaking us?!	VO_stknightm.stknightm_battle_0025
+096	You should be ashamed of yourself for being so fickle!	VO_stknightm.stknightm_sys_0012
+097	Please, wait! Hawk, are you telling the truth?	VO_neferty.neferty_battle_0019
+098	Of course. That's why I swallowed my pride and came back here. Please... You have to help us! This isn't about nobility or guilds!
+099	It's bigger than all of that! Everyone in the desert is in danger! That's why you must—
+100	I will say only this. When we feel that we are in danger, we will offer up the remnants of the Sephira as we have been asked. That is all!	VO_stknightm.stknightm_sys_0010
+101	What do you intend to do, Hawk?	VO_neferty.neferty_sys_0001
+102	I'm going to do everything I can to protect the desert. That has not changed, and will not.
+103	Even if it's just those who support you, Nefertiti, you must have them come to our aid! I'm counting on you!
+104	......
+105	Carla!
+106	There was no sign of anyone in the west, so we turned back halfway. Hawk, you lied to us!	VO_karla.karla_battle_0019
+107	Haaa...haaa... Where are those troublemakers?! Hey, you! Have you seen anything?	VO_karla.karla_battle_0019
+108	M-me? I'm not sure. Have there been any troublemakers, Lucian?	VO_retzius.retzius_sys_0025
+109	No. We've passed through several oases and villages on our way here, but we haven't seen or heard of anyone like that.	VO_rusia.rusia_chara_1002
+110	Are you sure someone isn't playing a trick on you?	VO_rusia.rusia_sys_0031
+111	No, that can't... Wait, don't tell me you...!	VO_karla.karla_sys_0021
+112	Why would you lie?! Aren't you the one who wanted to protect the desert?!	VO_karla.karla_battle_0019
+113	It was for that express purpose that I lied.
+114	You told me to figure out what it means to protect the desert on my own, right? Well, I have my answer! I'm going to fight, too.	VO_karla.karla_sys_0013
+115	So where are they?!
+116	I told you, these aren't people you want to fight! You don't have a chance!
+117	If they're that strong, then that's all the more reason that I should fight! With Balt there to help me, I won't lose so easily!	VO_karla.karla_battle_0019
+118	You need to run!
+119	What are you saying? This is where you planted the seeds for the crops you care about so much.	VO_karla.karla_sys_0027
+120	We need to protect them, don't we? Or are you such a coward that you'll let them go so easily?
+121	Crops can be planted again, but a human's life is not so easily replaced.
+122	I don't care what you say about me. All that's important to me is that you survive!
+123	I thought you wanted to protect the desert. Or was that a lie, too?	VO_karla.karla_sys_0021
+124	Carla, please.
+125	I can't believe it. I looked up to you, but it turns out you're nothing but a coward!	VO_karla.karla_battle_0019
+126	...!
+127	What?	VO_karla.karla_sys_0012
+128	Hahah... That's right. I am a coward. Run away so you live to fight another day. It's a smart way to live.
+129	So long as you're alive, things will be all right. That's why, even if you stay, Carla, I'm leaving. I don't care if I'm the only one running away!
+130	Hawk?!	VO_balt.balt_sys_0025
+131	Are you serious?	VO_karla.karla_sys_0027
+132	I am. I have absolutely no intention of losing my life because of your stubbornness!
+133	Hawk! F-fine! I don't care where you go! Just leave already!	VO_karla.karla_sys_0022
+134	Haha... I will.
+135	Hawk!	VO_balt.balt_battle_0019
+136	Leave him! Who cares what happens to a spineless guy like him?!	VO_karla.karla_sys_0010
+137	But...!	VO_balt.balt_battle_0019
+138	I...believed in him. I...really...liked him. So why...? Why?!	VO_karla.karla_sys_0018
+139	Wait here. I'll be back!	VO_balt.balt_sys_0003

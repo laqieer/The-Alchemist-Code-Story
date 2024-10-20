@@ -1,0 +1,64 @@
+﻿001	Though I made it inside with little difficulty, the security was tight, and I had no idea where Mikaboshi was being kept.
+002	But I could not fail in my journey to return Mikaboshi to Wadatsumi! I had to ensure I evaded capture, no matter what.
+003	During one particularly harrowing encounter, in my desperation, I opened a nearby door and flung myself inside to hide from a patrol. And that's when I met him.
+004	Who goes there?
+005	...! I-I-I'm not anyone suspicious, I swear!	VO_amane.amane_battle_0025
+006	So you're the intruder, then.
+007	I...suppose I am, yes.	VO_amane.amane_sys_0018
+008	What an unusual guest you are. There is another inside of you as well, no?
+009	What?!	VO_amane.amane_sys_0025
+010	I presume this is what you're after.
+011	Oh! That's...Mikaboshi's stone!	VO_amane.amane_sys_0026
+012	Hmm? Ah, I see. The one inside of you is the very reason you seek this artifact.
+013	...! How...?
+014	Shall I give it to you, then?
+015	That...would be wonderful. But, why? Why are you making this so easy for me? Do you not represent the interests of Greed Dike?	VO_amane.amane_sys_0031
+016	I believe you are far better suited to bear it. Besides which, I'm curious to see where this leads. Who knows? It may even serve to give me hope.
+017	Just who are you?	VO_amane.amane_sys_0003
+018	They call me the Sun King.
+019	The Sun King?!	VO_ugachi.ugachi_sys_0025
+020	I didn't believe it when I heard it either. But if not for that chance encounter, we may never have gotten our hands on Mikaboshi.	VO_edgar.edgar_sys_0004
+021	I didn't know what it was he wanted, but it seemed to me his goals were not at all aligned with Judius'.	VO_amane.amane_sys_0030
+022	Greed Dike may not be a monolith after all.
+023	So the nation's true goal is still shrouded in darkness, then.
+024	The Templars, and the Sun King... So closely tied to Greed Dike, and yet...	VO_amane.amane_sys_0004
+025	The Templars are long gone, as best as anyone knows. They were only active in the time of the Lion Monarch's Charge.
+026	Are you saying the man you met was merely using the Sun King's name?	VO_ugachi.ugachi_sys_0020
+027	I can only assume as such, given what we know. But there's more still...	VO_amane.amane_sys_0037
+028	What a peculiar thing to say. I, Zechs, would be very grateful if you might elaborate on what you mean by that.
+029	The name of the man in front of me was Zechs—a name long associated with the Templars.
+030	Hmm. Indeed, that only further obfuscates their motives.	VO_ugachi.ugachi_sys_0031
+031	...
+032	No point thinking too hard about things we can't understand.	VO_edgar.edgar_sys_0014
+033	What's important is, we have the Spirit Stone Mikaboshi, so we should be able to recover the sacred art of Kagutsuchi now, right?
+034	That's the big takeaway here, as I see it.
+035	Yes. Yes, you're right!	VO_amane.amane_sys_0037
+036	It's true that our main worry is not the Sun King, but Judius. However...	VO_ugachi.ugachi_sys_0045
+037	The question remains as to whether or not Logi Crowley will really come to Wadatsumi.
+038	I believe he will. No... I know he will.
+039	It's so hot! Crossing a desert after all that work getting here feels like we just have a death wish.	VO_edgar.edgar_sys_0016
+040	We must persevere. To defeat the Malice that's overtaken Wadatsumi, and return peace to the land.
+041	Yeah, but do we really have to go all the way to Gluttony? We might not make it in time to do much of anything if we stray too far from Wadatsumi, you know!	VO_edgar.edgar_sys_0030
+042	There's no other way. The intel we received was thoroughly reliable. Logi is in Gluttony Foss, no doubt about it.	VO_amane.amane_sys_0005
+043	We have Mikaboshi, so everything now rides on Logi's return to Wadatsumi.
+044	Okay. But what if you went back to Wadatsumi, and I went to get Logi? Wouldn't that be a safer bet?	VO_edgar.edgar_sys_0003
+045	It's not that I don't trust you. I just want to tell him about what's going on in Wadatsumi myself...	VO_amane.amane_sys_0035
+046	And make sure he knows the way Wadatsumi is meant to be, as opposed to how it is now.
+047	Yeah, but if you die in the process of getting to him, none of that's gonna do anybody any good!	VO_edgar.edgar_sys_0015
+048	Even if it means risking my life, I must do this! For the future of the land I call home!	VO_amane.amane_sys_0040
+049	Your resolution and conviction is every bit the equal of a knight's. I entreat that you permit me to deliver your message.
+050	Who goes there?!	VO_amane.amane_sys_0025
+051	I apologize for eavesdropping, but it seems we share the same goals.
+052	You wish for the one named Logi Crowley to be led to Wadatsumi, is that correct?
+053	Yes, it is. But you haven't answered my question. Who are you?	VO_amane.amane_sys_0037
+054	My name is Monzein. I was once a Captain of the Holy Guard.
+055	?!
+056	It takes a great amount of work to secure the best possible future. Please, allow me to assist in that noble goal.
+057	But how can we know that you'll deliver the message? That you'll even be able to meet with Logi?	VO_amane.amane_sys_0031
+058	I give you my word, on my pride as a knight.
+059	Just as Sacred Stones are drawn together, so too do the bonds between people pull us ever closer.
+064	So my meeting with Logi Crowley is nothing but a matter of course!
+060	(I didn't necessarily believe that he really was who he claimed to be, but the look in his eyes and the tone of his voice somehow made me feel I could trust him.)	VO_amane.amane_sys_0004
+061	(He will deliver my message, and he will lead Logi to Wadatsumi.)
+062	I believe I've done all that I can. All that remains now is to keep the faith.
+063	The bonds between us all will be the spark that leads to the resurrection of Kagutsuchi.

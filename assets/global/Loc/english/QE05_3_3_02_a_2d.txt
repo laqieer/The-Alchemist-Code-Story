@@ -1,0 +1,72 @@
+﻿001	Th-thank you! We sure are lucky you were here Mister, ummm...?
+002	We lament the current state of Gluttony Foss, and desire its liberation under the flags of the rightful royal family!
+003	Huh? Rightful...liberation...?	VO_thiefm.thiefm_sys_0006
+004	That's right. I suppose you could call us the Liberation Army.
+005	Heed me, beloved citizens of my homeland! The reign of this country is under threat from a tyrannical man!
+006	He has been using the name of the young Ceclidis IV to manipulate Gluttony Foss from the shadows!
+007	The failed invasion of Saga was plotted by his dastardly hands!
+008	Until just a short time ago, our rightful ruler was being held captive in the royal palace—but we have successfully freed him!
+009	Now is the time for us to band together, take back our beloved homeland, and restore our true King to his throne!
+010	What are you talking about? What is all this?!	VO_thiefm.thiefm_sys_0025
+011	His Royal Highness was held captive? Then the sudden tax hikes over the past few years were all...!	VO_stknightf.stknightf_battle_0019
+012	How could this be?! Are you saying we were tricked?!	VO_thiefm.thiefm_sys_0020
+013	What's going on over there? The villagers are—	VO_tina.tina_sys_0025
+014	It's sedition. He's ramping up the crisis that the village has been facing and driving it home to get the villagers riled up.	VO_kamui.kamui_sys_0007
+015	I don't know if there's any truth to his words, but that man clearly knows what he's doing.
+016	Thank you for your support.
+017	No need for that. It's the least we could do after everything these people have done for us.	VO_kamui.kamui_sys_0037
+018	Oh? I thought that you were guarding a merchant caravan, yet now you say that you are merely guests here? Interesting. It appears that there is more to you than meets the eye.
+019	So it was you we met at the border.	VO_kamui.kamui_sys_0027
+020	My name is Adelbert.	<br>解放軍の実働部隊を任されている
+021	Kamui. I'm a member of the Fruit Peddlers, a courier guild.	VO_kamui.kamui_sys_0004
+022	I have heard that name before. I see, so that is why you were guarding those merchants.
+023	They should have arrived your way by now. They have, haven't they?	VO_kamui.kamui_sys_0001
+024	Ah, yes. The supplies were indeed a huge help. However, I still cannot afford to trust you.
+025	Thought you might say that. Take a look at this. It was entrusted to me by a visitor to the Desert Zone.	VO_kamui.kamui_sys_0045
+026	Why, this crest! You...! You met Lady Marie?!
+027	She filled me in on the situation. It sounds like you need the help of us desert dwellers for something or other.	VO_kamui.kamui_sys_0004
+028	Yes, I... No. We cannot talk here. I am sorry, but would you mind coming with us?
+029	That's fine, but there are two more of us. Does that change anything?	VO_kamui.kamui_sys_0037
+030	Of course not. Anyone who has been bestowed with Lady Marie's crest is an ally of mine.
+031	From the sounds of things, Marie's actually a pretty important person in Gluttony Foss, huh?	VO_tina.tina_sys_0031
+032	Seems like it. Anyway, we're going with him. Go let Logi and Agatha know.	VO_kamui.kamui_sys_0004
+033	A-all right...	VO_tina.tina_chara_1005
+034	I'm sorry. I should have come over to help.	VO_logi-b.logi-b_sys_0018
+035	Don't be. Prioritizing Agatha was the right thing to do, Logi.	VO_kamui.kamui_sys_0037
+036	She's being targeted by the Collectors of Wisdom. We need to keep her out of sight of the Gluttony forces.
+037	I know.
+038	Also... Tina's powers of foresight predicted something ominous—chaos, perhaps in the near future.	VO_kamui.kamui_sys_0030
+039	You never can be too cautious.
+040	Foresight...? Alchemy can do things like that?!	VO_logi-b.logi-b_sys_0025
+041	My Alchemy can. That's the power I got when I made a contract with the Truth, but your alchemy seems to be a little different.	VO_tina.tina_sys_0004
+042	Powers received under such a contract are meant to reflect the wishes of the user, so they change from person to person.	VO_kamui.kamui_sys_0037
+043	I wanted the power to see tragedies before they occur, so that I might prevent them.	VO_tina.tina_chara_1009
+044	The power to see into the future, to protect the sacred nature of this world.
+045	That desire, that hope—that is what lies at the heart of the Alchemy Source.	VO_kamui.kamui_sys_0004
+046	So Tina ended up with the power of foresight. I guess that's what it means to have the power to change an undesirable future.
+047	Our wishes are the source of our power... Does that go for you, too, Kamui?	VO_logi-b.logi-b_sys_0031
+048	It does. I wished for the power to connect memories.	VO_kamui.kamui_sys_0037
+049	The power to impart memories that would otherwise be lost between generations—memory Alchemy.
+050	So, then... It'd be the same for me, too, right? My desire, my wish...it's shaping my power?
+051	That's right. Everyone carries a wish in their heart in some form or another, and this is what leads them to the Door of Truth.	VO_kamui.kamui_sys_0004
+052	It is not always good fortune that they find there, however.
+053	Kamui...
+054	Sorry for rambling. That aside, at Adelbert's request, we are going to be following him to his base of operations.	VO_kamui.kamui_sys_0035
+055	You should explain the situation to Agatha. We leave tonight.
+056	Agatha! How are you feeling?	VO_logi-b.logi-b_sys_0001
+057	My body feels a little heavy, but I'm fine, thank you.
+058	I am sorry. We really should have prepared an extra carriage for you—you are our guests, after all.
+059	However, if we are captured by the royal capital troops, our base of operations will be exposed, and all will be lost. We cannot afford to stand out too much on the roads.
+060	I-I'm fine, really. Thank you for your concern. I will do my best to keep up.
+061	So your base is in the south, is it? The base of the Liberation Army...	VO_kamui.kamui_sys_0031
+062	We are making use of a ruined fortress that was built during the rebellion one hundred years ago.
+063	It seems that the general at the time knew what they were doing. The location is very easily defensible.
+064	It was General Leordas.
+065	Ah, so you know of him, do you?
+066	It is said that he protected the Sephira who fled for their lives to the Desert Zone.	VO_kamui.kamui_sys_0004
+067	Really, now? Well, I am glad to hear it. That is—it seems that he was a member of my house, so I cannot help but feel a little proud.
+068	So you're his descendant? Very interesting.	VO_kamui.kamui_sys_0009
+069	There's no one suspicious in the area, but there are some wild beasts in the pass up ahead.	VO_tina.tina_sys_0001
+070	If we try going around them, we'll end up having to take a detour around the whole outer edge of the mountain.
+071	What should we do?	VO_kamui.kamui_sys_0031
+072	This is quite the conundrum, but I think we ought to prioritize time here. Will you lend us your strength?

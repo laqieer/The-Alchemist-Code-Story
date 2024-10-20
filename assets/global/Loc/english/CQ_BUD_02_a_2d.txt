@@ -1,0 +1,57 @@
+﻿001	Are you guys all right? Good. How about—
+002	Huh? What's he playing at?
+003	Then it's just as I thought. This attack was their...	VO_ryle.ryle_sys_0016
+004	Hey! What're you talking to my knights about?	VO_budd.budd_sys_0001
+005	This and that. Some of us are rather busy, you see. What have you been doing?	VO_ryle.ryle_sys_0004
+006	Me? I've been checking on my knights, making sure they're all right, because I'm their captain!	VO_budd.budd_sys_0004
+007	How touching. I had no idea that the Blue Flame Guard needed coddling from their captain.	VO_ryle.ryle_sys_0045
+008	My apologies, but as I've said, I'm frightfully busy. There is a matter that urgently requires my attention. Whatever it is you need, it will have to wait.
+009	Hold on! I've gotta ask you something else. It's important!	VO_budd.budd_sys_0002
+010	Why'd you hide in the caravan while we were fighting off your attackers?
+011	I mean, I've heard that you're a real sharp thinker, so...was it part of some strategy to keep the Desert Wings together?
+012	No? And even if it was, what is it to you?	VO_ryle.ryle_sys_0006
+013	What? Because I want to help the Blue Flames work better together! I want to improve our teamwork, refine our strategies, and become a captain capable of protecting the entire continent of Babel!	VO_budd.budd_sys_0006
+014	That's quite a dream. You should probably start by focusing on the land you've been designated to protect.
+015	It doesn't matter if Envylia's at peace if the rest of the world is in chaos!
+016	If the cause of war goes unresolved, then nowhere is safe and there's no telling when another one will break out!	VO_budd.budd_sys_0016
+017	Envylia is important to me, but it's not the only nation in the world, and its people aren't the only ones who need protection.
+018	My mission is to make this entire continent a peaceful place, where people can live without fear and have every reason to smile!
+019	Ugh, spare me the idealistic monologue... I feel a headache coming on.	VO_ryle.ryle_battle_1030
+020	Listen—merchant guilds have much to contend with, but I imagine that an organization such as yours is even busier. If you focus too much on your future goals, sooner or later you'll trip over the things you should be dealing with in the present.	VO_ryle.ryle_sys_0030
+021	On top of that, your methods are incredibly inefficient. Trivial matters ought to be delegated; for example, you could have your knights write up a report to save you some time.
+022	I guess that would be more efficient, but it's important that I get to see what's going on for myself as well.	VO_budd.budd_sys_0031
+023	For example, when I was double-checking our patrol route, I came across a pretty risky point that we're going to want to avoid. I can't help but feel that it's my responsibility as captain to make sure I know what's going on at all times.
+024	I am not denying the value of seeing things with your own eyes; I am merely pointing out that it is a habit unsuited to the role of a leader.	VO_ryle.ryle_sys_0001
+025	But I really shouldn't have to tell you that. Hmph... I didn't realize the requirements for a captain of the Blue Flame Guard were so shoddy.
+026	What's that supposed to mean?!	VO_budd.budd_sys_0012
+027	It means that you are failing to properly exercise the individual talents of your knights, and to such an extent that it was immediately apparent to me from the first few moments of our acquaintance.
+028	Wh-what would you know?! You just make your subordinates do everything for you, like in that battle back there!	VO_budd.budd_sys_0025
+029	...
+030	Wh-what's your problem?!
+031	Are you finished? This pointless discussion is encroaching upon my designated naptime.	VO_ryle.ryle_sys_0003
+032	Naptime?! And you call yourself the guildmaster of the Desert Wings?!
+033	(I'm so ticked off right now! I can't believe how lazy this guy is. And he's so full of himself, too!)	VO_budd.budd_sys_0030
+034	(But I can't afford to lose my cool, no matter how many snide comments he throws at me. He's one of the people I'm here to guard, and I've gotta make this mission a success!)
+035	Excuse me, captain? We've received word that some armed men have begun assaulting the nearby market!
+036	Right. Coming!	VO_budd.budd_sys_0037
+037	Hold on. I need you to remain right here.	VO_ryle.ryle_sys_0002
+038	But someone might get hurt! I can't just sit back and watch them get attacked!
+039	That's not at all what I am asking you to do. You lead these knights, do you not? You need to learn how to correctly manage your responsibilities as captain.	VO_ryle.ryle_sys_0016
+040	Huh?! Look, if you've got a problem, then spit it out! I don't have time for riddles— Look out!	VO_budd.budd_chara_2011
+041	Who are you?! State your business!
+042	Tch... You weren't supposed to be here. I didn't think the captain of the Blue Flame Guard would value the life of a desert merchant over those of the common people.	VO_thiefm.thiefm_sys_0016
+043	Huh? Wait... So that attack on the market just now—	VO_budd.budd_sys_0004
+044	Was intended to distract you so that they could get at me, yes. Hmph... Yet another guild who wishes to interfere with the expansion of my guild's trade routes. This is exactly why I wanted you to remain by my side.	VO_ryle.ryle_event_1009
+045	I...!
+046	I know you need me here, but I can't choose between saving you and saving other people who need my help!
+047	I believe I already told you that that won't be necessary. It's time you learned how to delegate as captain.	VO_ryle.ryle_sys_0030
+048	I have a report for you, captain! We were patrolling the area you specified when we happened upon a group of thieves acting in concert. We swiftly incapacitated them and now have them secured, awaiting your judgement!
+049	That was fast. It would seem the knights of the Blue Flame Guard, at least, are as skilled as I have heard.	VO_ryle.ryle_sys_0044
+050	Huh? I don't remember telling you to do anything like that.
+051	That would be because you didn't. I gave those orders. Your knights looked so terribly bored, I felt sorry for them. It seemed a kindness to give them something useful to do.	VO_ryle.ryle_sys_0004
+052	You what?!	VO_budd.budd_sys_0025
+053	So that's what you were talking to them about!
+054	You think I'm just going to let you lot finish your leisurely conversation?! You're dead, Ryle! And once your head rolls, the Desert Wings are over!	VO_thiefm.thiefm_sys_0029
+055	It's survival of the fittest! Because if your business keeps expanding, my guild is done for!
+056	So that's your motivation, is it? Hmph...	VO_ryle.ryle_sys_0012
+057	You have some nerve intruding on my territory. You will regret this, I promise you.

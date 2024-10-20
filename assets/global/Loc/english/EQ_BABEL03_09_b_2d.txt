@@ -1,0 +1,83 @@
+﻿001	Huzzaaahh!	VO_rameses.rameses_sys_0032
+002	Urgh! W-we can't afford any further casualties. Mission failed! Retreat!	VO_stknightm.stknightm_battle_0022
+003	Huzzzzzaaaaaaahhhhhhh!!!	VO_balt.balt_battle_0009
+004	Hrgh! Urrrggh!	VO_lasiuba.lasiuba_sys_0043
+005	Victory is ours! Zofia! You can drop your weapon now! You're free!	VO_balt.balt_sys_0007
+006	Free. Live! Want! Can...Zofia? Balt?	VO_zophy.zophy_sys_0031
+007	I will not allow it! Zofia, don't you forget who owns you!	VO_lasiuba.lasiuba_sys_0015
+008	Who saved you from the masses?! Live free? Don't make me laugh! What will you do with your "friends" in the graveyard?!	VO_lasiuba.lasiuba_sys_0002
+009	Zofia's...friends!
+010	Zofia, don't!	VO_balt.balt_sys_0025
+011	Master. Rashba. Balt. Zofia, can't keep? Promise? Balt. Rashba. Zofia...sorry.	VO_zophy.zophy_sys_0035
+012	Ungh!	VO_zophy.zophy_battle_0019
+013	What?! You...urgh! D-dang it... This can't be!	VO_lasiuba.lasiuba_sys_0025
+014	Zofia! Get a hold of yourself! You... Why?!	VO_balt.balt_sys_0021
+015	Free. Promised...Zofia. Like Balt, but Rashba...found.	VO_zophy.zophy_sys_0018
+016	This is...fine. What Zofia...want. Free. Thank...you.	VO_zophy.zophy_sys_0007
+017	Zofia! Wake up! Zofia!	VO_balt.balt_battle_0019
+018	Ramses! Take her to a medic! Now!	VO_neferty.neferty_battle_0019
+019	Y-yes, but...you're injured as well!	VO_rameses.rameses_sys_0025
+020	Not as seriously as she is! Just hurry!
+021	It's...too late.	VO_rameses.rameses_sys_0018
+022	Zofia!
+023	Balt...
+024	What...? What are we even doing here? If we can't even protect the future of one child, what have we been fighting for?!	VO_balt.balt_sys_0003
+025	I have never felt so helpless before. I am beginning to understand how important it is to bring law and order to this place.	VO_neferty.neferty_sys_0018
+026	Carla, are you okay?	VO_balt.balt_sys_0006
+027	Yeah... Thanks, Balt.	VO_karla.karla_sys_0018
+028	It was nothing. I was just keeping a promise. Let's go. If we're going to change this desert, there's a lot we still have to do.	VO_balt.balt_sys_0022
+029	What's with all this gloom?! The party's just getting started!	VO_neun.neun_sys_0003
+030	?!
+031	You're the ones from before...!	VO_karla.karla_sys_0027
+032	Do you know them? They do not seem friendly.	VO_neferty.neferty_sys_0006
+033	The mark of a Sephira... We've come for you. This time, your as good as ours!	VO_siewa.siewa_sys_0007
+034	Bring yourself over here like a good girl, and nobody needs to get hurt.	VO_siewa.siewa_sys_0001
+035	I promised I'd be back to crush you! Hope you're ready!	VO_neun.neun_battle_0007
+036	Gaaaahh!!!	VO_balt.balt_sys_0043
+037	Balt!	VO_karla.karla_battle_0019
+038	Should you really be getting distracted right now?	VO_siewa.siewa_sys_0007
+039	Aaaaahh!!!	VO_karla.karla_battle_0025
+040	Did you think we'd just forget about you? Don't worry, we always repay our debts!	VO_siewa.siewa_sys_0001
+041	Carla! Urgh...!	VO_neferty.neferty_battle_0019
+042	Too slow! Ha!	VO_siewa.siewa_battle_0013
+043	How dare you strike her! Are you all right?!	VO_rameses.rameses_sys_0021
+044	I'm fine! Ramses, with me!	VO_neferty.neferty_sys_0005
+045	Yes, ma'am! Huzzaaaahh!	VO_rameses.rameses_sys_0032
+046	Huh?!	VO_neferty.neferty_sys_0042
+047	Agh!	VO_rameses.rameses_battle_0025
+048	You think I'd let such unsightly attacks hit me? Can you not give it a little more dazzle?	VO_siewa.siewa_battle_0016
+049	Balt, run!	VO_karla.karla_sys_0018
+050	As if I would!	VO_balt.balt_battle_0019
+051	I refuse to let someone die on my behalf ever again!	VO_karla.karla_sys_0020
+052	Trust me, I won't die!	VO_balt.balt_event_1013
+053	How confident you are. Allow me to let you in on a secret. People die surprisingly easily.	VO_siewa.siewa_sys_0044
+054	Huzzzaaaaahh!	VO_neun.neun_sys_0032
+055	Aaaagh!	VO_balt.balt_sys_0043
+056	Balt!
+057	Don't move. We've finally got you, Sephira.	VO_siewa.siewa_sys_0016
+058	Hey, Sieba, let's hurry up and take her. I'd hate to have to deal with her making a fuss.	VO_neun.neun_sys_0003
+059	That's true. Come on now, little girl.	VO_siewa.siewa_sys_0016
+060	If I were to just go with you now, I'd be wasting everything Balt and Hawk have worked for so far.	VO_karla.karla_sys_0020
+061	I'd rather die than quietly submit to you and your cause!	VO_karla.karla_battle_0019
+062	Carla! Stop!	VO_balt.balt_sys_0015
+063	I won't be killed so easily though! I'll fight you to the end!	VO_karla.karla_sys_0032
+064	Hmph. Such pointless barking. We have no plans to kill you, but we will have to beat you until you're obedient.	VO_siewa.siewa_sys_0010
+065	Nng!	VO_karla.karla_sys_0043
+066	Carla!	VO_balt.balt_battle_0019
+067	Hm, not bad. Didn't think we'd be facing anybody worthwhile today.	VO_rusia.rusia_sys_0044
+068	Who are you?!	VO_siewa.siewa_sys_0025
+069	Huzzaaaahh!!! Wh-whoa! Did you block that?! Dude, you're tough!	VO_retzius.retzius_battle_0009
+070	What the—?! Stay out of my way!	VO_neun.neun_sys_0016
+071	Tch! Quit scampering around!	VO_neun.neun_chara_1004
+072	Heh! Your moves are too simplistic! I can dodge them with my eyes closed!	VO_retzius.retzius_sys_0007
+073	How many times do I have to tell you that the battlefield is not a playground?	VO_rusia.rusia_sys_0002
+074	S-sorry, Lucian!	VO_retzius.retzius_sys_0027
+075	You are?	VO_karla.karla_sys_0027
+076	Hired mercenaries. Our mission is to protect you and your friends.	VO_rusia.rusia_sys_0006
+077	Mission? Who hired you?	VO_neferty.neferty_sys_0006
+078	They'll be here soon enough.	VO_rusia.rusia_sys_0010
+079	The tea I just brewed to perfection is going cold as we speak, but at least we seem to have made it in time.	VO_ankh.ankh_sys_0016
+080	Ankh, please... I'm never late when I choose to be somewhere.	VO_ryle.ryle_sys_0010
+081	Ryle?!	VO_balt.balt_sys_0025
+082	I don't know who you people are, but it looks like you've been doing as you please around here.	VO_ryle.ryle_chara_1009
+083	It's time you paid...with interest!

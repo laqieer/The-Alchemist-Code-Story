@@ -1,0 +1,85 @@
+﻿001	Wow, you fixed our ship!	VO_thiefm.thiefm_sys_0009
+002	I also fixed the Alkaroids since you went to the trouble of picking them up. Use them conscientiously.	VO_albell.albell_sys_0002
+003	Thank you! Thank you so much! With this, we can return to the high seas!	VO_thiefm.thiefm_sys_0033
+004	...
+005	You really fixed it! It's like a dream! Thank you so much!
+006	You're welcome.	VO_albell.albell_sys_0007
+007	Ohhh! Amazing!	VO_mela.mela_sys_0046
+008	You fixed it! They look so happy. That's our Albea!	VO_mela.mela_sys_0007
+009	You're right, they do look really happy. They really treasure that boat... I'm glad.	VO_albell.albell_sys_0037
+010	(I might've focused too much on becoming a sister my brother can be proud of.)	VO_albell.albell_sys_0031
+011	(I thought that if I became a Phantom Soldier I'd be able to see him and I lost sight of what was important.)	VO_albell.albell_sys_0030
+012	It doesn't matter what it means to anyone else... As long as I'm happy, that's all that matters.
+013	And seeing the happy faces of my customers makes me happy.	VO_albell.albell_sys_0007
+014	I think I understand a little how you feel.
+015	I sometimes compare myself to Nyx.
+016	Do you?	VO_albell.albell_sys_0005
+017	Occasionally but not that often! I'm happy with myself, so I don't really care!	VO_mela.mela_sys_0004
+018	Besides, Magnus wants you to live your days smiling happily, right?
+019	So I'm sure it's fine that you're having fun living your life as a mechanic!	VO_mela.mela_sys_0008
+020	You think so? But then maybe I'm really not able to fulfill his wish.	VO_albell.albell_sys_0031
+021	I rarely smile.
+022	Uh, you did, though.	VO_mela.mela_sys_0006
+023	Huh?	VO_albell.albell_sys_0025
+024	When the pirates smiled and thanked you, you gave such a blindingly happy smile! I wanted to show it to Magnus!	VO_mela.mela_sys_0007
+025	Oh!
+026	Albea, stick out your hand.	VO_mela.mela_sys_0001
+027	My comb! Where did you find it?	VO_albell.albell_sys_0026
+028	I spotted when the octopuses were gathering. I thought they might have it.
+029	Just like you said, it glowed when I shined a light on it in the dark of the cave.
+030	It was really beautiful! Magnus has got some taste.	VO_mela.mela_sys_0008
+031	Maybe, but... He doesn't come see me in person. He just leaves things like this...	VO_albell.albell_sys_0004
+032	Things like this? I'm sure Magnus has his reasons.	VO_mela.mela_sys_0006
+033	Maybe he's just aiming to do things that will make you smile. Something certain, like pushing a button to get the right result.
+034	...
+035	Oh, looks like the ship repairs are finished.	VO_suzuka.suzuka_sys_0001
+036	Yup! How are things over there?	VO_mela.mela_sys_0004
+037	Um... The octopus situation got sorted out, but...	VO_noah.noah_sys_0031
+038	Oh, it's still covered in garbage.	VO_mela.mela_sys_0025
+039	We had our hands so full with the octopuses that we didn't get around to cleaning up the garbage they brought out.
+040	Haaa... Just looking at it makes my head hurt.	VO_noah.noah_sys_0030
+041	But we'll be fine. We've got more than enough people to help!
+042	True. Since they caused all this mess, they'll help clean it up, won't you?	VO_suzuka.suzuka_sys_0004
+043	A-aye! Leave it to us! Er... Although, that is a crazy amount of trash.	VO_thiefm.thiefm_sys_0004
+044	Yeah... I feel a little faint... Sorting it is going to be very troublesome.	VO_thiefm.thiefm_sys_0030
+045	Well, the Alkaroids can help out too, so it won't take that much time. See, look.	VO_albell.albell_sys_0002
+046	Cleaning protocols initiated. Alcohol bottle, recyclable. Fake treasure map, burnable.
+047	Cooperation will increase the probability of finishing this cleaning project by sunset to 65%. Recommendation: cease all useless chatter and begin cleaning.	VO_aj2000.aj2000_sys_0003
+048	A-aye aye!
+049	Well, let's leave the cleaning to them...and start playing!	VO_mela.mela_sys_0008
+050	What? Is that all right? We are still supposed to be on the clock.	VO_noah.noah_sys_0025
+051	It'll be fine. The Alkaroid problem has been solved, after all.	VO_suzuka.suzuka_sys_0008
+052	But...	VO_noah.noah_sys_0029
+053	Noah, let's eat some shaved ice!	VO_emma.emma_sys_0002
+054	It's covered in fruit. It looks so good! But that's not the most important thing!
+085	It's very cute, so I want you to see it as soon as possible!	VO_pamera.pamera_sys_0008
+055	Those two...
+056	Hehe... Your face is loosening up, Noah.	VO_suzuka.suzuka_sys_0007
+057	Ohh...
+058	When I feel at ease, it shows on my face quickly, doesn't it?	VO_noah.noah_sys_0007
+059	This is my first mission without those two. I was honestly really worried. We were always together, even at school.
+060	But... Thanks to Suzuka and everyone else, I feel like I really did my best! And I didn't panic that badly.	VO_noah.noah_sys_0003
+061	You were splendid, Noah.	VO_suzuka.suzuka_sys_0004
+062	I think 'splendid' is overstating it...
+063	Heeey, Noah! The shaved ice will melt!
+064	Wh-what?! You bought it already?! I didn't select a flavor yet!	VO_noah.noah_sys_0026
+065	Emma asked me to hold onto the silver spoon in case something happened, but it wasn't needed this time around.
+066	Thinking of doing things for others will make a person stronger. Noah has truly grown as well.
+067	Perhaps she may never need this spoon again.	VO_suzuka.suzuka_sys_0045
+068	Heh, and Emma looks like she's having a good time. Having friends is a good thing.	VO_suzuka.suzuka_sys_0007
+069	Ah, the wind is blowing around trash!	VO_noah.noah_sys_0027
+070	Hold on a second. This is a yakisoba tray and a stick from a corn dog from that beach hut down there...
+071	This is...trash from the pirates, isn't it?! I don't believe it!	VO_noah.noah_sys_0002
+072	Ah, uh, wait, Noah. Calm down!	VO_emma.emma_sys_0025
+073	I've endured a lot up until this point. But this is my limit!	VO_noah.noah_sys_0012
+074	...
+075	Right. I guess this silver spoon is still necessary.	VO_suzuka.suzuka_sys_0030
+076	...
+077	Showdown.
+078	Floating...letters...?	VO_albell.albell_sys_0025
+079	Sigh...	VO_albell.albell_event_1012
+080	Sending messages like this is really annoying, brother.	VO_albell.albell_sys_0007
+081	...
+082	Albeaaa! Let's play!	VO_mela.mela_sys_0001
+083	Wait, I'm coming over now!	VO_albell.albell_sys_0004
+084	And that became a wonderful memory of summer.

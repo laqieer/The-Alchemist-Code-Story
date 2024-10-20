@@ -1,0 +1,68 @@
+﻿001	So this...is Castle Aquila Rubrum.	VO_logi-b.logi-b_sys_0024
+002	Yes. It is the symbolic heart of Wadatsumi's royalty, built by your ancestors, the House of Rising Ashes.	VO_amane.amane_sys_0005
+003	It also formerly served as the Blade Fox headquarters.
+004	...
+005	It's still hard to believe I'm descended from Wadatsumi royalty.	VO_logi-b.logi-b_battle_0019
+006	Head to the home of your people, Logi. Your destiny awaits you there.
+007	(I was told that many souls once dwelled here.)
+008	(Then there was a great Malice that brought ruin to them.)
+009	(This demon... This Malice wrought untold havoc upon Wadatsumi.)
+010	(So much of what could have been important to me was robbed away before I even had a chance to know of its existence.)
+011	(And then...)
+012	...
+013	Logi? Is something the matter? You seem lost in thought.	VO_amane.amane_favorite_0002
+014	Ah, sorry. It's nothing.
+015	Can't blame you if you're feeling a little dumbstruck. It's not every day you find out you're royalty in a foreign land and get brought to your family's old castle.	VO_edgar.edgar_sys_0031
+016	Is everything all right, then, Logi?
+017	Absolutely. So, what do you need me to do?	VO_logi-b.logi-b_sys_0004
+018	Well, first and foremost...	VO_ugachi.ugachi_sys_0031
+019	I knew you'd be back, Amane.	VO_juubei.juubei_sys_0005
+020	Jubei...!
+021	I seem to have been right to take action when I did. I'm glad to see you safe and sound.
+022	Jubei?	VO_amane.amane_sys_0001
+023	Have you already heard of what happened to Lady Celis?	VO_juubei.juubei_sys_0001
+024	I...have.
+025	...
+026	Anything I say now would only come across as a hollow excuse for not being able to save her. So I've resolved simply to continue cutting down demons. That, I believe, is my road to atonement.	VO_juubei.juubei_battle_0019
+027	So? Did you get it?	VO_ugachi.ugachi_sys_0001
+028	Here. The demon's horn.
+029	This is...Tamba's?	VO_amane.amane_sys_0009
+030	With this horn, we can now finally restore Sumeragi and Kagutsuchi.	VO_ugachi.ugachi_sys_0004
+031	...! Logi?!
+032	It's really you! I can hardly believe it. You've grown so much!	VO_juubei.juubei_sys_0023
+033	You know me? Who might you be?
+034	I'm sorry, I have yet to introduce myself.	VO_juubei.juubei_sys_0004
+035	I was once a member of the Scarlet Flame Guard, and fought alongside your mother, Lady Celis.
+036	Since then, I have been once ousted from the Blade Fox, but have been welcomed back into their ranks as captain. My name is Jubei.
+037	Really?! The Scarlet Flame Guard?!	VO_logi-b.logi-b_sys_0025
+038	I must apologize for having to drag you into this, Lord Logi. This is all because I failed to handle it myself.	VO_juubei.juubei_battle_0022
+039	But if you could lend a hand, we would certainly be grateful. Though, to be honest, Lady Celis too had hoped it would never come to that.
+040	I see...	VO_logi-b.logi-b_battle_0020
+041	There is one other thing to note as well.
+042	Lady Celis! Hang in there! Let me see if I can patch you up!
+060	It's no use. I'm...not going to make it. But please, if you would... Take this.	VO_celis.celis_battle_0019
+061	A...dagger?
+062	I've imbued it with my will. Wherever it goes...so too shall my soul.
+063	My children will surely understand. So...please...
+043	If you could also tell everyone...to please...take care of Wadatsumi...
+064	Lady Celis! Don't strain yourself any further! Just hang on!
+065	Jubei, I want you to...take care of everyone, and...I wanted to...thank you.	VO_celis.celis_battle_0022
+066	Lady Celis!
+044	Tell Amane...to try not to be...so picky at the dinner table. And...tell Logi...
+045	...to do his best...to protect...the peace...for everyone...	VO_celis.celis_sys_0018
+048	Lady Celis? Lady Celis!
+067	I have that dagger now. It's...painful to think of, but it's an important memento of her.	VO_amane.amane_sys_0001
+068	I see. I hope you'll take good care of it.
+069	I suppose it may have been meant for me, but I...don't think the time is right for me to have it. I don't entirely understand the significance of it yet, after all.	VO_logi-b.logi-b_sys_0003
+070	I understand. And I'm happy to keep it safe.
+050	Logi, I want you to know that I will continue to cut down demons in Lady Celis' honor. I swear it upon her name.	VO_juubei.juubei_sys_0043
+051	...
+052	May I ask you to lend your aid?
+053	I will do my utmost. But there is something I'm lacking.	VO_logi-b.logi-b_sys_0004
+071	Oh? And what might that be?
+054	I've heard all there is to be heard. I'm now deeply involved with what is happening in Wadatsumi.
+056	I want to protect the way of life here. The problem is, I don't know what that way of life is just yet.	VO_logi-b.logi-b_sys_0022
+072	I want to carry on the will of those who've been lost, but I haven't come to know what the people here have willed.
+057	What did my father go through when raising me? What did my mother feel when she left me behind?	VO_logi-b.logi-b_sys_0031
+058	I want to know what was in their hearts. I feel like it's my responsibility to know!
+059	Logi...

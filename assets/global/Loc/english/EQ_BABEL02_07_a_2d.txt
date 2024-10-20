@@ -1,0 +1,243 @@
+﻿001	...
+002	All right. Quiet, students! I have an announcement.
+003	Heide, your classmate, has officially joined the Holy Order.
+004	What?! When did that happen?!	VO_jogakusei.jogakusei_sys_0016
+005	He didn't even say goodbye!	VO_jogakusei.jogakusei_sys_0018
+006	I'm...going to miss him.	VO_jogakusei.jogakusei_sys_0021
+007	We're all going to miss him, but we ought to be happy for him. It's a real honor to be part of the Holy Order, you know.
+008	I hope you all follow in his footsteps and become someone who will contribute to the prosperity of the Holy Order and Babel as a whole.
+009	Time for class!
+010	Awwwww!
+011	...
+012	Woody, he wasn't there today either.	VO_mea.mea_sys_0002
+013	Heide lost his parents in the war, just like me.	VO_mea.mea_sys_0018
+014	Woody are you trying to cheer me up? You're so sweet. Hehehe.	VO_mea.mea_battle_1018
+015	But I'm totally okay.	VO_mea.mea_sys_1006
+016	Cause I've got you and Mr. Bunny! I don't feel lonely at all!
+017	Tehe! What should we play today? House? Or should we read a story? Playing Detective's fun, too!	VO_mea.mea_sys_0007
+018	Everyone's on their way home, so how about we play Detective!	VO_mea.mea_sys_0031
+019	Normally the hallways and classrooms are bustling with sound during the day, but now they're so quiet I could hear a pin drop.
+020	What's weirder, though, is that I feel more at home now than I do during the day.	VO_mea.mea_sys_0002
+021	I don't feel as lonely... I bet it's because I have you guys for company!	VO_mea.mea_sys_0007
+022	Did you hear that? Maybe someone's still around. I think it came from here...	VO_mea.mea_battle_1018
+023	Huh? Was this door always here?	VO_mea.mea_sys_0025
+024	I wonder if I'm allowed to open it... Mmm... Hmm... I'm gonna open it.	VO_mea.mea_sys_0031
+025	I'll be safe since I've got you guys with me, right? All right, I'm going to open it.	VO_mea.mea_sys_0032
+026	Gaaah! Dang it! Why can't I beat you, Corvus?!	VO_ila.ila_battle_0014
+027	Huff... He really is freakishly strong.	VO_syrma.syrma_sys_0030
+028	What do you expect? He was the vice-captain of the Knights of Wratharis, but who would've thought that even the three of us couldn't take him down?	VO_spica.spica_sys_0038
+029	Ngh... Hmm. I'd better stick to caramel jaegar. It's the only booze for me.	VO_niggle.niggle_sys_0008
+030	He's drinking, too! All right! I'm giving it another shot!	VO_ila.ila_sys_0031
+031	Good luck! I'm going to take a breather.	VO_syrma.syrma_sys_0005
+032	...
+033	Hm? What's wrong, Spica?	VO_syrma.syrma_sys_1011
+034	It's been so long since I've seen Lord Zahar...	VO_spica.spica_sys_0022
+035	Long...? I know you didn't see him yesterday, and he was in the war council the day before, but didn't you say hello this morning?	VO_syrma.syrma_sys_0016
+036	It's different... When he was in the Knights of Wratharis, I was always by his side.	VO_spica.spica_battle_0019
+037	You didn't complain at all when we were living in the forest, though.	VO_syrma.syrma_sys_0031
+038	That was different, too. Now we're here in the same place...but we never get to meet.	VO_spica.spica_chara_1002
+039	I desperately want to see him...	VO_spica.spica_sys_0018
+040	Your love for him is so awe-inspiring!	VO_syrma.syrma_sys_0046
+041	Lord Zahar...	VO_spica.spica_sys_0022
+042	What about me, Spica?	VO_zaharu.zaharu_sys_0006
+043	L-Lord Zahar!!!	VO_spica.spica_sys_0026
+044	How fares your training with Corvus?	VO_zaharu.zaharu_sys_0002
+045	I-it's going well! I'll become stronger so I can be of more assistance to you, Lord Zahar.	VO_spica.spica_chara_1009
+046	I have no doubt that you will. Continue striving to do your utmost. That's right... Letitia, give them one each.	VO_zaharu.zaharu_sys_0004
+047	Certainly. One for Spica...and one for Silma.	VO_laetitia.laetitia_sys_0005
+048	Is this...?
+049	What is this?	VO_syrma.syrma_sys_0005
+050	It's Shadow Messiah's insignia. Ila, go get yours from Corvus.	VO_laetitia.laetitia_sys_0004
+051	L-Lord Zahar! I will do my utmost to live up to this insignia!	VO_spica.spica_sys_0046
+052	Good.	VO_zaharu.zaharu_sys_0031
+053	...
+054	Is something wrong? Heheh.	VO_laetitia.laetitia_sys_0022
+055	Oh... N-no...	VO_spica.spica_chara_1002
+056	Off you go, then.	VO_laetitia.laetitia_sys_0016
+057	...
+058	I never know what Letitia is thinking.	VO_syrma.syrma_sys_0031
+059	What is her relationship with Lord Zahar?
+060	Silma...	VO_spica.spica_sys_0012
+061	Oh! Sorry, Spica!	VO_syrma.syrma_sys_0025
+062	I'm going back to train with Corvus. I have to get stronger, no matter what!	VO_spica.spica_sys_0010
+063	Spica, w-wait up! I'm coming, too!	VO_syrma.syrma_sys_0026
+064	Tsk, tsk...	VO_laetitia.laetitia_sys_0007
+065	What is it?	VO_zaharu.zaharu_sys_0006
+066	Nothing new. Spica really doesn't like me.	VO_laetitia.laetitia_sys_0010
+067	...
+068	Don't you go telling her off, now. It's good for her. She needs this fire in her.	VO_laetitia.laetitia_sys_0030
+069	Her fire may seem to burn dim and weak like fading embers...but it's stronger than you might think.
+070	I must say, I never expected you to actually make an insignia of your own.	VO_laetitia.laetitia_sys_0001
+071	The article in itself is meaningless, but given form, it can become a medium to convey one's will.	VO_zaharu.zaharu_sys_0010
+072	Just like the wooden necklace I gave you?	VO_laetitia.laetitia_sys_0025
+073	Exactly. Spica is weak and fragile. She...will break once she reaches her capacity.	VO_zaharu.zaharu_sys_0004
+074	Yet before that happens...you mean to let her go.	VO_laetitia.laetitia_sys_0016
+075	It's almost like giving away a porcelain vase you couldn't bear to break. How sweet.	VO_laetitia.laetitia_sys_0007
+076	I would rather have her become a vessel to inherit my ambitions and my will.	VO_zaharu.zaharu_sys_0031
+077	Let's hope that never becomes necessary.	VO_laetitia.laetitia_sys_0004
+078	The same applies to Corvus.	VO_zaharu.zaharu_sys_0004
+079	We are laying the foundations for them, then.	VO_laetitia.laetitia_sys_0030
+080	Indeed. They are the ideal group to whom we can leave our new world order.	VO_zaharu.zaharu_sys_0004
+081	As you will it.	VO_laetitia.laetitia_sys_0005
+082	Report for Lord Zahar! We have discovered the hiding place of the researcher.	VO_knightm.knightm_sys_0003
+083	Continue.	VO_zaharu.zaharu_chara_1008
+084	He is staying at the Wratharis Institute of Sorcery.
+085	Heh heh... Well done. Letitia, summon everyone.	VO_zaharu.zaharu_sys_0008
+086	As you command.	VO_laetitia.laetitia_sys_0005
+087	How far does this stairway go?	VO_mea.mea_sys_0018
+088	Woody, it's going to be okay...probably.	VO_mea.mea_sys_1006
+089	I see a light...	VO_mea.mea_battle_1018
+090	If I could have some more time! I'm so close! I guarantee you'll be satisfied with the finished product—	VO_mob-saga_omale.mog-saga_omale_sys_0020
+091	You make the same excuse time and time again! How long do you expect me to wait?!	VO_thiefm.thiefm_sys_0002
+092	(I can hear people talking.)	VO_mea.mea_sys_0025
+093	I swear, I just need more time! If you'd just look at the results of my resear—	VO_mob-saga_omale.mog-saga_omale_sys_0018
+094	We've been through this before. You stall by showing me your worthless results.	VO_thiefm.thiefm_sys_0012
+095	I beg to differ...	VO_mob-saga_omale.mog-saga_omale_sys_0027
+096	(That's the alchemy professor...but who's he with?)	VO_mea.mea_battle_1018
+097	(Research? Results? What could they be talking about?)	VO_mea.mea_sys_0031
+098	Truthfully speaking, I need more test subjects.	VO_mob-saga_omale.mog-saga_omale_sys_0029
+099	You have enough for this experiment, don't you? Hmm... More test subjects, huh? We are running out of students.	VO_thiefm.thiefm_sys_0016
+100	I will not forgive any further delays.	VO_thiefm.thiefm_sys_0030
+101	Y-yes! Our experiment on alchemical resistance was a success! Please, have a look at the results!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+102	Uh... Urgk...
+103	Th-that's Heide!	VO_mea.mea_battle_1018
+104	Oh no!	VO_mea.mea_battle_0020
+105	Who's there?!	VO_mob-saga_omale.mog-saga_omale_sys_0025
+106	Um... It's me, Professor.	VO_mea.mea_battle_1018
+107	Oh, well if it isn't...Mia...from the Phantom Arts class. What are you doing in a place like this?	VO_mob-saga_omale.mog-saga_omale_sys_0010
+108	I-I...didn't see...anything.	VO_mea.mea_sys_0027
+109	She's seen us. What are you going to do about her?	VO_thiefm.thiefm_sys_0002
+110	Rest assured. I'm well aware of the limits of her alchemy.	VO_mob-saga_omale.mog-saga_omale_sys_0007
+111	In fact, I was always planning to use her for one of my experiments.	VO_mob-saga_omale.mog-saga_omale_sys_0010
+112	Ex...?!	VO_mea.mea_battle_0020
+113	You really have no morals. To use a girl as young as her for one of your experiments...	VO_thiefm.thiefm_sys_0030
+114	What are you insinuating? This is for science. My research will be invaluable to breaking new ground in the field of alchemy!	VO_mob-saga_omale.mog-saga_omale_sys_0011
+115	N-no!	VO_mea.mea_battle_0025
+116	Mia, you've no need to be afraid... Your sacrifice will be beneficial to the world.	VO_mob-saga_omale.mog-saga_omale_sys_0007
+117	(Someone help! Woody!)	VO_mea.mea_battle_0020
+118	You should feel privileged!	VO_mob-saga_omale.mog-saga_omale_sys_0010
+119	So you say a survivor of the Wratharis Research Laboratory resides here?	VO_niggle.niggle_sys_0031
+120	Yes! He's been receiving compensation from the Holy Order and built a laboratory underground.
+121	Tch. He, too, must be as malignant as the accursed Holy Order if he requires their support.	VO_zaharu.zaharu_sys_0010
+122	According to our intel, this entire establishment is in the pocket of the Holy Order.	VO_laetitia.laetitia_sys_0005
+123	Could it be the Corpse again?!	VO_ila.ila_sys_0025
+124	I don't know all the details, but I bet this research is pretty important to them.	VO_syrma.syrma_sys_0044
+125	Getting ahold of their research would work in favor of our goals, and once the public finds out, trust in the Holy Order will certainly plummet.	VO_niggle.niggle_sys_0004
+126	The researcher in question appears to have been using war orphans at this institute as test subjects to continue his work.	VO_laetitia.laetitia_sys_0004
+127	War orphans?!	VO_ila.ila_battle_0019
+128	What kind of research are we talking about?	VO_syrma.syrma_sys_1011
+129	While he was in Wratharis, he wanted to conduct human experiments... If he's still continuing his past research, then—	VO_niggle.niggle_sys_0018
+130	He's using the alchemy that he extracts from human flesh to refine his Philosopher's Stones. He charges the stones with alchemy to amplify their power.
+131	The test subjects...don't survive the process.
+132	Dang them all to hell! What do they think we humans are?!	VO_ila.ila_sys_0013
+133	They lie, they deceive, and they distort everything for their own personal gain. The Holy Order is the blight that rots this world.	VO_zaharu.zaharu_sys_0018
+134	Lord Zahar, shall we interrupt them?	VO_niggle.niggle_sys_0004
+135	We shall.	VO_zaharu.zaharu_battle_0010
+136	No! Noooo!	VO_mea.mea_sys_0028
+137	Quiet, brat!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+138	What the—?!	VO_mob-saga_omale.mog-saga_omale_sys_0026
+139	We're being attacked! We can't let what we're doing here get out!	VO_thiefm.thiefm_sys_0027
+140	Take the girl and your research with you!	VO_thiefm.thiefm_sys_0002
+141	B-by myself?!	VO_mob-saga_omale.mog-saga_omale_sys_0027
+142	Isn't that obvious?! We'll handle the rest!	VO_thiefm.thiefm_sys_0029
+143	Come for me once you're done!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+144	Let go! Someone help!!!	VO_mea.mea_battle_0022
+145	Shut up, brat! You're coming with me! I'll make you into one of my lab rats!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+146	Eeek!	VO_mea.mea_battle_0027
+147	Yaaaargh!	VO_knightm.knightm_battle_0009
+148	Aaaaaaaaargh!	VO_thiefm.thiefm_sys_0032
+149	Which way to your underground lab?	VO_zaharu.zaharu_sys_0002
+150	You won't get any further! Aaaahh!	VO_thiefm.thiefm_battle_0005
+151	Haargh!	VO_spica.spica_battle_0002
+152	Take this!	VO_syrma.syrma_battle_0007
+153	Gaaah!	VO_thiefm.thiefm_battle_0022
+154	Lord Zahar, there's a hidden doorway here.	VO_laetitia.laetitia_sys_0002
+155	Well-spotted.	VO_zaharu.zaharu_sys_0010
+156	...
+157	The place has been stripped clean. They've taken all of their research with them.	VO_laetitia.laetitia_sys_0030
+158	What in the world?!	VO_spica.spica_chara_1009
+159	Ngh... Ugh... Aaah...
+160	What did they do to him?!	VO_syrma.syrma_sys_0018
+161	How pitiful...	VO_zaharu.zaharu_sys_0020
+162	Huff...
+163	Lord...Zahar?	VO_spica.spica_sys_1021
+164	Forgive me, boy. Your flesh and blood will aid us on our path.	VO_zaharu.zaharu_sys_0035
+165	We've found a secret passage.	VO_laetitia.laetitia_sys_0002
+166	After him! We must acquire his research.	VO_zaharu.zaharu_sys_0004
+167	...
+168	Spica? Let's go!	VO_syrma.syrma_sys_0003
+169	R-right...	VO_spica.spica_sys_0025
+170	Huff... Huff... Huff...	VO_mob-saga_omale.mog-saga_omale_sys_0018
+171	Hic... Hic...	VO_mea.mea_sys_0019
+172	Hurry up! They're going to catch up to us!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+173	I hear whispers from the shadows within me... Telling me to eradicate those wallowing in evil ambitions.	VO_niggle.niggle_sys_0010
+174	What...?
+175	Long time no see. Do you remember me?	VO_niggle.niggle_sys_0001
+176	Y-you were the vice captain of the Knights of Wratharis.	VO_mob-saga_omale.mog-saga_omale_sys_0027
+177	Well, well... I'm pleased you remember me. Unfortunately, I can't say I remember your name.	VO_niggle.niggle_sys_0012
+178	Wh-what are you doing here?!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+179	My lord desires your research. Won't you give me what you've got wrapped in your arms?	VO_niggle.niggle_sys_0004
+180	No! It's mine!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+181	Research gained from the lives of children...	VO_niggle.niggle_sys_0018
+182	Ga...haha... Any good research requires sacrifice!	VO_mob-saga_omale.mog-saga_omale_sys_0007
+183	You're right...but your approach is shortsighted.	VO_niggle.niggle_sys_0004
+184	Worry not, we'll make better use of your research than you ever did. The world shall see the fruits of your labor in time.	VO_niggle.niggle_sys_0010
+185	I'm not giving you a scrap of my research! Have you forgotten? I'm an alchemist as well!	VO_mob-saga_omale.mog-saga_omale_sys_0042
+186	You!	VO_mob-saga_omale.mog-saga_omale_sys_0012
+187	Eeek!	VO_mea.mea_battle_0027
+188	Give me your alchemy! I'm going to kill him!
+189	Noooo!	VO_mea.mea_battle_0025
+190	Let go of her, you slimeball!	VO_ila.ila_battle_0001
+191	Uuuurrrrrgh!	VO_mob-saga_omale.mog-saga_omale_sys_0028
+192	Huff... Huff...	VO_ila.ila_battle_0019
+193	Ila, you did well fending him off.	VO_niggle.niggle_sys_0012
+194	Save your praises! I'm telling you, waiting for an opening isn't my style!	VO_ila.ila_sys_0013
+195	Bah.	VO_niggle.niggle_sys_0016
+196	Uh...	VO_mea.mea_battle_1018
+197	Girl, you don't need to fear us. We have no intention of hurting you. Get out of—	VO_niggle.niggle_sys_0002
+198	I think not.	VO_thiefm.thiefm_sys_0029
+199	What...?
+200	The Corpse...
+201	Corvus, we're surrounded!	VO_ila.ila_battle_0019
+202	You won't be getting away with our research, and the girl won't be leaving here alive. Only death awaits those who have witnessed our dark side.	VO_thiefm.thiefm_sys_0017
+203	As my lord would say... I'd expect nothing less from the accursed Holy Order.	VO_niggle.niggle_sys_0030
+204	Foolish words from a has-been assassin.	VO_thiefm.thiefm_sys_0007
+205	...
+206	Corvus, we've been sent here to eliminate you. This is where you die!	VO_thiefm.thiefm_battle_0007
+207	Corvus! There're too many of them!	VO_ila.ila_sys_0017
+208	Tch... Evil Eye, unleash your gaze!	VO_niggle.niggle_sys_0018
+209	Raaaaaarrrrrrgggh!	VO_niggle.niggle_sys_0032
+210	What...?
+211	W-whoa!	VO_ila.ila_sys_0046
+212	Ngh! Who knew you were this powerful!	VO_thiefm.thiefm_sys_0018
+213	I can't have you looking down on me. I didn't stand side by side with him all those years just for show.	VO_niggle.niggle_sys_0031
+214	How rude of me... I apologize for underestimating you.	VO_thiefm.thiefm_sys_0011
+215	However, that doesn't change the fact that you're surrounded and outnumbered... We can't have you underestimating us, either.
+216	Corvus, what do we do?!	VO_ila.ila_sys_0001
+217	Ila, trust the darkness.	VO_niggle.niggle_sys_0002
+218	Huh? What are you saying at a time like this?!	VO_ila.ila_sys_0012
+219	Our lord is the King of Darkness, savior of the shadows, and a god among us.	VO_niggle.niggle_sys_0010
+220	Diiiie!	VO_thiefm.thiefm_sys_0032
+221	Corvus!	VO_ila.ila_battle_0019
+222	...
+223	I forbid you from killing one of my men.	VO_zaharu.zaharu_battle_0007
+224	He...!
+225	What...?!
+226	...!!!	VO_zaharu.zaharu_battle_0019
+227	Lord Zahar!
+228	We have been awaiting your presence, my lord.	VO_niggle.niggle_sys_0011
+229	As to be expected.	VO_zaharu.zaharu_sys_0010
+230	Ila, are you all right?	VO_spica.spica_sys_0003
+231	I'm just peachy!	VO_ila.ila_sys_0005
+232	What about you...squirt?	VO_syrma.syrma_sys_0003
+233	I-I'm okay.	VO_mea.mea_battle_1018
+234	Poor thing. You've been through a lot, but everything will be fine now.	VO_laetitia.laetitia_sys_0030
+235	Wh-who are you all?	VO_mea.mea_sys_0002
+236	We are those who have answered the summons. We are the King of Darkness' Shadow Army.	VO_laetitia.laetitia_sys_0007
+237	Shadow...Army?	VO_mea.mea_sys_0025
+238	Zahar! You are nothing but a ghost from Wratharis' past! How long do you intend to be a thorn in our side?!	VO_thiefm.thiefm_sys_0017
+239	Pfft, a ghost of Wratharis? Foolish mortals! I am the King of Darkness!	VO_zaharu.zaharu_sys_0010
+240	Zahar, the Shadow Messiah!	VO_zaharu.zaharu_sys_0008
+241	Today, we will finally rid ourselves of you!	VO_thiefm.thiefm_battle_0007
+242	I'm afraid that won't be happening on this occasion.	VO_zaharu.zaharu_sys_0030
+243	We're out of here!	VO_niggle.niggle_sys_0002

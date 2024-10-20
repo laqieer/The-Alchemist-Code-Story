@@ -1,0 +1,31 @@
+﻿001	Why did you act so cold to her? She came here in search of the chief of the Voda faction.	VO_moca.moca_sys_0001
+002	I did it to avoid unnecessary conflict.	VO_tina.tina_sys_0010
+003	Conflict...?	VO_moca.moca_chara_1009
+004	Did you see her outfit? Whatever tribe that outfit belongs to...it's most definitely not the Voda faction.	VO_tina.tina_sys_0001
+005	Someone from another faction approached me wanting to know about the Voda faction.
+006	Her outfit...? Actually, I think she's probably...	VO_moca.moca_sys_0025
+007	In order to avoid senseless conflict, it's best not to get involved.	VO_tina.tina_sys_0016
+008	Pushing her away was what was best for my tribe. As chief, that's my judgment to make.
+009	You don't have to be so high-strung all the time, you know?	VO_moca.moca_sys_0001
+010	Huh...?	VO_tina.tina_sys_0025
+011	Just the fact that you care about your tribe is enough, I think.	VO_moca.moca_sys_0031
+012	You've come on this journey with me because you care about the future of Saga.
+013	I truly think that alone makes you a worthy chief.
+014	Wh-what are you talking about all of a sudden?	VO_tina.tina_sys_0050
+015	But...putting out the sparks between the tribes and eliminating all interaction with them are two different things.	VO_moca.moca_sys_0030
+016	That kind of thinking increases the divide between the villages even further and causes the conflict to intensify.
+017	However, that is the way of the Toxotes tribe.	VO_tina.tina_battle_1016
+018	We avoid conflict at all costs and will confront an enemy who comes at us with full force.
+019	That way of thinking isn't wrong, but...it's important to also make an effort to understand each other first.	VO_moca.moca_sys_0004
+020	I really think we should remove the walls that separate our tribes and work together hand-in-hand.
+021	Hand-in-hand? With the other tribes? Such a thing isn't possible...	VO_tina.tina_sys_0025
+022	It is. Look at us, walking side-by-side. We're living proof that it's possible.	VO_moca.moca_sys_0039
+023	... ...
+024	Glurp...! Glurrpppp!	VO_jam.jam_battle_0004
+025	What...?!	VO_tina.tina_sys_1050
+026	The Jam?! When did they show up?!	VO_moca.moca_sys_0027
+027	You...!!!	VO_lizbeth.lizbeth_battle_0009
+028	Glurrrp!	VO_jam.jam_battle_0024
+029	Huh...?!	VO_tina.tina_sys_0025
+030	It worked! There's still more jellies! Run!	VO_lizbeth.lizbeth_battle_1029
+031	Ack!	VO_tina.tina_battle_1016

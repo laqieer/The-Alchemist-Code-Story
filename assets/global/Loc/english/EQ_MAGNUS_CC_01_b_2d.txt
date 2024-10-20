@@ -1,0 +1,118 @@
+﻿001	She's certainly getting into it. Quite impressively, too. She swiftly and comprehensively analyzes her opponents' attack patterns before retaliating. At once passionate, and level-headed.	VO_kaya.kaya_sys_0006
+002	Still, I have to wonder what she meant about improving her quality of life.	VO_kaya.kaya_sys_0031
+003	Oh, that. It's kind of her motto.	VO_ortima.ortima_sys_0007
+004	You see...she's from Real Heaven.
+005	She's had a hard life. She's always been alone, and she still fully intends to operate that way here. I'm a little worried about her.
+118	I see. I daresay that worry numbers among your reasons for scouting her?	VO_kaya.kaya_sys_0005
+006	What's all the noise about? Sounds like someone's having a fight.	VO_magnus.magnus_sys_0005
+007	Well, it's that time of year again, isn't it? New blood.	VO_wilhelm.wilhelm_sys_0031
+008	New recruits, huh? Time flies...	VO_magnus.magnus_sys_0006
+009	Come to think of it, weren't we meant to be there? The captain said something to that effect, but I forgot about it. Guess it's too late now.	VO_wilhelm.wilhelm_sys_0002
+010	It's fine. We just got back from a mission! We deserve a day's rest.	VO_magnus.magnus_sys_0007
+011	We cracked down on some illegal Alchemy users, exposed some nasty human experiments, and kept a bunch of bad guys from fleeing into the countryside—all in a day's work.	VO_magnus.magnus_sys_0023
+012	I even put my research on hold for that! So we can afford to slack off for a bit. No one's gonna blame us for taking a day off.
+013	I guess it can't hurt... It's just one day.	VO_wilhelm.wilhelm_sys_0007
+014	Besides, who cares about some new recruits? Hah! This is a good hand. I'll stand. You?	VO_magnus.magnus_sys_0031
+015	Hit me. Heh... The ace of spades. Looks like I win this round.
+016	Guess this means your win ratio isn't one hundred percent anymore.	VO_wilhelm.wilhelm_sys_0010
+017	There's a difference between play and a real contest. I have to let you win sometimes, or you won't want to play with me anymore.
+018	Heh. Whatever you say. It was a fair match, and it doesn't bode well for you that you can't even beat me for fun.	VO_wilhelm.wilhelm_sys_0024
+019	Tch. You hardly ever beat me, but when you do, you just have to rub it in, don't you?	VO_magnus.magnus_sys_0016
+020	Heh. Anyway, I wonder what's keeping Othima?	VO_wilhelm.wilhelm_sys_0002
+021	He's out there with the new recruits, obviously. He's a captain. He can't afford to slack off.	VO_magnus.magnus_sys_0005
+022	Right. I suppose that's where our captain is, too, then.	VO_wilhelm.wilhelm_sys_0006
+023	I would assume so.	VO_magnus.magnus_sys_0004
+024	Naturally. The only people brazen enough not to show up were the two of you.	VO_kaya.kaya_sys_0001
+025	C-Captain Kaya! What brings you all the way down here?	VO_magnus.magnus_sys_0029
+026	Don't you remember me telling you to report to the guardroom to meet the new recruits today? Well, that was hours ago now. The meeting's over.	VO_kaya.kaya_sys_0022
+027	Since you failed to show up, I brought along someone I want you to meet.	VO_kaya.kaya_sys_0006
+028	Hello! My name is Ryui, and I will be serving alongside you in the 2nd Regiment as of today!	VO_liuie.liuie_sys_0003
+029	Whatever you need, I'm there. I'm as capable with the pen as with the sword, so whether it's paperwork or guard duty, you can count on me!	VO_liuie.liuie_sys_0007
+030	Oh, uh... Hi. Why'd you bring her here, captain?	VO_magnus.magnus_sys_0037
+031	Because you're going to be her mentor. I expect you to show her the ropes.	VO_kaya.kaya_sys_0041
+032	What?! Why me?	VO_magnus.magnus_sys_0025
+033	Because I think it will do you both some good.	VO_kaya.kaya_sys_0002
+034	Besides...it's about time you took on some extra responsibility.
+035	How do you figure? This won't be a good thing for her, or me! I'm not ready to look after someone else!
+036	And when will you be ready? I've seen you in action, Magnus, and I think she can learn a lot from you. This is my decision as your captain, and it's final.	VO_kaya.kaya_sys_0030
+037	Heh. I'm lookin' forward to watching you play the part of mentor.	VO_wilhelm.wilhelm_sys_0008
+038	Oh, really? Since we work together, you'd be just as much her mentor as I would, you know!	VO_magnus.magnus_sys_0001
+039	Getting along, I hope?	VO_ortima.ortima_sys_0031
+040	Hello, Mister Othima!	VO_liuie.liuie_sys_0001
+041	It's Captain Othima, now that you're a paladin, Ryui.
+042	Anyway, I'm so glad you're joining us! I, for one, will definitely be counting on your help.	VO_ortima.ortima_sys_0031
+043	I'm happy to be of assistance, but I hope you haven't forgotten that you still need to pay me back for those magic mecha repair fees.	VO_liuie.liuie_sys_0030
+044	You two seem pretty friendly.	VO_magnus.magnus_sys_0005
+045	We've got a rapport going; I'm the one who scouted her. Anyway, from what I hear, you're going to be mentoring her, Magnus.
+046	That's right!	VO_liuie.liuie_sys_0037
+047	No, it's not! I haven't agreed to anything yet!	VO_magnus.magnus_sys_0012
+048	You're so stubborn... Fine. Let's do it like this. The two of you are going to face off in a game of cards.	VO_kaya.kaya_sys_0022
+049	If Ryui wins, you will take responsibility for her as her mentor. Do you accept, Magnus?	VO_kaya.kaya_sys_0008
+050	You sure you want to play it that way? I won't go easy on her.	VO_magnus.magnus_sys_0006
+051	I wouldn't expect you to. I'm sure Ryui wouldn't, either.	VO_kaya.kaya_sys_0037
+052	Whatever the conditions may be, I accept! And I'll do my best to win, if that is what you ask of me, captain.
+053	Then let's get to it. We'll play blackjack. You start with a hand of two cards, and whoever's total is closer to twenty one wins.	VO_magnus.magnus_chara_1004
+054	Here's the deck. You can draw an extra card if you think your number is too low...
+055	But if your new total goes over twenty one, you automatically lose.
+056	So, those are the rules? Understood. I'll give it my best shot.	VO_liuie.liuie_sys_0045
+057	Gotta admit, I feel bad doing this to a rookie, but...them's the breaks, I guess.	VO_magnus.magnus_sys_0031
+058	I'll deal.	VO_magnus.magnus_sys_0007
+059	Aw...	VO_liuie.liuie_sys_0029
+060	Wow. Another bust.	VO_wilhelm.wilhelm_sys_0008
+061	It's almost impressive how she fell for every last one of your bluffs.	VO_ortima.ortima_sys_0004
+062	You sure are lucky, Magnus.	VO_liuie.liuie_sys_0031
+063	Ahh, but that's where you're wrong. It's not Lady Luck, but the Goddess of Gambling who smiles on me. She's as fickle as they come, and tends to favor people like her, such as myself, rather than serious types like you.	VO_magnus.magnus_sys_0008
+064	Huh?	VO_liuie.liuie_sys_0025
+065	What was the point of this, captain? Were you trying to teach her that life is hard, or something?	VO_wilhelm.wilhelm_sys_0007
+066	I mean, you should've known there was no way a rookie would be able to see through Magnus's tricks.
+067	True... I must admit, I didn't expect things to drag on this long.	VO_kaya.kaya_sys_0006
+068	But we never set a limit on how many rounds we would play, so I still have a chance! Let's play again. I'll definitely win this time!	VO_liuie.liuie_sys_0003
+069	Fine—but this is your last shot. We're almost at the bottom of the deck.	VO_magnus.magnus_sys_0031
+070	Fine by me. I meant it when I said I'm definitely going to win this time!
+071	You don't give up easy, do you?
+072	It's not a game of chance, you know. Just praying for luck isn't going to get you anywhere.	VO_magnus.magnus_sys_0010
+073	You don't have to worry about that. I didn't get where I am now by leaving things to chance.	VO_liuie.liuie_sys_0037
+074	Oh, really? How do you plan to win, then?	VO_magnus.magnus_sys_0006
+075	The same way I always do. Through hard work!
+076	Haha... Interesting. Well, I stand. How about you?	VO_magnus.magnus_sys_0008
+077	Hit me!	VO_liuie.liuie_sys_0004
+078	All right. Let's see if your hard work paid off.	VO_magnus.magnus_sys_0007
+079	I stand.
+080	Well, well, well...
+081	See? Told you I'd win.	VO_liuie.liuie_sys_0034
+082	How'd you know to draw that extra card? I guess you just got lucky.	VO_magnus.magnus_sys_0006
+083	You said yourself, this isn't a game of chance. And I don't get lucky. I've always had bad luck, and had to work doubly hard to counteract it. So I make my own luck, through hard work.
+084	How does that apply here?	VO_magnus.magnus_sys_0005
+085	I memorized every card we drew, round after round. Then, when you said this would be our last game, all I had to do was calculate the remaining cards in the deck. The possibilities were limited, so it was pretty easy to figure out.	VO_liuie.liuie_sys_0004
+086	Wow. You really went above and beyond, huh?	VO_magnus.magnus_sys_0029
+087	Why wouldn't I? It was my job to win, so I did. But you know, you actually tipped the scale in my favor.
+088	Huh?	VO_magnus.magnus_sys_0005
+089	I wasn't sure whether I should draw or not...until you taunted me.
+090	It could've been a trick.	VO_magnus.magnus_sys_0007
+091	But it wasn't. You thought I was going to go bust, didn't you?
+092	You created a situation where you didn't have to pick up, but I did.
+093	And I knew that I could pick up without going bust, so I did.	VO_liuie.liuie_sys_0003
+094	Dang. You got me.	VO_magnus.magnus_sys_0007
+095	I did, didn't I? A little hard work can go a long way!	VO_liuie.liuie_sys_0023
+096	It certainly can. I'm impressed by what I've seen today. Your persistence and willingness to work hard will serve you well as a paladin.
+097	However...the conduct you displayed during the mock battle was less desirable.	VO_kaya.kaya_sys_0031
+098	Huh? What'd she do?	VO_wilhelm.wilhelm_sys_0002
+099	She watched her comrades fight each other, only joining the fray after she had a handle on their attack patterns.	VO_kaya.kaya_sys_0006
+100	This did allow her to defeat them all singlehandedly, however.
+101	Not much of a team player, huh?
+102	I suppose not...though it's not intentional. I've always been alone, and had to do everything myself.	VO_liuie.liuie_sys_0031
+103	I did wonder why nobody else was doing what I was, but...it just didn't click that we were meant to be working together.	VO_liuie.liuie_sys_0030
+104	Teamwork isn't always easy.	VO_kaya.kaya_sys_0031
+105	Kaya's a bit of a lone wolf, too, you know.	VO_magnus.magnus_sys_0007
+106	So's Magnus.	VO_wilhelm.wilhelm_sys_0007
+107	You're one to talk, Will.	VO_magnus.magnus_sys_0010
+108	Moving right along... It's not a terrible strategy, but it isn't going to win you any friends.	VO_kaya.kaya_sys_0006
+109	And to an extent, camaraderie is important here. For so long as you are a member of the Holy Guard, you are expected to work alongside your fellow paladins.
+110	Understood. It won't happen again.	VO_liuie.liuie_sys_0036
+111	Good. Now, since the matter of your mentor has been taken care of...	VO_kaya.kaya_sys_0006
+112	You may spend the remainder of today resting in your quarters. I will contact you about your first assignment in due time.
+113	Understood!	VO_liuie.liuie_sys_0037
+114	Thank you for humoring me, Magnus! I look forward to working with you. Until next time!	VO_liuie.liuie_battle_0018
+115	Guess she wasn't as much of a boring goody two-shoes as I thought.	VO_magnus.magnus_sys_0007
+116	As if I could have you mentor anyone so pure. I expect you to take this seriously, Magnus.	VO_kaya.kaya_sys_0008
+117	Heheh. This is gonna be fun.	VO_wilhelm.wilhelm_sys_0008

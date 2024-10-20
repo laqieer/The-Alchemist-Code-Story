@@ -1,0 +1,47 @@
+﻿001	The crowd is starting to grow. Why are you looking so serious?	VO_moca.moca_sys_0031
+002	I'm thinking about what I ought to do as a chief.	VO_tina.tina_chara_1002
+003	...? What do you mean?	VO_moca.moca_chara_1009
+004	How should I respond if those from the Tehre faction and the Fuu faction decide to challenge me, knowing that I'm the chief of Voda?	VO_tina.tina_sys_0031
+005	Surely they would never challenge you out of the blue...	VO_moca.moca_sys_0025
+006	You can never be too careful.	VO_tina.tina_sys_0030
+007	As the representative of my tribe, I cannot back down. That being said, as I am away from my village...if someone were to take advantage of this fact and attack them...
+008	I didn't know you were thinking about such things.	VO_moca.moca_sys_0030
+009	Such things...? As a chief, that's what's expected of me.	VO_tina.tina_sys_1050
+010	Don't worry about it. No one would suspect that you're a chief.	VO_moca.moca_sys_0039
+011	It's hard to imagine that a young girl like you would be the head of a tribe.
+012	...! Are you insulting me?	VO_tina.tina_battle_1016
+013	Huh...?	VO_moca.moca_sys_0025
+014	Do you wish to imply that a young girl like me...couldn't be a chief?	VO_tina.tina_sys_0001
+015	N-no, not at all...that's not what I meant!	VO_moca.moca_sys_0021
+016	Even if I'm young, I'm the chief of the Toxotes tribe! As their chief, I must consider all possibilities!	VO_tina.tina_sys_0010
+017	He-hey...wait!	VO_moca.moca_sys_0001
+018	...I was careless.	VO_moca.moca_sys_0030
+019	Although she may have taken on the role of chief, Tina is still a young girl. I'm sure the burden is heavy for her.
+020	What the...? There's some kind of commotion.	VO_moca.moca_chara_1009
+021	Anyway...once you get to the village, try to find someone who bears the title of Chief.
+022	It doesn't matter what tribe it is, but, unless you're accepted as the guest of a tribe, you won't be able to stay in Saga.
+023	But isn't there only one chief for every tribe?	VO_lizbeth.lizbeth_sys_0005
+024	I told you, didn't I? Paza is a neutral trading village. There are people from various tribes here. I wouldn't be surprised if there's more than one chief.
+025	Oh, right...but I can't just go along with anybody, you know?	VO_lizbeth.lizbeth_sys_0045
+026	In that case, you should decide by the overall vibe of each faction.
+027	If you prefer to be around reformists then you should consider Tehre...if you're interested in warfare then Fuu...and if you think nature-worshiping is your thing then most likely Voda is for you.
+028	Well...that's a pretty rough categorization, but you get the picture.
+029	Hmm. Between those options, I guess I'd say Voda.	VO_lizbeth.lizbeth_sys_0031
+030	Besides, if they know a lot about nature, then they might know how to remove the curse of Lustburg.
+031	Well then, try and find yourself a chief from the Voda faction. Sorry, but I'll be leaving now. I'm keeping my other customers waiting.
+032	Seriously?! You're already leaving?! ...Huh?	VO_lizbeth.lizbeth_battle_0025
+033	...? It's been a while since I've been here, but there seems to be some kind of commotion. Be careful, young lady.	VO_merchant.merchant_story0304_0008
+034	Go-got it! Thank you!	VO_lizbeth.lizbeth_story0304_0134
+035	Um... First, I need to meet a chief, right? I wonder where I can find one.	VO_lizbeth.lizbeth_story0304_0135
+036	...Oh!	VO_lizbeth.lizbeth_sys_1048
+037	Um...excuse me! Where can I find...a chief?	VO_lizbeth.lizbeth_story0304_0136
+038	... ...	VO_tina.tina_story0304_0001
+039	U-um...?	VO_lizbeth.lizbeth_story0304_0137
+040	I am Tina, the 45th chief of Toxotes. Sorry if my small, feminine stature doesn't meet your expectations.	VO_tina.tina_story0304_0002
+041	Whaaaat?!	VO_lizbeth.lizbeth_story0304_0138
+042	Ack! What's with that reaction?! Chiefs aren't determined by their age...	VO_tina.tina_battle_1016
+043	Tina! There you are!
+044	What...? Did you come to apologize for your rudeness?	VO_tina.tina_sys_0010
+045	Now isn't the time for that! The Jam are here! Let's go!	VO_moca.moca_sys_0001
+046	What...?! Ack!	VO_tina.tina_sys_1050
+047	Hey! Ch-chief...hold on a second!	VO_lizbeth.lizbeth_sys_1048

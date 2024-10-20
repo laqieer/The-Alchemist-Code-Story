@@ -1,0 +1,73 @@
+﻿001	Dammit... You're pretty strong.	VO_stknightm.stknightm_sys_0042
+002	Thanks for the compliment! Now that you've had your fill, let's end it here, huh?	VO_magnus.magnus_sys_0010
+003	No way, we're just getting started.	VO_wilhelm.wilhelm_sys_0008
+004	?!	VO_magnus.magnus_sys_0026
+005	Uh? What are you...?	VO_stknightm.stknightm_sys_0001
+006	Hey now! Is that all you've got?	VO_wilhelm.wilhelm_sys_0008
+007	You said you were going to teach us a lesson, so I thought this was going to be fun. I'm pretty disappointed!	VO_wilhelm.wilhelm_sys_0030
+008	The hell?! You've got some nerve!	VO_stknightm.stknightm_sys_0026
+009	You there, what are you doing?!
+010	Agh!	VO_magnus.magnus_sys_0029
+011	Magnus, Wilhelm! And you two! How dare you cause a ruckus at this hour...	VO_monzein.monzein_battle_0019
+012	Hm? Why are you grabbing Wilhelm's lapels?
+013	Oh, um, I was just...	VO_stknightm.stknightm_battle_0022
+014	Well? Out with it, in detail.
+015	Uh... I apologize for any inconvenience caused by our personal fight within the Holy Guard.
+016	I have been reflecting deeply on how to avoid having this happen again.
+017	Uggghhh, this is so annoying! Why do we have to write a letter of apology for a simple fight?	VO_magnus.magnus_sys_0016
+018	Just think of it like practice. We're probably going to have to write a lot of these in the future.	VO_wilhelm.wilhelm_sys_0002
+019	Ugh. I'm not good at this sort of stuff.	VO_magnus.magnus_chara_1010
+020	I didn't expect Vice-Captain Monzein would show up. What a great coincidence.
+021	'Course he would. I woke him up, so he probably rushed over to see what was up.	VO_wilhelm.wilhelm_sys_0006
+022	What? You woke him up?	VO_magnus.magnus_sys_0025
+023	Before I headed over to where you were, I swung by his room.	VO_wilhelm.wilhelm_sys_0037
+024	I decided to play a trick on him that would make him jump out of bed.	VO_wilhelm.wilhelm_sys_0007
+025	So that's what that Alchemia spike was. I knew you were pulling something.	VO_magnus.magnus_sys_0030
+026	So he was that pissed because he got woken up, huh?	VO_magnus.magnus_sys_0001
+027	If you're really gonna fight seniors, isn't it better to have a third party watching?
+028	If I hadn't been caught by them, what would you have done? You know he's watching us.
+029	If it hadn't worked out, he wouldn't've just punished us, you know?	VO_magnus.magnus_sys_0010
+030	I've only lost when I give up on a bet before I've taken it. Looks like watching you has gotten me interested in gambling, too.	VO_wilhelm.wilhelm_sys_0006
+031	Huh. You've got quite the character on you. But why would you go that far to help me out?	VO_magnus.magnus_sys_0008
+032	Well, some delinquent wouldn't come back to our room even though we would both get in trouble if one of us got in trouble.	VO_wilhelm.wilhelm_sys_0010
+033	I don't wanna be called a delinquent by you of all people.
+034	Besides, I was a little interested.
+035	Interested in what?	VO_magnus.magnus_sys_0005
+036	You've been spending all your time researching Alchemy since you joined.	VO_wilhelm.wilhelm_sys_0037
+037	You think Alchemy research is probably useless just like those seniors did.
+038	So why did you get that pissed?	VO_wilhelm.wilhelm_sys_0031
+039	I already told you, I like Alchemy.	VO_magnus.magnus_sys_0012
+040	Yeah, that wasn't a lie. But it's a card you can throw away to hide the real card you've got up your sleeve.	VO_wilhelm.wilhelm_sys_0037
+041	It's a well-worn trick for a skilled gambler like you, hiding the truth within a truth.
+042	...
+043	Sorry, but I'm really good at reading people.	VO_wilhelm.wilhelm_sys_0007
+044	First you see through my tricks and now you're looking at my whole hand. You may hate gambling, but you've a talent for it.	VO_magnus.magnus_sys_0030
+045	You seem like a real hassle.
+046	You've got someone you care about, don't you?	VO_wilhelm.wilhelm_sys_0002
+047	I was right about you. You're a pain. But I guess it'll be hard to hide things from you.	VO_magnus.magnus_sys_0016
+048	Sigh... Still, it's not like it's that important of a reason.	VO_magnus.magnus_sys_0031
+049	I've got a little sister. Our mom told her that we wouldn't be able to see each other again after our parents split up.
+050	"You have a brother who is aiming to become an excellent alchemist."
+051	"I'm sure he will become a great Paladin and a wonderful alchemist. He will be a brother that will make you proud," she said.
+052	What an irresponsible thing to say, right? But thanks to that, I had to become a brother she'd be proud of.	VO_magnus.magnus_sys_0010
+053	That's why you quit the Wratharis Army and started researching Alchemy?	VO_wilhelm.wilhelm_sys_0025
+054	If her big brother becomes an Alchemy genius, that'll be something to be proud of, right?	VO_magnus.magnus_sys_0004
+055	...
+056	Sounds like you're telling the truth. But I'm even more confused by you now. How can you do this?	VO_wilhelm.wilhelm_sys_0017
+057	You're betting your life on something for a sister you haven't seen in forever and don't know if you will see again.
+058	I already told you that I love gambling. So betting my life like it's a chip is an easy thing to do.	VO_magnus.magnus_chara_1010
+059	!
+060	Look at you making such a sweet face.	VO_wilhelm.wilhelm_sys_0007
+061	But I get it now. You really like gambling.	VO_wilhelm.wilhelm_sys_0045
+062	(And you really love people.)
+063	(People who truly love people from the bottom of their heart are...)
+064	...
+065	Heheh...	VO_wilhelm.wilhelm_sys_0007
+066	Why are you laughing right now?	VO_magnus.magnus_sys_0005
+067	I thought I didn't like gambling but seeing you has changed my opinion.	VO_wilhelm.wilhelm_sys_0037
+068	Your gambling style is interesting. I want to see it from as close up as I can.	VO_wilhelm.wilhelm_sys_0002
+069	Really? I'm honored.	VO_magnus.magnus_sys_0008
+070	But if you want to see it up close, joining me in doing it is the best way. Don't you think so, Will?	VO_magnus.magnus_sys_0012
+071	Heh. You're right. You know what? Stirring up trouble with you might be good.	VO_wilhelm.wilhelm_sys_0008
+072	If it's with you, I think it'll be fun.
+073	I'm glad I met you.	VO_wilhelm.wilhelm_chara_1001

@@ -1,0 +1,146 @@
+﻿001	I have to confess, I'm not fond of my own name.	VO_fuelie_fuelie-b.fuelie_sys_0001
+002	Button?	VO_ikasa.ikasa_sys_0006
+003	My family saw it as a cute name.
+004	Also because a button is an object to fasten things together.
+005	They saw it as a fitting name for someone who would serve the royal family.
+006	It's always sounded weird to me.	VO_fuelie_fuelie-b.fuelie_sys_0016
+007	It's nice, though.	VO_ikasa.ikasa_sys_0007
+008	What is?	VO_fuelie_fuelie-b.fuelie_sys_0025
+009	Button.
+010	What do you mean?
+011	What do you want it to mean?	VO_ikasa.ikasa_sys_0006
+012	I...	VO_fuelie_fuelie-b.fuelie_sys_0039
+013	Button... How beautiful.	VO_ikasa.ikasa_sys_0007
+014	Which Button are you talking about? My name, or a button...?
+015	The fitting one.
+016	So, the one on clothing, then?
+017	Maybe...	VO_ikasa.ikasa_sys_0031
+018	Honestly...	VO_fuelie_fuelie-b.fuelie_sys_0013
+019	Heh. It's you I'm talking about, silly.
+020	Oh, oh! Oh my goodness!	VO_fuelie_fuelie-b.fuelie_sys_0009
+021	Please, would you... Would you shake my hand?!
+022	A-are you talking to me?
+023	Y-yes. I'm sorry. I didn't mean to be rude. Of course if you don't want to, I wouldn't presume to...
+024	It's just that you're a real live knight! Look, Ikasa! As I live and breathe, a knight! In the flesh!
+025	That's hurtful, Button...	VO_ikasa.ikasa_sys_0030
+026	I'm on patrol right now, you know.	VO_knightm.knightm_sys_0031
+027	Oh, of course! Of course! How silly of me. You're on duty! I didn't mean to disturb you. I'm so uncultured, you know. I don't know anything, anything at all!
+028	There are many knights more esteemed than I stationed at Spandau Castle.
+029	I intend to visit the castle too, of course! It's just that seeing knights like you protecting the capital, watching the people here go about their days...
+030	It's so much more exciting than seeing this place in pictures! It's just... This is it, you know? I'm really here! It's indescribable!	VO_fuelie_fuelie-b.fuelie_sys_0046
+031	She's like this with everyone.	VO_ikasa.ikasa_sys_0030
+032	If you feel that strongly about it... Very well. Let's shake hands.	VO_knightm.knightm_sys_0004
+033	Thank you so muuuuch!	VO_fuelie_fuelie-b.fuelie_sys_0033
+034	I'm really sorry about this.
+035	Yes, I'm really sorry about this!	VO_fuelie_fuelie-b.fuelie_sys_0035
+036	Hmm... That's a rather exotic outfit.	VO_knightm.knightm_sys_0003
+037	Oh! How rude of me. Where are my manners?! My name is Button.	VO_fuelie_fuelie-b.fuelie_sys_0004
+038	I am a shrine maiden of Wadatsumi traveling the world to further my studies and understanding of each culture.
+039	How curious. I thought that Wadatsumi only allowed passage to and from Greed Dike.	VO_knightm.knightm_sys_0044
+040	Well, exceptions are made when you're from the line of shrine maidens who serve the royal family.	VO_ikasa.ikasa_sys_0005
+041	Conflict has died down in Wadatsumi of late, so traversing the border is not as difficult as it once was.
+042	That is good! A promising sign of peace. I must apologize to you for my rudeness and ignorance, my lady. I had no idea you were of noble lineage. Please forgive me.	VO_knightm.knightm_sys_0006
+043	Oh, no! Not at all! You weren't rude! There's nothing to forgive!
+044	Thank you for your kindness, Lady Shrine Maiden.	VO_knightm.knightm_sys_0007
+045	N-no, thank you! Thank you so much!
+046	I didn't know you were the fangirl type.
+047	Fan...girl?	VO_fuelie_fuelie-b.fuelie_sys_0006
+048	What is the right choice?
+049	I keep asking myself that question, over and over again. To live up to my name. To become the savior of Wadatsumi.
+050	Right versus wrong, huh?	VO_ikasa.ikasa_sys_0031
+051	Yet I still don't know the answer to my own question.	VO_fuelie_fuelie-b.fuelie_sys_0016
+052	Don't peek.	VO_ikasa.ikasa_sys_0001
+053	Wh-what?	VO_fuelie_fuelie-b.fuelie_sys_0025
+054	I'm going to take a bath.
+055	Wh-why would I?	VO_fuelie_fuelie-b.fuelie_sys_0013
+056	I mean, I've grown a lot. Bet you're curious to see how much.
+057	I am not!
+058	You haven't changed much, so...	VO_ikasa.ikasa_sys_0024
+059	These clothes just make me look very slim, okay!	VO_fuelie_fuelie-b.fuelie_sys_0012
+060	Heheh. No peeking, okay?	VO_ikasa.ikasa_sys_0008
+061	Oh, oh! Oh my goodness!	VO_fuelie_fuelie-b.fuelie_sys_0009
+062	Please, would you... Would you shake my hand?!
+063	Huh? Me?	VO_stknightm.stknightm_sys_0025
+064	Y-yes. I'm sorry. I didn't mean to be rude. Of course if you don't want to, I wouldn't presume to...
+065	It's just that you're a real live knight! Look, Ikasa! As I live and breathe, a knight! In the flesh!
+066	Really, that's hurtful, Button...	VO_ikasa.ikasa_sys_0030
+067	I'm on patrol right now.	VO_stknightm.stknightm_sys_0031
+068	Oh, of course! Of course! How silly of me. You're on duty! I didn't mean to disturb you. I'm so uncultured, you know. I don't know anything, anything at all!
+069	Okay. Why not? Let's shake hands.	VO_stknightm.stknightm_sys_0004
+070	Thank you so muuuuch!	VO_fuelie_fuelie-b.fuelie_sys_0033
+071	I'm really sorry about this.
+072	Yes, I'm really sorry about this!	VO_fuelie_fuelie-b.fuelie_sys_0035
+073	Are you going to be like this with everyone?	VO_ikasa.ikasa_sys_0001
+074	Everything's just so...so new, and wonderful!
+075	Heh. Total country bumpkin.	VO_ikasa.ikasa_sys_0029
+076	Still, I must say that none of the seafood I've tried so far even comes close to beating Wadatsumi's.
+077	Didn't know it was a competition.	VO_ikasa.ikasa_sys_0006
+078	Hee hee!	VO_fuelie_fuelie-b.fuelie_sys_0007
+079	Y'know...	VO_ikasa.ikasa_sys_0001
+080	Yes?
+081	Ahem.
+082	What about me?
+083	Hm? What about you?	VO_fuelie_fuelie-b.fuelie_sys_0006
+084	Don't you have something to say to me?	VO_ikasa.ikasa_sys_0001
+085	No...?
+086	I'm a knight too.
+087	I could ask you the same question.
+088	Huh?	VO_ikasa.ikasa_sys_0006
+089	Don't you have something to say to me?
+090	Well...
+091	I'm sorry.	VO_fuelie_fuelie-b.fuelie_sys_0035
+092	What're you apologizing for?
+093	Not power?
+094	No. Not power.
+095	That's why you're accompanying me, isn't it?	VO_fuelie_fuelie-b.fuelie_sys_0002
+096	I guess.	VO_ikasa.ikasa_sys_0005
+097	Having a Paladin accompany me on my travels is very...extravagant.
+098	My father taught me about the use of Wadatsumi's Chakra and Samurai.	VO_fuelie_fuelie-b.fuelie_sys_0001
+099	Yeah, but they've got different names in Babel. Chakra is called Alchemia and Samurai are known as Phantom Soldiers.	VO_ikasa.ikasa_sys_0022
+100	Alchemia is used in Alchemy. Alchemy can be used to summon Phantom Soldiers, but to do so is forbidden on the continent.
+101	So the power that is a part of everyday life in Wadatsumi, and the Samurai we summon...are forbidden here.
+102	Do you wonder why?	VO_ikasa.ikasa_sys_0001
+103	No. I understand.
+104	I figured. You would know better than most how devastating the abuse of Alchemy can be. Just look at the ongoing conflict in Wadatsumi.
+105	The Magna Code dictates that the only people who are allowed to use Alchemy are members of the Holy Guard.
+106	As such, my role is to protect you, but also to monitor you.
+107	I see.
+108	Doesn't sound great, does it?	VO_ikasa.ikasa_sys_0036
+109	I don't mind. In fact, I support it.
+110	You already knew, huh?	VO_ikasa.ikasa_sys_0022
+111	I believe that this world should be connected by something other than power.	VO_fuelie_fuelie-b.fuelie_sys_0005
+112	Oh, oh! Oh my goodness!	VO_fuelie_fuelie-b.fuelie_sys_0009
+113	Please, would you... Would you shake my hand?!
+114	Huh? Are you talkin' to me?
+115	Y-yes. I'm sorry. I didn't mean to be rude. Of course if you don't want to, I wouldn't presume to...
+116	It's just that you're a gladiator! An actual living, breathing, talking gladiator! Can you believe it, Ikasa? We're speaking with a gladiator!
+117	Huh.	VO_ikasa.ikasa_sys_0045
+118	Wh-what is it?	VO_fuelie_fuelie-b.fuelie_sys_0006
+119	Oh, nothing.
+120	I'm gettin' ready for my next match, y'know.	VO_gluttony-y.gluttony-y_sys_0031
+121	Oh, of course! Of course! How silly of me. You're preparing! I didn't mean to disturb you. I'm so uncultured, you know. I don't know anything, anything at all!
+122	Well, whatever. I've got time for a handshake. Put 'er there!	VO_gluttony-y.gluttony-y_sys_0006
+123	Thank you so muuuuch!	VO_fuelie_fuelie-b.fuelie_sys_0033
+124	I'm really sorry about this.
+125	Yes, I'm really sorry about this!	VO_fuelie_fuelie-b.fuelie_sys_0035
+126	Huh?
+127	Whoops! Sorry.	VO_thiefm.thiefm_sys_0035
+128	Oh, no, I should apologize. Are you all right?	VO_fuelie_fuelie-b.fuelie_sys_0001
+129	Bwahahaha! You idiot!	VO_thiefm.thiefm_sys_0008
+130	Um...?
+131	Check your pockets! Are you missin' anythin', lady?
+132	Oh, um...
+133	I don't think so?	VO_fuelie_fuelie-b.fuelie_sys_0016
+134	Wait a minute...
+135	My luggage! It's all gone!	VO_fuelie_fuelie-b.fuelie_sys_0026
+136	Thief! Someone catch that lout!
+137	I-it's all right! Please, don't worry about me. You've got your match to get to. I wouldn't want you to be late!
+138	A-are you sure, lady? Are you gonna be all right on your own?
+139	We'll be fine, I'm sure. After all—
+140	Wait... On my own? But I'm not alone. Ikasa's right...	VO_fuelie_fuelie-b.fuelie_sys_0025
+141	She's gone!	VO_fuelie_fuelie-b.fuelie_sys_0026
+142	Guess she left you to fend for yourself, huh?	VO_gluttony-y.gluttony-y_sys_0025
+143	No!
+144	No.
+145	You okay?
+146	She promised me.	VO_fuelie_fuelie-b.fuelie_sys_0004

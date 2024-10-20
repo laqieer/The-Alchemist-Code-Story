@@ -1,0 +1,74 @@
+﻿001	The village of Lezario. Mansion of Chief Adone of the Toxotes tribe.
+002	Tina...have you performed the Ritual of Baptism?	VO_adne.adne_sys_0001
+003	Yes. I met Asena and received guidance as a shaman.	VO_tina.tina_sys_0005
+004	Ah. So you finally inherited the role as chief! Adone...a weight has been lifted from your shoulders.	VO_mob-saga_omale.mog-saga_omale_sys_0009
+005	And...what was the color of your soul?	VO_adne.adne_sys_0037
+006	Well...	VO_tina.tina_battle_1016
+007	The color of her soul...? Why do you ask such things?	VO_mob-saga_omale.mog-saga_omale_sys_0006
+008	Our tribe belongs to the Water Sprite Voda.
+009	Of course, it should be blue like water, correct?
+010	... ...
+011	It was emerald, wasn't it?	VO_adne.adne_sys_0001
+012	?! Y-yes...	VO_tina.tina_sys_1050
+013	Emerald...?! Does that mean...her power lies within the wind?	VO_mob-saga_omale.mog-saga_omale_sys_0025
+014	It appears so. During our battle just now, I could feel a holy wind within Tina.	VO_adne.adne_sys_0037
+015	W-wait! A wind shaman?! How is that possible?!	VO_mob-saga_omale.mog-saga_omale_sys_0018
+016	I'm surprised as well. Who would've thought...?	VO_adne.adne_sys_0031
+017	Ever since the destruction of the Alize people, none have appeared in this world.
+018	What is going on? If that is true, word of this cannot be kept to our tribe alone!	VO_mob-saga_omale.mog-saga_omale_sys_0020
+019	This is something that may very well shake the future of each tribe...of all of Saga itself!	VO_mob-saga_omale.mog-saga_omale_sys_0027
+020	Calm down. News of this has still not gone out to the world.	VO_adne.adne_sys_0001
+021	But...!	VO_mob-saga_omale.mog-saga_omale_sys_0016
+022	Father...I...	VO_tina.tina_sys_0018
+023	Destiny guides you. Very well...retire for now.	VO_adne.adne_favorite_0006
+024	Oh! Please, wait! There is one thing I must tell you!	VO_tina.tina_chara_1005
+025	At the place where the Ritual of Baptism was held, I received another strange revelation!
+026	Another strange revelation...?	VO_adne.adne_sys_0025
+027	Yes! Most likely, what I saw was the not-so-distant future of Saga. It was a land burning in flames!	VO_tina.tina_sys_0005
+028	Burning in flames...?!	VO_mob-saga_omale.mog-saga_omale_sys_0025
+029	There I saw the tribes of Saga clashing with one another.	VO_tina.tina_sys_0018
+030	The forest...the prairies...all of it was burning...
+031	And then...I saw something terrifying...something that I never thought could exist in this world.	VO_tina.tina_sys_0020
+032	What the...?	VO_adne.adne_sys_0025
+033	It was a dragon!	VO_tina.tina_battle_1016
+034	A single gigantic dragon...was crying out amidst the burning land!
+035	Are you saying that's the future of Saga?
+036	Yes...that's what I was told.	VO_tina.tina_sys_0005
+037	A dragon! Could it be...the work of the Tehre?!	VO_mob-saga_omale.mog-saga_omale_sys_0029
+038	Huh...?	VO_tina.tina_sys_0025
+039	The Tehre, the earth shamans....I'm saying that it may be them who's behind it!	VO_mob-saga_omale.mog-saga_omale_sys_0016
+040	Right now, they are actively breeding and feeding dragons. They use Port Nahema to then ship them off to different countries!
+041	They are a greedy bunch who are willing to twist the laws of nature to wield those once-feared dragons as a business device!
+042	Elder...we are not certain of that yet. Do not rush to judge.	VO_adne.adne_sys_0022
+043	But...!
+044	If this land were to become scorched earth, they would suffer the same damage we would. I doubt they would do something so self-destructive.	VO_adne.adne_sys_0031
+045	For starters, let's investigate the Tehre faction’s movements.
+046	Understood...
+047	The once extinct power of the wind has once again appeared in this world. That may hold some deeper meaning...
+048	If so...that revelation you saw...
+049	Huh...?	VO_tina.tina_sys_0025
+050	The invasion of Gluttony...the bird of a wind shaman...and that revelation you saw...
+051	In any case, we must deliver a report to the Sprite Trio. Leave the rest to us.
+052	Very well. Excuse me.	VO_tina.tina_sys_0005
+053	Sigh... It looks we've got trouble ahead.	VO_tina.tina_sys_0030
+054	Tina! Tina!
+055	...! What's the matter...?!	VO_tina.tina_sys_0006
+056	There's a strange creature in the village!
+057	Glurp...glurrpppp!	VO_jam.jam_battle_0028_a
+058	Ack...no way!	VO_tina.tina_battle_0019
+059	Glurp...!	VO_jam.jam_battle_0022
+060	What is going on?! They've never attacked the village before...why now?!	VO_tina.tina_sys_0012
+061	Glurp...! Glurrrp!	VO_jam.jam_battle_0028_b
+062	Huh...?! Wh-whoa...?!
+063	I won't make it...! Don't touch that!!!	VO_tina.tina_sys_0020
+064	Whaaaaa!!!
+065	Ack...! Horaaahhhhh!!!	VO_moca.moca_sys_0032
+066	Gurrr...!	VO_jam.jam_battle_0026
+067	Who are you?!	VO_tina.tina_battle_1016
+068	Th-thank you, sir...!
+069	Agh...! A-are you okay?	VO_moca.moca_sys_0042
+070	Did the Jam get you?!	VO_tina.tina_battle_0019
+071	Ti-Tina...everyone is still outside the village!
+072	Ack...take me!	VO_tina.tina_battle_1016
+073	Okay!
+074	I'll go too!	VO_moca.moca_sys_0001

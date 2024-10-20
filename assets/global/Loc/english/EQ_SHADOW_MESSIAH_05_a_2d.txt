@@ -1,0 +1,86 @@
+﻿001	H-how's this?	VO_spica.spica_sys_0003
+002	It's...!
+003	It's actually really good.	VO_niggle.niggle_sys_0004
+004	You mean it?!	VO_spica.spica_sys_0025
+005	Really?! No way! Let me try some!	VO_syrma.syrma_sys_0025
+006	Umgf! Mmff... Umgf... Whoa!
+007	This is good! Really, really good!	VO_syrma.syrma_sys_0046
+008	Hey! Save some for me! Umgf! Mmff... Umgf... Hrmpf!	VO_ila.ila_sys_0005
+009	Mm-mmm! This is great!	VO_ila.ila_sys_0009
+010	I finally did it...	VO_spica.spica_sys_0011
+011	What's going on here?	VO_zaharu.zaharu_sys_0002
+012	L-Lord Zahar!	VO_spica.spica_sys_0026
+013	You've been gone for quite a while.
+014	Don't worry, I didn't forget you. I come bearing gifts.	VO_zaharu.zaharu_sys_0004
+015	What's that you're making, Spica? Have you been cooking?	VO_laetitia.laetitia_sys_0001
+016	Not... exactly.
+017	Hm...
+018	Did you make this, Spica?	VO_zaharu.zaharu_sys_0002
+019	Y-yes, my lord.	VO_spica.spica_sys_0004
+020	Mind if I try some? It's been a long day, and I'm hungry.
+021	P-please do!
+022	...
+023	Lord Zahar—	VO_niggle.niggle_sys_1050
+024	I never expected to find Spica cooking—but I suppose this, too, is a form of change.	VO_zaharu.zaharu_sys_0007
+025	Is it a bad thing?	VO_niggle.niggle_sys_0031
+026	There's no need to consider that right now.	VO_zaharu.zaharu_sys_0010
+027	Spica is finally ready to carry our will into the new world.
+028	Good, or bad—that is not for us to determine. Everything will be decided under the new order.	VO_zaharu.zaharu_sys_0004
+029	As you say.
+030	Nonetheless, this is good progress. Oh, and Corvus?	VO_zaharu.zaharu_sys_0002
+031	Yes?
+032	You've done well in my absence. I trust I can count on you again if a similar situation arises in the future?
+033	Of course, my lord.	VO_niggle.niggle_sys_0037
+034	Lord Zahar? The preparations—	VO_laetitia.laetitia_sys_0002
+035	Right.
+036	Are you happy with your decision to leave Corvus in charge of the Shadow Messiah?
+037	I am. He did very well.	VO_zaharu.zaharu_sys_0004
+038	Truly? I'm glad to hear it.	VO_laetitia.laetitia_sys_0007
+039	As members of the Shadow Messiah, Corvus and Spica will be the ones to guide us into the new world.	VO_zaharu.zaharu_sys_0007
+040	Yes, well—as I was saying, the preparations are complete. You'd better eat up before your darling prodigy's cooking gets cold.
+041	Right.	VO_zaharu.zaharu_sys_0005
+042	I'm starving.
+043	Eep!	VO_spica.spica_sys_0016
+044	There's nothing to worry about, Spica! You trained so hard for this!	VO_syrma.syrma_sys_0006
+045	I-I know, but... I can't help feeling nervous.	VO_spica.spica_sys_0037
+046	Hm...
+047	How is it?	VO_laetitia.laetitia_sys_0002
+048	It's delicious.	VO_zaharu.zaharu_sys_0004
+049	R-really?! I'm so glad to hear that!	VO_spica.spica_event_1005
+050	Spica.	VO_zaharu.zaharu_sys_0002
+051	Yes, my lord?	VO_spica.spica_sys_0004
+052	I look forward to trying more of your cooking.	VO_zaharu.zaharu_sys_0007
+053	Thank you! I won't let you down!	VO_spica.spica_event_1005
+054	Phew...	VO_niggle.niggle_sys_0016
+055	Huh? Why were you all tensed up, Corvus?	VO_ila.ila_sys_0001
+056	I wasn't—
+057	I mean... It's only natural for a teacher to be concerned about the results of his pupils' training, isn't it?	VO_niggle.niggle_sys_0031
+058	Oh. Uh... I guess?
+059	Psst! Isn't Corvus acting kind of weird?	VO_syrma.syrma_sys_0031
+060	Yeah! Something's definitely up with him.	VO_ila.ila_sys_0005
+061	By the way, Lord Zahar...
+062	Isn't it about time you told us where you went and what you were doing?
+063	Take a look at this.	VO_zaharu.zaharu_sys_0004
+064	Isn't this... that stone we found in the Holy Order facility?	VO_niggle.niggle_sys_0006
+065	There's something... not quite right about it.	VO_spica.spica_battle_0021
+066	This is an Obsidian Star. It's a mutated variant of Sephirium.
+067	Sephirium?!	VO_niggle.niggle_sys_0025
+068	Huh? What's that?	VO_syrma.syrma_sys_0003
+069	It's a legendary ore—well, actually, it would be more accurate to call it resin. In other words, hardened sap—and taken from the great tree, Sephiron, no less.	VO_niggle.niggle_sys_0004
+070	It's supposed to be harder than any metal smelted from common ore.
+071	While Obsidian Stars aren't as hard as pure Sephirium, they're the next best thing.	VO_zaharu.zaharu_sys_0004
+072	I used these Obsidian Stars to forge each of us a unique suit of armor of the highest quality.
+073	A-armor?
+074	With this done, we will have in our hands one of the immense powers that will enable us to annihilate the Holy Guard.	VO_zaharu.zaharu_sys_0007
+075	Go on. Take them.	VO_zaharu.zaharu_sys_0002
+076	Thank you, my lord!	VO_spica.spica_sys_0004
+077	Huh?!	VO_spica.spica_sys_0025
+078	Wh-what's going on?!	VO_syrma.syrma_sys_0025
+079	Lord Zahar! What is the meaning of—?!	VO_niggle.niggle_sys_1050
+080	This is corruption.	VO_zaharu.zaharu_sys_0004
+081	Corruption?! Ugh! It's all over me! Get it off!	VO_ila.ila_sys_0025
+082	You must endure! Swallow the corruption before it swallows you! Claim our greatest weapon, the Final Battle Armaments, for your own!
+083	You want us to... take in the corruption?	VO_spica.spica_sys_0006
+084	Yes! You must! Show me the strength of your wills!	VO_zaharu.zaharu_sys_0002
+085	I-I...!	VO_spica.spica_sys_0025
+086	Overcome it! Overcome yourselves!

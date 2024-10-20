@@ -1,0 +1,136 @@
+﻿001	You want me to enlist in the Wadatsumi army?
+002	Yes.	VO_mitsuha.mitsuha_sys_0004
+003	I thought I made it clear long ago that I refuse.	VO_kouga.kouga_sys_0016
+004	There is a shortage of new recruits…especially qualified ones.	VO_mitsuha.mitsuha_sys_0031
+005	Save it. I told you--these hands only wield kitchen knives.	VO_kouga.kouga_sys_0030
+006	That wasn't always the case.	VO_mitsuha.mitsuha_sys_0002
+007	…Yeah, but those days are over.	VO_kouga.kouga_sys_0010
+008	…
+009	I can't fulfill your request. Go home.	VO_kouga.kouga_sys_0030
+010	That won't do… Demons have appeared who can nullify chakra.
+011	…!?	VO_kouga.kouga_sys_0025
+012	Chakra used to be effective against them…but these demons could nullify the Phoenix Brigade's every move.
+013	They must be using chakra--or something comparable--in order to nullifies our powers.
+014	…We could be in grave danger.	VO_mitsuha.mitsuha_battle_0019
+015	What do you have to worry about? You still have the arcane art, don't you?	VO_kouga.kouga_sys_0001
+016	…Both Kagutsuchi and the arts of the Phoenix Brigade stem from the Phoenix Covenant passed down through generations of the Aquila Rubrum royal family.	VO_mitsuha.mitsuha_sys_0006
+017	For now, nothing can surpass the Kagutsuchi…but somewhere along the line, that may change.
+018	…So what?
+019	We may become outmatched by the demons… I want to solidify our strength before that happens.	VO_mitsuha.mitsuha_sys_0027
+020	Come on. We're talking about the pinnacle of our arts--that which was carefully developed by the royal family to protect Wadatsumi.	VO_kouga.kouga_sys_0010
+021	If it could be surpassed so easily, the people would lose hope.
+022	That's why I'm here…
+023	Fighting power with power… That's always been your strategy--but not mine.	VO_kouga.kouga_sys_0001
+024	If Kagutsuchi were to be destroyed someday, Wadatsumi would fall into the demons' hands.	VO_mitsuha.mitsuha_battle_0019
+025	…That's not my concern.	VO_kouga.kouga_sys_0010
+026	…I need you.	VO_mitsuha.mitsuha_sys_0002
+027	Has that line ever worked?	VO_kouga.kouga_sys_0007
+028	This isn't a joke…! The very future of Wadatsumi is at stake.	VO_mitsuha.mitsuha_sys_0026
+029	You're the only man I know with enough chakra to endure the Phoenix Covenant…
+030	You were once a Demon Hunter for a reason. Please…
+031	…
+032	You're not even going to consider it?
+033	…I swore long ago the only blade I'll wield is in the kitchen. I thought I made myself clear.	VO_kouga.kouga_sys_0030
+034	…I refuse.	VO_kouga.kouga_sys_0039
+035	Why? Your abilities are second to none and you possess the ideal amount of chakra. Won't you lend us your support…for Wadatsumi's sake?	VO_mitsuha.mitsuha_sys_0027
+036	…What ever happened to the demons we hunted?	VO_kouga.kouga_sys_0001
+037	...That's beyond my purview. Unfortunately, there is much I do not know.	VO_mitsuha.mitsuha_sys_0031
+038	Then why enlist my help?
+039	I was told to find someone capable enough.	VO_mitsuha.mitsuha_sys_0006
+040	You don't even know what's going on in your own country? You only care when it's convenient for you. It's pathetic.	VO_kouga.kouga_sys_0012
+041	Denigrate me if you must. I'll accept it all in the name of Wadatsumi.	VO_mitsuha.mitsuha_sys_0018
+042	A country that takes life for granted deserves to fall…	VO_kouga.kouga_sys_0010
+043	…
+044	...I have no intention of taking up arms.
+045	If not arms, then what?	VO_mitsuha.mitsuha_sys_0002
+046	…Well…	VO_kouga.kouga_sys_0031
+047	…I'll make do with kitchen knives.
+048	You haven't changed a bit since then…
+049	I prefer life-giving meals to life-taking war. That--	VO_kouga.kouga_sys_0004
+050	Is my atonement for the lives I've taken, and my own way of fighting.
+051	…
+052	If we fill their stomachs, then maybe they'll stop eating us. If both sides have their basic needs met, the fighting should end.	VO_kouga.kouga_sys_0001
+053	Only then will there be any lasting peace.
+054	…That's a fantasy.	VO_mitsuha.mitsuha_sys_0016
+055	Better to fantasize about a better future than to give up.	VO_kouga.kouga_sys_0010
+056	…I haven't given up.	VO_mitsuha.mitsuha_sys_0002
+057	Then you've got it all backwards.	VO_kouga.kouga_sys_0016
+058	…
+059	…You said there's a demon who can use chakra, right?	VO_kouga.kouga_sys_0001
+060	If such a demon exists, who's to say there aren't also demons who don't devour humans?
+061	…Impossible. Demons devour humans. Period. That is why they're our mortal enemies.	VO_mitsuha.mitsuha_sys_0010
+062	…But…it is possible.	VO_kouga.kouga_sys_0030
+063	Even if my dream is a long shot, I'm glad I haven't given up. I've come this far, so I've got to follow through.
+064	My food...will bring peace to Wadatsumi.
+065	Kaede…still hasn't returned.	VO_tanba.tanba_sys_0001
+066	It appears not.	VO_ogre.ogre_battle_0001
+067	She must be too weak to move…I should go find her.	VO_tanba.tanba_battle_0019
+068	Calm down, Tamba. You'd be a fool to put yourself at risk for one demon.	VO_ogre.ogre_battle_0003
+069	It's far riskier to lose Kaede and have our strength diminished. In order to wipe out those damned humans…
+070	We need her.
+071	…Yes, you may be right. We can't allow any more damage to our side.
+072	She hasn't replenished her life force yet. What if she's trapped somewhere and the humans find her…	VO_tanba.tanba_battle_0019
+073	…We'll deal with that when the time comes. Once you become the king's vessel, nothing can stop you.
+074	Are you saying we should abandon Kaede…?	VO_tanba.tanba_sys_0025
+075	Survival of the fittest--that's the law of nature.	VO_ogre.ogre_battle_0019
+076	…!!!	VO_tanba.tanba_sys_0042
+077	I'm moved by your loyalty to you sister…but she's naïve.	VO_ogre.ogre_battle_0020
+078	It's not just Kaede. I have a promise to keep.	VO_tanba.tanba_sys_0001
+079	…
+080	…Ah, yes. I remember--The day you both returned home covered in blood. You had escaped your human captors.	VO_ogre.ogre_battle_0001
+081	…
+082	The youngsters kidnapped by vile humans were thought to have been killed… Imagine our surprise when you made it back here all on your own.
+083	…You still despise humans, don't you?	VO_ogre.ogre_battle_0002
+084	…A foolish question. I live with that hatred each and every day.	VO_tanba.tanba_sys_0016
+085	Of course, of course. The anger you both harbor against humans--the "corruption"--THAT is your great power.	VO_ogre.ogre_battle_0003
+086	That "corruption" coupled with the unique power you possess--I'm convinced…
+087	You will surpass me and become the king's vessel, bringing about a new dawn for the demon race.
+088	…I don't know about all this "king's vessel" talk… but I'm in your debt.	VO_tanba.tanba_sys_0031
+089	So…I hope to meet your high expectations.
+090	I haven't done anything. What does this "debt" concept even mean?	VO_ogre.ogre_battle_0002
+091	After we escaped from our abductors and returned here, the other demons blamed us for being too weak. But you took us in.	VO_tanba.tanba_sys_0016
+092	The other demons didn't realize the powers you possess--that of both human and demon…
+093	I simply discovered that you are mixedbloods and guided you accordingly.	VO_ogre.ogre_battle_0019
+094	You mean the extremely rare case in which a child is born with a demon's lifeforce and the power of chakra?	VO_tanba.tanba_sys_0031
+136	Indeed. You and Kaede are exceptional in that regard.
+095	…That aside, I vowed to exterminate all humans, and that's what I'm going to do.	VO_tanba.tanba_sys_0010
+096	Yes. Well said. What we demons need in order to survive is…	VO_ogre.ogre_battle_0001
+097	The powers of you and your sister and the anger you harbor towards humans--that "corruption." That's to say nothing of the king's vessel.
+098	…
+099	You two will defend us against the humans' confounded arts.	VO_ogre.ogre_battle_0019
+100	We cannot allow them to intimidate us any longer. If demons are to rule this land…
+101	Then we must destroy all humans.	VO_ogre.ogre_battle_0001
+102	…I couldn't agree more.	VO_tanba.tanba_sys_0004
+103	(Especially the humans who made us suffer!)	VO_tanba.tanba_battle_0019
+104	(They're the worst of all! I'll hunt them down--every last one!)
+105	Hm… You are still not ready to be king.	VO_ogre.ogre_battle_0020
+106	…What do you mean?	VO_tanba.tanba_sys_0006
+107	One such as myself cannot comprehend human emotions, however...as long as your vision is clouded by the past…
+108	…You won't be able to achieve anything.	VO_ogre.ogre_battle_0019
+109	…!
+110	We're running out of time. I wish for your awakening as soon as possible.	VO_ogre.ogre_battle_0020
+111	…!?
+112	…Kagutsuchi. That confounded art.	VO_ogre.ogre_battle_0021
+113	…!	VO_tanba.tanba_sys_0026
+114	It must not be underestimated.	VO_ogre.ogre_battle_0002
+115	We cannot let those filthy humans defeat us. That is why we must hurry.
+116	…I know.	VO_tanba.tanba_sys_0004
+117	…Look who decided to return.	VO_ogre.ogre_battle_0001
+118	…I'm back.
+119	…Kaede!! Are you alright!? You're not hurt, are you?	VO_tanba.tanba_favorite_0003
+120	…I'm fine.	VO_kaede.kaede_sys_0004
+121	Where have you been!?	VO_tanba.tanba_sys_0001
+122	Give her space, Tamba. First she needs to replenish her life force.
+123	…Kaede, did you finally…devour a human?	VO_ogre.ogre_battle_0002
+124	…No.
+125	Is that so? You seem to have a surprising amount of life force remaining. Well, no matter.	VO_ogre.ogre_battle_0019
+126	You proved that you can stand up to the humans in our previous battle. Make sure you don't make the same embarrassing mistake again.
+127	…Understood.	VO_kaede.kaede_sys_0037
+128	Curse that Kagutsuchi… To think it's too powerful even for you two…	VO_ogre.ogre_battle_0002
+129	…The one obstacle we'll need to overcome if we're to expel the humans from Wadatsumi… We will destroy it--it's only a matter of time.	VO_tanba.tanba_sys_0010
+130	…I’m relieved to hear you say that.	VO_ogre.ogre_battle_0020
+131	…I'm sorry to have worried you.
+132	…I wasn't worried, child. I leave that to him. Be sure to prepare adequately for our next battle.
+133	...Tamba	VO_kaede.kaede_favorite_0005
+134	I'm glad you're safe. Where have you been…?
+135	…

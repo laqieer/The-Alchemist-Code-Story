@@ -1,0 +1,72 @@
+﻿001	A small quantity of Alchemia was discovered in the sample of Giant Taurus flesh.	VO_terre.terre_sys_0044
+002	What does that mean?	VO_hans.hans_sys_0002
+003	It means that an even larger amount of Alchemia—think of it as a kind of energy—must be contained within its core.	VO_terre.terre_sys_0004
+004	As I have already explained, there are aspects of the Giant Taurus that greatly resemble the Ancient Dragon Bone...
+005	A creature that as the name suggests, had armored scales that were as hard as bone. As a living being, it is very likely that the Giant Taurus too, has something like a core functioning in the center of its being.
+006	When you say core, do you mean like a heart?	VO_hans.hans_sys_0031
+007	I suppose so. According to the legends of the Saga region, the Ancient Dragon Bone's core contained an incredible amount of Alchemia. Do you know what part of the Giant Taurus this flesh was taken from?	VO_terre.terre_sys_0004
+008	Its foreleg.	VO_hans.hans_sys_0004
+009	Considering the amount of Alchemia found in that sample, it is safe to assume that the beast's core would be reasonably far from its forelegs.	VO_terre.terre_sys_0044
+010	I would prefer to avoid drawing conclusions from incomplete information. However...
+011	I believe that destroying the Giant Taurus' core will mean its defeat.
+012	I see. In that case, we should do what we can to pinpoint its core.	VO_hans.hans_sys_0039
+013	From what I can tell, it could be in the middle of its stomach, or even towards the tip of its tail. Does that sound about right?
+014	Yes. We cannot rule out either possibility for the moment. We will need to investigate other parts of the beast—although that is no simple matter.	VO_terre.terre_sys_0004
+015	True. If we can get a general idea of its location, and then blast it with everything we have... All right. Looks like we know what we need to focus on now.	VO_hans.hans_sys_0006
+016	Leave the Giant Taurus to us.	VO_basini.basini_sys_0001
+017	That's what we're here for. The Holy Guard, the Blue Flame Guard, and the Scarlet Flame Guard are a united front today.
+018	You can count on us. We're rearing to go! We won't let you down!
+019	I certainly hope not.	VO_terre.terre_sys_0010
+020	As for how we can destroy the core... We will be needing Judith's help for that.
+021	Indeed. I believe that the strongest weapon we possess is her...Mecha Weapon, or what have you.	VO_terre.terre_sys_0004
+022	Did you say Mecha Weapon?! You don't mean the forbidden weapon that was made to destroy the Giant Taurus, do you?!	VO_basini.basini_sys_0027
+023	I think you just answered your own question. Do you have a problem with that?	VO_hans.hans_sys_0004
+024	Of course I have a problem with it! As leader of the Holy Guard, I cannot allow that weapon to be used!	VO_basini.basini_sys_1019
+025	It's a cursed thing! It shouldn't be used to uphold the justice of the continent!
+026	Shut the hell up!	VO_judith.judith_battle_0019
+027	Tch. I thought I told you to stay quiet.	VO_levi.levi_sys_0026
+028	My dad made that to bring peace to Babel! It's not cursed!
+029	You...	VO_basini.basini_sys_0025
+030	My dad wished for this world to be at peace with all his heart, but you...!	VO_judith.judith_sys_0013
+031	You can't even do anything about the Giant Taurus!
+032	But you killed my dad anyway! And yet you stand there and insult his invention?! Who the hell do you think you are?!	VO_judith.judith_sys_0018
+033	You disgust me!
+034	The Mecha Weapon drew its power from the Philosopher's Stone. That's why... Your father was... We had to...	VO_basini.basini_sys_0018
+035	You've done your homework, huh? Good work, magnificent Lord Commander of the oh-so-righteous Holy Guard.	VO_judith.judith_sys_0027
+036	...
+037	You don't understand! That kind of power is dangerous! It brings nothing but misfortune! I've seen it too many times! You don't want to go around messing with Philosopher's Stones, either!	VO_basini.basini_sys_0030
+038	That's why...it had to end like that. You have to make some sacrifices to serve the greater good.
+039	How can you say that?! The Giant Taurus have taken countless lives! The entire continent is suffering!	VO_judith.judith_sys_0017
+040	I...!
+041	And what have you done to stop them? That's right, a whole lotta nothing! So who's the real one bringing misfortune, huh?!
+042	I will complete the Mecha Weapon without using a Philosopher's Stone! I will save this world myself!
+043	And I will show you, all of you, that my dad did nothing wrong! He was wronged, and I will get justice for him!
+044	He made the Mecha Weapon to bring peace to Babel! I won't let you insult it in front of me!
+045	I won't forgive you, or the so-called Holy Order, for trampling over his dream!	VO_judith.judith_sys_0018
+046	Ngh! I...!
+047	Give me back my dad! Give him back! You monster!	VO_judith.judith_sys_0019
+048	Judith... I...
+049	I don't want to hurt a girl. Put your weapons down, man.	VO_victor.victor_battle_0019
+050	Ungh...
+051	I hate you! I despise the Holy Order! Get the hell out of my way!	VO_judith.judith_sys_0027
+052	Sorry.	VO_victor.victor_sys_0022
+053	I'm gonna have to have you take a little nap.
+054	Wh-what?! What's going on over there?!	VO_budd.budd_sys_0025
+055	It's the Giant Taurus! Judith, let's finish this later! Knights, engage!	VO_basini.basini_sys_0018
+056	Yes, Lord Commander!	VO_victor.victor_sys_0005
+057	Tch. I have a bad feeling about this, but we can't just stand around doing nothing.	VO_levi.levi_sys_0026
+058	On it!	VO_eren.eren_sys_0005
+059	I have to do it! I have to take down the Giant Taurus!	VO_judith.judith_battle_0019
+060	Dangit. He knew we were out of gas, didn't he? Reiner, you ba—!	VO_levi.levi_sys_0018
+061	Huh?! R-Reiner?! I've seen this Titan before...but that means...!	VO_judith.judith_sys_0025
+062	Here they come! Bud, Victor! Get ready!	VO_basini.basini_sys_0025
+063	Tehre, you handle the evacuation! I don't want any more casualties!	VO_basini.basini_sys_1019
+064	Do not give me orders!	VO_terre.terre_battle_0019
+065	Here I go!	VO_eren.eren_sys_0021
+066	Wait, Eren! Save your strength for the Giant Taurus!	VO_levi.levi_sys_0015
+067	This isn't an enemy that you can keep chipping away at until it falls down! We need to save our resources and hit it with everything we have all at once, as a last stand!
+068	Ngh... Fine. Understood.	VO_eren.eren_sys_0042
+069	Judith, prepare yourself! Reiner is an enemy, all right?! Get that through your head!	VO_levi.levi_sys_0001
+070	We can't fight properly without our ODM gear, so we're counting on your Mecha Weapon for this battle!
+071	I... I just can't believe it. Reiner can't be a Titan. He can't be! I... I can't fight him!	VO_judith.judith_sys_0027
+072	Tch! I guess I have no choice! I'll slice you open myself, Reiner!	VO_levi.levi_sys_0026

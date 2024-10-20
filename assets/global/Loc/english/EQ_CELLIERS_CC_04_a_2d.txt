@@ -1,0 +1,67 @@
+﻿001	According to the results, you're in grave danger right now.	VO_flamel.flamel_sys_0029
+002	You turned the flower and vase in your room into crystal without thinking, didn't you?
+003	...!
+004	Your crystallization ability is a power that solidifies the flow of Alchemy.	VO_flamel.flamel_sys_0003
+005	All things cease to function when they lose that flow.
+006	In other words, your power is a threat to all things with Alchemy—everyone around you. And that power is growing remarkably stronger than it used to be.
+007	Your current power is like a cup filled with water. There's no telling when it'll overflow.	VO_flamel.flamel_sys_0011
+008	......
+009	I felt it too, you know. That I couldn't control my power the way I want to. I'd never had that problem before...	VO_celliers.celliers_sys_0031
+010	So the control you once had is coming undone...	VO_flamel.flamel_sys_0031
+011	(I heard that his crystallization power was closely linked to his mental state.)
+012	(Could that attack have caused Celliers' power to destabilize? I wonder if that's preventing his control...)
+013	If I can't control this power of mine...then I can't go back to the village, can I?	VO_celliers.celliers_sys_0022
+014	...Yes. As of now, it would be difficult to get permission for you to reside in the village.	VO_flamel.flamel_sys_0004
+015	......
+016	That being said, I want to do something for you. After all, you've been trying so hard to stand on your own two feet.
+017	So Michael and I will look for a way to stabilize your power, and—
+018	It's okay. I won't go back to the village.	VO_celliers.celliers_sys_0039
+019	What?
+020	I was mistaken... Someone like me, with a power like this, shouldn't live with regular people.	VO_celliers.celliers_sys_0018
+021	I tried to use this power to make my way in this world, but even then, I always relied on Mielikki to make it work...
+022	And in the end...this power put her in danger, and...caused her sadness.
+023	Deep down, I always knew this power...could never make people happy!	VO_celliers.celliers_sys_0029
+024	...Is that right? If you ask me, you've made at least one young girl quite happy.	VO_flamel.flamel_sys_0029
+025	When Mielikki gazed at the crystal you gave her, her eyes were filled with happiness.
+026	...Come again?	VO_celliers.celliers_sys_0025
+027	I met with her just recently. I had some business at the adjoining laboratory, you see.	VO_flamel.flamel_sys_0005
+028	She was sad that she couldn't see you. And yet...
+029	I've got to do my best! After all, I have a super special, ultra-important job I just gotta see through to the end!	VO_mielikki.mielikki_sys_0032
+030	And besides, I'll be fine... I've got this, after all!
+031	This is...a crystal butterfly?	VO_flamel.flamel_sys_0006
+032	Yeah! Celliers gave it to me. Looking at this makes me feel all warm and fuzzy inside.	VO_mielikki.mielikki_sys_0004
+033	Remembering his gentle smile makes everything better.	VO_mielikki.mielikki_sys_0007
+034	She really said that?	VO_celliers.celliers_sys_0001
+035	(Mielikki... You still like my crystals?)
+036	I, too, think your crystal craftsmanship is something exceptional. Somehow cool and warm in equal measure... Like morning sunlight through the trees.	VO_flamel.flamel_sys_0004
+037	And what's more... You enjoy your work, don't you?
+038	Well, I...	VO_celliers.celliers_sys_0031
+039	Anyone could tell the truth from your pieces. Each of your wares are crafted with meticulous care.
+040	......
+041	The fact that you obtained this power through horrendous experiments is indisputable. I can't imagine how awful that past must be for you.	VO_flamel.flamel_sys_0029
+042	Despite this, you've made this power into something all your own. You were learning to love that power of yours.
+043	......
+044	I can empathize somewhat, I think. The work of a Court Mage has no end of hardship, but I'm happy to be of service to others.	VO_flamel.flamel_sys_0005
+045	That's why everyone here is happy to help. Being able to use one's strength as you wish is what it means to live well, and happily.
+046	That's why I like this job. I hope that you can do the same—that you can use your power to do whatever your heart desires.	VO_flamel.flamel_sys_0007
+047	Flamel...
+048	...Why are you being so nice to me?	VO_celliers.celliers_sys_0002
+049	You, Michael, everyone here... You all care so much, think so much for someone like me.
+050	Celliers...
+051	Why... Why?! I'm... I'm a monster...!	VO_celliers.celliers_battle_0019
+052	That's not true! It'll be okay...after all...Celliers...	VO_mielikki.mielikki_sys_0018
+053	We became friends, didn't we?
+054	...!	VO_celliers.celliers_sys_0029
+055	Mielikki...
+056	(That's right, it was the same back then... Mielikki cared about me more than her own pain.)	VO_celliers.celliers_sys_0001
+057	(Despite the fear, despite the pain, she tried to protect me. That's why I'm here today. And yet...)
+058	...How shameful. You all care so much for me, and all I'm doing is thinking of myself.	VO_celliers.celliers_sys_0004
+059	I can't keep going on like this. I have to do something, too...for Mielikki's sake.
+060	Celliers...
+061	......
+062	Flamel. I have an idea I need to run past you...	VO_celliers.celliers_sys_0002
+063	Celliers. Finally showed yourself, have you? I'd heard you'd holed up in the laboratory. It was worth staking out the place.
+064	......
+065	Oh! This sweet scent... Is it that aroma that mesmerizes monsters?	VO_celliers.celliers_sys_0025
+066	We weren't up to snuff last we met, but don't think it'll go so well for you this time.
+067	...I get it. In that case, I'll... I'll just do what I can...!	VO_celliers.celliers_sys_0032

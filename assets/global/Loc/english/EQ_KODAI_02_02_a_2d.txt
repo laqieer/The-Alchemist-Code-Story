@@ -1,0 +1,58 @@
+﻿001	...What's all this commotion?
+002	It seems that Lady Schmeier has escaped.	VO_chahele.chahele_sys_0004
+003	We are mobilizing all soldiers in the castle as we speak.	VO_chahele.chahele_sys_0031
+004	I see.
+005	One of the seven Draconic Pillars... Even within the Dragon Realm, she remains a thorn in my side.
+006	I suppose it comes to me to--
+007	Don't. If you take action, it will hinder the upkeep of the Dragon Realm.	VO_esai.esai_sys_0014
+008	Leave this to me, if you would.	VO_esai.esai_sys_0004
+009	Ignacio...
+010	That is indeed the name I was entrusted with. Though I do wish you would call me Yishai when it's the two of us.	VO_esai.esai_sys_0002
+011	...
+012	You won't?	VO_esai.esai_sys_0030
+013	Very well, Yishai. I shall leave Schmeier to you then.
+014	Thank you, Ophioneus... Shahel, come.	VO_esai.esai_sys_0033
+015	Yes, Lord Ignacio.
+016	...Schmeier, why do you refuse to understand?
+017	The shell of this world is too small for humans to survive. Attempting to coexist will only lead to our shared extinction...
+018	For a dragon's castle, this place sure has a lot of humans.	VO_matia.matia_sys_0001
+019	That's because Ophioneus was the first dragon to realize the utility of humans.	VO_schmeier.schmeier_sys_0004
+020	They lack the strength and vitality of dragons, so they're forced to make up for it with ingenuity and creativity.
+021	He decided that's the way things ought to be.
+022	He didn't see the forest for the trees, huh?	VO_matia.matia_sys_0016
+023	What? How do you mean?	VO_schmeier.schmeier_sys_0025
+024	Nothing, just a bit of optimism. Come on; we're almost there.
+025	H-hey, wait!	VO_schmeier.schmeier_sys_0001
+026	Look! Right here, there's a hidden passage!
+027	Come on, we don't have time for--	VO_matia.matia_sys_0002
+028	No, I mean, these things are usually connected to the outside, right? This could be a shortcut out of here.
+029	Or it could be some sort of maze to throw off intruders.
+030	I already know a way out. Let's not risk it just to save a little time.	VO_matia.matia_sys_0029
+031	It'll be fine, come on! Look, there's some sort of room up ahead...	VO_schmeier.schmeier_sys_0007
+032	Hey, come back!
+033	This is--
+034	Schmeier, you realize we're still being chased, right? What are you thinking?	VO_matia.matia_sys_0030
+035	There's some sort of strange Magil reaction going on. What is this stone?
+036	Did someone hide it here? Or is this just where it goes?
+037	This is different from my Magil. Just what is...	VO_schmeier.schmeier_sys_0031
+038	Schmeier!
+039	...Right, sorry. I'll figure it out later. Let's go!
+040	Alright, we finally made it out!	VO_matia.matia_sys_0005
+041	Now if we can just get out of this district--
+042	...
+043	I'm sorry, but this road is closed.	VO_esai.esai_sys_0014
+044	Ugh, this is...
+045	Lady Schmeier, I beg you to please return. Leaving now would be ever so inconvenient for us.
+046	...Yishai Ignacio.
+047	I'm surprised the renowned successor of Ophioneus would come all this way in person.	VO_schmeier.schmeier_sys_0003
+048	Hahaha, please, you flatter me!	VO_esai.esai_sys_0008
+049	But this is as far as you ladies go. The seven dragons of salvation are quite important to us, you see.
+050	Now, let us head back to the castle, shall we? Before my trigger finger gets itchy...	VO_esai.esai_sys_0002
+051	...Schmeier	VO_matia.matia_sys_0001
+052	What is it?
+053	How strong is this guy?
+054	I'd say pretty strong. Well, he's got strength in numbers at least.	VO_schmeier.schmeier_sys_0006
+055	And just who are you, exactly? I haven't seen your face around here before. What are you doing helping this woman?	VO_esai.esai_sys_0003
+056	What am I doing? Ha!
+057	I'm just having some fun.	VO_matia.matia_sys_0023
+058	What an amusing little girl.	VO_esai.esai_sys_0010

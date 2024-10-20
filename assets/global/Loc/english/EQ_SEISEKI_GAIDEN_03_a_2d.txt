@@ -1,0 +1,93 @@
+﻿001	Hm?
+002	Did you know that there's a blank in the history of the Holy Guard?	VO_kaya.kaya_sys_0001
+003	You don't need to worry about that. You just keep progressing forward.
+004	I'll look backward in your stead, and seek out the truth.
+005	(A blank in the history of the Holy Guard... I always believed that the Holy Order existed to administer justice to Babel.)	VO_zain.zain_sys_0016
+006	(Did we once have a different role? Did someone try to conceal that truth?)
+007	(As Lord Commander, I must find out!)
+008	Ah, Zain, I was just looking for you. Would you accompany me?	VO_kaya.kaya_chara_1003
+009	I'm surprised you asked. It wouldn't be strange for you to head out on your own, without saying anything.	VO_zain.zain_chara_0010
+010	You really are a blockhead. If I went off on my own, who knows how many complaints I'd have to suffer through later.	VO_kaya.kaya_sys_0022
+011	True enough. Where are we going this time?	VO_zain.zain_sys_0016
+012	Slothstein.	VO_kaya.kaya_sys_0006
+013	What exactly are the Cursed Beasts?	VO_zain.zain_sys_0012
+014	There were no records of them in Envylia.
+015	There were only a few descriptions of an immense beast... What could you possibly hope to learn from that?
+016	Don't be so impatient, Zain.	VO_kaya.kaya_sys_0015
+017	First of all, we must verify whether or not the Cursed Beasts actually exist. By comparing these descriptions, however few...
+018	We can confirm whether or not what was depicted in that mural had any basis in reality.
+019	It sounds like a lot of work.	VO_zain.zain_sys_0029
+020	That's why I had to step down as Captain. I want to devote myself entirely to this research. It might all be for nothing...	VO_kaya.kaya_sys_0006
+021	But I believe that bringing this truth to light will mean protecting Babel, in the truest sense. I really do.
+022	Was there a Cursed Beast in Slothstein as well?	VO_zain.zain_sys_0012
+023	That's what we're going to find out. Thorough investigation yields valuable results, you see.	VO_kaya.kaya_sys_0039
+024	Speaking of Slothstein, I heard that they dispatched some rather interesting knights there on a mission.
+025	That's right. Othima was sent to keep an eye on a guild of weapons smugglers in Slothstein.	VO_zain.zain_chara_0009
+026	How do you know about that?	VO_zain.zain_sys_0012
+027	Heheh. Don't underestimate my sources. This Othima, he has abilities that rival the Captains of the Holy Guard, correct?	VO_kaya.kaya_sys_0008
+028	Right. He's a little moody and mysterious...but above all, he's a very proficient magic user.	VO_zain.zain_chara_0009
+029	A lot happened to him before he came here. He even spent some time in Lost Blue. He doesn't talk much about it.
+030	Oh, yes. I'm looking forward to meeting him someday. It would be most interesting. Well, we should go.	VO_kaya.kaya_sys_0044
+031	Hm...? What's that sound?	VO_kaya.kaya_chara_1003
+032	A voice... Where's it coming from? Wait... Up there!	VO_zain.zain_sys_0025
+033	That decrepit Monzein... Sponging money off of me every chance he gets...	VO_ortima.ortima_sys_0030
+034	Thankfully, I was able to sell off all that incantation gear to make some extra coin...
+035	But my pockets are still too dang light! This month is going to be tough. I can't believe how much money that old codger throws around.	VO_ortima.ortima_chara_1011
+036	Speak of the devil...	VO_kaya.kaya_sys_0031
+037	Othima, what are you doing in that tree?	VO_zain.zain_chara_0011
+038	Huh?! L-Lord Zain?! What are you doing here?!	VO_ortima.ortima_battle_0019
+039	Hello.	VO_kaya.kaya_sys_0007
+040	Lady Kaya, too?! Well...it doesn't really matter. I know you're not slacking off or anything.	VO_ortima.ortima_battle_1028
+041	What about your mission, Othima?	VO_zain.zain_sys_0012
+042	I'm working on it. We're right on their trail. We'll have them soon.	VO_ortima.ortima_sys_0007
+043	Then why are you wasting time here? By the way, Othima... I heard you say something about making some extra coin... What was that about?	VO_zain.zain_sys_0016
+044	Ah! You heard that?! It's...all a part of my mission, of course.	VO_ortima.ortima_battle_0019
+045	Then I'd like to have you tell me more about it. I've never heard of a member of the glorious Holy Guard making extra coin...	VO_zain.zain_chara_0010
+046	Don't look at me like that! I just sold off some incantation gear that I made...for a little extra coin.	VO_ortima.ortima_chara_1011
+047	Hmmm, what exactly is incantation gear? You've piqued my interest.	VO_kaya.kaya_sys_0005
+048	I knew you'd understand, Lady Kaya! So, it increases your power by releasing Alchemia...	VO_ortima.ortima_sys_0024
+049	Othima! Enough! You weren't entrusted with this mission so that you could play around!	VO_zain.zain_sys_0012
+050	The objective of the Holy Guard is to uphold peace and justice in Babel! You should be ashamed of yourself!
+051	Zain... You should listen to what he has to say first.	VO_kaya.kaya_sys_0015
+052	What Othima is doing isn't necessarily unrelated to the mission.
+053	Well, that's...true...but...	VO_zain.zain_sys_0042
+054	Silencing the Lord Commander in one sentence. Good job, Lady Kaya!	VO_ortima.ortima_sys_0026
+055	Besides, if you're going to get angry about it, couldn't you do something about Monzein, instead? He's always borrowing money from me.	VO_ortima.ortima_sys_0030
+056	What?	VO_zain.zain_sys_0027
+057	Monzein treats the knights at every occasion, right? Where do you think the Vice-Captain gets all that money from?	VO_ortima.ortima_sys_0029
+058	Don't tell me...	VO_zain.zain_sys_0025
+059	So I need to do some side jobs...but, you know...I think he'd actually leave the Holy Guard if he couldn't treat the knights anymore.	VO_ortima.ortima_sys_0022
+060	I nearly started working part time as a woodcutter at one point. Wouldn't that be unfortunate?
+061	It just wouldn't feel right without old Monzein around, though.
+062	So, that's why my side jobs are more or less vital to keeping the peace in both the Holy Guard and Babel.
+063	...
+064	Heh, heheheh... How...interesting. He's got you there, Zain.	VO_kaya.kaya_sys_0008
+065	Lately, though, that girl Seida has been keeping the Vice-Captain in line for us, which I'm very thankful for.	VO_ortima.ortima_sys_0007
+066	But...for a member of the glorious Holy Guard to take on extra work on the side...!	VO_zain.zain_sys_0029
+067	I think it's important for the Lord Commander to be flexible in his quest for peace in Babel. Being too strict about the rules leads to a narrow mind.	VO_kaya.kaya_sys_0001
+068	Mm... When you put it like that...	VO_zain.zain_sys_0042
+069	She really can silence Lord Zain.	VO_ortima.ortima_sys_0026
+070	Lady Kaya, Seida, Captain Yauras... The women of the Holy Guard are really scary.	VO_ortima.ortima_sys_0029
+071	Did you say something, Othima?	VO_kaya.kaya_sys_0012
+072	N-no! No, no, no! Nothing!	VO_ortima.ortima_sys_0027
+073	Well, Lord Zain, it seems that you have nothing to worry about. The knights of the Holy Guard will even take on extra work to uphold the justice of the continent!	VO_ortima.ortima_sys_0007
+074	So I'm really not slacking off, you know. I know you're in the middle of a mission, but since you're here, why don't you stay and watch?	VO_ortima.ortima_sys_0031
+075	Othima, how do you know about...?
+076	You would never come to a place like this if it wasn't for a mission, right, Lord Zain? Lady Kaya?	VO_ortima.ortima_sys_0025
+077	It seems pretty serious, so I have to wonder if you yourselves have the time to stand around talking...
+078	Hey...!
+079	Shhhhh. Please, conceal yourselves. He'll appear any moment now.
+080	So you're the one who's selling that suspicious-looking incantation gear in our territory, huh?	VO_thiefm.thiefm_sys_0002
+081	Hey, it's not like you guys have official permission, either! We're no different from each other.	VO_ortima.ortima_sys_0031
+082	Anyone who gets in the way of our business needs to disappear. Sorry, but you're going to have to die here.	VO_thiefm.thiefm_sys_0029
+083	You'll regret using such a cliché line! Evil never goes unpunished, you know... That's the way the world goes 'round!
+084	You shouldn't be acting so confident, you know. You're completely surrounded! Get him!	VO_thiefm.thiefm_sys_0006
+085	What...?!	VO_thiefm.thiefm_sys_0025
+086	Like moths to a flame. Did you really think I was defenseless?	VO_ortima.ortima_sys_0007
+087	Nngh, you...! Don't underestimate us!	VO_thiefm.thiefm_sys_0042
+088	Ahhh... You know...	VO_ortima.ortima_sys_0030
+089	You're the ones who need to be careful.
+090	Do you know how many people have cried themselves to sleep because they've gotten injured by your sub-standard incantation gear?	VO_ortima.ortima_sys_0015
+091	I'm going to make sure you pay for that.
+092	Arghhh!	VO_thiefm.thiefm_sys_0022
+093	I guess I should wrap up this mission.	VO_ortima.ortima_battle_0030

@@ -1,0 +1,128 @@
+﻿GL_SEASON1_DAILY_QUEST_20	Daily - Making the Rounds
+GL_SEASON1_DAILY_QUEST_20_VIP	Daily - Making the Rounds (Premium Pass)
+GL_SEASON1_DAILY_EVENT_10	Daily - Participate in Events
+GL_SEASON1_DAILY_EVENT_10_VIP	Daily - Participate in Events (Premium Pass)
+GL_SEASON1_DAILY_SUMMON_5	Daily - Summoning
+GL_SEASON1_DAILY_SUMMON_5_VIP	Daily - Summoning (Premium Pass)
+GL_SEASON1_DAILY_ARENA_5	Daily - Brawl
+GL_SEASON1_DAILY_ARENA_5_VIP	Daily - Brawl (Premium Pass)
+GL_SEASON1_DAILY_SHOP_1	Daily - Resupply
+GL_SEASON1_DAILY_SHOP_1_VIP	Daily - Resupply (Premium Pass)
+GL_SEASON1_QUEST_50	Seasoned Traveller (1/3)
+GL_SEASON1_QUEST_150	Seasoned Traveller (2/3)
+GL_SEASON1_QUEST_300	Seasoned Traveller (3/3)
+GL_SEASON1_EVENT_50	Hardened Adventurer (1/3)
+GL_SEASON1_EVENT_100	Hardened Adventurer (2/3)
+GL_SEASON1_EVENT_200	Hardened Adventurer (3/3)
+GL_SEASON1_ARENA_25	Seasoned Brawler
+GL_SEASON1_SUMMON_100	Experienced Summoner
+GL_SEASON1_SHOP_25	Shopaholic
+GL_SEASON2_DAILY_QUEST_20	Daily - Making the Rounds
+GL_SEASON2_DAILY_QUEST_20_VIP	Daily - Making the Rounds (Premium Pass)
+GL_SEASON2_DAILY_EVENT_10	Daily - Participate in Events
+GL_SEASON2_DAILY_EVENT_10_VIP	Daily - Participate in Events (Premium Pass)
+GL_SEASON2_DAILY_SUMMON_5	Daily - Summoning
+GL_SEASON2_DAILY_SUMMON_5_VIP	Daily - Summoning (Premium Pass)
+GL_SEASON2_DAILY_ARENA_5	Daily - Brawl
+GL_SEASON2_DAILY_ARENA_5_VIP	Daily - Brawl (Premium Pass)
+GL_SEASON2_DAILY_SHOP_1	Daily - Resupply
+GL_SEASON2_DAILY_SHOP_1_VIP	Daily - Resupply (Premium Pass)
+GL_SEASON2_QUEST_50	Seasoned Traveller (1/3)
+GL_SEASON2_QUEST_150	Seasoned Traveller (2/3)
+GL_SEASON2_QUEST_300	Seasoned Traveller (3/3)
+GL_SEASON2_EVENT_50	Hardened Adventurer (1/3)
+GL_SEASON2_EVENT_100	Hardened Adventurer (2/3)
+GL_SEASON2_EVENT_200	Hardened Adventurer (3/3)
+GL_SEASON2_ARENA_25	Seasoned Brawler
+GL_SEASON2_SUMMON_100	Experienced Summoner
+GL_SEASON2_SHOP_25	Shopaholic
+GL_EX1_DAILY_QUEST_20	Daily - Making the Rounds (Auto Repeat not included)
+GL_EX1_DAILY_EVENT_10	Daily - Participate in Events (Auto Repeat not included)
+GL_EX1_DAILY_SUMMON_5	Daily - Summoning
+GL_EX1_DAILY_SHOP_1	Daily - Resupply
+GL_EX1_DAILY_ARENA_1	Daily - Brawl
+GL_SEASON2021_DAILY_QUEST_5	Daily - Making the Rounds
+GL_SEASON2021_DAILY_QUEST_10	Daily - Making the Rounds
+GL_SEASON2021_DAILY_QUEST_10_VIP	Daily - Making the Rounds (4th Anniversary Season Pass)
+GL_SEASON2021_DAILY_QUEST_20	Daily - Making the Rounds
+GL_SEASON2021_DAILY_EVENT_3	Daily - Participate in Events
+GL_SEASON2021_DAILY_EVENT_5	Daily - Participate in Events
+GL_SEASON2021_DAILY_EVENT_5_VIP	Daily - Participate in Events (4th Anniversary Season Pass)
+GL_SEASON2021_DAILY_EVENT_10	Daily - Participate in Events
+GL_SEASON2021_DAILY_SUMMON	Daily - Summoning
+GL_SEASON2021_DAILY_SHOP_1	Daily - Resupply
+GL_SEASON2021_DAILY_ARENA_1	Daily - Brawl
+GL_SEASON2021_DAILY_ARENA_1_VIP	Daily - Brawl (4th Anniversary Season Pass)
+GL_SEASON2021_DAILY_ARENA_3	Daily - Brawl
+GL_SEASON2021_QUEST_50	Seasoned Traveller (1/3)
+GL_SEASON2021_QUEST_150	Seasoned Traveller (2/3)
+GL_SEASON2021_QUEST_300	Seasoned Traveller (3/3)
+GL_SEASON2021_EVENT_50	Hardened Adventurer (1/3)
+GL_SEASON2021_EVENT_100	Hardened Adventurer (2/3)
+GL_SEASON2021_EVENT_150	Hardened Adventurer (3/3)
+GL_SEASON2021_ARENA_25	Seasoned Brawler
+GL_SEASON2021_SUMMON_100	Experienced Summoner
+GL_SEASON2021_SHOP_25	Shopaholic
+GL_SEASON2022_DAILY_QUEST_5	Daily - Making the Rounds
+GL_SEASON2022_DAILY_QUEST_10	Daily - Making the Rounds
+GL_SEASON2022_DAILY_QUEST_10_VIP	Daily - Making the Rounds (Premium Pass)
+GL_SEASON2022_DAILY_QUEST_20	Daily - Making the Rounds
+GL_SEASON2022_DAILY_EVENT_3	Daily - Participate in Events
+GL_SEASON2022_DAILY_EVENT_5	Daily - Participate in Events
+GL_SEASON2022_DAILY_EVENT_5_VIP	Daily - Participate in Events (Premium Pass)
+GL_SEASON2022_DAILY_EVENT_10	Daily - Participate in Events
+GL_SEASON2022_DAILY_SUMMON	Daily - Summoning
+GL_SEASON2022_DAILY_SHOP_1	Daily - Resupply
+GL_SEASON2022_DAILY_ARENA_1	Daily - Brawl
+GL_SEASON2022_DAILY_ARENA_1_VIP	Daily - Brawl (Premium Pass)
+GL_SEASON2022_DAILY_ARENA_3	Daily - Brawl
+GL_SEASON2022_QUEST_50	Seasoned Traveller (1/3)
+GL_SEASON2022_QUEST_150	Seasoned Traveller (2/3)
+GL_SEASON2022_QUEST_300	Seasoned Traveller (3/3)
+GL_SEASON2022_EVENT_50	Hardened Adventurer (1/3)
+GL_SEASON2022_EVENT_100	Hardened Adventurer (2/3)
+GL_SEASON2022_EVENT_150	Hardened Adventurer (3/3)
+GL_SEASON2022_ARENA_25	Seasoned Brawler
+GL_SEASON2022_SUMMON_25	Experienced Summoner
+GL_SEASON2022_SHOP_25	Shopaholic
+GL_SEASON_EMMEL_DAILY_QUEST_5	Daily - Making the Rounds (1/3)
+GL_SEASON_EMMEL_DAILY_QUEST_10	Daily - Making the Rounds (2/3)
+GL_SEASON_EMMEL_DAILY_QUEST_10_VIP	Daily - Making the Rounds (Premium Pass)
+GL_SEASON_EMMEL_DAILY_QUEST_20	Daily - Making the Rounds (3/3)
+GL_SEASON_EMMEL_DAILY_EVENT_3	Daily - Participate in Events (1/3)
+GL_SEASON_EMMEL_DAILY_EVENT_5	Daily - Participate in Events (2/3)
+GL_SEASON_EMMEL_DAILY_EVENT_5_VIP	Daily - Participate in Events (Premium Pass)
+GL_SEASON_EMMEL_DAILY_EVENT_10	Daily - Participate in Events (3/3)
+GL_SEASON_EMMEL_DAILY_SUMMON	Daily - Summoning
+GL_SEASON_EMMEL_DAILY_SHOP_1	Daily - Resupply
+GL_SEASON_EMMEL_DAILY_ARENA_3	Daily - Brawl (1/2)
+GL_SEASON_EMMEL_DAILY_ARENA_3_VIP	Daily - Brawl (Premium Pass)
+GL_SEASON_EMMEL_DAILY_ARENA_5	Daily - Brawl (2/2)
+GL_SEASON_EMMEL_QUEST_WK1_100	Week 1 - Seasoned Traveller
+GL_SEASON_EMMEL_EVENT_WK1_100	Week 1 - Hardened Adventurer
+GL_SEASON_EMMEL_ARENA_WK1_15	Week 1 - Seasoned Brawler
+GL_SEASON_EMMEL_SUMMON_5	Experienced Summoner (1/3)
+GL_SEASON_EMMEL_SHOP_10	Shopaholic (1/3)
+GL_SEASON_EMMEL_QUEST_WK2_125	Week 2 - Seasoned Traveller
+GL_SEASON_EMMEL_EVENT_WK2_125	Week 2 - Hardened Adventurer
+GL_SEASON_EMMEL_ARENA_WK2_20	Week 2 - Seasoned Brawler
+GL_SEASON_EMMEL_SUMMON_WK2_5	Week 2 - Experienced Summoner
+GL_SEASON_EMMEL_SHOP_WK2_10	Week 2 - Shopaholic
+GL_SEASON_EMMEL_QUEST_WK3_150	Week 3 - Seasoned Traveller
+GL_SEASON_EMMEL_EVENT_WK3_150	Week 3 - Hardened Adventurer
+GL_SEASON_EMMEL_ARENA_WK3_25	Week 3 - Seasoned Brawler
+GL_SEASON_EMMEL_SUMMON_WK3_5	Week 3 - Experienced Summoner
+GL_SEASON_EMMEL_SHOP_WK3_10	Week 3 - Shopaholic
+GL_SEASON_EMMEL_QUEST_50	Seasoned Traveller (1/3)
+GL_SEASON_EMMEL_QUEST_150	Seasoned Traveller (2/3)
+GL_SEASON_EMMEL_QUEST_300	Seasoned Traveller (3/3)
+GL_SEASON_EMMEL_EVENT_50	Hardened Adventurer (1/3)
+GL_SEASON_EMMEL_EVENT_100	Hardened Adventurer (2/3)
+GL_SEASON_EMMEL_EVENT_150	Hardened Adventurer (3/3)
+GL_SEASON_EMMEL_ARENA_15	Seasoned Brawler (1/3)
+GL_SEASON_EMMEL_ARENA_30	Seasoned Brawler (2/3)
+GL_SEASON_EMMEL_ARENA_60	Seasoned Brawler
+GL_SEASON_EMMEL_SUMMON_10	Experienced Summoner (2/3)
+GL_SEASON_EMMEL_SUMMON_15	Experienced Summoner
+GL_SEASON_EMMEL_SHOP_20	Shopaholic (2/3)
+GL_SEASON_EMMEL_SHOP_30	Shopaholic

@@ -1,0 +1,137 @@
+﻿001	Yup, yup. Looks like most of my powers have come back to me.	VO_riml.riml_sys_0032
+002	That's good to hear. Are you sure your friend is in this village, though?	VO_kureto.kureto_sys_0008
+003	Yeah, my Magic Sense is never wrong. Huh?	VO_riml.riml_sys_0006
+004	...Something is happening down there.	VO_albell.albell_sys_0002
+005	Let's check it out!	VO_riml.riml_sys_0005
+006	Hgnh!	VO_benimaru.benimaru_battle_0007
+007	Curses... Just one after another... When will this end?! If only I could use Hell Flare...	VO_benimaru.benimaru_battle_0019
+008	Tch!
+009	Yah!	VO_albell.albell_battle_0005
+010	?!
+011	Haaahh!	VO_kureto.kureto_battle_0007
+012	Phew! That's the last of 'em.	VO_kureto.kureto_sys_0016
+013	Who are you people? Identify yourselves!	VO_benimaru.benimaru_sys_0002
+014	We're friends, not foes. We're here to guide the little slime.	VO_albell.albell_sys_0003
+015	The slime? Does that mean that...	VO_benimaru.benimaru_sys_0025
+016	Benimaru!	VO_riml.riml_sys_0025
+017	Rimuru! What are you doing here? Weren't you headed for the Kingdom of Ingrassia?
+018	Hm...well... That was the plan, yeah... Someone else had a different plan for me, though. What about you?	VO_riml.riml_sys_0011
+019	...I'm not sure. I was training at the forest edge, but before I knew it I was in this place.	VO_benimaru.benimaru_sys_0031
+020	(It's just like Ouroboros said. The others were summoned to different locations. How annoying...)
+021	But this is bad news. I can't feel my powers. It's like all the magicules in my body have left me.	VO_benimaru.benimaru_sys_0030
+022	Do you know where we are? And who are the humans with you?	VO_benimaru.benimaru_chara_1007
+023	Calm down, Benimaru. Let's assess the situation first.	VO_riml.riml_sys_0031
+024	Have you had anything to eat since coming here?	VO_riml.riml_sys_0001
+025	No, I haven't... I only just got here.
+026	One of the villagers found me wandering the nearby grasslands and brought me here.
+027	But then the village got attacked by all these monsters... There was no time for food.	VO_benimaru.benimaru_sys_0030
+028	I see.	VO_riml.riml_sys_0004
+029	Thank you all so much for protecting our village!
+030	I feared for your life when you told me that you'd repay us for helping you by protecting the village from all those monsters! Though I suppose my fears were unwarranted.
+031	I've prepared you all a meal as a sign of thanks. Please have as much as you'd like!
+032	Oh? So that's why you were fighting those monsters all by yourself.	VO_kureto.kureto_sys_0045
+033	...In the end I wasn't that much help. I couldn't fight like I could back in our world. It would've been the end of me if Rimuru hadn't come looking for me.	VO_benimaru.benimaru_sys_0005
+034	Aw, it's no biggie. Besides, you just told me you hadn't eaten yet, right?	VO_riml.riml_sys_0006
+035	What does that have to do with anything?	VO_benimaru.benimaru_sys_0025
+036	Well, we just got a bunch of food.	VO_riml.riml_sys_0010
+037	Ah. Right.	VO_benimaru.benimaru_sys_0031
+038	We can discuss things while eating. We can't let such a carefully prepared meal go to waste. Let's eat before it gets cold!	VO_riml.riml_sys_0001
+039	Orcs?! But that's impossible...	VO_benimaru.benimaru_sys_0025
+040	I'm afraid that's the only conclusion I can draw from Ouroboros' description. Orcs... No. An Orc Lord.	VO_riml.riml_sys_0031
+041	She called us to this world to do something about it.	VO_riml.riml_sys_0030
+042	But those orcs...
+043	Hey, are orcs really that scary?	VO_kureto.kureto_sys_0001
+044	An orc by itself is nothing to write home about, but things are different when an Orc Lord comes into play.	VO_benimaru.benimaru_sys_0031
+045	The Orc Lord feeds off of the fear of its allies. It's got a tremendous and overpowering energy that makes the other orcs obey it.
+046	Even a small number of orcs can devour an entire human village if they are led by an Orc Lord.
+047	...Or a village of trained warriors. Like our Ogre Village.	VO_benimaru.benimaru_battle_0019
+048	...
+049	Hmm, but here's the thing. We kinda already solved this whole orc problem back in our world.	VO_riml.riml_sys_0031
+050	Huh? What do you mean?	VO_kureto.kureto_sys_0006
+051	Rimuru already defeated the Orc Lord.	VO_benimaru.benimaru_sys_0005
+052	After that, all the surviving orcs regained their minds and decided to live under Rimuru's rule.
+053	Maybe one of them betrayed you?	VO_albell.albell_sys_0002
+054	The reason the orcs rampaged in our world is because they were starving due to a famine.	VO_benimaru.benimaru_sys_0031
+055	But there isn't a single starving orc under the Jura Forest Alliance. They wouldn't have a reason to betray us. Besides...
+056	I don't think the current leader of the orcs, Geld, would ever go back on his vow.
+057	Yeah. Pretty much.	VO_riml.riml_sys_0006
+058	I also think that something's up. Though I can't say what that might be yet.	VO_riml.riml_sys_0031
+059	What we do know is that this village lies in their path.
+060	No matter what the reason, we can't just overlook their actions!
+061	Besides, the people of this village took care of my friend, so now I'll take care of them!	VO_riml.riml_sys_0007
+062	Sounds about right. I'm in.
+063	Are you feeling better?	VO_riml.riml_sys_0001
+064	Yeah. It's just like you said, I feel much better after eating something. I won't perform so poorly again.
+065	Good. I'm counting on you.	VO_riml.riml_sys_0006
+066	(But I can't help but wonder about those orcs...)
+067	...
+068	What?	VO_benimaru.benimaru_sys_0002
+069	I'll join you on lookout duty.	VO_kureto.kureto_sys_0004
+070	Those beasts are more active than usual. It'd be bad if they caught you off-guard with no back-up.
+071	"He's still recovering, so he shouldn't overdo it." At least that's what Rimuru told me when he said I should come and join you.	VO_kureto.kureto_sys_0007
+072	Rimuru saw right through me, huh? Seriously, I'm no match for that guy's perceptiveness...	VO_benimaru.benimaru_sys_0008
+073	You really put your trust in that guy, huh?	VO_kureto.kureto_sys_0003
+074	I wouldn't recognize him as my ruler if I didn't.	VO_benimaru.benimaru_sys_0005
+075	Following the strongest is the way of life for us demonic beings... But that's not the only reason.
+076	Rimuru forgave me after I pointed my blade at him in misunderstanding. He even granted me a name and a place to live.	VO_benimaru.benimaru_chara_1007
+077	A name?	VO_kureto.kureto_sys_0006
+078	There are many monsters without names in our world.	VO_benimaru.benimaru_sys_0005
+079	Granting a monster a name makes them grow much stronger, but it also expends a significant amount of the namer's magicules.
+080	Considering all of this, naming someone is a highly dangerous act.
+081	Who would've thought that he'd perform such an act of benevolence towards those that had tried to kill him? That alone was plenty of reason for me to recognize him as my master.
+082	I see. He forgave your past actions and instead welcomed you as a comrade.	VO_kureto.kureto_sys_0045
+083	Rimuru appears to be a gentle man, someone who prefers to win without delivering any mortal wounds, much like what we practice in Sosenko, but...
+084	What about you, Benimaru?	VO_kureto.kureto_sys_0001
+085	I don't find it so easy to forgive those that robbed me of all the things that I held dear.
+086	...
+087	Do you hold a grudge against the orcs that wiped out your village?
+088	You look like you know your way around a sword. Aren't you planning to take revenge?	VO_kureto.kureto_sys_0003
+089	I'd be lying if I said that I didn't resent them at the start.	VO_benimaru.benimaru_sys_0031
+090	But then...one of the surviving orcs—Geld—confessed to his mistakes. He was prepared to offer me his life in order to repent.
+091	"Please, I ask that you take my head as penance and have mercy on my people." That's what he said.
+092	...And what did you do?
+093	I said, I will show no mercy to anyone who would harm us.	VO_benimaru.benimaru_sys_0005
+094	But I also said, if you join the alliance and accept Rimuru as your leader, then you and I are not enemies.
+095	Taking his life wouldn't bring back the people my village had lost.
+096	Before I met Rimuru, I would've never forgiven them. I would've wanted to kill them. Give in to my weakness.	VO_benimaru.benimaru_battle_0019
+097	But the orcs said that they'd work for Rimuru's sake. Their strength and labor force is not inconsiderable, so they had a lot to contribute.
+098	That's when I realized I couldn't just get rid of talented people because of my own grudges.	VO_benimaru.benimaru_sys_0003
+099	I'm the Samurai General of the Jura Tempest Federation. I've got to put the country's interests first.
+100	...
+101	I dunno what kind of answer you were expecting from me here, but that's it. That's what I did.	VO_benimaru.benimaru_sys_0001
+102	No, it's fine. It's a good answer.
+103	Freeing yourselves from the shackles of the past and living for the future alone. That's...an incredibly strong way to live. It allows you to wield your sword without anything clouding your judgment.	VO_kureto.kureto_sys_0007
+104	(Hey, Great Sage. Do you know why we're dealing with another Orc Lord?)	VO_riml.riml_sys_0001
+105	Answer: There is a possibility that the current orc army was brought to this world from a different point on the timeline.	VO_daikenja.daikenja_sys_0015
+106	(So from the past then? How is that even possible?)
+107	(But it would explain a few things. So I can't rule it out.)	VO_riml.riml_sys_0031
+108	(There's also a chance that the Orc Lord of this world isn't the same one I ate.)
+109	(Great Sage, can you tell if it's a different one?)
+110	Answer: It should be possible to analyze this matter once we are close enough to the Orc Lord.	VO_daikenja.daikenja_sys_0009
+111	(I see... I guess we'll find out whether or not it's the old Geld then.)
+112	Lost in thought?	VO_albell.albell_sys_0002
+113	Albea!
+114	I was surprised that you're a rather important personage, leading so many monsters by yourself.
+115	Heh, I guess. I do lead the Jura Tempest Federation.	VO_riml.riml_sys_0007
+116	The orcs are among my subjects, too.
+117	That's why I've got to take responsibility if there really are orcs rampaging around this world.	VO_riml.riml_sys_0031
+118	I can't afford to ignore this matter.
+119	...
+120	What is it? Something on my face?	VO_riml.riml_sys_0001
+121	No, there isn't. Honestly, I'm not even sure where your face starts or ends.
+122	You just reminded me of someone.	VO_albell.albell_sys_0031
+123	Huh? Of who?
+124	Someone who also had a strong sense of responsibility, who tried to shoulder all burdens by themselves. A very reckless person.	VO_albell.albell_sys_0007
+125	That person knew I was alone as well.
+126	Huh?
+127	Rimuru. We're under attack.	VO_benimaru.benimaru_chara_1007
+128	Ah!
+129	Wh-what's wrong?	VO_albell.albell_sys_0025
+130	We're under attack! Let's move!	VO_riml.riml_sys_0042
+131	Benimaru, Creto!
+132	Careful, Rimuru! These guys look riled up.	VO_benimaru.benimaru_battle_0019
+133	I can tell. What made them come all the way out here?	VO_riml.riml_sys_0031
+134	Answer: The orc army chased them out of their forest.	VO_daikenja.daikenja_sys_0015
+135	(I see... Maybe we can still negotiate with them then.)
+136	Grrraaaaaarrrrrgghhh!	VO_Mlizardman.Mlizardman_battle_0028_a
+137	...Never mind.	VO_riml.riml_sys_0030

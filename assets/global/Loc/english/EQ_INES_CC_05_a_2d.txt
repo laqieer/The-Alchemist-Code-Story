@@ -1,0 +1,73 @@
+﻿001	So Nasario is somewhere in here?	VO_ines.ines_sys_0001
+002	It seems so. The ones who abducted him are no doubt extremists plotting to sabotage our relationship with the high elves.	VO_craris.craris_sys_0005
+003	I've done considerable research on them and identified their hideout, but this is the first opportunity I've had to properly infiltrate it.
+004	Look, Claris! A feather!	VO_ines.ines_sys_0012
+005	That is undeniably one of the plumes from his clothing. This confirms what the spirits told me. We must hurry!
+006	Ugh, it's so dark...	VO_ines.ines_sys_0016
+007	As is to expected, unfortunately, given that we're inside a cave. Will you be all right in here, Ines?
+008	Y-Yes. I'll be fine.	VO_ines.ines_sys_0005
+009	(I can handle this. Because right now, Nasario must be having a much harder time than I am...)
+010	(I have to stay strong!)
+011	Stop dilly-dallying! Grab her already, and stuff her in the carriage!	VO_thiefm.thiefm_sys_0002
+012	!!!
+013	Heh. She'll fetch a fine price. The high elves really are as beautiful as they say.	VO_thiefm.thiefm_sys_0044
+014	Don't leave any marks. It's rare to get your hands on one without 'em. Any cut on her skin is gonna be a cut in our profits.
+015	Her face looks like a little kid's, but I betcha she's been alive for hundreds o' years. Elves are basically monsters, when you get right down to it!	VO_thiefm.thiefm_sys_0010
+016	Ines?
+017	S-sorry. I...	VO_ines.ines_battle_0019
+018	......
+019	Here. Watch this. Hah!	VO_craris.craris_sys_0001
+020	Whoa...
+021	You can see ahead now, right? And you can also see your own two feet, so you won't trip and fall.	VO_craris.craris_sys_0002
+022	Now that you know what's out there, there's no need to be afraid.
+023	Claris...
+024	You're right. I'm not scared anymore. Let's go!	VO_ines.ines_sys_0005
+025	Oi! How are we gonna lure the representative here?
+026	Security around her is so tight, we can't get anywhere near her!
+027	Tch! And after gettin' ourselves some prime high elf bait, too.	VO_thiefm.thiefm_sys_0017
+028	Fools. Our representative would never come to such a treacherous place.	VO_nazario.nazario_sys_0010
+029	I'm sorry to say your little scheme has failed. You couldn't even capture me without resorting to underhanded tactics.
+031	Relying upon incantation gear! Honestly. The divide between our abilities and yours is wide as a chasm. I pity your kind and their small-minded ways.	VO_nazario.nazario_sys_0022
+033	You wanna say that to my face? Huh?!
+034	I'd prefer not. It's best to keep your distance, as the sound of your shrill human screeching hurts my ears enough even from afar.
+035	Heh. I wonder how much longer you can keep up that tough-guy act.	VO_thiefm.thiefm_sys_0029
+036	Don't you dare lay your dirty hands upon me!	VO_nazario.nazario_sys_0016
+037	We were plannin' to kill your representative so the festival falls apart, but you know what? Maybe you'll do just fine after all!	VO_thiefm.thiefm_sys_0031
+063	......
+038	This incantation gear renders your high-and-mighty elf powers useless. We finally perfected it, after testin' it on lots o' elves from lots o' places!	VO_thiefm.thiefm_sys_0007
+039	How sad. All because you're so afraid of what we can do.
+064	Oi! Say that again! I dare ya!	VO_thiefm.thiefm_sys_0016
+065	Such typical human bluster...	VO_nazario.nazario_sys_0030
+066	Big talk from you, too, for someone restrained by our incantation gear!	VO_thiefm.thiefm_sys_0002
+040	Stop!!!
+041	Nasario! Are you all right?!
+042	Ines?! Why are you here? Why did you come here?!	VO_nazario.nazario_sys_0025
+043	Claris! Why would you bring Ines to a place like this?!
+044	It's not her fault. I came of my own accord.
+045	It's because of me that you're in this position. I couldn't just sit by and do nothing!	VO_ines.ines_sys_0012
+046	But you must! It's imperative you not fight with the humans!
+047	Hahaha! Looks like we'll be able to wreck this festival after all!	VO_thiefm.thiefm_sys_0023
+048	Will you, now? You really think you can get away with this?	VO_craris.craris_sys_0030
+049	What, you think you can stop us?!
+050	W-we got trouble, boss! Knights from Northern Pride are headed this way!
+051	What?!	VO_thiefm.thiefm_sys_0025
+052	Before coming here, I used my family name to request their aid.	VO_craris.craris_sys_0005
+053	I've prepared very carefully for this festival. And in doing so, I've come to know a great many things.
+054	I know there are people like you out there, for instance. And that my power alone is not enough to help Ines and her companions in their time of need.	VO_craris.craris_sys_0003
+055	But because of that knowledge, I can plan my next move accordingly.
+056	Hrgh... Curse you!	VO_thiefm.thiefm_battle_0013
+057	Haaaaaah!
+058	Aaaaaargghhhh!	VO_thiefm.thiefm_battle_0025
+067	This light...!	VO_nazario.nazario_sys_0025
+068	(The spirits aren't dispersing at all, but rather blessing Ines and Claris alike!)
+059	Nasario! Are you all right?!
+060	There's no need for concern. The waves from your spell merely grazed me.	VO_nazario.nazario_sys_0006
+069	Do be on your guard, though. That man's incantation gear seals high elf magic.
+070	Oh! So that's how you were captured!
+061	We been preparin' lots of other things, too, so we can fight you monsters off real efficient-like!	VO_thiefm.thiefm_sys_0010
+071	Monsters? Us?!
+062	You lot live in the same body for hundreds o' years, barely agin' a day in a decade! That ain't natural. It ain't right!	VO_thiefm.thiefm_sys_0006
+072	We're oil and water, so stop tryin' to pretend we can get along! There's no point makin' friends with freaks. We'll kill every last one o' ya!
+073	The spirit's blessing is not leaving us. It seems my fear was misplaced.	VO_nazario.nazario_sys_0031
+074	I believe it's because you are enemies of humans and high elves alike. So there is no longer any need to hold back my power.
+075	Allow me to show you the true strength of the "monsters" that you fear so much!	VO_nazario.nazario_sys_0010

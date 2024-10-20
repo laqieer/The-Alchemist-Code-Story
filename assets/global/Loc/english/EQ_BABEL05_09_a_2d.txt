@@ -1,0 +1,99 @@
+﻿001	It's cold, so I started pulling on my overcoat.
+002	I rid myself of the vestments of the Court Mage so that I might protect this country...all alone.
+003	I knew so little of the world, and was enticed by it.
+004	Magic interferes with the Alchemia in nature, materializing as the conjurer desires. It is an art which adheres to the guidance of the natural world.
+005	To learn magic is to learn about nature itself. In other words, it teaches one the ways of the world.
+006	I will learn all that there is to know.
+007	The more I learn, the more distinctly my desires take shape.
+008	They are sweet and profound, just like the tea cakes I so adore.
+009	Yet, I didn't know that it is only we humans who have to balance our interference and the consequences that follow for things to go well.
+010	Hey, what are you doing there? Is this a new game? I'm pretty sure you'll freeze to death.	VO_rofia.rofia_sys_0002
+011	Oh, um, no. I'm, well...
+012	Heheh. I-I guess you can say I sort of collapsed here.
+013	Collapsere? Is that some kind of new art? Are you a street performer?	VO_rofia.rofia_sys_0006
+014	Umm...
+015	Ahahah. I wonder if I'm hallucinating things. Something smells sweet.	VO_milis.milis_sys_0011
+016	Are you talking about this?
+017	What's that?
+018	It's a chiffon cake from the sweets shop across the street.
+019	Cake? Is that food?
+020	Don't you know what cake is?	VO_rofia.rofia_sys_0025
+021	Huh? No...
+022	That's no good. You're missing out on life. Try eating some.	VO_rofia.rofia_sys_0015
+023	Are you giving it to me?
+024	Everyone should have the opportunity to enrich their lives.
+025	Th-thank you? Wow. It's so fluffy!
+026	...
+027	This is so delicious! I've never eaten anything like it before!	VO_milis.milis_sys_0026
+028	Our first meeting.
+029	Like me, Milis, the girl from the plains, also understood nature.
+030	Perhaps that's why I felt so much warmth; so much kindness from her.
+031	I'll come again to this city!	VO_milis.milis_sys_0041
+032	When I do, let's eat sweets together again, okay? Next time I'll tell you all about my homeland!
+033	Oh, that's right! You also need to teach me to become a gentlewoman like you, Lofy.
+034	There's so much we've gotta do together!	VO_milis.milis_sys_0007
+035	I will never see her again.
+036	She was the last friend I ever made.
+037	...
+038	Those sweet memories of mine... Of the country with so many cakes and confections...
+039	I wanted to hold on to them, no matter what.
+040	Yet, it seems that in the end, I am destined to lose them.
+041	...
+042	I'm...crying.
+043	I'm...
+044	Am I still...alive?
+045	Don't come any closer!	VO_lavina.lavina_chara_1001
+046	Is that...Ravina?
+047	It is good to see that you are all right.
+048	Good?! Exactly what part of this is good?!
+049	Does she look all right to you?! You... It's your fault that Lofia—!
+050	Ravina... Please. That's enough.	VO_michael.michael_sys_0004
+051	I can't believe you, Michael! How could you let someone like her into the manor?!	VO_lavina.lavina_sys_0016
+052	She very kindly carried Lady Lofia—who is in critical condition—all the way up here.	VO_michael.michael_sys_0031
+053	It was the Holy Guard who attacked her in the first place!
+054	I am not a member of the Holy Guard.
+055	You're associated with the Holy Order, aren't you?!
+056	I am an inquisitor of the Holy Order of Babel.
+057	It is my duty to judge those who misuse Alchemy, and that includes members of the Holy Guard.
+058	Well, you didn't stop them, did you?! You haven't done anything at all!
+059	I offer you my sincerest apologies on behalf of the Holy Order.	VO_cheryl.cheryl_sys_0036
+060	A Paladin of the Holy Guard attacked a Court Mage and used Alchemy without permission.
+061	I cannot overlook this.
+062	As such, I have sent him back under stringent guard, that the Inquisition may take the appropriate measures to deal with him.
+063	Why was Lofia attacked, then?!
+064	That matter...is currently under investigation.
+065	You killed Lofia! It was all you lot! You're all to blame!
+066	Please, at least listen to what I—!	VO_cheryl.cheryl_sys_0026
+067	Don't come any closer!	VO_lavina.lavina_chara_1001
+068	R-Ravina, you need to calm down! You mustn't—!	VO_michael.michael_sys_0015
+069	Th-this is...magic!	VO_cheryl.cheryl_sys_0025
+070	Lofia was always so kind to me!	VO_lavina.lavina_sys_0018
+071	She's been protecting this country, but you...! You...!
+072	You want to see uncontrolled power? Then watch! It's meaningless! This kind of power is meaningless!
+073	It's unforgivable!	VO_lavina.lavina_battle_0010
+074	M-Michael! She's...!
+075	The vast stores of magic contained within her are overheating!
+076	O-overheating?!	VO_cheryl.cheryl_sys_0025
+077	Ravina...	VO_rofia.rofia_sys_0042
+078	L-Lofia?!
+079	It's all right, I'm fine, so please... Please calm down.
+080	Unnghh... L-Lofia, I'm so sorry! I... I thought... I...!	VO_lavina.lavina_sys_0043
+081	Are her powers are out of control?!	VO_rofia.rofia_sys_0025
+082	After your initial help, Lady Lofia, Ravina and myself have continued the treatment...
+083	Yet Ravina is not yet capable of controlling her powers alone!
+084	Her emotions, too, are running wild!
+085	She's...!	VO_cheryl.cheryl_sys_0016
+086	Ravina!
+087	I'm sorry! I'm so sorry! I-I'm just c-causing you trouble again!	VO_lavina.lavina_sys_0018
+088	I'm going to make it all stop now.	VO_rofia.rofia_sys_0043
+089	L-Lofia...!
+090	I'm a Court Mage. It is my duty to protect the country. You needn't worry about me.	VO_rofia.rofia_sys_0038
+091	Well, this isn't the first time that this has happened.	VO_michael.michael_sys_0007
+092	M-Michael...!	VO_lavina.lavina_sys_0019
+093	Will you lend me a hand?
+094	...
+095	As recompense for killing me?
+096	...
+097	I will not penalize you for that nonsensical statement.	VO_cheryl.cheryl_chara_1007
+098	However, none of this is ideal.	VO_cheryl.cheryl_sys_0012
+099	Alchemy, magic... It's all the same!

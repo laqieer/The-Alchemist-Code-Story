@@ -1,0 +1,87 @@
+﻿001	When it comes to absolute power, mental strength has nothing to do with it. I'll teach you that now.	VO_basini.basini_sys_0007
+002	Sounds good! Come on then; attack!	VO_victor.victor_sys_0010
+003	...! No...actually, I'll stop here.	VO_basini.basini_chara_1011
+004	Huh?! You coward...what are you playing at?!	VO_victor.victor_sys_0012
+005	Basheeny!
+006	Hey, what are you doing, Basheeny?! Why do you have your sword drawn?!	VO_kanon_3s_cano.kanon_chara_1004
+007	No...it's nothing. More importantly, I'm glad you're safe.	VO_basini.basini_sys_0047
+008	...? Who's that?	VO_victor.victor_sys_0006
+009	Who? That's Commander Kanon, Lord Commander of the Holy Guard.	VO_basini.basini_sys_0030
+010	Huh? Y-y-you're Commander Kanon?! Ah, um...my apologies!!!	VO_victor.victor_sys_0028
+011	Ah...um...who are you?	VO_kanon_3s_cano.kanon_chara_1006
+012	Victor...?! What are you doing? Why are you here?!	VO_chloe.chloe_sys_0025
+013	Commander Chloe...!
+014	Chloe...do you know him?
+015	He's Victor...a novice that just joined my Guard. What are you doing here?	VO_chloe.chloe_sys_0031
+016	I was worried about you, Commander Chloe, so I asked Captain Vettel to allow me to come here and help you! This is my memorable first mission!	VO_victor.victor_sys_0004
+017	Hahah... If you're croaking with fear on a rescue mission then you won't be much of a help.	VO_basini.basini_sys_0007
+018	What did you say, you scoundrel?! Commander Kanon! Who is this guy?!	VO_victor.victor_sys_0013
+019	Oh...that's Basheeny. He's a trainee of the Holy Guard.	VO_kanon_3s_cano.kanon_chara_1006
+020	A trainee...?!	VO_victor.victor_sys_0025
+021	Yes. But his skill...far out-performs those of the average knight.	VO_kanon_3s_cano.kanon_sys_0004
+022	His actual results in battle, in fact, far surpass the achievements of numerous senior knights as well.
+023	That's why I hired him. He now serves as my bodyguard.
+024	Bodyguard...?! No, please, hold on a second!	VO_victor.victor_sys_0026
+025	Commander Kanon, this guy is dangerous! He said that he was out to assassinate you!
+026	Assassinate...? What are you talking about?	VO_caida.caida_sys_1025
+027	Exactly what I said! He told me himself that he's an assassin...didn't you?!	VO_victor.victor_chara_1002
+028	Yes, I did. If she can't maintain that level of awareness, there's no way I can protect her.	VO_basini.basini_sys_0005
+029	About that...Basheeny is always telling me to be more cautious.	VO_kanon_3s_cano.kanon_sys_0030
+030	Huh...?! No, but...that's not how he said it...	VO_victor.victor_sys_0025
+031	Basheeny...are you using the power of darkness?	VO_caida.caida_sys_0012
+032	Huh?	VO_basini.basini_sys_0006
+033	Just a moment ago, I sensed a dark presence around here. Was that you?	VO_caida.caida_sys_0030
+034	No... What do you mean by power of darkness?	VO_basini.basini_chara_1011
+035	Is that the weird power I felt back there?	VO_victor.victor_sys_0003
+036	...Stop talking about things you don't understand.	VO_basini.basini_sys_0012
+037	Doesn't blaming someone else for your failures in battle go against your code of chivalry?	VO_basini.basini_sys_0017
+038	Agh...! Bu-but...	VO_victor.victor_battle_0019
+039	No matter how skillful he is, he's still just a trainee! There's no way he can use the power of darkness!	VO_kanon_3s_cano.kanon_chara_1004
+040	...Are you sure?	VO_caida.caida_sys_0030
+041	I am. After all, I've never felt the power of darkness coming from him when we've been together.	VO_kanon_3s_cano.kanon_sys_0004
+042	I know he's easy to misunderstand because of his personality, but, ultimately, he's an honest kid.
+043	Honest?! What about him is...owww!	VO_victor.victor_sys_0012
+044	Enough! Sorry, Kanon...we'll be fine here.	VO_chloe.chloe_sys_0015
+045	Huh...? Fine here...?	VO_victor.victor_sys_0025
+046	Chloe was injured in the fight against Spica.	VO_monzein.monzein_sys_0004
+047	Get her down the mountain and take her to a doctor.
+048	Injured?! Are you okay, Commander Chloe?! Why...why did you befriend her when she's the enemy?!	VO_victor.victor_sys_0026
+049	She's not the enemy anymore. Thanks to her help, we were able to prevent this volcano from erupting.	VO_chloe.chloe_sys_0030
+050	Without her, I am certain that this surrounding area would have suffered from tremendous devastation.
+051	But...	VO_victor.victor_chara_1002
+052	Stop prattling on. Once the fight is over, we are all knights. There are no enemies or allies.	VO_monzein.monzein_sys_0013
+053	If you're going to call yourself a knight then learn to have a heart to help one another.
+054	...! Commander Chloe, is this...?	VO_victor.victor_sys_0006
+055	This is Captain Monzein from the Holy Guard.
+056	Ca-Ca-Captain Monzein the Great Thunder Axe?! Se-seriously?! No way! It's an honor!!!	VO_victor.victor_chara_1011
+057	...You know about me?	VO_monzein.monzein_sys_0026
+058	Of course! Captain, your code of chivalry is the very embodiment of the spirit of knighthood!	VO_victor.victor_sys_0004
+059	Just the other day, I told someone off for calling you a "foolish boar"!
+060	...You didn't have to tell him that.	VO_monzein.monzein_battle_0019
+061	...I'm sorry.	VO_chloe.chloe_sys_0036
+062	Huh? Hold on. Does that mean...?!	VO_victor.victor_sys_0025
+063	Enough unnecessary talk. Let's summarize what we just discussed. We're being highly inefficient.	VO_caida.caida_battle_0010
+064	Inefficient! I know who you are! Um...you're Seida, right?	VO_victor.victor_sys_0024
+065	Huh...? Ye-yes, but...	VO_caida.caida_sys_1025
+066	My mother is from Saga! I didn't think I would meet a hero that represents Saga here. It's a real honor to meet you!	VO_victor.victor_sys_0009
+067	Th-thanks...	VO_caida.caida_battle_0016
+068	...I'm sorry, Seida. Come on, let's go!	VO_chloe.chloe_sys_0035
+069	Ye-yes! Oh, but...um...	VO_victor.victor_sys_0037
+070	...Is there something else?	VO_basini.basini_sys_0030
+071	You...are you really Commander Kanon's bodyguard?	VO_victor.victor_sys_0003
+072	I already told you I was, didn't I? Don't croak on your way back home...little frog.	VO_basini.basini_chara_1010
+073	You scoundrel...!	VO_victor.victor_sys_0016
+074	Basheeny! I'm sorry. He's not a bad guy.
+075	Don't worry about it. If he tries to do something, we're here to protect you, Kanon.	VO_caida.caida_battle_0012
+076	Hey, Seida!	VO_kanon_3s_cano.kanon_chara_1004
+077	... ...
+078	Well, as long as Seida is there...you won't try anything stupid, will you?	VO_victor.victor_sys_0031
+079	Seriously. Enough! I'm sorry, Kanon. Take care on the road.	VO_chloe.chloe_sys_0015
+080	Yes, you too, Chloe!	VO_kanon_3s_cano.kanon_sys_0004
+081	Seriously...I don't wanna have to say this, but try to put a little more effort into getting along with people.	VO_kanon_3s_cano.kanon_sys_0030
+082	...My apologies.	VO_basini.basini_sys_0035
+083	More importantly, what are you doing here? You're supposed to be waiting at headquarters, right?	VO_kanon_3s_cano.kanon_sys_0001
+084	I was sent to deliver you an urgent message, Commander Kanon.
+085	A message? Did something happen?	VO_monzein.monzein_sys_0027
+086	We received word that Captain Kudanstein was sighted. It appears he's headed this way.
+087	Captain Kudan is headed this way?!	VO_kanon_3s_cano.kanon_sys_0021

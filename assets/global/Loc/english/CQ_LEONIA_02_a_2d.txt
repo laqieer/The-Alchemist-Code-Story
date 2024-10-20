@@ -1,0 +1,36 @@
+﻿001	Haa... It's over. Are you hurt, Luce?	VO_leonear.leonear_sys_0030
+002	Not at all.	VO_lucretia.lucretia_sys_0010
+003	Luce... I know you must've heard about the gang of thieves who have been causing mayhem 'round here, even before I told you about them.	VO_leonear.leonear_sys_0012
+004	It's incredibly dangerous for someone in your position to go walking alone outside the castle. You really need to stop—
+005	Huh? How did you...? Where did that rabbit come from?	VO_leonear.leonear_sys_0025
+006	A wild hare was hopping by, so I caught it. You have to be quick with these things.	VO_lucretia.lucretia_sys_0004
+007	You must have frightened it off when you were fighting those monsters, because it came right up to me.
+008	Perfect timing, wouldn't you say?	VO_lucretia.lucretia_sys_0007
+009	Well, not so much for the rabbit.	VO_leonear.leonear_sys_0029
+010	Anyway, as I was saying... You can't keep going off on your own like that. Okay?
+011	I will do my best to appease you.	VO_lucretia.lucretia_sys_0004
+012	A-appease me...? Look, just let me come with you when you leave the castle grounds from now on. Pretty please?	VO_leonear.leonear_sys_0025
+013	All right, all right. I understand.	VO_lucretia.lucretia_event_1014
+014	Come, then. I'm going to go and purchase the rest of what I need to make this dish. I expect you'll be wanting to accompany me.	VO_lucretia.lucretia_sys_0002
+015	I'll need salt and spiced herbs for roasting... Perhaps some wine for the marinade? The chef was saying that beer makes a good sauce, as well.
+016	All that matters is that I make sure Leoniaz enjoys this dish.	VO_lucretia.lucretia_sys_0007
+017	Hey, Luce?
+018	What is it?	VO_lucretia.lucretia_sys_0006
+019	You can lay down your sword anytime, you know. There are countless people in this country who would gladly pick it up in your stead.	VO_leonear.leonear_sys_0016
+020	Don't you think that your bridal training would go more smoothly if you dedicated the time you spend on swordplay to other things?
+021	Why are you so insistent that I relegate my sword to a display case? Why should I not pursue both sets of skills?	VO_lucretia.lucretia_sys_0030
+022	Well, because I—
+023	What's this?! A gang of thieves has invaded the city?!	VO_leonear.leonear_sys_0025
+024	What?!	VO_lucretia.lucretia_battle_0020
+025	Luce, get back to the castle!	VO_leonear.leonear_sys_0012
+026	No. I will go with you.	VO_lucretia.lucretia_chara_1003
+027	How many times have we been through this?! You can't!	VO_leonear.leonear_sys_0015
+028	I believe I have also made myself clear on this matter. I will not lay down my sword!	VO_lucretia.lucretia_sys_0012
+029	Please, Luce. Do you know how important you are to this country? If something were to happen to you, it would break the hearts of countless citizens...	VO_leonear.leonear_sys_0020
+030	Including mine.
+031	Don't you see? That is all the more reason for me to fight.	VO_lucretia.lucretia_sys_0004
+032	I am the queen of Envylia. It is only natural that I should be the one to protect it.
+033	Luce, you...!
+034	You don't need to fight! You have others to fight for you... You have me!	VO_leonear.leonear_sys_0021
+035	Thieves, open your ears and heed my words! I, Queen Lucretia of Envylia, will henceforth personally punish you for your crimes against my people!	VO_lucretia.lucretia_battle_0010
+036	Sh-she ignored me!	VO_leonear.leonear_sys_0026

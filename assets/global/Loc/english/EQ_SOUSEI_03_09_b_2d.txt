@@ -1,0 +1,68 @@
+﻿001	Huh?! Wh-what's going on?!	VO_mela.mela_battle_0022
+002	Emmel! Mira! Are you alright?	VO_nimuru.nimuru_sys_0001
+003	Huh? Brother? With Nyx and the others, too...	VO_mela.mela_sys_0006
+004	That's good you seem to be unharmed...but where's Emmel?	VO_nix.nix_sys_0009
+005	She was taken off somewhere by that Icona person...
+006	So we're too late...	VO_kuienai.kuienai_battle_0019
+007	Tch...!	VO_nimuru.nimuru_battle_0022
+008	But how do you plan to escape from here?
+009	Magil is inhibited within this facility, so if we can't even use magic well—	VO_mela.mela_sys_0030
+010	Taking out all of the Engineer Soldiers on the premises with only Nimul's special technique is preposterous, right?
+011	I have an idea. 	VO_adlai.adlai_sys_0002
+012	An idea...?	VO_mela.mela_sys_0006
+013	Speaking of which, you were picking up parts from that destroyed security device a minute ago, huh?	VO_kuienai.kuienai_sys_0004
+014	You remember how I mentioned that I was the one who developed the Engineer Soldiers?	VO_adlai.adlai_sys_0004
+015	In other words, I was entrusted with the fudamental design of most the autonomous machines here in this floating city.  
+016	So I'm very knowledgable about the control center for them. So now, if we just do this—
+017	NEW ORDERS ACCEPTED. 
+018	Nice!	VO_adlai.adlai_battle_1018
+019	...So you overwrote the thoughts of this Engineer Soldier and made it change sides?	VO_kuienai.kuienai_sys_0044
+020	Yep! I do sort of get the feeling that I've got one foot outside the bounds of the law though...	VO_adlai.adlai_sys_0004
+021	With this, the battles within this facility should be a little easier.
+022	...Still, we're in trouble. If what Mira said is true, it's possible that Emmel isn't even here anymore. 	VO_nix.nix_sys_0030
+023	If that's true, then what should we do? Staying here won't help our odds.	VO_kuienai.kuienai_sys_0031
+024	...For now, all we can do is temporarily drop out of sight. From there, we'll have to track down Emmel somehow. 	VO_nimuru.nimuru_sys_0022
+025	But are you suggesting we hide here? We're totally isolated and helpless right now. And our airship is surely under the enemy's control. 	VO_waginao-c.waginao-c_sys_0031
+026	Hold on, let's think about this.	VO_nimuru.nimuru_sys_0014
+027	...So we need someone who would take us in even knowing the danger it poses... If only we had some means of contacting Minario—	VO_nimuru.nimuru_sys_0031
+028	Ah...! We've stayed in one place too long! Nimul, how can we escape from h—
+029	You seem to be in a pickle, my friends.	VO_minario.minario_sys_0001
+030	Minario...?! Why are you here?	VO_adlai.adlai_sys_0025
+031	What do you mean why? I came to help you guys, of course. 	VO_minario.minario_sys_0030
+032	I had gone to all the trouble of pulling strings with a connection in the Special Detectives hoping to quietly extract you all from here, but... I guess what you've done works too...	VO_minario.minario_sys_0017
+033	Yeah... Sorry about that. 	VO_nimuru.nimuru_sys_0035
+034	Nah, don't sweat it. It's my fault for being slow to mobilize. 	VO_minario.minario_sys_0039
+035	Well, no use regretting anything now!
+036	Everyone, stay quiet and follow me. I'll take us to a hideout I have for times like this!	VO_minario.minario_sys_0001
+037	Nimul...
+038	Seems we have no choice but to take him up on this favor. Let's go, everyone!	VO_nimuru.nimuru_sys_0004
+039	Hmm, I see... By regulating your lineage, it's been possible to expand the maximum amount of magil you can handle...	VO_icona.icona_sys_0045
+040	Applying selective breeding to humans... Hah, even in this region we haven't stooped to that yet.
+041	...What do you plan to do with me?	VO_emmer.emmer_sys_0001
+042	Hmm? No plans, really. I also have no intention of subjecting you to anything painful, so please relax.	VO_icona.icona_sys_0006
+043	All I want is to conduct research. On you all, the Sephira people, of course.	VO_icona.icona_sys_0007
+044	In an era far back in the past, your people were able to contain the Cursed Beast with the aid of Dragon's Blood.
+045	Your reign was basically, perfection.
+046	Sins were contained. Corruption was erradicated. It can easily be stated that this was the most prosperous land in the region.	VO_icona.icona_sys_0031
+047	Our...region?	VO_emmer.emmer_sys_0025
+048	It seems you never realized the utopian state you'd been living in. It's time to wake up.	VO_icona.icona_sys_0027
+049	But I don't blame you. You'd never seen or known about the rest of the world.	VO_icona.icona_sys_0025
+050	By only seeing one side of the fence, you never had anything to compare it to. And so everyday life continued as normal for you.
+051	It's a little like me and the people of the Acedia Belt conducting our research and living in our own bubbles for a long time.	VO_icona.icona_sys_0007
+052	What are you trying to say?	VO_emmer.emmer_sys_0003
+053	It's simple. You've finally left your nest.
+054	And now it's time to make your decision.
+055	A decision...?	VO_emmer.emmer_sys_0006
+056	Basically, are you willing to team up with me, Emmel?	VO_icona.icona_sys_0001
+057	Your abilities are crucial to achieving my goals, and together we can bring peace back to this region.	VO_icona.icona_sys_0003
+058	I... I...	VO_emmer.emmer_battle_0019
+059	...can't?	VO_icona.icona_sys_0006
+060	The Cursed Beast is not to be controlled by human hands.	VO_emmer.emmer_sys_0004
+061	To do such a thing... To have a mortal to do a godlike deed... It's inconceivable.
+062	I figured.	VO_icona.icona_sys_0004
+063	But people are naturally bound to make mistakes. There are crossroads to face and even the wisest person in the world is going to trip and fall some time in their life.
+064	That's right. The people of Sephira chose to live this way by not involving ourselves in sinful conflict.
+065	So you're saying it's fine that people should be controlled by something more powerful than man? Is that right?	VO_icona.icona_sys_0038
+066	Huh?	VO_emmer.emmer_sys_0025
+067	I'll let you in on a little secret, Emmel.	VO_icona.icona_sys_0031
+068	You see, this clock tower...is alive!	VO_icona.icona_sys_0007

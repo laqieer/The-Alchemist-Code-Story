@@ -1,0 +1,32 @@
+﻿001	General Leordas is on the far end of the village, taking in any survivors that manage to escape!	VO_theona.theona_sys_0002
+002	Both of you should head that way!
+003	Leave this place to the Liberation Army for now! You should fall back and reorganize your forces!
+004	Understood! Isidore, can you move?	VO_kamui-b.kamui-b_sys_0038
+005	Aah...
+006	They got the jump on us here. Cursed Ceclidis! He must have had his eye on this village from the beginning.	VO_leordas.leordas_sys_0020
+007	This must be the hidden village of the Sephira, the elusive tribe that protects the great tree.	VO_stknightm.stknightm_sys_0031
+008	I estimate the enemy has five times our numbers. In addition, the village's defenses have been nullified, and there are likely still reinforcements due to arrive from the royal capital.
+009	This battle may mean certain death.	VO_stknightm.stknightm_sys_0001
+010	It does not matter. The Liberation Army cannot forsake any of those who live in the South!	VO_leordas.leordas_sys_0030
+011	We must first find and rescue any survivors. If the enemy takes any hostage, we will lose any advantage we might have.	VO_stknightm.stknightm_sys_0037
+012	Tell me, are you willing to follow me even in the face of certain death?	VO_leordas.leordas_sys_0001
+013	Lord Waginau has commanded us to see this fight through to the end. Besides, the slaughter of innocent people is unconscionable.	VO_stknightm.stknightm_sys_0030
+014	This battlefield is heartless, merciless, and, above all, lacks justice. It is our duty to remedy that situation.
+015	Very well.	VO_leordas.leordas_sys_0004
+016	Warriors of the Liberation Army!	VO_leordas.leordas_sys_0002
+017	Behold! This is the barbarism of the Royal Army! This is Ceclidis' answer to the cries of our people!
+018	The nobles of the North no longer consider us to be people! They will seize, destroy, and exploit all that we have built!
+019	It is clear what we must do! It is clear who we must protect!
+020	You all know what must be done! Now, warriors! Take up your swords for the sake of our compatriots, and for justice!
+021	Forward!!!	VO_leordas.leordas_battle_0030
+022	Huzzah!!!
+023	This roar... Is that the Liberation Army assaulting the Royal Army?	VO_kamui-b.kamui-b_sys_0027
+024	We should hurry and meet up with the other villagers.
+025	Urgh...	VO_ishido.ishido_sys_0018
+026	Isidore! Are you all right? Here, show me your wounds.	VO_kamui-b.kamui-b_sys_0002
+027	I'm fine. I don't hear the voice in my head anymore.	VO_ishido.ishido_chara_1007
+028	Voice? The voice of Sephiron?	VO_kamui-b.kamui-b_sys_0031
+029	Yes, but not the Sephiron we grew up with, filled with warmth and light.	VO_ishido.ishido_sys_0022
+030	It was more like a resounding echo in a hollow place, beckoning me to sink deeper and deeper into the abyss. It is...horrible.
+031	Enough. Do not force yourself to speak. Let's just make our way to the Royal Army. Everybody should be there.	VO_kamui-b.kamui-b_sys_0002
+032	Yes, you're right.	VO_ishido.ishido_sys_0004

@@ -1,0 +1,55 @@
+﻿001	It's that time of the year again! Valentine's! I wonder what kind of chocolate I should make this year?	VO_eve.eve_sys_0023
+002	I'm really hoping we'll get some cacao seeds this year, too!	VO_porin.porin_sys_0007
+003	Suzuka, Itsuki, have either of you had chocolate before?	VO_porin.porin_sys_1002
+004	Chocolate? I can't say that I have.	VO_itsuki.itsuki_sys_0031
+005	Nor have I, but... What do you need me to do? I thought we were here to be security for the cacao farm.	VO_suzuka.suzuka_sys_0004
+006	Yeah! Don't worry about it! We'll get work done, too.	VO_eve.eve_sys_0004
+007	Yeah, we can just think about it when the time comes. Right?	VO_emma.emma_sys_0007
+008	That's a very negligent way of thinking.	VO_noah.noah_sys_0030
+009	But I suppose Emma is right. There's nothing for us to do unless something occurs, anyway.
+010	Yup! Besides, the Rainbow Cacao, and the Purple Cacao that attracts monsters, have all been stored in the new warehouse.	VO_albell.albell_sys_0037
+011	New warehouse?	VO_suzuka.suzuka_sys_0025
+012	It's a specialized warehouse that seals in the cacao's special qualities. So long as we keep the cacao in the warehouse, everything will be fine!	VO_albell.albell_sys_0005
+013	Come to think of it, we haven't yet separated the harvested cacao by color like we said we would.	VO_noah.noah_chara_1001
+014	Do we really have to? We probably shouldn't be messing with it.	VO_emma.emma_chara_1013
+015	Yeah! Maybe we can have a simple Valentine's this year, and just trade chocolates around.	VO_raaf.raaf_sys_0007
+016	Why not? That should be fine!	VO_porin.porin_sys_0045
+017	The farm owner said something about cacao thieves showing up lately, but so long as we keep an eye out, we should be all right!	VO_eve.eve_sys_0004
+018	We could have used that information a lot earlier.	VO_noah.noah_sys_0026
+019	You worry too much, Noah. More importantly, check this out! I've brought us some chocolate.	VO_emma.emma_chara_1011
+020	Tadaah!	VO_emma.emma_sys_0023
+021	Whoaaa!
+022	You make the cutest chocolates, Emma! Can I have one, please?	VO_eve.eve_sys_0024
+023	So this is...chocolate!	VO_suzuka.suzuka_sys_0047
+024	How do you like it?	VO_emma.emma_sys_0002
+025	It's amazing! You made this?! You must be a culinary genius!	VO_suzuka.suzuka_sys_0025
+026	Oh, come on. It's not that hard to make.	VO_emma.emma_sys_0008
+027	We can make some together later!	VO_porin.porin_sys_0007
+028	You think that even I could create this delicacy? Well, then let us complete this mission, and get to it!	VO_suzuka.suzuka_battle_0025
+029	Ooh, things are getting interesting! What kind of chocolate should we make?
+030	What kind? I'm not even sure what kinds there are.	VO_suzuka.suzuka_sys_0031
+031	What about you, Itsuki? Any ideas or preferences as to what you might like to do?	VO_noah.noah_sys_0002
+032	Hmm... Preferences...? I suppose I have a lot of preferences.	VO_itsuki.itsuki_sys_0031
+033	Urgh!	VO_eve.eve_sys_0043
+034	Eve?! What's the matter?	VO_noah.noah_sys_0025
+035	Ack! Urgh!	VO_eve.eve_battle_0024
+036	Blech! What is with this chocolate?! It's crazy spicy! Is everyone okay with this?!	VO_eve.eve_sys_0019
+037	Huh? It's not spicy, is it?	VO_albell.albell_sys_0025
+038	Bingo! Hehehe... I mixed in some super spicy chocolates among the normal ones!	VO_emma.emma_sys_0007
+039	Emma...
+040	Why would you do that, Emma?! Why me?! My mouth hurts! Aaaah, it hurts!	VO_eve.eve_battle_0025
+041	Was Eve's the only one? I thought I made two.	VO_emma.emma_sys_0025
+042	Mine was good.	VO_raaf.raaf_sys_0007
+043	So was mine!	VO_itsuki.itsuki_sys_0005
+044	Nothing wrong with mine, either.	VO_suzuka.suzuka_sys_0004
+045	Well, that's weird. Oh, well!	VO_emma.emma_chara_1001
+046	W-water... Please!	VO_eve.eve_sys_0018
+047	Hm...?
+048	Itsuki?	VO_suzuka.suzuka_sys_0025
+049	Hnngh... Something doesn't feel right.	VO_itsuki.itsuki_sys_0016
+050	Aha! A monster! It looks harmless, but whatever!	VO_itsuki.itsuki_sys_0007
+051	Huzzaaaahh!	VO_itsuki.itsuki_sys_0032
+052	Gyaaaargh!
+053	Hey! Don't run away!	VO_itsuki.itsuki_sys_0016
+054	Argh! No fair! I still need to vent!	VO_itsuki.itsuki_sys_0022
+055	Itsuki...? What is going on?	VO_suzuka.suzuka_sys_0026

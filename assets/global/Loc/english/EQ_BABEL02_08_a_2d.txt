@@ -1,0 +1,195 @@
+﻿001	...
+002	...
+003	What do you want already?!	VO_ila.ila_sys_0016
+004	Eek!	VO_mea.mea_battle_0020
+005	You've been following me around ever since you got here!	VO_ila.ila_sys_0030
+006	If there's something you've got to say, then spill it already, squirt!	VO_ila.ila_sys_0001
+007	Um... Well... Er... You see...	VO_mea.mea_battle_0026
+008	Aaah! You're so annoying! That shy attitude of yours, I don't like it at all!	VO_ila.ila_sys_0031
+009	Thank you for saving me!	VO_mea.mea_battle_1018
+010	Eh?	VO_ila.ila_sys_0006
+011	I-I...always wanted to thank you, but I didn't have the courage.	VO_mea.mea_sys_0010
+012	I wasn't trying to save you, you know!	VO_ila.ila_sys_0025
+013	I just couldn't stand that slimeball's guts!	VO_ila.ila_sys_0007
+014	I just wanted to thank you...no matter what.	VO_mea.mea_battle_1018
+015	You're sure you don't want to go home? You've got one, right? Somewhere to go back to.	VO_ila.ila_sys_0001
+016	No. I don't want to go back.	VO_mea.mea_sys_0039
+017	Why not?!	VO_ila.ila_sys_0012
+018	Because! If there's someone out there wanting to take my power...then they'll hurt gramps and nana to get it!	VO_mea.mea_battle_0019
+019	Huh? What's that?	VO_ila.ila_sys_0006
+020	This is Woody.	VO_mea.mea_chara_1003
+021	Did that doll just move?!	VO_ila.ila_sys_0026
+022	Bunnies, you can come out, too.	VO_mea.mea_sys_1006
+023	Whoa...	VO_ila.ila_sys_0022
+024	This is my power.
+025	You're...	VO_ila.ila_sys_0030
+026	Wow!	VO_mea.mea_sys_0024
+027	Just like me...
+028	So pretty!	VO_mea.mea_sys_0044
+029	What did you say?!	VO_ila.ila_sys_0006
+030	Ila, they're so pretty! Hey, um... Can I see it again?	VO_mea.mea_sys_0008
+031	You think they're...pretty?	VO_ila.ila_sys_0025
+032	Yep! Woody, you want to see it again too, don't you?!	VO_mea.mea_sys_1006
+033	He-hey, hang on a sec! This isn't an exhibit, you know!	VO_ila.ila_sys_0021
+034	What? Oh, but I wanted to see them again...	VO_mea.mea_sys_0022
+035	Tch. Scram already!	VO_ila.ila_sys_0016
+036	Wait up, Ila!	VO_mea.mea_battle_1018
+037	Don't follow me!	VO_ila.ila_sys_0001
+038	We have returned.	VO_zaharu.zaharu_sys_0002
+039	We're back...
+040	Welcome back, Spica!	VO_syrma.syrma_sys_0008
+041	I'm glad to see you're safe. Did you find anything new?	VO_niggle.niggle_sys_0005
+042	I was wrong.	VO_zaharu.zaharu_sys_0018
+043	...
+044	My apologies, Lord Zahar.	VO_niggle.niggle_sys_0029
+045	Now's not the time for apologies. Scour the land; investigate any leads thoroughly.	VO_zaharu.zaharu_chara_1001
+046	There's a hoard of Philosopher's Stones somewhere. Split into groups and find it!
+047	Understood.	VO_niggle.niggle_sys_0037
+048	Where is Letitia?	VO_zaharu.zaharu_sys_0002
+049	She's underground.	VO_niggle.niggle_sys_0004
+050	...
+051	What's wrong, Spica? You look down.	VO_syrma.syrma_sys_0003
+052	I failed.	VO_spica.spica_sys_0022
+053	Lord Zahar said he was wrong just now, didn't he?	VO_syrma.syrma_sys_0031
+054	Yeah... A lot of other stuff happened, too...	VO_spica.spica_battle_0019
+055	I see... Huh? What's that you've got there? Is that a squirrel ornament? Why's it missing its tail, though?	VO_syrma.syrma_sys_0005
+056	Lord Zahar...gave it to me.	VO_spica.spica_sys_0038
+057	What?! You got it from Lord Zahar?! That's great!	VO_syrma.syrma_sys_0025
+058	Yeah, but...	VO_spica.spica_sys_0022
+059	But...?
+060	It feels like Lord Zahar's going to drift some place far away...	VO_spica.spica_sys_0018
+061	He's got to. He wants to destroy the current status quo in the world and create a completely new one.	VO_syrma.syrma_sys_0031
+062	He'll have to do some harsh things, and do some even scarier things to reach that goal. He's said it before, hasn't he?
+063	You can't replace the status quo unless you're prepared to tear the world asunder.	VO_syrma.syrma_sys_0030
+064	I get that... At least, my brain does, but...	VO_spica.spica_sys_0037
+065	Spica, if you ever decide to leave Shadow Messiah, I'm coming with you!	VO_syrma.syrma_sys_0003
+066	What? I'd never leave.	VO_spica.spica_chara_1002
+067	I'm going to protect you, so all you need to do is keep chasing Lord Zahar, full speed ahead!	VO_syrma.syrma_sys_0007
+068	Silma...	VO_spica.spica_sys_1011
+069	You love Lord Zahar, don't you? You made the decision to come here, so you could help him, right?	VO_syrma.syrma_sys_0003
+070	The world Lord Zahar wants to build will have a brighter future than any we could've ever had in this one. We've got to help him in any way we can!
+071	Yeah, you're right.	VO_spica.spica_sys_0004
+072	It doesn't look like it worked.	VO_laetitia.laetitia_sys_0030
+073	No, what about this one?	VO_zaharu.zaharu_sys_0004
+074	...
+075	We still don't have enough.	VO_zaharu.zaharu_sys_0018
+076	It seems we'll need an absurd amount of Philosopher's Stones and alchemy to create a Sacred Darkstone.	VO_laetitia.laetitia_sys_0004
+077	How many decades would that take us? Despite our longer lifespans as elves, would we even be able to accomplish it in our lifetime?	VO_laetitia.laetitia_sys_0018
+078	Hmm... Our only realistic option would be to enter into that Contract with Darkness.	VO_zaharu.zaharu_sys_0022
+079	However, the price for any power gained through such a contract would be...steep.	VO_laetitia.laetitia_sys_0030
+080	Nor would it give us the everlasting power we seek.
+081	Indeed. We continue gathering the Philosopher's Stones and creating the Sacred Darkstone.	VO_zaharu.zaharu_sys_0004
+082	As you command.	VO_laetitia.laetitia_sys_0005
+083	We need to increase our numbers. Have Corvus find us some new blood.	VO_zaharu.zaharu_sys_0031
+084	What would you like done with Mia?	VO_laetitia.laetitia_sys_0002
+085	Nothing. We let her decide what she wants.	VO_zaharu.zaharu_chara_1001
+086	However, if we let her continue to abide with us, she will grow to be another seed who inherits our will...
+087	Leave her be for the time being.
+088	...
+089	What is it?	VO_zaharu.zaharu_sys_0006
+090	You look a little tired.
+091	I feel fine.	VO_zaharu.zaharu_sys_0010
+092	You don't have to hold back for my sake.	VO_laetitia.laetitia_sys_0037
+093	...
+094	It's not time yet, my dear sister. I still need you by my side.	VO_zaharu.zaharu_sys_0027
+095	No, you don't.	VO_laetitia.laetitia_sys_0022
+096	...?	VO_zaharu.zaharu_sys_0025
+097	Do it. Drink up my dark elf blood.	VO_laetitia.laetitia_sys_0001
+098	Are you anxious that my half-elf body will not hold?	VO_zaharu.zaharu_sys_0007
+099	We have no idea what will become of a half-elf like you who has become a dark elf. This is all I can offer you for now.	VO_laetitia.laetitia_sys_0004
+100	Thank you for your concern, my dear sister.	VO_zaharu.zaharu_sys_0004
+101	Mmm...
+102	What have I just seen?	VO_spica.spica_sys_0025
+103	...
+104	Letitia, Spica just dashed off somewhere. Did something happen?	VO_niggle.niggle_sys_0001
+105	I wouldn't know... Was that all you wanted to ask me?	VO_laetitia.laetitia_sys_0030
+106	No, my disciple has something to discuss with you.	VO_niggle.niggle_sys_0016
+107	...
+108	Letitia, what are you going to do about Mia?	VO_ila.ila_sys_0001
+109	Nothing.	VO_laetitia.laetitia_sys_0030
+110	Send her home, then.	VO_ila.ila_sys_0041
+111	Does she want to go home?	VO_laetitia.laetitia_sys_0025
+112	No. She says she doesn't.	VO_ila.ila_battle_0019
+113	Then, no.	VO_laetitia.laetitia_sys_0016
+114	Why?!	VO_ila.ila_sys_0006
+115	It is Lord Zahar's wishes.	VO_laetitia.laetitia_sys_0004
+116	Excuse me?
+117	Don't tell me you plan on making her one of your test subjects, just like that researcher did!	VO_ila.ila_sys_0017
+118	No. I have no such intentions.	VO_laetitia.laetitia_sys_0030
+119	But you're continuing his research!	VO_ila.ila_sys_0012
+120	He simply had the wrong approach, and unlike him, Lord Zahar would never conduct such inhuman experiments.	VO_laetitia.laetitia_sys_0029
+121	But—!	VO_ila.ila_battle_0019
+122	Ila....
+123	I...
+124	Do you not trust Lord Zahar's judgment?	VO_laetitia.laetitia_sys_0001
+125	No, I trust him... 'Course I do.	VO_ila.ila_sys_0020
+126	Then obey his wishes.	VO_laetitia.laetitia_sys_0016
+127	...
+128	Ila, leave it already. I'll talk to Lord Zahar about it. You don't have to worry about Mia anymore.	VO_niggle.niggle_sys_0016
+129	There's no point confronting Letitia. She thinks of no one else except Lord Zahar.
+130	I'm fond of Lord Zahar, too. I want to help him for saving me, but I really can't stand Letitia.	VO_ila.ila_sys_0017
+131	Report for Lord Zahar! We have located a massive Philosopher's Stone, which we believe to be a natural phenomenon, in the Woods of Mystical Nights!
+132	Splendid news.	VO_zaharu.zaharu_sys_0010
+133	Lord Zahar, allow me to go in your stead.	VO_niggle.niggle_sys_0010
+134	No, I'll go personally. Ila, Spica, and Silma may accompany me.	VO_zaharu.zaharu_chara_1001
+135	The Holy Order must already have their sights on a Philosopher's Stone of that magnitude. We leave immediately.
+136	Um, Lord Zahar!	VO_ila.ila_sys_1034
+137	What is it, Ila?	VO_zaharu.zaharu_sys_0006
+138	Uh... Where...is Letitia?
+139	I ordered her to guard our stronghold.	VO_zaharu.zaharu_sys_0004
+140	Then...maybe...I should stay back, too!	VO_ila.ila_battle_0019
+141	Ila, have some faith in her.	VO_zaharu.zaharu_sys_0031
+142	Uh...
+143	Do you hear me?	VO_zaharu.zaharu_sys_0007
+144	Yessir...
+145	Ila, you must trust us. We would never harm your friend.	VO_zaharu.zaharu_sys_0002
+146	Friend?! That's... That's not what I'm worried about!	VO_ila.ila_sys_0025
+147	Hm. Ila, if you're that concerned for Mia, then the quicker we finish this, the quicker we get back. Understand?	VO_zaharu.zaharu_sys_0007
+148	Understood!
+149	We're heading out now.	VO_zaharu.zaharu_battle_0010
+150	How are we supposed to find the Philosopher's Stone in the middle of this dense forest?	VO_niggle.niggle_sys_0016
+151	Fret not, Corvus. If the Philosopher's Stone is truly as large as the report stated, it should be releasing a fair amount of alchemy.	VO_zaharu.zaharu_sys_0010
+152	Ila.	VO_zaharu.zaharu_sys_0002
+153	Yes, Lord Zahar?	VO_ila.ila_sys_1034
+154	Release your alchemy.	VO_zaharu.zaharu_sys_0031
+155	What? Are you sure?	VO_ila.ila_sys_0006
+156	Yes, go ahead.	VO_zaharu.zaharu_sys_0004
+157	All right, here we go then.	VO_ila.ila_sys_1034
+158	Well? Do you sense anything?	VO_zaharu.zaharu_sys_0002
+159	Something's...calling me...from that direction.
+160	Enough.	VO_zaharu.zaharu_sys_0031
+161	I see... You're using your alchemy to resonate with the stone.	VO_niggle.niggle_sys_0031
+162	Indeed. It wouldn't have worked had the stone been of the usual size. We'll head in that direction.	VO_zaharu.zaharu_sys_0004
+163	Phew...
+164	We've come pretty far. Ila, are we still not there yet?	VO_niggle.niggle_sys_0001
+165	Hmm... I think we're getting closer.	VO_ila.ila_sys_0031
+166	Ah, that way! We're almost the—	VO_ila.ila_sys_1034
+167	Grrrrrrr...
+168	...
+169	What's that noise?!	VO_niggle.niggle_sys_0006
+170	There's somethin' scary lyin' in wait here!	VO_ila.ila_sys_0026
+171	What do you mean by..."scary"?	VO_niggle.niggle_sys_0025
+172	Aaaaaargh!	VO_knightm.knightm_battle_0025
+173	What...?!
+174	What's going on?!	VO_niggle.niggle_sys_0026
+175	We're under attack! It's the Corpse!	VO_spica.spica_chara_1009
+176	Are you kidding?!	VO_niggle.niggle_sys_0025
+177	An ambush?! That's cheating!	VO_syrma.syrma_sys_0026
+178	Heh heh... All's fair in war. We've got you now, Zahar!	VO_thiefm.thiefm_sys_0007
+179	...
+180	Lord Zahar! More are coming from this way, too!	VO_ila.ila_battle_0019
+181	GRAAAAAAGH!
+182	Is this beast the "somethin' scary" from before?!	VO_niggle.niggle_sys_0022
+183	Wait, Corvus. I can sense the Philosopher's Stone... I think it's coming from inside!	VO_ila.ila_sys_0020
+184	Don't tell me—!	VO_niggle.niggle_sys_1050
+185	You filth... You made the beast swallow it.	VO_zaharu.zaharu_sys_0018
+186	Gahahaha! This is the end for you, Shadow Messiah!	VO_thiefm.thiefm_sys_0008
+187	GRAAAAAAAGHH!!!
+188	Ugh! Argh!	VO_knightm.knightm_sys_0028
+189	G-go away.... Aaaargh!	VO_knightm.knightm_battle_0024
+190	I'll come save you!	VO_spica.spica_battle_0019
+191	Spica, pay the dead no mind.	VO_zaharu.zaharu_sys_0012
+192	But...	VO_spica.spica_chara_1009
+193	Focus on defeating the enemy standing before you! Survive, at all costs!	VO_zaharu.zaharu_battle_0007
+194	O-okay.	VO_spica.spica_chara_1002
+195	You're not leaving this place in one piece!	VO_thiefm.thiefm_sys_0032

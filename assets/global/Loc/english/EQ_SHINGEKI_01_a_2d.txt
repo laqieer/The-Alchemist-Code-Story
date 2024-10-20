@@ -1,0 +1,59 @@
+﻿001	After the Lion Monarch's Charge, gigantic beasts appeared on the continent of Babel and began a wave of destruction.
+002	In response, Lord Commander Basheeny began investigating in order to understand why they had come to Babel and how to deal with the situation.
+003	Referring to notes written by the tenth Lord Commander, Zain, Basheeny was able to find some research that had been left behind by the previous Captain of the 2nd Regiment, the Crimson Dragon, Kaya.
+004	These notes revealed the existence of so-called Cursed Beasts which have been hidden from the histories of Babel and Alchemy. As the key to their cage begins to turn and unlock...
+005	So, too, have these giant beasts come to wreak havoc in Babel.
+006	Rising like living mountains over Babel, they have come to be referred to as Giant Taurus.
+007	These reports speak of demons in Wadatsumi... How ominous. I can't help but see them as a sign of worse to come.	VO_basini.basini_sys_0030
+008	No, I must keep faith. What comes will come. I just have to be prepared for when something arises...
+009	Basheeny. It has been some time. Uh, I apologize—it is more proper to say Lord Commander Basheeny. You have come to bear this position well.	VO_kazahaya.kazahaya_sys_0002
+010	Kazahaya? I heard you were taking time to travel the continent. When did you return?	VO_basini.basini_chara_1008
+011	Ah, well... I heard some interesting rumors. I've served as liaison to Lord Commanders since Zain's time, so when I overheard something that piqued my interest...	VO_kazahaya.kazahaya_sys_0004
+012	I figured that it would be best for me to pass it on to you.
+013	It seems that a new type of Giant Taurus has appeared.
+014	A new type?!	VO_basini.basini_sys_0025
+015	I cannot speculate what is happening here on this continent of Babel, but either way, this is not something that we can leave be, correct?	VO_kazahaya.kazahaya_sys_0022
+016	Correct. I guess those demons were a sign.	VO_basini.basini_sys_0018
+017	Thank you, Kazahaya. The information you've given me is indispensable, as always.
+018	I am glad to hear it. I think that if it is acceptable, I will stay a little longer and see what comes of the information I have brought you.	VO_kazahaya.kazahaya_sys_0004
+019	I see. I'm pleased to hear that. It would be a big help to have you around.	VO_basini.basini_chara_1008
+020	That is kind of you to say, Lord Commander.	VO_kazahaya.kazahaya_sys_0037
+021	A newer, more dangerous Giant Taurus is certainly something we need to take care of. Just the usual Giant Taurus is already a handful.	VO_basini.basini_sys_0030
+022	Could it be a coincidence that both the Giant Taurus and the Cursed Beasts have shown themselves now?
+023	Or, perhaps, there is someone pulling the strings behind them. I must find out more.
+024	Ahhhhhhhhhhh!!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0028
+025	Urgh... Even after all the fire I've thrown at it, this foul creature doesn't bear a single scratch!	VO_terre.terre_battle_0019
+026	I'm running out of options. I cannot simply attack a creature of this size directly.
+027	Where are our reinforcements from the Holy Guard?! Are they too busy chasing their own tails to actually be useful?	VO_hoo.hoo_sys_0001
+028	It seems that after losing their last Lord Commander they've lost some of their might. I'm sure the new Lord Commander is doing his best, but...	VO_voda.voda_sys_0022
+029	As it stands, there's no way that we Sprites can deal with this without them.	VO_voda.voda_battle_0019
+030	On top of that, there are eyewitness reports that a whole new variation has appeared in Saga. I wouldn't be surprised if it showed up here right now.
+031	We need to find a way to retreat! Tehre! Fall back!	VO_hoo.hoo_sys_0001
+032	Nrgh...! What are you saying?! If we run away now, the danger will only spread and fall upon others! Do you really expect me to just let that happen?!	VO_terre.terre_battle_0019
+033	There's no way I'll just retreat before figuring out a way to prevent that!
+034	Fool! Persisting in this battle will only hurt those we are trying to protect! Our priority now must be to save whoever we can!	VO_hoo.hoo_sys_0025
+035	(I...cannot allow Saga to be dragged into danger again. Saga must never experience the same devastation that was wrought by the Lion Monarch's Charge!)
+036	If you're going to retreat, go on. There's no way that I can leave while we have no solid plan of attack to prevent more losses!	VO_terre.terre_sys_0018
+037	As the Earth Sprite Tehre, it is my responsibility to protect Saga! I can't just let it end like this!
+038	Groaaaaaaaaaaaaaaaaaaar!
+039	Nrk!	VO_terre.terre_battle_0019
+040	Tehre!
+041	Wait right there!	VO_judith.judith_sys_0032
+042	Who—?!
+043	The electrifying mechanic extraordinaire, Judith, is here to save the day!	VO_judith.judith_chara_1001
+044	I have no idea who you peeps are, but you'd better get out of here while you can!
+045	Uh...thank you! Tehre, hurry!	VO_voda.voda_battle_0019
+046	Grooooooooooaagh!
+047	A poisonous miasma?! Everyone, hold your breath!	VO_terre.terre_battle_0019
+048	No! Was I too late?!	VO_terre.terre_sys_0018
+049	It's too early to give up! I'm gonna swoosh it!	VO_judith.judith_battle_0019
+050	You're...what? Who exactly are you? Why are you helping us?	VO_terre.terre_sys_0001
+051	Huh? Does it really matter?! I mean, you said it, right?	VO_judith.judith_sys_0012
+052	I can't just let it end like this! My dad used to say stuff like that all the time!
+053	How could I not help someone like that? That's a good enough reason to lend a hand in my book!
+054	What...?
+055	Dad, lend me your strength! Let's see this thing withstand my Anti Giant Taurus Mecha Weapon! Charge complete! Full Throttle!!!	VO_judith.judith_battle_0019
+056	What...is this?	VO_terre.terre_sys_0025
+057	This'll boost propulsion and make my attack really count!	VO_judith.judith_sys_0008
+058	Leave it to me! I can't lose with my dad's hopes for the world he left behind on my side!
+059	Me and my Anti Giant Taurus Mecha Weapon will settle this with an electrifying swoosh!	VO_judith.judith_battle_1015

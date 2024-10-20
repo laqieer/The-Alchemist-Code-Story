@@ -1,0 +1,38 @@
+﻿001	Take this!	VO_dafne.dafne_battle_0004
+002	I don't know your situation. I don't know what happened to you.
+003	But I have my own reasons to fight, and I will not give in to anyone or anything!
+004	Very well, then.	VO_messaletim.messaletim_sys_0004
+005	But I'm afraid you've already caused more than enough trouble, successor of the Shield. Though I do thank you for bearing its legacy well!	VO_messaletim.messaletim_sys_0036
+006	...!
+007	And with that...my oath is fulfilled.	VO_messaletim.messaletim_sys_0007
+008	Haaa...haaa...	VO_dafne.dafne_battle_0022
+009	All right! Nice work, Daphne! You totally pulled it off!	VO_mela.mela_sys_0009
+010	I suppose. But she was already exhausted from her prior battle.
+011	C'mon, a win's a win! Now let's hurry back to Nyx and the others!
+012	Okay!	VO_dafne.dafne_sys_0004
+013	Huh...?
+014	Whoa! Are you all right?!	VO_mela.mela_sys_0025
+015	I think so. I used up all of my magil in that battle. The protection from the Alchemy is gone, too.	VO_dafne.dafne_sys_0029
+016	Hmm. In that case, how about you rest here for a moment? I'm worried about Nyx, so I'll—	VO_mela.mela_sys_0004
+017	What the...?	VO_mela.mela_sys_0006
+018	First line, fall back! But be sure not to leave any gaps in the magil barrier!	VO_helenne.helenne_sys_0002
+019	And leave those corroded shields behind! The next wave is coming! Brace for impact!
+020	...I've about had it. Where in the world are all of these Fallen even coming from?!	VO_helenne.helenne_sys_0030
+021	The second and third lines are ready to move out.
+022	Then take both flanks, and let's clean up those Fallen!	VO_helenne.helenne_sys_0005
+023	We're never going to be able to provide backup for Daphne at this rate...
+024	When did so many Fallen manage to make it into the town, anyway?!	VO_helenne.helenne_sys_0031
+025	You're asking the wrong question, but you are on the right track! There is no castle that cannot be breached, you know.	VO_esai.esai_sys_0045
+026	One must always plan for a worst-case scenario, such as an enemy infiltration in far greater numbers than could reasonably be anticipated.
+027	Father? No... Who are you?	VO_helenne.helenne_sys_0025
+028	I am Ignacio. Though I have also been called Esai.	VO_esai.esai_sys_0001
+029	Pleased to meet you, daughter of my dearest friend. I think I'll keep you alive.
+030	And just what does that mean?	VO_helenne.helenne_sys_0004
+031	(What an icy cold glare. He's looking at me like I'm nothing!)
+032	I know about the hidden passage to the tower's foundation in the castle ahead.	VO_esai.esai_sys_0004
+033	Your plan is to use that to sneak in, is it not?
+034	Huh? Wait, how do you...?!	VO_helenne.helenne_battle_0019
+035	Is everyone prepared?	VO_nimuru.nimuru_sys_0002
+036	This will be a race against time.	VO_nimuru.nimuru_battle_0022
+037	While Eulalia and the others keep Ouroboros' phantoms busy outside, we'll recapture the tower.
+038	Let's move out!	VO_nimuru.nimuru_battle_0015

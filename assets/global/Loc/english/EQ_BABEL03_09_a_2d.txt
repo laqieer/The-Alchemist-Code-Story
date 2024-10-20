@@ -1,0 +1,63 @@
+﻿001	I will not allow any further transgressions!	VO_neferty.neferty_sys_0029
+002	Nefertiti!	VO_balt.balt_sys_0025
+003	What are you doing here?	VO_rameses.rameses_sys_0025
+004	You did not come greet me as you usually do, so I thought I had better check in. Prepare yourself for punishment later.	VO_neferty.neferty_sys_0030
+005	I-I...understand, beloved sister.
+006	What is going on here, Nefertiti?	VO_karla.karla_sys_0027
+007	Rashba, members of the Corpse, please withdraw.	VO_neferty.neferty_sys_0001
+008	I cannot do that. I will not leave without that Sephiran girl.	VO_lasiuba.lasiuba_sys_0040
+009	We will not harm anybody if she is given to us, and we will then gladly withdraw. You have been warned.	VO_stknightm.stknightm_sys_0030
+010	My oh my, then this is quite a troubling turn of events. We simply cannot allow any of you to have Carla.	VO_neferty.neferty_sys_0030
+011	...!
+012	Wait, me?	VO_karla.karla_sys_0025
+013	If you plan to take her by force, I will not stand idly by.	VO_neferty.neferty_sys_0010
+014	Let us see if you have the strength to face me.	VO_neferty.neferty_sys_0013
+015	A Sephira? Me?!	VO_karla.karla_sys_0025
+016	Your parents must have kept it secret from you for your protection. I'm sorry, Carla.	VO_neferty.neferty_sys_0035
+017	That you have become a target is the fault of the nobility. That is why I must...
+018	...protect you at all costs. Such is my burden to bear.	VO_neferty.neferty_battle_0004
+019	Balt, I'm... Did you...know?	VO_karla.karla_sys_0027
+020	It never mattered to me who you are. I promised Hawk that I'd protect you.	VO_balt.balt_event_1013
+021	I will protect you and this desert with my life.
+022	May I...ask of you one thing?
+023	Yes, though I will not accept any excuses.	VO_neferty.neferty_sys_0006
+024	Nothing of the sort. Please, allow me to shoulder some of your burden. I wish to be of some help to you!	VO_rameses.rameses_chara_1010
+025	My, you used to be such a disappointing little brother, but look at you now. So grown up.	VO_neferty.neferty_sys_0030
+026	I've always regretted turning my back on Hawk.
+027	Back then, my hands were full with my own problems.
+028	However, things are different now. I stand here now, having protected the same things Hawk dedicated his life to protecting.
+029	That is why I am here. This is my atonement, my burden to bear. I cannot possibly let you—!
+030	I am no longer the little boy you still see me as! Do you still believe I cannot be of any use to you?!	VO_rameses.rameses_sys_0029
+031	...?!
+032	We are family! Is it not natural for us to share the weight of what must be borne?!	VO_rameses.rameses_sys_0018
+033	Ramses...!
+034	So this is what you meant... Hawk, the seeds you sowed in this desert are finally bearing fruit.	VO_balt.balt_sys_0020
+035	Are you seeing this, Hawk? It's just as you said. It may take time for seeds to sprout, but time is one thing the world will give us!	VO_balt.balt_sys_0007
+036	The seeds you planted are sprouting right now!
+037	Well, gosh darnit, I knew Hawk was right all along!	VO_karla.karla_sys_0046
+038	I'm sorry, Nefertiti. I may have misjudged you. No, I probably just didn't believe in you from the bottom of my heart.	VO_balt.balt_sys_0035
+039	There is no need for you to be alone in this. Though we may be different in many ways, we both call this desert our home.	VO_balt.balt_sys_0022
+040	We may not be family, but we work together. Is that not right, Nefertiti?	VO_balt.balt_sys_0003
+041	That's right! I mean, I'm still a little wigged out, but you didn't have to keep it a secret from me! Quit acting so standoffish and distant!	VO_karla.karla_sys_0006
+042	I would have gladly shared this burden with you!
+043	How can you think like that?	VO_neferty.neferty_sys_0001
+044	I once knew a guy who passed away because he was determined to shoulder all the weight of the world alone. I just can't let that happen again.	VO_karla.karla_sys_0018
+045	I...understand.	VO_neferty.neferty_sys_0007
+046	Let us help you! We'll start by getting through this fight together!	VO_balt.balt_sys_0003
+047	Are you finished yet? Have you prepared to die, desert-dwellers?	VO_lasiuba.lasiuba_sys_0002
+048	We won't be dying on this day! Hey, Zofia!	VO_balt.balt_sys_0010
+049	Hm? Ya?	VO_zophy.zophy_sys_0006
+050	You were born in this desert, right? I want you to know I want to protect you too!	VO_balt.balt_sys_0003
+051	What are you talking about? She's mine! You're speaking out of place, fool!	VO_lasiuba.lasiuba_sys_0012
+052	You're out of place! I'm talking to Zofia, not you! Zofia, let's make a bet.	VO_balt.balt_sys_0012
+053	If you win, well, that's the end of that, but if we win? You live as you please.
+054	The way, Zofia...want? Live?	VO_zophy.zophy_sys_0025
+055	Yeah, and come home to the desert someday. We'll have made this place a good home for you by then.	VO_balt.balt_sys_0006
+056	Home?	VO_zophy.zophy_sys_0006
+057	It can be far in the future. It can be when you're an old lady. Just come home.	VO_balt.balt_sys_0006
+058	This is what it means to protect the desert. What do you think, Zofia?
+059	Okay! Yes!	VO_zophy.zophy_sys_0004
+060	Zofia! Don't be making any stupid promises! Actually, forget it. We'll be annihilating them anyway.	VO_lasiuba.lasiuba_battle_0019
+061	We won't lose to the likes of them. Will we, Carla?	VO_neferty.neferty_sys_0010
+062	Of course we'll win! For the first time, the Sand Hawks will fight along with the nobility! Let's do this, Balt!	VO_karla.karla_sys_0006
+063	You can count on me! The desert is our home!	VO_balt.balt_sys_0006

@@ -1,0 +1,55 @@
+﻿001	...
+002	Are you okay, Malta?	VO_hisham-b.hisham-b_sys_0001
+003	Y-yeah, I'm okay. I suddenly just realized how exhausted I am, that's all.	VO_malta.malta_chara_1009
+004	If you say so...	VO_hisham-b.hisham-b_sys_0022
+005	Tell me if you need anything! I promised Kamui that I'd protect you, remember?	VO_hisham-b.hisham-b_sys_0002
+006	O-of course.	VO_malta.malta_sys_0004
+007	(During the ceremony, I realized something while I was connected to Sephiron.)
+008	(The great tree does not have long. In addition, I can sense that someone is at the altar doing something to Sephiron.)
+009	(I have to do something to stop this before something terrible happens.)
+010	I have to...
+011	Are you one of the village survivors?	VO_theona.theona_sys_0002
+012	Is that...Miss Teona?	VO_hisham-b.hisham-b_chara_1009
+013	Hisham?! Thank goodness you're okay!	VO_theona.theona_chara_1006
+014	You are...?	VO_malta.malta_chara_1009
+015	She's a gladiator from the royal capital! She's the champion of the Arena, so she's really strong!	VO_hisham-b.hisham-b_sys_0007
+016	Hello. I am Teona, and you are?	VO_theona.theona_sys_0004
+017	Oh no! There seems to be a skirmish nearby, so come with me! Other survivors are headed this way as well!	VO_theona.theona_chara_1010
+018	Awesome! We'll be safe with Miss Teona!	VO_hisham-b.hisham-b_sys_0007
+019	...
+020	I-is everything okay, Miss Teona? Why are you smiling like that?	VO_hisham-b.hisham-b_chara_1009
+021	Oh, it's just that I'm happy you were able to find yourself a family.	VO_theona.theona_sys_0007
+022	Yeah! Malta and Kamui, and even Isidore...	VO_hisham-b.hisham-b_sys_0005
+023	They're all my family now! Teona, do you think...?	VO_hisham-b.hisham-b_sys_0007
+024	Of course! We'll make sure everybody gets out of this alive!	VO_theona.theona_sys_0005
+025	Hisham, do you mind going ahead without us? I have to speak with this person privately.	VO_malta.malta_sys_0001
+026	Huh? B-but—	VO_hisham-b.hisham-b_chara_1009
+027	Don't worry, Hisham. I'll keep her safe.	VO_theona.theona_sys_0007
+028	All right, but catch up soon, okay?	VO_hisham-b.hisham-b_sys_0031
+029	Do you intend to get yourself killed?
+030	What? No! What makes you say that?	VO_malta.malta_chara_1009
+031	I'm sorry for being so direct. It is just that I've seen that face you're making on many people I never saw alive again.	VO_theona.theona_sys_0022
+032	I don't intend to die, really. It's just that there is something I must do.	VO_malta.malta_sys_0020
+033	Very well, then I'll be coming with you.	VO_theona.theona_sys_0031
+034	Huh? B-but—	VO_malta.malta_chara_1009
+035	I've been in this army as sort of a commando, so sudden changes to where I'm headed help to confuse the enemy.
+036	Besides, Hisham has finally found people he could call family and I promised that he'd make it out with them.	VO_theona.theona_sys_0007
+037	...Thank you.	VO_malta.malta_sys_1050
+038	You can thank me when the war is over. For now, let's just live through this.	VO_theona.theona_sys_0007
+039	We were lucky enough to make it to Sephiron, but...	VO_kamui-b.kamui-b_sys_0031
+040	I really didn't expect that the soldiers of the Royal Army would come all the way here...	VO_ishido.ishido_sys_0027
+041	Lord Waginau, it seems your assumptions were correct.
+042	Then it is clear what Ceclidis plans to do. He intends to summon Cryphone!	VO_waginao-b.waginao-b_sys_0045
+043	Cryphone...?	VO_kamui-b.kamui-b_sys_0037
+044	Sephiron is the light of this world, and where there is light, there will always be shadow. Cryphone is that shadow.	VO_waginao-b.waginao-b_sys_0004
+045	Shadow... Do you mean the darkness that is said to be within Sephiron?	VO_kamui-b.kamui-b_sys_0027
+046	Exactly. Cryphone is the darkness that reaches out from Sephiron, which causes some to turn to evil acts.	VO_waginao-b.waginao-b_sys_0005
+047	What could Ceclidis possibly gain from this?
+048	No matter how great a source of power may be, if that power cannot be controlled, it will only bring disaster.
+049	He must have prepared accordingly. The stone he carries must be—	VO_waginao-b.waginao-b_sys_0037
+050	How astute of you, Lord Waginau. We should have expected you to see through our ploy.	VO_stknightm.stknightm_sys_0044
+051	Wha—?!	VO_kamui-b.kamui-b_sys_0027
+052	These warriors... Are they not the Holy Guard?	VO_kamui-b.kamui-b_sys_0020
+053	Stay sharp, Kamui!	VO_waginao-b.waginao-b_sys_0018
+054	Lord Waginau... No. You do not deserve the respect that title affords. Waginau! You eluded us once, but never again!	VO_stknightm.stknightm_sys_0010
+055	Your life ends here!	VO_stknightm.stknightm_battle_0007

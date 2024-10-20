@@ -1,0 +1,70 @@
+﻿001	It's no use. This is over.	VO_gormalas.gormalas_sys_0012
+002	Y-You won't listen?!	VO_siyi.siyi_battle_0022
+003	Hmm... I thought you were some spineless child, but you got sand.	VO_gormalas.gormalas_sys_0010
+004	I won't back down. I came all this way for everyone else.	VO_siyi.siyi_sys_0017
+005	I used my map to come all this way with everyone to find The World's Most Fragile and Precious Treasure!
+006	The World's Most Fragile and Precious Treasure?	VO_gormalas.gormalas_sys_0025
+007	...?
+008	Hey, isn't that from The Adventures of Joe Vandelle?	VO_gormalas.gormalas_sys_0001
+009	What? Oh, um... Y-Yes...	VO_siyi.siyi_sys_0025
+010	This cave is from those stories?
+011	Y-Yes. I've always wanted to find this place, so I researched a great deal. I'm sure I'm right.	VO_siyi.siyi_sys_0006
+012	I see...	VO_gormalas.gormalas_sys_0044
+013	That story about a treasure no one has ever recovered... It's hidden in a dank cave like this?
+014	Hahaha! I see! That's how it is!	VO_gormalas.gormalas_sys_0008
+015	...?
+016	You're a special one. You don't think of stories as just stories, but you go looking for the treasure yourself!	VO_gormalas.gormalas_sys_0002
+017	You're a toughie. How about you come with us?	VO_gormalas.gormalas_sys_0045
+018	Huh?	VO_siyi.siyi_sys_0025
+019	Gormalas!
+020	Ah, you're here. Excellent timing.	VO_gormalas.gormalas_sys_0030
+021	Step back from Su Yi!	VO_shengmei.shengmei_sys_0013
+022	Hold on. Don't you care to hear her response?	VO_gormalas.gormalas_sys_0014
+023	A response?
+024	Indeed. What do you think? I would really put smarts like yours to use.	VO_gormalas.gormalas_sys_0005
+025	I won't come. I'm... a pirate of the Xiao Shenmei crew.	VO_siyi.siyi_sys_0040
+026	I see. Well, if you're not interested, I can't fix that. Here you go.	VO_gormalas.gormalas_sys_0007
+027	Is it all right, Captain? You're just giving back the map?
+028	Yes, yes. I don't need this treasure. It's yours if you want it.	VO_gormalas.gormalas_sys_0004
+029	What?	VO_siyi.siyi_sys_0025
+030	But next time we meet, it'll be as pirates. Don't expect mercy.
+031	And until then, put some meat on those bones! Eat a sandwich!	VO_gormalas.gormalas_sys_0010
+032	O-Okay...	VO_siyi.siyi_sys_0006
+033	(Oof, he was scary... I'm still shaking.)
+034	(So that's the pirate Gormalas.)
+035	Su Yi, are you okay?!
+036	Are you hurt?	VO_lusheng.lusheng_sys_0012
+037	N-No, I'm fine.	VO_siyi.siyi_sys_0004
+038	I'm sorry, Su Yi! We pursued the monsters, but a cave in kept us from getting back quickly.	VO_shengmei.shengmei_sys_0036
+039	We managed to clear the rocks and get back, but... I'm sorry. We put you in danger leaving you alone.
+040	It must've been terrifying. I'm truly sorry.	VO_lusheng.lusheng_sys_0020
+041	Shenmei... Liu Shen...	VO_siyi.siyi_sys_0018
+042	Thank you for being concerned about me, but I'm okay.	VO_siyi.siyi_sys_0034
+043	I'm okay because I'm a pirate, too!
+044	This is the deepest recess of the cave. If there's a treasure, it's here.
+045	Hey, you two! Look! Look!	VO_shengmei.shengmei_sys_0046
+046	Oh my! There're so many flowers! Their petals are shimmering!	VO_siyi.siyi_sys_0046
+047	They are... It's almost like starlight.
+048	The World's Most Fragile and Precious Treasure... It makes sense now.	VO_lusheng.lusheng_sys_0045
+049	I've heard of this. There are flowers that can only bloom in the soil and climate of deep caves.
+050	It's the alchemy of earth, where petals sparkle as bright as jewels.
+051	But they can only thrive in this environment. Once they're taken outside, they wither and die.
+052	So as stories have been passed down, this beautiful sight has become the treasure of legend.	VO_shengmei.shengmei_sys_0031
+053	Seems so. No wonder Gormalas lost interest. You can't take this with you.	VO_lusheng.lusheng_sys_0004
+054	No... I don't think he lost interest.	VO_siyi.siyi_sys_0031
+055	What do you mean?	VO_lusheng.lusheng_sys_0006
+056	He even remembered the title of the book! I'm sure he was grateful to find this.
+057	That makes sense.
+058	This is The World's Most Precious Treasure that Joe spoke of.
+059	How lovely...	VO_siyi.siyi_sys_0007
+060	Thanks to Su Yi, we've found this amazing treasure!	VO_shengmei.shengmei_sys_0006
+061	I'm sorry it's not a treasure we can take with us, Shenmei.	VO_siyi.siyi_sys_0036
+062	What're you talking about? We'll carry this with us in our hearts!	VO_shengmei.shengmei_event_1006
+063	This is priceless! There are few treasures as great as this!
+064	Oh, Shenmei...
+065	But there are even more treasures that await us!	VO_shengmei.shengmei_sys_0007
+066	With Su Yi's maps, we can go anywhere.
+067	...! We can go anywhere...	VO_siyi.siyi_sys_0025
+068	(My maps really did help the others out. In that way, I too...)
+069	(I may not be strong, but by doing what I'm good at, I can pull my own weight like everyone else.)
+070	Absolutely! I'll do my best!	VO_siyi.siyi_sys_0037

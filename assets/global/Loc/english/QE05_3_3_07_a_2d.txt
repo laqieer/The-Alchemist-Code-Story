@@ -1,0 +1,18 @@
+﻿001	I'll have this soldier carry the wounded. Where should we send them?
+002	There's a town south of here, built around an oasis.	VO_kamui.kamui_sys_0004
+003	Take them there. It's an emergency refuge for my guild.
+004	Very well. What will you do?
+005	We can't afford to leave the Jam here. It will only serve to make Ceclidis more powerful in the long run. That's how it goes.	VO_kamui.kamui_sys_0031
+006	The Jam are basically masses of corruption. Without proper protection and gear, they can be quite tricky to deal with.
+007	Leave it to us.
+008	It shall be done. Don't overdo it, now.
+009	Right.	VO_kamui.kamui_sys_0004
+010	Logi, I want you to stay with Agatha.	VO_kamui.kamui_sys_0002
+011	B-but...	VO_logi-b.logi-b_sys_0025
+012	It's likely that Ceclidis is targeting her. You must protect her no matter what.	VO_kamui.kamui_sys_0031
+013	I understand. Let's go, Agatha.	VO_logi-b.logi-b_sys_0004
+014	O-okay. Mr. Kamui, Miss Tina... Please be careful.	VO_agasa.agasa_sys_0025
+015	Have you ever fought the Jam before, Tina?	VO_kamui.kamui_sys_0002
+016	Unfortunately, yes. Too many.	VO_tina.tina_sys_0016
+017	Then I guess you won't be needing my advice. I'll go ahead and intercept them, so that you can sneak up behind them and catch them by surprise.	VO_kamui.kamui_sys_0007
+018	Got it. Geez, I can't believe I have to fight the Jam in the desert of all places! Fate is so ridiculous.	VO_tina.tina_sys_0004

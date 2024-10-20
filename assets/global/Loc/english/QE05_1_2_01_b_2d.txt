@@ -1,0 +1,60 @@
+﻿001	Hellooo, anybody home?	VO_malta.malta_sys_0001
+002	Miss Malta? Is that you?	VO_hisham-b.hisham-b_sys_0004
+003	Kamui's out right now, but go ahead and let yourself in!
+004	Hello, little man of the house! Do you know where Kamui has gone off to?	VO_malta.malta_sys_0006
+005	Isidore showed up and dragged him off to visit Sephiron or something.	VO_hisham-b.hisham-b_sys_0005
+006	Oh, I see, so I just missed him.	VO_malta.malta_sys_0022
+007	So...you're here to hang out with Kamui again?	VO_hisham-b.hisham-b_sys_0010
+008	I-I didn't say that!	VO_malta.malta_battle_0019
+009	I mean, I wanted to check on you, Hisham! How have you been sleeping? Any more nightmares?
+010	Mm... Sometimes, but I just forget them as soon as I wake up.	VO_hisham-b.hisham-b_sys_0031
+011	Ah... So no new clues or memories about where you're from, then?	VO_malta.malta_sys_0021
+012	Yeah...
+013	Aw, don't look so sad. I'm sure you'll remember soon!	VO_malta.malta_sys_0001
+014	More importantly, look at you! It seems like you've bounced back! Why don't we go for a walk since you're feeling better?	VO_malta.malta_sys_0007
+015	Besides, aren't you curious about the rest of the village?
+016	Wait, really?! Kamui told me I wasn't allowed to wander around outside on my own!	VO_hisham-b.hisham-b_chara_1009
+017	Hehe, I'm kind of an important person around here. No one will question it if you're with me.	VO_malta.malta_sys_0023
+018	If I say it's fine, they'll have no choice but to accept it! Um, except for my father.
+019	Isn't that...kind of a big deal?	VO_hisham-b.hisham-b_sys_0031
+020	W-well, at the very least, I should be able to show you around. What do you think?	VO_malta.malta_sys_0011
+021	Of course! I want to see the ruins at the foot of Sephiron!	VO_hisham-b.hisham-b_sys_0005
+022	The altar? Hm... I don't think I can do that.	VO_malta.malta_sys_0025
+023	Aw, okay! B-but I still wanna go out for a walk! Please, Miss Malta!	VO_hisham-b.hisham-b_sys_0029
+024	Of course! Come with me!	VO_malta.malta_sys_0007
+025	Whoa... Sephiron is as amazingly big as ever!	VO_hisham-b.hisham-b_sys_0009
+026	Incredible, isn't it? The great tree of life, Sephiron, the pillar of our world, which watches over us all.	VO_malta.malta_sys_0004
+027	I can't see it from Kamui's place, though. I wonder why we don't have a window that faces it.	VO_hisham-b.hisham-b_sys_0031
+028	The light of Sephiron shines even deep into the night. You wouldn't want that to disturb your sleep, would you?
+029	Oh, I had no idea. Kamui told me it was too dangerous to go out at night, so I've never seen it.	VO_hisham-b.hisham-b_sys_0044
+030	That's true, actually! Night is when the beasts come out, so you should avoid going out.	VO_malta.malta_sys_0005
+031	But...isn't this village protected by a mirage barrier? How can beasts come in here?	VO_hisham-b.hisham-b_sys_0002
+032	Who told you that?	VO_malta.malta_sys_0006
+033	Isidore told me when he was drinking with Kamui once.
+034	That man... Honestly...	VO_malta.malta_sys_0012
+035	Wait, am I not supposed to know about that?	VO_hisham-b.hisham-b_chara_1009
+036	Not necessarily, but he really shouldn't be running his mouth when drinking, for security reasons. I suppose it's fine if it's you, though.	VO_malta.malta_sys_0016
+037	The barrier around this village is aimed only at people.
+038	Especially those who have machinations regarding Sephiron.
+039	The sephirah that appear on the bodies of those who live in this village are proof that Sephiron herself has given us permission to live at her foot.
+040	Oh... That's what that mark on Kamui's arm means.	VO_hisham-b.hisham-b_sys_0044
+041	The beasts that come are only doing their best to survive. There is no reason to bar them from the village.	VO_malta.malta_sys_0005
+042	Outside of this place, there is only desert and wilderness.
+043	The blessings of the great tree Sephiron are for all who live on this continent. Sephiron does not deny those beings who wish only to live their lives.
+044	As such, we do not do so, either. The night is for the beasts, and the day is ours.
+045	We do not try to chase them out or engage them in unnecessary battle. Even now, our way of life is plentiful enough as it is.
+046	At most, we will defend our fields and our livestock.
+047	Oh, so Kamui was called to do that?	VO_hisham-b.hisham-b_sys_0002
+048	Well, many ask for his help, as Kamui is the most powerful Spiritbonder in the village, but if it was Isidore? I expect so.	VO_malta.malta_sys_0016
+049	So Kamui's really popular, huh? Miss Malta, you must get nervous about that, huh?	VO_hisham-b.hisham-b_sys_0031
+050	Excuse me?	VO_malta.malta_sys_0006
+051	Heh, I mean, aren't you showing me around because you're hoping to see him?	VO_hisham-b.hisham-b_sys_0011
+052	N-no, I was just, you know, checking in with my patient! Doing my due diligence!	VO_malta.malta_battle_0019
+053	Aw, that's disappointing. You know, if you keep making excuses like this, you'll never be more than childhood friends.	VO_hisham-b.hisham-b_sys_0010
+054	...
+055	Uh-oh. Are you upset?	VO_hisham-b.hisham-b_sys_1047
+056	Hisham, you little...	VO_malta.malta_sys_0012
+057	Yikes! Y-you know, it looks really bad for the Chief's daughter to inflict violence upon a helpless youth such as myself!	VO_hisham-b.hisham-b_sys_0027
+058	I'm sure people will just think I am doling out the appropriate measure of discipline!
+059	Th-this is abuse!	VO_hisham-b.hisham-b_sys_0019
+060	Hey, get back here!	VO_malta.malta_favorite_0005

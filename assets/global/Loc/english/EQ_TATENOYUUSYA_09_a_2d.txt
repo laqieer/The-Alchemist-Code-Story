@@ -1,0 +1,90 @@
+﻿001	...
+002	Why so glum, Melty?	VO_anastasia.anastasia_chara_1004
+003	Anastasia... Have you finished evacuating all of the villagers yet?	VO_melty.melty_sys_0001
+004	Yes, they should be safe. Now all we have to do is focus on suppressing the Wave.	VO_anastasia.anastasia_sys_0004
+005	I see...
+006	Is something troubling you?	VO_anastasia.anastasia_sys_0002
+007	N-no, I'm fine!	VO_melty.melty_sys_0039
+008	You sure?	VO_anastasia.anastasia_sys_0006
+009	Do I not look fine?	VO_melty.melty_sys_0031
+010	I'm sorry, I must've been mistaken.	VO_anastasia.anastasia_sys_0035
+011	No, you weren't...
+012	...
+013	I must protect everyone as the next in line to the throne...	VO_melty.melty_sys_0016
+014	But I'm still so incompetent... Everyone is always saving me instead...	VO_melty.melty_sys_0022
+015	Melty...
+016	I thought that I'd be able to finally prove myself as a future leader of my kingdom...
+017	But I can't do anything on my own in this world... I'm just constantly being reminded of my powerlessness...
+018	I can't believe I spoke to Naofumi like that... I'm not ready to be queen yet if I can't keep my composure when times get tough.	VO_melty.melty_sys_0018
+019	I'm worried that I won't be able to carry out my duties as princess when I return home at this rate...
+020	I'd be able to seek retribution for the knight who was attacked if I could just fight on the frontlines...	VO_melty.melty_sys_0016
+021	And I probably could've done something if only I'd known about the hatred against demi-humans sooner...	VO_melty.melty_sys_0031
+022	That may be true.	VO_anastasia.anastasia_sys_0004
+023	But as someone whose job it was to protect the royal family, let me say this...
+024	I don't think I'd be able to focus on my own fighting if the princess of my kingdom was fighting alongside me.	VO_anastasia.anastasia_sys_0031
+025	The best way to help your knights on the battlefield is to stay safe and sound away from battle.
+026	As royalty—as someone of higher standing, you mustn't give your frontline soldiers more to worry about. That's your responsibility.	VO_anastasia.anastasia_chara_1004
+027	Oh...
+028	That is only my personal perspective, however. I'm sure royalty isn't the same everywhere.	VO_anastasia.anastasia_sys_0004
+029	It's up to you to decide what kind of ruler you will become.
+030	...
+031	Melty... Don't forget that it's important to face adversity head-on.	VO_anastasia.anastasia_chara_1004
+032	As helpless as you may feel, you need to take a hard look at reality and figure out a way to use your own unique skills and position to fight your battles.
+033	...
+034	And even if nothing goes according to plan, everything will turn out for the better in the end so long as you keep on living.	VO_anastasia.anastasia_sys_0007
+035	Yes... So long as you just survive...	VO_anastasia.anastasia_sys_0006
+036	Anastasia? Is something the matter?	VO_melty.melty_sys_0001
+037	I'm sorry, I was just thinking of something else.	VO_anastasia.anastasia_sys_0035
+038	Don't worry, Melty. All you have to do is figure out what someone in your position is able to do.
+039	A way to use my own unique skills and position to fight my battles...
+040	(I think Naofumi told me something like that before, too...)	VO_melty.melty_sys_0031
+041	...
+042	...
+043	Are you worried about her?	VO_lamia.lamia_sys_0003
+044	Sort of. She tends to overthink things on her own.	VO_naofumi.naofumi_sys_0004
+045	The monsters from our world are terrorizing the people of yours...	VO_melty.melty_sys_0039
+046	They shouldn't be here, yet I can't even do anything to stop them... And I'm a princess... I'm pathetic.	VO_melty.melty_sys_0018
+047	As Melty Melromarc, the successor to the throne of Melromarc and its second princess, please accept my sincerest apologies.
+048	It sure seems that way...	VO_lamia.lamia_sys_0004
+049	I find it to be rather admirable. Despite being so young, she's still doing her best to fulfill her duties as part of the royal family.
+050	I guess that's true...	VO_naofumi.naofumi_sys_0006
+051	As one of the Heroes, I should be helping her accomplish that...	VO_naofumi.naofumi_sys_0016
+052	(But in order to do that, I need to reconcile with the three Heroes that tricked me, looked down on me, and even scorned me...)
+053	Ugh... She keeps telling me to reconcile even though they couldn't care less...	VO_naofumi.naofumi_sys_0030
+054	Is that not your duty as a Hero?
+055	...
+056	I can sympathize with you, though. It must be difficult to gain the trust of those in an unfamiliar world.	VO_lamia.lamia_sys_0002
+057	But you should take into consideration the fact that the friends watching you go through this are also having a difficult time.
+058	Melty looked devastated when you were talking about that earlier. I sort of understand how she must have felt.	VO_lamia.lamia_sys_0031
+059	The person who I hold most dear to me also had to struggle alone, just like you. It's because they always behaved recklessly.	VO_lamia.lamia_sys_0030
+060	...
+061	It was so terribly painful watching the person I held closest to me suffer so much... I didn't want them to think that they were dealing with it all alone.	VO_lamia.lamia_sys_0018
+062	I didn't intend to leave them all alone... I'm sure your friends feel the same.
+063	...
+064	You may indeed have been alone in the beginning, but now you have companions who believe in you.	VO_lamia.lamia_sys_0003
+065	So if you are truly being falsely accused of this crime as you've said, you should clear up this misunderstanding immediately.	VO_lamia.lamia_sys_0002
+066	You need to settle this for the sake of those closest to you, as well.
+067	...
+068	For those closest to me...	VO_naofumi.naofumi_sys_0016
+069	N-Naofumi!	VO_melty.melty_sys_0001
+070	U-um... I just want to, um... I wanted to say that I'm sorry for how I acted earlier!	VO_melty.melty_sys_0035
+071	...
+072	Naofumi?
+073	...No, it's nothing.	VO_naofumi.naofumi_sys_0039
+074	You didn't do anything wrong. I should've explained my reasoning better.	VO_naofumi.naofumi_sys_0001
+075	Yeah, I need to do a better job of explaining things... For their sake, too.	VO_naofumi.naofumi_sys_0006
+076	Huh?	VO_melty.melty_sys_0025
+077	Naofumi, the time limit you told us about is going to run—	VO_ryle.ryle_sys_0002
+078	Ah!
+079	The monsters keep pouring out of the rift... So this is what a Wave looks like... It's truly frightful.	VO_lamia.lamia_battle_0019
+080	We'll probably be able to suppress the Wave if we take down the boss. We just have to figure out where it is first...	VO_ryle.ryle_sys_0001
+081	Yeah... But just standing here won't do us any good. It's hiding behind the other monsters!	VO_naofumi.naofumi_sys_0004
+082	Argh!	VO_naofumi.naofumi_battle_0019
+083	Naofumi, watch out!
+084	Haaaaaah!	VO_raphtalia.raphtalia_battle_0007
+085	Lord Naofumi, are you all right?!
+086	Raphtalia!
+087	Master! I'm here, too!	VO_filo.filo_sys_0001
+088	Oh, hey, Filo... Glad to see you're okay.	VO_naofumi.naofumi_sys_0004
+089	Is that...?	VO_naofumi.naofumi_sys_0001
+090	It's coming for us, Lord Naofumi!	VO_raphtalia.raphtalia_battle_0019

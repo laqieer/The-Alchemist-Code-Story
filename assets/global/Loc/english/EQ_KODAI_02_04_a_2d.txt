@@ -1,0 +1,162 @@
+﻿001	So what are you going to do next?	VO_matia.matia_sys_0001
+002	You told me you had unfinished business on the outside, right?
+003	I can't imagine you meant just hiding out like this.
+004	Yes... Actually, I have friends I want to meet up with, but...	VO_schmeier.schmeier_sys_0006
+005	I don't think that would be a good idea right now. I'm already being targeted, so I'd just end up putting the two of us in danger.
+006	Besides, I don't even know where we are right now. It's like we're moving blindly.
+007	...Well whoever they are, it sounds like they're important to you.	VO_matia.matia_sys_0044
+008	They are. They're my hope. The future of this world depends on their journey.	VO_schmeier.schmeier_sys_0007
+009	...Then how about a diversion?
+010	A diversion?	VO_schmeier.schmeier_sys_0039
+011	There are ways you can help your friends from afar as well.	VO_matia.matia_sys_0005
+012	If you can attract Ophioneus' attention, that should take some heat off your friends, right?
+013	And if they focus on me, that gets you what you want too?
+014	You got it.	VO_matia.matia_sys_0007
+015	I understand what you mean, but how would I even go about doing that?	VO_schmeier.schmeier_sys_0001
+016	We start a rebellion.
+017	...We what?
+018	I told you, didn't I? I've got an old acquaintance here.	VO_matia.matia_sys_0004
+019	Knowing him, he'd jump at the chance.	VO_matia.matia_sys_0010
+020	Well done, Carnet.
+021	Thanks to you, those filthy beasts will think twice before attacking our streets again.
+022	What a crap job. How about something a little more tasteful next time?	VO_karne.karne_sys_0030
+023	Oh, I know, I know, my angel. But when I need something dead, I can always count on you.
+024	It was only because I was shorthanded that I assigned you such a grubby task. I already have something much more extravagant in mind for your next job.
+025	More extravagant?	VO_karne.karne_sys_0039
+026	Yes. The next target is…a dragon!
+027	A dragon…
+028	(He's avoiding trying to explain about it…)	VO_karne.karne_sys_0044
+029	Sounds interesting. So what exactly is the plan?
+030	You can ask about it from this gentleman here. Right? You are…?
+031	I'm Shahel. Thank you very much.	VO_chahele.chahele_sys_0006
+032	Those who are dissatisfied with the present reign, those who doubt its benefits, and those who desire the benefits of strife.	VO_matia.matia_sys_0002
+033	They exist in any generation.
+034	If these people were brought together and formed one organization…
+035	Even Ophioneus would have no choice but to act on a situation like that.	VO_matia.matia_sys_0006
+036	I see…	VO_schmeier.schmeier_sys_0045
+037	In that sense, the Sloth Layer is very convenient.
+038	A melting pot of all the worst parts of humanity, as I've explained before.
+039	That's right. Actually…	VO_schmeier.schmeier_sys_0006
+040	There are safety concerns around here.	VO_schmeier.schmeier_sys_0020
+041	But as long as there is human activity, there is a degree of law and order. Though…
+042	There is Big Heaven, the casino run by the extremely wealthy Aedith in the middle of Redington.
+043	So taking control of that establishment means taking control of the city.	VO_matia.matia_sys_0005
+044	You're not thinking of raiding it, are you?	VO_schmeier.schmeier_sys_0031
+045	I must ask, do you think I'm only capable of violence?	VO_matia.matia_sys_0003
+046	No, that's not what I meant.
+047	We'll discus it at some point, but the center of this town is that casino.	VO_matia.matia_sys_0016
+048	So we need to take control of it.
+049	That man Aedith is a hardcore gambler. If we lure him, he could be controlled.
+050	Really?	VO_schmeier.schmeier_sys_0030
+051	Yes, really. I bet my entire fortune and lost everything once before.	VO_matia.matia_sys_0004
+052	Hmm?
+053	It was after that the owner of the inn helped me out.
+054	I'd like to ask you something.	VO_schmeier.schmeier_sys_0001
+055	Yes?	VO_matia.matia_sys_0005
+056	You're trying to say good things about this city, but it seems you just want revenge against the city taking your money.	VO_schmeier.schmeier_sys_0003
+057	What are you saying, Schmeier? If you lose, it's only natural to fight and take back what is yours.	VO_matia.matia_sys_0010
+058	So, let's go. We'll take this town and make Aedith suffer with embarrassment.	VO_matia.matia_sys_0007
+059	Hm… Looks like I made an odd choice for an ally.	VO_schmeier.schmeier_sys_0030
+060	H-hey, that girl…
+061	It can't be. Matia? When did she come back to the city?
+062	All eyes are on us.	VO_schmeier.schmeier_sys_0042
+063	You're right. But why?	VO_matia.matia_sys_0006
+064	(She didn't cause a scene at the casino before, did she?)
+065	Is this seat taken?	VO_matia.matia_sys_0001
+066	It's you…
+067	Didn't you say you retired from gambling?
+068	I remembered there was a little more left to do.	VO_matia.matia_sys_0004
+069	So you're here to play for a bit? Seriously?
+070	It's not like I'm a beginner around here.
+071	I'll make sure you'll be left with nothing.
+072	Is that a dare?	VO_matia.matia_sys_0008
+073	Hm? Hmmm?
+074	(This is not what I was expecting…)
+075	Hit me. Hit me. Hit me.	VO_matia.matia_sys_0044
+076	How the…? How is she doing this?
+077	Um, you think you'll win this?	VO_schmeier.schmeier_sys_0001
+078	Yup.	VO_matia.matia_sys_0005
+079	You have cards drawn, then the total sum of the numbers shown on the cards must be the closest to the target number.
+080	So it's a game of chance?
+081	It is, but it's not only about luck.	VO_matia.matia_sys_0006
+082	It's also about when to pass and how far your opponent is willing to go. Strategy is important.
+083	And like this…	VO_matia.matia_sys_0004
+084	I won again…
+085	This is just like what happened a decade ago.
+086	As for passing, how do you know when to do that?	VO_schmeier.schmeier_sys_0016
+087	The opponent's intuition. I'm never wrong when reading their minds.
+088	Seems like a waste of your talent, is it not?	VO_schmeier.schmeier_sys_0031
+089	Oh, that's a bust for you, isn't it?
+090	Grr…
+091	You're no match for me.	VO_matia.matia_sys_0003
+092	Could you call over the Casino's manager, Aedith?	VO_matia.matia_sys_0002
+093	Grr... Ugh... Dammit...
+094	Seriously... don't bully the employees you used to work with, Matia.
+095	Aedith. So good to see you finally.	VO_matia.matia_sys_0029
+096	You're always bringing trouble with you. What is it this time? Money issues?
+097	Well, I'll lend a hand. Alright?
+098	As always, you're a man with a good choice of words.	VO_matia.matia_sys_0030
+099	That's part of my job. That's how I got to the top. So, are you here to lose again?
+100	Is that what you think?	VO_matia.matia_sys_0010
+101	No, as you're not a woman who looks toward death without a plan. I know that well.
+102	After all, we're friends who have each other's backs.
+103	Your backs?	VO_schmeier.schmeier_sys_0039
+104	Back in the days as a free mercenary, this guy was my partner of all things.	VO_matia.matia_sys_0004
+105	It seems you've brought a beautiful lady along with you. You're a dragon…
+106	I assume that the reason why Matia is here is because of you.
+107	Yes, I actually have a business meeting!.	VO_schmeier.schmeier_sys_0007
+108	Business meeting?
+109	Schmeier, what are you talking about?
+110	Well, I'm just not reckless to have my fate decided by gambling.	VO_schmeier.schmeier_sys_0031
+111	A fair deal would be much easier. Isn't that right, Aedith?
+112	I see. You want something, so what are you willing to do for it?
+113	What I want is land. I'd like a place where I can continue my research and without bother from others.	VO_schmeier.schmeier_sys_0004
+114	And in return, I'd like to offer my services to better everyone's lives.
+115	Is that right?
+116	The development of this city is amazing! But because of rapid development, there are some things that have been unattended.	VO_schmeier.schmeier_sys_0009
+117	The structural integrity of roads and buildings. The upkeep of waterworks and sewage facilities. The development of distribution…
+118	There are many things to consider, correct?	VO_schmeier.schmeier_sys_0001
+119	Of course. But we humans don't live as long and aren't as strong as you dragons are.
+120	And Magil is not as well served as with you.
+121	So, what's the problem? The advantage of humankind is that we outnumber everything else.
+122	Even in a disadvantageous environment or inconvenient situation, we can adapt to it.
+123	That's the spirit of the people of the Sloth Layer.
+124	But isn't there something you'd like to be more convenient?	VO_schmeier.schmeier_sys_0045
+125	I can give you the ideas and technology to develop even further. Would that be a consideration?
+126	Miss dragon. I'm sure that the dragons were skeptical about dragon technology falling into the hands of humans.
+127	Only dragons should be using that tech, right?
+128	Well, that is true. But…	VO_schmeier.schmeier_sys_0006
+129	You must have thought it was unreasonable too.	VO_schmeier.schmeier_sys_0003
+130	…
+131	I can see it within the city. Even this establishment is using dragon technology.
+132	The land was abandoned by the dragons. That is true…	VO_schmeier.schmeier_sys_0044
+133	You're not thinking about dragonkind, but instead thinking about your own desires.
+134	Any dragon would find this offensive to see.	VO_schmeier.schmeier_sys_0016
+135	And you're different from them?
+136	Of course. My purpose is having a coexistence with you humans!	VO_schmeier.schmeier_sys_0038
+137	…
+138	She's got quite a mouth…	VO_matia.matia_sys_0044
+139	That's my honest thought. My goal is to have peace. And for that…	VO_schmeier.schmeier_sys_0008
+140	In order for the dragons to continue to live, they need the "Shell of the World."	VO_schmeier.schmeier_sys_0004
+141	…
+142	Sounds interesting. That really touched my soul, dragon girl.
+143	Really? Then…	VO_schmeier.schmeier_sys_0007
+144	Really… It would've been so much nicer to have met you three days ago…
+145	Huh…?	VO_schmeier.schmeier_sys_0025
+146	! Schmeier! Get down!
+147	They're aiming at us…?
+148	No, they aren't. But…	VO_matia.matia_battle_0022
+149	I can't see them… Are they after us, Aedith?
+150	Personal brawls are forbidden in the casino. You were the one who decided that, remember?	VO_matia.matia_sys_0014
+151	Yes, exactly as you say, Matia. I'm just being irrational, that's all.
+152	My life is at stake here. And I'm not the only one. The lives of everyone on this floor as well.
+153	What…?	VO_matia.matia_sys_0025
+154	As you say, Lord Aedith.	VO_chahele.chahele_sys_0037
+155	Schmeier the runaway… If you could kill her with your own hands…
+156	Ophioneus will surely recognize the autonomy of this land.
+157	You're that high elf…!	VO_schmeier.schmeier_sys_0029
+158	Yes. It's a pleasure to see you again, Schmeier.
+159	Lord Aedith.	VO_chahele.chahele_sys_0004
+160	I know. Go, Carnet!
+161	Understood.	VO_karne.karne_sys_0004
+162	Schmeier, get behind me! First, we must figure out the sniper's position!	VO_matia.matia_battle_0019

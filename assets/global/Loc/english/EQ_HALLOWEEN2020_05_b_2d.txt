@@ -1,0 +1,132 @@
+﻿130	Horyaaah!	VO_rameses.rameses_battle_0004
+001	Numu...mu...	VO_Mrat.Mrat_battle_0028_c
+002	That should be the last of that. All that remains is to apply the antidote.	VO_rameses.rameses_sys_0030
+003	Is everyone all right?
+004	Ah, you two! Never have I been gladder to see you!
+005	The townspeople said you all took off towards the orphanage, so we followed.	VO_cheryl.cheryl_sys_0005
+006	That's the most enormous Ratty I've ever seen. I do hope I have enough antidote...	VO_rosa.rosa_sys_0031
+007	Urgh... What happened?	VO_mob-saga_omale.mob-saga_omale_sys_0042
+008	You drank a festival's supply of potions and then turned into a Ratty the size of a house.	VO_blanchett.blanchett_sys_0031
+009	Waaah! Director! Thank goodness you're all right!
+010	Ah, there you are, children. I'm sorry if I worried you.
+011	Why did you drink all those potions? Didn't you think it might be a bad idea?	VO_cheryl.cheryl_sys_0001
+012	I figured if I did, I could knock the whole carnival for a loop. Like one big pleasant surprise for everyone.	VO_mob-saga_omale.mob-saga_omale_sys_0031
+013	My plan was to win the prize and use the winnings to hold a Halloween party for the orphanage.
+014	All the kids have given up on going to the carnival. I just wanted to give them a pleasant surprise of their own this year.	VO_mob-saga_omale.mob-saga_omale_sys_0030
+015	So it was really all for the children...
+016	But why in the world did you drink so many?	VO_rosa.rosa_sys_0002
+017	A lot of the townspeople had already taken one.	VO_mob-saga_omale.mob-saga_omale_sys_0004
+018	I figured that just one potion wouldn't be enough to stand out, so I took as many as I could.
+019	I hope you realize how irresponsible that was.	VO_cheryl.cheryl_sys_0012
+020	Ordinarily, this is the point where you would face the consequences of all the trouble you've caused.
+021	However, it is clear as day that you mean much to these children, and I am satisfied that you acted with their interests at heart.	VO_rameses.rameses_sys_0004
+022	In light of your good intentions, I will grant you my royal pardon.
+023	You mean...? Th-thank you!	VO_mob-saga_omale.mob-saga_omale_sys_0033
+131	However! As the ruler of this institution, you have a duty to be more thoughtful. Look upon the distress your actions have caused your young subjects!	VO_rameses.rameses_sys_0003
+024	Endangering yourself, no matter how noble your intentions, causes those who care for you to suffer. Never forget that.
+025	I-I won't!	VO_mob-saga_omale.mob-saga_omale_sys_0005
+026	Although, in this case, I must accept some responsibility myself for proposing this ill-advised contest.	VO_rameses.rameses_sys_0030
+027	After all, a surprise is only pleasant if it is conceived of with consideration for the feelings of others.
+028	The mark of a truly pleasant surprise is a smile on every face once all is over.	VO_rameses.rameses_sys_0031
+029	A smile on every face...	VO_julia.julia_sys_0031
+030	My, these are just beautiful! Is this your handiwork, Julia?	VO_emmer.emmer_sys_0024
+031	Thank you. I feel more at peace already.	VO_emmer.emmer_sys_0034
+032	What's wrong, Julia? You look a million miles away.	VO_blanchett.blanchett_sys_0005
+033	An old memory just came back to me. Once, I prepared a vase of flowers for the woman I served, in the hope that she would find some joy in it.	VO_julia.julia_sys_0004
+034	She was surprised, at first...but then she smiled and thanked me.
+035	Then, seeing that, I could not help but smile too.
+036	So those flowers were a symbol of the precious bond you shared... How wonderful!	VO_blanchett.blanchett_sys_0007
+037	Perhaps you're right. At last, I think I understand what a pleasant surprise is.	VO_julia.julia_sys_0007
+038	Finally, a smile.	VO_rameses.rameses_sys_0008
+039	Ah...	VO_julia.julia_sys_0025
+040	Oh right, something about... No glum faces in the presence of the radiance of the Successor of the Sun, uh... No, wait, seriously, what did I say? Never mind...
+041	I'm happy to see you smiling too, Julia! And I'm sure the person you used to serve would be just as delighted.	VO_blanchett.blanchett_sys_0007
+042	Blanchett...
+043	(If Freed has been summoned as a Phantom Soldier, I hope he's having a good time, too.)	VO_blanchett.blanchett_sys_0022
+044	(I'd like to think that he no longer feels any kind of suffering... Although knowing him, I'm sure he's fine.)
+045	Thank you, both of you, for being so considerate.	VO_julia.julia_sys_0033
+046	There is nothing to thank me for. It is the duty of the Successor of the Sun to bring joy to his people!	VO_rameses.rameses_sys_0007
+047	I also must admit... I did not like watching you always put the interests of others before your own.
+048	I-I wasn't trying to do anything so noble.	VO_julia.julia_sys_0042
+049	No. I have seen that nigh-fanatical dedication to service within you. It's all in your eyes.	VO_rameses.rameses_chara_1010
+050	I don't know what you mean. How could you tell?	VO_julia.julia_sys_0025
+051	I am very familiar with it. Eyes like yours have directed their ire at me many times.	VO_rameses.rameses_sys_0030
+052	(She trusted me with some things, but my dear sister always played her most important cards close to her chest.)
+053	(Often do I find myself conscious of not getting too close and accidentally ruining one of her plans...)
+054	(However, sometimes a little intervention is necessary, because I care for her.)	VO_rameses.rameses_sys_0031
+055	(After all, a little pushback is necessary for any healthy sibling relationship.)
+056	If my beloved sister knew that it was my fault that everything had gotten so out of control, I'm sure I would never hear the end of it.
+057	I am truly sorry, everyone! There are no words to express the depth of my remorse!	VO_rameses.rameses_sys_0035
+058	Even I could not have resolved the mess I made without all of your help. Thank you from the bottom of my heart.	VO_rameses.rameses_sys_0002
+059	...
+060	What is it?	VO_rameses.rameses_sys_0003
+061	Well, it's true that none of this would have happened if not for your contest, but...	VO_cheryl.cheryl_sys_0004
+062	It was only because your enthusiasm was so infectious that we went along with the idea in the first place.	VO_blanchett.blanchett_chara_2001
+063	Sure, you can come on a little strong, but when you really want to do something, you make it happen. It's so inspiring that I had to help.
+064	Agreed. I certainly felt that way.
+065	Yes. I'm sure no one has any doubts as to whether your intentions were good.	VO_cheryl.cheryl_sys_0005
+066	Thank you, everyone.	VO_rameses.rameses_sys_0008
+067	How blessed I am to have ever been surrounded by others who help me cast my radiance upon all. I could not accomplish all I do without them.
+068	Yes... I suppose you are right. It is not about how well you serve, but how well you can support another, and how well they support you in turn.
+069	(That sounds a little like Emmel and I...)
+070	Julia, these flowers... You're the one who arranged them?	VO_emmer.emmer_sys_0002
+071	Yes. I hoped that perhaps their loveliness might ease your heart a little...
+072	A little? They're absolutely wonderful! They make my heart sing with joy!	VO_emmer.emmer_sys_0008
+073	Thank you for thinking of me, Julia. I am truly blessed to have someone like you who cares for me and supports me as you do.	VO_emmer.emmer_sys_0034
+074	A profound relief! We have delivered the antidotes to all who require them and invited the young ones from the orphanage to the carnival, safely navigating all troubled waters!
+075	Well done, everyone. All that's left is to pass out sweets to all the children attending.	VO_cheryl.cheryl_sys_0037
+076	At long last, we return to the town square where we will hand out the—hm? Where are the sweets?	VO_rameses.rameses_sys_0031
+077	Oh, the sweets? Julia has—	VO_cheryl.cheryl_sys_0004
+078	Wow! Look at this! This paper cutout is super cool! It's just like the real thing!
+079	Look here! If you tug on this bit, it looks like it's flying! It's like magic!
+080	Blanchett's cutouts are quite the hit. I heard you were the one to suggest that we put them out for everyone to see.	VO_rosa.rosa_sys_0002
+081	Indeed it was. They are truly masterpieces. It would have been such a waste for them to go unappreciated.	VO_julia.julia_sys_0006
+082	Oh! Don't make me blush! I mean, I'm not complaining, but...
+083	Julia, I have been searching for the sweets we prepared—	VO_rameses.rameses_sys_0002
+084	Oh, yes. I have them here. I thought it might be nice to wrap them up with some festive decorations before we pass them out.
+085	Each sweet has been paired with its own unique paper cutout... How wondrous!
+086	It was Julia's idea! The two of us worked together to make it happen, but she really deserves the credit for coming up with it!	VO_blanchett.blanchett_sys_0007
+087	Not at all. All I did was to observe that it might not be exciting for everyone to receive the exact same treat.	VO_julia.julia_sys_0025
+088	So then you came up with the brilliant idea of lending it extra fun and surprise by adding the cutouts!	VO_rameses.rameses_sys_0044
+089	Yes. Blanchett's paper cutouts seemed like the ideal way to add a splash of excitement to something mundane.
+090	We also topped them with pieces of fruit to add a little extra color.	VO_julia.julia_sys_0031
+091	And my potion lets the children change the colors and flavors! Won't that be fun?	VO_rosa.rosa_sys_0007
+092	Fun? Perhaps. As long as no humans turn into Lizardmen or some such...	VO_rameses.rameses_sys_0031
+093	They won't! Where's your faith in me?!
+094	Well... In any case, as long as it doesn't happen, everything should be fine. More importantly, all this must have taken a lot of time and energy.
+095	Actually, it was unexpectedly enjoyable. These kinds of repetitive tasks seem to suit me rather well.	VO_julia.julia_sys_0006
+096	Truly?	VO_rameses.rameses_sys_0025
+097	Now that I think about it, I've always found comfort in this kind of work. I used to do things like cooking and cleaning for the one I served...
+098	At the time, I just thought of it as part of my job.
+099	However, now I know that I enjoy working quietly while imagining how happy people will be with the results of my efforts. It's like I've discovered a whole new side to myself.	VO_julia.julia_sys_0007
+100	I see! I get that.	VO_blanchett.blanchett_sys_0004
+101	Trick or treat! Give us candy or you'll get pranked!
+102	Haha, okay! Here you go!	VO_julia.julia_sys_0004
+103	Whoa, look at this! There's a paper thing on it! I've got a rabbit!
+104	Check this out! My cupcake has a cherry on top!
+105	...
+106	It looks like everyone is having a lot of fun!	VO_blanchett.blanchett_chara_1004
+107	Indeed! At last, this carnival reflects the glory of the Successor of the Sun!	VO_rameses.rameses_sys_0006
+108	Hehe. Halloween really is quite fun, isn't it?	VO_julia.julia_sys_0007
+109	!
+132	!
+110	What did you just say?	VO_blanchett.blanchett_chara_2001
+111	Once more, if you would!	VO_rameses.rameses_sys_0004
+112	Wh-what?! I don't think I said anything that strange!	VO_julia.julia_sys_0026
+113	No! I mean, no, you didn't, but this is the first time you've said you were enjoying yourself!
+114	Oh!	VO_julia.julia_sys_0025
+115	Ha! I didn't think you had it in you to surprise me!	VO_rosa.rosa_sys_0008
+116	Yes, that was certainly unexpected.	VO_cheryl.cheryl_sys_0007
+117	Haha! Wonderful! It is decided, then. Of all the Phantom Soldiers, the greatest "pleasant surprise" of the day belongs to Julia!	VO_rameses.rameses_sys_0008
+118	Agreed!
+119	What?!
+120	What reward do you demand of the Successor of the Sun? I will grant you whatever you wish.	VO_rameses.rameses_sys_0003
+121	Reward? Um... I'm pretty happy with just everyone's smiles and laughter...
+122	I forbid that as an answer! You must choose something that you want!
+123	Something that I want?	VO_julia.julia_sys_0031
+124	Well... If I must say something, I thought that teddy bear was...	VO_julia.julia_sys_0006
+125	The one at the ring toss? Understood! Leave it to me!	VO_rameses.rameses_sys_0004
+126	Uh... Are you sure, Ramses? You're not going to take out any more people with carnival rings, right?	VO_blanchett.blanchett_sys_0007
+127	Of course not! I shall show you my superiority over that paltry little game!	VO_rameses.rameses_sys_0006
+128	Nothing shall stop the Successor of the Sun from getting his hands on that teddy bear!	VO_rameses.rameses_sys_0023
+129	Smile, have fun, and Happy Halloween!

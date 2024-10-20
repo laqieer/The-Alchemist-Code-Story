@@ -1,0 +1,76 @@
+﻿001	Not good! Victor, hurry up with the evacuation of the citizens!	VO_chloe.chloe_sys_0042
+002	Understood!	VO_victor.victor_sys_0004
+003	Ack! How could they launch an attack over such a short period of time!	VO_chloe.chloe_battle_0019
+004	It's not just their unified leadership...their capabilities are on a whole other level!
+005	Huh...?! Yikes! Commander Chloe, we're surrounded!	VO_victor.victor_sys_0028
+006	Oh dear! Victor, dodge it!!!	VO_chloe.chloe_battle_0022
+007	Huh...?! Wh-whoa!!!	VO_victor.victor_sys_0025
+008	Uh...? H-huh?	VO_victor.victor_sys_0006
+009	It seems like we're destined to be together, little frog.	VO_basini.basini_sys_0030
+010	Basheeny...?!	VO_victor.victor_sys_0025
+011	Dyaaaaahhh!!!	VO_monzein.monzein_battle_0001
+012	Huh...?!	VO_chloe.chloe_sys_0025
+013	Pay attention to the walls as well, Chloe. Their swords can easily pierce the average wall.	VO_monzein.monzein_chara_0010
+014	Captain Monzein!	VO_chloe.chloe_sys_0020
+015	The situation is more serious than expected. Still, don't worry...	VO_monzein.monzein_sys_0030
+016	From here you have the support of us the 2nd Regiment. Let's reverse the tide of this battle!
+017	Y-yes!	VO_chloe.chloe_sys_0037
+018	Hurrah!	VO_victor.victor_sys_0046
+019	Captain Monzein the Great Thunder Axe has joined us. He has the strength of 100 men! Look out, you scum of Greed Dike!	VO_victor.victor_sys_0007
+020	That being said...I get it when it comes to the little frog, but I'm surprised to see someone as adept with the sword as you being chased into a corner.	VO_basini.basini_sys_0030
+021	Do you think they're using prototypes again?	VO_basini.basini_sys_0001
+022	Prototypes...? Oh, you mean that immortal warrior?	VO_chloe.chloe_sys_0025
+023	I knew it...	VO_basini.basini_sys_0018
+024	We'll find out the details ourselves. You did well here.	VO_monzein.monzein_sys_0004
+025	Huh? What do you mean?	VO_basini.basini_sys_0006
+026	You've managed to successfully merge with the Scarlet Flame Guard. It's your duty to report that to Kanon, right? Come on, go on then.	VO_monzein.monzein_sys_0010
+027	Huh...?! Wait, hold on! My duty is to intercept Greed Dike along with the 2nd Regiment...	VO_basini.basini_sys_0012
+028	There's no need for that anymore. We've got enough help here. Go on and get out of here.
+029	Are you still...upset about my past?	VO_basini.basini_sys_0022
+030	Of course I am, idiot!	VO_monzein.monzein_battle_0019
+031	Spies are the lowest of the low. Fighting by your side goes against my code of chivalry! Now leave!
+032	I told you, that was in the past! I've chosen to believe in Commander Kanon!	VO_basini.basini_sys_0014
+033	Shut up! Get out of here!	VO_monzein.monzein_sys_0013
+034	Seriously, I can't believe Kanon. Why would she send a guy like that with me?! I can't even focus on battle with someone who's such a liability lurking about.	VO_monzein.monzein_sys_0030
+035	Hmph! Who are you calling a liability?	VO_basini.basini_sys_0018
+036	I'm talking about you possibly betraying me to Greed Dike!	VO_monzein.monzein_sys_0010
+037	Are you gonna say that to my face?!	VO_basini.basini_sys_0016
+038	Tsk... No matter how much I try to explain it to him, he doesn't even attempt to listen.	VO_basini.basini_battle_0019
+039	This is why I hate working with people! You stupid boar.	VO_basini.basini_sys_0017
+040	I heard that! I heard that just now! You called me a stupid boar!	VO_monzein.monzein_sys_0027
+041	I'm sorry, but I follow Commander Kanon's orders not yours!	VO_basini.basini_sys_0030
+042	What did you say?! You scum!!!	VO_monzein.monzein_sys_0029
+043	Commander Chloe...he seems to be upset over something.	VO_victor.victor_sys_0031
+044	U-um...right now isn't the time for this.	VO_chloe.chloe_sys_0002
+045	Ugh...!!!	VO_vetel.vetel_battle_0019
+046	Captain Vettel!	VO_chloe.chloe_sys_0042
+047	H-here they come! Those immortal creatures!	VO_victor.victor_sys_0027
+048	Stay away! They're not people you can stand up against!	VO_vetel.vetel_battle_0023
+049	Just as you say, they're special beings. Leave this to me please!	VO_basini.basini_sys_0005
+050	Idiot! How can I leave it to the likes of you! Stand back!	VO_monzein.monzein_sys_0027
+051	Banishment!!!	VO_basini.basini_battle_0001
+052	Lightning Axe!!!	VO_monzein.monzein_chara_1017
+053	Whoa?! Th-that's impressive! You blew those immortal creatures away!	VO_victor.victor_sys_0028
+054	Is that...Captain Monzein?!	VO_vetel.vetel_sys_0046
+055	Yes! The 2nd Regiment of the Holy Guard has come as backup!	VO_chloe.chloe_sys_0037
+056	You scum! I told you not to get in my way! Didn't you hear me?!	VO_monzein.monzein_battle_0019
+057	What are you saying?! Now is obviously not the time for that!	VO_basini.basini_sys_0012
+058	They seem to be fighting about something...	VO_chloe.chloe_sys_0030
+059	No...there isn't anyone more reassuring to have as support than Captain Monzein!	VO_vetel.vetel_event_1015
+060	Captain Vettel! It's been a while. I'm glad to see you're well.	VO_monzein.monzein_sys_0025
+061	You saved us. I appreciate your support from the bottom of my heart.	VO_vetel.vetel_sys_0033
+062	Not at all. I'm honored to be able to help out an old friend of Captain Cadanova.
+063	Enough with the formal greetings. What is the current situation? Is the royal castle safe?	VO_monzein.monzein_sys_0035
+064	The thing is...	VO_vetel.vetel_chara_1007
+065	...Captain Vettel!!!	VO_chloe.chloe_sys_0042
+066	That was close! Thanks, Chloe.	VO_vetel.vetel_battle_0019
+067	These creatures! They're still standing up even after being hit by my attack?!	VO_monzein.monzein_sys_0027
+068	...?! Wait, where's the other one?!	VO_chloe.chloe_sys_0042
+069	Little frog, behind you!	VO_basini.basini_sys_0027
+070	Huh...?	VO_victor.victor_sys_0025
+071	Victor! Run!	VO_chloe.chloe_battle_0022
+072	Wh-wha...?!	VO_victor.victor_sys_0026
+073	Huh...?	VO_victor.victor_sys_0025
+074	They're still unfinished products...having not reached their full potential yet. You're lucky they're still capable of dying.	VO_fengliu.fengliu_sys_0030
+075	...! You...?	VO_monzein.monzein_sys_0027
+076	I am Fung Liu. I am what you call...a completed version of them.	VO_fengliu.fengliu_chara_1024

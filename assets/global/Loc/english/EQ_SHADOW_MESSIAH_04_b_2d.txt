@@ -1,0 +1,33 @@
+﻿001	...
+002	Lord Zahar! Are you injured?	VO_laetitia.laetitia_sys_0002
+003	Of course not.	VO_zaharu.zaharu_sys_0010
+004	Let's get going. We need to get these Obsidian Stars back to the base.	VO_zaharu.zaharu_sys_0002
+005	As you command...	VO_laetitia.laetitia_sys_0005
+006	These stones—the Obsidian Stars—will be of great use to our cause.	VO_zaharu.zaharu_sys_0007
+007	(All will be devoured, leading this world to new horizons.)
+008	(Yes… I will destroy the Holy Order of Babel!)	VO_zaharu.zaharu_battle_0003
+009	...
+010	What's the matter, Spica?	VO_syrma.syrma_sys_0031
+011	You've been cooking up a storm since we got back to the base!	VO_ila.ila_sys_0001
+012	And you're actually cutting up the meat and fish!
+013	You're actually pretty handy with that knife! I'm impressed.	VO_ila.ila_sys_0044
+014	Corvus?	VO_spica.spica_sys_0003
+015	Finished, are we?	VO_niggle.niggle_sys_0006
+016	Yes. Would you taste-test it for me?	VO_spica.spica_sys_0004
+017	Sure.	VO_niggle.niggle_sys_0004
+018	Hmm... This is no good. You put in too much pepper.	VO_niggle.niggle_sys_0016
+019	Okay. I'll start over.	VO_spica.spica_sys_0016
+020	...
+021	(She's improving. Maybe this means her doubts...)	VO_niggle.niggle_sys_0031
+022	They're starting to clear.	VO_niggle.niggle_sys_0010
+023	Huh?	VO_spica.spica_sys_0006
+024	Nothing. Never mind.
+025	Ila!	VO_niggle.niggle_sys_0002
+026	What?!
+027	It's time for training. Follow me.
+028	O-okay!	VO_ila.ila_sys_0004
+029	Wow, Corvus. I don't think I've ever heard you volunteer to train us before!	VO_syrma.syrma_sys_0025
+030	Lord Zahar left the Shadow Messiah in my care—that includes you three.	VO_niggle.niggle_sys_0010
+031	I'm not in the habit of letting him down. Come on, Silma. You've got to train too.	VO_niggle.niggle_sys_0002
+032	Y-yes, sir!	VO_syrma.syrma_sys_0006
+033	(Hmph... Looks like they've been having an effect on me as well.)	VO_niggle.niggle_sys_0016

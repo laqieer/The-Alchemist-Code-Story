@@ -1,0 +1,65 @@
+﻿001	We did it! Victor...	VO_frayze.frayze_sys_0009
+002	Be careful!	VO_victor.victor_battle_0019
+003	An ambush...?!	VO_frayze.frayze_sys_0025
+004	I told you, didn't I? Now we're completely surrounded...	VO_victor.victor_sys_0030
+005	Ack. I'm sorry. This is all my fault.	VO_frayze.frayze_sys_0027
+006	Victor, I'll create an escape route for you! Run and report what's happened here to the king!	VO_frayze.frayze_sys_0003
+007	What are you talking about?! Look at how many of them there are! You'll die in the meantime!	VO_victor.victor_sys_0012
+008	Don't worry about me! Please...!	VO_frayze.frayze_event_1003
+009	I won't go!	VO_victor.victor_sys_0039
+010	Go!	VO_frayze.frayze_sys_0042
+011	I told you I'm not going!	VO_victor.victor_battle_0011
+012	Just because this is your first mission, stop trying to shoulder everything on your own!
+013	We're in this together! You've got to trust and rely on me!	VO_victor.victor_battle_1028
+014	...!
+015	("A knight must protect and believe in his country, his people, and his comrades"...)
+016	That's right. I got so caught up in this mission that I forgot to trust my own comrades.	VO_frayze.frayze_sys_0018
+017	Seriously. You've always been a little air-headed. I can't tell whether you're dependable or not.	VO_victor.victor_sys_0030
+018	Besides, you're the commander now. How stupid are you to go charging in on your own...?!	VO_victor.victor_sys_0022
+019	You gotta leave that kind stuff to me.
+020	Heheh...	VO_frayze.frayze_sys_0007
+021	Huh? What're you laughing about?	VO_victor.victor_sys_0012
+022	No...I just find you really dependable right now.	VO_frayze.frayze_event_1003
+023	It's such a reassuring thing to know that someone has my back.
+024	It's a little late for that. Oh, in that case, maybe that will reassure you even more!	VO_victor.victor_chara_1006
+025	Huh...?	VO_frayze.frayze_sys_0016
+026	Aghhh...!!!	VO_knightm.knightm_battle_0026
+027	Captain! We've come to assist you!
+028	Soldiers...why?	VO_frayze.frayze_sys_0025
+029	You just went off on your own when we got word of the enemy attack, so I went and told everyone.	VO_victor.victor_sys_0030
+030	I'll admit...today you've all taught me a lot.	VO_frayze.frayze_sys_0029
+031	Thanks for the compliment!	VO_victor.victor_sys_0010
+032	Agh...!	VO_knightm.knightm_battle_0027
+033	Are the two of you all right?!
+034	Yes! Victor! Let's go!	VO_frayze.frayze_sys_0004
+035	Already on it!	VO_victor.victor_sys_0005
+036	...We somehow managed to finish them off.	VO_victor.victor_sys_0022
+037	I wouldn't have been able to do it without you. Thank you so much. And...	VO_frayze.frayze_sys_0034
+038	I'm sorry. My inexperience put you in danger.	VO_frayze.frayze_sys_0035
+039	Please...enough of that!	VO_victor.victor_sys_0027
+040	I...just did the obvious things that a knight is supposed to do.	VO_victor.victor_sys_0016
+041	Well...I learned a lot from your example. And I realized that I've still got so much I need to learn...	VO_frayze.frayze_event_1003
+042	Victor, I have a request I'd like to make of you!	VO_frayze.frayze_sys_0003
+043	A request...?	VO_victor.victor_sys_0006
+044	Please, be my friend!	VO_frayze.frayze_sys_0041
+045	What?! What's gotten into you?!	VO_victor.victor_sys_0012
+046	You helped me realize something important! I need a friend like you!	VO_frayze.frayze_sys_0004
+047	I want to become friends with you! So...!
+048	No! I told you, didn't I? I feel uncomfortable around you!	VO_victor.victor_sys_0016
+049	Why?! What's wrong with me? Please, tell me, Victor!	VO_frayze.frayze_sys_0021
+050	No, Vicky!	VO_frayze.frayze_event_1003
+051	Why are you suddenly calling me by my nickname?! Argh...fine! If you want to know that badly, I'll tell you!	VO_victor.victor_sys_0029
+052	You're such a hard worker and you're amazing! You can do anything, but you're also super humble!	VO_victor.victor_sys_0016
+053	You work hard and you don't brag! When you show me that side of you, I lose confidence in myself!
+054	Also, you're tall! But you're not stuck-up. And you're easy-going!	VO_victor.victor_battle_1028
+055	Hmm. I see the problem. My height, huh? I can't make myself shorter...so maybe I should brag more?	VO_frayze.frayze_sys_0042
+056	Look at me, Vicky! I'm amazing, aren't I?	VO_frayze.frayze_sys_0008
+057	Jeez! Seriously! I can't even hate the way you brag! Argh! I'm getting so annoyed!	VO_victor.victor_sys_0016
+058	Come on. Let's go back! You've got a report to deliver and stuff, right?!
+059	Wa-wait, Vicky!	VO_frayze.frayze_chara_2007
+060	Shut up!	VO_victor.victor_battle_1028
+061	...I feel like I've only managed to make matters worse.	VO_frayze.frayze_sys_0031
+062	Sigh... I'm so bad at these things.	VO_frayze.frayze_sys_0030
+063	That being said, as long as we stick together...we can become stronger!
+064	Yes...I've still got a lot of room to grow!
+065	And...and...one day...!

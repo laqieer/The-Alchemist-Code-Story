@@ -1,0 +1,45 @@
+﻿001	Your blade is rigid... Inflexible. So... You still believe that the path you have chosen is the only means of salvation?	VO_kuienai.kuienai_battle_0019
+002	...
+003	Not in the mood to answer? Perhaps this will loosen your—	VO_kuienai.kuienai_sys_0022
+004	This tremor... The dragon is on the move?	VO_kuienai.kuienai_sys_0025
+005	It is time.
+006	Hold it! You intend to flee?	VO_kuienai.kuienai_sys_0002
+007	I have seen right through you. You are not good enough to hinder me.
+008	Tch!	VO_kuienai.kuienai_sys_0018
+009	Surely you have realized it by now... You don't have what it takes.
+010	Regardless of how impressive the arms you forge, and how much you improve your sword skills... You will never reach the Truth.
+011	So what?	VO_kuienai.kuienai_sys_0010
+012	I forge weapons. Nothing more, nothing less. One day, these hands will create a blade capable of destroying a God. That is, after all, why my life was spared.
+013	Know this... The next time we meet, you will draw your last breath, and you will die as the final quester of the Avarice Belt Region.
+014	...
+015	Nimul needs me. I had best hurry.
+016	Warning. Extensive turbulence has been detected. Immediate change of route is required. Repeat, immediate—
+017	Aaaaahhh!	VO_emmer.emmer_sys_0028
+018	Lady Emmel!	VO_julia.julia_battle_0022
+019	Th-thank you, Julia.	VO_emmer.emmer_sys_0042
+020	We don't have time to stand on ceremony, my lady. What are we going to do?	VO_julia.julia_battle_0019
+021	You're right...	VO_emmer.emmer_sys_0004
+022	I think...the Great Nidhogg is taking flight!	VO_emmer.emmer_sys_0021
+023	This is bad. Nimul and the others are still in the dragon's interior!	VO_julia.julia_battle_0022
+024	Hrrghh! No! The Matter isn't responding! I can't do anything!	VO_emmer.emmer_battle_0019
+025	Aaahh! L-look! Fallen are...emerging from inside the Guardian Dragon!	VO_emmer.emmer_sys_0025
+026	Uuuuuuhhhhhhhhh!
+027	No! They're going to damage the airship!	VO_emmer.emmer_sys_0027
+028	Leave it to me, my lady.	VO_julia.julia_battle_0001
+029	Uuhhhh...
+030	From your garb and equipment, I can see that you must have once been warriors of note.	VO_julia.julia_sys_0031
+031	However... Your attacks are no longer as skilled as they once were, and I cannot feel a hint of the burnished light of the Sephira from within you.
+032	I suppose...such is the fate of one who has fallen to the corruption of sin.
+033	Haaaaaaaaarrrhhhh!
+034	And for you to attack the Vessel of Purification, even though you should be prepared to risk your own life for her sake...	VO_julia.julia_battle_0022
+035	Truly, not a single shred of the pride of the Sephira people remains within you.
+036	Therefore, it is up to those of us who came after to show you the error of your ways.
+037	Pray, prepare yourselves.	VO_julia.julia_battle_0007
+038	What was that?	VO_emmer.emmer_sys_0025
+039	Now that Sephiron's protection has receded, I felt it necessary to employ a little trick of mine.	VO_julia.julia_sys_0007
+040	You see... I used a technique that allows me to imbue my gear with Sephirium, thereby strengthening the blessing of the great tree.
+041	I am aware that Yna was able to succeed at this on his own, but a similar technique is known to those of us in the Sephira Guard.
+042	Now, please... Stand back, my lady.	VO_julia.julia_battle_0019
+043	I will be the one to correct the misconduct of these fallen warriors of the Sephira, as their fellow—
+044	Julia! I can fight, too!	VO_emmer.emmer_chara_1010
+045	Very well. I ask only that you do not push yourself too far, my lady. There is only so much I can do to protect you when you are fighting by my side.	VO_julia.julia_sys_0027

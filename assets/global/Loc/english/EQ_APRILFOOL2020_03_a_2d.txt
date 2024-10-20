@@ -1,0 +1,62 @@
+﻿001	Well, let's go find this mysterious transfer student, then!
+002	Hmhm. You're by far the more mysterious one, if you ask me.	VO_kaya.kaya_sys_0007
+003	(Kaya's teasing me again. Let's see if I can play my cards right this time...)
+004	Oh, really? Then are you interested in solving the mystery of this very mysterious transfer student?
+005	Hmhm. Just a little.	VO_kaya.kaya_sys_0008
+006	Perhaps you could start by telling me what you were trying to achieve with that incredibly smooth reply.	VO_kaya.kaya_sys_0001
+007	(Okay, I lose... Kaya's still better at comebacks.)
+008	Kaya's Affection Level Slightly Increased
+009	What the—?! For that? How does this system work, anyway?!
+010	Excuse me, do you think you could lower your voice?	VO_sharon.sharon_sys_0030
+011	Now, now. Don't be a spoilsport. Schools are meant to be noisy; it's unsettling when it gets too quiet.	VO_tlitor.tlitor_sys_0007
+012	Oh! You're Sharon and Toritoh, right?
+013	You know my name? We haven't met before, have we?	VO_tlitor.tlitor_sys_0004
+014	Whoops. You're right. I just... heard some rumors about you two. That's all.
+015	Rumors? Hah. I suppose there are plenty of people who would talk about me behind my back.	VO_sharon.sharon_sys_0031
+016	It was all good stuff, I promise! I've been hearing bits and pieces about everyone, because I've been asking around about the transfer student.
+017	I mean the other transfer student. I'm a transfer student, myself! I thought it might be nice to have a chat with the guy who came before me.
+018	Right... You must be talking about Sol, then.	VO_tlitor.tlitor_sys_0045
+019	The guy who is even less social than I am? Who barely a soul has seen since he joined the academy? That's the guy you're looking for?	VO_sharon.sharon_sys_0001
+020	I guess so. I was hoping we could be friends, you know? Isn't there anyone who'd know where he is?
+021	Let me think... I suppose Acht might. She's his childhood friend, after all. You can probably find her in the cafeteria.	VO_tlitor.tlitor_sys_0004
+022	Wait, Sol and Acht?! Does that mean the Templars exist in this world, too?!
+023	...	VO_sharon.sharon_sys_0029
+024	...	VO_tlitor.tlitor_sys_0029
+025	Well, that was awkward. Look, I understand the appeal of history more than anyone, but blurting out things like that isn't going to win you any popularity points.	VO_kaya.kaya_sys_0002
+026	I'm sorry! I just really like the Templars. They were so cool in the event, too. I guess it was a little different from the game, but in a good way, y'know?
+027	Event? You have piqued my curiosity... But that will have to wait. We have arrived at our destination. This is TAC Academy's cafeteria.	VO_kaya.kaya_sys_0031
+028	Thanks, Kaya. Y'know, I'm so glad you were the first person I met in this world.
+029	More flattery? It's certainly nice to hear, but all I did was show you the way to the cafeteria.	VO_kaya.kaya_sys_0022
+030	Kaya's Affection Level Increased
+031	Anyway, you don't need to thank me. It's no trouble—although it's really not like me to do this sort of thing at all. I suppose this, too, is fate.	VO_kaya.kaya_sys_0037
+032	Fate, huh? Come to think of it, you don't talk much with the other students, do you?
+033	I want to focus on my research. Objectless socialization is simply an inconvenience.	VO_kaya.kaya_sys_0006
+034	Listen... I want you to promise me something. I'll help you with your research whenever you like, so...	VO_kaya.kaya_sys_0001
+035	When you need me, just wait for me there.
+036	Huh? Where?
+037	The place where we first met.	VO_kaya.kaya_sys_0007
+038	Oh, okay. Sure.
+039	Hmhm. It will make it feel more like fate, don't you think?	VO_kaya.kaya_sys_0008
+040	Huh? Wait a minute... This isn't a cafeteria—it's a bar! There're even bottles of alcohol in plain sight!
+041	Alcohol? Don't be ridiculous. This is a school! Come on, focus. Acht's right over there.	VO_kaya.kaya_battle_1018
+042	Did you need something?	VO_acht.acht_sys_0001
+043	Yeah, um... I'd like to meet Sol—
+044	No.	VO_acht.acht_sys_0039
+045	Hold on, hear me out. I just want to talk—
+046	Not happening.	VO_acht.acht_sys_0040
+047	Hmhm. Looks like you're in her bad books already.	VO_kaya.kaya_sys_0008
+048	What did you expect? You don't just go up to a stranger and ask for a meeting with someone. That's crazy suspicious.	VO_acht.acht_sys_0016
+049	I just want to talk to him, though. Really!
+050	At that moment, you hear a loud rumbling noise.
+051	Huh? Kaya, did you say something?
+052	That wasn't me. Sounds more like someone's hungry.	VO_kaya.kaya_sys_0039
+053	...	VO_acht.acht_sys_0029
+054	Acht's gone all red and pouty! I think I know whose rumbly tummy that was!
+055	I-if you give me something to eat... I'll consider letting you meet Sol.	VO_acht.acht_sys_0016
+056	So, now we're scavenging for food... Any ideas?	VO_kaya.kaya_sys_0001
+057	Maybe some apples?
+058	Apples? That's a pretty definitive answer, but why apples?	VO_kaya.kaya_battle_1018
+059	I'm not really sure why, but I used to go looking for apples a lot... It felt like I could never get enough.
+060	Why can't I remember? I'm sure there was a good reason for it... Anyway, the point is you can never have too many apples!
+061	I have no idea what you're talking about, but at least we have a clear goal.	VO_kaya.kaya_sys_0031
+062	Right. Let's go find some apples!

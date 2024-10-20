@@ -1,0 +1,140 @@
+﻿001	Whoa!	VO_syrma.syrma_sys_0024
+002	Roast fish, venison steak, vegetable soup! This is a feast!
+003	I didn't know you could cook, Corvus!	VO_ila.ila_sys_0025
+004	It's not a particularly difficult skill. I learned the basics in order to impersonate a chef and infiltrate a noble household on an assassination job.	VO_niggle.niggle_sys_0004
+005	Wait a minute... Assassin cooking skills?!	VO_syrma.syrma_sys_0005
+006	A-are you trying to poison us?!
+007	Of course not.	VO_niggle.niggle_sys_0016
+008	I dunno... How can we trust you?	VO_ila.ila_sys_0031
+009	Enough fooling around. Come on, eat up.	VO_niggle.niggle_sys_0002
+010	Don't mind if I do! Umgf!	VO_syrma.syrma_sys_0006
+011	Mmm!
+012	Gimme some!	VO_ila.ila_sys_0005
+013	Mm-mmm!
+014	I can't believe it! This is delicious, Corvus!	VO_syrma.syrma_sys_0007
+015	Umgf... Mmff... Umff... Umgf! So good! Like, crazy good!	VO_ila.ila_sys_0046
+016	Good. I'm glad it's to your liking.	VO_niggle.niggle_sys_0007
+017	Hm?	VO_niggle.niggle_sys_0006
+018	...
+019	What's the matter, Spica? Lost your appetite again?	VO_niggle.niggle_sys_0001
+020	No, I just... I knew Letitia was a better cook than me, but I didn't expect to be outdone by you, too, Corvus.	VO_spica.spica_sys_0039
+021	Well, I... erm...	VO_niggle.niggle_sys_1050
+022	(Tell me, my darkness… should I be honest with her?!)	VO_niggle.niggle_sys_0018
+023	But you didn't cook anything—you just burnt it to a crisp!	VO_ila.ila_sys_0001
+024	Ila!	VO_niggle.niggle_sys_0002
+025	Ngh...	VO_spica.spica_sys_0022
+026	It's only because we lived off of nothing but fruits and berries in the forest!	VO_syrma.syrma_sys_0031
+027	On the rare occasion we'd go into town to buy bread—but that was it!
+028	I've never seen Spica cook anything before today!
+029	Really? That was your first attempt, then?	VO_niggle.niggle_sys_0006
+030	Y-yes. I thought I just needed to heat things up.	VO_spica.spica_sys_0004
+031	And you saw it as a chance to beat me... I see.	VO_niggle.niggle_sys_0031
+032	Why don't you just get Corvus to teach you how to cook, then?
+033	Huh?!
+034	Ila! I'm supposed to be teaching you the art of combat, not how to cook!	VO_niggle.niggle_sys_0025
+035	C'mon, Corvus! Why not?	VO_syrma.syrma_sys_0006
+036	If Letitia ever goes away again, you'll be on cooking duty every single night at this rate! Is that what you want?	VO_syrma.syrma_sys_0031
+037	Nrgh... Every single night? Gods, no.	VO_niggle.niggle_sys_0018
+038	That's what I thought!
+039	It's in your best interest to teach us all how to cook, so we can take turns making dinner!	VO_syrma.syrma_sys_0007
+040	I suppose you have a— Wait a minute!	VO_niggle.niggle_sys_0004
+041	All of you?!	VO_niggle.niggle_sys_0002
+042	Yup! I want to learn how to cook, too! Don't you, Ila?	VO_syrma.syrma_sys_0006
+043	Well, I do like Letitia's cooking—and Corvus's, too...
+044	But I really don't like eating food cooked by other people.	VO_ila.ila_sys_0031
+045	So... yeah! I wanna be able to cook for myself!	VO_ila.ila_sys_0011
+046	But—	VO_niggle.niggle_sys_1050
+047	Then it's settled! We'll be working together on this now, Spica!	VO_syrma.syrma_sys_0008
+048	Um... R-right!	VO_spica.spica_sys_0037
+049	Thank you, Corvus! I'll do my best to learn from you!	VO_spica.spica_sys_0003
+050	Hmph...
+051	(How did it come to this, my darkness?)	VO_niggle.niggle_sys_0016
+052	It's been quite a while since I last saw this castle.	VO_laetitia.laetitia_sys_0001
+053	I've put you through a lot, haven't I?	VO_zaharu.zaharu_sys_0004
+054	You were laying the groundwork for me in Wratharis the entire time I was in the Holy Guard.
+055	Oh? Is that your way of saying you appreciate my hard work? Hee hee. I'm flattered.	VO_laetitia.laetitia_sys_0007
+056	But I have never once considered anything I've done for you to be an effort of any kind.
+057	I merely waited patiently for you to come to me as a knight of Wratharis.
+058	I remember your appearance on the battlefield like it was yesterday.	VO_laetitia.laetitia_sys_0001
+059	The way your sword gleamed in the sunlight as you struck down countless Envylian soldiers in the blink of an eye...
+060	The way you charged onto the battlefield like a proud stallion, your hair a fluttering mane of silver...
+061	It was even more incredible than I had imagined.	VO_laetitia.laetitia_sys_0007
+062	That's in the past now. The Wratharis knights were just a stepping stone on our path to greatness. We must keep our eyes on the future, Letitia.	VO_zaharu.zaharu_sys_0002
+063	True. It's most unlike us to reminisce like this.	VO_laetitia.laetitia_sys_0004
+064	I expect we have our destination to blame for this sudden nostalgia.	VO_laetitia.laetitia_sys_0001
+065	Haha... Probably.	VO_zaharu.zaharu_sys_0008
+066	It would seem even I have developed a sense of longing for my homeland.
+067	I suppose this is what happens when you have companions.	VO_zaharu.zaharu_sys_0010
+068	Hee hee. We've both lived very long lives; I think it's only natural to allow yourself such indulgences from time to time.	VO_laetitia.laetitia_sys_0007
+069	Indulgences? Hmph. Perhaps.	VO_zaharu.zaharu_sys_0004
+070	Shall we proceed, my sister?
+071	Yes, Zahar. Let's.	VO_laetitia.laetitia_sys_0004
+072	So, these are the dishes you prepared?	VO_niggle.niggle_sys_0001
+073	Yup! I made the vegetable salad!	VO_syrma.syrma_sys_0006
+074	I did the fish.
+075	I roasted the meat.	VO_spica.spica_sys_0003
+076	I see... Well, I'm afraid you've all failed.	VO_niggle.niggle_sys_0016
+077	What?!	VO_syrma.syrma_sys_0026
+078	Why?!	VO_ila.ila_sys_0025
+079	You only cut up vegetables, Silma. That's not cooking—nor is carving up a raw fish, Ila.	VO_niggle.niggle_sys_0002
+080	The dishes you've prepared might be food… but they're not meals.
+081	What about mine?	VO_spica.spica_chara_1003
+082	You overcooked it. This isn't roast meat—it's a burnt lump of flesh.	VO_niggle.niggle_sys_0004
+083	Ugh! This is way too difficult!	VO_syrma.syrma_sys_0030
+084	I don't wanna do this anymore!	VO_ila.ila_sys_0016
+085	You're giving up already?	VO_niggle.niggle_sys_0001
+086	I-I'm not giving up! Let me try again!	VO_spica.spica_chara_1009
+087	Very well... Go on, then.	VO_niggle.niggle_sys_0016
+088	Excuse me... sir?	VO_knightm.knightm_sys_0001
+089	What is it?	VO_niggle.niggle_sys_0006
+090	I'm not sure our stores can withstand another attempt.	VO_knightm.knightm_sys_0031
+091	Hmph. In that case, I'm afraid your next attempt will have to wait, Spica.	VO_niggle.niggle_sys_0016
+092	Understood.	VO_spica.spica_sys_0004
+093	Well, you three… Thanks to your cooking practice, we're running low on ingredients. What am I going to cook tonight?	VO_niggle.niggle_sys_0018
+094	(How did they manage to use up so many ingredients, and yet only produce raw fish, vegetables, and meat?)
+095	Sir! Sir!
+096	What is it now?	VO_niggle.niggle_sys_0002
+097	The group who went into the forest to go hunting has been gravely injured!	VO_knightm.knightm_battle_0019
+098	What?!	VO_niggle.niggle_sys_0025
+099	They said they were attacked by a mythical beast!
+100	Oh no!	VO_spica.spica_sys_0025
+101	What?! That thing's still hanging around?!
+102	Spica, Silma, Ila—you know what this means, right?	VO_niggle.niggle_sys_0002
+103	Yep!	VO_ila.ila_sys_0004
+104	You can count on us!	VO_syrma.syrma_sys_0006
+105	Let's go, Corvus!	VO_spica.spica_sys_0004
+106	We have to take down the beast.	VO_niggle.niggle_sys_0004
+107	Feel anything yet?	VO_niggle.niggle_sys_0001
+108	No... Nothing yet.	VO_spica.spica_sys_0031
+109	Yeah... It's kinda scary. I can't sense anything. Like, anything at all.
+110	Hey...	VO_ila.ila_sys_0001
+111	Yes, Ila?	VO_niggle.niggle_sys_0006
+112	I can't sense anything... but I can smell something.	VO_ila.ila_sys_0005
+113	You can?	VO_syrma.syrma_sys_0031
+114	Yeah... Blood.
+115	B-blood?	VO_spica.spica_sys_0026
+116	Now that you mention it... It's a bit faint, but I can smell it, too!
+117	It's coming from over there!
+118	Grrrrr... Graargh! Hrrrghh!	VO_MwolfBig.MwolfBig_battle_0020
+119	Ngh!
+120	Urgh...	VO_syrma.syrma_sys_0021
+121	Is that a paladin it's eating?
+122	But why would a paladin be here?
+123	I think I know why.	VO_niggle.niggle_sys_0031
+124	The basement we raided… They were conducting experiments on animals using Alchemia.
+125	This creature probably escaped from there. It could've been a normal animal that got turned into a beast.	VO_niggle.niggle_sys_0018
+126	No!	VO_spica.spica_sys_0020
+127	It's just a theory, and I've got no way to test it—but as for that paladin...	VO_niggle.niggle_sys_0002
+128	Do you think they followed the beast here and tried to recapture it, but ended up getting overwhelmed?	VO_syrma.syrma_sys_0031
+129	I think it's a possibility.	VO_niggle.niggle_sys_0016
+130	Hah! Serves 'em right for experimenting on animals, the cowards!	VO_ila.ila_sys_0016
+131	Well, we can't just let it run around the forest.	VO_niggle.niggle_sys_0001
+132	It must have suffered so much...	VO_spica.spica_sys_0018
+133	Spica?	VO_niggle.niggle_sys_0006
+134	I'm sure it did. Being experimented on must have been... horrible.
+135	Oh, Spica...
+136	Corvus, this creature is suffering. Let me—	VO_spica.spica_sys_0003
+137	Let me save it.
+138	If that's what you want... you know what you need to do.
+139	Yes... Let's go.	VO_spica.spica_sys_0004
+140	Right.	VO_niggle.niggle_sys_0004

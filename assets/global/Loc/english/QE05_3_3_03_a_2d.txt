@@ -1,0 +1,45 @@
+﻿001	That should do nicely!
+002	Thank you. This is quite a relief.
+003	Be on your guard. Beasts are much better than us at using the surrounding terrain to their advantage. You could lose your head if you're not careful.	VO_tina.tina_sys_0001
+004	I...will be sure to bear that in mind.
+005	Ah, if only we had a scout among our number as agile as you! Perhaps you would consider joining our cause? We do pay rather handsomely.
+006	My skills are meant for survival. I have absolutely no interest in your gold.	VO_tina.tina_chara_1002
+007	I...see. That is quite a shame.
+008	Ah! There is our fortress in the distance! Can you see it?
+009	So you're back, Adelbert—and you've brought guests!	VO_selliord.selliord_sys_0001
+010	Yes, Your Highness! They have come all the way from the desert.
+011	I am Kamui, head of the Fruit Peddlers' guild. I have hastened here at the request of Lady Marie.	VO_kamui.kamui_sys_0003
+012	I see. Is she safe? She isn't injured, is she?	VO_selliord.selliord_sys_0005
+013	She is well. She is awaiting our return at our home base.	VO_kamui.kamui_sys_0006
+014	I am relieved to hear it.	VO_selliord.selliord_sys_0007
+015	Perhaps we should get to the matter at hand, Your Highness.
+016	Yes, of course.	VO_selliord.selliord_sys_0029
+017	As we speak, my father, Ceclidis I, is building an army with which he intends to invade the Desert Zone.
+018	We have done what we can to stop them, but we have reached our limit.
+019	At this rate, they should reach the border in less than three days.
+020	What?! The desert border? Now?! In the middle of all this chaos of the civil war?!	VO_kamui.kamui_sys_0028
+021	My...father intends to suppress the domestic rebellion with an iron fist. We had also decided to take that stance.	VO_selliord.selliord_battle_0019
+022	Hence why it took us so long to react—too long.
+023	We have sent a runner to inform the people of the desert about this, but I really think that you would be more suited to delivering this message.
+024	The desert and the Sephira are our secret weapon. We need them to take down my father. We cannot afford to lose them here.
+025	I want you to make all haste back to the desert and find a way to prepare for a counterattack.	VO_selliord.selliord_sys_0041
+026	Understood. Is the merchant caravan I sent from the Fruit Peddlers still here?	VO_kamui.kamui_sys_0006
+027	It is. We have done what we can to accommodate them in our fortress.	VO_selliord.selliord_sys_0037
+028	In that case, I will make use of their carriage to get the message to the desert as quickly as possible. It would be best if we could talk more, but in these circumstances...	VO_kamui.kamui_sys_0031
+029	Indeed. However, our top priority must be saving the people of the desert.	VO_selliord.selliord_sys_0037
+030	Long have we of Gluttony Foss forced our rule upon the desert dwellers.
+031	Yet you still came all this way, simply to heed my request. I want to respond in kind to such decisive action.
+032	Adelbert!
+033	Yes, Your Highness! All of the necessary preparations have been made.
+034	Your Highness! You don't mean...?	VO_kamui.kamui_sys_0037
+035	Adelbert and these few soldiers will accompany you. I leave their command in your capable hands.	VO_selliord.selliord_sys_0037
+036	There you have it. My soldiers are accomplished marchers in all kinds of terrain, from mountainous to wasteland. We should be able to reach the desert a step or two ahead of the troops dispatched from the royal capital.
+037	Understood. Thank you, Your Highness. I am grateful.	VO_kamui.kamui_sys_0037
+038	Please... Take care of Marie.	VO_selliord.selliord_sys_0041
+039	All right, my fellows, it is time to march! We are in a hurry here, so you have my explicit permission to rout anyone or anything who stands in your path, whether they be man or beast!
+040	Huzzzaaahhh!
+041	The desert? You think that place I saw in my vision was the desert? I don't know—something doesn't feel right.	VO_tina.tina_sys_0031
+042	We can think about this later, Tina. For now, we must put the lives of our people first. Logi! You can ride a horse, right?	VO_kamui.kamui_sys_0002
+043	Yeah! I'll put Agatha up behind me.	VO_logi-b.logi-b_sys_0037
+044	A-all right...
+045	Let's go! There's no time to waste!	VO_kamui.kamui_battle_0015

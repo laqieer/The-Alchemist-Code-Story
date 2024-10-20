@@ -1,0 +1,40 @@
+﻿001	... ...
+002	Hey, newcomer! Pay attention! I'm gonna explain the strategy now!	VO_thiefm.thiefm_sys_0002
+003	...Oh, right! Sorry!	VO_retzius.retzius_sys_0027
+004	Listen. Recently, these thieves have been taking extreme measures. We can't predict exactly how they'll act. There may very well be casualties.	VO_thiefm.thiefm_sys_0030
+005	However, we do this in order to maintain order in the desert. This mission is nothing more than the prelude, but it is an integral part of our strategy to annihilate these thieves!
+006	...!
+007	Newcomer, are you listening properly?	VO_mob-saga_ymale.mob-saga_ymale_sys_0003
+008	Y-yes! I am!	VO_retzius.retzius_sys_0027
+009	You'd better be. I won't be held responsible for your death. I'm sure the thieves will come at us with everything they've got.	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+010	Yes. You really are amazing, bro.
+011	Huh?	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+012	This is the first time I've experienced what it feels like to risk my life in order to carry out a mission.
+013	It's frightening. Yet, he carried out his mission with such calmness.	VO_retzius.retzius_sys_1019
+014	What's that? Who are you talking about?	VO_mob-saga_ymale.mob-saga_ymale_sys_0006
+015	My bro.	VO_retzius.retzius_sys_0007
+016	The person you are looking for...is in the desert.	VO_deneb.deneb_sys_0004
+017	Yeah...that's a given. What I want to find out are his exact whereabouts.	VO_retzius.retzius_sys_0025
+018	There is no need for haste. Stars that are drawn to each other are fated to meet.	VO_deneb.deneb_sys_0007
+019	But I wanna meet the guy as soon as possible!	VO_retzius.retzius_sys_0027
+020	The stars say that it is not yet time for your paths to cross. I see. In search of this star...Retzius, you must become a mercenary.	VO_deneb.deneb_sys_0031
+021	A mercenary? Why would I need to do that?	VO_retzius.retzius_sys_0025
+022	If you were to meet him now, do you think he would make you his disciple?	VO_deneb.deneb_event_1006
+023	...Well, I'll beg him until he does!	VO_retzius.retzius_sys_0027
+024	It is better for you to, instead, polish your strength. More than frantically pursuing him, this the surer option.	VO_deneb.deneb_sys_0022
+025	Will that really lead to me meeting him again?	VO_retzius.retzius_sys_0030
+026	The stars do not speak more than they must. Of course, whether or not you wish to believe them...is solely up to you.	VO_deneb.deneb_sys_0005
+027	A mercenary, huh? Now that I think about it, he did mention something about being "hired"!	VO_retzius.retzius_sys_0031
+028	I do not know how it will take place, but I am certain you will meet him again. The stars guarantee this.
+029	So it's the stars who guarantee this, not you, Deneb.	VO_retzius.retzius_sys_0030
+030	My job is only to listen to the voice of the stars.	VO_deneb.deneb_sys_0007
+031	The stars will guide your way, Retzius. May they bless your journey.
+032	Thanks a lot! Once I meet him again, I promise to give you a full report, Deneb!	VO_retzius.retzius_sys_0033
+033	Thank you. However, the thought alone is enough.	VO_deneb.deneb_sys_0033
+034	Here, our stars have met. Someday, I am certain they will cross paths again.
+035	All right... Once again, though, thank you so much for everything.	VO_retzius.retzius_sys_0037
+036	That's why...I've gotta meet that bro at all costs! For the sake of fulfilling my promise to Deneb as well!
+037	I don't really get it, but just try not to die, newcomer. We begin soon.	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+038	I'm going to change. I'm going to become a man that he'll acknowledge.	VO_retzius.retzius_battle_0021
+039	All right then, our strategy begins! Hurry into formation!
+040	I will do whatever I can to make my first mission a success! I believe that each move I make will take me closer to him!	VO_retzius.retzius_battle_0011

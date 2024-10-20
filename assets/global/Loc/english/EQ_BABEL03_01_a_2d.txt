@@ -1,0 +1,90 @@
+﻿001	What is there to discuss? Northern Pride demands Alchemia. If we deliver them the remnants of the Sephira, everything will be settled!	VO_stknightm.stknightm_sys_0001
+002	They will not trade us the food or water we need if we do not! We are wasting our time! Just hand the Sephira over to them!	VO_stknightm.stknightm_sys_0029
+003	I can understand your frustration, but if we were to just give the Sephira away, where would we stand if Northern Pride were to make demands again?	VO_neferty.neferty_sys_0005
+004	Our resources will eventually be depleted. For the sake of this desert's future, we must discuss our next—	VO_neferty.neferty_sys_0030
+005	We need to prioritize the present! The future will only come if we survive this current predicament! Just hand them over!	VO_stknightm.stknightm_sys_0017
+006	Surely even you have not been poisoned by the delusions of that man as well? Be reasonable! There is no way we can bring greenery into this desert!	VO_stknightm.stknightm_sys_0010
+007	Phew...	VO_neferty.neferty_sys_0030
+008	Busy as usual, Nefertiti? It has been some time since we last spoke.	VO_ankh.ankh_sys_0031
+009	Ankh? What an unexpected pleasure. What are you doing here? Come to check up on me?	VO_neferty.neferty_sys_0006
+010	I had some duties nearby, so I decided to drop by and say hello. Not much has changed, has it?	VO_ankh.ankh_sys_0007
+011	I suppose I should not be surprised that the Conservative Party still has such a voice in the court. They seem very eager about expelling the Sephira from this country. What are you going to do?	VO_ankh.ankh_sys_0030
+012	Well, you seem to have an opinion on the matter. What do you think should be done?	VO_neferty.neferty_sys_0001
+013	How the hell is that my problem? Ain't it your job to come up with something? I'm not a frickin' noble anymore. You know that, right?	VO_ankh.ankh_sys_0013
+014	My, my. Aren't we snappy? Have you not had your tea yet?	VO_neferty.neferty_sys_0007
+015	M-my apologies... I simply mean to point out that this issue must be resolved quickly. Our livelihoods are on the line.	VO_ankh.ankh_sys_0036
+016	In light of that, I strongly recommend that the Conservative Party not be allowed take the wheel on this one.	VO_ankh.ankh_sys_0031
+017	It would be rotten and, frankly, despicable to banish Sephira survivors from our lands. I trust you will make the right choice, Nefertiti.	VO_ankh.ankh_sys_0010
+018	I have not forgotten who I am, even if you perhaps have, Ankh. I am not unaware that I must come to a decision at some point.	VO_neferty.neferty_sys_0030
+019	Protecting someone requires more than simply hiding them away. Isn't that right, Hawk?
+020	Come one, come all! We've got fresh fruit, just in! Limited time offer! Get 'em before they're gone!
+021	Envylian ceramics! Rarest and finest of items, all of 'em! You there, how 'bout it?
+022	Noodles made of...wheat?! This is delicious!	VO_zin.zin_sys_0024
+023	Such delicacies would never have been found in Wadatsumi!	VO_zin.zin_sys_0031
+024	Another round, please!	VO_zin.zin_sys_0007
+025	Excuse me. Have there been any odd rumors recently? For example, about creatures of legend from Saga appearing out of sandstorms, etc.?	VO_lupinus.lupinus_chara_1003
+026	Uh... No? I haven't heard of anything like that.
+027	Oh, okay. Thank you! I can't lose heart over such a small disappointment. I'll find the beast I'm looking for, no matter what it takes!	VO_lupinus.lupinus_chara_1009
+028	......
+029	Eek!
+030	Whoa, watch where you're going, little lady. Where'd you come from?	VO_balt.balt_sys_0025
+031	Me? I'm not "Little Lady"! I'm Zofia! I'm hungry! Food! Need food!	VO_zophy.zophy_sys_0025
+032	Quit draggin' me around. I have to wait for someone here. Where're your parents?	VO_balt.balt_sys_0002
+033	Par...Parents?! A renting pear?! Hahaha! I dunno! Need food! Let's go!	VO_zophy.zophy_sys_0023
+034	You're hungry? Fine, sure, just hold on a sec. Man, I hope Carla's doin' all right.	VO_balt.balt_sys_0031
+035	Hey, I said quit pullin' me!	VO_balt.balt_sys_0025
+036	If I've said it once, I've said it a million times: We have to unite the Desert Zone as a single country. That would make governance infinitely simpler!	VO_karla.karla_battle_0019
+037	With public order the way it is, nobody but ruffians are sticking around. Think of the kids who have to grow up in such an environment!
+038	I understand where you're coming from, but—	VO_neferty.neferty_sys_0005
+039	You don't understand! That's the problem! You haven't taken any action to fix the situation! You're being—uh, what's the word? Oh yeah, negligent!	VO_karla.karla_sys_0017
+040	Carla, you know the Desert Zone was once a country of its own, don't you? During that time, the nobility held all the power.	VO_neferty.neferty_sys_0001
+041	Back then, conflict broke out constantly among the nobles who were scrabbling for power, causing other countries to feel threatened by our presence. This lead to the eventual dismantling of our entire government.
+042	As a country, we may be able to facilitate bringing peace within our borders, but at the same time, it could lead to creating enemies abroad. That would not be any better for the children.	VO_neferty.neferty_sys_0030
+043	And that is more important to you than getting rid of the dangers within our borders? Dangers that include bandits and human traffickers?!	VO_karla.karla_sys_0013
+044	That we can stand here and debate this at all is a testament to the measures that were taken to make this place safer. If you cannot see that, perhaps you might consider that you are being a little shortsighted.	VO_neferty.neferty_sys_0010
+045	Who are you calling shortsighted?! Ryle, say something!	VO_karla.karla_battle_0019
+046	My guild, the Desert Wings, haven't felt the need for a country. The merchant guilds agree on this as well.	VO_ryle.ryle_sys_0030
+047	You're just wasting everybody's time if your only goal is to force your own opinions on us. I'm wondering, is there a point to all your bleating?	VO_ryle.ryle_sys_0002
+048	Wha—?!	VO_karla.karla_sys_0027
+049	Besides, I have a vested interest in keeping public order...less than perfect. You'll put certain markets out of business if all those, ahem, deplorables...are eliminated from the desert.	VO_ryle.ryle_sys_0031
+050	For example, ours in particular. Both of us would be out a job. You wouldn't want that, would you? What use are vigilantes without any bandits?
+051	You're an idealist, I'll give you that, but the desert is not a place where ideals are enough to survive on. You should know this.
+052	...!
+053	You've had your say already. It's my turn now. Nefertiti, why do we still not have permission to trade with foreign countries?	VO_ryle.ryle_sys_0010
+054	Every application is being given fair judgment after strictly impartial examinations. As to why you personally have not received permission, well, I could not say.	VO_neferty.neferty_sys_0006
+055	Huh. Then, a question: what is the point of this parliament? If this is not a proper government, why do we need the nobility's permission to trade?	VO_ryle.ryle_sys_0012
+056	It's a simple division of labor. We, the nobility, maintain and manage the bigger picture while the rest of you take care of the details.	VO_neferty.neferty_sys_0004
+057	Is that so? In that case, the nobility is not holding up their end of this little bargain. If you don't do a better job managing foreign relations, your negligence will continue to cost us many lucrative business opportunities.	VO_ryle.ryle_sys_0017
+058	We are doing everything that is demanded of us. If you have issues with the current administration, then you are welcome to set yourselves up outside of the desert.	VO_neferty.neferty_sys_0007
+059	Duly noted.	VO_ryle.ryle_sys_0018
+060	If there are no other issues, I bid you all farewell.	VO_neferty.neferty_sys_0030
+061	Hold on, Nefertiti. What do you plan on doing if the desert is invaded again?	VO_karla.karla_battle_0019
+062	You believe there are still those who hunt the surviving Sephira?	VO_neferty.neferty_sys_0006
+063	I do. As long as we are not an established country, then we are unable to formally request assistance from other such countries. Have you given any thought to that?	VO_karla.karla_sys_0010
+064	Have you any proof of an imminent threat? We cannot make political decisions based on mere guesswork. Goodbye.	VO_neferty.neferty_sys_0001
+065	Will you nobles not do anything until you yourselves are in danger?! If you had been there back then, we might have had a different outcome!	VO_karla.karla_sys_0027
+066	......
+067	Hey! Wait! Ugh... This is so frustrating!	VO_karla.karla_battle_0019
+068	Oh, come on! Are you not done dragging me around?!	VO_balt.balt_sys_0002
+069	Nope. Not done. Eat more. Food! Uhm...	VO_zophy.zophy_sys_0023
+070	It's Balt. You just ate all those noodles, and you still wanna eat more?	VO_balt.balt_sys_0006
+071	Balt! Fun. I like you. So, eat more. Fun!	VO_zophy.zophy_sys_0009
+072	Taste. New! More! Balt, more new!	VO_zophy.zophy_sys_0007
+073	Yeah, I'd like to hang out more, but I gotta go. Sorry, but this is goodbye.	VO_balt.balt_sys_0030
+074	Balt? Hate...Zofia?	VO_zophy.zophy_sys_0006
+075	Of course not. We just shared a meal together, right? That means we're friends now.	VO_balt.balt_sys_0007
+076	F-friend? Wh-what? I like Balt! So... Okay! Happy!	VO_zophy.zophy_sys_0031
+077	Well, if we meet again, let's get some of that bean soup you were eyeballing. It's a really sweet specialty of the desert.	VO_balt.balt_sys_0006
+078	I'm sure you'll like it, Zofia. This is a promise between friends! You can never break a promise between friends!	VO_balt.balt_sys_0007
+079	Pro...mise. Food promise! Okay! Sweet, fun, yes! Balt! Now! Food!	VO_zophy.zophy_sys_0008
+080	No, like I said... Aw, man.	VO_balt.balt_sys_0029
+081	I was wondering where you'd gone. Never thought I'd find you babysitting. She's not your secret illegitimate child, is she?	VO_karla.karla_sys_0012
+082	Seriously, Carla? Whatever. How was it?	VO_balt.balt_sys_0022
+083	Same as usual. She dodged every question I needed answers to. You can never tell what that Nefertiti is hiding behind her smile.	VO_karla.karla_sys_0030
+084	Where did you come from, little one? Can I join you two?	VO_karla.karla_sys_0001
+085	Mark! There! Aah!	VO_zophy.zophy_sys_0024
+086	Wha—? Hey! What the hell?	VO_balt.balt_sys_0002
+087	Uh, maybe she saw the birthmark on my hip? I guess it would look weird and scary to a little kid.	VO_karla.karla_sys_0031
+088	Monsters! Everybody, run! Monsters!
+089	Balt! Let's go!	VO_karla.karla_sys_0027
+090	You don't gotta tell me! Let's get 'em!	VO_balt.balt_sys_0006

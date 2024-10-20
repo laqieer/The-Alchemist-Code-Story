@@ -1,0 +1,105 @@
+﻿001	Are you okay?	VO_zaharu.zaharu_sys_0002
+002	Did you save me?	VO_spica.spica_sys_0003
+003	I did. You've been through much, but you can rest easy now. Letitia.	VO_zaharu.zaharu_sys_0004
+004	(Ever since that day...)
+005	Thank you... My name's Spica. Um, what's yours?	VO_spica.spica_chara_1002
+006	Zahar.	VO_zaharu.zaharu_sys_0004
+007	(My world was always full of light. Although, it wasn't warm and bright like the sun...)
+008	(You gave me meaning. You showed me how bright and precious it could be—)
+009	(The light at the heart of the darkness.)
+010	Spica, you've done well to come so far. I name you a sworn knight of Wratharis.	VO_zaharu.zaharu_sys_0008
+011	Serve our glorious country to the best of your ability.
+012	O-of course! I vow to devote my all to its glory.	VO_spica.spica_sys_0047
+013	Captain Zahar, the meeting's about to begin. You're expected to oversee the training of the new recruits after.	VO_spica.spica_sys_0003
+014	Right. I'm heading there now.	VO_zaharu.zaharu_sys_0037
+015	Spica's got a good handle on everything, don't you think? Ms. Strategist?	VO_niggle.niggle_sys_0031
+016	It's her duty. She wouldn't be here if she weren't good at it.	VO_laetitia.laetitia_sys_0022
+017	I'm just admiring your wisdom in recommending her to be Captain Zahar's armiger.	VO_niggle.niggle_sys_0016
+018	I appreciate your flattery, Vice Captain.	VO_laetitia.laetitia_sys_0016
+019	What's your honest opinion of her?	VO_niggle.niggle_sys_0001
+020	She simply wants to be useful to Captain Zahar. I made certain of that before having her promoted.	VO_laetitia.laetitia_sys_0007
+021	Is that how you truly feel?	VO_niggle.niggle_sys_0006
+022	What would you have me say? What merit would my honesty hold for you?	VO_laetitia.laetitia_sys_0025
+023	You never change, do you? Are you sure she's suited for what comes next? She's fawning over Captain Zahar all the time.	VO_niggle.niggle_sys_0010
+024	Do you think I would do anything without reason? She has a role to play in all this.	VO_laetitia.laetitia_sys_0030
+025	All of this, is for Lord Zahar's benefit.
+026	You really don't change.	VO_niggle.niggle_sys_0004
+027	I will take that as a compliment. Regarding Envylia's new Scarlet Flame Guard...	VO_laetitia.laetitia_sys_0007
+028	We've had more skirmishes with Envylia than usual these past few months.
+029	...
+030	(Captain Zahar hasn't changed at all since we first met.)	VO_spica.spica_sys_1011
+031	(Oh, I shouldn't be daydreaming. We're in the middle of a meeting!)	VO_spica.spica_chara_1002
+032	Moreover, Envylia has formed a new knight order—the Scarlet Flame Guard.	VO_stknightm.stknightm_sys_0031
+033	Each knight under their command is said to be a master of combat in their own right.
+034	How does their purpose differ from the Blue Flame Guard?	VO_zaharu.zaharu_sys_0031
+035	Their purpose? Well...	VO_stknightm.stknightm_sys_0025
+036	Captain Zahar, this file contains all our intel on them.	VO_spica.spica_sys_0003
+037	They were originally a band of mercenaries that were promoted to an official knight order under Envylia's banner.	VO_spica.spica_chara_1003
+038	Former mercenaries, hmmm?	VO_zaharu.zaharu_chara_1008
+039	However, they have a separate chain of command from Envylia's main forces, and have been granted the right to act independently.	VO_spica.spica_sys_0004
+040	Hmm...	VO_zaharu.zaharu_sys_0010
+041	...?	VO_spica.spica_sys_0006
+042	Captain Zahar, we've faced them before, back when they were still the Scarlet Legion.	VO_niggle.niggle_sys_0031
+043	Do you think they will be a hindrance to our plans?
+044	Heh, worry not, for nothing shall stop Zahar from fulfilling his destiny.	VO_laetitia.laetitia_sys_0010
+045	I suppose we'll face them in battle again. Perhaps they'll show us their "iron will" this time around.	VO_zaharu.zaharu_sys_0010
+046	Captain Zahar, how come you've fought this Scarlet Flame Guard before?	VO_spica.spica_sys_0003
+047	Spica...	VO_zaharu.zaharu_sys_0012
+048	Ah! My apologies. I shouldn't have asked a question so far above my station.	VO_spica.spica_chara_1009
+049	No, pay it no mind. I will tell you all about it some day.	VO_zaharu.zaharu_chara_1001
+050	Your services are no longer needed for the day. Go home and rest.
+051	Yessir...	VO_spica.spica_chara_1002
+052	Your assistance was much appreciated.	VO_zaharu.zaharu_sys_0007
+053	You're welcome, sir! Excuse me.	VO_spica.spica_sys_1011
+054	I still don't understand what you see in her.	VO_niggle.niggle_sys_0031
+055	Heh. I see nothing, Corvus.	VO_zaharu.zaharu_sys_0010
+056	Oh...?
+057	You have to see the whole picture, Corvus, and all the roles that each piece might play in the future.
+058	Of course. If you say so.	VO_niggle.niggle_sys_0010
+059	Letitia, how is our progress?	VO_zaharu.zaharu_sys_0002
+060	Everything is proceeding according to plan, but we are still short.	VO_laetitia.laetitia_sys_0005
+061	We need power enough to surpass the Sacred Stones scattered about the land.	VO_zaharu.zaharu_sys_0031
+062	We need to create a Sacred Darkstone.
+063	"Dear Silma... Today, Captain Zahar complimented me!"
+064	"The work's really tough, but his words alone are enough to keep me going."
+065	...
+066	I have to give it my all again tomorrow!	VO_spica.spica_sys_1011
+067	(One day, Captain Zahar sortied out into the battlefield to face off against the Scarlet Flame Guard.)
+068	(I was given a different mission, so I wasn't able to fight alongside him.)
+069	(It pained me not being by his side, but there wasn't a shred of doubt in my mind that he would win and come back to us.)
+070	(That was all I could think about.)
+071	(Once the battle had ended, he returned to us safe and sound).
+072	(Although I believed in him, seeing him come back in one piece filled me with such relief.)
+073	(However...)
+074	Captain Zahar, I'm relieved to see you back safe and sound.	VO_spica.spica_sys_1011
+075	...
+076	Is something wrong?	VO_spica.spica_sys_0006
+077	I've finally met someone who can thrill me.	VO_zaharu.zaharu_sys_0010
+078	Someone who can...thrill you?
+079	I will use everything in my power to obliterate him! Hahahaha! Until we meet again, Vettel!	VO_zaharu.zaharu_sys_0008
+080	Capt...?	VO_spica.spica_chara_1009
+081	(That was the first time I felt afraid of him.)	VO_spica.spica_sys_0022
+082	Spica.	VO_zaharu.zaharu_sys_0002
+083	Y-yes?	VO_spica.spica_chara_1009
+084	Ready my equipment. There is to be a large battle soon. I want my gear ready by then.	VO_zaharu.zaharu_sys_0010
+085	A large battle? Yessir, right away.	VO_spica.spica_chara_1002
+086	Hahahaha!!!	VO_zaharu.zaharu_sys_0023
+087	One of us should've accompanied him into battle.	VO_niggle.niggle_sys_0029
+088	Captain Zahar's obsessed with Vettel, of the Scarlet Flame Guard.
+089	Heh heh, we should consider it a blessing.	VO_laetitia.laetitia_sys_0007
+090	Vettel will be but a stepping stone for him.
+091	A stepping stone for him to rise to even greater heights.	VO_laetitia.laetitia_sys_0010
+092	(Finally, the day I dreaded arrived...)
+093	(There, stood the Envylia army.)
+094	(They deemed Wratharis a danger that had to be eliminated. If we were to lose...)
+095	Vettel, I know you're waiting for me out there! I long to hear your screams of terror! Heh heh.	VO_zaharu.zaharu_sys_0010
+096	My left eye's throbbing again. The shadows whisper to me. Something bad is about to happen.	VO_niggle.niggle_sys_0018
+097	Vice-Captain, our top priority in this battle is to protect Captain Zahar.	VO_laetitia.laetitia_sys_0029
+098	I am aware.	VO_niggle.niggle_sys_0037
+099	Come, Vettel! I shall make Gilrack into your grave!	VO_zaharu.zaharu_sys_0010
+100	For the glory of Wratharis! Yaaaaaaaaaargh! Raaaaaaaaaaaaaaaaargh!!!
+101	For the glory of Envylia! Yaaaaaaaaaargh! Raaaaaaaaaaaaaaaaargh!!!
+102	(I must protect Captain Zahar!)	VO_spica.spica_battle_0019
+103	Zahar!!!	VO_vetel.vetel_sys_0042
+104	Let us finish what we started, Vettel!	VO_zaharu.zaharu_sys_0008
+105	Exactly what I was thinking!	VO_vetel.vetel_sys_0010

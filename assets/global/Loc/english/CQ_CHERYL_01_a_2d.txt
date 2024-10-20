@@ -1,0 +1,52 @@
+﻿001	Now then... The investigation is done. All that's left is finishing the report.	VO_cheryl.cheryl_sys_0022
+002	Hey! Cheryl!	VO_courage.courage_sys_0002
+003	It's been a while! What a surprise running into you here. Are you also working on something now? 	VO_courage.courage_sys_0007
+004	Yes, and by you saying "also," I assume you're here with mercenary work?	VO_cheryl.cheryl_sys_0037
+005	Yup. Just finishing up guard duties. It seems you're travelling to many places because of all the requests.
+006	That's right. It also means they're recognizing my talents.	VO_cheryl.cheryl_sys_0007
+007	Well, there are a lot of things going on for me as well.
+008	A lot of things?	VO_cheryl.cheryl_sys_0006
+009	Really! Listen, Cheryl! Reagan did it again with...	VO_courage.courage_sys_0002
+010	...um, this'll be a long story. Actually, you and I have been so busy recently and we haven't been able to talk much.	VO_courage.courage_chara_1007
+011	Since we're together now, why don't we have lunch together? I know of a good place with spicy food which I know you love.
+012	Sounds good! Oh... but I'm sorry. I still have to finish writing my report.	VO_cheryl.cheryl_sys_0036
+013	I'm planning to take a break after work is done... And the report is part of that so...
+014	You're a workaholic... Don't be so hard on yourself and be a little flexible, won't you?	VO_courage.courage_sys_0029
+015	Flexible...	VO_cheryl.cheryl_sys_0039
+016	Oh... Sorry. Maybe it's too sudden and work is important.	VO_courage.courage_sys_0036
+017	An inquisitor's work must be difficult, and you probably don't have much free time.
+018	No, it's not like that. Some people write up their reports after returning to headquarters.
+019	Although there are regulations stating that reports should be written after an investigation is complete, so I'm trying to follow the rules...
+020	So, it's okay then. Then, what's the problem?	VO_courage.courage_sys_0031
+021	...
+022	Actually...	VO_cheryl.cheryl_sys_0003
+023	I cannot agree to this! Why are they allowed to do things their way?	VO_cheryl.cheryl_sys_0014
+024	Even if we are discussing the extermination of heretics, it was against protocol to raid the laboratory without an inquisitor!
+025	Well, technically it was against protocol. But because of that, the heretics were caught. We have to be a little flexibile with the rules.	VO_stknightm.stknightm_sys_0031
+026	That may be so... But there should be consequences!	VO_cheryl.cheryl_battle_0019
+027	Inquisitors must follow the rules. If they don't, then what is the purpose of having rules? It is their role to make people follow protocol.	VO_cheryl.cheryl_sys_0001
+028	Cheryl... What you say makes sense and of course it's important to follow protocol.	VO_stknightm.stknightm_sys_0001
+029	But if we follow every rule and regulation, we're bound to miss important details along the way.
+030	But...	VO_cheryl.cheryl_sys_0029
+031	Cheryl. Do not forget where we place our stance on rule violations.	VO_stknightm.stknightm_sys_0045
+032	I see. So that's what happened.	VO_courage.courage_sys_0044
+033	I know there's a point in what you and my superiors are saying. But I just can't accept it.	VO_cheryl.cheryl_sys_0030
+034	As I see it, if we follow the rules, we won't end up like them.
+035	(Like those who become so obsessed in their research that they forget about their own daughter...)
+036	Cheryl...
+037	…If you break the rules, the offender as well as the people around will suffer the consequences... So it's my duty to follow the rules.	VO_cheryl.cheryl_sys_0001
+038	Sadness from losing someone important can't be repeated.
+039	Plus, as an inquisitor, I should be tough on myself as well. I have to take the lead on bringing down the heretics.	VO_cheryl.cheryl_sys_0022
+040	I really admire how strict you are, Cheryl.	VO_courage.courage_sys_0002
+041	But you sometimes have to just take a break.	VO_courage.courage_chara_1007
+042	And so... Let's eat some... Aaahh!
+043	Nnngh...
+044	Hey, are you okay? I'm sorry about that... What's all this? Your clothes all torn up.	VO_courage.courage_battle_0019
+045	And that pale complexion. It's like something scared the soul out of you...	VO_cheryl.cheryl_sys_0039
+046	Ah, there you are!	VO_thiefm.thiefm_sys_0002
+047	!
+048	You're wasting our time. Hurry, let's go!	VO_thiefm.thiefm_sys_0029
+049	N...No!
+050	Hey, what do you think you're doing?	VO_cheryl.cheryl_sys_0014
+051	This little girl is injured... Let go!
+052	Hm? Who the heck are you two? Get out of the way.	VO_thiefm.thiefm_sys_0017

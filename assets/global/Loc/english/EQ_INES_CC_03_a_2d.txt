@@ -1,0 +1,98 @@
+﻿001	These are the accommodations we've prepared for you. Please, make yourselves at home.
+002	Wow... What a lovely room!	VO_ines.ines_sys_0024
+003	The trees are so warm and inviting. It really feels just like the forest! I think we'll be very comfortable with these lodgings.
+004	Indeed, for a human room, it's...not bad at all.	VO_nazario.nazario_sys_0045
+005	I'm glad it meets with your approval. I requested some adjustments to its design so it would better appeal to such...elite clientele as yourselves.	VO_craris.craris_sys_0007
+006	I've also prepared all the items you might need for the festival right here:
+007	There's the incense wood for the fire, holy water to purify yourselves, a bowl for dipping the cloth into the holy water, a plate for catching the ashes of the incense wood, and—
+008	You prepared this much? But I already brought everything with me!	VO_ines.ines_sys_0025
+009	Nasario, you should have forewarned me of Northern Pride's hospitality! There would have been far less baggage to contend with on our journey.
+010	I'm as surprised as you. Northern Pride guides do traditionally prepare for the festival just as we do...	VO_nazario.nazario_sys_0004
+011	But generally not to this extent! And as we've never had any shortages on our end, there's never been any need to request or expect such assistance.
+012	Considering the nature of the ritual, I felt some degree of thoroughness was necessary.	VO_craris.craris_sys_0002
+013	The festival is to mourn those humans and high elves who were lost in our past conflicts, and to ensure we don't make those same mistakes again in the future...
+014	So it stood to reason that if we didn't accommodate your needs as much as possible, you might not be as inclined to take our hands in friendship this time around.
+015	I am surprised and humbled by how far ahead you've thought on this.	VO_nazario.nazario_sys_0044
+016	I want to do as much as I can, but I worry that even this may still not be enough...
+017	Such worry is unfounded, I assure you. It's beyond impressive how much you've done already.	VO_ines.ines_sys_0001
+018	Until our arrival, you ensured our safety by concealing our elven nature from passers-by.
+019	And when meeting with your elders, it was clear they were scared of us, despite your deft attempts to recontextualize their reactions and hurry us through to our rooms...	VO_ines.ines_sys_0031
+020	...which you did because I wasn't feeling well after the long carriage ride, I presume.
+021	I'm sorry for making this more difficult than it already must have been for you.	VO_ines.ines_sys_0046
+022	Don't worry about it. Being surrounded by so many people you've never met can be overwhelming. I'm sure I'd have felt a bit ill in that situation as well.
+023	Still...	VO_ines.ines_battle_0019
+024	......
+025	Ines?
+026	I just can't understand why you're doing so much for us.	VO_ines.ines_sys_0016
+027	I've always been afraid of humans, if I'm being honest. And I haven't exactly taken the warmest attitude toward you thus far, Claris.	VO_ines.ines_sys_0030
+028	Ines...
+029	......
+030	If I too am being honest, I understand where you're coming from all too well.	VO_craris.craris_sys_0031
+031	The truth is, I was once afraid of high elves, myself.
+032	Really?	VO_ines.ines_sys_0006
+033	Yes. There were no high elves for me to interact with, of course, and my grandfather would only tell me stories of how strong and fearsome you all are.	VO_craris.craris_sys_0005
+034	It didn't occur to me until later in life that, as the family representative entrusted with guiding you, I would need to learn to respect the dignity of the high elves.
+035	Until I realized as such, I was afraid of your kind, and wanted nothing to do with the festival.
+036	Even when I was first recruited to help with its preparations, I was scared to the point that I would cry if I messed up anything at all...	VO_craris.craris_sys_0030
+037	But then I saw the magic of the high elves with my own two eyes.
+038	And I was taken aback by its stunning beauty.
+039	......
+040	I wanted to know more about that beautiful magic, and suddenly, I went from avoiding everything high elf-related...to obsessing over learning everything I could about your people.	VO_craris.craris_sys_0004
+041	Your history and culture, your ancestral magic, and your forest that you hold so dear...
+042	The more I learned, the more my fear of you began to simply fade away.
+043	That's when I realized that in all things, fear is birthed by the unknown, and defeated through knowledge—a credo I've come to live by ever since.	VO_craris.craris_sys_0002
+044	Defeated through knowledge... That's a rather poignant turn-of-phrase, I must say.	VO_ines.ines_sys_0031
+045	Admittedly, though, when I started to seriously aim for this position, the studying was...intense, to say the least. There was more to know than I was prepared for, and I nearly gave up.	VO_craris.craris_sys_0011
+046	Memorizing all the proper etiquette, exact procedures, and all the other small details associated with this sort of ambassadorial work is no small feat.
+047	Oh, I definitely know exactly what you mean, believe me!	VO_ines.ines_sys_0005
+048	Don't exaggerate.	VO_nazario.nazario_sys_0022
+049	But just as I was about to throw in the towel, I met someone—a truly wonderful high elf woman.
+050	Did you, now?
+051	She'd come all the way from your forest to the capital for the festival, just as you have.	VO_craris.craris_sys_0005
+052	And though I was but a little girl at the time, she listened intently to my frustrations, and even re-enacted the festival with me so I could better understand what I was studying.
+053	I'm pretty sure Mother prayed like this next, and then... Hmm... How'd the next part go again?	VO_ines.ines_sys_0006
+054	Uh, I think...that's when the human representative presents the crown to the high elf representative, right?
+055	Ohh, yes! You got it! That's exactly right!
+056	That's perfect, then. How about giving it a try with the flower crown we made?	VO_ines.ines_sys_0009
+057	O-okay! Let's see...
+058	Oh, very smooth! Your studies are paying off, I see.	VO_ines.ines_sys_0005
+059	If I'm going to be the next representative for my people, I'm going to have to study a lot harder myself. And I really don't like studying!
+060	I don't like it much either. I wish I could just...know stuff, without having to study it. But I'm surprised to hear that kind of thing from a high elf!
+061	It makes no difference whether you're a high elf or a human! Studying is boring.	VO_ines.ines_sys_0002
+062	You think so?
+063	But now I'm really motivated! Tell you what. If you come to see the festival again next time, then I'll make sure I'm totally ready for it too!	VO_ines.ines_sys_0007
+064	So you keep studying real hard, okay? Promise me! Let's shake on it.
+065	Okay! I promise! I'll do my very best.
+066	To this day, I still remember her friendly face, and the warmth of her gentle hand as I presented that flower crown to her...	VO_craris.craris_sys_0004
+067	That's when I discovered that high elves have the same warm hands as humans.	VO_craris.craris_sys_0007
+068	A crown of flowers...
+069	......
+070	There are still so many things I need to learn, though. But that just makes me even more excited!
+071	For instance... Here, look.	VO_craris.craris_sys_0001
+072	Wow! It's beautiful!	VO_ines.ines_sys_0024
+073	I feel...strangely nostalgic? What a nice, warm feeling this is.
+074	Magic borrowed from the spirits? Those of us who live in the forest certainly are no strangers to such things, but this is an altogether different kind of magic than that of the high elves.	VO_nazario.nazario_sys_0045
+075	And I must admit, I've never heard of the spirits helping humans with magic to such an extent. I believe your talent must be exceptionally rare.
+076	I've also studied the spirits themselves. It's that knowledge which allows me to do this.	VO_craris.craris_sys_0005
+077	Magic can be quite terrifying, but if you understand it well enough, you can easily lighten another's mood with it.
+078	It's like I said: knowledge defeats fear. The more you know, the less there is to be scared of, and the more fun you'll have.	VO_craris.craris_sys_0007
+079	Excuse me, Lady Claris? The festival committee wishes to speak with you.
+080	Understood. I'm on my way.	VO_craris.craris_sys_0037
+081	Now then, you two. A servant is at your disposal in the next room, so if you need anything, please don't hesitate to ask.	VO_craris.craris_sys_0002
+082	I can't believe how hard she studied to become a festival guide. Claris truly is an amazing person!	VO_ines.ines_sys_0043
+083	I...am inclined to agree. Preparing all of this is not something one can just learn to do overnight.	VO_nazario.nazario_sys_0006
+084	Fear is birthed by the unknown...and defeated through knowledge...
+085	There's still so much I don't know about humans. I wonder if anything would change were I to learn more.	VO_ines.ines_sys_0016
+086	Ines...
+087	I know. Remaining afraid of them will do no one any good.
+088	High elves and humans must never fight again.	VO_ines.ines_sys_0022
+089	For us to take one another's hands and peacefully coexist, I swear to protect our oath.
+090	Just like Mother did in the previous festival...
+091	The previous festival...	VO_nazario.nazario_sys_0031
+092	Nasario?
+093	Ah, it's nothing.	VO_nazario.nazario_sys_0004
+094	......
+095	I thought I'd survey the area just to be safe, and what do I find? So tell me. What do you want?	VO_nazario.nazario_sys_0022
+096	You... You're a high elf, but you don't seem to be the representative. Either way, though, you're coming with us.	VO_thiefm.thiefm_sys_0002
+097	How rude! It seems there's no getting along with you lowly humans after all. Perhaps the error was mine in thinking we ever could.	VO_nazario.nazario_sys_0010
+098	(I can't let these people near Ines. I'll need to hold them off myself!)

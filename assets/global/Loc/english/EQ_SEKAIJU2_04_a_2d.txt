@@ -1,0 +1,61 @@
+﻿001	Gurrrrgggghhh...
+002	H-how can there be so many?! Wh-what's going on?!	VO_paladin.paladin_sys_0027
+003	There's no end to them!	VO_gunner.gunner_sys_0017
+004	This explains why the soldiers were unable to return with the medicinal herbs!	VO_princess.princess_battle_0019
+005	Wh—?! Hey! Shenmei...is gone!	VO_fencer.fencer_sys_1028
+006	Wh-what?!	VO_princess.princess_sys_0025
+007	We were separated?!
+008	We need to find Shenmei! I'll go and see if I can find her!	VO_fencer.fencer_sys_0022
+009	Grrrraaaarrrrggggghhhh!
+010	Argh?!
+011	Nnnrrgghh! You have a reckless side to you as well, I see!	VO_paladin.paladin_battle_0019
+012	P-Protector?!	VO_fencer.fencer_sys_0025
+013	I will protect you, no matter what! For I am a Protector, the shield of adventurers!	VO_paladin.paladin_chara_1001
+014	Thank you, Protector...and, um, sorry.	VO_fencer.fencer_sys_0035
+015	Hmm. I understand how you feel, but if you rush off by yourself, you might end up being the one who ends up separated from your companions.	VO_paladin.paladin_sys_0022
+016	I would appreciate it if you had a little more faith in us.	VO_paladin.paladin_sys_0002
+017	You're right. Okay... Got it!	VO_fencer.fencer_sys_0037
+018	Well, it is only natural that we would worry. There are far too many monsters here.	VO_princess.princess_sys_0029
+019	Please, be quiet for a moment.	VO_gunner.gunner_sys_0001
+020	Wh-what is it? I don't appreciate—!	VO_princess.princess_sys_0006
+021	Hush!	VO_gunner.gunner_sys_0012
+022	I can hear...the sounds of battle!
+023	It must be Shenmei. Let us hurry to her aid!	VO_princess.princess_sys_0024
+024	Blaaarrrrggggghhhhhhh!
+025	Ngh! There are...too many of them!	VO_shengmei.shengmei_battle_0020
+026	Gunner! You're all here!
+027	Shenmei! Are you all right?	VO_fencer.fencer_sys_0001
+028	Sorry, guys! I've got a terrible sense of direction, and I kinda got swept away when the fighting started... Heheh.	VO_shengmei.shengmei_sys_0036
+029	It's fine. All that matters is that you are safe.	VO_gunner.gunner_sys_0022
+030	That aside, you found Shenmei incredibly quickly, Gunner!	VO_paladin.paladin_sys_0031
+031	I am a Gunner, after all. Tracking in the forest is a fundamental skill. It's quite simple.	VO_gunner.gunner_sys_0010
+032	I... I see. Your way of speaking can be...callous, but I really admire your skills.	VO_paladin.paladin_chara_1002
+033	Hm... Ah!	VO_gunner.gunner_sys_0006
+034	Gunner? What's wrong?	VO_shengmei.shengmei_sys_0005
+035	I heard...a voice. A cry of pain.	VO_gunner.gunner_sys_0001
+036	Ah! It's coming from over there!
+037	Nnngh... Urrrggghh...
+038	These must be the soldiers who came looking for medicinal herbs!	VO_shengmei.shengmei_sys_0027
+039	You, there! Get a hold of yourself!	VO_princess.princess_sys_0002
+040	Th-the flower... Nngh...
+041	They're out cold... What do you think they were trying to say about flowers?	VO_shengmei.shengmei_sys_0020
+042	Flowers, hmm? Perhaps they are the medicinal herbs we seek?	VO_gunner.gunner_sys_0031
+043	Help me!
+044	It's that voice again! It's like they're taking turns shouting for our help.	VO_paladin.paladin_sys_0025
+045	It sounded quite close! Let us hurry!	VO_princess.princess_sys_0004
+046	Help me... He...lp...
+047	Welcome...adventurers.
+048	A m-monster! Is this what that soldier meant by flower?!	VO_shengmei.shengmei_sys_0021
+049	That's Alraune!	VO_princess.princess_battle_0019
+050	Adventurers...p-please...
+051	So that voice belonged to a monster all along?! Why would a monster need our help?!	VO_fencer.fencer_sys_0022
+052	Ngh... We've been tricked! Alraune is a terrifying creature. She calls for help in the voice of a young girl, then lies in wait for those poor, kindhearted fools who heed her!	VO_paladin.paladin_battle_0019
+053	S-so you're saying that we've fallen into a monster's trap?!	VO_gunner.gunner_battle_0022
+054	Yes. However, there's something strange going on. This Alraune is somehow different to the one I have fought before.	VO_paladin.paladin_sys_0016
+055	Ah! Is that...a Philosopher's Stone?!	VO_shengmei.shengmei_sys_0020
+056	A Philosopher's Stone?! Chloe told me about those! They're really powerful!	VO_fencer.fencer_chara_1001
+057	That's right. I bet the Philosopher's Stone is making this monster even stronger!	VO_shengmei.shengmei_sys_0006
+058	Gggrrraaaaaggggghhhhh!
+059	My friends, we have company!	VO_princess.princess_sys_0002
+060	We should take care of these pests first!	VO_gunner.gunner_battle_0030
+061	Here they come! Get ready!	VO_paladin.paladin_battle_0019

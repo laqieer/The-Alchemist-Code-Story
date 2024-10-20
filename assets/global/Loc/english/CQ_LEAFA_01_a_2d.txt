@@ -1,0 +1,76 @@
+﻿001	…*Sigh* It's a little early to break for recess, but it's not like we're getting much talking done…	VO_rifa.rifa_sys_0030
+002	I thought Greed Dike and Wadatsumi could settle their differences by jointly managing the Mikaboshi…
+003	Greed Dike should have control of the Mikaboshi! We can take care of it properly.
+004	Nothing good will come from giving power to a group of heretics!!
+005	(I used to regard the people of Wadatsumi as heretics…until I met Yomi. Thanks to her, I've gained a valuable new perspective.)	VO_rifa.rifa_sys_0031
+006	(As Greed Dike's general…)	VO_rifa.rifa_battle_0019
+007	(I must end the fighting. I must do so for my friend, whose wounds have yet to heal.)
+008	General! I've been looking all over for you. So this is where you've been.
+009	…Yes, forgive me. I needed a moment to cool my head.	VO_rifa.rifa_sys_0004
+010	The meeting is about to recommence. Better head back.
+011	…
+012	…What's wrong?	VO_rifa.rifa_sys_0001
+013	…Actually, the meeting has been suspended to accommodate a visit by the Lord Commander.
+014	…The Lord Commander?	VO_rifa.rifa_sys_0025
+015	(The handling of the Mikaboshi is an important topic indeed, but I wouldn't have thought the Lord Commander himself would…)
+016	(…He must think there's a threat to peace percolating in Greed Dike.)
+017	…I see. Thank you. I'll make my way there.	VO_rifa.rifa_sys_0037
+018	…Um, General Leafah.
+019	Hm?	VO_rifa.rifa_chara_1008
+020	Um...It's not your fault the meeting isn't going well…
+021	So...please try not to overexert yourself. We're here for you.
+022	Overexert myself? Don't be silly! I don't know the meaning of the word. I'm a general, aren't I?	VO_rifa.rifa_sys_0012
+023	Yes, but…
+024	Let's go. The Lord Commander should have arrived by now. We can't keep him waiting.	VO_rifa.rifa_sys_0001
+025	Oh… M-my apologies!
+026	…Making my subordinates worry--what a rookie mistake…	VO_rifa.rifa_sys_0030
+027	Pleased to meet you. I am Lord Commander Basheeny. Allow me to be brief…	VO_basini.basini_sys_0001
+028	I'd like to request your immediate help with the Mikaboshi.
+029	My help? I could've sworn you came here because you doubted us…
+030	Why would you think so?	VO_basini.basini_sys_0006
+031	B-Because…
+032	There's no reason for me to doubt anybody in Greed Dike.	VO_basini.basini_sys_0003
+033	Kagura told me all about you--a Greed Dike general and an ally to Wadatsumi...
+034	She said you risked your life defending Wadatsumi.
+035	…S-She's too kind. I just did what I thought had to be done--	VO_rifa.rifa_sys_0011
+036	I had to fulfill my duties as general, and to help Wadatsumi and my friend…
+037	Whatever the motivations, your actions speak volumes. Yomi also spoke highly of your character.	VO_basini.basini_sys_0031
+038	Yomi did--did she?	VO_rifa.rifa_sys_0025
+039	Because of the importance of this meeting and your position as a general, she was worried that you might overdo it.	VO_basini.basini_sys_0005
+040	Yomi said that… I'm sure she's even worse off than I am, but she still worries about me…
+041	How dependable can I be if I make Yomi worry about me, especially when her health isn't great?	VO_rifa.rifa_sys_0039
+042	Give me the full report.
+043	Greed Dike extremists are attending the meeting about the management of the Mikaboshi.	VO_basini.basini_sys_0004
+044	Until recently they were a relatively small group, barely on our radar…
+045	But I've heard rumors they're after the Mikaboshi in order to bolster their power.
+046	So that's why you came to meet in person…	VO_rifa.rifa_sys_0045
+047	If that's true, then Yomi has a lot on her plate. I'll have my most trusted men assist in guarding the Mikaboshi.	VO_rifa.rifa_sys_0037
+048	I'd appreciate that greatly.
+049	I had planned to keep a sharp eye on instigators at the meeting, but I never thought they'd try to steal the Mikaboshi…	VO_rifa.rifa_sys_0031
+050	I'll take it upon myself to monitor their movements and connections. I'm sure we can learn things from the inside.
+051	If this blows up, all our efforts to establish a peaceful relationship will have been for naught. That would be inexcusable to the people of Wadatsumi.
+052	I won't allow them to be this reckless!	VO_rifa.rifa_battle_0019
+053	I'm grateful for that offer, but... You could also try to conclude the meeting yourself. What do you intend to do?
+054	Of course, that's my responsibility as well. I'll do both to the best of my ability.	VO_rifa.rifa_sys_0004
+055	…
+056	Perhaps you should focus all your attention on the meeting. I heard it wasn't going very well.	VO_basini.basini_sys_0030
+057	…	VO_rifa.rifa_sys_0029
+058	… Why don't you let your subordinates gather intel from the inside?	VO_basini.basini_sys_0001
+059	I couldn't possibly--
+060	!
+061	…Who knows what lengths the extremists are willing to go. If there are any mishaps, my men could be in danger.	VO_rifa.rifa_sys_0003
+062	It'll be…just like that time the ogre blood illness….	VO_rifa.rifa_sys_0043
+063	...So, I will protect the Mikaboshi and find and detain all the radicals!
+064	That way everyone will be safe--the Mikaboshi, my troops and even Yomi...!
+065	…
+066	…The radicals are sure to view you as an obstacle. Please keep your wits about you.	VO_basini.basini_sys_0003
+067	Yes, I will…I don’t want to be taken hostage and have my men put in a difficult position.	VO_rifa.rifa_sys_0004
+068	Sorry to interrupt, General Leafah! Fights have broken out at the meeting.
+069	The Greed Dike faction and the Wadatsumi faction are clashing...
+070	What!? I've got to stop this immediately!	VO_rifa.rifa_sys_0025
+071	Um, General…
+072	…I should probably go, too. The extremists may be whipping up the crowds. Can you take me there?	VO_basini.basini_sys_0001
+073	...Yessir!
+074	(Discussions only lead to disputes about the Mikaboshi's power… Building a world of peace isn't easy.)	VO_basini.basini_battle_0019
+075	(I bet Kanon would know how to handle this… Well…)
+076	(I promised I would protect the world she entrusted to me and lead it to the future. I can't lose hope now…)

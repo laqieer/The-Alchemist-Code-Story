@@ -1,0 +1,183 @@
+﻿001	The winds...are so strong.	VO_emmer.emmer_sys_0042
+002	That's this realm's particular characteristic. The unending gales make it impossible for anything here to last.	VO_kvense.kvense_sys_0006
+003	Anything native to this land, that is.
+004	What do you mean?	VO_emmer.emmer_sys_0006
+005	Human ingenuity allows some of us to call even this harsh environment home.	VO_kvense.kvense_sys_0007
+006	Space-Time Manipulation: Ignition. Destination: Good ol' Vice City.
+007	Shall we?
+008	Welcome to the stronghold of the Infinite Serpent, and Superbia Belt's one and only metropolis:	VO_kvense.kvense_sys_0031
+009	A town of free spirits known as Hierosolyma.
+010	Impressive...
+011	Lord Quence? Is that you? I'd heard you were attending to business in the Ire Belt.
+012	I was, but that business led me back here. Is Lord Shahel around?	VO_kvense.kvense_sys_0006
+013	Of course. He's eating his lunch at present.
+014	Seriously? Guess I should have timed this better.	VO_kvense.kvense_sys_0039
+015	I'm sure Lord Shahel will be most pleased to see you, lunchtime or no.
+016	That's what I'm afraid of.	VO_kvense.kvense_sys_0016
+017	Quence?	VO_emmer.emmer_sys_0001
+018	Hmm? Oh, Shahel is the name of the leader of this Belt Region.	VO_kvense.kvense_sys_0005
+019	And he also happens to be the head of the Infinite Serpent.
+020	The leader of the Belt Region?!	VO_emmer.emmer_sys_0042
+021	What are you so surprised about? Nimul's the leader of Gula Belt, isn't he?	VO_kvense.kvense_sys_0007
+022	Yes, but that's different...	VO_emmer.emmer_sys_0016
+023	At any rate, Lord Shahel is quite the gourmand. Every time I see him, he gives me recommendations for all sorts of foods.	VO_kvense.kvense_sys_0030
+024	You two must be...pretty close, then, I guess.	VO_emmer.emmer_sys_0031
+025	He's like that to everyone. But the problem is, after he eats, he always goes into a serious food coma.	VO_kvense.kvense_sys_0004
+026	Uh... Come again?	VO_emmer.emmer_sys_0025
+027	We don't have time to wait for him to wake up, though, so come on, Boss. We're going to head him off at the pass.
+028	"Boss"? Do you mean me?	VO_emmer.emmer_sys_0001
+029	What, don't you like being called "Boss"? The only other thing I'd feel comfortable calling you is "Ma'am"...	VO_kvense.kvense_sys_0003
+030	Um, you can always just call me by my name...
+031	...
+032	...Did you forget my name?	VO_emmer.emmer_sys_0006
+033	Of course not! A man of my intellect would never forget anyone's name! Not even that of someone he only ever met once before...	VO_kvense.kvense_sys_0025
+034	Oh, right, you were one of Ambrosia's older apprentices, weren't you? That must mean you're getting a bit up there in years.	VO_emmer.emmer_sys_0008
+035	So what if I am?! That doesn't mean I've gone senile!	VO_kvense.kvense_battle_0019
+036	Rrrg... That's right! Emmel! Your name's Emmel! I finally remem—I-I mean, of course I know your name! See?!
+037	Of course. Anyway, like I said, you can just call me Emmel. So, you were saying you'd take me to meet Shahel?	VO_emmer.emmer_sys_0005
+038	Yes. Come with me.	VO_kvense.kvense_sys_0016
+039	Mm, thish pie ish beautifully baked! You can tell, right, Helene? The crishpnesh of the crusht can only be achieved through ekshpert control of—	VO_chahele.chahele_sys_0008
+040	I understand you're excited, Father, but could you please not talk with your mouth full? It's very unpleasant!	VO_helenne.helenne_sys_0002
+041	Oh, don't be like that! This is so good, I have to sing its praises in the moment! There's no time to swallow!
+042	Ah, I'm ready for my wine, if you would.	VO_chahele.chahele_sys_0004
+043	Of course, Sir.
+044	Ah, the act of eating is such a stupendous thing.	VO_chahele.chahele_sys_0031
+045	I can understand why so many of this Belt Region would succumb to such an indulgence.
+046	You may very well be the one who indulges in it the most, Father.
+047	But of course! I could never pass up such a perfect means to learn more about human culture. You'd do well to try it yourself, Helene!	VO_chahele.chahele_sys_0003
+048	Unlike we, who feel the magil of the world directly, humans must depend on their senses to perceive the world.
+049	Sight, sound, touch, smell, and taste... When you eat, all five are thoroughly stimulated. It is a truly divine experience!
+050	Yes, yes. I've heard all this before.	VO_helenne.helenne_sys_0030
+051	You are even more talkative than usual today, though, Father. Did you receive good tidings, perhaps?
+052	I did! I heard tell that Zafeiris was defeated.
+053	All this after attaining the coordinates for Gula Belt and so triumphantly marching forth! I'll have to tease him about this when he gets back.	VO_chahele.chahele_sys_0007
+054	That old dragon corpse was taken down?	VO_helenne.helenne_sys_0025
+055	Indeed. Imagine: a dragon—one of the beings who created the high elves—was actually bested in battle!	VO_chahele.chahele_sys_0006
+056	What's more, he wasn't even bested by the famed Guardian Dragon, but by a mere human!
+057	Such powerful humans are finally beginning to show themselves... It seems our efforts have begun to bear fruit, no?
+058	Maybe. But you could also be jumping to conclusions again, just as you did with Avaritia Belt.	VO_helenne.helenne_sys_0031
+059	It's certainly possible. But high expectations are free, so why not indulge in them from time to time? Disappointment is a risk, but when the expectations are met, oh, the satisfaction!
+060	Speaking of, this wine is simply divine! Do I detect some fruity notes on the end, there? I've never tasted anything like this before.	VO_chahele.chahele_sys_0024
+061	It's a reproduction of the grain wine produced in the Avaritia Belt Region you were just speaking of.
+062	Why have you never served me this before? I dare say I'd love to drink this every night!	VO_chahele.chahele_sys_0001
+063	Its manufacture is quite complex, and we only had Lord Yna's verbal instructions to go by, leading to many failed attempts. However, we were finally able to recreate it with some persistence.
+064	Ah, I see. I suppose there's no way around that, then. When he was here, reminiscing about his past was really all he ever did. I'm impressed you were able to glean anything from those ramblings.	VO_chahele.chahele_sys_0045
+065	I wonder if he's finally been able to move on.
+066	Pardon me, Sir—oh, were you in the middle of a meal?	VO_ignacio.ignacio_sys_0004
+067	My son! It's good to see you. Come, sit. I'll have them prepare some for you as well.
+068	Well, I... Ah, thank you, but there's no need. I've already eaten.	VO_ignacio.ignacio_sys_0039
+069	Very well, then.	VO_chahele.chahele_sys_0020
+070	You must have business with me, yes? Even if we are not blood-related, I still think of us as family. You may speak with me on any topic you wish, at any time.
+071	In this case, I simply came to deliver a message. You have a visitor. Lord Quence brought a guest who wishes to meet you in person.	VO_ignacio.ignacio_sys_0045
+072	Oh?
+073	We'll have to ready a proper welcome for this mysterious guest, then. My apologies for cutting our meal short, Helene.
+074	Oh, no, that's fine.	VO_helenne.helenne_sys_0006
+075	Though it's probably just another miserable stray one of the serpents picked up on patrol.
+076	Well... I wouldn't be so sure about that.	VO_ignacio.ignacio_sys_0020
+077	Hmph. As if you're in any position to judge.	VO_helenne.helenne_sys_0004
+078	Let's see how you feel after you've met her. I, for one, was rather caught off-guard.	VO_ignacio.ignacio_sys_0007
+079	...?
+080	Well met, esteemed guest. We of Superbia Belt extend our warmest welcome to all humans...	VO_chahele.chahele_sys_0004
+081	Even if they do stand against the very Truth of this world.
+082	That's not a very warm welcome at all, Shahel.	VO_kvense.kvense_sys_0010
+083	When you first met me, you were much more polite and gregarious.
+084	And, wait, I was told you were eating! Now I feel like a fool for hesitating over asking to speak with you.	VO_kvense.kvense_sys_0001
+085	When I first met you, I didn't yet know of your disposition. If I had, I'm certain my greeting would have been more...apropos.	VO_chahele.chahele_sys_0001
+086	As for eating, I was. I've taken the liberty of having meals prepared for you both as well, so please do feel free to partake at your leisure. Particularly you, Quence. You've gotten skinny, and it worries me so.
+087	...
+088	It's a pleasure to meet you, Sir. I'm—	VO_emmer.emmer_sys_0001
+089	A citizen of the Sephira.
+090	Huh?	VO_emmer.emmer_sys_0025
+091	I can tell simply by...let's say, the look of your magil. Furthermore, you have the cores of Cursed Beasts embedded in your being, which means...
+092	You're the Vessel of Purification, are you not?
+093	Yes, that's right.	VO_emmer.emmer_sys_0004
+094	How fascinating. The Vessel of Purification. The sacrificial daughter...	VO_chahele.chahele_sys_0007
+095	Come here all the way from Gula Belt. Why, I wonder?
+096	Though perhaps it would be best for me to ask you this first:	VO_chahele.chahele_sys_0039
+097	How is it you possess the core of a Cursed Beast which has yet to be felled?
+098	Because I hail from the future.	VO_emmer.emmer_sys_0005
+099	So, the Observer has gone, then. Which must mean...
+100	Can you at least try to act a little more surprised?!	VO_kvense.kvense_sys_0030
+101	There was always a chance for such eventuality once the Ceremony of Creation had reached its final stage.
+102	But if she isn't taken care of soon, things could become most troublesome indeed.	VO_chahele.chahele_sys_0031
+103	She's the root of the dragon technique that binds this world.
+104	Her continued existence only means the guaranteed failure of the Ceremony.
+105	I've come to take over that Ceremony.	VO_emmer.emmer_sys_0001
+106	...!	VO_helenne.helenne_battle_0019
+107	(Her eyes are filled with such resolve... Just how deep does that resolve run?!)
+108	You have, have you?
+109	Yes. Am I not a satisfactory candidate for the role?	VO_emmer.emmer_sys_0004
+110	Regrettably, I am not the person who decides that.	VO_chahele.chahele_sys_0035
+111	Only one who has successfully conquered all the Cursed Beasts has the right to carry out the Ceremony of Creation.
+112	For only one with the power to exert control over the world itself can lead the charge on its remaking, as you may well imagine.
+113	But as far as I can see...	VO_chahele.chahele_sys_0030
+114	You are not a warrior, nor do you possess any outstanding abilities. You are simply a formerly empty vessel that absorbed the cores into your being.
+115	You are not yet prepared to fight against fate itself.
+116	I know. And that's exactly why I came here to Superbia Belt.	VO_emmer.emmer_sys_0005
+117	Oh?
+118	I do not possess the wisdom needed to overturn the world's order.	VO_emmer.emmer_sys_0030
+119	I have neither the skill to discern the nature of the universe, nor the aptitude to alter it. And yet, despite that...
+120	If I were able to defeat the Beast of Pride as I am now...
+121	Would that not mean I have earned the right to change this world?	VO_emmer.emmer_sys_0002
+122	Oho!	VO_ignacio.ignacio_sys_0031
+123	You are quite the fascinating one indeed, girl. I can see now why you picked her, Quence.
+124	Right?!	VO_kvense.kvense_sys_0007
+125	But I believe you have an ulterior motive. You didn't actually come here with the intention of taking over the Ceremony of Creation, did you?
+126	What makes you say that?	VO_emmer.emmer_sys_0006
+127	Because all of this was prophesied—described in a most heinously accursed foretelling left behind by the one regarded as the priestess of Ouroboros.	VO_chahele.chahele_sys_0037
+128	...
+129	Besides which...you do not have the eyes of one determined to make change, but rather of one who is resolved to protect.	VO_chahele.chahele_sys_0031
+130	You wish for this world to continue as it has always been.
+131	You want to keep the Truth of this world unchanged, even sealed as it is in corruption alongside all the world's people.	VO_chahele.chahele_sys_0004
+132	You understand, don't you? Your goal is in complete defiance of ours. We wish to rebuild this world from scratch, while you wish to preserve it.
+133	Are you planning to stop me, then?	VO_emmer.emmer_sys_0001
+134	Oh, certainly not! Your voice joins the chorus of those from all the Belt Regions, and the wishes it proclaims are no less valid than any others.
+135	I have no intention of nipping that bud.
+136	Then what is your intention?	VO_emmer.emmer_sys_0003
+137	I am only here to oversee things so that the past splendor of the dragons, and the world they left behind, can be passed along to those who may help bring it to flower once more.
+138	Though I do so wish the humans would simply accept the fact that everything must be sacrificed, and move on already...	VO_chahele.chahele_sys_0006
+139	How can we accept that, when the Infinite Serpent has done nothing to explain any part of it?!	VO_emmer.emmer_sys_0042
+140	We've toiled endlessly—blindly—all just to barely grasp the faintest of answers without even a hint of assurance if they're actually true!
+141	Yet you tell us to accept those answers on, what, faith? What gives you that right?!	VO_emmer.emmer_sys_0002
+142	Most unfortunately, I am not a god. I am far from almighty, and am limited by much.	VO_chahele.chahele_sys_0030
+143	There is no way for me to save everything and everyone...which is why those who are unnecessary must be cast away, and that which is excess must be disposed of.
+144	Only then can I entrust everything I have to whatever remains.
+145	And who gets to choose who or what remains? Do you spare no regard for the feelings of those who are destined to be sifted out and discarded through little more than your own selfish choices?	VO_emmer.emmer_battle_0019
+146	I could say the same for you. You can't possibly believe that no one will be hurt by your decision to sacrifice yourself.	VO_chahele.chahele_sys_0016
+147	...
+148	Life is built upon a foundation of sacrifices. The mere act of living is but a constant fight for the resources to continue living!
+149	Take eating, for example. Food is a wondrous thing, and humans have both a biological need and an instinctive drive to eat. One could even think of food culture as a sublime art all its own.	VO_chahele.chahele_sys_0007
+150	But at its very core, consuming food is the act of taking life from others.
+151	Day by day, we continue eating to survive, to nourish, and even to enjoy. But have you ever stopped to wonder just how many sacrifices have been made in the name of consumption?
+152	Your point is noted, but you can't deny that my wish to save everyone is a noble cause.	VO_emmer.emmer_sys_0002
+153	Certainly. But that's not truly the cause you champion, is it?
+154	Use your own words to refute me. Don't tell me what you think I want to hear; tell me what you truly feel.
+155	I...	VO_emmer.emmer_sys_0042
+156	What is it you truly wish for?
+157	...	VO_emmer.emmer_sys_0031
+158	I don't have much longer for this world.
+159	I was born as the Vessel of Purification, and my body has already been wrought by an incalculable amount of corruption.
+160	I cannot hold out to the end of this journey.	VO_emmer.emmer_sys_0022
+161	I see. And?
+162	I want to leave something behind.	VO_emmer.emmer_sys_0004
+163	For the people I treasure... For my brother... I want to leave behind a world as beautiful as the one he envisions.
+164	And if I can fulfill that vision through this feeble shell that's destined to break apart regardless...
+165	Then that's exactly what I intend to do.	VO_emmer.emmer_sys_0005
+166	I understand now. Your ultimate goal, it would seem, is to denounce the Ceremony altogether.
+167	Yes. Once it begins, countless aspects of this world will change, and many lives will undoubtedly be lost.	VO_emmer.emmer_sys_0004
+168	Naturally. The very laws of the world—the Truth, as we know it—will be rewritten from dust.	VO_chahele.chahele_sys_0006
+169	There will be no small number of casualties, and many beyond that will be forced to abandon their lives as they've known them.
+170	And what you're saying is, you wish to save even them?
+171	Yes, for they are all a part of this world that I've loved so much.	VO_emmer.emmer_sys_0005
+172	Then I'm sure you're aware that the Infinite Serpent must stop you. You leave us no other choice.
+173	I am aware.
+174	But you are merely a single person. Even if Quence should be foolish enough to join you, that would make two.	VO_chahele.chahele_sys_0031
+175	You're rather lacking in manpower for a siege upon the enemy's stronghold, don't you think?
+176	You must have known I would oppose you. Which begs the question, how are you planning to get out of this?
+177	Are you ready, Quence?	VO_emmer.emmer_sys_0002
+178	Ready as I'll ever be, Boss.	VO_kvense.kvense_sys_0007
+179	Oh, Quence. You really are planning to betray us!	VO_ignacio.ignacio_sys_0002
+180	I don't expect you to understand, Ignacio, but all I'm looking to do here is save the world.	VO_kvense.kvense_sys_0005
+181	How I get there, and what form it takes, doesn't matter. I'm just following my heart!	VO_kvense.kvense_sys_0010
+182	Pity. I thought you were going to say you did all this to save a girl. At least that would've sounded cool on your memorial.	VO_ignacio.ignacio_sys_0007
+183	Well, she is my world now, so it wouldn't be wrong!	VO_kvense.kvense_sys_0023

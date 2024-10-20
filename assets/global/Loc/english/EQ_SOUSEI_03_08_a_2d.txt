@@ -1,0 +1,90 @@
+﻿001	Engineer Elect Adaleigh's airship has been housed in Dock 6. The entire crew is being detained within the port. 
+002	I appreciate your efforts. Please continue to monitor them. And no needless provocations, okay? 
+003	Understood.
+004	...This is for the best, I suppose, Icona.
+005	Ah yes, this is more than enough, Mr. Mayor. It's not the case that they want to perpetrate violence in this region, anyway.	VO_icona.icona_sys_0004
+006	It's just that they want to kill the Cursed Beast here.
+007	Though that would put us in trouble. 
+008	Belphegor is one of the precious resources left to this region. 
+009	The lode of the Gods is certainly a vast resource, but we can't be confident that it is enough for every researcher to achieve their goals... 
+010	For our prosperity... For the continuation of all research, no resource could be sufficient, no matter how vast. 
+011	For precisely this reason, losing a Cursed Beast capable of infinitely producing magil would be much too regrettable. 
+012	So that everyone has an equal opportunity to pursue their own research?	VO_icona.icona_sys_0007
+013	It is my duty as mayor to continue to provide such an environment. 
+014	...And how is the plan going?
+015	All is going smoothly. Though an unexpected nuisance did arise partway through...	VO_icona.icona_sys_0005
+016	A nuisance?
+017	Umm, a minor internal conflict, I guess? We of the Infinite Serpent are not a monolith, by any means. 	VO_icona.icona_sys_0030
+018	...If there is no hindrance to the plan, then let's not delve into the matter. 
+019	No need to worry about that! The tower repairs and the Cursed Beast's awakening are complete. What's left, as planned—
+020	—is just to capture the Cursed Beast alive. 	VO_icona.icona_sys_0008
+021	Gah, this has become quite bothersome...	VO_minario.minario_sys_0022
+022	I have to help Adaleigh and the others before it's too late...	VO_minario.minario_sys_0030
+023	Damn it, open this door! We didn't awaken the Cursed Beast!	VO_adlai.adlai_sys_0042
+024	It seems that we're somewhere in the vicinity of the port... Nyx, how goes it?	VO_kuienai.kuienai_sys_0031
+025	...It's no good. I can't communicate with Mira. There might be something in place that inhibits magil here. 	VO_nix.nix_sys_0030
+026	...Spiritbonding doesn't work either. The voice of Sephiron is very faint here... This must be how it feels to have magil inhibited.	VO_waginao-c.waginao-c_battle_0019
+027	We should assume that our hand is being read.	VO_kuienai.kuienai_sys_0004
+028	In that case, the fact that they separated us by gender for imprisonment was likely not simply out of consideration.
+029	I don't understand that part, but one thing has become clear.	VO_kuienai.kuienai_sys_0039
+030	We should likely assume that the city mayor is in league with Icona.  
+031	If that's true, then what about Minario...?	VO_adlai.adlai_sys_0002
+032	.........
+033	...Break me out of here? What do you mean?	VO_minario.minario_sys_0025
+034	The recommendation that came from the mayor just a bit ago was consistently directed at us—in other words, Adaleigh and his group.  
+035	Based on the phrasing of it, it seems likely that they haven't realized that you're here with us.	VO_kuienai.kuienai_sys_0004
+036	Now I get it.
+037	Be that as it may...having come this far, shouldn't we be sticking together?	VO_minario.minario_sys_0014
+038	That's exactly why I want to ask this of you.
+039	I want you to somehow escape from here and get in contact with the mayor to inform him.	VO_nimuru.nimuru_sys_0002
+040	Inform my father...?	VO_minario.minario_sys_0006
+041	Let him know that we have no hostile intentions, and that our objective is simply to rescue the people of this region from the threat of the Cursed Beast.
+042	In which case, even if you're able to reach the mayor without a hitch, our vindication isn't necessarily...	VO_nimuru.nimuru_battle_0022
+043	He won't get it. And Minario might get arrested on the spot. At best, it would just buy us a little time.	VO_kuienai.kuienai_sys_0005
+044	Buy us time...? What do you mean.
+045	They're preparing a technique for controlling the Cursed Beast, or perhaps—	VO_kuienai.kuienai_sys_0031
+046	So that's it... Now that you mention it, that woman was saying so.	VO_waginao-c.waginao-c_sys_0045
+047	That she wanted to study Emmel—no, the Vessel of Purification...
+048	...!
+049	This was my mistake...
+050	I had thought that a Cursed Beast couldn't be anything other than a threat to the people of a region, a calamity to be feared and, if possible, exterminated.  
+051	I never considered for a single instant that there might be people like Icona who would think to use a Cursed Beast for their benefit.
+052	...The very idea of harnessing the power of nature has been the norm throughout human history. 	VO_kuienai.kuienai_sys_0004
+053	From river management and land reclamation to agriculture and metallurgy, we have repurposed the blessings of nature as we desired and improved our lives.
+054	And so we should do the same with Cursed Beasts?	VO_waginao-c.waginao-c_sys_0027
+055	At the very least, that must be how Icona sees it. She intimated as much.	VO_kuienai.kuienai_sys_0005
+056	It's a prideful thought, to me anyway. Well actually I'm not sure we have any right to say so, given that we're trying to take down the Cursed Beast.	VO_nix.nix_sys_0004
+057	If they fail to control it, then everything will lapse into sin.
+058	Just how confident could they be, living together with a bomb like that? 
+059	...We have to stop them.	VO_adlai.adlai_sys_0018
+060	Adaleigh?	VO_nix.nix_sys_0006
+061	No matter how skilled Icona is, there's no way anyone could control a Cursed Beast without paying a price for it. 
+062	...Icona is not the type of engineer to hesitate making a sacrifice she deems necessary.	VO_adlai.adlai_sys_0016
+063	She's even discarded her own body without batting an eyelid when she thought it was necessary. And I respected her nonetheless...
+064	But if that sacrifice—if it threatens the lives of the people of this region, then I... I cannot abandon them. 
+065	That's why we need to stop Icona. We have to before this region—our homeland—is beyond saving. 
+066	Besides, we have to help Emmel! We have to!	VO_adlai.adlai_sys_0002
+067	Ah, Adaleigh is right.	VO_nimuru.nimuru_sys_0004
+068	Um, while we're at it, Mira too...right?	VO_nix.nix_sys_0001
+069	If we continue to stand by doing nothing, then Emmel might be put in danger.
+070	Also, I'm concerned about the movements of Belphegor since being awakened by Icona.
+071	We can't sit around anymore. We have to escape from here somehow.
+072	But practically speaking, what will we do? We've been divided up and our weapons were confiscated.	VO_waginao-c.waginao-c_sys_0004
+073	On top of that, Nyx's magic and our Spiritbonding is being blocked, and moreover—
+074	...That's right, let's try it out—	VO_nimuru.nimuru_sys_0031
+075	"Gate within me, please answer this call—"
+076	huh...?!
+077	Gahh?! Could you hang on a sec?!	VO_adlai.adlai_sys_0026
+078	ahhh—
+079	(Did I just fail to control a new technique...? I don't want to think so, but this feeling is exactly like...)
+080	WARNING. WARNING. AN IMPACT EXCEEDING THE CONTROL VALUE HAS BEEN DETECTED WITHIN THE FACILITY. POSSIBLY AN ACT OF TERRORISM. I REPEAT—
+081	This is bad, it sounds like the guards are onto us...!	VO_kuienai.kuienai_sys_0025
+082	Nimul! How much longer are you going to pull stuff like this?!	VO_waginao-c.waginao-c_chara_1006
+083	ahhhh I'm sorry!	VO_nimuru.nimuru_sys_0035
+084	At this point it can't be helped—let's go retrieve our equipment and rescue Emmel and the others!
+085	RETURN TO YOUR CELLS. LEAVING THE PREMISES IS PROHIBITED. RETURN TO YOUR CELLS. LEAVING THE PREMISES IS PROHIBITED. RETUR—
+086	Tch... And we're unable to use weapons or Spiritbonding—what is this!	VO_waginao-c.waginao-c_battle_0019
+087	I'm sorry! I'll provide as much cover as possible from my side! Try to make it through!	VO_nimuru.nimuru_sys_0035
+088	Nyx, are you still unable to communicate with Mira?	VO_nimuru.nimuru_sys_0001
+089	Let me try... Nope, nothing. I can't get through, but I've found signs of Mira's magil. They're to the north-west...in the building on the other side!  	VO_nix.nix_sys_0040
+090	If the facility is designed like this then... This way! I think it's this way! C'mon everyone!

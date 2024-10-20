@@ -1,0 +1,235 @@
+﻿001	I lost my family twice.
+002	Both times, the Holy Guard stole them from me.
+003	...
+004	(The first time, I lost my family and my home.)	VO_spica.spica_sys_0022
+005	(And the second time...)
+006	Did you save me?	VO_spica.spica_sys_0003
+007	I did. You've been through much, but you can rest easy now. Letitia.	VO_zaharu.zaharu_sys_0004
+008	My name's Spica. Um, what's yours?	VO_spica.spica_sys_1011
+009	Zahar.
+010	(I couldn't save him. I lost the dark sun who lit my path—Lord Zahar.)	VO_spica.spica_battle_0019
+011	(And yet...)
+012	Of course, part of me did resent you deeply for killing Lord Zahar.	VO_spica.spica_sys_0038
+013	But more significantly, I felt gratitude towards you two.
+014	Huh? Gratitude?
+015	I always continued adoring Lord Zahar, and I didn't want to see his further deterioration.	VO_spica.spica_sys_0022
+016	You two fulfilled that earnest wish of mine.
+017	...
+018	I feel like you have it in you to stop the spiral of suffering.
+019	Kanon! I'm sure you have it in you to stop the spiral of suffering!
+020	Please use your powers to build a world where people don't get lost in sorrow like I did!	VO_spica.spica_sys_0041
+021	Whoaaaaaaa!!!	VO_spica.spica_battle_0007
+022	Spica!
+023	(The Holy Guard robbed me of many things I held dear.)	VO_spica.spica_sys_0022
+024	(Yet in the end...)
+025	(They were the ones who saved me.)
+026	Excalibur is meant for saving people.
+027	It's not meant for meaninglessly hurting people.
+028	Kanon!
+029	Spica, please! Head to Northern Pride!	VO_chloe.chloe_sys_0002
+030	Greed Dike's army is making its way there as we speak!
+031	Kanon is in danger! Please, Spica! Lend Kanon your strength!	VO_chloe.chloe_battle_0019
+032	...
+033	Lord Zahar...	VO_spica.spica_sys_0002
+034	I will go. I will join the Lord Commander of the Holy Guard.
+035	(Is this my way of rebelling against you—against the wills of the family I spent so long with?)
+036	No...	VO_spica.spica_sys_0039
+037	(Shusei.)
+038	(The Final Battle Armament of the Shadow Messiah. The vow we failed to uphold.)	VO_spica.spica_sys_0022
+039	(Lord Zahar—no. Letitia. Corvus. Ila. Even Silma, waiting for me in the forest...)
+040	(Having left all of you—and the Shadow Messiah—behind, I don't think I have the right to do this.)
+041	(Yet in spite of that—no, because of that, I will go.)	VO_spica.spica_sys_0039
+042	(I didn't understand what Lord Zahar was leaving me with at the time.)
+043	(What is this will that connects to the future? I have to find out what he meant.)
+044	(And I believe that this is something only I can do.)	VO_spica.spica_sys_0037
+045	(It might not be in exactly the way we intended, but now I...)
+046	I want to uphold our vow.
+047	It's time for a trip down memory lane.
+048	Aaaaargh!	VO_stknightm.stknightm_battle_0028_c
+049	You'll pay for this, Shadow Messiah!
+050	Tch! We don't have time for this right now!	VO_stknightm.stknightm_battle_0022
+051	Hmph. In a hurry, are we? Well, corrupt dogs of the Holy Order...	VO_zaharu.zaharu_sys_0010
+052	If you wish to run away with your tails between your legs, we won't stop you!	VO_zaharu.zaharu_battle_0005
+053	Urgh!	VO_stknightm.stknightm_battle_0026
+054	Huzzaaaaah!	VO_stknightm.stknightm_sys_0032
+055	I will not let you harm Lord Zahar!	VO_spica.spica_sys_0015
+056	Wh-what the—?!	VO_stknightm.stknightm_sys_0026
+057	Huzzah!	VO_spica.spica_battle_0002
+058	Aaaaaghh!	VO_stknightm.stknightm_battle_0026
+059	Hmph.
+060	Th-this... isn't... over! Huzzaaah!	VO_stknightm.stknightm_battle_0008
+061	Ngh!	VO_spica.spica_sys_0025
+062	Spica!
+063	(I won't be able to get out of the way in time!)	VO_spica.spica_battle_0019
+064	Huh?!
+065	Nrgh!	VO_stknightm.stknightm_sys_0042
+066	Come on, Spica. You should know better by now.	VO_niggle.niggle_sys_0002
+067	Sorry, Corvus...	VO_spica.spica_sys_0036
+068	Get up, Spica. The weak will be left behind.	VO_zaharu.zaharu_sys_0002
+069	Um...
+070	Are you okay, Spica?!
+071	Y-yes... I'm fine.	VO_spica.spica_sys_0037
+072	Hey! Get it together, you two! Huzzah!	VO_ila.ila_sys_0001
+073	Aaaargh!
+074	Nnnrghh!	VO_stknightm.stknightm_battle_0008
+075	Aaaaaahh!
+076	It's not over yet.	VO_laetitia.laetitia_sys_0001
+077	I know, I know! Come on, Spica!	VO_syrma.syrma_sys_0030
+078	R-right!	VO_spica.spica_sys_0004
+079	Hmph.
+080	Lord Zahar! You were right!	VO_knightm.knightm_sys_0001
+081	So you found them?	VO_zaharu.zaharu_sys_0031
+082	Yes. There were a large amount of Philosopher's Stones in the basement.	VO_laetitia.laetitia_sys_0005
+083	Hmm...	VO_zaharu.zaharu_sys_0044
+084	Guess this must be a research facility of some kind.	VO_niggle.niggle_sys_0031
+085	There are traces of blood... and the hair or fur of some kind of animal.	VO_zaharu.zaharu_sys_0004
+086	They were experimenting on animals, then.	VO_laetitia.laetitia_sys_0004
+087	Oh no...
+088	Disgusting!	VO_syrma.syrma_sys_0018
+089	How could they?! I wanna give 'em a piece of my mind!	VO_ila.ila_sys_0016
+090	Hey! Pack up these Philosopher's Stones. We're taking them back with us.	VO_niggle.niggle_sys_0002
+091	Yes, sir!
+092	Huh? What's this?
+093	Hm?	VO_zaharu.zaharu_sys_0006
+094	It's some sort of black... stone. I suppose it's just a stray rock.	VO_knightm.knightm_sys_0031
+095	Show it to me.	VO_zaharu.zaharu_sys_0002
+096	Yes, my lord!	VO_knightm.knightm_battle_0002
+097	Hmm...
+098	Is it valuable? Looks like a regular rock to me.	VO_niggle.niggle_sys_0006
+099	What do you think, Letitia?
+100	Oh, my. I haven't seen one of these in ever so long.	VO_laetitia.laetitia_sys_0006
+101	What? A rock?	VO_niggle.niggle_sys_0025
+102	Hee hee.	VO_laetitia.laetitia_sys_0007
+103	Hah. I knew it.	VO_zaharu.zaharu_sys_0010
+104	Knew what?!	VO_niggle.niggle_sys_0006
+105	Huzzaaah!	VO_ila.ila_battle_0001
+106	Tch.
+107	Huh?!	VO_ila.ila_sys_0025
+108	You move too much.	VO_niggle.niggle_sys_0010
+109	No way!
+110	This is how it's done.	VO_niggle.niggle_battle_0001
+111	Wh—?!	VO_ila.ila_sys_0025
+112	Ow!	VO_ila.ila_battle_0019
+113	Dang it!	VO_ila.ila_sys_0017
+114	Hmph.	VO_niggle.niggle_sys_0016
+115	Why can't I beat you?!	VO_ila.ila_sys_0016
+116	Perhaps someday you will—I wonder how long that will take? Weeks? Months? Years?	VO_niggle.niggle_sys_0007
+117	Nrgh! Lemme try again!	VO_ila.ila_sys_0001
+118	If you must.	VO_niggle.niggle_sys_0016
+119	Hm?	VO_niggle.niggle_sys_0006
+120	...
+121	Hey! Spica!	VO_syrma.syrma_sys_0003
+122	Silma...	VO_spica.spica_sys_0022
+123	What's the matter? You okay?	VO_syrma.syrma_sys_0031
+124	Yeah. I'm fine.	VO_spica.spica_sys_0037
+125	You're not still thinking about what Lord Zahar said earlier, are you?
+126	I...
+127	Get up, Spica. The weak will be left behind.	VO_zaharu.zaharu_sys_0002
+128	A bit.
+129	Don't let it get you down! That's just his way of encouraging you!	VO_syrma.syrma_sys_0007
+130	B-but...	VO_spica.spica_sys_0031
+131	You've just gotta keep at it! Use the full force of your love for Lord Zahar to get stronger and stronger!	VO_syrma.syrma_sys_0003
+132	L-love? I-I don't... It's nothing like that.	VO_spica.spica_sys_0026
+133	I just want to be useful to him.
+134	I know, I know! Love is complicated.	VO_syrma.syrma_sys_0006
+135	I told you, I don't—!
+136	That's it! I've got it!
+137	I'm going to get strong so you don't have to!	VO_syrma.syrma_sys_0007
+138	H-huh? What do you mean, Silma?	VO_spica.spica_sys_0025
+139	Hah! Hrgh! Huzzah!	VO_ila.ila_battle_0001
+140	Hmph.	VO_niggle.niggle_sys_0010
+141	Argh!	VO_ila.ila_battle_0019
+142	Tch...	VO_niggle.niggle_sys_0016
+143	Hey! Hey, Corvus!	VO_syrma.syrma_battle_0001
+144	What's this? Are you going to challenge me now?	VO_niggle.niggle_sys_0006
+145	That's right! I'm here to avenge Ila!
+146	Hey! I'm not dead!	VO_ila.ila_sys_0001
+147	Huzzaaah!	VO_syrma.syrma_battle_0004
+148	Nope.
+149	Ouch!	VO_syrma.syrma _battle_0019
+150	Really, now...	VO_niggle.niggle_sys_0030
+151	Aw... He got me.	VO_syrma.syrma_sys_0018
+152	...
+153	(Spica's been quiet ever since we got back that day.)	VO_niggle.niggle_sys_0031
+154	Hey—	VO_niggle.niggle_sys_0003
+155	Um...	VO_spica.spica_chara_1002
+156	...
+157	(It's okay... The darkness inside me has nothing to fear. I'm not losing sight of my goal.)	VO_niggle.niggle_sys_0016
+158	(I know who I am. I'm Lord Zahar's advisor, nothing more.)
+159	Actually, never mind.
+160	O-okay.	VO_spica.spica_sys_0004
+161	(Whatever's going on with those two, it's not like I need to worry about it. I'm not their keeper.)
+162	Hm.	VO_niggle.niggle_sys_0016
+163	(Still...)	VO_niggle.niggle_sys_0031
+164	(The members of the Shadow Messiah need to be strong if we're going to achieve our ambitions.)
+165	(That would make this something I need to do for Lord Zahar, to help make our ambitions a reality.)
+166	Spica.	VO_niggle.niggle_sys_0001
+167	Y-yes?
+168	I was thinking—
+169	Sir!	VO_knightm.knightm_sys_0001
+170	What is it?	VO_niggle.niggle_sys_0006
+171	Lady Letitia has asked me to go hunting today. I'll be heading out shortly.
+172	It's that time already, huh? Time flies...	VO_niggle.niggle_sys_0031
+173	Yes, sir. I'll take my leave then.	VO_knightm.knightm_battle_0002
+174	Hmm...	VO_niggle.niggle_sys_0004
+175	(A hunt... I could use this.)
+176	Wait.	VO_niggle.niggle_sys_0002
+177	Yes, sir?
+178	I'll do the hunting today. You stay here.
+179	A-are you sure, sir?	VO_knightm.knightm_sys_0001
+180	Yes—but I won't be going alone.	VO_niggle.niggle_sys_0004
+181	Ila, Silma, Spica... You're coming with me.	VO_niggle.niggle_sys_0001
+182	H-huh?	VO_spica.spica_sys_0006
+183	We're going hunting.
+184	What?!
+185	Hunting?!	VO_ila.ila_sys_0006
+186	Um...
+187	...
+188	Eep...
+189	...
+190	Wow! Down in one hit!	VO_ila.ila_sys_0046
+191	Now it's your turn.	VO_niggle.niggle_sys_0002
+192	All right! Ready or not, here I come! Come out, come out, wherever you are!	VO_ila.ila_sys_0007
+193	...
+194	Um... Corvus?
+195	What is it? You'd better get a move on if you want to eat tonight.	VO_niggle.niggle_sys_0006
+196	Well, um... Spica and I used to live in the forest, so...	VO_syrma.syrma_sys_0031
+197	We can't help but see animals as our friends, and it just wouldn't feel right to hunt your friends, you know?	VO_syrma.syrma_sys_0030
+198	Then you don't mind going hungry?	VO_niggle.niggle_sys_0001
+199	Ngh...
+200	...
+201	Well?
+202	Nnngh! I'm sorry, forest critters! I'm sorry, Spica!	VO_syrma.syrma_sys_0035
+203	Huzzah!	VO_syrma.syrma_battle_0001
+204	Do you think I'm cruel, Spica?	VO_niggle.niggle_sys_0016
+205	No.	VO_spica.spica_sys_0039
+206	I understand. I eat meat, too. To survive.	VO_spica.spica_sys_0003
+207	Exactly. That's all it is. You have to eat to survive.	VO_niggle.niggle_sys_0004
+208	And you're going to need to survive if you want to help Lord Zahar.
+209	Yes... I know.	VO_spica.spica_sys_0004
+210	...
+211	Hello there, Mister Rabbit...
+212	...
+213	Ngh...	VO_spica.spica_battle_0019
+214	I'm sorry, Mister Rabbit!	VO_spica.spica_sys_0035
+215	Tch.
+216	I'm so sorry!
+217	Groooaaaahh!	VO_MwolfBig.MwolfBig_battle_0019
+218	Eek!
+219	Huh?!	VO_spica.spica_sys_0025
+220	What was that?	VO_niggle.niggle_sys_0006
+221	There's something in the forest!	VO_syrma.syrma_sys_0003
+222	Ooh! Something we can hunt?!
+223	S-something doesn't feel right.	VO_spica.spica_sys_0002
+224	Spica?
+225	Watch out! It's coming this way!	VO_spica.spica_battle_0019
+226	Wh—?!	VO_niggle.niggle_sys_0025
+227	Groaaaaaaaaaaaaaaah!	VO_MwolfBig.MwolfBig_battle_0028_a
+228	A mythical beast!	VO_niggle.niggle_sys_0026
+229	What?! No way! In this forest?!	VO_syrma.syrma_sys_0025
+230	Grrrrrrrrrrrrrr...	VO_MwolfBig.MwolfBig_battle_0019
+231	Look sharp! It's comin'!	VO_ila.ila_sys_0001
+232	Get ready!	VO_niggle.niggle_sys_0018
+233	Wait—we're going to attack it?!	VO_spica.spica_sys_0025
+234	Of course we are! We're fighting for survival here!	VO_niggle.niggle_sys_0004
+235	I-I...!	VO_spica.spica_battle_0019

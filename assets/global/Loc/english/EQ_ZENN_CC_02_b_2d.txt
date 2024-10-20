@@ -1,0 +1,145 @@
+﻿001	That should have been a fatal wound.
+002	What...?	VO_nazhu.nazhu_sys_0042
+003	Oh, good. You're finally awake. Well, you can go. You're all healed up, without even a scar to tell the tale of your battle.
+004	What happened to me?	VO_nazhu.nazhu_sys_0006
+005	Oh? Don't you remember?
+006	A ruthless demon samurai who sheds neither blood nor tears felled you, and brought you to me.
+007	Th—	VO_zen_zen-b.zen_battle_0019
+008	I can't bear to look at him. A cold-blooded killer who can run an ally through with his katana without the slightest hesitation... His is the true face of evil. Begone from my sight, devil!
+009	I-I was using the back of my blade.	VO_zen_zen-b.zen_sys_0029
+010	Oh? And I suppose that cut got there all by itself, did it?
+011	I-I managed to hold back with everyone else! But Na Zhu's blow was too heavy... I had to.	VO_zen_zen-b.zen_sys_0001
+012	Hmm...	VO_nazhu.nazhu_sys_0025
+013	I'm sorry? You "had to"?
+014	We—	VO_zen_zen-b.zen_sys_0042
+015	Here I thought you were a warrior of some skill, but it would seem you aren't worth much after all. You might have the look and study of a samurai, but you haven't a whit of the honor!
+016	Bu—
+017	Apologize at once!
+018	T-to who?	VO_zen_zen-b.zen_sys_0006
+019	To Na Zhu, of course! It's only common decency to apologize when you hurt someone. Haven't you any manners to speak of?
+020	I'v—	VO_zen_zen-b.zen_battle_0019
+021	Of course not! You only put effort into your work, don't you?
+022	...
+023	You're a disgrace!
+024	I... I am sorry.	VO_zen_zen-b.zen_sys_0036
+025	Good. Was that so difficult?
+026	...
+027	Na Zhu?	VO_zen_zen-b.zen_sys_0006
+028	Don't push yourself on his account. You lost a lot of blood.
+029	You...treat the soldiers?	VO_nazhu.nazhu_sys_0002
+030	As best I can, yes.
+031	You're incredible.	VO_nazhu.nazhu_sys_0007
+032	How sweet of you to say.
+033	When he struck me...I thought for sure I was a goner.	VO_nazhu.nazhu_sys_0011
+034	See?!
+035	I said I'm sorry...	VO_zen_zen-b.zen_sys_0004
+036	I owe you my life.
+037	Oh, don't be silly.
+038	How can I ever repay you?	VO_nazhu.nazhu_sys_0031
+039	That won't be necessary. This is my job, you know. You just keep doing yours, stay healthy, and stay safe. That's all the thanks I need.
+040	Thank you. I won't forget this.	VO_nazhu.nazhu_sys_0034
+041	You're very welcome.
+042	Hey. Boss.	VO_nazhu.nazhu_sys_0001
+043	Yes?
+044	I-I won't lose to you again.	VO_nazhu.nazhu_sys_0003
+045	...
+046	It's your turn now. Come on. Show me your wounds.
+047	Th-they're fine. Don't trouble yourself with me.	VO_zen_zen-b.zen_sys_0042
+048	I suppose humans do heal naturally. It takes time, but eventually you end up more or less the same as you were originally.
+049	However, that does not mean you shouldn't be healed. There is still the risk of infection, after all. Now, show me.
+050	Incredible... It's like the wounds were never there.	VO_zen_zen-b.zen_sys_0046
+051	This is why I was bought for such an exorbitant price. The healing powers of shrine maidens make us worth our weight in gold many times over.
+052	This is a kind of magic, isn't it? I've heard of it. You use your magic rites to...materialize things.	VO_zen_zen-b.zen_battle_0016
+053	I have been tasked with healing soldiers wounded on the field of battle.
+054	It may seem a simple art...but it is not.
+055	What do you—?	VO_zen_zen-b.zen_sys_0006
+056	Ack! Hrgh... Nrgh!
+057	M-Mitsu!	VO_zen_zen-b.zen_sys_0025
+058	Our magic rites utilize a form of spiritual projection. We can materialize health and bestow it unto others by carving their wounds into our own spirits.
+059	If overused... Well. It takes its toll, as you can see. It weakens us, both body and spirit.
+060	You've lost a lot of weight.	VO_zen_zen-b.zen_sys_0022
+061	Indeed... If war were to break out on a grand scale, I would not last a day.
+062	This is why I am a sacrifice. I am the frail wheat, destined to feed the mighty soldiers of war.
+063	...
+064	It is my duty.
+065	I...can't see you anymore.	VO_zen_zen-b.zen_sys_0010
+066	What?
+067	I won't be sustaining any more wounds for you to treat.	VO_zen_zen-b.zen_sys_0031
+068	...
+069	Hmhm... Tee hee!
+070	Wh-what?! Why are you laughing?	VO_zen_zen-b.zen_sys_0047
+071	Oh, no, it's nothing. Hee hee. That's very good of you. I'll only wither faster if I have to keep healing you up, after all.
+072	R-right. But...	VO_zen_zen-b.zen_sys_0029
+073	Yes?
+074	P-perhaps I could still come and see you...if it's just a little scrape?	VO_zen_zen-b.zen_battle_0019
+075	Pfft... Hahaha!
+076	Wh-what's so funny?!	VO_zen_zen-b.zen_sys_0017
+077	Nothing, nothing. Only that you're quite pathetic.
+078	Wh—?	VO_zen_zen-b.zen_sys_0006
+079	And a coward, to boot.
+080	Ho—
+081	You're meant to be the head of Imperial Security, are you not?
+082	Can't you come and see me without a pretext?
+083	I-I am not a coward.	VO_zen_zen-b.zen_sys_0025
+084	You once asked me if there was anything I desired.
+085	And? Have you thought of something?	VO_zen_zen-b.zen_sys_0005
+086	I would like a bouncy ball.
+087	You mean one of those colorful cotton ones that children play with in Wadatsumi? What do you want one of those for?	VO_zen_zen-b.zen_sys_0031
+088	Why don't you find out yourself?
+089	I-I... Um...	VO_zen_zen-b.zen_sys_0006
+090	Hmhm...
+091	Come visit me again, won't you? You have your pretext now.
+092	Welcome back, boss!	VO_nazhu.nazhu_sys_0008
+093	What the—?!	VO_zen_zen-b.zen_sys_0026
+094	I don't mean to be rude, but it seems you're really quite hopeless when it comes to anything outside work.	VO_nazhu.nazhu_sys_0001
+095	Ho—
+096	I don't know how many centuries that pile of washing was there for, but I was worried it was about to gain sentience, so took care of it for you. I've given the whole house a good spring-clean, too, from top to bottom.	VO_nazhu.nazhu_sys_0030
+097	Wh—
+098	Dinner's ready when you are! I've had a little taste, and it's delicious, if I do say so myself.	VO_nazhu.nazhu_sys_0007
+099	Wh-what's going on?
+100	Oh! Didn't I mention? From this day forth, I, Na Zhu, shall be your roommate!	VO_nazhu.nazhu_sys_0003
+101	R-roommate?!	VO_zen_zen-b.zen_sys_0025
+102	This is...really good.
+103	Don't worry, boss! I promise I'm not here to murder you in your sleep.	VO_nazhu.nazhu_sys_0004
+104	I...wasn't worried about that.	VO_zen_zen-b.zen_sys_0001
+105	When I challenge you, it will be from the front, D. Lily style!
+106	Hmm... Perhaps this detached lifestyle is the secret to your strength?	VO_nazhu.nazhu_sys_0031
+107	I-I doubt it.	VO_zen_zen-b.zen_sys_0006
+108	Ahh, then it must be that your selfless devotion to your duty leaves you with no time to focus on anything else!
+109	Th-that's not it.	VO_zen_zen-b.zen_sys_0022
+110	No? Then you threw it all away, for the cause!
+111	I can't cook like this.	VO_zen_zen-b.zen_sys_0010
+112	Perhaps, but you can make someone's life flash before their eyes. I would know.	VO_nazhu.nazhu_sys_0042
+113	We're alike.
+114	O-oh?	VO_nazhu.nazhu_sys_0006
+115	You remind me of...my younger self.	VO_zen_zen-b.zen_sys_0007
+116	I-I do?!	VO_nazhu.nazhu_sys_0025
+117	The purity of your devotion to this country... Your willingness to serve.
+118	Aha! Then you, too, are a patriot!
+119	You want to defeat me?	VO_zen_zen-b.zen_sys_0029
+120	Then hold on to that heart of yours, Na Zhu.
+121	Wh-what do you mean?
+122	I can tell by the way you handle your blade that you've been training diligently, for a long time. Your swordsmanship is...superb.	VO_zen_zen-b.zen_sys_0031
+123	L-look, I'm not good at this kind of thing, but...you're already strong, Na Zhu.	VO_zen_zen-b.zen_sys_0001
+124	So you should go. You don't want to be like me.	VO_zen_zen-b.zen_sys_0050
+125	Oh, but I do!
+126	Please, let me stay with you.	VO_nazhu.nazhu_sys_0041
+127	I want to hear you praise me like that again.	VO_nazhu.nazhu_sys_0008
+128	That whelp really is something, isn't he?	VO_orione.orione_sys_0001
+129	Indeed.	VO_zen_zen-b.zen_sys_0004
+130	He's been after your position from the very start. He made that clear to me during our first meeting. Of course, I quickly realized he didn't have what it takes.	VO_orione.orione_sys_0010
+131	Maybe not now...but in time, I'll have to watch my back.
+132	True... Sometimes I feel like I'm looking at a copy of your younger self. He's just as reckless as you were. I plan to hold on to him.	VO_orione.orione_sys_0005
+133	Anyone who makes me think I can count on them to do what needs to be done—whatever needs to be done—is valuable to me.
+134	And right now, I know I can count on you most of all.	VO_orione.orione_sys_0007
+135	I...	VO_zen_zen-b.zen_sys_0033
+136	You are a tool with infinite possibilities. Few hearts lie outside the range of your blade. You are as essential to me as a lion's claws are to its hunt.
+137	Yes... You will be indispensable to me as I expand my path of conquest.	VO_orione.orione_sys_0004
+138	I suppose that means I am quite...dependent on you.
+139	I am...flattered, my lord. Your words do me great honor.
+140	As such...there is something you must know.	VO_orione.orione_sys_0031
+141	What is it, my lord?	VO_zen_zen-b.zen_sys_0001
+142	We are going to war.
+143	What?	VO_zen_zen-b.zen_sys_0025
+144	We have a shrine maiden who can heal our soldiers up good as new, no matter how badly injured they are. Her abilities are too miraculous to waste.	VO_orione.orione_sys_0005
+145	So we are going to invade Wadatsumi.

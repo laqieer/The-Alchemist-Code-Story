@@ -1,0 +1,88 @@
+﻿001	A few days ago...near the border of Greed Dike.
+002	Halt! Who are you?!
+003	I am Kudanstein. I heard that Emperor Orion wanted to meet me, so I've come.
+004	Ku-Kudanstein...?! Ah...I-I've been informed of this!
+005	...Where is Orion?	VO_kudhanstein.kudhanstein_sys_0010
+006	He should be in his royal castle Dynam Dionysus.
+007	?!	VO_kudhanstein.kudhanstein_sys_0027
+008	...!
+009	You're fast...I see. Your skill with the lance is quite impressive.	VO_fengliu.fengliu_sys_0044
+010	Who are you?	VO_kudhanstein.kudhanstein_sys_0007
+011	It's a pleasure to meet you too. I am Fung Liu.	VO_fengliu.fengliu_chara_1024
+012	Fu-Fung Liu...?! He-hey! Look!
+013	Impossible! Did the experiment really succeed?!
+014	...What do you want?	VO_kudhanstein.kudhanstein_sys_0007
+015	The Emperor is waiting for you in the royal castle. I am here to convey this to you.	VO_fengliu.fengliu_sys_0002
+016	So you're my guide? Then quickly...	VO_kudhanstein.kudhanstein_sys_0031
+017	?!
+018	Ack! What're you playing at?!	VO_kudhanstein.kudhanstein_sys_0016
+019	What am I...playing at? I am here to kill you.	VO_fengliu.fengliu_sys_0030
+020	So...you're not my guide then?!	VO_kudhanstein.kudhanstein_sys_0025
+021	I have conveyed to you that the Emperor is waiting to meet you. From here...I will return to my original mission.	VO_fengliu.fengliu_sys_0004
+022	Your mission?	VO_kudhanstein.kudhanstein_sys_0027
+023	My original mission is to eliminate any foreign knight who enters within Greed Dike. That is all.
+024	As long as we're meeting like this, you fit the criteria as a target...for me to eliminate.	VO_fengliu.fengliu_battle_0001
+025	Ack! Seriously. What an annoying nuisance! ...Fine.	VO_kudhanstein.kudhanstein_battle_0016
+026	Anyone who stands in my way, I'll cut down. That's all there is to it.	VO_kudhanstein.kudhanstein_sys_0032
+027	...You're fast!	VO_fengliu.fengliu_sys_0027
+028	Aghh!!!	VO_fengliu.fengliu_battle_0025
+029	What rubbish. You'll pay dearly for this rude welcoming...Orion!	VO_kudhanstein.kudhanstein_sys_0016
+030	Meanwhile. In the Greed Dike's royal castle Dynam Dionysus.
+031	We've received word that Kudanstein has shown himself.
+032	Did he encounter Fung Liu?	VO_orione.orione_sys_0004
+033	It appears so.	VO_waginao.waginao_sys_0004
+034	I'm sure even Kudanstein will have a hassle dealing with him. After all, his assassin's technique was inspired by origami art.	VO_waginao.waginao_sys_0007
+035	Hmph. More importantly, you want to boast about the research you of the Corpse have been engaging in, correct?	VO_orione.orione_sys_0010
+036	Hehe. Quite so. Having turned Fung Liu into Prototype 0, he is practically a human weapon.	VO_waginao.waginao_sys_0007
+037	Kudanstein should not be able to easily beat him.
+038	Now, hurry up and take me to him. Or...do you want me to cut you lot down too?	VO_kudhanstein.kudhanstein_sys_0010
+039	You should save those words...for after you've defeated me.	VO_fengliu.fengliu_sys_0010
+040	?!	VO_kudhanstein.kudhanstein_sys_0026
+041	Ack?! What's going on? I know for a fact that I punctured his vitals!	VO_kudhanstein.kudhanstein_battle_0016
+042	He is the ultimate warrior...the product of repeated experiments.	VO_waginao.waginao_sys_0007
+043	There is no such concept of death to a man who, through the technique of we the Corpse, has glimpsed the Door of Truth.
+044	The ultimate warrior that cannot physically die, huh? I'm interested to see how Kudanstein responds to him.	VO_orione.orione_sys_0024
+045	Impossible! I'm certain that I pierced his heart! What are you?!	VO_kudhanstein.kudhanstein_sys_0029
+046	He disappeared!	VO_kudhanstein.kudhanstein_sys_0026
+047	No matter how strong you are, I will never be defeated.	VO_fengliu.fengliu_battle_0013
+048	After all, I cannot die. Goodbye.
+049	Aghh!!!	VO_kudhanstein.kudhanstein_battle_0019
+050	So you've managed to dodge my attack. Your defensive instinct is...fantastic.	VO_fengliu.fengliu_sys_0029
+051	Y-you can't die...? Are you a...phantom soldier?!	VO_kudhanstein.kudhanstein_sys_0028
+052	Am I a phantom soldier? Now that's an interesting idea.	VO_fengliu.fengliu_sys_0012
+053	Ack...! Huzzzaaaahhh!!!	VO_kudhanstein.kudhanstein_sys_0032
+054	...?!	VO_kudhanstein.kudhanstein_sys_0026
+055	I will tell you once again...you cannot kill me.	VO_fengliu.fengliu_sys_0030
+056	Aghh...!!!	VO_kudhanstein.kudhanstein_battle_0019
+057	Ug...ugh...! N-no...I'm sure that your body is made of flesh! Are you really...immortal?	VO_kudhanstein.kudhanstein_sys_0018
+058	Fung Liu, huh? Now that I think about it, he's a man that's been born time and time again under an unlucky star.	VO_orione.orione_sys_0031
+059	Very much so.	VO_waginao.waginao_sys_0004
+060	If only he hadn't been born in the witches' country of Lustburg...
+061	Most likely, he would never have ended up becoming an assassin.
+062	You speak almost as if we tailored him to be an assassin.	VO_orione.orione_sys_0024
+063	Having been born male and abandoned by his country as a child, my army took him in.
+064	Shouldn't we be praised for our actions?	VO_orione.orione_sys_0007
+065	However...fate would have it that he was picked up by Greed Dike's special assassin forces.
+066	Heheh. Of course, I don't intend to belittle the circumstances.	VO_waginao.waginao_sys_0007
+067	Thanks to that, he was able to develop the techniques of an assassin even before he could learn to think for himself.
+068	Tsk...!	VO_kudhanstein.kudhanstein_sys_0016
+069	No. I'm not there anymore.	VO_fengliu.fengliu_sys_0039
+070	Huh?! ...Ackkk!!!	VO_kudhanstein.kudhanstein_sys_0026
+071	No matter how much you resist...you cannot defeat me. Please...give up.	VO_fengliu.fengliu_battle_0013
+072	Agh...! Why? I seem unable to read you!	VO_kudhanstein.kudhanstein_battle_0016
+073	But...I hear that you cannot develop new prototypes after Fung Liu. Why was he the only one who managed to survive?	VO_orione.orione_sys_0031
+074	Of course...I believe that his unique life of having been raised solely as an assassin plays a small part in this.
+075	It's not every day that you find an individual who has been trained to erase their emotions from their early childhood.
+076	...So you're saying there's another reason?	VO_orione.orione_sys_0006
+077	Yes. What's noteworthy about him is not his technique as an assassin...	VO_waginao.waginao_sys_0004
+078	The reason why Fung Liu was able to become Prototype 0 was because of his unusually strong attachment to life.
+079	His attachment to life...?	VO_orione.orione_sys_0025
+080	Huff...huff...! Argh...!	VO_kudhanstein.kudhanstein_sys_0018
+081	There's no point in continuing any longer. Let's finish this soon.	VO_fengliu.fengliu_sys_0030
+082	Ack! Huzzaaahhh!!!	VO_kudhanstein.kudhanstein_sys_0032
+083	You don't seem to know when to give up. What's the point of what you're doing?	VO_fengliu.fengliu_battle_0011
+084	Shut up! I can't afford to die here...huh...?	VO_kudhanstein.kudhanstein_sys_0012
+085	Your back is completely vulnerable.	VO_fengliu.fengliu_battle_0017
+086	Gahhh!!! Ug...gfff! Wha...what is your body made of...?	VO_kudhanstein.kudhanstein_battle_0019
+087	Who knows? It's time to say farewell.	VO_fengliu.fengliu_battle_0014
+088	You have no body temperature...or any pulse! Are you...dead?!	VO_kudhanstein.kudhanstein_sys_0028

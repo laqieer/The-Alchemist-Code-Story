@@ -1,0 +1,77 @@
+﻿001	I didn't think I would be so disappointed to face the end.
+002	This isn't like me at all.
+003	I should know that longing cannot change anything...
+004	For it is already broken.
+005	Now, I have no means of reporting my observations of the past and future.
+006	If I attach a castor... Yeah, that should work.	VO_albell.albell_sys_0002
+007	I rather overworked this one. Silly me.	VO_kaya.kaya_sys_0006
+008	I can tell. The bottom's all worn out.	VO_albell.albell_sys_0004
+009	The mount has a bearing built into it, so you should opt for a wheel radius on the bigger side that won't lean into it too much. That should give it what it needs to deal with uneven ground.
+010	You'll want some elasticity in the tire component, and if you're not too picky about the price, you could go with a heavy-duty type like this.
+011	Come to think of it, it'd probably be better to have a stopper, too. This machine is for some kind of research, isn't it? What sort of work do you do again?	VO_albell.albell_sys_0031
+012	I'm investigating ancient ruins.	VO_kaya.kaya_sys_0031
+013	I suppose that you could call me an observer of history.
+014	An...observer?	VO_albell.albell_sys_0025
+015	The drill sensor that I had you install last time was incredibly precise. I must say that I was impressed.	VO_kaya.kaya_sys_0008
+016	I just thought that something that can catch Alchemia directly would be better for geological surveys.	VO_albell.albell_sys_0004
+017	Well, you were most correct. I have every faith in the castor that you've given me this time, too.	VO_kaya.kaya_sys_0044
+018	Oof... It's really heavy.	VO_albell.albell_sys_0018
+019	Oh, sorry. Here, I'll help you turn it over.	VO_kaya.kaya_sys_0035
+020	There are even more parts than there were last time.	VO_albell.albell_sys_0045
+021	I've been to many places since then, and have had several skilled mechanics like yourself look over my gear.	VO_kaya.kaya_sys_0006
+022	Antie just keeps getting fatter.	VO_kaya.kaya_sys_0008
+023	Antie?
+024	That's its name. Archeological Surveyor Antie, version 5.3.1. I think it fits rather nicely.	VO_kaya.kaya_chara_2004
+025	Yeah, it's...kinda cute.	VO_albell.albell_sys_0004
+026	If you give something a name, you begin to feel attached to it, even if it happens to be a machine.	VO_kaya.kaya_sys_0008
+027	What about that large machine over there? Doesn't it have a name?	VO_kaya.kaya_sys_0001
+028	Not yet. It's a work in progress. My father and I are working on it together.	VO_albell.albell_sys_0025
+029	He hasn't been able to work on it much lately, though. It'll probably end up being finished after he... Well... That's why it doesn't have a name yet.	VO_albell.albell_sys_0030
+030	I'm sure you'll find a good name for it.	VO_kaya.kaya_sys_0008
+031	All I can do is pretend that I don't know anything.
+032	Isn't that right, Magnus?
+033	Slothstein - Ruins of an Ancient Babel Civilization
+034	This castor really is superb.	VO_kaya.kaya_sys_0044
+035	I'm glad I have a lantern with me.	VO_kaya.kaya_sys_0006
+036	I suppose I'll have to thank that blockhead the next time I see him.	VO_kaya.kaya_sys_0008
+037	...	VO_kaya.kaya_sys_0031
+038	It's necessary to light one's way in the darkness, after all.	VO_kaya.kaya_sys_0009
+039	It seems the time has come.	VO_waginao.waginao_sys_0007
+040	Hello, Kaya.
+041	Lord Waginau...?	VO_kaya.kaya_sys_0025
+042	What is the Bishop of the Holy Order of Babel doing in a place like this?
+043	Surely you weren't caught unawares! Not the Crimson Dragon herself!	VO_waginao.waginao_sys_0010
+044	Since leaving the Holy Guard, I have felt a presence dogging my every move, watching me from the shadows.	VO_kaya.kaya_sys_0021
+045	Were you so conceited as to believe that no one would dare go after you, the possessor of the Alchemia Pura?
+046	I knew that if anyone did intend to come after me, they would likely come prepared.
+047	A definitive answer.	VO_waginao.waginao_sys_0007
+048	An obvious one.	VO_kaya.kaya_battle_0017
+049	...
+050	You are approaching the Gates of Sin.	VO_waginao.waginao_sys_0003
+051	Sorry, I don't speak cryptic.	VO_kaya.kaya_sys_0001
+052	All will become clear to you in time.	VO_waginao.waginao_sys_0007
+053	Well, it would have done. Meanwhile...
+054	Both Magnus and I are to be...erased, I presume?	VO_kaya.kaya_sys_0005
+055	It's inevitable.	VO_waginao.waginao_sys_0038
+056	And now, I've learned something new.	VO_kaya.kaya_sys_0006
+057	What would that be?	VO_waginao.waginao_sys_0006
+058	There is a truth that you are desperate to keep hidden at all costs.	VO_kaya.kaya_sys_0010
+059	A little arrogant, aren't we?	VO_waginao.waginao_sys_0044
+060	I'm not going anywhere.	VO_kaya.kaya_battle_0010
+061	You said it yourself, did you not? If anyone did intend to come after you, they would likely come prepared.	VO_waginao.waginao_sys_0007
+062	Oh?
+063	You may be confident of preserving your own life, but what of Zain's?	VO_waginao.waginao_sys_0008
+064	What...?
+065	You...!	VO_kaya.kaya_sys_0043
+066	The time has come.	VO_waginao.waginao_sys_0010
+067	Should you resist, you will be endangering not only Zain, but also the lives of all of the knights in the Holy Guard.
+068	I am afraid that you have little choice but to cooperate.
+069	No... Nnnnrrgh! Haa...haa...	VO_kaya.kaya_battle_0022
+070	Are you saying that if I go quietly...you'll let them live?
+071	I'm not saying any such thing.	VO_waginao.waginao_sys_0039
+072	However, you would do best not to mislead yourself into thinking you can resist me.	VO_waginao.waginao_sys_0010
+073	I'm hardly...going to just play along!	VO_kaya.kaya_sys_0013
+074	Very well, then. One can only hope that you will reconsider.	VO_waginao.waginao_sys_0023
+075	Sometimes it is the most useful pawns who become the most troublesome.	VO_waginao.waginao_sys_0010
+076	...
+077	The sound of a lantern smashing upon the ground echoes throughout the ruins.

@@ -1,0 +1,112 @@
+﻿001	Yes! Finished! I win!	VO_daisy.daisy_battle_0029
+002	Wonderful! Good job, everyone! You have all displayed your powers magnificently!	VO_theona.theona_sys_0009
+003	Tch... What the hell are you on about, lady?!	VO_gormalas.gormalas_sys_0016
+004	Now I will explain the rules of the race!	VO_theona.theona_sys_0007
+005	Oi! Don't ignore me!	VO_gormalas.gormalas_sys_0012
+006	Everyone will break up into pairs.
+007	Teamwork is key! You must work together and head straight for the goal!
+008	Oh, but you're allowed to use whatever you had with you when you were summoned. For example, your motorcycle, Caris.	VO_theona.theona_chara_1006
+009	That means my mech gear is fair game too, right?	VO_daisy.daisy_sys_0044
+010	Of course! You may even customize it however you wish in preparation for the race!	VO_theona.theona_sys_0005
+011	What?! That's so unfair! I'm at one hell of a disadvantage!	VO_vivi.vivi_sys_0029
+012	It's perfectly fair! The summoned and their personal effects are as inseparable as their limbs!	VO_theona.theona_sys_0010
+013	I will deduct Teona Points from you if you continue to complain, Vivi!
+014	What, really? How am I supposed to compete against a motorcycle?!	VO_vivi.vivi_sys_0025
+015	Is that weapon in your hand just for show, Vivi?	VO_theona.theona_sys_0022
+016	N-no way! You don't mean...!	VO_vivi.vivi_sys_0022
+017	Fight fair and aim for the goal! These are the only rules!	VO_theona.theona_sys_0007
+018	So what you're saying is that it's fine to destroy anyone who gets in your way! All right!	VO_dorothea.dorothea_sys_0045
+019	I wonder why the rules are so lax?	VO_reyda.reyda_sys_0030
+020	In short, all you need to do is get to the goal first. Are we clear?	VO_theona.theona_sys_0010
+021	Plain and simple, just how I like it! I'm going to do my best and become number one!	VO_daisy.daisy_sys_0046
+022	Good answer! You've earned yourself one Teona Point! Now, all that's left is for you to break up into teams!	VO_theona.theona_sys_0007
+023	I have already decided those teams based on that little warm-up exercise just now...and my personal preferences!
+024	Oh, I'd already forgotten about that! It's going to be weird teaming up with someone who isn't Leema. I wonder who it will be?	VO_daisy.daisy_sys_0025
+025	First up, we've got Caris and Megistos! You coordinated really well with each other!	VO_theona.theona_sys_0031
+026	It's because we're both from Slothstein, isn't it?	VO_megistus.megistus_sys_0030
+027	Someone with honor would be preferable, but I'll deal, I suppose.	VO_charis.charis_sys_0031
+028	Next! Vivi and Ravina! The Magia Gunslinger Pair!	VO_theona.theona_sys_0007
+029	So we're gonna be partners, huh? The name's Vivi. Let's do this!	VO_vivi.vivi_chara_1012
+030	Oh... Y-yeah.	VO_lavina.lavina_sys_0006
+031	Next up are Dorothea and Reida, the love-struck sweetheart pair!	VO_theona.theona_sys_0045
+032	Lovestruck? Such a simple word does not even begin to adequately describe my feelings.	VO_reyda.reyda_sys_0017
+033	Same! Also, why couldn't I be teamed up with my special someone?	VO_dorothea.dorothea_sys_0010
+034	Oh, my! Such passion! Use the power of your combined love to propel you forward!	VO_theona.theona_sys_0008
+035	Moving on... Now this one is a sure thing! Two great men of the sea, Dilga and Gormalas!	VO_theona.theona_sys_0004
+036	Captain Gormalas! This must be fate! Let's fight fair and square together!	VO_dhiruga.dhiruga_sys_0024
+037	Don't screw with me! Why do I have to team up with you?! This is ridicul—	VO_gormalas.gormalas_sys_0017
+038	Let me see... Who's next?	VO_theona.theona_sys_0007
+039	Are you ignoring me again?! You've got some nerve!	VO_gormalas.gormalas_sys_0001
+040	Oh! Daisy, I'm pairing you with Reagan.	VO_theona.theona_sys_0007
+041	Really?! With Reagan?!	VO_daisy.daisy_sys_0025
+042	(I can't believe I get to team up with the amazing Reagan! I wonder if I can ask him about mechanical engineering and stuff?!)	VO_daisy.daisy_sys_1024
+043	...
+044	U-um... Mister...Reagan?
+045	Hm? Oh, excuse me. I was lost in thought. I was wondering why we're competing in pairs.	VO_regen.regen_chara_1002
+046	Phantom Soldiers don't fight alone. If you want to get stronger, you're going to need to improve your teamwork.	VO_theona.theona_sys_0045
+047	And when it comes to training that particular skill, friendship, hard work, challenges, and failure are all part and parcel!
+048	Improving your friendship and overcoming hardship is the true beauty of training!	VO_theona.theona_sys_0007
+049	This all seems very unscientific.	VO_regen.regen_sys_0005
+050	The race will be held tomorrow morning, so be sure to make use of the time you have in order to deepen your bonds with your partners!	VO_theona.theona_sys_0016
+051	There will be a prize for the winner, so do your best! Ahem. Allow me to ask one more time...
+052	Do you seek power?	VO_theona.theona_sys_0010
+053	I'll see you all tomorrow!	VO_theona.theona_sys_0007
+054	She's gone.
+055	Power. Of course I want power! Oh, the things I could do... Heheheh.	VO_reyda.reyda_sys_0008
+056	Looks like we'll get along fabulously! I also want power. Oh, the things I could do... Heheheh.	VO_dorothea.dorothea_sys_0007
+057	Those two are giving me the creeps.	VO_gormalas.gormalas_sys_0018
+058	Captain Gormalas! How about we deepen our bonds over a drink?	VO_dhiruga.dhiruga_sys_0008
+059	I thought you were a knight. Don't you feel nothin'? You're incredibly thick-skulled, aren't ya?	VO_gormalas.gormalas_sys_0026
+060	I have no idea what you mean. Let's go!	VO_dhiruga.dhiruga_sys_0006
+061	I don't really get what's going on, but it's been a while since I've had fun like this. It's kinda exciting!	VO_vivi.vivi_sys_0007
+062	We should go get some food to get ourselves pumped up for tomorrow! Got any cravings, Ravina?
+063	Cravings... Maybe brioche? The ones with fruit on them? Lofia said they're really good.	VO_lavina.lavina_sys_0031
+064	Brush... Biosh... What?	VO_vivi.vivi_sys_0025
+065	They're all so...adaptable.	VO_megistus.megistus_sys_0029
+066	Well, it can't be helped. We're all in this now. Besides, I can't stand to lose a race. If I'm in, I'm in it to win.	VO_charis.charis_sys_0022
+067	See you tomorrow, Daisy! I expect a nice, clean race!	VO_charis.charis_sys_0007
+068	Caris seems like a really tough person to beat. The other teams seem to get along well, too... Can I really win this?	VO_daisy.daisy_sys_0029
+069	No! I can't let myself get disheartened! I have to become number one, no matter what, but...
+070	...
+071	U-um... Mister Reagan?	VO_daisy.daisy_battle_0019
+072	Hm?	VO_regen.regen_sys_0005
+073	Um, I read your book on mechanical engineering and it was really interesting! It taught me a lot, and I—
+074	What operational principle are your actions based on right now?	VO_regen.regen_sys_0002
+075	O-operational...principle?	VO_daisy.daisy_sys_0025
+076	If your intention was simply to begin a conversation with me, then I'm afraid that you have taken far too many unnecessary actions. It was very unpleasant to watch, as a matter of fact.	VO_regen.regen_sys_0031
+077	Though you seemed to intentionally increase in intensity for the purpose of beginning a conversation. Quite interesting.
+078	U-um... Well...
+079	(I don't understand what he's saying! We'll never get to know each other at this rate!)
+080	What is it?
+081	Wh-what should I do? At this rate, I'll never be number one.	VO_daisy.daisy_sys_0018
+082	I thought doing this training would be what I needed to get Leema to accept me again.
+083	Leema... She's your Mech War Games partner or something, right?	VO_regen.regen_sys_0004
+084	That's right! Leema is an excellent mechanic! Do you know her?	VO_daisy.daisy_sys_0007
+085	Only her name. Anyway, what exactly are these Mech War Games?	VO_regen.regen_sys_0022
+086	You know Leema but not the Mech War Games?! That doesn't make any sense! Aren't you from Slothstein?!	VO_daisy.daisy_sys_0025
+087	The Mech War Games weren't really established as a competition yet when I was alive, and I didn't really pay attention to that kind of thing anyway.	VO_regen.regen_chara_1002
+088	I heard your names for the first time after becoming a phantom. From what I hear, you two are an amazing team.
+089	Eheheh... We do make a pretty good... Wait, no. You're getting me off track! I'm going to explain the Mech War Games to you!	VO_daisy.daisy_sys_0047
+090	The Mech War Games are a tournament in which you attach weapons to mechas and fight with them. These are called mech gear.
+091	People bring their own custom mech gear in order to fight and compete!
+092	It's a strategy-based sport that tests your intellect and skill! That's how Leema explained it to me.
+093	You see, you can earn points by hitting certain areas of the enemy with both feet raised off the ground for over a minute... Uh... Well, you see...
+094	Ugh! Here, just let me show you!
+095	What do you think? My mech gear is pretty cool, right?	VO_daisy.daisy_sys_0007
+096	Hm... Wouldn't it be more efficient to simply mechanize your own body?	VO_regen.regen_sys_0045
+097	However, I admit that I can appreciate how dynamic and appealing the movements of the human body would be when wielding this mech gear. Yes... I think I can understand why the competition grew to be so popular.	VO_regen.regen_sys_0007
+098	Yay!	VO_daisy.daisy_sys_0034
+099	(Am I really bonding with Reagan right now?! I knew we'd get to know each other eventually! Thank you so much, Teona!)
+100	Hmm... If we consider your habits when in motion, then perhaps a slight adjustment here...	VO_regen.regen_sys_0031
+101	Wh-what the—?! Whoa! Cool! It's so light!	VO_daisy.daisy_sys_1024
+102	I figured out how it was put together, so I took the liberty of having myself a little tinker.	VO_regen.regen_sys_0004
+103	You figured it out already?! You're amazing, Mister Reagan!	VO_daisy.daisy_sys_0025
+104	Oh, but... If you don't mind, I'd really prefer not to alter this mech gear Leema made too much.
+105	All I did was tweak it to compliment your motions. It's very well made, so there was little more for me to do.	VO_regen.regen_chara_1002
+106	Heheh! Leema's mecha gear is the best in the world!	VO_daisy.daisy_sys_0007
+107	For now, though, you should at least practice with it, to get yourself used to how it handles after the adjustment. Besides, I'd like to see how a Mech War Games combatant fights.	VO_regen.regen_sys_0031
+108	Well, then, why don't we clear out that area over there, and then get ready for tomorrow?	VO_regen.regen_sys_0004
+109	I'd like to know what it is that you may be lacking. I'd hate for a fine piece of engineering to go to waste.
+110	Do you think I...might not be good enough?	VO_daisy.daisy_sys_0018
+111	Not necessarily. A mechanic skilled enough to make mech gear like this chose you as her partner, after all.	VO_regen.regen_sys_0039
+112	Yeah! Yeah, you're right! Okay, here I go!	VO_daisy.daisy_sys_0007

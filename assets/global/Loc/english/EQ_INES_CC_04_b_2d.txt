@@ -1,0 +1,52 @@
+﻿001	It seems that within the past few days, someone other than ourselves has entered the forest.	VO_craris.craris_sys_0006
+002	How do you know?
+003	The forest spirits are very sensitive. They can intuit malice, and can thus judge when those unassociated with the festival cross into their territory.	VO_craris.craris_sys_0005
+004	This is a cause for immediate concern. The forest is sacred to them, and we of Northern Pride have never been allowed to cross its boundaries.
+005	If any trespassers were to harm the high elves, the consequences would be dire. The amnesty that exists between our peoples would be in danger of collapse.	VO_craris.craris_sys_0030
+048	And the Divine Shelter the spirits are to bless us with during the festival may be withheld.
+006	To commence with the festivities and rituals under these circumstances would be in bad faith, I believe. We must take action, drastic or no.	VO_craris.craris_sys_0031
+007	Does the high elf village not have a barrier around it? Trespassing should be no easy task. I fail to see that there's any cause for real concern here.
+008	That aside, I must say your behavior of late has superseded your role as guide, and is causing some unease amongst the nobles.
+009	In short, we would prefer not to make matters worse than they already are. Postponement would simply be inviting chaos and disorder.
+010	I must insist. There is a strong possibility that Ines and her entourage could be in danger.	VO_craris.craris_battle_0019
+011	I've advised others on the committee to postpone the festival as well, but they seem more concerned about their own positions than the lives of those whose friendship we're set to honor.
+012	Something must be done. This matter cannot be ignored. And thus far, I seem to be the only person who's giving it the attention it deserves.	VO_craris.craris_sys_0004
+013	Which is why you've been snooping about and making enquiries late into the night, day after day? You realize that such skulking will only serve to paint you as the suspicious one, no?
+014	Perhaps. But I can't solve this problem if I don't know its source.	VO_craris.craris_sys_0005
+015	Seeing things first-hand with my own two eyes, and learning all that I can of them, is my deadliest weapon.
+016	So that's it, then. To think anyone would be foolish enough to enter our forest without permission! Such infraction cannot go unpunished.	VO_nazario.nazario_sys_0031
+017	I must give due credit to Claris, though, for her honorable and upstanding behavior...
+049	...yet again.	VO_nazario.nazario_sys_0022
+050	(What to do now?)
+051	?!
+018	Another late night. Ines must be asleep by now.	VO_craris.craris_sys_0030
+019	And Nasario advised me that it's improper to pay visit at such a late hour, so perhaps...I should just go. Hmm...
+020	Wait. Is that...Ines? Outside her lodgings?!	VO_craris.craris_sys_0025
+021	!!!
+022	Lady Ines, please return to your quarters! Going outside at this time is―
+023	Claris!	VO_ines.ines_battle_0019
+024	Ines? I told you to stay in your room. What's happened?
+025	Claris... What should I do? Nasario hasn't returned!	VO_ines.ines_sys_0018
+026	?!
+027	I told Nasario I was worried about you, so he left to check on matters and ensure everything is okay. But he hasn't come back since!
+028	He said he'd return quickly, too. It's all my fault. What should I do? What if something happened to him?!	VO_ines.ines_sys_0027
+029	Please, try to remain calm. You say he went to check on me?	VO_craris.craris_sys_0001
+030	If that's the case, he may have gone to the forest. I'll ask the forest spirits if they know his location. This will take but a moment.	VO_craris.craris_sys_0031
+031	......
+032	...!
+033	Did they tell you? Something happened, didn't it?! We have to help him!	VO_ines.ines_sys_0002
+034	No. You stay here with the guards, Ines. I'll go and help him myself.
+052	The Divine Shelter cannot stand if conflict breaks out between high elves and humans, but if a human such as myself were to engage our foes, there should be no disturbance.
+035	What?! You expect me to wait on the sidelines while Nasario is in danger?! I...don't think I can! I'm coming with you!	VO_ines.ines_sys_0020
+036	You will be exposed to grave danger, both for yourself and for our two peoples. I cannot in all good conscience allow you to come.
+037	Nasario went to find you in my stead because I was too afraid of what I might see if I went.	VO_ines.ines_sys_0016
+038	I am directly responsible for putting him in harm's way, so I must aid in his safe recovery.
+039	Ines...
+040	And Claris, you said it yourself, no? Fear is birthed by the unknown, and defeated through knowledge.	VO_ines.ines_sys_0005
+041	If I stay ignorant to the truths around me, I'll be scared for the rest of my life. So I have to go.
+042	Ines... What is that you're holding?	VO_craris.craris_sys_0002
+043	It's an old charm of mine—a pressed flower. No matter how scary a situation I face, simply holding this in my hands always grants me courage.	VO_ines.ines_sys_0022
+044	I see.
+045	I suppose it's now my turn to grant you courage, then.
+046	What?	VO_ines.ines_sys_0025
+047	Come. Let's go rescue Nasario. Together.	VO_craris.craris_sys_0037

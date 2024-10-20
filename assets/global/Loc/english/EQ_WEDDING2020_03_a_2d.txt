@@ -1,0 +1,88 @@
+﻿001	SQUEAK!	VO_Mrat.Mrat_battle_0028_b
+002	Dang! They got away!	VO_lucille.lucille_sys_0027
+003	Lady Lucia, you're incorrigible... Those Rattys seem frightened, didn't they?	VO_uzma.uzma_sys_0022
+004	They did… This area must be unfamiliar to them, after all.	VO_yuen.yuen_sys_0031
+005	I see why they came here, though. Their usual habitat is deep in the forest where it’s cool and dark.
+006	On average, they're docile creatures that rarely harm humans and are terrified of fire.
+007	Lord Ewan, you have such a wide breadth of knowledge!	VO_uzma.uzma_sys_0001
+008	Soldiers often conduct camping missions, so I picked up a few survival tricks.	VO_yuen.yuen_sys_0007
+009	For being such docile creatures, they certainly seemed agitated.	VO_meifan.meifan_sys_0002
+010	Yes… The townsfolk mentioned they appeared here out of nowhere.	VO_uzma.uzma_sys_0031
+011	Hm… Yet monsters have never taken up residence here before. Don't you think it's bizarre?	VO_meifan.meifan_sys_0016
+012	Well, given the ear-splitting work that goes on here, I doubt this place is ideal…
+013	They wouldn't come here unless there was a good reason…	VO_yuen.yuen_sys_0031
+014	Hmm… This weapon isn't very easy to handle.	VO_lucille.lucille_sys_0031
+015	Maybe if it was used more like a Ratty claw...
+016	Lucia, you can't throw yourself in front of monsters just to research them.	VO_yuen.yuen_sys_0014
+017	Hm? Why not?	VO_lucille.lucille_sys_0006
+018	What if you got injured?
+019	I can handle a few bumps and bruises in the name of research!	VO_lucille.lucille_sys_0007
+020	Wow. You don't seem phased at all.	VO_yuen.yuen_sys_0030
+021	You getting injured would not only justify the current closure, it would prompt a total shutdown.
+022	How are you going to make your weapon then?	VO_yuen.yuen_sys_0016
+023	I hadn't thought about that!
+024	In that case, you’d better take care not to get hurt.
+025	*Grumble* What do you care if I get hurt, anyway?	VO_lucille.lucille_sys_0016
+026	Lady Lucia, Lord Ewan is just concerned for you.	VO_uzma.uzma_sys_0001
+027	Really? How come? I'm saying it's fine, so there's no need to worry…	VO_lucille.lucille_sys_0025
+028	Easy for you to say… I can't just let you get hurt.	VO_yuen.yuen_sys_0031
+029	After all, a soldier's duty is to protect others.
+030	Oh brother… That line again? I'm sick of hearing you say that…	VO_lucille.lucille_sys_0030
+031	What about what you want to do? Not as a soldier--as you!	VO_lucille.lucille_sys_0001
+032	Huh?	VO_yuen.yuen_sys_0026
+033	You know, you're always smiling, but you're not happy at all, are you?	VO_lucille.lucille_sys_0016
+034	…
+035	Hm? What's that? Uzuma, that shiny thing over there--could that be Felicitite?
+036	I'm going to have a look!	VO_lucille.lucille_sys_0007
+037	Ah! Lady Lucia, please wait! Don't go off by yourself! It's dangerous!	VO_uzma.uzma_battle_1011
+038	…
+039	Honestly…she never changes.	VO_meifan.meifan_sys_0030
+040	…Is she always like that?
+041	Mm-hmm. She's made the most of becoming a Phantom by focusing on enemy weapon research.	VO_meifan.meifan_sys_0004
+042	I don't get it. How can she do that…	VO_yuen.yuen_sys_0016
+043	For her, creating weapons is more important than anything else.	VO_meifan.meifan_sys_0002
+044	…
+045	I see… She wasn't forced to make weapons until she became a Phantom.
+046	"Forced?"	VO_meifan.meifan_sys_0031
+047	The military took advantage of her innate power. That must be what changed her...	VO_yuen.yuen_sys_0018
+048	That's why she continues to fixate on weapons. Even though no one is forcing her to anymore.	VO_yuen.yuen_sys_0030
+049	…
+050	You think she changed? You of all people should know the hearts of men don't change so easily.
+051	Are you sure you're not referring to yourself?	VO_meifan.meifan_sys_0002
+052	…What do you mean?	VO_yuen.yuen_sys_0031
+053	You only see what's on the surface. You aren't trying to see who Lucia truly is.	VO_meifan.meifan_sys_0016
+054	No one has the right to decide the happiness of another. Don't impose your rigid version of truth.	VO_meifan.meifan_sys_0010
+055	!
+056	Are you going off alone?	VO_yuen.yuen_sys_0003
+057	A friend of mine always told me the key to reconnaissance is to travel lightly.	VO_meifan.meifan_sys_0004
+058	You must mean that spy from Wratharis...
+059	She’s a bit of a loose cannon, but her skills as a secret agent are second to none. Best to follow her advice.	VO_meifan.meifan_sys_0007
+060	I'll entrust Lucia to you. This may be a good chance for you to learn something.
+061	(The hearts of men don't change easily…Yes, I know that very well.)	VO_yuen.yuen_sys_0018
+062	(My men…they all died with the same desires burning in their hearts…)
+063	To fight alongside a leader who vows to protect the people--
+064	It's the greatest honor! I'd follow you to the ends of the earth, sir!
+065	I vowed to protect the weak from senseless violence. That's why I became a soldier.
+066	I would rather live and die by that vow than to ever waver.
+067	As long as I stay true to myself, I'll be happy.
+068	And I'll be happy to fight alongside likeminded comrades.
+069	You know, you're always smiling, but you're not happy at all, are you?	VO_lucille.lucille_sys_0016
+070	(How can they all smile?)
+071	There's nothing to smile about…	VO_yuen.yuen_sys_0016
+072	What did you find?
+073	Hmm…It sure is shiny, but this isn't Felicitite.	VO_lucille.lucille_sys_0031
+074	But I bet something great can be made out of this, so I'm taking it. What should I make, I wonder!	VO_lucille.lucille_sys_0023
+075	Lady Lucia, you really love making weapons, don't you?	VO_uzma.uzma_sys_0007
+076	Making weapons is everything to me. I'll do whatever it takes to make something great.	VO_lucille.lucille_sys_0004
+077	I can't say that near Ewan or he'll scold me again--even though I told him I'll be fine. He's such a killjoy.
+078	I'm certain Lord Ewan has good intentions.
+079	You think? I dunno. He really annoyed me earlier.	VO_lucille.lucille_sys_0016
+080	He said he wanted me to realize there are things more important than weapons.
+081	What could be more important than weapons?	VO_lucille.lucille_sys_0001
+082	Maybe if I find the answer, that will help me create a wedding knife that isn't a weapon.
+083	How's it going, you two? Did you find any Felicitite?	VO_yuen.yuen_sys_0001
+084	Nope. Nothing. We've got to go deeper.	VO_lucille.lucille_sys_0030
+085	*Shriek*	VO_knightm.knightm_sys_0028
+086	!
+087	Who could that be? I thought the mine was sealed off!	VO_uzma.uzma_sys_0025
+088	There’s no time! We've got to help them!	VO_yuen.yuen_sys_0018

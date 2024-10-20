@@ -1,0 +1,81 @@
+﻿001	Did you hear? I heard that the shops in the city were ransacked by bandits again today.	VO_mafia-a.mafia-a_sys_0002
+002	Those castoffs of Wratharis again. The city guards can't do anything about them...	VO_mafia-b.mafia-b_sys_0030
+003	...
+004	What's your plan, Tango? Are you still not ready to take over as boss?	VO_mafia-a.mafia-a_sys_0001
+005	Don't be dumb. The Don is the head of Heaven district. There's no way I can do this.	VO_tango.tango_sys_0040
+006	Sure, but where in the hell is the Don? I don't see him anywhere around here.	VO_mafia-b.mafia-b_sys_0001
+007	Aren't we working together to find him right now? I'm sure he'll show up soon.	VO_tango.tango_sys_0006
+008	You don't think he left the country, do you?	VO_mafia-a.mafia-a_sys_0031
+009	It's possible. He's a man of action that doesn't listen to what other people say. When he says he's out, he's really out.
+010	Darn it... It's unbelievable how he just left. It's like he doesn't even care about anyone else.	VO_mafia-a.mafia-a_sys_0030
+011	What did you say?	VO_tango.tango_sys_0012
+012	Now's not the time for arguing. Let's focus on the bandit problem.	VO_mafia-b.mafia-b_sys_0014
+013	Bandits hailing from Wratharis are always end up targeting our country... If the boss is still absent...
+014	Yeah, this country is just a loosely guarded treasure trove to them.
+015	I know that. But to think the Don would thoughtlessly put everyone in jeopardy like that...	VO_tango.tango_sys_0010
+016	We've got bigger things to worry about! We're getting more reports of attacks every day!	VO_mafia-a.mafia-a_sys_0002
+017	On top of that, it looks like some members of our family have started to side with the bandits from Wratharis.	VO_mafia-b.mafia-b_sys_0022
+018	...
+019	The only reason they've been so quiet is because of the Don's reputation. We gotta get a new boss.	VO_mafia-a.mafia-a_sys_0029
+020	It's only a matter of time before they swallow Redington up whole.
+021	I said I know that! You know I'm not gonna let some villains threaten the citizens! I just need a little more...	VO_tango.tango_battle_0019
+022	...!
+023	...Villains...
+024	Huh?	VO_mafia-a.mafia-a_sys_0016
+025	I see. Hahaha... I get it now, Don.	VO_tango.tango_sys_0006
+026	Tango?
+027	Hey, tell everyone to sit tight and leave the bandits be for the time being.	VO_tango.tango_sys_0002
+028	What?!
+029	Hey, what about the mayoral election?	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+030	What about it?	VO_mob-saga_omale.mob-saga_omale_sys_0025
+031	With Don Taras gone and Heaven district quieting down, I think things are looking peaceful.
+032	Are you asking me if I would vote for Mayor Edward? He's the guy who got in bed with Don Taras. He's probably cozying up to other mafia right now.	VO_mob-saga_omale.mob-saga_omale_sys_0031
+033	True. Well, with all the bandit attacks, it's doubtful that an election will even be held.	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+034	Cozying up, huh...
+035	And to think, I didn't even get paid for all this "cozying up" people seem to think I was doing.	VO_taras.taras_sys_0030
+036	D-Don Taras?!	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+037	Stop, pinhead. If you don't wanna die, give me what you're wearing.	VO_thiefm.thiefm_sys_0001
+038	B-bandits!
+039	Run! They're coming for us!	VO_mob-saga_omale.mob-saga_omale_sys_0028
+040	Why are you messing around? Just kill him.
+041	Eeek!
+042	Hey, you blockhead over there! You too...	VO_thiefm.thiefm_sys_0002
+043	W-wait... He's... Isn't that Don Taras?!	VO_thiefm.thiefm_sys_0025
+044	What?
+045	I see the petty trash Wratharis tossed out is making quite the scene.	VO_taras.taras_sys_0001
+046	H-hey... This is bad!	VO_thiefm.thiefm_sys_0002
+047	B-but they said he was kicked out of his Family...
+048	H-help!!!	VO_mob-saga_ymale.mob-saga_ymale_sys_0027
+049	These guys are a cakewalk for you, right? Let 'em have it!	VO_mob-saga_omale.mob-saga_omale_sys_0002
+050	No can do, I'm afraid.	VO_taras.taras_sys_0004
+051	W-why?	VO_mob-saga_ymale.mob-saga_ymale_sys_0025
+052	I'm not a mafioso anymore. I have no interest in getting involved in other people's turf wars.
+053	What?!
+054	They say that me being here corrupts the city, and I don't want that.
+055	Heh. Sorry. Now I'm just some boring passerby checking out the sights of the city.	VO_taras.taras_sys_0010
+056	!!!
+057	Heh, heh. You mean you're not involved with this city anymore?	VO_thiefm.thiefm_sys_0010
+058	It's not that I'm not involved, exactly. I'm here, aren't I? It's just that I'm not gonna fight you.	VO_taras.taras_sys_0006
+059	Heh...heheh! You hear that?	VO_thiefm.thiefm_sys_0011
+060	Without Don Taras, there's nothing to fear! Hey! Contact main command!	VO_thiefm.thiefm_sys_0002
+061	Take everything, roots and all! If they resist, kill them!
+062	Eeeek!!!
+063	Don't get me wrong. I said I won't be raising a hand.	VO_taras.taras_sys_0002
+064	Huh?
+065	Agh...!	VO_thiefm.thiefm_sys_0042
+066	Wh-wha...?
+067	Don, aren't you having a little too much fun?	VO_tango.tango_sys_0001
+068	Who, me? You don't have anything better to do than talk to me? I'm not your boss anymore.	VO_taras.taras_sys_0007
+069	You're the one with a lot to say...
+070	Hey, mafiosos! Crush every last one of these sneaky scumbags!	VO_tango.tango_sys_0002
+071	Yeah!
+072	Wh-wha—?! This isn't the last you'll be seeing of us!	VO_thiefm.thiefm_battle_0019
+073	That was a little much.	VO_taras.taras_sys_0016
+074	Haven't you said enough? I'm not listening to you anymore.	VO_tango.tango_sys_0029
+075	Hehe. Then why are you here?	VO_taras.taras_sys_0007
+076	To wake up.
+077	Wake up? You look pretty awake to me...	VO_taras.taras_sys_0012
+078	Please stop deliberately misunderstanding me...	VO_tango.tango_sys_0037
+079	Just like these citizens, I'm trying to wake up from this fake dream of taking peace for granted.
+080	Hehe. You got true grit.	VO_taras.taras_sys_0010
+081	Well, I learned it from one of the greatest villains of our time.	VO_tango.tango_sys_0006

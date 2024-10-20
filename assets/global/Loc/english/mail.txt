@@ -1,0 +1,534 @@
+﻿MAIL_LOGIN_REWARD	Login Bonus
+MAIL_DAY_1_PRESENT	Login Bonus Day 1
+MAIL_DAY_2_PRESENT	Login Bonus Day 2
+MAIL_DAY_3_PRESENT	Login Bonus Day 3
+MAIL_DAY_4_PRESENT	Login Bonus Day 4
+MAIL_DAY_5_PRESENT	Login Bonus Day 5
+MAIL_DAY_6_PRESENT	Login Bonus Day 6
+MAIL_DAY_7_PRESENT	Login Bonus Day 7
+MAIL_SHOP_PURCHASED	Item purchased from a shop
+MAIL_FIRST_MEETING_BONUS_1	[Multiplay] First Meeting Bonus [1]
+MAIL_FIRST_MEETING_BONUS_2	[Multiplay] First Meeting Bonus [2]
+MAIL_FIRST_MEETING_BONUS_3	[Multiplay] First Meeting Bonus [3]
+MAIL_FIRST_MEETING_BONUS_4	[Multiplay] First Meeting Bonus [4]
+MAIL_FIRST_MEETING_BONUS_5	[Multiplay] First Meeting Bonus [5]
+MAIL_FIRST_MEETING_BONUS_6	[Multiplay] First Meeting Bonus [6]
+MAIL_FIRST_MEETING_BONUS_7	[Multiplay] First Meeting Bonus [7]
+MAIL_FIRST_MEETING_BONUS_8	[Multiplay] First Meeting Bonus [8]
+MAIL_FIRST_MEETING_BONUS_9	[Multiplay] First Meeting Bonus [9]
+MAIL_FIRST_MEETING_BONUS_10	[Multiplay] First Meeting Bonus [10]
+MAIL_COMEBACK_DAY_1	Comeback Login Bonus Day 1
+MAIL_COMEBACK_DAY_2	Comeback Login Bonus Day 2
+MAIL_COMEBACK_DAY_3	Comeback Login Bonus Day 3
+MAIL_COMEBACK_DAY_4	Comeback Login Bonus Day 4
+MAIL_COMEBACK_DAY_5	Comeback Login Bonus Day 5
+MAIL_COMEBACK_DAY_6	Comeback Login Bonus Day 6
+MAIL_COMEBACK_DAY_7	Comeback Login Bonus Day 7
+MAIL_SHOP_ARTIFACT_PURCHASED	Purchased gear
+MAIL_PREANI_DAY_1	Pre-Anniversary Celebration Login Bonus Day 1
+MAIL_PREANI_DAY_2	Pre-Anniversary Celebration Login Bonus Day 2
+MAIL_PREANI_DAY_3	Pre-Anniversary Celebration Login Bonus Day 3
+MAIL_PREANI_DAY_4	Pre-Anniversary Celebration Login Bonus Day 4
+MAIL_PREANI_DAY_5	Pre-Anniversary Celebration Login Bonus Day 5
+MAIL_PREANI_DAY_6	Pre-Anniversary Celebration Login Bonus Day 6
+MAIL_PREANI_DAY_7	Pre-Anniversary Celebration Login Bonus Day 7
+MAIL_7MILLION_DAY_1	7 Million Downloads Worldwide Login Bonus Day 1
+MAIL_7MILLION_DAY_2	7 Million Downloads Worldwide Login Bonus Day 2
+MAIL_7MILLION_DAY_3	7 Million Downloads Worldwide Login Bonus Day 3
+MAIL_7MILLION_DAY_4	7 Million Downloads Worldwide Login Bonus Day 4
+MAIL_7MILLION_DAY_5	7 Million Downloads Worldwide Login Bonus Day 5
+MAIL_7MILLION_DAY_6	7 Million Downloads Worldwide Login Bonus Day 6
+MAIL_7MILLION_DAY_7	7 Million Downloads Worldwide Login Bonus Day 7
+MAIL_FMA_DAY_1	[FMA] Login Bonus Day 1
+MAIL_FMA_DAY_2	[FMA] Login Bonus Day 2
+MAIL_FMA_DAY_3	[FMA] Login Bonus Day 3
+MAIL_FMA_DAY_4	[FMA] Login Bonus Day 4
+MAIL_FMA_DAY_5	[FMA] Login Bonus Day 5
+MAIL_FMA_DAY_6	[FMA] Login Bonus Day 6
+MAIL_FMA_DAY_7	[FMA] Login Bonus Day 7
+MAIL_1STANNI_SUBSCRIPTION_DAY_1	[1st Anniversary] Subscription - Day 1
+MAIL_1STANNI_SUBSCRIPTION_DAY_2	[1st Anniversary] Subscription - Day 2
+MAIL_1STANNI_SUBSCRIPTION_DAY_3	[1st Anniversary] Subscription - Day 3
+MAIL_1STANNI_SUBSCRIPTION_DAY_4	[1st Anniversary] Subscription - Day 4
+MAIL_1STANNI_SUBSCRIPTION_DAY_5	[1st Anniversary] Subscription - Day 5
+MAIL_1STANNI_SUBSCRIPTION_DAY_6	[1st Anniversary] Subscription - Day 6
+MAIL_1STANNI_SUBSCRIPTION_DAY_7	[1st Anniversary] Subscription - Day 7
+MAIL_1STANNI_SUBSCRIPTION_DAY_8	[1st Anniversary] Subscription - Day 8
+MAIL_1STANNI_SUBSCRIPTION_DAY_9	[1st Anniversary] Subscription - Day 9
+MAIL_1STANNI_SUBSCRIPTION_DAY_10	[1st Anniversary] Subscription - Day 10
+MAIL_1STANNI_SUBSCRIPTION_DAY_11	[1st Anniversary] Subscription - Day 11
+MAIL_1STANNI_SUBSCRIPTION_DAY_12	[1st Anniversary] Subscription - Day 12
+MAIL_1STANNI_SUBSCRIPTION_DAY_13	[1st Anniversary] Subscription - Day 13
+MAIL_1STANNI_SUBSCRIPTION_DAY_14	[1st Anniversary] Subscription - Day 14
+MAIL_1STANNI_SUBSCRIPTION_DAY_15	[1st Anniversary] Subscription - Day 15
+MAIL_1STANNI_SUBSCRIPTION_DAY_16	[1st Anniversary] Subscription - Day 16
+MAIL_1STANNI_SUBSCRIPTION_DAY_17	[1st Anniversary] Subscription - Day 17
+MAIL_1STANNI_SUBSCRIPTION_DAY_18	[1st Anniversary] Subscription - Day 18
+MAIL_1STANNI_SUBSCRIPTION_DAY_19	[1st Anniversary] Subscription - Day 19
+MAIL_1STANNI_SUBSCRIPTION_DAY_20	[1st Anniversary] Subscription - Day 20
+MAIL_1STANNI_SUBSCRIPTION_DAY_21	[1st Anniversary] Subscription - Day 21
+MAIL_1STANNI_SUBSCRIPTION_DAY_22	[1st Anniversary] Subscription - Day 22
+MAIL_1STANNI_SUBSCRIPTION_DAY_23	[1st Anniversary] Subscription - Day 23
+MAIL_1STANNI_SUBSCRIPTION_DAY_24	[1st Anniversary] Subscription - Day 24
+MAIL_1STANNI_SUBSCRIPTION_DAY_25	[1st Anniversary] Subscription - Day 25
+MAIL_1STANNI_SUBSCRIPTION_DAY_26	[1st Anniversary] Subscription - Day 26
+MAIL_1STANNI_SUBSCRIPTION_DAY_27	[1st Anniversary] Subscription - Day 27
+MAIL_1STANNI_SUBSCRIPTION_DAY_28	[1st Anniversary] Subscription - Day 28
+MAIL_1STANNI_SUBSCRIPTION_DAY_29	[1st Anniversary] Subscription - Day 29
+MAIL_1STANNI_SUBSCRIPTION_DAY_30	[1st Anniversary] Subscription - Day 30
+MAIL_WINTER_DAY_1	Winter Raffle Login Bonus Day 1
+MAIL_WINTER_DAY_2	Winter Raffle Login Bonus Day 2
+MAIL_WINTER_DAY_3	Winter Raffle Login Bonus Day 3
+MAIL_WINTER_DAY_4	Winter Raffle Login Bonus Day 4
+MAIL_WINTER_DAY_5	Winter Raffle Login Bonus Day 5
+MAIL_WINTER_DAY_6	Winter Raffle Login Bonus Day 6
+MAIL_WINTER_DAY_7	Winter Raffle Login Bonus Day 7
+MAIL_8MILLION_DAY_1	8 Million Downloads Worldwide Login Bonus Day 1
+MAIL_8MILLION_DAY_2	8 Million Downloads Worldwide Login Bonus Day 2
+MAIL_8MILLION_DAY_3	8 Million Downloads Worldwide Login Bonus Day 3
+MAIL_8MILLION_DAY_4	8 Million Downloads Worldwide Login Bonus Day 4
+MAIL_8MILLION_DAY_5	8 Million Downloads Worldwide Login Bonus Day 5
+MAIL_8MILLION_DAY_6	8 Million Downloads Worldwide Login Bonus Day 6
+MAIL_8MILLION_DAY_7	8 Million Downloads Worldwide Login Bonus Day 7
+MAIL_PLAYERINIT_20190221	New Player Welcome Gifts
+MAIL_EO_DAY_1	[EO] Login Bonus Day 1
+MAIL_EO_DAY_2	[EO] Login Bonus Day 2
+MAIL_EO_DAY_3	[EO] Login Bonus Day 3
+MAIL_EO_DAY_4	[EO] Login Bonus Day 4
+MAIL_EO_DAY_5	[EO] Login Bonus Day 5
+MAIL_EO_DAY_6	[EO] Login Bonus Day 6
+MAIL_EO_DAY_7	[EO] Login Bonus Day 7
+OFFERWALL_REWARDS_GIFT	Offerwall Mission Reward
+MAIL_COLLAB_DAY_1	[Collab] Login Bonus Day 1
+MAIL_COLLAB_DAY_2	[Collab] Login Bonus Day 2
+MAIL_COLLAB_DAY_3	[Collab] Login Bonus Day 3
+MAIL_COLLAB_DAY_4	[Collab] Login Bonus Day 4
+MAIL_COLLAB_DAY_5	[Collab] Login Bonus Day 5
+MAIL_COLLAB_DAY_6	[Collab] Login Bonus Day 6
+MAIL_COLLAB_DAY_7	[Collab] Login Bonus Day 7
+MAIL_CELEBRATION_DAY_1	Celebration Login Bonus Day 1
+MAIL_CELEBRATION_DAY_2	Celebration Login Bonus Day 2
+MAIL_CELEBRATION_DAY_3	Celebration Login Bonus Day 3
+MAIL_CELEBRATION_DAY_4	Celebration Login Bonus Day 4
+MAIL_CELEBRATION_DAY_5	Celebration Login Bonus Day 5
+MAIL_CELEBRATION_DAY_6	Celebration Login Bonus Day 6
+MAIL_CELEBRATION_DAY_7	Celebration Login Bonus Day 7
+MAIL_PRO_DAY_1	[Producer's Letter Giveaway!] Login Bonus Day 1
+MAIL_PRO_DAY_2	[Producer's Letter Giveaway!] Login Bonus Day 2
+MAIL_PRO_DAY_3	[Producer's Letter Giveaway!] Login Bonus Day 3
+MAIL_PRO_DAY_4	[Producer's Letter Giveaway!] Login Bonus Day 4
+MAIL_PRO_DAY_5	[Producer's Letter Giveaway!] Login Bonus Day 5
+MAIL_PRO_DAY_6	[Producer's Letter Giveaway!] Login Bonus Day 6
+MAIL_PRO_DAY_7	[Producer's Letter Giveaway!] Login Bonus Day 7
+MAIL_10MILLION_DAY_1	10M Login Bonus Day 1
+MAIL_10MILLION_DAY_2	10M Login Bonus Day 2
+MAIL_10MILLION_DAY_3	10M Login Bonus Day 3
+MAIL_10MILLION_DAY_4	10M Login Bonus Day 4
+MAIL_10MILLION_DAY_5	10M Login Bonus Day 5
+MAIL_10MILLION_DAY_6	10M Login Bonus Day 6
+MAIL_10MILLION_DAY_7	10M Login Bonus Day 7
+MAIL_2NDANNIE_DAY_1	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_2	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_3	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_4	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_5	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_6	2nd Anniversary Login Bonus
+MAIL_2NDANNIE_DAY_7	2nd Anniversary Login Bonus
+MAIL_BOX_GENESIS_1	An item obtained from the summon event Chapter 1: Creating This World (Part One)
+MAIL_2NDANNI_LETTER_DAY_1	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_2	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_3	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_4	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_5	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_6	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_7	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_2NDANNI_LETTER_DAY_8	2nd Anniversary Login Bonus for Letter of the Phantom
+MAIL_BOX_MOVIE_1	An item obtained from the summon event Dark Phantom Event
+MAIL_BOX_GENESIS_2	An item obtained from the summon event Chapter 1: Creating This World (Part Two)
+MAIL_BOX_ADVANCE_3TITLE_1	An item obtained from the summon event For Whose Princess Could Endure This Nightmare? -The Snowscape of Love-
+MAIL_BOX_ADVANCE_BUTAI_1	An item obtained from the summon event Blade of Oaths, Piercing Demonic Spear
+MAIL_BOX_ADVANCE_SETSUNA_NOVEL_1	An item obtained from the summon event A Lone Swordswoman and Her Siblings
+MAIL_BOX_GENESIS_2_1	An item obtained from the summon event Chapter 2: Love: Instinct or Feeling? (Part One)
+MAIL_BOX_ADVANCE_ALSO_SPRACH_02_1	An item obtained from the summon event Septicolored Amber Sans Serif
+MAIL_BOX_GENESIS_2_2	An item obtained from the summon event Chapter 2: Love: Instinct or Feeling? (Part Two)
+MAIL_BOX_ADVANCE_TS_02_1	An item obtained from the summon event At Dawn, We Trust
+MAIL_BOX_GENESIS_3_1	An item obtained from the summon event Chapter 3 "If That Would Be Called Sloth" (Part One)
+MAIL_PREMIUM_DAY_1	Premium Login Bonus Day 1
+MAIL_PREMIUM_DAY_2	Premium Login Bonus Day 2
+MAIL_PREMIUM_DAY_3	Premium Login Bonus Day 3
+MAIL_PREMIUM_DAY_4	Premium Login Bonus Day 4
+MAIL_PREMIUM_DAY_5	Premium Login Bonus Day 5
+MAIL_PREMIUM_DAY_6	Premium Login Bonus Day 6
+MAIL_PREMIUM_DAY_7	Premium Login Bonus Day 7
+MAIL_PREMIUM_DAY_8	Premium Login Bonus Day 8
+MAIL_PREMIUM_DAY_9	Premium Login Bonus Day 9
+MAIL_PREMIUM_DAY_10	Premium Login Bonus Day 10
+MAIL_PREMIUM_DAY_11	Premium Login Bonus Day 11
+MAIL_PREMIUM_DAY_12	Premium Login Bonus Day 12
+MAIL_PREMIUM_DAY_13	Premium Login Bonus Day 13
+MAIL_PREMIUM_DAY_14	Premium Login Bonus Day 14
+MAIL_PREMIUM_DAY_15	Premium Login Bonus Day 15
+MAIL_PREMIUM_DAY_16	Premium Login Bonus Day 16
+MAIL_PREMIUM_DAY_17	Premium Login Bonus Day 17
+MAIL_PREMIUM_DAY_18	Premium Login Bonus Day 18
+MAIL_PREMIUM_DAY_19	Premium Login Bonus Day 19
+MAIL_PREMIUM_DAY_20	Premium Login Bonus Day 20
+MAIL_PREMIUM_DAY_21	Premium Login Bonus Day 21
+MAIL_PREMIUM_DAY_22	Premium Login Bonus Day 22
+MAIL_PREMIUM_DAY_23	Premium Login Bonus Day 23
+MAIL_PREMIUM_DAY_24	Premium Login Bonus Day 24
+MAIL_PREMIUM_DAY_25	Premium Login Bonus Day 25
+MAIL_PREMIUM_DAY_26	Premium Login Bonus Day 26
+MAIL_PREMIUM_DAY_27	Premium Login Bonus Day 27
+MAIL_PREMIUM_DAY_28	Premium Login Bonus Day 28
+MAIL_PREMIUM_DAY_29	Premium Login Bonus Day 29
+MAIL_PREMIUM_DAY_30	Premium Login Bonus Day 30
+MAIL_FIRST_MEETING_BONUS_11	[Multiplay] First Meeting Bonus [11]
+MAIL_FIRST_MEETING_BONUS_12	[Multiplay] First Meeting Bonus [12]
+MAIL_FIRST_MEETING_BONUS_13	[Multiplay] First Meeting Bonus [13]
+MAIL_FIRST_MEETING_BONUS_14	[Multiplay] First Meeting Bonus [14]
+MAIL_FIRST_MEETING_BONUS_15	[Multiplay] First Meeting Bonus [15]
+MAIL_FIRST_MEETING_BONUS_16	[Multiplay] First Meeting Bonus [16]
+MAIL_FIRST_MEETING_BONUS_17	[Multiplay] First Meeting Bonus [17]
+MAIL_FIRST_MEETING_BONUS_18	[Multiplay] First Meeting Bonus [18]
+MAIL_FIRST_MEETING_BONUS_19	[Multiplay] First Meeting Bonus [19]
+MAIL_FIRST_MEETING_BONUS_20	[Multiplay] First Meeting Bonus [20]
+MAIL_FIRST_MEETING_BONUS_21	[Multiplay] First Meeting Bonus [21]
+MAIL_FIRST_MEETING_BONUS_22	[Multiplay] First Meeting Bonus [22]
+MAIL_FIRST_MEETING_BONUS_23	[Multiplay] First Meeting Bonus [23]
+MAIL_FIRST_MEETING_BONUS_24	[Multiplay] First Meeting Bonus [24]
+MAIL_FIRST_MEETING_BONUS_25	[Multiplay] First Meeting Bonus [25]
+MAIL_FIRST_MEETING_BONUS_26	[Multiplay] First Meeting Bonus [26]
+MAIL_FIRST_MEETING_BONUS_27	[Multiplay] First Meeting Bonus [27]
+MAIL_FIRST_MEETING_BONUS_28	[Multiplay] First Meeting Bonus [28]
+MAIL_FIRST_MEETING_BONUS_29	[Multiplay] First Meeting Bonus [29]
+MAIL_FIRST_MEETING_BONUS_30	[Multiplay] First Meeting Bonus [30]
+MAIL_FIRST_MEETING_BONUS_31	[Multiplay] First Meeting Bonus [31]
+MAIL_FIRST_MEETING_BONUS_32	[Multiplay] First Meeting Bonus [32]
+MAIL_FIRST_MEETING_BONUS_33	[Multiplay] First Meeting Bonus [33]
+MAIL_FIRST_MEETING_BONUS_34	[Multiplay] First Meeting Bonus [34]
+MAIL_FIRST_MEETING_BONUS_35	[Multiplay] First Meeting Bonus [35]
+MAIL_FIRST_MEETING_BONUS_36	[Multiplay] First Meeting Bonus [36]
+MAIL_FIRST_MEETING_BONUS_37	[Multiplay] First Meeting Bonus [37]
+MAIL_FIRST_MEETING_BONUS_38	[Multiplay] First Meeting Bonus [38]
+MAIL_FIRST_MEETING_BONUS_39	[Multiplay] First Meeting Bonus [39]
+MAIL_FIRST_MEETING_BONUS_40	[Multiplay] First Meeting Bonus [40]
+MAIL_FIRST_MEETING_BONUS_41	[Multiplay] First Meeting Bonus [41]
+MAIL_FIRST_MEETING_BONUS_42	[Multiplay] First Meeting Bonus [42]
+MAIL_FIRST_MEETING_BONUS_43	[Multiplay] First Meeting Bonus [43]
+MAIL_FIRST_MEETING_BONUS_44	[Multiplay] First Meeting Bonus [44]
+MAIL_FIRST_MEETING_BONUS_45	[Multiplay] First Meeting Bonus [45]
+MAIL_FIRST_MEETING_BONUS_46	[Multiplay] First Meeting Bonus [46]
+MAIL_FIRST_MEETING_BONUS_47	[Multiplay] First Meeting Bonus [47]
+MAIL_FIRST_MEETING_BONUS_48	[Multiplay] First Meeting Bonus [48]
+MAIL_FIRST_MEETING_BONUS_49	[Multiplay] First Meeting Bonus [49]
+MAIL_FIRST_MEETING_BONUS_50	[Multiplay] First Meeting Bonus [50]
+MAIL_SPRINGFESTIVAL_DAY_1	Spring Festival Login Bonus Day 1
+MAIL_SPRINGFESTIVAL_DAY_2	Spring Festival Login Bonus Day 2
+MAIL_SPRINGFESTIVAL_DAY_3	Spring Festival Login Bonus Day 3
+MAIL_SPRINGFESTIVAL_DAY_4	Spring Festival Login Bonus Day 4
+MAIL_SPRINGFESTIVAL_DAY_5	Spring Festival Login Bonus Day 5
+MAIL_SPRINGFESTIVAL_DAY_6	Spring Festival Login Bonus Day 6
+MAIL_SPRINGFESTIVAL_DAY_7	Spring Festival Login Bonus Day 7
+MAIL_GENESIS6P1_DAY_1	Special Login Bonus Day 1
+MAIL_GENESIS6P1_DAY_2	Special Login Bonus Day 2
+MAIL_GENESIS6P1_DAY_3	Special Login Bonus Day 3
+MAIL_GENESIS6P1_DAY_4	Special Login Bonus Day 4
+MAIL_GENESIS6P1_DAY_5	Special Login Bonus Day 5
+MAIL_12M_DAY_1	12 Million Downloads Worldwide Login Bonus Day 1
+MAIL_12M_DAY_2	12 Million Downloads Worldwide Login Bonus Day 2
+MAIL_12M_DAY_3	12 Million Downloads Worldwide Login Bonus Day 3
+MAIL_12M_DAY_4	12 Million Downloads Worldwide Login Bonus Day 4
+MAIL_12M_DAY_5	12 Million Downloads Worldwide Login Bonus Day 5
+MAIL_12M_DAY_6	12 Million Downloads Worldwide Login Bonus Day 6
+MAIL_12M_DAY_7	12 Million Downloads Worldwide Login Bonus Day 7
+MAIL_POTKMINERVA_DAY_1	PotK Login Bonus Day 1
+MAIL_POTKMINERVA_DAY_2	PotK Login Bonus Day 2
+MAIL_POTKMINERVA_DAY_3	PotK Login Bonus Day 3
+MAIL_POTKMINERVA_DAY_4	PotK Login Bonus Day 4
+MAIL_POTKMINERVA_DAY_5	PotK Login Bonus Day 5
+MAIL_POTKMINERVA_DAY_6	PotK Login Bonus Day 6
+MAIL_POTKMINERVA_DAY_7	PotK Login Bonus Day 7
+MAIL_POTKMINERVA_DAY_8	PotK Login Bonus Day 8
+MAIL_POTKMINERVA_DAY_9	PotK Login Bonus Day 9
+MAIL_POTKMINERVA_DAY_10	PotK Login Bonus Day 10
+MAIL_SUMMER_DAY_1	Summer Celebration Login Bonus Day 1
+MAIL_SUMMER_DAY_2	Summer Celebration Login Bonus Day 2
+MAIL_SUMMER_DAY_3	Summer Celebration Login Bonus Day 3
+MAIL_SUMMER_DAY_4	Summer Celebration Login Bonus Day 4
+MAIL_SUMMER_DAY_5	Summer Celebration Login Bonus Day 5
+MAIL_SUMMER_DAY_6	Summer Celebration Login Bonus Day 6
+MAIL_SUMMER_DAY_7	Summer Celebration Login Bonus Day 7
+MAIL_SUMMER_DAY_8	Summer Celebration Login Bonus Day 8
+MAIL_SUMMER_DAY_9	Summer Celebration Login Bonus Day 9
+MAIL_SUMMER_DAY_10	Summer Celebration Login Bonus Day 10
+MAIL_SUMMER_COUNTDOWN_DAY_1	Summer Celebration Countdown Login Bonus Day 1
+MAIL_SUMMER_COUNTDOWN_DAY_2	Summer Celebration Countdown Login Bonus Day 2
+MAIL_SUMMER_COUNTDOWN_DAY_3	Summer Celebration Countdown Login Bonus Day 3
+MAIL_SUMMER_COUNTDOWN_DAY_4	Summer Celebration Countdown Login Bonus Day 4
+MAIL_SUMMER_COUNTDOWN_DAY_5	Summer Celebration Countdown Login Bonus Day 5
+MAIL_SUMMER_COUNTDOWN_DAY_6	Summer Celebration Countdown Login Bonus Day 6
+MAIL_SUMMER_COUNTDOWN_DAY_7	Summer Celebration Countdown Login Bonus Day 7
+MAIL_TSP_COUNTDOWN_DAY_1	Collaboration Countdown Celebration Login Bonus Day 1
+MAIL_TSP_COUNTDOWN_DAY_2	Collaboration Countdown Celebration Login Bonus Day 2
+MAIL_TSP_COUNTDOWN_DAY_3	Collaboration Countdown Celebration Login Bonus Day 3
+MAIL_TSP_COUNTDOWN_DAY_4	Collaboration Countdown Celebration Login Bonus Day 4
+MAIL_TSP_COUNTDOWN_DAY_5	Collaboration Countdown Celebration Login Bonus Day 5
+MAIL_TSP_COUNTDOWN_DAY_6	Collaboration Countdown Celebration Login Bonus Day 6
+MAIL_TSP_COUNTDOWN_DAY_7	Collaboration Countdown Celebration Login Bonus Day 7
+MAIL_MH_TICKET_PRESENT	Magni Historia Daily Ticket Giveaway
+MAIL_SSM_TICKET_PRESENT	Sacred Stone Daily Ticket Giveaway
+MAIL_AUTUMN_1_PRESENT	Autumn Login Bonus Day 1
+MAIL_AUTUMN_2_PRESENT	Autumn Login Bonus Day 2
+MAIL_AUTUMN_3_PRESENT	Autumn Login Bonus Day 3
+MAIL_AUTUMN_4_PRESENT	Autumn Login Bonus Day 4
+MAIL_AUTUMN_5_PRESENT	Autumn Login Bonus Day 5
+MAIL_MIDAUTUMN_1_PRESENT	Mid-Autumn Login Bonus Day 1
+MAIL_MIDAUTUMN_2_PRESENT	Mid-Autumn Login Bonus Day 2
+MAIL_MIDAUTUMN_3_PRESENT	Mid-Autumn Login Bonus Day 3
+MAIL_MIDAUTUMN_4_PRESENT	Mid-Autumn Login Bonus Day 4
+MAIL_MIDAUTUMN_5_PRESENT	Mid-Autumn Login Bonus Day 5
+MAIL_MIDAUTUMN_6_PRESENT	Mid-Autumn Login Bonus Day 6
+MAIL_MIDAUTUMN_7_PRESENT	Mid-Autumn Login Bonus Day 7
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_1	Anniversary Countdown Celebration Login Bonus Day 1
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_2	Anniversary Countdown Celebration Login Bonus Day 2
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_3	Anniversary Countdown Celebration Login Bonus Day 3
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_4	Anniversary Countdown Celebration Login Bonus Day 4
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_5	Anniversary Countdown Celebration Login Bonus Day 5
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_6	Anniversary Countdown Celebration Login Bonus Day 6
+MAIL_CELEBRATION_4YEARCOUNTDOWN_DAY_7	Anniversary Countdown Celebration Login Bonus Day 7
+MAIL_CELEBRATION_4YEAR_DAY_1	4th Anniversary Celebration Login Bonus Day 1
+MAIL_CELEBRATION_4YEAR_DAY_2	4th Anniversary Celebration Login Bonus Day 2
+MAIL_CELEBRATION_4YEAR_DAY_3	4th Anniversary Celebration Login Bonus Day 3
+MAIL_CELEBRATION_4YEAR_DAY_4	4th Anniversary Celebration Login Bonus Day 4
+MAIL_CELEBRATION_4YEAR_DAY_5	4th Anniversary Celebration Login Bonus Day 5
+MAIL_CELEBRATION_4YEAR_DAY_6	4th Anniversary Celebration Login Bonus Day 6
+MAIL_CELEBRATION_4YEAR_DAY_7	4th Anniversary Celebration Login Bonus Day 7
+MAIL_CELEBRATION_4YEAR_DAY_8	4th Anniversary Celebration Login Bonus Day 8
+MAIL_GENEALOGY_DAY_1_PRESENT	Genealogy Release Login Bonus Day 1
+MAIL_GENEALOGY_DAY_2_PRESENT	Genealogy Release Login Bonus Day 2
+MAIL_GENEALOGY_DAY_3_PRESENT	Genealogy Release Login Bonus Day 3
+MAIL_GENEALOGY_DAY_4_PRESENT	Genealogy Release Login Bonus Day 4
+MAIL_GENEALOGY_DAY_5_PRESENT	Genealogy Release Login Bonus Day 5
+MAIL_GENEALOGY_DAY_6_PRESENT	Genealogy Release Login Bonus Day 6
+MAIL_GENEALOGY_DAY_7_PRESENT	Genealogy Release Login Bonus Day 7
+MAIL_GENEALOGY_DAY_8_PRESENT	Genealogy Release Login Bonus Day 8
+MAIL_GENEALOGY_DAY_9_PRESENT	Genealogy Release Login Bonus Day 9
+MAIL_GENEALOGY_DAY_10_PRESENT	Genealogy Release Login Bonus Day 10
+MAIL_4YEARCOMMUNITY_DAY_1_PRESENT	4th Anniversary Community's Choice Login Bonus Day 1
+MAIL_4YEARCOMMUNITY_DAY_2_PRESENT	4th Anniversary Community's Choice Login Bonus Day 2
+MAIL_4YEARCOMMUNITY_DAY_3_PRESENT	4th Anniversary Community's Choice Login Bonus Day 3
+MAIL_4YEARCOMMUNITY_DAY_4_PRESENT	4th Anniversary Community's Choice Login Bonus Day 4
+MAIL_EXPEDITION_DAY_1_PRESENT	Expedition Release Login Bonus Day 1
+MAIL_EXPEDITION_DAY_2_PRESENT	Expedition Release Login Bonus Day 2
+MAIL_EXPEDITION_DAY_3_PRESENT	Expedition Release Login Bonus Day 3
+MAIL_EXPEDITION_DAY_4_PRESENT	Expedition Release Login Bonus Day 4
+MAIL_EXPEDITION_DAY_5_PRESENT	Expedition Release Login Bonus Day 5
+MAIL_EXPEDITION_DAY_6_PRESENT	Expedition Release Login Bonus Day 6
+MAIL_EXPEDITION_DAY_7_PRESENT	Expedition Release Login Bonus Day 7
+MAIL_EXPEDITION_DAY_8_PRESENT	Expedition Release Login Bonus Day 8
+MAIL_EXPEDITION_DAY_9_PRESENT	Expedition Release Login Bonus Day 9
+MAIL_EXPEDITION_DAY_10_PRESENT	Expedition Release Login Bonus Day 10
+MAIL_CHRISTMAS_DAY_1	Christmas Login Bonus Day 1
+MAIL_CHRISTMAS_DAY_2	Christmas Login Bonus Day 2
+MAIL_CHRISTMAS_DAY_3	Christmas Login Bonus Day 3
+MAIL_CHRISTMAS_DAY_4	Christmas Login Bonus Day 4
+MAIL_CHRISTMAS_DAY_5	Christmas Login Bonus Day 5
+MAIL_NEWYEAR_DAY_1	Happy New Year Login Bonus Day 1
+MAIL_NEWYEAR_DAY_2	Happy New Year Login Bonus Day 2
+MAIL_NEWYEAR_DAY_3	Happy New Year Login Bonus Day 3
+MAIL_NEWYEAR_DAY_4	Happy New Year Login Bonus Day 4
+MAIL_NEWYEAR_DAY_5	Happy New Year Login Bonus Day 5
+MAIL_NEWYEAR_DAY_6	New Year Login Bonus Day 6
+MAIL_NEWYEAR_DAY_7	New Year Login Bonus Day 7
+MAIL_LNY_DAY_1	Lunar New Year Login Bonus Day 1
+MAIL_LNY_DAY_2	Lunar New Year Login Bonus Day 2
+MAIL_LNY_DAY_3	Lunar New Year Login Bonus Day 3
+MAIL_LNY_DAY_4	Lunar New Year Login Bonus Day 4
+MAIL_LNY_DAY_5	Lunar New Year Login Bonus Day 5
+MAIL_LNY_DAY_6	Lunar New Year Login Bonus Day 6
+MAIL_LNY_DAY_7	Lunar New Year Login Bonus Day 7
+MAIL_LNY_DAY_8	Lunar New Year Login Bonus Day 8
+MAIL_LNY_DAY_9	Lunar New Year Login Bonus Day 9
+MAIL_LNY_DAY_10	Lunar New Year Login Bonus Day 10
+MAIL_LNY_DAY_11	Lunar New Year Login Bonus Day 11
+MAIL_LNY_DAY_12	Lunar New Year Login Bonus Day 12
+MAIL_LNY_DAY_13	Lunar New Year Login Bonus Day 13
+MAIL_LNY_DAY_14	Lunar New Year Login Bonus Day 14
+MAIL_WHITEDAY_DAY_1	White Day Login Bonus Day 1
+MAIL_WHITEDAY_DAY_2	White Day Login Bonus Day 2
+MAIL_WHITEDAY_DAY_3	White Day Login Bonus Day 3
+MAIL_WHITEDAY_DAY_4	White Day Login Bonus Day 4
+MAIL_WHITEDAY_DAY_5	White Day Login Bonus Day 5
+MAIL_WHITEDAY_DAY_6	White Day Login Bonus Day 6
+MAIL_WHITEDAY_DAY_7	White Day Login Bonus Day 7
+MAIL_WHITEDAY_DAY_8	White Day Login Bonus Day 8
+MAIL_APRFOOLS_DAY_1	April Fools Login Bonus Day 1
+MAIL_APRFOOLS_DAY_2	April Fools Login Bonus Day 2
+MAIL_APRFOOLS_DAY_3	April Fools Login Bonus Day 3
+MAIL_APRFOOLS_DAY_4	April Fools Login Bonus Day 4
+MAIL_APRFOOLS_DAY_5	April Fools Login Bonus Day 5
+MAIL_APRFOOLS_DAY_6	April Fools Login Bonus Day 6
+MAIL_APRFOOLS_DAY_7	April Fools Login Bonus Day 7
+MAIL_DANMACHI_DAY_1	Collaboration Celebration Login Bonus Day 1
+MAIL_DANMACHI_DAY_2	Collaboration Celebration Login Bonus Day 2
+MAIL_DANMACHI_DAY_3	Collaboration Celebration Login Bonus Day 3
+MAIL_DANMACHI_DAY_4	Collaboration Celebration Login Bonus Day 4
+MAIL_DANMACHI_DAY_5	Collaboration Celebration Login Bonus Day 5
+MAIL_DANMACHI_DAY_6	Collaboration Celebration Login Bonus Day 6
+MAIL_DANMACHI_DAY_7	Collaboration Celebration Login Bonus Day 7
+MAIL_PORTRAID_DAY_1	Port Raid Login Bonus Day 1
+MAIL_PORTRAID_DAY_2	Port Raid Login Bonus Day 2
+MAIL_PORTRAID_DAY_3	Port Raid Login Bonus Day 3
+MAIL_PORTRAID_DAY_4	Port Raid Login Bonus Day 4
+MAIL_PORTRAID_DAY_5	Port Raid Login Bonus Day 5
+MAIL_PORTRAID_DAY_6	Port Raid Login Bonus Day 6
+MAIL_PORTRAID_DAY_7	Port Raid Login Bonus Day 7
+MAIL_DRAGONGOD_CELEBRATION_DAY_1	Ancient Dragon God Release Login Bonus Day 1
+MAIL_DRAGONGOD_CELEBRATION_DAY_2	Ancient Dragon God Release Login Bonus Day 2
+MAIL_DRAGONGOD_CELEBRATION_DAY_3	Ancient Dragon God Release Login Bonus Day 3
+MAIL_DRAGONGOD_CELEBRATION_DAY_4	Ancient Dragon God Release Login Bonus Day 4
+MAIL_DRAGONGOD_CELEBRATION_DAY_5	Ancient Dragon God Release Login Bonus Day 5
+MAIL_DRAGONGOD_CELEBRATION_DAY_6	Ancient Dragon God Release Login Bonus Day 6
+MAIL_DRAGONGOD_CELEBRATION_DAY_7	Ancient Dragon God Release Login Bonus Day 7
+MAIL_1250_CELEBRATION_DAY_1	12.5M World Wide Download Celebration Login Bonus Day 1
+MAIL_1250_CELEBRATION_DAY_2	12.5M World Wide Download Celebration Login Bonus Day 2
+MAIL_1250_CELEBRATION_DAY_3	12.5M World Wide Download Celebration Login Bonus Day 3
+MAIL_1250_CELEBRATION_DAY_4	12.5M World Wide Download Celebration Login Bonus Day 4
+MAIL_1250_CELEBRATION_DAY_5	12.5M World Wide Download Celebration Login Bonus Day 5
+MAIL_1250_CELEBRATION_DAY_6	12.5M World Wide Download Celebration Login Bonus Day 6
+MAIL_1250_CELEBRATION_DAY_7	12.5M World Wide Download Celebration Login Bonus Day 7
+MAIL_1250_CELEBRATION_DAY_8	12.5M World Wide Download Celebration Login Bonus Day 8
+MAIL_1250_CELEBRATION_DAY_9	12.5M World Wide Download Celebration Login Bonus Day 9
+MAIL_1250_CELEBRATION_DAY_10	12.5M World Wide Download Celebration Login Bonus Day 10
+MAIL_PORTBATTLE_DAY_1	Port Battle Login Bonus Day 1
+MAIL_PORTBATTLE_DAY_2	Port Battle Login Bonus Day 2
+MAIL_PORTBATTLE_DAY_3	Port Battle Login Bonus Day 3
+MAIL_PORTBATTLE_DAY_4	Port Battle Login Bonus Day 4
+MAIL_PORTBATTLE_DAY_5	Port Battle Login Bonus Day 5
+MAIL_PORTBATTLE_DAY_6	Port Battle Login Bonus Day 6
+MAIL_PORTBATTLE_DAY_7	Port Battle Login Bonus Day 7
+MAIL_SUMMER_FESTIVAL_DAY_1	Summer Festival Login Bonus Day 1
+MAIL_SUMMER_FESTIVAL_DAY_2	Summer Festival Login Bonus Day 2
+MAIL_SUMMER_FESTIVAL_DAY_3	Summer Festival Login Bonus Day 3
+MAIL_SUMMER_FESTIVAL_DAY_4	Summer Festival Login Bonus Day 4
+MAIL_SUMMER_FESTIVAL_DAY_5	Summer Festival Login Bonus Day 5
+MAIL_SUMMER_FESTIVAL_DAY_6	Summer Festival Login Bonus Day 6
+MAIL_SUMMER_FESTIVAL_DAY_7	Summer Festival Login Bonus Day 7
+MAIL_SUMMER_FESTIVAL_DAY_8	Summer Festival Login Bonus Day 8
+MAIL_SUMMER_FESTIVAL_DAY_9	Summer Festival Login Bonus Day 9
+MAIL_SUMMER_FESTIVAL_DAY_10	Summer Festival Login Bonus Day 10
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_1	Ancient Dragon God Login Bonus Day 1
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_2	Ancient Dragon God Login Bonus Day 2
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_3	Ancient Dragon God Login Bonus Day 3
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_4	Ancient Dragon God Login Bonus Day 4
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_5	Ancient Dragon God Login Bonus Day 5
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_6	Ancient Dragon God Login Bonus Day 6
+MAIL_DRAGONGOD0102_CELEBRATION_DAY_7	Ancient Dragon God Login Bonus Day 7
+MAIL_WELCOME_BACK_DAY_1	Welcome & Come Back Login Bonus Day 1
+MAIL_WELCOME_BACK_DAY_2	Welcome & Come Back Login Bonus Day 2
+MAIL_WELCOME_BACK_DAY_3	Welcome & Come Back Login Bonus Day 3
+MAIL_WELCOME_BACK_DAY_4	Welcome & Come Back Login Bonus Day 4
+MAIL_WELCOME_BACK_DAY_5	Welcome & Come Back Login Bonus Day 5
+MAIL_WELCOME_BACK_DAY_6	Welcome & Come Back Login Bonus Day 6
+MAIL_WELCOME_BACK_DAY_7	Welcome & Come Back Login Bonus Day 7
+MAIL_AUTUMN_6_PRESENT	Autumn Login Bonus Day 6
+MAIL_AUTUMN_7_PRESENT	Autumn Login Bonus Day 7
+MAIL_GENESIS9P1_DAY_1	Genesis Login Bonus Day 1
+MAIL_GENESIS9P1_DAY_2	Genesis Login Bonus Day 2
+MAIL_GENESIS9P1_DAY_3	Genesis Login Bonus Day 3
+MAIL_GENESIS9P1_DAY_4	Genesis Login Bonus Day 4
+MAIL_GENESIS9P1_DAY_5	Genesis Login Bonus Day 5
+MAIL_GENESIS9P1_DAY_6	Genesis Login Bonus Day 6
+MAIL_GENESIS9P1_DAY_7	Genesis Login Bonus Day 7
+MAIL_SHINOBI_1_PRESENT	Shinobi Collab Login Bonus Day 1
+MAIL_SHINOBI_2_PRESENT	Shinobi Collab Login Bonus Day 2
+MAIL_SHINOBI_3_PRESENT	Shinobi Collab Login Bonus Day 3
+MAIL_SHINOBI_4_PRESENT	Shinobi Collab Login Bonus Day 4
+MAIL_SHINOBI_5_PRESENT	Shinobi Collab Login Bonus Day 5
+MAIL_SHINOBI_6_PRESENT	Shinobi Collab Login Bonus Day 6
+MAIL_SPECIAL_DAY_1	Special Login Bonus Day 1
+MAIL_SPECIAL_DAY_2	Special Login Bonus Day 2
+MAIL_SPECIAL_DAY_3	Special Login Bonus Day 3
+MAIL_SPECIAL_DAY_4	Special Login Bonus Day 4
+MAIL_SPECIAL_DAY_5	Special Login Bonus Day 5
+MAIL_SPECIAL_DAY_6	Special Login Bonus Day 6
+MAIL_SPECIAL_DAY_7	Special Login Bonus Day 7
+MAIL_PREANNIVERSARY_1_PRESENT	Pre-Anniversary Campaign Countdown Login Day 1
+MAIL_PREANNIVERSARY_2_PRESENT	Pre-Anniversary Campaign Countdown Login Day 2
+MAIL_PREANNIVERSARY_3_PRESENT	Pre-Anniversary Campaign Countdown Login Day 3
+MAIL_PREANNIVERSARY_4_PRESENT	Pre-Anniversary Campaign Countdown Login Day 4
+MAIL_PREANNIVERSARY_5_PRESENT	Pre-Anniversary Campaign Countdown Login Day 5
+MAIL_PREANNIVERSARY_6_PRESENT	Pre-Anniversary Campaign Countdown Login Day 6
+MAIL_HALLOWEEN_1_PRESENT	Halloween Login Bonus Day 1
+MAIL_HALLOWEEN_2_PRESENT	Halloween Login Bonus Day 2
+MAIL_HALLOWEEN_3_PRESENT	Halloween Login Bonus Day 3
+MAIL_HALLOWEEN_4_PRESENT	Halloween Login Bonus Day 4
+MAIL_HALLOWEEN_5_PRESENT	Halloween Login Bonus Day 5
+MAIL_PREANNI_DAY_1	Pre-Anniversary Login Bonus Day 1
+MAIL_PREANNI_DAY_2	Pre-Anniversary Login Bonus Day 2
+MAIL_PREANNI_DAY_3	Pre-Anniversary Login Bonus Day 3
+MAIL_PREANNI_DAY_4	Pre-Anniversary Login Bonus Day 4
+MAIL_PREANNI_DAY_5	Pre-Anniversary Login Bonus Day 5
+MAIL_PREANNI_DAY_6	Pre-Anniversary Login Bonus Day 6
+MAIL_PREANNI_DAY_7	Pre-Anniversary Login Bonus Day 7
+MAIL_MATHIASTIC_1_PRESENT	Matia Ticket Login Bonus Day 1
+MAIL_MATHIASTIC_2_PRESENT	Matia Ticket Login Bonus Day 2
+MAIL_MATHIASTIC_3_PRESENT	Matia Ticket Login Bonus Day 3
+MAIL_MATHIASTIC_4_PRESENT	Matia Ticket Login Bonus Day 4
+MAIL_MATHIASTIC_5_PRESENT	Matia Ticket Login Bonus Day 5
+MAIL_MATHIAS_1_PRESENT	Matia Login Bonus Day 1
+MAIL_MATHIAS_2_PRESENT	Matia Login Bonus Day 2
+MAIL_MATHIAS_3_PRESENT	Matia Login Bonus Day 3
+MAIL_MATHIAS_4_PRESENT	Matia Login Bonus Day 4
+MAIL_MATHIAS_5_PRESENT	Matia Login Bonus Day 5
+MAIL_MATHIAS_6_PRESENT	Matia Login Bonus Day 6
+MAIL_MATHIAS_7_PRESENT	Matia Login Bonus Day 7
+MAIL_PRE_ANNI_DAY_1	Pre-Anniversary Campaign Login Bonus Day 1
+MAIL_PRE_ANNI_DAY_2	Pre-Anniversary Campaign Login Bonus Day 2
+MAIL_PRE_ANNI_DAY_3	Pre-Anniversary Campaign Login Bonus Day 3
+MAIL_PRE_ANNI_DAY_4	Pre-Anniversary Campaign Login Bonus Day 4
+MAIL_PRE_ANNI_DAY_5	Pre-Anniversary Campaign Login Bonus Day 5
+MAIL_PRE_ANNI_DAY_6	Pre-Anniversary Campaign Login Bonus Day 6
+MAIL_SCHTICKET_1_PRESENT	Schmeier Ticket Login Bonus Day 1
+MAIL_SCHTICKET_2_PRESENT	Schmeier Ticket Login Bonus Day 2
+MAIL_SCHTICKET_3_PRESENT	Schmeier Ticket Login Bonus Day 3
+MAIL_SCHTICKET_4_PRESENT	Schmeier Ticket Login Bonus Day 4
+MAIL_SCHTICKET_5_PRESENT	Schmeier Ticket Login Bonus Day 5
+MAIL_5THANNI_DAY_1	5th Anniversary Login Bonus Day 1
+MAIL_5THANNI_DAY_2	5th Anniversary Login Bonus Day 2
+MAIL_5THANNI_DAY_3	5th Anniversary Login Bonus Day 3
+MAIL_5THANNI_DAY_4	5th Anniversary Login Bonus Day 4
+MAIL_5THANNI_DAY_5	5th Anniversary Login Bonus Day 5
+MAIL_COLLABCOUNT_DAY_1	Collab Countdown Login Bonus Day 1
+MAIL_COLLABCOUNT_DAY_2	Collab Countdown Login Bonus Day 2
+MAIL_COLLABCOUNT_DAY_3	Collab Countdown Login Bonus Day 3
+MAIL_SHIELD_DAY_1	Shield Hero Collab Login Bonus Day 1
+MAIL_SHIELD_DAY_2	Shield Hero Collab Login Bonus Day 2
+MAIL_SHIELD_DAY_3	Shield Hero Collab Login Bonus Day 3
+MAIL_SHIELD_DAY_4	Shield Hero Collab Login Bonus Day 4
+MAIL_SHIELD_DAY_5	Shield Hero Collab Login Bonus Day 5
+MAIL_SHIELD_DAY_6	Shield Hero Collab Login Bonus Day 6
+MAIL_SHIELD_DAY_7	Shield Hero Collab Login Bonus Day 7
+MAIL_UROB_1_PRESENT	Ouroboros Ticket Login Bonus Day 1
+MAIL_UROB_2_PRESENT	Ouroboros Ticket Login Bonus Day 2
+MAIL_UROB_3_PRESENT	Ouroboros Ticket Login Bonus Day 3
+MAIL_UROB_4_PRESENT	Ouroboros Ticket Login Bonus Day 4
+MAIL_UROB_5_PRESENT	Ouroboros Ticket Login Bonus Day 5
+MAIL_NEWYR_DAY_1	Happy New Year Login Bonus Day 1
+MAIL_NEWYR_DAY_2	Happy New Year Login Bonus Day 2
+MAIL_NEWYR_DAY_3	Happy New Year Login Bonus Day 3
+MAIL_NEWYR_DAY_4	Happy New Year Login Bonus Day 4
+MAIL_NEWYR_DAY_5	Happy New Year Login Bonus Day 5
+MAIL_NYEAR_DAY_1	Happy New Year Login Bonus Day 1
+MAIL_NYEAR_DAY_2	Happy New Year Login Bonus Day 2
+MAIL_NYEAR_DAY_3	Happy New Year Login Bonus Day 3
+MAIL_NYEAR_DAY_4	Happy New Year Login Bonus Day 4
+MAIL_NYEAR_DAY_5	Happy New Year Login Bonus Day 5
+MAIL_ENL_DAY_1	Login Bonus Day 1
+MAIL_ENL_DAY_2	Login Bonus Day 2
+MAIL_ENL_DAY_3	Login Bonus Day 3
+MAIL_ENL_DAY_4	Login Bonus Day 4
+MAIL_ENL_DAY_5	Login Bonus Day 5
+MAIL_ENL_DAY_6	Login Bonus Day 6
+MAIL_ENL_DAY_7	Login Bonus Day 7

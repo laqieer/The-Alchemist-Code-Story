@@ -1,0 +1,96 @@
+﻿001	N-no..	VO_hisham-b.hisham-b_sys_0018
+002	Mother! Father!	VO_hisham-b.hisham-b_chara_1007
+003	Please, don't go! Please... Someone!	VO_hisham-b.hisham-b_chara_2007
+004	?!	VO_hisham-b.hisham-b_battle_0019
+005	Ah, you're awake.	VO_malta.malta_sys_0003
+006	I don't recognize this place... Where am I?	VO_hisham-b.hisham-b_chara_1009
+007	This is my village. You collapsed on your way here. You don't remember?	VO_malta.malta_sys_0004
+008	Um... I was... I remember searching for water like usual...	VO_hisham-b.hisham-b_sys_1047
+009	Like usual...? No, wait. I was walking in the desert with Kamui, and then...
+010	Urk... My head...	VO_hisham-b.hisham-b_favorite_0001
+011	Are you all right? Please, calm down. You're safe here. Take a deep breath.	VO_malta.malta_sys_0001
+012	Y-yes, ma'am.	VO_hisham-b.hisham-b_sys_0018
+013	Can you tell me your name?	VO_malta.malta_sys_0031
+014	My name i-is...Hisham.	VO_hisham-b.hisham-b_sys_1047
+015	I am Malta. I'm an old friend of Kamui's.	VO_malta.malta_sys_0004
+016	Um... I'm... Am I...?	VO_hisham-b.hisham-b_sys_0020
+017	I-I'm sorry. I can't seem to focus.	VO_hisham-b.hisham-b_sys_0036
+018	I see... Just rest, then. You can answer my questions when you're feeling a bit better.	VO_malta.malta_sys_0020
+019	How is the boy?	VO_iakof.iakof_sys_0031
+020	He's sleeping. I think the heat really got to him. He seemed very disoriented.	VO_malta.malta_sys_0005
+021	I also think that perhaps it triggered a painful memory.
+022	Hm...	VO_iakof.iakof_sys_0004
+023	Chief, allow me to take the boy under my wing.	VO_kamui-b.kamui-b_sys_0037
+024	Ah... That is a difficult request to grant, seeing as we are a hidden village. We cannot simply let new people in.	VO_iakof.iakof_sys_0031
+025	That boy, Hisham... He has no place to call home, no one to call family.	VO_kamui-b.kamui-b_sys_0030
+026	He is only a child. A child deserves to feel safe, to know that someone is looking out for them.
+027	For a while now, that someone has been me.	VO_kamui-b.kamui-b_sys_0020
+028	Please. I do not expect the rest of the village to be responsible for the boy. Just allow me to care for him until the war is over.
+029	Hmm.	VO_iakof.iakof_sys_0004
+030	I don't see this as being a problem.
+031	Happily, this year, our defense force for the great tree, Sephiron, is particularly strong. We have more than enough people to harvest the fields and maintain our herds, as well.
+032	Even if we factor in what we will add into our reserves for next year, we have more than enough to care for one youngster.
+033	Father, please. That boy, he was having the most terrible nightmare. After seeing that, I cannot imagine throwing him back out into the desert.	VO_malta.malta_sys_0001
+034	I see. Well, who am I to deny the leader of our warriors and the druidic priestess of our village?	VO_iakof.iakof_sys_0004
+035	Not to mention your beloved daughter!	VO_malta.malta_sys_0012
+036	Malta... I am trying to avoid accusations of favoritism as Chief!	VO_iakof.iakof_sys_0027
+037	Ahem.	VO_iakof.iakof_sys_0047
+038	Kamui. Your request has been granted. The boy is in your care now.	VO_iakof.iakof_sys_0001
+039	However, you must have already realized. That child holds a great amount of Alchemia within himself.
+040	Keep him away from the deepest parts of the village, for his own safety.
+041	Understood. Thank you, Chief.	VO_kamui-b.kamui-b_sys_0006
+042	Nn...	VO_hisham-b.hisham-b_chara_1002
+043	Urgh?! I overslept! The sun is already that high in the sky?!	VO_hisham-b.hisham-b_favorite_0004
+044	Ah, you have finally awakened, I see. I am sorry to say that breakfast is long past now.	VO_kamui-b.kamui-b_sys_0037
+045	Aw, man... You couldn't have woken me up?	VO_hisham-b.hisham-b_battle_0025
+046	Today is your seventh day in this village. I believe it is time for you to understand what it means to be a part of this village.	VO_kamui-b.kamui-b_sys_0031
+047	There are only so many minutes in a day, but a mountain of tasks to address, including caring for the fields and the livestock.
+048	Right...	VO_hisham-b.hisham-b_sys_0016
+049	I'm coming in! Ah, Hisham. Overslept again?	VO_ishido.ishido_sys_0001
+050	Mister Isidore?! You can't just go barging into people's homes!	VO_hisham-b.hisham-b_favorite_0007
+051	Yes, yes... Wait. Is that how you plan to address me? Mister?	VO_ishido.ishido_sys_0010
+052	You know I'm the same age as Kamui, right? Come on, at least give me an "Uncle Isidore" or a "Big Bro" or something.
+053	I don't know... I'm not really feeling it. Kamui is Kamui, and you're...you.	VO_hisham-b.hisham-b_sys_0012
+054	You know I'm kind of important, right? I'm the commander of our village's warriors and everything.	VO_ishido.ishido_sys_0016
+055	And what does our almighty commander need of us before we've even had breakfast?	VO_kamui-b.kamui-b_sys_0001
+056	What? You haven't eaten? Here.	VO_ishido.ishido_sys_0005
+057	Wow! Is this fruit?	VO_hisham-b.hisham-b_chara_1009
+058	It's good, right? I got this straight from the foot of the great tree, Sephiron! Cream of the crop!	VO_ishido.ishido_sys_0007
+059	This, right here, is the most delicious thing you will ever taste in all of Gluttony Foss!
+060	It's so sweet and refreshing! This is making me reevaluate you completely as a person, Mister!	VO_hisham-b.hisham-b_sys_0009
+061	How was that? Still hungry? En garde!	VO_ishido.ishido_battle_1011
+062	What?! What kind of trick is this?! What kind of person just attacks a kid?!	VO_hisham-b.hisham-b_sys_0027
+063	Tsk, tsk, Hisham. You should know that everything in this world comes with a price.	VO_ishido.ishido_favorite_0002
+064	It's time for your training to begin! I'll make a warrior out of you yet!
+065	Ugh... Mister, you're a real piece of work...	VO_hisham-b.hisham-b_sys_0018
+066	Come on now, give me some credit. I'm not gonna just cut down a kid.	VO_ishido.ishido_sys_0030
+067	Really...?	VO_hisham-b.hisham-b_chara_1009
+068	Hm? What have I done to cause such doubt?	VO_ishido.ishido_sys_0006
+069	Ah, you're thinking of the time I accidentally sent you flying... Or wait, that other time when...?
+070	I'm thinking of all of it! All of it!	VO_hisham-b.hisham-b_sys_0043
+071	Ahem. So, what exactly is it you need from us? You're usually training with the other warriors at this time, no?	VO_kamui-b.kamui-b_sys_0002
+072	Oh, right!	VO_ishido.ishido_sys_0005
+073	There are more beasts that are drawn to the nectar of the great Sephiron this year than usual, so we need to take action a little earlier than expected.
+074	As a result, I'm here to make a humble request of help from one of my oldest, bestest friends.
+075	I am no warrior.	VO_kamui-b.kamui-b_sys_0030
+076	However, you are one of the few Spiritbonders in the village, at the same level as Malta or Iakov.	VO_ishido.ishido_sys_0004
+077	Think of it as helping a friend! With your strength, we could take care of this in no time.	VO_ishido.ishido_sys_0041
+078	Isidore, you... Fine. Hisham, you stay here. I will be heading out for a bit.	VO_kamui-b.kamui-b_sys_0030
+079	Got it! Um, hey, if you're going out, can I borrow another one of your books?	VO_hisham-b.hisham-b_favorite_0008
+080	As you wish. Now, Isidore, tell me where we are headed.	VO_kamui-b.kamui-b_sys_0004
+081	Come along and I'll show you.	VO_ishido.ishido_sys_0004
+082	Kamui's got a lot on his plate, huh... Well, at least I've got these books to keep me company!	VO_hisham-b.hisham-b_sys_0030
+083	Hm, I think I've read "Ecology of the Desert" already. I haven't finished "Following the Water" yet, though...	VO_hisham-b.hisham-b_sys_0031
+084	Grrrrrrr...
+085	You were right, there are quite a number of beasts here. Not just the usual ones, either.	VO_kamui-b.kamui-b_sys_0031
+086	The unrest of this civil war shows its effects even here...
+087	Indeed. This bunch must have come here as a result of all the refugees fleeing from the South.	VO_ishido.ishido_sys_0004
+088	I heard that another village in the South was burned down recently.
+089	Yes... I saw it with my own eyes.	VO_kamui-b.kamui-b_sys_0004
+090	I see...	VO_ishido.ishido_sys_0022
+091	I have heard that King Narol is a sensible man, but not all of his advisors agree. Vigorously so. Almost treasonously.
+092	Right, General Ceclidis... I have met the man before. He has cruel eyes.	VO_kamui-b.kamui-b_sys_0037
+093	The Liberation Army is doing its best, but it seems they are being pressed by the sheer number of soldiers to fight against.	VO_ishido.ishido_sys_0004
+094	It is truly a shame. However, we must focus on the task at hand.	VO_kamui-b.kamui-b_sys_0030
+095	I feel a bit sorry for these creatures, but it is our duty to keep them from causing any more disorder than they have.
+096	Yep. The blessings of Sephiron must be protected from these creatures of the night!	VO_ishido.ishido_sys_0005

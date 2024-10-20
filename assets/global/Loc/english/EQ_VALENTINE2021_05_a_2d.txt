@@ -1,0 +1,101 @@
+﻿001	There! That takes care of your hired goons.	VO_margaret.margaret_sys_0007
+002	Grrr...	VO_thiefm.thiefm_sys_0022
+003	Are you ready to face the consequences of your actions? Thanks to your unscrupulous sales, a lot of people have gotten sick and are suffering gravely.
+004	Why would you lie about your chocolate in the first place?! You're disgracing all merchants everywhere by misrepresenting the effects of your products and selling them to unsuspecting people!
+005	...
+006	Hey! Are you even listening to me?!	VO_margaret.margaret_chara_1011
+007	Shut up already! I don't care about any of that honor-among-merchants crap; as long as I can sell my wares...I'll do whatever it takes!	VO_thiefm.thiefm_battle_0019
+008	A gun?! And there's nowhere to take cover!	VO_margaret.margaret_sys_0025
+009	Margaret!!!	VO_elizabeth.elizabeth_battle_0020
+010	No...!	VO_margaret.margaret_battle_0019
+011	My gun!	VO_thiefm.thiefm_sys_0025
+012	Sorry to burst your bubble, but no one's faster or more accurate on the draw than I am.	VO_charis.charis_sys_0016
+013	Caris!	VO_margaret.margaret_sys_1011
+014	Just in the nick of time, it seems. Apologies for the late arrival. It took me a while to wrap up my investigation, but the things I was able to learn were definitely worth it.	VO_charis.charis_sys_0035
+015	Like what?	VO_elizabeth.elizabeth_chara_1009
+016	Like the fact that every person who got sick after eating the chocolate was a student from the School of Magic.	VO_charis.charis_sys_0004
+017	And every one of them learned about this pathetic excuse for a peddler from the same witch.
+018	...
+019	Wait, so this person was working with a witch from the School of Magic in some backdoor deal to sell Rainbow Cacao?!	VO_margaret.margaret_sys_0025
+020	Nail right on the head. She was doing it right under everybody's noses at first, but she wasn't careful enough about covering her tracks, and the powers that be caught wind of it.
+021	That's when she started leaking information about the black market to the students so she could lure them out here, just a touch away from prying eyes.	VO_charis.charis_sys_0022
+022	Seems she planned to send everybody on a wild goose chase and cause a bunch of unfocused chaos so she and...I guess her accomplices had time to escape amidst all the confusion.
+023	...
+024	So what's it gonna be, bub? Where is she?	VO_charis.charis_sys_0002
+025	She's long gone by now, and taken all the Rainbow Cacao with her! You can search my stall if you don't believe me; you'll find all the shelves are empty!	VO_thiefm.thiefm_sys_0030
+026	What?!
+027	Oh... The hooded figure from earlier! She did look like she was loading up a suspiciously large amount of the cacao.	VO_elizabeth.elizabeth_sys_0031
+028	She's gonna sell the rest of it in the other kingdoms, and it's too late to stop her now; she's already slipped through your fingers!	VO_thiefm.thiefm_sys_0004
+029	Lustburg has a monopoly on every cacao except brown, so it's bound to sell for a fortune abroad. And once she's sold it all, she promised she'd split the profits with me fifty-fifty.	VO_thiefm.thiefm_sys_0010
+030	Oh, you poor, miserable sod. Do you really think she's going to keep that promise? Don't you understand the position you're in? I'm quite certain she's left you to take the fall for her.	VO_margaret.margaret_sys_0031
+031	!!!
+032	Blast. You're right. What was I thinking?! I shouldn't have believed a word that witch said! I even taught her how to pitch and sell her products. She has no reason to come back for me anymore!	VO_thiefm.thiefm_sys_0022
+033	Oh, dear. Hoist by your own petard.	VO_elizabeth.elizabeth_event_1015
+034	This is all your fault! I could've become a court merchant with the money from this scheme, if only you hadn't come along and wrecked it!	VO_thiefm.thiefm_sys_0017
+035	Then I would never have had to worry about another meal in my entire life. That's the only reason I did all this, you know!
+036	But now everything's gone up in smoke thanks to you!
+037	Excuse you? Do you even hear what you're saying?!	VO_margaret.margaret_sys_0013
+038	First of all, you taught her to pitch and sell her products?! Your way of selling things is so underhanded and disrespectful, I can't in all good conscience even think of you as a merchant!
+039	You're a scoundrel, plain and simple. There's no pride to be had in selling goods through lies and deceit. That's not even commerce at that point; it's just a grift—a scam!
+040	Furthermore, trying to monopolize sales of a product only makes it harder for people who really want it to get it!	VO_margaret.margaret_sys_0010
+041	Providing customers with what they need is a merchant's job, and that's exactly why their whole livelihood depends on a healthy and robust market!
+042	It's a cutthroat business, but improving sales by finding ways to garner more exposure and curate only the best goods is a merchant's mark of pride and proof of their professional integrity!!!
+043	Ooh, Margaret! Amazing! You tell him!	VO_elizabeth.elizabeth_sys_0009
+044	Yeah, not bad. You even got me goin' a little. I never knew you had such passion in you.	VO_charis.charis_sys_0008
+045	Well, of course! And now that this unscrupulous cretin is tied up, what say we chase after that witch?	VO_margaret.margaret_sys_0016
+046	I'll go ahead first, since I got the bike. It won't do us any good if she sells all the cacao and makes a run for it before we catch her.	VO_charis.charis_sys_0002
+047	You two, take this guy's carriage and follow after me so we can use it to confiscate the Rainbow Cacao once we've got her in custody.
+048	Roger that!
+049	All right... Pedal to the metal! Everybody outta the way unless you wanna get flattened like a pancake!	VO_charis.charis_chara_1004
+050	And just like that, gone in a flash. She really is the fastest person I've ever met. Shall we be going, too?
+051	You bet! Sorry, mister, but we're going to be borrowing your carriage for a bit.	VO_margaret.margaret_sys_0037
+052	Whoa, whoa! Good horse! Just keep following the path.
+053	I had no idea you knew how to drive a carriage. You truly are a woman of many talents.	VO_elizabeth.elizabeth_sys_0006
+054	Hehehe! I sometimes sell my products out of one, so don't worry about a thing; everything is under control! Feel free to rest inside while I take the reins.	VO_margaret.margaret_sys_0007
+055	Sorry I can't help with that. Thanks so much, Margaret.	VO_elizabeth.elizabeth_sys_0033
+056	You don't have to apologize! I'd do anything at all for you, Lizzy.	VO_margaret.margaret_sys_0025
+057	...
+058	You know, I feel a lot better after hearing your impassioned speech to the peddler. You put so much pride and care into your work as a merchant.	VO_elizabeth.elizabeth_sys_0007
+059	Hmm? What do you mean?	VO_margaret.margaret_chara_1011
+060	Well, you're always giving me products for free, and I've always wondered if it was really...okay for you to do that, considering your profit margins and such.	VO_elizabeth.elizabeth_sys_0004
+061	...
+062	But I guess I had nothing to worry about after all. You're every bit as competent and well put-together as I always supposed you were. But then, you are my little sister, so I'd expect nothing less! Hehe.	VO_elizabeth.elizabeth_sys_0008
+063	Oh, Lizzy!	VO_margaret.margaret_battle_1030
+064	You really don't have to worry. The things I give you don't come out of my profit margins, but from my never-ending font of love for you. When it comes to business, trust me when I say, I sell by the boatload!	VO_margaret.margaret_sys_0007
+065	By the boatload, is it?	VO_elizabeth.elizabeth_sys_0006
+066	Honestly, I don't know if I'm as...how did you put it? Competent and well put-together? I don't think I'm quite that...	VO_margaret.margaret_sys_0031
+067	But I think a merchant should always be able to provide people with what they need, when they need it. That's our job. And it means a great deal to me.
+068	You saved me when I was sick and suffering. I needed you at that moment, and you were there for me.	VO_margaret.margaret_sys_0027
+069	And while I might not be able to give people medical help like you can, I can at least provide them with the right goods at the right time to make their lives better, and I take great pride in that fact.
+070	That's very noble of you, Margaret.	VO_elizabeth.elizabeth_sys_0007
+071	And it ties in with what I do more than you may think. Whenever I'm making medicine for my mother, for example, I often say to myself, if only I had this particular ingredient, or this particular tool...	VO_elizabeth.elizabeth_sys_0031
+072	I think it's wonderful that you're so committed to your cause of helping those in need.
+073	...
+074	And I think I finally understand now why you're so eager to remove the restrictions on the sales of Rainbow Cacao.	VO_elizabeth.elizabeth_sys_0004
+075	At first, I had no idea why you were so adamant about it.
+076	But it's simply because there are so many people out there who want some, isn't it?
+077	Yes! That's exactly it!	VO_margaret.margaret_sys_0006
+078	Hehe! I'm so happy that I understand you a little better now!	VO_elizabeth.elizabeth_sys_0007
+079	That's enough to make you happy? Even though it's not a particularly big deal?
+080	Of course. Why wouldn't it be?	VO_elizabeth.elizabeth_chara_1009
+081	I guess...I just didn't know such little things could bring you joy. I suppose there's still a lot for me to learn about you, as well.	VO_margaret.margaret_sys_0031
+082	(Come to think of it, this might be my first time ever having a real heart-to-heart with Lizzy.)
+083	(Ever since we met, even after I became a Phantom Soldier, I've always devoted every fiber of my being to her, first and foremost. And yet, somehow, I've never truly gotten to know her...)	VO_margaret.margaret_sys_0016
+084	Well, that's an easy problem to fix. All we have to do is chat more often and learn even more about each other.
+085	That sounds perfect!	VO_margaret.margaret_sys_0038
+086	I'd like nothing more than to talk with you, learn more about you, and become someone you can depend on even more in the future.	VO_margaret.margaret_sys_0008
+087	I like the sound of that quite a lot! For now, though, let's finish up our task and take back that Rainbow Cacao, shall we?	VO_elizabeth.elizabeth_sys_0007
+088	It really is a shame, though. This incident has gotten so out of hand, I'm sure all the cacao will just be hauled away by the court as soon as we bring it back.	VO_elizabeth.elizabeth_sys_0022
+089	I do so wish we could convince them to let some of it go. It has so much potential in so many regards.	VO_elizabeth.elizabeth_sys_0016
+090	...
+091	Lizzy? Can I ask a favor of you?	VO_margaret.margaret_sys_0002
+092	Oh, look! It's Caris! We caught up with her!
+093	Thought you could ditch your business partner and run off, did you? You're not getting away that easily!	VO_charis.charis_sys_0016
+094	Hmph! You sure about that? What if I were to do something like...this?!	VO_courtmage.courtmage_battle_0022
+095	Aah! Is that...?	VO_margaret.margaret_sys_0025
+096	Hey, no playin' dirty! Huh? Wait, this is Purple Cacao, isn't it?!	VO_charis.charis_battle_0021
+097	Be careful, Caris! When the beans impact the ground, they're splitting open, diffusing their scent!	VO_margaret.margaret_sys_0027
+098	Huh? Are you saying...?
+099	Oh, come on! Not monsters again! Isn't there anything else this purple junk is good for?!	VO_charis.charis_sys_0025
+100	Heh. Plenty, but nothing else quite as useful in the moment. Now be a good little girl and feed these poor dears, won't you? They seem absolutely ravenous!	VO_courtmage.courtmage_sys_0010
+101	Grrrraaaaarrrrgggghhhhh!	VO_Mwolf.Mwolf_battle_0003

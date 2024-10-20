@@ -1,0 +1,112 @@
+﻿001	Grrrrrrrrrrrrrrr!
+002	Hissssssssssssssss!
+003	Groogh!
+004	Hah! Did you see that?! How do you like my Engineer Soldier's beam attack?!	VO_adlai.adlai_battle_0016
+005	The corrupted beasts are scattering.	VO_emmer.emmer_sys_0024
+006	Looks like you've powered up the Soldier since we fought it, too.	VO_nimuru.nimuru_sys_0006
+007	Oh, yeah. The levels of magil are really concentrated around here. The Soldier is almost overpowered!	VO_adlai.adlai_sys_0004
+008	(I've fixed the Soldier to keep it from absorbing magil from Emmel, but its output is still crazy high... Where is it all coming from?)	VO_adlai.adlai_sys_0031
+009	Perhaps it has something to do with Sephiron?	VO_nimuru.nimuru_sys_0031
+010	It's possible that this "magil" is the same substance as Sephiron Particles.
+011	Sephiron...Particles?	VO_adlai.adlai_battle_1018
+012	They are a fundamental part of Spiritbonding. Supposedly, the village is full of them, although they are quite invisible to the naked eye.	VO_waginao-c.waginao-c_sys_0044
+013	Come to think of it, the Engineer Soldier has been working like a dream since I got here.	VO_adlai.adlai_sys_0031
+014	It's certainly something I'd like to investigate when we have the time.	VO_nimuru.nimuru_sys_0030
+015	But for now, our priority is helping Julia.	VO_waginao-c.waginao-c_sys_0004
+016	Hold on, Julia... We're coming!	VO_emmer.emmer_sys_0042
+017	So please... Please be all right!
+018	Still...
+019	What is it?	VO_adlai.adlai_sys_0001
+020	Our way forward isn't going to be easy.	VO_nimuru.nimuru_sys_0018
+021	Wh-what do you...?	VO_emmer.emmer_sys_0025
+022	Grrrrrrrrrrrrrrr!
+023	Aahh!
+024	A mass outbreak of corrupted beasts... If left unchecked, Sephiron will deteriorate to a brittle husk!	VO_nimuru.nimuru_battle_0022
+025	Don't worry, Nimul.	VO_emmer.emmer_chara_1010
+026	Ngh...	VO_emmer.emmer_battle_0019
+027	Emmel!	VO_nimuru.nimuru_sys_0027
+028	I-I'm fine. I can't afford to rest until we've saved Julia!	VO_emmer.emmer_sys_0042
+029	Holy hell... There are so many of them!	VO_adlai.adlai_sys_0027
+030	Don't panic. It's going to be all right.	VO_emmer.emmer_sys_0010
+031	With your Engineer Soldier, Adaleigh, and my powers of purification...
+032	Not to mention my brother's new technique... I know that we will find hope.
+033	Hope...
+034	Hell yeah! If we team up, we've got nothing to fear! Not even a swarm of those beasts will stand a chance against us!	VO_adlai.adlai_sys_0004
+035	Say no more. Let's go.	VO_nimuru.nimuru_sys_0004
+036	Graaawwwwrrrrrr!
+037	Huzzzzaaaaahhh!	VO_nimuru.nimuru_sys_0032
+038	(Hope... That's it!)
+039	(My hope...is to save Emmel from the twisted way of the world...)
+040	(To liberate her from the confines of this world tainted by sin. And I will! She will be free!)
+041	The history of this world has been warped countless times...
+042	And on each and every occasion, the world has been altered, and so met its end.
+043	That cannot be allowed to happen again. I must protect it.
+044	I will be the one to protect this world from those who would attempt to change it.
+045	Wh-why...?	VO_julia.julia_battle_0019
+046	Why? Haa...haaa... Why...would you...think that?
+047	How can you believe that...you can change the world...by hurting people...defiling the tree...corrupting the land...and casting us all into sin?!	VO_julia.julia_sys_0013
+048	...
+049	Nothing you are doing amounts to protecting the world at all! Can you not see how your actions contradict your very goal?!	VO_julia.julia_battle_0022
+050	There are no contradictions here.
+051	Sin is the foundation of this world. It must be left undisturbed.
+052	How can you possibly think that?!	VO_julia.julia_sys_0027
+053	I heard it from the source.
+054	Wh-what are you talking about?! The source? What—?	VO_julia.julia_sys_0025
+055	God.
+056	What?!	VO_julia.julia_sys_0026
+057	The one who made this world...or at least the present incarnation of it.
+058	I... I don't understand.
+059	...
+060	Nothing you are saying makes any sense.	VO_julia.julia_sys_0018
+061	Humankind has made every effort to survive, despite the weight of their sins upon their shoulders.
+062	Struggling, clawing, suffering our way through this cruel world...
+063	Yet despite it all, I will survive!	VO_julia.julia_sys_0042
+064	For the person I love, and for his beloved little sister!
+065	That. That is the sin of humankind.
+066	What...?
+067	Are you...going to kill me?	VO_julia.julia_sys_0027
+068	Taking life is not part of my objective here.
+069	How can you say that?! After all the blood you've shed... Did it mean nothing to you?!	VO_julia.julia_sys_0013
+070	You would unleash the Cursed Beast upon us, and yet you act now in mercy?!
+071	Do you know how many lives you have endangered? How many people will die at the hands of that creature?!
+072	I merely did what was necessary to liberate humankind from sin.
+073	Do our lives mean nothing to you?!	VO_julia.julia_battle_0022
+074	Julia!
+075	We're here to help!	VO_emmer.emmer_sys_0042
+076	L-Lady Emmel...!	VO_julia.julia_battle_0019
+077	Are you...? What am I saying? You're clearly injured. Emmel, would you treat her wounds?	VO_nimuru.nimuru_sys_0018
+078	Of course!	VO_emmer.emmer_sys_0004
+079	Lord Nimul, I... Oh... Lord...Nimul...
+080	So...this is that black knight you were talking about?	VO_adlai.adlai_sys_0001
+081	...
+082	That's right! He hurt Julia and attempted to unleash the Cursed Beast!	VO_emmer.emmer_sys_0004
+083	Who the hell are you?! Explain yourself!	VO_nimuru.nimuru_sys_0003
+084	From the crown rises the path that will lead us to the kingdom—Ngh...!	VO_nimuru.nimuru_battle_0004
+085	...
+086	What the...?!	VO_nimuru.nimuru_sys_0027
+087	Impossible. Spiritbonding doesn't work on him?!	VO_emmer.emmer_sys_0020
+088	Spiritbonding... The ancient art.
+089	No worries! My Engineer Soldier is on the job!	VO_adlai.adlai_battle_0004
+090	Ascend from the depths of the sea, oh shapeless one!
+091	What the hell?!	VO_adlai.adlai_battle_0022
+092	The beam attack...!	VO_emmer.emmer_sys_0021
+093	It was absorbed into the darkness...	VO_nimuru.nimuru_sys_0020
+094	Something as simple as the light of Alchemia cannot harm me.
+095	N-no way...!	VO_adlai.adlai_sys_0018
+096	Well, then... How about this?!	VO_nimuru.nimuru_battle_0001
+097	Huzzaaaaahh!	VO_nimuru.nimuru_sys_0032
+098	Nrgh!
+099	He recoiled!
+100	Looks like my new technique works on him after all.	VO_nimuru.nimuru_sys_0010
+101	What was that just now? Something that is neither Spiritbonding...nor magic?!
+102	What is it?!
+103	It's a new technique. I developed it myself.	VO_nimuru.nimuru_sys_0005
+104	I'm going to use it to make a new world order!
+105	A new technique...for a new way of the world. I see.
+106	Come forth, servants of the darkness!
+107	Wh-what's happening?!	VO_emmer.emmer_sys_0027
+108	Where the hell did they come from?!	VO_adlai.adlai_sys_0027
+109	Who are these people?!	VO_nimuru.nimuru_sys_0025
+110	Now, my servants... Go!
+111	...
+112	Here they come! Get ready!	VO_nimuru.nimuru_sys_0018

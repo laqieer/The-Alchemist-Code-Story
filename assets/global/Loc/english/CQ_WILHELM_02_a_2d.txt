@@ -1,0 +1,74 @@
+﻿001	Ugh, I'm wiped out. I am not looking forward to getting chewed out after all that training.	VO_magnus.magnus_sys_0016
+002	Listen up. You two are still in training. The next time you cause a problem, I'll throw the book at you!	VO_monzein.monzein_sys_0010
+003	You might even be stripped of your Paladin status. Don't forget that.
+004	And don't forget that if even one of you causes a problem, you both will be held responsible!
+005	I can't believe he went on for so long that everyone else chose their dorm rooms first, and we wound up as roommates.	VO_wilhelm.wilhelm_sys_0006
+006	Well, c'est la vie. Heh, looks like we're really going to get to know each other.	VO_wilhelm.wilhelm_sys_0007
+007	Good grief. Don't cause any problems for me, all right?	VO_magnus.magnus_sys_0001
+008	I didn't become a Paladin just to get drawn into your messes and get fired.	VO_magnus.magnus_sys_0030
+009	I'll do my best. I'll be in trouble if I get fired, too. After all that effort escaping and all...	VO_wilhelm.wilhelm_sys_0037
+010	Escaping?	VO_magnus.magnus_sys_0005
+011	Uh... Never mind that.	VO_wilhelm.wilhelm_sys_0039
+012	Huh?
+013	Hey, why did you become a Paladin?	VO_wilhelm.wilhelm_sys_0002
+014	That came out of nowhere.
+015	I didn't get a chance to ask you earlier. You said you'd tell me if I won that bet.	VO_wilhelm.wilhelm_sys_0001
+016	And since I saw through your little attempt to cheat, that means I win.	VO_wilhelm.wilhelm_sys_0007
+017	I never agreed to that. But fine. It's not like it's a big secret or anything.	VO_magnus.magnus_sys_0031
+018	The reason I became a Paladin is because I could do more Alchemy research if I joined the Holy Guard.	VO_magnus.magnus_sys_0007
+019	...
+020	What's wrong?	VO_magnus.magnus_sys_0005
+021	Nothing, just that it really wasn't a funny reason.	VO_wilhelm.wilhelm_sys_0031
+022	You thought it would be?	VO_magnus.magnus_sys_0022
+023	It's really just because you like Alchemy?	VO_wilhelm.wilhelm_sys_1020
+024	Yup, that's it.	VO_magnus.magnus_sys_0004
+025	...
+026	Alchemy is interesting. The fact that it's got limitless possibilities is exciting.	VO_magnus.magnus_sys_0008
+027	Huh. Well, I guess that's a good enough reason. But still...	VO_wilhelm.wilhelm_sys_0017
+028	What'll you get from researching Alchemy? Hasn't it been pretty well researched already? Seems kind of pointless to me.
+029	What'll you even get out of doing that?	VO_wilhelm.wilhelm_sys_0002
+030	Pointless? Hmph. Maybe you're right.	VO_magnus.magnus_sys_0031
+031	You might spend your life on it only to wind up with nothing.
+032	...
+033	Magnus?	VO_wilhelm.wilhelm_battle_1013
+034	But it'll still be my life. I'll get to live my life doing what I like even if it was pointless.	VO_magnus.magnus_event_1007
+035	...
+036	Well, what about you? Why did you become a Paladin?	VO_magnus.magnus_sys_0001
+037	I...
+038	My mom was a kind person.	VO_wilhelm.wilhelm_sys_0007
+039	We lived in the cursed country of Lustburg...
+040	In a country where women were generally valued above men, she was always kind, desperately loved me, and feared I might become a bug.	VO_wilhelm.wilhelm_sys_0008
+041	I felt that the pity at the heart of that desperation and kindness rendered it all empty, and became child who was unfilial and difficult.
+042	But as a person myself, I have to interact with other people in order to survive, right?	VO_wilhelm.wilhelm_battle_0019
+043	So I became a Paladin. It was the fastest way for someone like me born in that country to start interacting with other humans.
+044	That's it. Pretty boring, right? That's why I said it wasn't worth talking about. It just makes you sad.	VO_wilhelm.wilhelm_sys_0030
+045	It's all meaningless. Which is why I don't take anything seriously and do what I want. You have to have fun in the present.	VO_wilhelm.wilhelm_sys_0010
+046	Pointless? Hmph. Maybe you're right.	VO_magnus.magnus_sys_0031
+047	...
+048	But it'll still be my life. I'll get to live my life doing what I like even if it was pointless.	VO_magnus.magnus_event_1007
+049	...
+050	Man, I just had the worst dream. I should not have taken that nap.	VO_wilhelm.wilhelm_battle_0019
+051	Magnus is...not back yet.	VO_wilhelm.wilhelm_sys_0031
+052	Is he messing with the senior knights again? He's always telling me off about it, but he gets tired of pretending to be good after just a few days too.	VO_wilhelm.wilhelm_sys_0008
+053	That or he's in the research lab. He's gotten pretty interested in something recently that's got him all fired up.
+054	That aside, it's still pretty late for him. He usually returns just before lights out.	VO_wilhelm.wilhelm_sys_0001
+055	Now that I think about it, the knights he was messing with before were making a racket earlier.
+056	...
+057	(The library will be closed at this time. The only places open right now are the training grounds and the lab... He's probably in the lab.)
+058	(But if he's really in trouble with those knights, that'll be a real problem.)	VO_wilhelm.wilhelm_sys_1020
+059	Hmm...	VO_wilhelm.wilhelm_sys_0031
+060	Great, I was right. He's really getting into it with them.
+061	You're a cocky twerp. Don't get all puffed up just because they're calling you a research genius even though you're new.	VO_stknightm.stknightm_sys_0001
+062	Alchemic research is for captains. Anything you do is pointless.	VO_stknightm.stknightm_sys_0008
+063	How mean. Picking on your juniors just because you lost a little at cards isn't a good habit.	VO_magnus.magnus_sys_0011
+064	Besides, I'm the one that'll decide whether it's pointless or not. It's none of your business.	VO_magnus.magnus_sys_0017
+065	What you say doesn't matter. Research is the only reason why I joined the Holy Guard.
+066	...
+067	(What's up with him getting so mad over something that's probably meaningless?)	VO_wilhelm.wilhelm_battle_0019
+068	(Why is he...)
+069	Looks like you won't learn until you get hurt, so we'll just have to teach you a lesson right now.	VO_stknightm.stknightm_battle_0022
+070	Oh, you're all having fun without me. I wanna play, too.	VO_wilhelm.wilhelm_sys_0001
+071	Why are you here?!	VO_magnus.magnus_sys_0026
+072	If we're both going to get in trouble if just one of us gets in trouble, I might as well join in on the fun.	VO_wilhelm.wilhelm_sys_0007
+073	You really are a troublemaker, aren't you?	VO_magnus.magnus_sys_0030
+074	I'm going to take that as permission to do what I was going to do anyway.	VO_wilhelm.wilhelm_battle_0030

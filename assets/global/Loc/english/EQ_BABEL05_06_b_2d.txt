@@ -1,0 +1,159 @@
+﻿001	This isn't what I learned Alchemy for!	VO_stknightm.stknightm_sys_0020
+002	Enough already! Let's get out of here!
+003	Don't be a fool! If we fail this mission, we'll be the ones getting terminated!	VO_stknightm.stknightm_sys_0015
+004	N-no!
+005	The activation key for Slothstein was lost, but the Wratharis key, the key for this place, is still in our hands!	VO_stknightm.stknightm_sys_0017
+006	We should be able to bring down Magnus with the Demonic Soldiers!
+007	Then we can have him take all the blame! Their activation, the destruction of the ancient stone...	VO_stknightm.stknightm_sys_0007
+008	It was all his doing!
+009	I'm not a fan of that idea... Particularly the part about bringing me down.	VO_magnus.magnus_chara_1010
+010	Magnus!
+011	Just because you're having trouble taking me out, doesn't mean you get to blame all the rest of your troubles on me, you know?	VO_magnus.magnus_sys_0010
+012	To tell you the truth, though, it'd help me out a lot if you did.
+013	You...! What are you...?!
+014	There's a way out in that direction.	VO_magnus.magnus_sys_0012
+015	Get out of here, and go write up your reports.
+016	Make it clear that "It's all Magnus' fault," if you like.
+017	Haaa...haaa...haaa... You still alive?	VO_wilhelm.wilhelm_battle_0019
+018	Barely!	VO_albell.albell_sys_0018
+019	I'm out of ammo, and my gadgets are all busted up!
+020	...
+021	What?	VO_albell.albell_sys_0005
+022	I said, I'm losing face here.	VO_wilhelm.wilhelm_sys_0002
+023	...
+024	What are you talking about?	VO_albell.albell_sys_0003
+025	Meeting him will get you involved. Knowing too much will make you a target.	VO_wilhelm.wilhelm_sys_0030
+026	He's not worth all the trouble, you know. As far as company goes, he leaves a lot to be desired.
+027	Isn't there anyone who you would want to meet, regardless of what should happen?	VO_albell.albell_sys_0002
+028	...
+029	There is, isn't there?	VO_albell.albell_sys_0016
+030	Who, me?	VO_wilhelm.wilhelm_sys_0004
+031	Isn't that why you're so bullheaded in the first place?	VO_albell.albell_sys_0037
+032	Because you owe it to just such a person?
+033	All right. Yeah, there is someone.	VO_wilhelm.wilhelm_sys_0037
+034	I'm going to do as I please.	VO_albell.albell_sys_0016
+035	I will go to him, even if he doesn't want me to.
+036	What's—?!	VO_albell.albell_sys_0026
+037	Rrroooohh... Grraaahhh!	VO_Mmajin.Mmajin_battle_0021
+038	Demonic Soldiers! How are there so many left?!
+039	We've got nothing left to fight them with!	VO_albell.albell_sys_0021
+040	Could this place have been a factory for building Demonic Soldiers? If not...perhaps a depository for them.	VO_wilhelm.wilhelm_sys_0021
+041	Are you saying there could be even more of these things?!	VO_albell.albell_battle_0021
+042	Heh! This could get interesting.	VO_wilhelm.wilhelm_sys_0010
+043	Grroooooohhh!	VO_Mmajin.Mmajin_battle_0028_b
+044	No...! I don't want to—!	VO_albell.albell_battle_0024
+045	What's that?!
+046	The ceiling collapsed. I can't believe our luck. It blocked off their path.	VO_albell.albell_sys_0025
+047	Who the hell could've done this?	VO_wilhelm.wilhelm_sys_0025
+048	Are you all right?	VO_magnus.magnus_sys_0012
+049	Y-you...!	VO_wilhelm.wilhelm_sys_0025
+050	Who's there? I can't see anything.	VO_albell.albell_sys_0018
+051	Nobody special, here. Nobody you know.	VO_magnus.magnus_sys_0010
+052	Wh-what?
+053	Sorry to startle you.	VO_magnus.magnus_sys_0035
+054	I'll take care of things here. You should get yourselves out.
+055	What about you?!	VO_wilhelm.wilhelm_battle_0019
+056	I'll just be taking out the trash.	VO_magnus.magnus_sys_0037
+057	That man...is fighting. Just on the other side of this wall...	VO_albell.albell_sys_0018
+058	...
+059	We're leaving.	VO_wilhelm.wilhelm_sys_0012
+060	He's right there... Fighting... Alone.	VO_albell.albell_battle_0019
+061	Come on!	VO_wilhelm.wilhelm_sys_0012
+062	You know him, don't you? The one who spoke? Are you just going to leave him behind? Are you okay with that?
+063	Yep.	VO_wilhelm.wilhelm_sys_0037
+064	You...!
+065	You're lying.	VO_albell.albell_sys_0018
+066	Albea...
+067	He's... It's him, isn't it?
+068	That's none of your concern.	VO_wilhelm.wilhelm_sys_0013
+069	That man... He's my brother!
+070	Don't be—!	VO_wilhelm.wilhelm_sys_0025
+071	Magnus!	VO_albell.albell_event_1012
+072	Albea!
+073	I...! I don't remember much, but I do remember!	VO_albell.albell_sys_0018
+074	When I was little, you made a doll move for me, didn't you?!
+075	Dang it!	VO_wilhelm.wilhelm_sys_0021
+076	I was such a sloppy kid, but you'd clean up for me when I made a mess, wouldn't you?!	VO_albell.albell_sys_0019
+077	I don't remember everything, but I do remember!
+078	Magnus!
+079	Haa...haa...haa...	VO_magnus.magnus_battle_0020
+080	Magnus!!!
+081	Heh... Hahaha! None of that rings a bell. You must have me mistaken for somebody else.	VO_magnus.magnus_sys_0011
+082	There's no mistake! Let me fight with you!	VO_albell.albell_battle_0019
+083	This is my game to play.
+084	M-Mira! Please!	VO_albell.albell_battle_0021
+085	Albea...
+086	Stop him! Please! Stop my brother from...!	VO_albell.albell_sys_0018
+087	Albea, I...
+088	You can go through walls, can't you? Won't you do something? Please!	VO_albell.albell_sys_0019
+089	I...!
+090	Arghhh!
+091	Hey.
+092	You understand, don't you?	VO_magnus.magnus_sys_0012
+093	...
+094	I know you've been watching... Observing.	VO_magnus.magnus_sys_0007
+095	...
+096	You know who you should be protecting right now—and it isn't me!
+097	There you go again.
+098	How can you be smiling?
+099	I want you to see my hair! It's pink, just like yours! I've taken such good care of it!	VO_albell.albell_sys_0018
+100	Mira! Tell me that it's the same! Tell me that he and I have the same hair color!
+101	Yes... The very same.
+102	Urgh! Nngh... Argh!	VO_magnus.magnus_battle_0023
+103	Magnus! I've made us a home!	VO_albell.albell_battle_0025
+104	I've turned father's workshop into a real mechanic's repair shop!
+105	And Father... Father's... Father's dead!
+106	I'm all alone now!
+107	...
+108	So... I...	VO_albell.albell_sys_0019
+109	Please... Please, Magnus! Let me see you!
+110	...
+111	All I want is for you to live your life.	VO_magnus.magnus_battle_0020
+112	Magnus?!
+113	Will.	VO_magnus.magnus_sys_0012
+114	Yeah... I know.	VO_wilhelm.wilhelm_sys_0022
+115	I'm counting on you.	VO_magnus.magnus_sys_0041
+116	Just so you know, I don't really care for gambling.	VO_wilhelm.wilhelm_sys_0030
+117	Huh?	VO_magnus.magnus_sys_0005
+118	Watching you win it all and lose it all, all over again...
+119	That was what I loved the most.
+120	I won't let anything get in the way of your last big wager.
+121	Heh. Who knew I had such a good friend all along?	VO_magnus.magnus_sys_0033
+122	I just figure this friendship is worth all the trouble it causes me.	VO_wilhelm.wilhelm_sys_0038
+123	You're gonna make me blush.	VO_magnus.magnus_sys_0007
+124	So don't you lose, now.	VO_wilhelm.wilhelm_sys_0041
+125	Hahaha! You better not be praying!	VO_magnus.magnus_sys_0008
+126	You know I never lose!	VO_magnus.magnus_battle_0029
+127	...
+128	Magnus!
+129	I gave my little sister a present once.	VO_magnus.magnus_sys_0018
+130	Wh-what?	VO_albell.albell_sys_0025
+131	It was the first Alchemy I ever used as a Paladin.
+132	I imbued my uniform with it.
+133	That coat...?
+134	I hope you know that it came from the bottom of my heart.	VO_magnus.magnus_sys_0037
+135	Magnus! Magnus, wait!	VO_albell.albell_battle_0028
+136	You should forget about me.
+137	I'm nothing but a bundle of lies.
+138	Raaaaaaaaaaaaaaah!	VO_Mmajin.Mmajin_battle_0028_b
+139	Don't think for a second that I'm the type to sacrifice myself for others.	VO_magnus.magnus_sys_0030
+140	If your fate's already sealed, then there's only one thing you can do.
+141	Go all in.	VO_magnus.magnus_sys_0007
+142	I'm betting my life...
+143	...in one final burst to win it all!	VO_magnus.magnus_battle_0014
+144	No...!
+145	Magnus!
+146	Albea...
+147	Ahhhhhhhhhhhhhhhhhhhhhhh!	VO_albell.albell_sys_0028
+148	Magnus! Why?!	VO_albell.albell_battle_0027
+149	...
+150	...
+151	I was bluffing...
+152	Even though I was out of chips, I kept up the pretense of winning.
+153	With warped powers at my fingertips, I kept toeing the line that I was never meant to cross.
+154	My eyes were fixed on a broken clock...
+155	But the hands are finally moving again.
+156	Albea.
+157	You're the one who fixed it up.
+158	You even took over our rotten father's shop.
+159	I'm proud of you.

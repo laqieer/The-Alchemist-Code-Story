@@ -1,0 +1,53 @@
+﻿001	Nina, did you see where the scary people went after they grabbed the villagers?
+002	Yes!	VO_neena.neena_sys_0027
+003	There's no way they could've gotten very far. We're going after them!	VO_gerard.gerard_sys_0002
+004	The Blue Flame Guard?! What are they doing here?	VO_natalie.natalie_sys_0025
+005	We are looking for Vettel, Captain of the Scarlet Legion.	VO_knightm.knightm_sys_0001
+006	I'm here. What have you come here for?
+007	The Minister sent us here to support the Scarlet Legion. He is very concerned about the situation in this area.
+008	He believes that whatever is happening here is not just a matter that concerns Envylia and Wratharis, but has the potential to change the future of the entire world.
+009	In other words...he does not fully trust us yet.	VO_vetel.vetel_chara_1007
+010	It is more likely that he is simply attempting to do whatever he can to prevent war between the countries.	VO_knightm.knightm_sys_0030
+011	It is nothing personal. The Minister probably just remembered that as the only recognized knight order in Envylia, this business ought to have fallen under our purview from the beginning.
+012	We would be much obliged if you would allow us to lend a hand.
+013	Now then, we shall conduct a search of the area while you take the child back to the village. Soldiers, march!	VO_knightm.knightm_sys_0044
+014	My, my... They are certainly a well-trained bunch, aren't they? Very impressive.
+015	Yeah... I can't help but notice all the ways they are our superior in discipline and training. Could we really become a knight order on par with them?	VO_vetel.vetel_sys_0018
+016	No, I can't think like that. We will prove our worth by completing our mission and showing that we have what it takes to become a fully-fledged knight order.
+017	Our only priority must be to stay true to our iron will. We can work out the nitty gritty details later.	VO_gerard.gerard_sys_0004
+018	Good, you've got your head on straight. Don't forget, there's still plenty for us to do here. Shall we go?	VO_natalie.natalie_sys_0004
+019	Um... I-if it is possible, could I go with you...?	VO_neena.neena_sys_0027
+020	No. Go home. You'll just get in the way.	VO_gerard.gerard_sys_0012
+021	Heh. Nina, don't be fooled by his tough exterior. He's really just worried about you.	VO_natalie.natalie_sys_0007
+022	You... How dare you!	VO_gerard.gerard_sys_0027
+023	Um...	VO_neena.neena_sys_0027
+024	What?	VO_gerard.gerard_sys_0006
+025	Urk! Um... Th-thank you.	VO_neena.neena_sys_0025
+026	...
+027	A-and I'm really sorry about what happened to your father. I'm sorry that he died protecting our people...	VO_neena.neena_sys_0027
+028	But, um... I-I think th-that it would be good for us to, um, work harder to understand the humans.	VO_neena.neena_chara_1002
+029	I... I totally understand how you feel. One of my dearest friends was killed by a human.
+030	What are you saying? Are you trying to pick a fight or something?	VO_gerard.gerard_sys_0016
+031	Gerald!
+032	N-no, that's not why I said it!	VO_neena.neena_sys_0021
+033	I have come to think that hatred only breeds more hatred. I-I'm trying to break that cycle of mutual destruction.
+034	M-maybe if the two of us can learn to forgive each other... Maybe the day when therians and humans can live and even laugh together is not too far off.
+035	If I have the strength to forgive and break the cycle of hate, I think...I could become like the sun; one who can bring joy to the people of this world.
+036	This kid... Her words are almost the same as what Vettel once said.	VO_natalie.natalie_sys_1034
+037	...
+038	Not all therians are as close-minded about the humans as the village chief. I mean...not everyone agrees with me, either...	VO_neena.neena_sys_0029
+039	B-but...I was really relieved when you all came, a-and I really hope that I can be of use to you!
+040	...
+041	I know it must be strange coming from someone like me who can't really do anything, but...	VO_neena.neena_chara_1002
+042	Uh, hello? What are you all just standing around for? The kidnappers and the knights that just passed through here are already starting to go at each other.	VO_ren.ren_sys_0006
+043	The Blue Flame Guard really works fast, huh?	VO_vetel.vetel_sys_0046
+044	Let's go. If we wait around any longer, the battle will be over before we even get there. Nina, do not let yourself get separated from us.	VO_gerard.gerard_sys_0002
+045	U-understood!	VO_neena.neena_battle_1028
+046	This is...much more intense than I expected.	VO_vetel.vetel_sys_0024
+047	Yeah... We might actually be in over our heads.	VO_natalie.natalie_sys_0011
+048	Hey, come on. Look closely... We are more needed here than you seem to think.	VO_gerard.gerard_sys_0039
+049	Oh, Sir Gerald. Perceptive as always.	VO_ren.ren_sys_0044
+050	It's not a trick that I will fall for more than once. Legion! Prepare yourselves for battle!	VO_gerard.gerard_sys_0010
+051	What...? We've been surrounded?! No...!	VO_knightm.knightm_sys_0025
+052	Vettel, let's go! It's time for the Scarlet Legion to show the world what we are made of!	VO_gerard.gerard_sys_0002
+053	Indeed. Scarlet Legion! Forward!

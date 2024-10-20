@@ -1,0 +1,58 @@
+﻿001	I cannot thank you enough.	VO_mary.mary_sys_0001
+002	I am Marie. A member of the Gluttony Foss gentility.	VO_mary.mary_favorite_0001
+003	...
+004	Ah, uh...I'm Mocca. This is Tina. We're from Saga.	VO_moca.moca_sys_0004
+005	I see! No wonder your attire is so different from that of the people I've seen in the desert.	VO_mary.mary_sys_0045
+006	I simply must reward you with something to express my gratitude.	VO_mary.mary_sys_0034
+007	...
+008	Don't trouble yourself. We only did what was natural. We didn't do it to get—	VO_moca.moca_sys_0039
+009	Oh, no. That wouldn't do! You have done me a great service, so please do let me repay you.	VO_mary.mary_sys_0014
+010	I'll lose my sense of nobility if I don't!	VO_mary.mary_favorite_0002
+011	Can we ask you something?	VO_tina.tina_sys_0001
+012	On our way here, we saw many fallen travelers from Gluttony Foss.
+013	What's happening in that country?
+014	Gluttony Foss is...having some domestic conflicts at present.
+015	Domestic conflicts? You mean like a coup d'état?	VO_moca.moca_sys_0025
+016	Yes. The failed conquest of Saga has brought the discontent of our people to a head.	VO_mary.mary_sys_0005
+017	Chaos reigns in the capital, with riotous masses clashing against the military dispatched to suppress them. Casualties are high on both sides.
+018	And the nobility are abandoning their country and people?	VO_tina.tina_sys_0016
+019	Shamefully, yes. Most of the nobility has already lost any influence they once had over the country.	VO_mary.mary_sys_0039
+020	None but the Ceclidis family, the king's direct line, can fix this.
+021	Then that whole Saga invasion was also...?	VO_moca.moca_sys_0021
+022	I presume so. I understand how you, the people of Saga, must feel.
+023	Though I may be powerless, I am still a noble of Gluttony Foss, after all.
+024	Your anger is mine to bear.
+025	I owe you my life. If you wish it, I will gladly place it in your hands.
+026	Ah, no, we don't—	VO_moca.moca_sys_0039
+027	However, I would ask that you please allow me time to accomplish my mission first.	VO_mary.mary_sys_0001
+028	Mission?	VO_moca.moca_chara_1009
+029	I came here in search of the people of my ancient lineage.	VO_mary.mary_sys_0005
+030	An ancient tribe, the protectors of the great tree, the Sephira.
+031	Y-you...!
+032	You're one of the Sephira?!	VO_moca.moca_sys_0027
+033	So this is Bandit's Nest.	VO_logi-b.logi-b_sys_0044
+034	Oh, come on! Do you have any idea what I had to do to get this?! Can't you give it a better price?!	VO_thiefm.thiefm_sys_0002
+035	Hell no! Look at this scratch, you idiot!	VO_stknightm.stknightm_sys_0015
+036	Works of art go way down in value if you get them scratched up!
+037	Hey, buddy! Wanna play a game? Wanna try your luck?	VO_thiefm.thiefm_sys_0001
+038	This place is worse than I thought.	VO_knightm.knightm_sys_0030
+039	Yeah, but it might be the perfect place to gather information.	VO_logi-b.logi-b_sys_0004
+040	We'll see what we can find out.
+041	Please do, but be careful. Try not to cause trouble with the locals.	VO_logi-b.logi-b_sys_0041
+042	We won't be able to ask anything if we end up starting a fight.
+043	Understood, Captain. We'll meet you in the square in an hour.
+044	All right.	VO_logi-b.logi-b_sys_0004
+045	You seem accustomed to this sort of thing. I didn't think the military trained their soldiers to conceal themselves in a crowd.	VO_kamui.kamui_sys_0031
+046	Well, we've had to move around a lot since leaving Envylia.	VO_logi-b.logi-b_sys_0011
+047	I suppose we have acquired some stealth skills.
+048	I see—but you're still naive.	VO_kamui.kamui_sys_0044
+049	Huh?	VO_logi-b.logi-b_sys_0005
+050	I believe I told you that it is sometimes necessary to take risks.	VO_kamui.kamui_sys_0016
+051	Isidore...?	VO_logi-b.logi-b_sys_0025
+052	The hell, bro?! You just bumped into me on purpose, didn't you?!	VO_thiefm.thiefm_battle_0019
+053	Isidore! What are you doing?!	VO_logi-b.logi-b_sys_0027
+054	What? You got somethin' to say?	VO_thiefm.thiefm_sys_0006
+055	Allow me to apologize. He's had a long trip. We're all very tired.	VO_logi-b.logi-b_sys_0036
+056	What the—? Agh!	VO_thiefm.thiefm_battle_0022
+057	I think you're the one who owes us an apology.	VO_kamui.kamui_sys_0010
+058	You son of a—! I'm gonna knock your teeth in!	VO_thiefm.thiefm_sys_0042

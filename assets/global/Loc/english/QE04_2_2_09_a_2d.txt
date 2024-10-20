@@ -1,0 +1,41 @@
+﻿001	Wind Shaman...it's been a while.	VO_gaiorgeos.gaiorgeos_sys_0001
+002	What are you doing here, Georgios?	VO_tina.tina_sys_0001
+003	I paid a visit to Voda in order to coax the whereabouts of Beelzebub out of her. Unfortunately, she wasn't home.	VO_gaiorgeos.gaiorgeos_sys_0004
+004	So I came to ask Fuu.
+005	I'd like to ask the same of you. What are you doing here? This isn't your faction. Are you here with that Shaman from the Fuu faction?	VO_gaiorgeos.gaiorgeos_sys_0031
+006	That's got nothing to do with you.	VO_tina.tina_sys_0010
+007	Tina!
+008	Tina! Calm down!	VO_moca.moca_sys_0001
+009	Heheh. Just as I expected. I am truly delighted to meet you again.	VO_gaiorgeos.gaiorgeos_sys_0007
+010	They're after the Sacred Stone. It appears they've come to visit Fuu.	VO_tina.tina_battle_1016
+011	The Sacred Stone! Fuu knows nothing about it. I'm sorry, but you'll have to leave this place!	VO_moca.moca_battle_0019
+012	I'm certain he knows something about its whereabouts. My information comes from a reliable source.	VO_gaiorgeos.gaiorgeos_sys_0039
+013	A...reliable source?	VO_moca.moca_sys_0012
+014	Yes...from the Earth Sprite Tehre!	VO_gaiorgeos.gaiorgeos_sys_0004
+015	...?! Why would Tehre give information to the Gluttony army?!	VO_tina.tina_sys_1050
+016	Oh? Perhaps that boy has formed an alliance with the Gluttony army.	VO_voda.voda_sys_0044
+017	Voda!
+018	Oh...so you're the Water Sprite Voda!	VO_gaiorgeos.gaiorgeos_sys_0005
+019	What good fortune to encounter you here! Now, how about you tell me the location of the Sacred Stone?	VO_gaiorgeos.gaiorgeos_sys_0010
+020	Heheh. I have nothing to say to a youngster like you. You'd best gracefully take your leave of this place.	VO_voda.voda_sys_0007
+021	Unfortunately, I wouldn't have come all this way here if I intended to gracefully take my leave...take that!	VO_gaiorgeos.gaiorgeos_sys_0040
+022	Heheh. You wear your thirst for blood on your sleeve. With such obvious moves, there's no way you can kill me. Hah!	VO_voda.voda_sys_0008
+023	Whaaat?! I'm impressed, Voda.	VO_gaiorgeos.gaiorgeos_sys_0043
+024	Tell me one thing: how are you connected with Tehre?	VO_voda.voda_chara_1004
+025	That has nothing to do with our current battle. If you don't focus, you may end up paying dearly for it.	VO_gaiorgeos.gaiorgeos_sys_0002
+026	But it has everything to do with this.	VO_voda.voda_sys_0010
+027	That boy is connected with the lot of you. Whatever the reason, it changes my motivation for this conflict.
+028	I have only one thing to say to you: Tehre is an invaluable ally to us.	VO_gaiorgeos.gaiorgeos_sys_0009
+029	Honestly. That little brat.	VO_voda.voda_sys_0017
+030	?!	VO_gaiorgeos.gaiorgeos_sys_0025
+031	Aghhhh!!!	VO_gaiorgeos.gaiorgeos_battle_0025
+032	Wow! She took out Georgios with a single blow! This is the power...of the Sprite Trio!	VO_tina.tina_sys_0009
+033	General Georgios!	VO_gluttony-y.gluttony-y_sys_0042
+034	I haven't got time to waste on you. There's a brat out there who needs a good lecturing from me.	VO_voda.voda_sys_0030
+035	...! He's not finished yet! Voda! Behind you!	VO_lizbeth.lizbeth_chara_1007
+036	?!	VO_voda.voda_sys_0026
+037	Heheheh! You make me happy, Voda! How powerful you are, even without your Ouija!	VO_gaiorgeos.gaiorgeos_sys_0008
+038	However, you underestimated me...and that is your downfall. Farewell!	VO_gaiorgeos.gaiorgeos_battle_0015
+039	Noooo!!!	VO_tina.tina_battle_0022
+040	Agh! Who are you?!	VO_gaiorgeos.gaiorgeos_battle_0019
+041	I am the Fire Sprite Fuu. If you think you can prance about this land doing as you please, lad, you're mistaken!	VO_hoo.hoo_sys_0010

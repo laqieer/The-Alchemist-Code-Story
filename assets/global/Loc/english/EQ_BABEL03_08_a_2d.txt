@@ -1,0 +1,62 @@
+﻿001	So you are telling me nobody knows where the Sephira have gone?	VO_lasiuba.lasiuba_sys_0005
+002	Exactly. They simply disappeared without a trace.	VO_knightm.knightm_sys_0004
+003	Someone must be sheltering them. Any information on that?	VO_lasiuba.lasiuba_sys_0022
+004	No.	VO_knightm.knightm_sys_0030
+005	Then you are of no use to me. Kill him, Zofia.	VO_lasiuba.lasiuba_sys_0045
+006	Work! Clean up!	VO_zophy.zophy_battle_0030
+007	Pity. If he had more information... Well, no matter. I'll just have to scour the entire desert.	VO_lasiuba.lasiuba_sys_0006
+008	I suppose this is as good a time as any to officially begin the campaign. Zofia, let's go.	VO_lasiuba.lasiuba_sys_0031
+009	Kay.	VO_zophy.zophy_sys_0004
+010	Nefertiti! Are you here?!	VO_balt.balt_battle_0019
+011	Balt. My, what an unexpected delight to see you here. Is everything all right?	VO_neferty.neferty_sys_0006
+012	Where's Carla?! She hasn't returned since you had her come here! What have you done to her?!	VO_balt.balt_sys_0003
+013	Please, calm yourself. I can understand why you might be worried, but she should be just fine.	VO_neferty.neferty_sys_0001
+014	So you do know what's happened to her! You nobles never change, always hiding things from the people of this desert!	VO_balt.balt_sys_0016
+015	I'll say it again. Please calm down. I know nothing.	VO_neferty.neferty_sys_0030
+016	What did you do with her?! I already know that there's no changing the way you nobles only think of yourselves.	VO_balt.balt_sys_0017
+017	Just keep Carla out of your schemes! Hawk entrusted her to me! I will not allow any harm to come to her!
+018	We all have our own ideas on how to help the desert. We aren't as self-centered as you think.	VO_neferty.neferty_battle_0019
+019	Then why did you not respond to Hawk when he needed you the most?!	VO_balt.balt_sys_0012
+020	......
+021	Dang it!	VO_balt.balt_battle_0019
+022	Balt. I envy that you fight for those you wish to protect.	VO_neferty.neferty_sys_0001
+023	Are you willing to talk?	VO_balt.balt_sys_0022
+024	It's not that. I was simply reflecting on how some share their burdens, while others shoulder them alone.	VO_neferty.neferty_sys_0030
+025	To protect the entirety of the desert, we need all of its inhabitants to work toward the same goal. Unfortunately, there are too many desires and needs among the people.
+026	So each individual must fight in their own way for their own justice. That is all I can say.
+027	...!
+028	......
+029	You! Do you know where Carla is?!	VO_balt.balt_sys_0002
+030	Wha—?! I know nothing. Nothing, I say!	VO_rameses.rameses_sys_0012
+031	You do know, don't you? Please, I have to protect her!	VO_balt.balt_sys_0041
+032	I said I don't know!	VO_rameses.rameses_sys_0013
+033	Tch! You and Nefertiti both, what are you hiding?!	VO_balt.balt_sys_0016
+034	I have someone I wish to protect... That's all I want to do! You nobles are always...!
+035	You keep so much from us, and yet you do nothing with what you hold back. I will never understand you!	VO_balt.balt_battle_0019
+036	What do you know of my sister?! You have no idea what she has to endure!	VO_rameses.rameses_sys_0015
+037	She is kind. People may not understand or see it, but she thinks of the desert and the well-being of its people more than anybody else!	VO_rameses.rameses_sys_0018
+038	Then why can you not understand how I feel?! That I would do anything for Carla!	VO_balt.balt_sys_0013
+039	...!
+040	I made a promise to a friend, and...I will not allow myself to lose another friend!	VO_balt.balt_battle_0019
+041	I have to be there for Carla! I swore to myself to protect her!
+042	Then...come with me.	VO_rameses.rameses_sys_0003
+043	What?	VO_balt.balt_sys_0025
+044	To tell you honestly, I find you all so unpleasant. You wail and fuss without knowing all the facts.	VO_rameses.rameses_sys_0016
+045	And yet, I too wish to be there for my sister, so...I may understand how you feel...slightly.
+046	I'll take you to Carla.
+047	Thank you, Ramses!	VO_balt.balt_sys_0020
+048	Walk. That way.	VO_zophy.zophy_sys_0004
+049	......
+050	Hm...mnn. Wh-where...? Where am I? Nefertiti summoned me and—	VO_karla.karla_sys_0018
+051	Carla! Thank the gods you're okay!	VO_balt.balt_sys_0020
+052	Balt! Ramses?! What's going on?	VO_karla.karla_sys_0025
+053	There she is. Seize her.	VO_stknightm.stknightm_sys_0001
+054	...?!
+055	What the—?! What do you want?! Whoa!	VO_karla.karla_sys_0027
+056	I won't let you take her! What happened to the guards outside?!	VO_balt.balt_battle_0004
+057	It is the height of folly to think we can be stopped by mere guards. If you get in our way, you will share their fate.	VO_stknightm.stknightm_sys_0010
+058	Were they tailing us?! I was too careless!	VO_rameses.rameses_sys_0021
+059	Take the girl. Kill the rest.	VO_stknightm.stknightm_sys_0001
+060	What are you—?! What do you want?!	VO_karla.karla_sys_0025
+061	Go!	VO_stknightm.stknightm_battle_0017
+062	You'll have to get through me first!	VO_balt.balt_battle_0007

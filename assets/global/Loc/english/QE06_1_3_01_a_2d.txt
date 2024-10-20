@@ -1,0 +1,43 @@
+﻿001	Why?! Why did you let it get away?! We could have defeated the Demon Paragon here and now!	VO_amane.amane_battle_0022
+002	Calm down, Amane.	VO_celis.celis_sys_0030
+003	We wouldn't have been able to kill it.	VO_ugachi.ugachi_sys_0004
+004	What do you mean? Were we not winning?
+005	We were. We inflicted mortal wounds over and over again.	VO_celis.celis_sys_0016
+006	And yet, we could not kill it.	VO_ugachi.ugachi_sys_0042
+007	Huh...?
+008	Weird, isn't it? It had nothing to do with toughness or vitality. It just can't be killed for some reason.	VO_tanosuke.tanosuke_sys_0031
+009	I'm not sure I understand.	VO_amane.amane_sys_0025
+010	Thinking in circles isn't going to solve this. We were exhausted, and so we were lucky it decided to leave.
+011	It will come for the castle again. That's when we'll settle this.	VO_ugachi.ugachi_sys_0037
+012	It also mentioned some very curious things. We will have a talk later, Celis.	VO_ugachi.ugachi_sys_0001
+013	Yes, I suppose we will.	VO_celis.celis_sys_0004
+014	We also need to discuss countermeasures for the Demon Paragon. If it is alive, then we can kill it. There must be a way.
+015	For now, let us go back to base and reorganize. It is about time for a meal, anyway.	VO_celis.celis_sys_0001
+016	But first, we'll need to dispose of the remaining enemy forces in the castle town. We can't allow any more people to get hurt.
+017	Indeed.
+018	Can't be...killed?	VO_azami.azami_sys_0025
+019	That's impossible! I...!	VO_azami.azami_sys_0021
+020	Azami.	VO_amane.amane_favorite_0005
+021	...
+022	What's the matter, Amane?	VO_tanosuke.tanosuke_sys_0001
+023	No, it's... It's nothing.	VO_amane.amane_sys_0037
+024	...
+025	Besides, it's the humans who tyrannically wielded their ideologies over us first.	VO_ogre.ogre_battle_0002
+026	Captain Tanosuke. What exactly are demons?	VO_amane.amane_sys_0001
+027	What are you saying all of a sudden?	VO_tanosuke.tanosuke_sys_0006
+028	I always thought of demons as simple monsters that hungered for human flesh. But the Hidden Ogres and Demon Paragon were not at all like that.
+029	They said it was for Wadatsumi's peace. I mean, of course I'm against letting demons take over this country, but...	VO_amane.amane_sys_0031
+030	It said...that it was humans that wielded their ideologies against them first.
+031	Amane.
+032	Do they hate humans the same way Azami hates them?
+033	Demons must be eradicated.	VO_amane.amane_sys_0027
+034	But I... I don't know how to put this...
+035	I know what you're trying to say, but there are no answers to the question on your mind.
+036	You're not really good at thinking in the first place.	VO_tanosuke.tanosuke_sys_0010
+037	But I'm serious about—!	VO_amane.amane_sys_0016
+038	Let's go home. That's all we can do for now.	VO_tanosuke.tanosuke_sys_0005
+039	I...suppose so.	VO_amane.amane_sys_0037
+040	There is one among you who uses a strange art, am I correct?	VO_ogre.ogre_battle_0028_a
+041	You were the one!	VO_ogre.ogre_battle_0001
+042	...
+043	What does it all mean?	VO_amane.amane_sys_0031

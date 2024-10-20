@@ -1,0 +1,48 @@
+﻿001	Asena...will fall at the hands of Georgios? That must be prevented at all costs.	VO_voda.voda_sys_0020
+002	I'll head immediately to Asena! Mocca, you come with...!	VO_tina.tina_battle_1016
+003	Wait, Tina.	VO_moca.moca_sys_0001
+004	It's not a good idea to let your emotions get the better of you. There's no guarantee that Georgios will act immediately.
+005	I...I know that! But...we cannot afford to lose Asena! Is there...is there no other way?!	VO_tina.tina_battle_0019
+006	First, we should save that village that has been attacked, then we should head to Tehre. I believe that would be the most efficient way to protect Asena.	VO_moca.moca_sys_0031
+007	We don't have time to think about efficiency!	VO_tina.tina_sys_0012
+008	Georgios could act at any time. So our top priority is to make the Sprite Trio Discourse a reality and quickly restore the Wind Matter.	VO_moca.moca_sys_0039
+009	I know...but...argh...isn't there something else I can do?!	VO_tina.tina_battle_1016
+010	...Tina.	VO_moca.moca_sys_0030
+011	...?! Whuff...arff...yuff...duffing?!	VO_tina.tina_sys_1050
+012	What are you doing?! Now isn't the time to be playing around and pinching my cheeks!	VO_tina.tina_sys_0029
+013	Have you calmed down? I understand why you're impatient. I also understand that we don't have time.	VO_moca.moca_sys_0001
+014	That's why we must think calmly. We are currently shouldering the future of Saga. We cannot let temporary emotions get the better of us.
+015	Yes...you're right. I'm okay now. Thank you for always helping me, Mocca...	VO_tina.tina_sys_0016
+016	Let's go over what we need to do!	VO_tina.tina_battle_1015
+017	Right now, it is unlikely that Georgios is headed to Asena.	VO_moca.moca_sys_0037
+018	After he raided the Fuu village, he withdrew.
+019	Right...	VO_hoo.hoo_sys_0045
+020	Given that their base appears to be Port Nahema, even if they had made their way immediately, we still have time.
+021	Hmm...	VO_voda.voda_sys_0031
+022	In that case, it may be most efficient to make your way to Tehre as a messenger while simultaneously surveying the movements of the Gluttony army.
+023	Isn't there a possibility that, in the meantime, Georgios will be making his way to Asena?	VO_tina.tina_chara_1005
+024	In such a case, leave it to me.	VO_voda.voda_sys_0010
+025	I swear on my honor as one of the Sprite Trio that I will stop him. I will remain here and remain on the alert.
+026	Voda...! Thank you!	VO_tina.tina_sys_0034
+027	I haven't seen the vision myself, so I cannot judge your feelings, Tina.	VO_moca.moca_battle_0019
+028	But that's all the more reason why I want to fight by your side! In order to prevent that future, we must do everything we can right now.
+029	Yes! Well then, let's first head to the village that asked Voda for help. Let's save as many people as we can!	VO_tina.tina_sys_0037
+030	I'll be depending on you. With my power now devoted to managing the Matter, I feel encouraged by your presence.	VO_voda.voda_sys_0041
+031	However, I swear that my heart is with you all!
+032	Well then, I will return the Matter first and prepare the letter of summoning for the discourse. I'll leave the rest to you all.	VO_hoo.hoo_sys_0005
+033	Tina! I know you might feel anxious, but...you can rely on me more! I'll help you with all my strength!	VO_lizbeth.lizbeth_sys_2048
+034	Lisbeth...thank you. I'm sorry for involving you even though you're not a citizen of Saga.	VO_tina.tina_sys_0007
+035	Don’t worry about it!	VO_lizbeth.lizbeth_event_1002
+036	I still have the matter of Lustburg's curse to deal with. Besides, I can't just stand around and do nothing while people are suffering in front of my eyes!
+037	I'll leave this to you. Tina...I'm sure everyone here right now feels the same. It's all for the future of Saga.	VO_voda.voda_sys_0007
+038	Yes! I leave now, Voda!	VO_tina.tina_sys_0005
+039	Well then, let's hurry to the village! Both of you, keep your guard up.	VO_moca.moca_sys_0016
+040	Glurrrrrppp!!!	VO_jam.jam_battle_0026
+041	Wow! What numbers...! We need to hurry to the village!	VO_lizbeth.lizbeth_battle_1017
+042	The top priority isn't to destroy them, but to reach the village!	VO_moca.moca_battle_0019
+043	If we calmly deal with them, there shouldn't be any problem! Don't be misled by their numbers!
+044	All right! Let's hurry! We need to save as many people as possible!	VO_lizbeth.lizbeth_sys_0004
+045	You're right. I...we need to protect the people of Saga. Now isn't the time to be rushing into matters alone!	VO_tina.tina_sys_0038
+046	Everyone, thank you! I'm going to rely on your strength!	VO_tina.tina_sys_0033
+047	Tina...!
+048	I...need to save all of Saga, no matter what the future holds...I will change it all! After all, I'm not alone!	VO_tina.tina_chara_1006

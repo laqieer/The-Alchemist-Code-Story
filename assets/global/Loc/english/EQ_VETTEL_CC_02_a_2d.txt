@@ -1,0 +1,61 @@
+﻿001	Hey, did you finish changing yet?	VO_natalie.natalie_chara_1002
+002	It's a little tight... I'm not used to this kind of thing. What do you think? Does it look weird on me?
+003	Not at all! You look wonderful! Dignified and elegant! I can hardly find the words for just how good this looks on you!	VO_chloe.chloe_sys_0024
+004	You look cool. Super amazingly incredibly cool!	VO_victor.victor_sys_0004
+005	That's a relief. Guess I better get moving then...	VO_vetel.vetel_sys_0007
+006	Excuse me! I have a message!	VO_knightm.knightm_sys_0003
+007	I-I'm sorry! I should've knocked...
+008	Please, it's no trouble. Let me hear the message.	VO_vetel.vetel_event_1015
+009	Yes, sir! We have excavated what appears to be an ancient ruin near the border!
+010	I see... That'll need to be reported to the Holy Order.	VO_vetel.vetel_sys_0031
+011	I was about to pay them a visit, anyway. I'll pass on the message.
+012	Chloe will also be joining as one of the King's guards, right?	VO_natalie.natalie_sys_0002
+013	Yes. The Blue Flame Guard needs to remain in Envylia to rebuild while borders are closed.	VO_chloe.chloe_sys_0004
+014	As leader of the Crown's Guard, I will accompany the king on their behalf while he carries out his business in Northern Pride.
+015	Being the King's guard is no small honor. I'm counting on you.	VO_vetel.vetel_sys_0004
+016	Leave it to me, Captain!
+017	Guess I should get going, too. I'll come back here as soon as I finish informing the Holy Order about the ruins.
+018	You better come straight home, no distractions! Promise me!	VO_natalie.natalie_sys_0007
+019	I'm not a child...	VO_vetel.vetel_sys_0030
+020	Well then, I will be waiting in this area. Please give a shout if you need something.
+021	Hm.
+022	I'll be back soon.
+023	Ah! One moment, Captain Vettel!	VO_chloe.chloe_sys_0002
+024	You forgot this!
+025	It's the brooch you got from Natalie.	VO_chloe.chloe_sys_0007
+026	Ah, shoot. I was planning to put it on last! I totally forgot.
+027	Sorry for the trouble.	VO_vetel.vetel_sys_0035
+028	Not at all. Get back soon!
+029	The Scarlet Flame Guard has managed to subdue the Taurus that have been appearing across Envylia and beyond.
+030	Minor conflicts and troubles aside, Envylia is experiencing a period of relative peace and tranquility.	VO_vetel.vetel_sys_0016
+031	The Lion Monarch's Charge has left a scar on this world, and Envylia has not escaped that.
+032	But I consider myself lucky that so many splendid Envylian knights have made it through alive.
+033	The Scarlet Flame Guard especially has been a great help in maintaining the peace and the reconstruction efforts.
+034	I see... But was Envylia not one of the countries that incurred the greatest damage in the last war?	VO_stknightm.stknightm_sys_0004
+035	I heard the Blue Flame Guard especially suffered great losses. Can the Scarlet Flame Guard truly shoulder both of their duties? Is it not too much?
+036	...It is a difficult situation, true. But we cannot sit and lick our wounds while people are still suffering from the aftershocks of war.	VO_vetel.vetel_sys_0042
+037	For now, we simply have to support each other by filling in where the Blue Flame Guard cannot. It is our responsibility to do all that we can to protect the happiness of the people.
+038	I see... I believe I've got a grasp of the situation now. Thank you for delivering your report.	VO_stknightm.stknightm_sys_0045
+039	We'd also like to formally extend our gratitude to Envylia for sending Bud and Victor to help us in Saga.
+040	I hope we can continue to cooperate to promote peace across all of Babel. I suppose I should let you get back to—
+041	I'm sorry to interrupt, but there is still one thing left to report. My knights informed me that ruins were discovered near the borders.	VO_vetel.vetel_sys_0035
+042	Ruins, you say?	VO_stknightm.stknightm_sys_0005
+043	Indeed. They appear to be quite old. We don't know what we may find inside, but we'd like to start conducting an investigation of it as soon as possible.	VO_vetel.vetel_chara_1007
+044	Hm. The Holy Order will send one of our own to conduct an investigation first.
+045	Please refrain from carrying out your own investigation until we give you the go ahead. Old ruins are often rife with alchemy and other such things that are hazardous to the average fellow.	VO_stknightm.stknightm_sys_0031
+046	We'd also like to inspect it while it's still in pristine condition. We appreciate your understanding on this matter.
+047	You did well in there.
+048	Phew. That took a while... My shoulders are all stiff.	VO_vetel.vetel_sys_0030
+049	I shouldn't say this as the Captain, but I feel pretty awkward in formal situations like that.	VO_vetel.vetel_sys_0016
+050	Haha, but you performed well. I am more concerned about what the Holy Cleric said... Perhaps we have been relying too much upon the Scarlet Flame Guard. Are you truly getting enough rest?
+051	The Blue Flame Guard is on the road to recovery, but we may yet need to lean heavily on the Crown's Guard till then.
+052	Unreasonable or not, I fear that this country needs you to lend us your knights a little longer.
+053	Please leave it to us. I'd also like to remind you that the knight who is escorting you, Chloe, is very capable as well.	VO_vetel.vetel_sys_0038
+054	You can call on the two of us any time.
+055	Hm. I suppose I should go find her. I will see you again, Vettel.
+056	...
+057	...The sooner I get back, the sooner I can help lighten everyone's load.	VO_vetel.vetel_sys_0004
+058	Now I think of it though, those ruins were supposed to be somewhere in this area. It shouldn't hurt to take a peek.
+059	This place... It's closer to the village than I thought.	VO_vetel.vetel_sys_0031
+060	Well, I did hear the entrance was discovered by a villager who was scavenging for materials to help with the restoration efforts...
+061	Hm?	VO_vetel.vetel_battle_0020

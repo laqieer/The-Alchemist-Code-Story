@@ -1,0 +1,118 @@
+﻿001	This concludes my report.
+002	...
+003	What is it?	VO_glanz.glanz_sys_0006
+004	It seems this noble in question had been raiding several ruins.	VO_neville.neville_sys_0004
+005	And yet he had far fewer Philosopher's Stones than we expected in his possession.	VO_neville.neville_sys_0031
+006	If I remember correctly, it was the chief of the Unicorn Knights that delivered the stolen artifacts, wasn't it?	VO_neville.neville_sys_0003
+007	It was. He sent the carriage. Are you suspicious of him?	VO_glanz.glanz_sys_0004
+008	...
+009	I heard a little rumor that you grew quite close to those thieving little girls.	VO_neville.neville_sys_0001
+010	Something about promising to give them some lessons?
+011	I...haven't formally accepted anything.	VO_glanz.glanz_sys_0039
+012	You should. And if you don't mind, accept another mission for me.	VO_neville.neville_sys_0003
+013	...
+014	Hello, Glanz. Such hostility in the air, isn't there? The castle guards...and Neville...	VO_anastasia.anastasia_chara_1001
+015	I noticed. I suppose it would be wise for an outsider like me to get out of here quick.	VO_glanz.glanz_sys_0004
+016	Glanz... Is there any chance of you reconsidering my proposition?	VO_anastasia.anastasia_chara_1004
+017	If it's about me becoming one of the knights, I—
+018	I understand... I just wanted to try my luck.	VO_anastasia.anastasia_sys_0004
+019	War is coming, and I wanted to have someone I could trust beside me.	VO_anastasia.anastasia_sys_0016
+020	I just wished that could be you.
+021	To be honest, I would like that. I did not hate fighting alongside you.	VO_glanz.glanz_sys_1030
+022	And yet I assume you found a reason to continue to do otherwise.	VO_anastasia.anastasia_sys_0006
+023	I'm sorry.	VO_glanz.glanz_sys_0035
+024	Just remember. You shouldn't say things like that to someone you've turned down twice.	VO_anastasia.anastasia_sys_0007
+025	Oh no. I almost forgot Neville is expecting me. I will see you again, Glanz.
+026	Say, is Freed back from his mission?	VO_glanz.glanz_sys_0002
+027	...
+028	He died.	VO_anastasia.anastasia_sys_0018
+029	Oh... I had hoped he could tell me more about this.
+030	What is that? A key?	VO_anastasia.anastasia_chara_1004
+031	I do not know either. Anastasia... Do you think Freed found his own reason to rush through life?	VO_glanz.glanz_sys_0039
+032	Who knows? But would he have been saved if he had?	VO_anastasia.anastasia_sys_0031
+033	There is no deliverance. You know that, Anastasia.
+034	That's enough for now. Let's take a break.	VO_glanz.glanz_sys_0001
+035	All right!
+036	What?! No! I can still fight!	VO_isyuna.isyuna_sys_0012
+037	Don't overdo it.	VO_glanz.glanz_sys_0002
+038	I'm not! I need to get stronger so I can protect my family, the Unicorn Knights!	VO_isyuna.isyuna_sys_0016
+039	I can't have the Chief protecting me all the time! That's just not right! I have to be stronger!
+040	Besides, I can't make Rochelle take care of all the fighting! That's not right either!	VO_isyuna.isyuna_sys_0030
+041	All I'm saying is any further exertion is counterproductive.
+042	Huh?	VO_isyuna.isyuna_sys_0025
+043	Haphazard training won't make you any stronger. When it comes to training, it's quality over quantity.	VO_glanz.glanz_sys_0004
+044	Urrgh! But still...!	VO_isyuna.isyuna_sys_0017
+045	I know... I understand how you feel. I...	VO_glanz.glanz_sys_0037
+046	What is it?	VO_isyuna.isyuna_sys_0005
+047	Glizzy likes earnest little ones like you, because she is sparkly-shiny.	VO_rachel.rachel_sys_0008
+048	Did you call me little again?!	VO_isyuna.isyuna_sys_0025
+049	Just know that overexertion is never good.	VO_glanz.glanz_sys_0002
+050	All right, fine! We're done for today! I'll go get the bath ready!
+051	Training over. I'm going to sleep.	VO_rachel.rachel_sys_0004
+052	You didn't even do the training.	VO_glanz.glanz_sys_0003
+053	G'night...
+054	Okay, I guess I'm the pillow again.	VO_glanz.glanz_sys_1030
+055	I wonder... How long has it been since I saw someone sleep so soundly?
+056	I can't remember what my little sister looked like asleep. I was always out on a job while she slept.
+057	She would always be awake by the time I got home. Smiling and waiting for my return.	VO_glanz.glanz_sys_0007
+058	I'm fine, don't worry. I believed those words. I had to believe those words.
+059	That's why I never knew.
+060	I-I'm sorry! I'm so—Cough! Cough!
+061	Aah, shut it! You coughin' like that's makin' me sick!
+062	Don't you know how miserable I already am?! How pathetic it is that I can't fight for my country?! Dammit!
+063	Wha—?! What are you doing?! Stop!	VO_glanz.glanz_sys_0026
+064	Ngh!	VO_glanz.glanz_battle_0019
+065	I never knew...
+066	Rina was fighting her own battles while I was out dirtying my hands.
+067	I didn't know, and yet I felt like I was the one protecting her.	VO_glanz.glanz_sys_0018
+068	We're family. Of course I'll protect you. It's just what I do.
+069	Some soldiers are forced into retirement after being wounded in battle. Our father, for example...
+070	His deep feelings of patriotism turned into resentful obsession... And I stained my hands red with his blood.
+071	This world is filled with such cruel turns of fate.
+072	...
+073	This world truly is a stifling place, isn't it, Freed?	VO_glanz.glanz_sys_0004
+074	Huff... Okay! Bath done!	VO_rachel.rachel_sys_0004
+075	No, you are not! You just got in!	VO_glanz.glanz_sys_0001
+076	Why not? I'm clean now.	VO_rachel.rachel_sys_0029
+077	Why, she says...	VO_glanz.glanz_sys_0025
+078	Oh, don't even try. She really hates bathing. Even Helza telling her how important it is to warm the body properly couldn't change her mind.
+079	Baths are boring. Not fun.
+080	Fine... But look at this. I've got this ball, see? I'm just going to drop it into the bath...	VO_glanz.glanz_sys_1030
+081	Wha—?! It's actually...sparkly-shiny! Whoooooa... It smells good too!	VO_rachel.rachel_sys_0024
+082	Cool! What is this?!	VO_isyuna.isyuna_sys_0024
+083	And then if you do this...	VO_glanz.glanz_sys_0002
+084	Wah! You shot water from your hands! So, like this?	VO_rachel.rachel_sys_0046
+085	H-hey! Cut that out!	VO_isyuna.isyuna_battle_0022
+086	Geez... I didn't expect you to have so many bath items on you, Glanz.	VO_isyuna.isyuna_sys_0002
+087	Yeah... Well, my little sister didn't really care for taking baths either.	VO_glanz.glanz_sys_0004
+088	So to make sure she took proper baths, I tried all sorts of things and... Well, I got into it myself.
+089	Oh, you have a little sister?
+090	Had. She's had health issues for a long time and passed away a few years ago.	VO_glanz.glanz_sys_0005
+091	S-sorry... I didn't...	VO_isyuna.isyuna_sys_0035
+092	It's fine. Anyway, I didn't think I'd get to take a decent bath around here. This is nice.
+093	Glizzy likes baths?	VO_rachel.rachel_sys_0001
+094	I do. No matter how dirty you get, a bath washes you clean. I really don't like being dirty.	VO_glanz.glanz_sys_0004
+095	Hm...?	VO_rachel.rachel_sys_0044
+096	This hot spring was Helza's favorite. Chief said that's why we have our hideout here.
+097	Sounds like something she would do. She did love her baths.	VO_isyuna.isyuna_sys_0004
+098	...
+099	Rochelle?	VO_glanz.glanz_sys_0006
+100	I'm overheating. I'm getting out.	VO_rachel.rachel_sys_0030
+101	Overheating? You haven't been in for that long, though.	VO_isyuna.isyuna_sys_0025
+102	Wait, Rochelle! You have to dry your hair! You're gonna catch a cold!	VO_isyuna.isyuna_sys_0012
+118	Wha—?! Did you see that?! Someone was there! A peeper?!	VO_isyuna.isyuna_sys_0026
+103	(Was that...Rochelle?)	VO_glanz.glanz_sys_0025
+104	Ishuna, you go back to where everyone else is. I'll go check it out.	VO_glanz.glanz_sys_0001
+105	Good work. Here's your pay.
+106	Is this it?! This isn't what we agreed on!	VO_gluttony-y.gluttony-y_sys_0025
+107	We got rid of that minx on your behalf, didn't we? We just took our cut from this. That's all.	VO_gluttony-o.gluttony-o_sys_0010
+108	Well, that's...true...but still!	VO_gluttony-y.gluttony-y_battle_0019
+109	(Got rid of that minx...?)	VO_glanz.glanz_sys_0006
+110	We like you a lot better than the last chief. You're much easier to get along with.	VO_gluttony-o.gluttony-o_sys_0007
+111	As long as you keep bringing us information we want, we'll have something for you in return. You work for Envylia now.
+112	Rochelle? Wh-what are you doing here?
+113	I hate icky-stickies. But Izzy... She believes in you.	VO_rachel.rachel_sys_0014
+114	I'm a black and white bear that can't be with people. Helza still believed in me. And you killed her.
+115	What is this?! Who is she?!	VO_gluttony-o.gluttony-o_sys_0025
+116	I fight for those who believe in me.
+117	So... I'm going to pummel you all.	VO_rachel.rachel_sys_0013

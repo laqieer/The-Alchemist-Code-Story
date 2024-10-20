@@ -1,0 +1,56 @@
+﻿001	Well, well. We're certainly a long way from the desert now. This is shaping up to be a last showdown of some sort.	VO_balt.balt_sys_0010
+002	You think? I don't know... I feel like I've broken more of a sweat dealing with petty thieves.	VO_karla.karla_sys_0004
+003	What kind of thieves have you been dealing with?! Never mind... I'm not gonna let you show me up!	VO_balt.balt_sys_0029
+004	Time to bring all these monsters down!	VO_balt.balt_battle_0010
+005	Right! I'm not here just to play around, after all. The man who taught me how to use Spiritbonding needs my help!	VO_karla.karla_sys_0006
+006	Come on, Sand Hawks! Get ready for the fight of your lives! For our future, and the future of this world!	VO_karla.karla_battle_0040
+007	Ugh... Energetic, as always. She even managed to drag me into this mess... This isn't even our country. We're not in the Desert Zone anymore... Always making me do things I don't want to do...	VO_ryle.ryle_sys_0030
+008	Your words are intriguingly at odds with how well-prepared you look for battle.	VO_ankh.ankh_sys_0044
+009	Hmph. Well, the Fruit Peddlers have done a lot of good toward increasing our profits.	VO_ryle.ryle_sys_0007
+010	I don't like to owe anyone anything. I prefer to pay off all my debts in one go.
+011	I see. That is good enough reason, indeed.	VO_ankh.ankh_sys_0045
+012	That he possesses such strength as to summon and transmute a body like this... That Kamui has exceeded all my expectations.	VO_iakof.iakof_sys_0031
+013	If my eyes do not deceive me, you must be the Chief of the Sephira.	VO_leordas.leordas_sys_0001
+014	No, no. That title belongs to someone who died a long time ago. Hyah!	VO_iakof.iakof_sys_0029
+015	I'm little more than a nameless Sephiran soldier on an anonymous battlefield now.	VO_iakof.iakof_sys_0007
+016	In that case, consider me the same. Heh! I can't remember the last time I was able to fully concentrate on swinging my sword in battle without worrying about tactics or morale! It makes me feel young again!	VO_leordas.leordas_sys_0004
+017	Ha! Such reckless brutishness! I would have expected more gentility from an esteemed general of Gluttony!	VO_iakof.iakof_sys_0010
+018	Nonsense! I was a soldier and mercenary who survived countless battles before I became anything else.	VO_leordas.leordas_sys_0007
+019	Being here like this reminds me of who I used to be. I must ask you not to underestimate me.
+020	Then I must beg your forgiveness. I had not meant to offend. Perhaps it is a poor apology, but all I can give you is the chance to see our village's most secret of arts.	VO_iakof.iakof_sys_0045
+021	That is more than I could have ever asked for! Too much, in fact! I would never presume to have the right to see what your people guarded so dearly from the rest of the world.	VO_leordas.leordas_sys_0044
+022	The rules that once governed the Sephira are little more than dust now. Even if they did still exist, they would be nothing more than extra shackles for our people to carry.	VO_iakof.iakof_sys_0030
+023	What reason have the Sephira to burden themselves further? It is up to old fools like myself to show the future generations of my people that it is time to forge a new path forward!
+024	Hah! Fantastic! That was well said for a nameless soldier of the Sephira. I would be honored to bear witness!	VO_leordas.leordas_sys_0008
+025	Thank you, friend. "I beseech the supreme...!"	VO_iakof.iakof_sys_0007
+026	Really, there's no reason to be so dramatic. Personally, I prefer a less flashy type of change that builds naturally over time, with conscious effort. Some might call it boring, but...	VO_hisham.hisham_sys_0030
+027	Let them have their fun! A chance like this doesn't come around all that often!	VO_theona.theona_sys_0007
+028	I'm not quite sure how we're connected, stranger, but it feels like a solid match! Care to join me in the fray?
+029	...
+030	Hm? What's the matter?	VO_theona.theona_sys_0002
+031	No, it's nothing. I am simply...unused to meeting new people.	VO_hisham.hisham_sys_0004
+032	However, from your appearance, I can see that you must be a gladiator from Eos. It has been a long time since I've seen one of your ilk.
+033	That's right! I'm Teona. I was once champion of the Colosseum!	VO_theona.theona_sys_0004
+034	I see. I would be most obliged to have you at my side in battle.	VO_hisham.hisham_sys_0009
+035	...
+036	Is there something wrong?	VO_hisham.hisham_sys_0006
+037	No, it's just... Aren't you...? You are! You're Hisham! Look at you! You're all grown up!	VO_theona.theona_sys_0025
+038	I-I have no idea what you're talking about. You must have the wrong person.	VO_hisham.hisham_sys_0026
+039	No way! I recognize that twinkle in your eye! You're Hisham! Wow!	VO_theona.theona_sys_0007
+040	Come on! Let's charge into battle together! We may never have a chance like this again!	VO_theona.theona_chara_1006
+041	That may not be the best plan. I'm really more suited to a supporting role on the battlefield.	VO_hisham.hisham_sys_0025
+042	Don't be shy! I'm trying to fulfill a kid's dream!	VO_theona.theona_sys_0008
+043	I haven't forgotten. You wanted to be a gladiator once, didn't you?	VO_theona.theona_chara_1003
+044	...
+045	All right. On three! Make sure you keep up, okay?	VO_theona.theona_sys_0007
+046	Honestly... You have far too much energy for me, the lot of you.	VO_hisham.hisham_sys_0022
+047	Amazing...	VO_agasa-b.agasa-b_sys_0046
+048	They're pushing the Jam back, despite the overwhelming odds!	VO_logi-b.logi-b_sys_0024
+049	Nngh...grk...	VO_kamui.kamui_battle_0022
+050	Kamui?! Are you...?!	VO_logi-b.logi-b_sys_0027
+051	It's nothing. Don't worry about me. We'd best start moving. I can't hold this forever.	VO_kamui.kamui_sys_0030
+052	Hurry! We should be able to push through to the arboreal altar now!	VO_kamui.kamui_battle_0015
+053	Understood. Agatha, wait here!	VO_logi-b.logi-b_sys_0004
+054	Huh? Oh! O-okay!	VO_agasa-b.agasa-b_sys_0025
+055	Let's go, Blue Tongues!	VO_logi-b.logi-b_sys_0032
+056	What...? Oh, my head... Ever since I saw the light of the Sacred Stone, I've been hearing...someone's voice...	VO_agasa-b.agasa-b_sys_0027

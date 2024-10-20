@@ -1,0 +1,146 @@
+﻿001	—That is all.
+002	The demons are invading quicker than anticipated. Can we fortify our ranks any further?	VO_mitsuha.mitsuha_sys_0002
+003	I'm afraid we can't. We're already being criticized in the castle-town for indiscriminately moving our men to these distant villages.
+004	The people are scared everywhere. They believe these demon invasions may release the seal upon the Demon Paragon.
+005	On top of that, we have suffered innumerable casualties.
+006	I'm all too aware. That's why I'm working on devising a solid plan to deal with these attacks.	VO_mitsuha.mitsuha_sys_0037
+007	But at this rate—
+008	As I said, I'm well aware!	VO_mitsuha.mitsuha_sys_0015
+009	Though I also said I'd take responsibility...yet I've allowed the demons to invade. And there seems to be nothing I can do to mitigate the damage or quell the people's fears.	VO_mitsuha.mitsuha_sys_0029
+010	I'm losing their trust. That's another thing I'm well aware of, unfortunately.
+011	Lady Mitsuha...
+012	Moreover, the fact that I'm raising demon children here is spurring on even more distrust.
+013	Ma'am, that's—
+014	My apologies. I won't be able to protect anyone or anything if I allow such worries to consume me. I must bear this burden and act decisively.	VO_mitsuha.mitsuha_sys_0035
+015	Evacuate all the survivors from the destroyed village to the castle-town.	VO_mitsuha.mitsuha_sys_0003
+016	You mean to abandon the village?!
+017	If we're running so low on troops and can't send any to their defense, it's the only way to protect its residents.	VO_mitsuha.mitsuha_sys_0004
+018	But—
+019	I'll take full responsibility for this action. Now hurry, before there are any further casualties!	VO_mitsuha.mitsuha_sys_0002
+020	Yes, Ma'am!
+021	...!
+022	Lady Mitsuha, you look tired. You must rest.
+023	There's no time for that. There's too much to be dealt with.	VO_mitsuha.mitsuha_sys_0016
+024	Are you also concerned for the seal on the Demon Paragon, then?
+025	We need something stronger. Since we can't kill it, we need to find a way to make the seal last for all eternity.	VO_mitsuha.mitsuha_sys_0006
+026	If we can do just that much, the people would at least feel a bit more at ease. And there is a way, but...
+027	If you know a way to do it, why not see it through? Is it simply a time-consuming process? Or could it be there's something about it that gives you pause?
+028	This is the Demon Paragon we're talking about—the Discarnate Power itself! Strengthening the seal upon it would require an immense fortitude and nearly superhuman resolve.
+029	We would need a human sacrifice to serve as its Kago—its "cage"—and a family line to keep watch over it once the sealing is complete. And even that wouldn't quite be enough, unfortunately.
+030	The Kago would need to take in demon blood in order to bear the burden of its duties. That is the only way.	VO_mitsuha.mitsuha_sys_0031
+031	A human sacrifice...and demon blood...
+032	No one would ever wish to fill such a role. And if I were take up the role myself, there would be no one left to oversee Wadatsumi's affairs.	VO_mitsuha.mitsuha_sys_0004
+033	And that's saying nothing of the negative effects one would suffer after taking in demon blood...
+034	Lady Mitsuha, you needn't bear this burden alone. We stand with you.
+035	Then tell me, who will do it in my place?!	VO_mitsuha.mitsuha_sys_0026
+036	The people are saying that this wouldn't have happened if we hadn't made peace with the demons.
+037	But the fact is, for a short time, we did achieve true peace!
+038	None of that matters now, though. We—I—must address the problems that lie before us.	VO_mitsuha.mitsuha_sys_0029
+039	Just remember, milady, that those in power are always subject to criticism, whether or not their rule is fair and just.
+040	Be that as it may, I am my own critic as well. And I know I still have a long road ahead before I can properly represent the will of the people.	VO_mitsuha.mitsuha_sys_0030
+041	I wish you wouldn't be so hard on yourself. Just remember, if there is anything at all I can do, please do not hesitate to ask. I will assist however I am able.
+042	......
+043	Koga... Kaede... You weren't wrong. You weren't mistaken.	VO_mitsuha.mitsuha_battle_0019
+044	This is the product of malice. And it's my fault for being unable to hold it back.
+045	But blaming myself will accomplish nothing. I must set my guilt and regrets aside, and do what I can to salvage as much as possible.
+046	......
+047	Hey... Heyyy...	VO_mikaboshi.mikaboshi_sys_0001
+048	...
+049	Su-me-ra-gi, are you even listening?!	VO_mikaboshi.mikaboshi_favorite_0001
+050	What?
+051	I'm bored.
+052	Good for you.	VO_sumeragi.sumeragi_sys_0006
+053	So let's do something!
+054	I don't have time.	VO_sumeragi.sumeragi_sys_0004
+055	Of course not! You're always too busy reading, or drawing pictures, or both!	VO_mikaboshi.mikaboshi_sys_0017
+056	Then why did you ask?	VO_sumeragi.sumeragi_sys_0001
+057	I don't get how you can read every day and not get bored. Is that a cookbook? And are you drawing pictures of the food?!
+058	It's not a cookbook. It's got more than just recipes in it. This was Father's journal, so there's a lot of information about him in here too.	VO_sumeragi.sumeragi_sys_0004
+059	He did a bunch of research on the history of Wadatsumi. You should read it sometime. it's really interesting.
+060	I don't want to just sit around! I want to go outside and move my body! It's boring always being cooped up in here!
+061	You can always explore inside the castle—with Lady Mitsuha's permission, of course.	VO_sumeragi.sumeragi_sys_0004
+062	Come on, you know that's not what I'm talking about!
+063	If you go outside, you're in danger. Cross the wrong person's path and you'll wind up dead.	VO_sumeragi.sumeragi_sys_0014
+064	The people hate us, you know. And with those horns, you especially would stick out like a sore thumb.
+065	I know that! But still...	VO_mikaboshi.mikaboshi_sys_0030
+066	...
+067	Hey, Sumeragi?	VO_mikaboshi.mikaboshi_sys_0001
+068	What?	VO_sumeragi.sumeragi_sys_0004
+069	Was what our parents did really that bad?
+070	I don't think so.
+071	All right. Well, in that case—	VO_mikaboshi.mikaboshi_battle_0019
+072	Let me finish. I don't think so, but the people of Wadatsumi do. And there's nothing we can do about that.	VO_sumeragi.sumeragi_sys_0031
+073	......
+074	Hello? May I come in?	VO_mitsuha.mitsuha_sys_0002
+075	How are you two getting along today?	VO_mitsuha.mitsuha_sys_0037
+076	You asked the same thing yesterday. You don't need to worry about us so much, Lady Mitsuha!	VO_mikaboshi.mikaboshi_sys_0007
+077	I suppose I can't help but worry a little. But you're right. I don't want to be a bother.	VO_mitsuha.mitsuha_sys_0006
+078	You said that yesterday, too! Don't worry. You've already done so much for us. We're fine.
+079	I just wish I could do more.	VO_mitsuha.mitsuha_sys_0031
+080	You've taken very good care of us. I'm grateful to you, and so is Mikaboshi.	VO_sumeragi.sumeragi_sys_0004
+081	Thank you. That's kind of you to say.	VO_mitsuha.mitsuha_sys_0033
+082	Ohh, is that a smile?! I haven't seen one of those from you in forever!	VO_mikaboshi.mikaboshi_sys_0008
+083	Really?	VO_mitsuha.mitsuha_sys_0025
+084	You always look so tired. We're worried about you, too! Right, Sumeragi?	VO_mikaboshi.mikaboshi_sys_0031
+085	I'm sorry you have to go through all this trouble just to keep us safe.	VO_sumeragi.sumeragi_sys_0035
+086	Ah!
+087	That's why we're happy to see you smile.	VO_mikaboshi.mikaboshi_sys_0007
+088	All right, you two. Get in here!
+089	...?
+090	...!
+091	Thank you so much.
+092	If ever there's anything you want from me—anything at all—please, let me know. I'll do whatever I can for you, always.	VO_mitsuha.mitsuha_sys_0006
+093	That sentiment alone is more than enough for me.
+094	I...want to go outside.
+095	Mikaboshi...	VO_sumeragi.sumeragi_sys_0031
+096	We didn't do anything wrong. It was our parents, not us.	VO_mikaboshi.mikaboshi_sys_0001
+097	But we're the ones who can't go outside? That hardly seems fair!
+098	It...isn't fair. You're right.
+099	We know there are a lot of people who say we should never have been born. But, even so...
+100	I want to go outside.	VO_mikaboshi.mikaboshi_sys_0030
+101	!!!
+102	If only I didn't have these horns...maybe I could've played outside all this time, and nobody would've known!	VO_mikaboshi.mikaboshi_sys_0018
+103	Mikaboshi...
+104	I'm sorry. I know I'm just being selfish.	VO_mikaboshi.mikaboshi_sys_0035
+105	No. No, you're not.
+106	Lady Mitsuha, you know you don't have to take care of us, right? If we're causing you trouble, we don't have to stay here.	VO_mikaboshi.mikaboshi_sys_0001
+107	It's not like you're our mother.
+108	...
+109	Mikaboshi, stop.	VO_sumeragi.sumeragi_sys_0014
+110	But it's true!	VO_mikaboshi.mikaboshi_sys_0029
+111	Mikaboshi...	VO_sumeragi.sumeragi_sys_0015
+112	I'm sorry, Lady Mitsuha.
+113	There's no need to apologize. What you said is true.
+114	No, it was rude. Please accept my apology on her behalf. She doesn't mean it the way it sounded.	VO_sumeragi.sumeragi_sys_0035
+115	There really is no need to apologize. I swore to Koga and Kaede that I would take you in and keep you safe. That's the relationship we have.
+116	And it's why I think of you as if you were my own children.
+117	......
+118	But that's just how I think of you. You don't have to feel the same way about me. I understand that it's probably quite...difficult for you to do so.
+119	I want you to always tell me the truth—how you really feel. Even if it's selfish, I won't mind. I promise.	VO_mitsuha.mitsuha_sys_0041
+120	Lady Mitsuha...
+121	I decided, back then, that this was my responsibility to bear. And I remain committed to that resolution.	VO_mitsuha.mitsuha_sys_0037
+122	......
+123	I'll come back to check on you again later. Please, take care.
+124	Mikaboshi...	VO_sumeragi.sumeragi_sys_0001
+125	I-I didn't—	VO_mikaboshi.mikaboshi_sys_0018
+126	I don't want to hear it.
+127	I'm sorry...	VO_mikaboshi.mikaboshi_sys_0035
+128	If you're going to apologize to anyone, apologize to Lady Mitsuha.
+129	Okay.
+130	Honestly...
+131	I know. That was selfish of me to say. Lady Mitsuha is having such a hard time because of us.	VO_mikaboshi.mikaboshi_sys_0030
+132	I just want to see her smile more.
+133	Why didn't you say that earlier?
+134	Because if I did, I know she'd just work herself even harder.	VO_mikaboshi.mikaboshi_sys_0022
+135	It's to realize our parents' dream of a peaceful land, though.	VO_sumeragi.sumeragi_sys_0004
+136	I know that! And I know how much Lady Mitsuha cares for us. I really do.
+137	Hmph. Then you need to work on communicating that a little better.	VO_sumeragi.sumeragi_sys_0030
+138	......
+139	Tell you what. It's been a while. You want to spar a little?	VO_sumeragi.sumeragi_favorite_0001
+140	Huh? Really? What's gotten into you all of a sudden, Mr. I'm-Too-Busy-To-Hang-Out?	VO_mikaboshi.mikaboshi_sys_0025
+141	You'll feel better if you move around. Then we can go apologize to Lady Mitsuha together.
+142	That sounds nice. Thank you, Sumeragi.	VO_mikaboshi.mikaboshi_sys_0004
+143	Anytime.	VO_sumeragi.sumeragi_sys_0007
+144	Don't think I'm going to go easy on you, though! Get ready to behold the true power of your sister!
+145	Maybe go a little easy on me?	VO_sumeragi.sumeragi_sys_0011
+146	You wish! Let's do this!	VO_mikaboshi.mikaboshi_battle_0010

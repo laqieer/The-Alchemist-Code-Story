@@ -1,0 +1,74 @@
+﻿001	I'll just run if things turn sour.	VO_magnus.magnus_sys_0010
+002	You can't lose a fight you've already run away from.
+003	All right. This is a bold gamble, but I'm going for it.	VO_magnus.magnus_chara_1004
+004	Where is he?	VO_albell.albell_sys_0002
+005	Hey, Albea. This is a pleasant surprise.	VO_wilhelm.wilhelm_sys_0007
+006	Where did he get to?	VO_albell.albell_sys_0029
+007	You came all the way to Wratharis in search of your brother? That's a hell of a trip.	VO_wilhelm.wilhelm_sys_0044
+008	This is a big country. Want me to help you find him?	VO_wilhelm.wilhelm_sys_0002
+009	I heard that there's a very energetic, blond-haired man with a distinct laugh here.	VO_albell.albell_sys_0013
+010	Apparently, he's been seen hanging around with a man with pink hair...
+011	A genius gambler who never loses.
+012	My brother, Magnus. I heard he's here.
+013	...
+014	Let me see my brother.	VO_albell.albell_sys_0002
+015	Heheh.	VO_wilhelm.wilhelm_sys_0008
+016	Never heard of him.
+017	You...!
+018	No... He is here.	VO_albell.albell_sys_0044
+019	...
+020	Somewhere near... Is he outsi—?
+021	I told you to steer clear of all this.	VO_wilhelm.wilhelm_sys_0012
+022	Let me through!	VO_albell.albell_battle_0019
+023	Not a chance.	VO_wilhelm.wilhelm_sys_0010
+024	Why did you keep quiet about him?!	VO_albell.albell_sys_0013
+025	I'm actually quite talkative once you get to know me.	VO_wilhelm.wilhelm_sys_1020
+026	You know my brother, don't you?! Why didn't you tell me?!	VO_albell.albell_sys_0002
+027	To tell you the truth, it's not actually the gambling I'm into.	VO_wilhelm.wilhelm_sys_0030
+028	Don't change the subject!	VO_albell.albell_sys_0029
+029	He's always winning big and losing just as much in these games.	VO_wilhelm.wilhelm_sys_0007
+030	What I enjoy...is watching him go at it.
+031	I won't let you mess up his hand.
+032	What are you going on about?!	VO_albell.albell_sys_0013
+033	Is it so wrong for me to want to see my brother?!
+034	Am I not even allowed to let him know that a relative of ours passed away?!
+035	Are you saying that we need to live our whole lives apart...?!
+036	Without even knowing where the other is or what they are doing?!	VO_albell.albell_sys_0018
+037	I...!
+038	What I'm saying...is that I don't want anyone to die.	VO_wilhelm.wilhelm_sys_0030
+039	Who's going to...?!	VO_albell.albell_sys_0025
+040	People pray before making a bet, don't they?	VO_wilhelm.wilhelm_sys_0002
+041	Even though they know it won't change a thing.
+042	This is my prayer.
+043	It's better for at least one of you to survive.
+044	Better that, than both of you being gone.
+045	You won't...change your mind, will you? No matter what I say.	VO_albell.albell_chara_1001
+046	There are just some things that can't be said.	VO_wilhelm.wilhelm_sys_0010
+047	Move.	VO_albell.albell_battle_0019
+048	Tch! Show-off!
+049	Yeah, we guys are always trying to show off.	VO_wilhelm.wilhelm_sys_0037
+050	I said move! Let me see my brother!	VO_albell.albell_sys_0013
+051	Why don't you make me?	VO_wilhelm.wilhelm_sys_0037
+052	What is it with you?! One second you're protecting me, and the next you're standing in my way!	VO_albell.albell_sys_0029
+053	I told you from the start.	VO_wilhelm.wilhelm_sys_0001
+054	I'm a troublemaker.
+055	You...!
+056	I'm an ally to none...	VO_wilhelm.wilhelm_sys_0007
+057	But that doesn't make me the enemy.
+058	I just go around causing trouble.
+059	Sir, please refrain from causing quarrels within the—	VO_knightf.knightf_sys_0025
+060	You mean trouble.	VO_wilhelm.wilhelm_sys_0039
+061	Yes, fine. Please refrain from causing trouble within this—	VO_knightf.knightf_sys_0003
+062	You know what? I think I'm gonna stir up some trouble.	VO_wilhelm.wilhelm_sys_0024
+063	Sir, please, no! We don't want any trouble!	VO_knightf.knightf_sys_0027
+064	Life off the grid isn't half bad.	VO_wilhelm.wilhelm_sys_1016
+065	Getting blacklisted by this place... You think that means anything to me?
+066	I...see.	VO_albell.albell_sys_0016
+067	If that's how you want to do this...
+068	Then I'll show you what I'm made of!
+069	Please, stop!	VO_knightf.knightf_sys_0028
+070	I can't call myself good-natured, but...	VO_wilhelm.wilhelm_sys_0007
+071	I am very kind.
+072	I'll only hurt you a little bit.	VO_wilhelm.wilhelm_sys_0010
+073	We'll see who gets hurt!	VO_albell.albell_sys_0032
+074	Why won't these people stop?!	VO_knightf.knightf_battle_0022

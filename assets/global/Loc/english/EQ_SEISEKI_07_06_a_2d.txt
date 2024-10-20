@@ -1,0 +1,96 @@
+﻿001	Hmph. I have no recollection of having invited you here. How about you show yourself?	VO_waginao.waginao_sys_0010
+002	Um...are you talking about me?	VO_ortima.ortima_battle_0019
+003	Who else would I be talking to...Captain Othima of the 6th Regiment?	VO_waginao.waginao_sys_0016
+004	Seriously? Were you a dog in your previous life? How did you smell me out?	VO_ortima.ortima_sys_0021
+005	You managed to evade the strict guard of Greed Dike and penetrate this castle.	VO_waginao.waginao_chara_1012
+006	Honestly, I'm impressed by your abilities.	VO_waginao.waginao_sys_0030
+007	Not really. I wanted to go about things in a clever manner, but the Special Forces ended up finding me. They really meant business.	VO_ortima.ortima_sys_0031
+008	Are you telling me that you fought against the Special Forces, the most elite armed forces in all of Babel?	VO_waginao.waginao_sys_0026
+009	Did I go a little too far? Sorry. You seem frozen in place.<br><br>	VO_ortima.ortima_sys_0020
+010	It...appears that I underestimated you slightly.	VO_waginao.waginao_battle_0022
+011	More importantly...what is an elder of the Holy Order sneaking around here for?	VO_ortima.ortima_sys_0007
+012	If those of the Council were to find out, I wonder what their reaction would be.
+013	You seem to be making dangerous assumptions. Just to be clear, I am here to observe. There's nothing suspicious about my actions.	VO_waginao.waginao_sys_0030
+014	Oh come on...save the excuses. I've heard plenty enough already from Seida and Monzein.	VO_ortima.ortima_sys_0030
+015	Hmph. Aren't you the one that's in a more compromising position?	VO_waginao.waginao_sys_0010
+016	You're a captain in the Holy Guard who has infiltrated Greed Dike without permission.
+017	Furthermore, if you were to have engaged in battle with Greed Dike soldiers, it would be quite the problem.<br><br>	VO_waginao.waginao_chara_1012
+018	Are you saying that it'll become a foreign affair? Seriously...you gotta be kidding me.	VO_ortima.ortima_sys_0012
+019	What do you mean?	VO_waginao.waginao_sys_0005
+020	You lot are the ones who abetted Captain Kudanstein, correct?	VO_ortima.ortima_sys_0017
+021	You really pulled one off, didn't you? Now that the Lord Commander is dead, it's a little too late to be talking about foreign affairs.	VO_ortima.ortima_sys_0025
+022	Well, that's not a very polite thing to say.	VO_orione.orione_sys_0024
+023	...?
+024	What are you talking about? I'd prefer you if you didn't start making outlandish accusations.	VO_orione.orione_sys_0001
+025	Th-the Lion Monarch...Orion!	VO_ortima.ortima_battle_0019
+026	Emperor Orion...what are you doing here?	VO_waginao.waginao_sys_0027
+027	Heheh. I would be hard-pressed not to formally greet the wise and famous Captain Othima.	VO_orione.orione_sys_0007
+028	Well, I'll be... So you know about me?	VO_ortima.ortima_sys_0044
+029	Of course. However, I'm very sorry, but we're quite busy at the moment. Unless you have a pressing matter, I would like to ask that you step aside.	VO_orione.orione_sys_0005
+030	No...I still haven't addressed why I'm here. I came here to declare war.
+031	Declare war...?	VO_orione.orione_sys_0006
+032	Regardless of appearances, I am actually pretty worked up right now. After all, Commander Zain saved my life.	VO_ortima.ortima_sys_0025
+033	That being said, it doesn't sit very well with me if you lot get ahead of yourselves and start plotting something.
+034	What do you want to say?	VO_orione.orione_sys_0001
+035	This isn't really my type of thing, but...	VO_ortima.ortima_sys_0030
+036	Try crossing the line again...I'll kill you. Understood?	VO_ortima.ortima_sys_0013
+037	Y-you, scum!!! How dare you speak to Emperor Orion like that!	VO_waginao.waginao_sys_0013
+038	Oops. Best if you don't move. After all, I could light your emperor on fire right now if I wanted to.	VO_ortima.ortima_sys_0014
+039	As a fellow magic-user, you know what I'm talking about, don't you?	VO_ortima.ortima_sys_0007
+040	Tsk...!	VO_waginao.waginao_sys_0012
+041	What are you plotting now? It would be in your best interest to spit it out now. Trust me.
+042	...Heheh...	VO_orione.orione_sys_0007
+043	What...?
+044	Hyahahahahah!	VO_orione.orione_sys_0008
+045	Agh?! Wh-what's this?! Pitch-black...magic?!	VO_ortima.ortima_sys_0018
+046	You think you're going to kill me? Do you actually think an incompetent bunch like you are capable of killing me...? Hyahahah!!!	VO_orione.orione_sys_0029
+047	Uck! I-it's strangling me! N-not good!	VO_ortima.ortima_sys_0042
+048	You're quite the entertaining fellow...	VO_orione.orione_sys_0007
+049	That being said, your overly-entertaining ideas can lead to unforeseen...and perhaps even dangerous results, Waginau.	VO_orione.orione_sys_0010
+050	...Understood.<br><br>	VO_waginao.waginao_sys_0004
+051	Phantom soldiers? Is this the power of darkness? I see...you've transmuted them from intense dark powers!	VO_ortima.ortima_sys_0042
+052	It's time I ask you to take your leave. Attack.	VO_orione.orione_sys_0030
+053	Ack! Moonlit Night!!!	VO_ortima.ortima_battle_0019
+054	...!
+055	Huff...huff...! Ah, that was dangerous! They almost had me there!	VO_ortima.ortima_sys_0043
+056	Quite the impressive schemer. It looks like you'll be more trouble than I anticipated. Still...	VO_orione.orione_sys_0024
+057	Huh?!	VO_ortima.ortima_battle_1028
+058	I haven't survived this war-torn world without a little scheming of my own.	VO_orione.orione_sys_0007
+059	Wh-wha...?!	VO_ortima.ortima_sys_0018
+060	Scatter, in the name of the Immortal Rose!!!	VO_yaurasu.yaurasu_battle_0014
+061	...!
+062	Ca-Captain Yauras...?!	VO_ortima.ortima_battle_1028
+063	Honestly. Why are you causing a commotion like this? It's not very proper.	VO_yaurasu.yaurasu_sys_0016
+064	Whoa! You're amazing! And your timing's impeccable! I was in a real tough spot there!	VO_ortima.ortima_battle_0012
+065	Seriously. Try to at least be a little apologetic. Isn't there something you should say after going off and acting on your own?	VO_yaurasu.yaurasu_sys_0012
+066	Huh? ...I love you?
+067	...No.	VO_yaurasu.yaurasu_sys_0016
+068	So you're Captain Yauras of the 1st Regiment. I am honored to meet you.	VO_orione.orione_sys_0004
+069	I heard that you were seriously wounded by Captain Kudanstein. Has your wound healed?	VO_orione.orione_sys_0007
+070	I profusely apologize for Othima's incredible act of rudeness.	VO_yaurasu.yaurasu_sys_0017
+071	Hey! Captain Yauras?!	VO_ortima.ortima_battle_1028
+072	Owww!!!	VO_ortima.ortima_battle_0019
+073	Control yourself! You're in front of the emperor! Hurry up and kneel!	VO_yaurasu.yaurasu_chara_1002
+074	Uck...! Ugh...	VO_ortima.ortima_sys_0042
+075	You live up to your prestigious reputation, Captain Yauras. Very well-mannered.	VO_orione.orione_sys_0044
+076	That being said, Captain Yauras...does your presence mean that you are here for the same reason as Othima?	VO_waginao.waginao_chara_1012
+077	No. Please do not misunderstand my intentions. Othima is just a little confused.	VO_yaurasu.yaurasu_sys_0016
+078	We are here to greet you, Bishop Waginau.
+079	Me...?	VO_waginao.waginao_sys_0005
+080	Yes. Currently, the Lord Commander Kanon is making her way to repair the Holy Sword Excalibur.
+081	This is the first step towards reviving the Holy Guard.
+082	I thought it would best to visit you first, Bishop Waginau, as you were close to the former Lord Commander Zain.
+083	What...?	VO_waginao.waginao_sys_0026
+084	Heheh. She's got one over you, Waginau.	VO_orione.orione_sys_0007
+085	Hmph...	VO_waginao.waginao_sys_0012
+086	Very well. Your business is done here. Take Waginau with you.	VO_orione.orione_sys_0045
+087	Thank you.
+088	Hey...Captain Yauras!	VO_ortima.ortima_battle_1028
+089	Know your strength. There's not a single chance that we would win in this current situation.	VO_yaurasu.yaurasu_sys_0016
+090	But...we still haven't grasped the whereabouts of Captain Kudan.	VO_ortima.ortima_sys_0042
+091	Hmph. In tribute to your valor, let me tell you one thing.	VO_orione.orione_sys_0010
+092	Ye-yes!
+093	You're looking for Kudanstein...	VO_orione.orione_sys_0007
+094	Apparently, he's headed to the land where Excalibur might be repaired, though I don't know how useful this information will be to you.
+095	Huh...?!	VO_ortima.ortima_battle_1028
+096	Kudan...is headed to where Kanon and the others are?!	VO_yaurasu.yaurasu_sys_0028

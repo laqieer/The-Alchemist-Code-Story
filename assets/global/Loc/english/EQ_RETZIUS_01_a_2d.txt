@@ -1,0 +1,69 @@
+﻿001	... ...
+002	Retzius? What's the matter? You've been absentminded recently. Did something happen?	VO_knightm.knightm_sys_0001
+003	Nothing's happened! That's the problem! Argh! I can't stand it.	VO_retzius.retzius_sys_0012
+004	I see. So your uncharacteristic silence...was merely you racking your brain.	VO_knightm.knightm_sys_0044
+005	I wonder if this is what I'm supposed to make of my life. Am I supposed to live out my days as a thief?! In order to survive, perhaps I have no other choice...	VO_retzius.retzius_sys_0031
+006	But I want to live more passionately! I want to burn brighter! Do you understand what I mean?!	VO_retzius.retzius_chara_1011
+007	Well, I'd be lying if I said I didn't, but...please, hang in there. That mindset of yours will get in the way of our work.	VO_knightm.knightm_sys_0031
+008	Yeah, yeah. I know! I'll do my job properly. Um...was it around here?	VO_retzius.retzius_sys_0005
+009	Yes. It's that house we can see over there.
+010	Those unscrupulous merchants have been attempting to monopolize the oases around here... They're real hoarders, aren't they?	VO_retzius.retzius_sys_0010
+011	Are you really all right on your own?	VO_knightm.knightm_sys_0001
+012	Yeah. The rest of you guard the area and ensure our escape route. We're getting out of here as soon as the robbery is complete.	VO_retzius.retzius_sys_0004
+013	Understood!
+014	It all comes down to the when the sun sets. All right, let's pull this off!	VO_retzius.retzius_event_1012
+015	...Tsk!
+016	Why are there so many guards?! This is news to me!	VO_retzius.retzius_sys_0017
+017	Hmph. Well, well. Look what the cat dragged in. You're a rather scrawny looking rat, aren't you?	VO_stknightm.stknightm_sys_0010
+018	How dare you...! I'm not scrawny! I have the glorious name of Retzius...	VO_retzius.retzius_sys_0013
+019	And now you've given up your name.	VO_stknightm.stknightm_sys_0023
+020	Darn it!	VO_retzius.retzius_sys_0020
+021	What an overconfident piece of trash. Take him out!	VO_stknightm.stknightm_battle_0025
+022	...?!	VO_stknightm.stknightm_sys_0027
+023	...?
+024	What...who are you?!	VO_thiefm.thiefm_sys_0027
+025	... ...
+026	Argh...!	VO_thiefm.thiefm_sys_0022
+027	I will now be seizing all the possessions of this household. You, more than anyone, know the reason for this.	VO_rusia.rusia_sys_0002
+028	Uck... Who...are you?	VO_stknightm.stknightm_battle_0022
+029	My name is of little consequence. What is of consequence is what I was hired to do.	VO_rusia.rusia_sys_0010
+030	Wo...wow...	VO_retzius.retzius_sys_0020
+031	... ...
+032	...Um!
+033	...What is it?	VO_rusia.rusia_sys_0005
+034	Um...thank you for...well...saving me.	VO_retzius.retzius_sys_0020
+035	I don't recall saving you. I fulfilled my mission. That is all.	VO_rusia.rusia_sys_0016
+036	...! Still, thank you! My name is Retzius. What's yours?	VO_retzius.retzius_battle_0021
+037	My name is of little consequence.	VO_rusia.rusia_chara_1002
+038	Oh, um, well...	VO_retzius.retzius_sys_0027
+039	Those who allow their circumstances to limit them will end up dead. That is all.	VO_rusia.rusia_event_1006
+040	Oh...!	VO_retzius.retzius_sys_0020
+041	...He...!
+042	...Is so...cool!	VO_retzius.retzius_sys_0009
+043	You really had me scared there, Retzius. We thought you were done for.	VO_knightm.knightm_sys_0030
+044	Hmph. You idiots. That was a piece of cake for me.	VO_retzius.retzius_sys_0010
+045	Um...Retzius...I've been wondering about this for a while, but...	VO_knightm.knightm_sys_0001
+046	What is it?	VO_retzius.retzius_sys_0006
+047	Well...that overconfident attitude doesn't really suit you.	VO_knightm.knightm_sys_0030
+048	....Oh, really? I guess I've got a long way until I reach that bro's level! His coolness was unreal...	VO_retzius.retzius_sys_0031
+049	That bro...?
+050	How can I say it...? It was like he was exuding masculine confidence! "My name is of little consequence"...hah! A man amongst men!	VO_retzius.retzius_sys_0005
+051	All right, I've made my decision! I'm gonna become that man's disciple! As of today, our band of thieves is disbanded!	VO_retzius.retzius_event_1012
+052	Whaaat?!
+053	I've finally discovered the way of life for me! I'll become a man amongst men! Just you wait, bro!	VO_retzius.retzius_sys_0007
+054	...But how are you going find someone whose name you don't even know?	VO_knightm.knightm_sys_0001
+055	Yeah, that's the catch...hmm... Hey, do you have any ideas?	VO_retzius.retzius_sys_0029
+056	You've put me on the spot, but...oh, that's right!	VO_knightm.knightm_sys_0016
+057	I've heard about a fortuneteller in Lustburg who is always accurate! That being said, they're only rumors, so I'm not sure how much weight they hold...
+058	That's it! Thanks! All right, hold on, bro!	VO_retzius.retzius_chara_1017
+059	Hey, wait...! Retzius!
+060	Thanks for everything until now! Stay healthy!	VO_retzius.retzius_sys_0008
+061	...I've never seen Retzius so excited about anything before.
+062	Good luck, Retzius!	VO_knightm.knightm_sys_0007
+063	Phew. All right, I've finally arrived. Now, where's the fortuneteller's house...? Ack...there's no one to ask anyone this late at night.	VO_retzius.retzius_chara_1011
+064	(...Wait. What is that girl doing out alone in the middle of the night?)	VO_retzius.retzius_sys_0025
+065	... ...
+066	(What is she doing? Is there something up there in the sky? Anyway, I'll ask her about the fortuneteller.)	VO_retzius.retzius_sys_0006
+067	Hey...hold on!	VO_retzius.retzius_sys_1050
+068	Well, well. You really shouldn't be walking around alone this late at night.
+069	Tsk. What timing. Actually, I can get some directions!	VO_retzius.retzius_sys_0016

@@ -1,0 +1,72 @@
+﻿001	Both the few Sephira that have come to try their luck in the forest and the people of Suga have been sheltering here.
+002	The Great Nidhogg's divine protection still remains, so corruption can't come here so easily.
+003	According to what I've heard, most of the Sephira are still in the desert.	VO_eularea.eularea_sys_0030
+004	I see.	VO_nimuru.nimuru_sys_0022
+005	It's Lord Nimul! Such a famous personage, here among us?!
+006	Lord Nimul! You're safe!
+007	Warriors! I am glad that you're safe as well.
+050	Yes! Everyone we left in the desert... I can't say they're perfectly safe, but they've avoided what might be a more perilous situation.
+051	I see. I'm relieved...	VO_nimuru.nimuru_sys_0022
+052	We've come bearing supplies from other regions. If possible, we'd like you to relay some to those taking refuge in the desert...	VO_nimuru.nimuru_sys_0002
+053	R-really? We hadn't expected such a boon! Everyone will be so grateful!	VO_stknightm.stknightm_sys_0046
+054	Everyone! Lord Nimul is very tired from his long journey. Please give him some space and allow him to rest.	VO_eularea.eularea_sys_0001
+055	O-oh, right. We all got too excited...	VO_stknightm.stknightm_sys_0017
+056	I'm sure that we'll have time to ask for more details later. For now we'll bring the good news of your return back to the villagers in the desert.
+057	Please do.	VO_nimuru.nimuru_sys_0004
+058	Well then, Lord Nimul. This way.
+059	Ahh! That was so exhausting!
+060	I couldn't handle that much longer... I'm still young, but my back is killing me...	VO_eularea.eularea_sys_0030
+061	You're just like always. Ever the sheep in wolf's clothing...	VO_nimuru.nimuru_sys_0001
+062	I'm the priestess of Suga!	VO_eularea.eularea_sys_0007
+063	It's expected that such a symbol acts a certain way to bring everyone together.
+064	If I don't keep up the formality, people will start treating you like they always do because you're such a doofus.	VO_eularea.eularea_sys_0011
+065	Hey...	VO_nimuru.nimuru_sys_0006
+066	Really? But it seemed like everyone trusts in their illustrious Lord Nimul! Total leader vibes!	VO_mela.mela_sys_0006
+067	Right now we're in quite trying times, but usually a visit from Lord Nimul elicits certain kinds of reactions.
+068	Something like... "It's that good-for-nothing again," wasn't it?	VO_eularea.eularea_sys_0008
+069	Ohhh... I kinda wanna see that...	VO_mela.mela_sys_0045
+070	Please, cut it out. My reputation doesn't need any so-called help from you!
+071	You're just as exhausting as ever, Eulalia...	VO_nimuru.nimuru_sys_0030
+072	You've really gotta loosen up, Nimul! This is why it's so hard for people to like you, you know!	VO_eularea.eularea_sys_0005
+008	...
+009	What's wrong, Waginau?	VO_mela.mela_sys_0001
+010	Nothing. Just confounded by the spectacle in front of me...	VO_waginao-c.waginao-c_sys_0039
+011	The Eulalia I remember was extremely polite and obedient. The gold standard for a priestess, if you will. But now...
+012	But now you've got this! It's fine, isn't it? She's fun!
+013	I suppose... Yet I feel reluctant to take on another Mira...	VO_waginao-c.waginao-c_sys_0030
+014	Hey! Whaddya mean by that?
+015	Come to think of it, Nimul, weren't you traveling with Emmel? Where is she?	VO_eularea.eularea_sys_0002
+016	Ah... I suppose I might as well start my story from there.	VO_nimuru.nimuru_sys_0004
+017	Eulalia, please listen. We need your help to save Emmel.	VO_nimuru.nimuru_sys_0002
+018	I see... Emmel was taken by some horrible person. This is awful! We need to go help her right away!	VO_eularea.eularea_sys_0021
+019	Rushing in with no plan is a death sentence.	VO_nimuru.nimuru_sys_0004
+020	That man Zafeiris... He is extremely powerful. If we add that to the threat that Beelzebub poses...
+021	We simply don't have the power to take them both on.	VO_nimuru.nimuru_sys_0031
+022	Indeed. Facing a Cursed Beast is already a battle of life and death...	VO_waginao-c.waginao-c_sys_0004
+023	But adding the variable of an enemy we know little about puts us at an even more severe disadvantage.	VO_waginao-c.waginao-c_sys_0022
+024	First, we must seal the Cursed Beast.
+025	If Beelzebub is forced back into dormancy, we could purify the corruption that has taken over this region.
+026	If we manage that, then we might regain the advantage over an enemy like that who is powered by corruption.
+027	That's why you need my help?	VO_eularea.eularea_sys_0045
+028	It is.
+029	Someone like you, whose strength is comparable to Emmel's, should be able to reawaken Sephiron. That should allow us to put the Cursed Beast to sleep once more.
+030	What? We're not gonna beat it?	VO_mela.mela_sys_0001
+031	Zafeiris seems to have an uncanny connection to that beast. Defeating Beelzebub outright invites the possibility that he will strike back at us for attacking it.	VO_nimuru.nimuru_sys_0004
+032	(And defeating it will force Emmel to have to seal it away. All to save this region from corruption...)
+033	(For now, I just want to buy some time. Just enough time to find a way to truly destroy the Cursed Beasts...)
+034	Nimul?	VO_waginao-c.waginao-c_sys_0005
+035	Ah... it's nothing.	VO_nimuru.nimuru_sys_0035
+036	For now, our first step is doing something about the corruption of this region.
+037	And you need me to awaken Sephiron to do that?	VO_eularea.eularea_sys_0044
+038	Yes. Can I count on you to do it?
+039	Of course.	VO_eularea.eularea_sys_0006
+040	I never wanted Emmel to carry this burden alone!	VO_eularea.eularea_sys_0007
+041	I shall perform the rites in place of the priestess of Sephiron!
+042	All right then, let's—	VO_nimuru.nimuru_battle_1030
+043	What's this?!
+044	I'm sensing the magil of the Sinners?!	VO_waginao-c.waginao-c_sys_0025
+045	That's not all! My connection to Nyx just got cut off!	VO_mela.mela_sys_0025
+046	An attack!	VO_nimuru.nimuru_sys_0018
+047	Finding the hidden village of Suga was quite some effort...
+048	But there is no escape for you anymore. All life in this region will fall to the sin of Gluttony...
+049	That...is all that we desire of this world...

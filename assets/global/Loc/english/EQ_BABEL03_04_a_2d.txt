@@ -1,0 +1,144 @@
+﻿001	You really think we would be willing to sacrifice anyone?
+002	The fact is that the amount of Alchemia that can be extracted from the sand has diminished. It is evident that the sand's Alchemia will be exhausted at this rate.	VO_stknightm.stknightm_sys_0031
+003	If that's true, then we ought to offer up anyone with large amounts of Alchemia. Just doing so doesn't mean we're sacrificing them.	VO_stknightm.stknightm_sys_0030
+004	That's exactly what it means to sacrifice someone! Besides, if we keep exporting Alchemia, the Desert Zone will wither away to nothing.
+005	That's why I'm saying we should offer up anyone with a large amount of Alchemia. We do have the perfect candidates. The remnants of the Sephira.	VO_stknightm.stknightm_sys_0017
+006	There are no remnants. We've reported as much to the Holy Guard. Unless you're suggesting we have falsified information?
+007	No, we're not...for now. Look, all we need to do is secure some Alchemia. It's necessary for the sake of the world.	VO_stknightm.stknightm_battle_0022
+008	We can't keep exporting finite resources on the verge of being depleted. There will be nothing left in this desert.
+009	Once it reaches that point, nothing can remain. That's why I intend to find a solution—a way to increase production of your precious Alchemia.
+010	So I'd like you to hold off on offering up anyone for a while at least.
+011	Fine. However, you will understand if we impose a deadline. We can't wait around for you forever.	VO_stknightm.stknightm_sys_0037
+012	Understood. I'll have it resolved before then.
+013	......
+014	Hawk.	VO_neferty.neferty_sys_0042
+015	Yes, Nefertiti? Don't tell me you were listening.
+016	I was. What do you intend to do?	VO_neferty.neferty_sys_0005
+017	I cannot stand by and watch as the desert withers away, but...I cannot let them offer up the remnants of the Sephira, either.
+018	It might buy us five or ten years, but offering them up would only amount to a short term solution, anyway.
+019	If I could take their place, I'd do it in a heartbeat. Unfortunately, that isn't possible.
+020	So long as Alchemia is what they demand for the food and water we need, there's nothing we can do.
+021	At the moment, we have no leverage because we cannot turn away food and water. We have to do something about that.
+022	So, what do you intend to do?	VO_neferty.neferty_sys_0030
+023	I... I want to focus on growing crops. That's all that I can think to do.
+024	What? Are you sure that's what you should be dedicating your energy to right now?	VO_neferty.neferty_sys_0021
+025	At this rate, the Conservatives will get their way and the remnants of the Sephira will be handed over to Northern Pride.
+026	There's no time. This can't be just a side project anymore. I have to devote everything I have to this.
+027	The only way to increase our finite resources is by both growing crops and increasing the total amount of Alchemia available.
+028	That's impossible! You must know that! Why are you so adamant about this folly of growing crops?	VO_neferty.neferty_sys_0020
+029	Why do you think Alchemia was able to exist in such quantity in the desert? Alchemia resides in all living things.
+030	If you think about it, the desert sands have absorbed many lives; the remnants of all that has died and decayed here.
+031	You are contradicting yourself, Hawk. Is that not the exact reason why crops cannot be grown in our desert?	VO_neferty.neferty_sys_0029
+032	Think about it like this: If many things have died here, that means that many things once lived here. To put it another way...
+033	This must once have been land on which green life could grow. Isn't that a possibility?
+034	...!
+035	I want to restore this desert to its former state. If I do that, I can prevent the Alchemia from running out—and that is exactly what is needed here, isn't it?
+036	However, is it not true that you have so far failed to grow any crops successfully?	VO_neferty.neferty_battle_0019
+037	That's why I need to devote myself to it. It's better than standing around, waiting, and worrying.
+038	What do you intend to do about your responsibilities as a member of the nobility?! This is too reckless!	VO_neferty.neferty_sys_0001
+039	I won't know how it'll go unless I try, right? As of today, I'm stepping down from the nobility. I leave the rest to you, Nefertiti.
+040	Trust me a little, Nefertiti. I wouldn't do something this drastic unless I was certain, you know.
+041	But to go so far...!	VO_neferty.neferty_sys_0029
+042	It's all to protect the desert. If we keep exporting Alchemia to Northern Pride, the desert will continue to wither.
+043	So we must grow crops, and restore Alchemia to the land. Then we can make the desert a place where everyone can live their lives with ease.
+044	If we can achieve that, it will not only be the desert, but also the people's hearts that will be enriched. Don't you agree?
+045	Can you really say for sure that your reluctance to offer up the Sephira isn't the true reason you are doing all this?	VO_neferty.neferty_sys_0030
+046	I can't promise that isn't a part of it. However, it is also true that I want to do this for the sake of the desert as a whole. I'd like to ask you something.
+047	Many of the remnants of the Sephira have been weakened after the great tree, the Sephiron, was lost.
+048	I consider them to be an important resource in this land, too.
+049	If we lose not only the Alchemia that was originally in this land, but also all of the remnants of the Sephira, what will we have left?
+050	I...um...	VO_neferty.neferty_battle_0019
+051	That's why this must be done. For the sake of the desert, and for the future.
+052	However, if you throw away your position as a member of the nobility, you do realize that you will not be allowed to enter the court ever again...	VO_neferty.neferty_sys_0029
+053	Are you truly prepared to throw away everything you have built so far?
+054	Yes, of course.
+055	Hawk!	VO_neferty.neferty_battle_0019
+056	Nefertiti, I believe that someday the people of the desert will come together and care for the land as one. I want that day to come.
+057	That's why this land needs to be revived. I trust you enough to leave the rest to you. I'm counting on you, Nefertiti.
+058	Hawk, I'm not sure if I am suitable to be your replacement, but I don't really have a choice, do I?	VO_neferty.neferty_sys_0018
+059	So this is where you were hiding, Hawk! You never tire of this, do you? I don't know how many times I've told you it's impossible!	VO_karla.karla_sys_0001
+060	That's not true. It'll be easier to grow crops with you around. I'm counting on it.
+061	H-hey, is that meant to be a joke? Because it isn't funny!	VO_karla.karla_sys_0025
+062	This area is an oasis. With a source of water so close, the sand here hasn't lost all life yet.
+063	If the sand is still alive here, we will naturally come to see what this desert is capable of.
+064	The more successful we are in reviving greenery here, the more likely it will become that we can revive the desert itself. Gradually, more and more of this dried up sand will become fertile soil.
+065	If we do that, we can bring trees and plants back to the desert. Look, the feel of the sand has already changed a little. Can you feel it?
+066	Yeah, but it sure seems like a lot of work. Day in, day out, giving precious water to things that might not even grow? No thanks.	VO_karla.karla_sys_0006
+067	That's all right. Everyone who lives in the desert wants immediate results, because their hearts are barren, too. Still, we can solve that if we pour our hopes and dreams into this land, just as I am doing with the water.
+068	See? It's just like a prayer, isn't it? A prayer that prosperity will return to the desert.
+069	Hahahaha! Oh, gosh darnit! I like the way you think! You're a strange man, Hawk.	VO_karla.karla_sys_0008
+070	I suppose I am.
+071	I thought you weren't a talker, but you turn out to be eloquent. You look like a pushover, but you're actually really stubborn, aren't you?	VO_karla.karla_sys_0006
+072	Seemingly weak, but actually strong... You've always been like that. You're impossible to figure out.
+073	Haha. It's not something I'm aware of myself, but if you see me like that, then that's very interesting. I think I like it.
+074	You think, huh? It's a bad habit of yours to get lost in thought about things like this. You should try and move around some more. It feels good, y'know!	VO_karla.karla_sys_0007
+075	By moving around, I assume you mean sparring with you? I'm afraid I'll have to decline. I have absolutely no hope of winning.
+076	What are you talking about?! Aren't you the one who's always saying "you'll never know unless you try"?!	VO_karla.karla_sys_0010
+077	Hahaha, you've got me there.
+078	All right, then it's decided! Let's do it now! Don't think I'll make this easy for you!	VO_karla.karla_sys_0023
+079	Ahhh! Don't stand there! There are seeds in the soil under your feet!
+080	Ngh... Don't startle me like that! I've never heard you shout like that before! Are you trying to give me a heart attack?!	VO_karla.karla_sys_0025
+081	Hahaha. Sorry, sorry.
+082	I guess I have to forgive you, Hawk. Your words and actions have always felt kinda...warm. I like that about you.	VO_karla.karla_sys_0046
+083	Even though you're a noble, you don't put on any airs... I like that, too.	VO_karla.karla_sys_0007
+084	Hahaha, former noble, actually. They don't consider me to be one of them anymore.
+085	You say it like that, but you left them on your own accord, right? It's just that you're now part of something more important.	VO_karla.karla_sys_0010
+086	......
+087	You know, when I found out about you coming back here when you should have been working in the court, I was...surprised.	VO_karla.karla_sys_0007
+088	That's when I realized that this is really important to you. You wouldn't have stopped working in the court otherwise.
+089	You think too highly of me, Carla. I'm not so great a man as all that.
+090	That's not true. I'll never forget how you gave me water for my parents when I was little.
+091	Even though you were thirsty, you denied yourself. You ended up passing out, and I shared my water with you.
+092	Oh yeah, that did happen. You remember some embarrassing things about me, huh, Carla?
+093	Well, anyway, I've liked you ever since I was little!	VO_karla.karla_sys_0007
+094	Carla, you haven't changed a bit. It really makes me want to protect you.
+095	Hm? Did you say something?	VO_karla.karla_sys_0004
+096	No, it was nothing. All right, let's do this. I'm going to beat you today!
+097	Bring it on! I'm not gonna pull any punches!	VO_karla.karla_sys_0023
+098	Ow! Carla, you're holding my arm too tightly! Loosen your grip just a little, okay?!
+099	I have heard that, despite being a servant to the court, you've taken on the responsibility of guarding a caravan for some reason. What is the meaning of this, Balt?	VO_stknightm.stknightm_sys_0001
+100	I will protect anyone who asks it of me. That is how I choose to live.	VO_balt.balt_sys_0010
+101	Think of your position! So long as you are a servant to the court, your only duty should be to serve the court!	VO_stknightm.stknightm_sys_0017
+102	Protecting the nobility protects the desert. I assume even you are not so foolish as to fail to realize this.	VO_stknightm.stknightm_sys_0030
+103	That's an interesting question. I have one in response: Have you ever said a word of thanks for the people who have died to protect you?	VO_balt.balt_sys_0003
+104	There is no need. You exist to protect us. Death in the service of the court is an honor!	VO_stknightm.stknightm_sys_0010
+105	If we weren't here, it would be impossible for anyone to live in the desert. For without our governance, who would supply you with food and water?
+106	Surely you understand that wanderers like you are only able to live in this desert by the grace of our governance.
+107	You lot only think of yourselves, so allow me to do the same.	VO_balt.balt_sys_0022
+108	Don't make demands of me. I will decide what I want to protect on my own.
+109	If you can't understand that, then I won't serve you. I'll just leave.
+110	Do as you wish. You are easily replaced. I hope you won't regret leaving us.	VO_stknightm.stknightm_sys_0008
+111	I won't.	VO_balt.balt_sys_0010
+112	Are you really leaving, Balt?	VO_neferty.neferty_sys_0042
+113	You talking to me? That's unexpected. Yeah, I'm leaving.	VO_balt.balt_sys_0005
+114	That really is a shame. I truly believe that you are needed here, Balt.	VO_neferty.neferty_sys_0030
+115	I am sorry. Perhaps I am at fault. If only I had better control over the nobility—	VO_neferty.neferty_sys_0036
+116	It would change nothing. That which I want to protect lies elsewhere. That's why I'm leaving. I go where justice calls me.	VO_balt.balt_sys_0010
+117	Balt, this thing you wish to protect, this so-called justice... What exactly is it?	VO_neferty.neferty_battle_0019
+118	That's for me to decide. It's not something I need to talk to you about.	VO_balt.balt_sys_0022
+119	......
+120	All right, what should I do now?	VO_balt.balt_sys_0031
+121	Balt? Hey, it's Balt! What are you doing here?	VO_mob-saga_omale.mog-saga_omale_sys_0006
+122	Hey, long time no see. I could ask you the same question.	VO_balt.balt_sys_0024
+123	I just wrapped up my negotiations and I'm about to head back to the village. You know, my daughter is with me today! She'll be very happy to see you, Balt! Hey!	VO_mob-saga_omale.mog-saga_omale_sys_0004
+124	Balt!	VO_mob-saga_female.mob-saga_female_sys_0007
+125	It's been...what...six months since I guarded your caravan? You look well.	VO_balt.balt_sys_0007
+126	Thanks to you, that big deal of mine went smooth as butter! I really am grateful to you, my man!	VO_mob-saga_omale.mog-saga_omale_sys_0007
+127	I just could not afford to lose that deal with the nobles! It's really thanks to you that I'm here today!
+128	I just guarded you, and you thanked me plenty at the time, so there's no need for you to do it now.	VO_balt.balt_sys_0029
+129	Of all the mercenaries I've hired, your work was by far the best! You cut down those bandits one after the other, and if you hadn't been there, I wouldn't be alive today.	VO_mob-saga_omale.mog-saga_omale_sys_0008
+130	Well, I really am grateful for all you did.	VO_mob-saga_omale.mog-saga_omale_sys_0033
+131	My daughter, too—she won't stop talking about you at home. You're a hero in her eyes, you know.	VO_mob-saga_omale.mog-saga_omale_sys_0007
+132	She admired you so much that she wound up wearing a bandana on her arm for good luck. Now, stop being all embarrassed and come over here!
+133	F-father, please! Um, h-hello.	VO_mob-saga_female.mob-saga_female_sys_0016
+134	You've grown a lot. I think it's fate that we met here. I'll see you safely to the village.	VO_balt.balt_sys_0009
+135	Huh? What about your job as a court soldier? Weren't you being watched or something? There aren't many monsters around anymore. I'm sure we'll be fine on our own.	VO_mob-saga_omale.mog-saga_omale_sys_0006
+136	I'm not a court soldier anymore. I quit, so I'm free to do as I please. As a free man, I would be honored to be your guard today.	VO_balt.balt_sys_0022
+137	Wha—? You mean...?	VO_mob-saga_omale.mog-saga_omale_sys_0025
+138	It's not something you need to worry about. I'm going to protect the people worth protecting. That's all there is to it. Now, it's been a while. Let's catch up.	VO_balt.balt_sys_0010
+139	Huzzzzaaahhhh!!!	VO_balt.balt_battle_0009
+140	Crap! There are too many of them! Why are there so many monsters here?!	VO_balt.balt_sys_0016
+141	Do as you wish. You are easily replaced. I hope you won't regret leaving us.	VO_stknightm.stknightm_sys_0008
+142	(Don't tell me... Could they have done this?! If that's true—!)	VO_balt.balt_sys_0020
+143	(No, this isn't the time to think about that. I'm the only one who can protect them!)
+144	(Get a hold of yourself, Balt! Didn't you decide to protect the people you care about?! Hrrghh! Please be safe!)	VO_balt.balt_battle_0019

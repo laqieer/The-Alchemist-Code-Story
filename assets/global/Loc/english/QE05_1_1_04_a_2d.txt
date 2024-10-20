@@ -1,0 +1,102 @@
+﻿001	There is someplace I must go alone. Wait here.	VO_kamui-b.kamui-b_sys_0002
+002	Sure! Oh, but is it okay if I look around a bit?	VO_hisham-b.hisham-b_sys_0005
+003	There are plenty more men like the ones from earlier. It is much too dangerous for a child to wander alone.	VO_kamui-b.kamui-b_sys_0020
+004	Aw, man... Fine.	VO_hisham-b.hisham-b_sys_0016
+005	When I return, we will begin searching for clues about your memory. Wait here until then.	VO_kamui-b.kamui-b_sys_0031
+006	I suppose this is as good a place as any.	VO_kamui-b.kamui-b_sys_0037
+007	You know why I am here. Show yourself.	VO_kamui-b.kamui-b_sys_0002
+008	Well, this shatters my confidence in my powers of subterfuge. Are all the Sephira so sharp?
+009	You think too highly of me. We Sephira merely do as Sephiron guides us.	VO_kamui-b.kamui-b_sys_0007
+010	Now you're just rubbing salt into my wounds. I did consider myself one of the more capable among King Narol's spies.	VO_knightm.knightm_sys_0030
+011	I know what you're here for. Beelzebub, right?	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+012	So there have been abnormalities, I see. When can I see the King?	VO_kamui-b.kamui-b_sys_0031
+013	I'd like to say soon, but honestly, your timing could have been better.	VO_mob-saga_ymale.mob-saga_ymale_sys_0037
+014	General Ceclidis of the Third Legion has returned from suppressing the southern rebels.
+015	And...? I am not sure I understand the problem.	VO_kamui-b.kamui-b_sys_0005
+016	The politicians of this country are on the brink of being overrun by the military.	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+017	This Ceclidis, he's a clever man with a taste for power.
+018	Almost half of the council is under his thumb, so King Narol cannot remove him from his position without consequence.
+019	I was under the impression King Narol had made significant progress in establishing a separation of state and military.	VO_kamui-b.kamui-b_sys_0037
+020	Well, there are always those who would prefer that things be done differently. Ceclidis is from an ancient noble bloodline, which makes him a perfect candidate for them.	VO_mob-saga_ymale.mob-saga_ymale_sys_0010
+021	The situation would be simpler if not for this civil war.
+022	If the military turned against us right now, this country would collapse. We just have to endure it for now.
+023	In other words, even a Sephira cannot be let into the castle until the situation is resolved?	VO_kamui-b.kamui-b_sys_0044
+024	The Sacred Stone is the symbol of royal authority. It is King Narol's trump card.	VO_mob-saga_ymale.mob-saga_ymale_sys_0037
+025	We cannot risk Ceclidis getting his hands on the secrets of the stone.
+026	How long?	VO_kamui-b.kamui-b_sys_0001
+027	A week at most.	VO_mob-saga_ymale.mob-saga_ymale_sys_0031
+028	Then I will spend some time enjoying your city. Luckily, I have other matters to attend to.	VO_kamui-b.kamui-b_sys_0045
+029	Please do. I shall contact you when things change.	VO_mob-saga_ymale.mob-saga_ymale_sys_0030
+030	Oh right, if you're going to be sightseeing, why not check out the Arena?	VO_mob-saga_ymale.mob-saga_ymale_sys_0002
+031	You should be able to catch the Champion's bout today.
+032	Gluttony is in worse shape than I had imagined.	VO_kamui-b.kamui-b_sys_0031
+033	Never mind that. I must focus on my duty, and that alone.	VO_kamui-b.kamui-b_chara_1003
+034	The Arena, huh?
+035	Oh boy, am I tired. I don't think I can take another step!	VO_hisham-b.hisham-b_sys_0030
+036	I am not surprised. We ended up making a full round of this city in one day.	VO_kamui-b.kamui-b_sys_0037
+037	The royal capital is overwhelmed with refugees because of the civil war.
+038	I was hoping one of them might know something about you, but...
+039	I suppose that was wishful thinking.	VO_kamui-b.kamui-b_sys_0030
+040	Maybe... I really was abandoned.	VO_hisham-b.hisham-b_sys_0018
+041	Maybe my family could no longer afford to feed me, and—
+042	When I found you, you were injured and exhausted, but there were no signs of starvation.	VO_kamui-b.kamui-b_chara_1003
+043	You were provided with proper meals and well-cared-for.
+044	Th-then, why?	VO_hisham-b.hisham-b_sys_0017
+045	I do not know, but I am sure your family is still searching for you.	VO_kamui-b.kamui-b_sys_0031
+046	If they are still alive, you mean.	VO_hisham-b.hisham-b_sys_0018
+047	Unfortunately, so.	VO_kamui-b.kamui-b_sys_0004
+048	Great. What am I supposed to do now?	VO_hisham-b.hisham-b_sys_0030
+049	I will... Hm...	VO_kamui-b.kamui-b_sys_0037
+050	Don't worry about it. I will figure it out for myself somehow.	VO_hisham-b.hisham-b_sys_0022
+051	I am sorry. I wish I could commit to helping you more, but I am limited in what I can do for you.	VO_kamui-b.kamui-b_sys_0004
+052	I just wish I at least knew where I come from.	VO_hisham-b.hisham-b_sys_0030
+053	Was there anything that caught your eye in the royal capital?	VO_kamui-b.kamui-b_sys_0001
+054	If so, it could be the catalyst we need to spark your memories.
+055	Hrm... Well, not really. Oh! I really wanna see the Arena!	VO_hisham-b.hisham-b_sys_0031
+056	The Arena, huh? The royal capital is famous for it. I hear they run a tournament in which gladiators can test their skills.	VO_kamui-b.kamui-b_sys_0044
+057	I was told the Champion is fighting today.
+058	R-really?!	VO_hisham-b.hisham-b_chara_1009
+059	Huh? Yeah?
+060	I'm interested! I'm really interested!	VO_hisham-b.hisham-b_sys_0009
+061	I suppose we should leave no stone unturned. Besides, it would be a waste not to see all that the royal capital has to offer.	VO_kamui-b.kamui-b_sys_0031
+062	Yay!	VO_hisham-b.hisham-b_sys_0046
+063	Be careful in this crowd, though. If you get lost, then I'll probably have to spend another whole day—	VO_kamui-b.kamui-b_sys_0002
+064	Mister Kamui! C'mon, hurry up!	VO_hisham-b.hisham-b_sys_0002
+065	Didn't that kid just say he was exhausted?	VO_kamui-b.kamui-b_sys_0030
+066	I don't want to leave the question of his care unresolved, but I do have my duty.	VO_kamui-b.kamui-b_sys_0031
+067	I hope he can remember something soon.
+068	Wow! Do they really get to fight in such a huge place?!	VO_hisham-b.hisham-b_sys_0009
+069	Uh, I guess that's the entrance?
+070	Whoa, hold on there, kiddo!
+071	Urk?! Uh, what?	VO_hisham-b.hisham-b_sys_0027
+072	If you want to get into the Arena, you gotta buy a ticket.	VO_mob-saga_omale.mog-saga_omale_sys_0010
+073	You have any identification? Where are your parents?
+074	Well, um...	VO_hisham-b.hisham-b_sys_0018
+075	No ID and no parents? You're not a runaway slave, are you?!	VO_mob-saga_omale.mog-saga_omale_sys_0006
+076	Of course not! I'm here with my brother, but we got separated!
+077	Th-there he is! Mi—Kamui!	VO_hisham-b.hisham-b_sys_1047
+078	Hisham? What's going on? What's with the yelling?	VO_kamui-b.kamui-b_sys_0037
+079	Are you this kid's brother?	VO_mob-saga_omale.mog-saga_omale_sys_0016
+080	Oh... I see.	VO_kamui-b.kamui-b_sys_0004
+081	He is indeed my brother. Do you need some identification? Would this work?
+082	Yup, that works. Sorry kid, didn't mean to scare you.	VO_mob-saga_omale.mog-saga_omale_sys_0004
+083	You've chosen the right day to visit the Arena! Our Champion, Teona, is in today's title match! Have fun!	VO_mob-saga_omale.mog-saga_omale_sys_0007
+084	Th-Thank you.	VO_hisham-b.hisham-b_sys_0034
+085	I told you to be careful, did I not?	VO_kamui-b.kamui-b_sys_0030
+086	Yes...	VO_hisham-b.hisham-b_sys_0016
+087	To be honest, I do not approve of how familiar you are getting with me.	VO_kamui-b.kamui-b_sys_0031
+088	Ka— Mister Kamui? You mean...?	VO_hisham-b.hisham-b_sys_1047
+089	You are trying to regain your memory and find your family.	VO_kamui-b.kamui-b_sys_0002
+090	It would be better not to get too close. I'm not your family. We just happen to be sharing the same path at the moment.
+091	Do not give up. Your family is fine, and you will see them again.
+092	Believe in that or you will never find them.
+093	That's... Yeah, you're right.	VO_hisham-b.hisham-b_sys_0016
+094	However, it is fine for me to be your "brother" while we are here, since we did tell the ticket vendor so.	VO_kamui-b.kamui-b_sys_0004
+095	Really? Okay!	VO_hisham-b.hisham-b_sys_0005
+096	Oh, hey! Kamui, look! The gladiators are lining up to—hey!	VO_hisham-b.hisham-b_sys_1047
+097	Uh-oh.
+098	You?! What are you jerks doing here?!	VO_thiefm.thiefm_sys_0017
+099	The ones that attacked us before...!	VO_kamui-b.kamui-b_sys_0037
+100	I didn't know this guy was a gladiator. My image of gladiators just got ruined.	VO_hisham-b.hisham-b_sys_0010
+101	You loudmouthed brat! You picking a fight with me?!	VO_thiefm.thiefm_sys_0012
+102	This is the last straw! You two will make the perfect warm up before my title match!	VO_thiefm.thiefm_sys_0013

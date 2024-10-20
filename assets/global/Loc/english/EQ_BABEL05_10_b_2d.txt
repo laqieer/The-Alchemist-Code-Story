@@ -1,0 +1,114 @@
+﻿001	It was my intention to decline, you know.
+002	Let me guess, you couldn't because you're on the job?	VO_rofia.rofia_sys_0031
+003	No, I am an adult. I was merely being polite.	VO_cheryl.cheryl_sys_0031
+004	Well, you did a great job. Here, have some marshmallows!	VO_rofia.rofia_sys_0044
+005	Please, you enjoy them.	VO_cheryl.cheryl_sys_0040
+006	They're so squishy and delicious!	VO_rofia.rofia_sys_0024
+007	Marsh...mallows?
+008	Wouldn't you like some, too?	VO_rofia.rofia_sys_0002
+009	I-I told you! I'm not really here! I can't interact with things.
+010	Oh, I know.	VO_rofia.rofia_sys_0004
+011	H-huh?
+012	Ooh, they're so sweet! Squish, squish!	VO_rofia.rofia_sys_0046
+013	N-now that's just mean!
+014	Magic is merely a branch of Alchemy. Your country, Lustburg, has expanded upon it most successfully.
+015	Lustburg... The matriarchal society and land of the witches.
+016	Matri...archal?
+017	Yes, and even that is merely a twisted kind of order brought about by power run rampant.
+018	It is the curse of the Sacred Stone Asmodeus.
+019	So Asmodeus...is a stone? A sacred one?
+020	Don't you know about the Sacred Stones?	VO_rofia.rofia_sys_0025
+021	Not a thing.
+022	Is that true of everyone from your time?	VO_cheryl.cheryl_sys_0001
+023	It's true of me.
+024	Anyway, what's this about a curse?
+025	A very long time ago, there was a witch who made a pact with Asmodeus in order to proliferate the curse. She is known as Mother, for being the mother of sin and calamity.
+026	When a male child is born of man and woman, it becomes an insect. Such was the disgusting curse she inflicted upon her people.
+027	(The power of Asmodeus...)
+028	It's mostly women who possess the capacity for magic in the first place.
+029	Those who are bereft of it are oppressed.
+030	Wow. You've really done your homework on this! Here, have a scone.	VO_rofia.rofia_sys_0044
+031	I'd really rather some tea.	VO_cheryl.cheryl_sys_0039
+032	What's a scone?
+033	You can...not have one, because you're not really here! What a shame!	VO_rofia.rofia_sys_0007
+034	Y-you...! You knew I couldn't...!
+035	Ahem. Those who are bereft of it are oppressed.
+036	Right. O-oppressed...
+037	The entire country is steeped in the tradition of matriarchy, in which its government and culture are also deeply-rooted.
+038	Yet, some men from Lustburg—a select few—were once a part of the Holy Guard.
+039	According to the database contained within my monocle, there was a man called Wilhelm...and, of course, there was Othima, the previous captain of the 6th Regiment.
+040	However, even having made a successful career for themselves outside of Lustburg, they were always belittled upon their return. They were not allowed an iota of pride between them.
+041	...
+042	It is not my intention to denounce the entire nation, however. I know that the Court Mage Order, for example—of which Lofia, here, is a member—exercises its powers appropriately.
+043	So those who can use magic are the ones who take care of the country?
+044	Court Mages are the highest-ranking mages in Lustburg. They are proficient in and knowledgeable of both magic and academia, and they use their powers to maintain public order both within and beyond their borders.
+045	However, those with strong magical leanings are almost exclusively women.
+046	We're the right people for the job.
+047	We have the power to protect nations, so we make use of it.
+048	There are also those like Michael, who may not wield the strongest magic, but are still recognized as Court Mages for qualities such as wisdom and work ethic.
+049	Just as there are those of us who believe that it would be better if the curse and the ridiculous discrimination simply disappeared.
+050	I feel that way, and that's why I've been researching magic.
+051	I've done what I can to protect my country. I went to those ruins, I found that book, and Milis, and I even...
+052	So why is it...? Why did things end up like this?
+053	...
+054	Discrimination brings nothing but misery. I wish it'd all just go away.
+055	Sometimes, I wonder why magic even exists.
+056	Are you cold?	VO_cheryl.cheryl_sys_0001
+057	I'm used to the cold, but...
+058	I guess I'm still recovering.	VO_rofia.rofia_sys_0031
+059	Here. Try eating this.	VO_cheryl.cheryl_sys_0005
+060	What is it?
+061	It's a pickle.
+062	A pick...?
+063	Go on. Have a nibble.
+064	Umgf...
+065	...
+066	Bleuggghhhh! It's spicy! It burns! Bleugh! Gross!	VO_rofia.rofia_sys_0028
+067	Th-they are meant to be a little spicy...	VO_cheryl.cheryl_sys_0037
+068	Yikes!
+069	Arrrgggghhh! It burns!	VO_rofia.rofia_battle_0027
+070	To think, they're actually quite tasty.	VO_cheryl.cheryl_sys_0039
+071	Y-you...! You...!	VO_rofia.rofia_battle_0024
+072	This is my revenge for your staring earlier.	VO_cheryl.cheryl_sys_0007
+073	Why don't you drink some tea?
+074	T-tea. Th-that's a good...idea—arggghhhhh! It's so hot! It burns!	VO_rofia.rofia_sys_0028
+075	Hahahahah! And there goes my revenge.
+076	E-eat snow!	VO_rofia.rofia_battle_0024
+077	Hmhm. It was also an apology.	VO_cheryl.cheryl_sys_0008
+078	For...what?	VO_rofia.rofia_sys_0006
+079	I'm partial to spicy foods, you see.
+080	Oh. I get it.
+081	I am sorry that I couldn't enjoy the sweets with you.	VO_cheryl.cheryl_sys_0036
+082	I-it's fine. I don't think I can enjoy spicy things...with you, either. Bleugh!	VO_rofia.rofia_battle_0024
+083	Hmhm.	VO_cheryl.cheryl_sys_0007
+084	Perhaps it did sting a little, but...	VO_cheryl.cheryl_sys_0001
+085	It did warm you up as well, yes?
+086	Well, well, well. This was very thoughtful of you.	VO_michael.michael_sys_0034
+087	I was hoping to shock you with these skewers of whole water lizards, but I got carried away!	VO_milis.milis_sys_0031
+088	I am sorry to have disappointed you, my dear.	VO_michael.michael_sys_0035
+089	Oh, it's fine! I had to run an errand for my grandma, and buy some presents, and...	VO_milis.milis_sys_0007
+090	There has been an urgent matter of business.
+091	Oh, right! Lofy is out on some official Court Mage business, is she?	VO_milis.milis_sys_0004
+092	Well...
+093	So, when is she coming back?	VO_milis.milis_sys_0002
+094	I promised her that we'd eat sweets together again, and that I'd tell her all about my homeland!	VO_milis.milis_sys_0008
+095	Oh! And she said she'd teach me about how to be a gentlewoman like her!
+096	It is likely that her return will take some time.	VO_michael.michael_sys_0031
+097	Aww, no! What a shame!	VO_milis.milis_sys_0031
+098	Oh, well! Anyway, you've got to try these water lizard skewers!	VO_milis.milis_sys_0002
+099	May I?	VO_michael.michael_sys_0004
+100	Don't let them go to waste! They're really yummy, I promise!
+101	You've gotta tell Lofy how good they are, okay?!	VO_milis.milis_sys_0041
+102	She makes this disgusted face whenever I so much as mention water lizard cuisine!	VO_milis.milis_sys_0007
+103	If you recommend them, maybe she'll give one a try! They make you feel really great!
+104	Heheh! So eat up! I'll make more for the next time we see each other!	VO_milis.milis_sys_0008
+105	Hmm...
+106	Yes. Lady Lofia has a good friend in you.	VO_michael.michael_sys_0033
+107	Heheh... Heheheheheh! I guess so? I just love spending time with Lofy! It's so much fun!	VO_milis.milis_sys_0050
+108	It is rather rude of her to have failed to greet you so many times.	VO_michael.michael_sys_0004
+109	The next time I see her, I will tell Lady Lofia that she ought to visit you.	VO_michael.michael_sys_0038
+110	You mean it?! Thanks! I'll be waiting!	VO_milis.milis_sys_0033
+111	Ohohohohoh!	VO_michael.michael_sys_0007
+112	I'm so excited!	VO_milis.milis_sys_0009
+113	I'll be waiting! I'll wait as long as it takes!
+114	Tell her she can come and see me anytime, okay?! Anytime!	VO_milis.milis_sys_0007

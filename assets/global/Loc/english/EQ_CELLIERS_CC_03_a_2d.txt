@@ -1,0 +1,32 @@
+﻿001	...Wh-where am I?
+002	Awake now, are you?	VO_flamel.flamel_sys_0004
+003	Flamel...! Wh-where's Mielikki?! A-augh...
+004	Don't force yourself to get up. Your power ran amok, and you lost consciousness.	VO_flamel.flamel_sys_0017
+005	Don't worry about Mielikki. She's gone to tend to her flower bed.
+006	Oh, right. The flower bed...	VO_celliers.celliers_sys_0037
+007	I was unable to capture your assailants. Forgive me.	VO_flamel.flamel_sys_0022
+008	N-no, that's my line. I'm sorry I caused so much trouble...	VO_celliers.celliers_sys_0039
+009	...They were after your crystals. I suppose Michael was right to be concerned.	VO_flamel.flamel_sys_0002
+010	......
+011	Is there any veracity to their claim? That your crystals have the power to remove curses.
+012	...One of the guys involved in my experiment said something to that effect.	VO_celliers.celliers_sys_0031
+013	Still, any attempt they made to remove curses seemed to end in failure. That power must be beyond me.
+014	In fact, all this power's done is put Mielikki in danger. Even take her precious beloved flowers, and—
+015	Celliers, you're awake! Thank the stars!	VO_mielikki.mielikki_sys_0009
+016	Mielikki...
+017	...Are you okay, Celliers? You're not looking too hot.	VO_mielikki.mielikki_sys_0002
+018	I'm... I'm so sorry, Mielikki. Your precious flowerbed, I—	VO_celliers.celliers_sys_0035
+019	You, nothing! You didn't do anything wrong! It's those jerks that caused this!	VO_mielikki.mielikki_sys_0016
+020	You saw them stomp all over my flowers, and got upset on my behalf, didn't you?
+021	But they were after me. That makes this all my fault.	VO_celliers.celliers_sys_0001
+022	Celliers...
+023	......
+024	......
+025	...Um, perhaps the two of you would accompany me to our laboratory for now?	VO_flamel.flamel_sys_0001
+026	You should go into hiding for now—Celliers, of course, but you as well, Mielikki. They've seen your face, after all.
+027	We have ample security at the laboratory. Even if they show up, we can drive them away. What do you say?
+028	Hmm... What do you think, Celliers?	VO_mielikki.mielikki_sys_0031
+029	...I'm for it. If this happens again, the villagers might be the next ones caught in the crossfire.	VO_celliers.celliers_sys_0004
+030	(And if anything else were to happen to Mielikki, I...)
+031	Okay, then it's settled! If you're going, I'm going, too!	VO_mielikki.mielikki_sys_0038
+032	Very well. We should set up at once.	VO_flamel.flamel_sys_0032

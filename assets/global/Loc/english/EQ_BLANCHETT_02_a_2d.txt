@@ -1,0 +1,193 @@
+﻿001	Run. All right, go back to the village.
+002	No way I'm letting them escape!	VO_blanchett.blanchett_battle_0016
+003	...! Wait, you!	VO_freed.freed_sys_0043
+004	Don't stop me! I'm gonna kill the wolf! Kill it! Ahahah! I'm going to shred it to pieces!	VO_blanchett.blanchett_sys_0013
+005	Enough of that! Agh...what strength...someone! Help!	VO_freed.freed_sys_0015
+006	Out of my way!	VO_blanchett.blanchett_battle_0010
+007	Ughh...	VO_freed.freed_battle_0026
+008	We're all right. Um, my apologies...for the trouble the child caused.	VO_knightm.knightm_sys_0001
+009	No. Still, that was quite the frenzy...
+010	From when she came to our orphanage, whenever a wolf would appear or howl...or even the mention of one in conversation...	VO_knightm.knightm_sys_0030
+011	I want to do something to help, but I'm not even sure of what the cause is.
+012	I see...
+013	Phew...	VO_freed.freed_sys_0016
+014	You seem exhausted. You're quite the looker now.	VO_vanekis.vanekis_sys_0007
+015	It was the first time I've been hit in the face.	VO_freed.freed_sys_0004
+016	I have some medicine to prevent bruising. Hold on a second.
+017	No, leave it. More importantly, I want to continue our conversation from the afternoon.
+018	Oh, right.
+019	According to the rumors...the landlord is connected to the Holy Guard.
+020	Is that a fact?	VO_freed.freed_sys_0007
+021	I couldn't confirm it, but its credibility is high. Quite a few people lost their lives trying to obtain this information.	VO_vanekis.vanekis_sys_0031
+022	I see. If that's the truth then I'm sure the landlord will try desperately to conceal it.	VO_freed.freed_sys_0045
+023	If Wratharis were to find out about it, it'll be a big deal.	VO_vanekis.vanekis_sys_0005
+024	If that's the case, there's a danger of me interfering and making matters worse. It might be best if I don't meet with him.	VO_freed.freed_battle_0019
+025	I wonder what's so fun about living one's life so fast and dangerous.	VO_freed.freed_sys_0030
+026	Heheh. It's the times we live in. Can you hear that? The sound of history driving us forward?	VO_vanekis.vanekis_sys_0007
+027	Even if that were the case, I feel like I want to shut my ears and stay buried in bed.	VO_freed.freed_sys_0010
+028	With that attitude, you must be suffering a lot in your current position.	VO_vanekis.vanekis_sys_0049
+029	I...
+030	I see. So you're already leaving. I'm sorry I could not be much assistance. Will you be leaving tonight?	VO_knightm.knightm_sys_0031
+031	Yes. I plan to return to the capital. By the way...	VO_freed.freed_sys_0004
+032	Regarding the ingredients for the Stones...how are they being transported from here?
+033	Well, it is being delivered directly to His Majesty...
+034	For these past few months, the landlord has even prepared a carriage and escort for their transport.
+035	(Just as I thought.)	VO_freed.freed_sys_0045
+036	(The landlord is completely involved in the disappearance of the Stones' ingredients.)
+037	Oh, that's right! If you'd like, please meet with the children.
+038	They would like to thank you for having saved them.	VO_knightm.knightm_sys_0007
+039	Oh dear. I'm not very good at those things.	VO_freed.freed_sys_0042
+040	Lord Freed?	VO_knightm.knightm_sys_0001
+041	Ah, um, of course.	VO_freed.freed_sys_0007
+042	Lord Freed!
+043	Thank you for saving us! I definitely want to become a soldier like you!
+044	No, that...	VO_freed.freed_sys_0025
+045	...!	VO_blanchett.blanchett_chara_2006
+046	Ah...
+047	Blanchett...
+048	...!	VO_blanchett.blanchett_sys_0042
+049	... ...
+050	... ...
+051	(The Stone is indeed responding. Is it responding to the strength of her Alchemia?)	VO_freed.freed_sys_0027
+052	Can I talk with you a little?	VO_freed.freed_sys_0002
+053	Why did you come over here? The other children want to talk with you.	VO_blanchett.blanchett_sys_0018
+054	I'm not used to being seen that way. I'm more of the academic type.	VO_freed.freed_sys_0016
+055	Academic?	VO_blanchett.blanchett_sys_0005
+056	My work has more to do with academia than actual fighting.	VO_freed.freed_sys_0004
+057	I don't really understand those things. Do you mean you read difficult books?	VO_blanchett.blanchett_chara_1003
+058	Well, deciphering old texts is part of my work. Also, I help draft policies and gather information.	VO_freed.freed_sys_0031
+059	Yeah, it seems difficult.	VO_blanchett.blanchett_sys_0016
+060	It's quite fun when you get used to it. Much more enjoyable than swinging a blade.	VO_freed.freed_sys_0008
+061	Um...Mr. Freed?	VO_blanchett.blanchett_sys_0031
+062	You can just call me Freed. For starters, I'm not as great as everyone says I am. It's more a reflection of my parentage.	VO_freed.freed_sys_0004
+063	My father is a soldier of Wratharis. He's a tough guy. Apparently, before the rise of the Deadly Trio, he was the head of the army.
+064	So he's a scary person.	VO_blanchett.blanchett_sys_0045
+065	Yes. That's why no one would come near me when I was a child.	VO_freed.freed_sys_0004
+066	For other children, it was like I was carrying a bomb.
+067	I'm used to it now, but at the time it made me feel very lonely.
+068	I'm not scared of you.
+069	My father and mother are here with me. The bright red of that day is burned into my vision!
+070	(The Stone again... Does it respond with excitement every time she reacts emotionally?)	VO_freed.freed_sys_0025
+071	That's why I'm going to live. No matter how painful it gets, I'm going to live, live, live!
+072	With my own hands, with these blades...I'm going to eradicate all the wolves!
+073	(Oh...even after she lost everything...her family...her home...she's chosen to live.)	VO_freed.freed_sys_0016
+074	Do you always carry those blades with you?	VO_freed.freed_sys_0002
+075	I got them from my mother... They're more important to me than life itself.	VO_blanchett.blanchett_sys_0004
+076	That's why...if I use them to kill all the wolves...all of them...I'm sure I can go back to my home.
+077	...I see.	VO_freed.freed_sys_0007
+078	Blanchett.	VO_freed.freed_sys_0002
+079	...?
+080	Fold here like this. All right, now can you use your blade to cut here?
+081	Folding paper? Why would I...	VO_blanchett.blanchett_sys_0005
+082	Here, try it.	VO_freed.freed_chara_1005
+083	Just once.	VO_blanchett.blanchett_sys_0018
+084	Then spread it like this...see?	VO_freed.freed_sys_0033
+085	A paper...rabbit?	VO_blanchett.blanchett_chara_2006
+086	It's called folding pictures. What do you think? That's not a bad way to use your blades, is it?	VO_freed.freed_sys_0004
+087	Folding pictures...I didn't know I could use my blades like that.	VO_blanchett.blanchett_sys_0045
+088	It's not just your blades...I'm sure there are many things you can do. Revenge is only a small part of who you are.	VO_freed.freed_sys_0023
+089	Huh...?	VO_blanchett.blanchett_sys_0005
+090	Even if your revenge ends, your life will continue. That's why you should start thinking about what happens when it's all over.
+091	I'm sure you'll be able to find a different answer.
+092	Free...	VO_blanchett.blanchett_chara_2001
+093	Oh, that's so cute! Did you make that, Blanc?
+094	Um, well...	VO_blanchett.blanchett_chara_2006
+095	Wow, that's amazing! It's like magic! Hey, can you make a squirrel?!
+096	Um, well...Freed?	VO_blanchett.blanchett_sys_0005
+097	I'm sorry. I only know how to cut out a rabbit.	VO_freed.freed_sys_0035
+098	Aww...a-are you serious?! Er, squirrel...maybe, if I cut this here...	VO_blanchett.blanchett_sys_0026
+099	Wow! It's a squirrel! Amazing!
+100	Are you not scared of me?	VO_blanchett.blanchett_chara_2001
+101	Don't you remember how you protected all of us, Blanc?
+102	...!
+103	Of course, I was a little surprised, but I know you're like an older sister to me.
+104	So thank you, Blanc! You were a little scary but really cool!
+105	...I see. I see...	VO_blanchett.blanchett_sys_0018
+106	Blanc? Why are you crying?
+107	It's nothing. I'm completely fine...	VO_blanchett.blanchett_sys_0007
+108	Oh, I'm glad.	VO_freed.freed_sys_0008
+109	...Huh?	VO_blanchett.blanchett_sys_0005
+110	You're finally here now. You're making new relationships here. Your life of value to others.
+111	I'm relieved. Your life is much more radiant than mine.
+112	...Freed?
+113	Well, I'm gonna go now. Be well, Blanchett.
+114	...Is that story true?
+115	Yes. As early as tonight, the children are going to be brought from that orphanage to the capital.	VO_thiefm.thiefm_sys_0004
+116	They're going to be used as ingredients for a Philosopher's Stone...that abominable Alchemy crystal...
+117	Are you telling me the rumor that the royal family of Wratharis is indulging in Alchemy is true?	VO_zeke_young.zeke_sys_0025
+118	Yes! In order to stop this abomination, I have been secretly strengthening my ties with the Holy Guard, but...	VO_thiefm.thiefm_sys_0005
+119	I never expected them to move so fast.	VO_thiefm.thiefm_sys_0042
+120	The Holy Guard still has not received permission to send troops and my personal soldiers stand no chance against the Royal Guard.
+121	These past few months, I've tried every means possible to protect the children, but...
+122	Indeed, this blood has a strong Alchemia reaction.	VO_zeke_young.zeke_sys_0016
+123	There is no doubt then that the owner of this blood...the children of the orphanage, are being carried into the capital?	VO_zeke_young.zeke_sys_0031
+124	Of course. You've witnessed how, even now, Wratharis troops are stationed outside the village.	VO_thiefm.thiefm_sys_0004
+125	... ...
+126	Please, Captain Zeke! Use your power to save these innocent children!	VO_thiefm.thiefm_sys_0041
+127	I belong to Envylia. If this occurs within Wratharis territory, it'll start a war.	VO_zeke_young.zeke_sys_0001
+128	That may be the case. But think of all the lives that'll be lost if you let this abomination occur! The poison of Alchemy will spread like wildfire!	VO_thiefm.thiefm_battle_0019
+129	This is to protect the Magna Code...to maintain the stability of the continent. Please think of it that way!
+130	I will save the lives of the children. That alone is enough, correct?	VO_zeke_young.zeke_sys_0004
+131	That is all I ask.	VO_thiefm.thiefm_sys_0004
+132	...Very well.	VO_zeke_young.zeke_sys_0005
+133	...
+134	It appears to have gone well.	VO_stknightm.stknightm_sys_0030
+135	...?! Y-you scum...there...I've done my part, have I not?	VO_thiefm.thiefm_battle_0023
+136	Yes, it's enough.	VO_stknightm.stknightm_sys_0037
+137	Blue Flame Wolf Zeke...he does not need this many men to start a war with Wratharis.
+138	Furthermore...in the name of the Holy Guard, I will rule Wratharis under the direct jurisdiction of Northern Pride!	VO_thiefm.thiefm_sys_0023
+139	... ...
+140	Agh?! Wh-why...?	VO_thiefm.thiefm_battle_0026
+141	It's natural to dispose of that which is no longer necessary, isn't it?	VO_stknightm.stknightm_sys_0025
+142	A pig like you which is motivated by greed has no place bearing the name of the Holy Guard.	VO_stknightm.stknightm_sys_0010
+143	In order to bring peace to this continent...you will sink along with Wratharis in the depths of history.
+144	...Um.	VO_blanchett.blanchett_sys_0018
+145	Oh, what is it this late at night. It's time for children to be in bed, you know?
+146	I thought that Freed might be here, so I came to ask.
+147	Oh, would you be Blanchett?
+148	Yes. Why do you ask?	VO_blanchett.blanchett_sys_0004
+149	I was given something to give to you in case you came asking.	VO_vanekis.vanekis_sys_0037
+150	Huh? A difficult-looking book...and a beautiful stone?	VO_blanchett.blanchett_sys_0005
+151	Don't ask me about it. I don't know what it means. If I recall...he said that it was a charm to protect you.
+152	That's so mean. He didn't even say a proper goodbye.	VO_blanchett.blanchett_sys_0021
+153	Was there something you wanted to talk with him about?	VO_vanekis.vanekis_sys_0004
+154	No, it's not that, but...the last time I met him it was like I felt he was going to disappear...	VO_blanchett.blanchett_sys_0018
+155	Besides, I can't read this difficult book...	VO_blanchett.blanchett_sys_0016
+156	I'm sure you will meet him again. You know, you could always go directly to his workplace?	VO_vanekis.vanekis_sys_0007
+157	Workplace?	VO_blanchett.blanchett_sys_0005
+158	He works as the administrator for the National Library. If you're interested, then try to go see him. You can shove that book back in his face while you're at it.
+159	The National Library...
+160	All right then, back home with you. If you stay up too late, you'll regret...
+161	A-an enemy attack! Everyone, hurry and run...agh?!	VO_knightm.knightm_sys_0028
+162	What?!	VO_vanekis.vanekis_sys_0025
+163	...! The orphanage is in danger!	VO_blanchett.blanchett_sys_0042
+164	Oh, hey! Wait! It's dangerous to go there now!
+165	Lord Freed, preparations for departure have been completed.
+166	All right. There's no time to waste. Let's head out immediately.	VO_freed.freed_sys_0004
+167	Understood! Make way for the carriage! We return to the capital!	VO_stknightm.stknightm_battle_0002
+168	I'm sorry, Neville. I gave that Stone to the girl.	VO_freed.freed_sys_0035
+169	(I wonder why I did that.)	VO_freed.freed_sys_0031
+170	... ...
+171	I know. It was because she was dazzling. Hating something, yet trying so hard to live.	VO_freed.freed_sys_0007
+172	If there are children like that...then I am sure a bright future awaits Wratharis.
+173	Heh. I'm starting to sound like a withered old man.	VO_freed.freed_sys_0010
+174	I wonder if there truly will be a moment for me when I will feel like I'm alive.	VO_freed.freed_sys_0016
+175	Hurraahhh!	VO_zeke_young.zeke_sys_0032
+176	Agh! Enemy attack! All soldiers, battle stations! Protect Lord Freed!	VO_stknightm.stknightm_battle_0026
+177	What...?! An attack now?!	VO_freed.freed_sys_0027
+178	Don't get in my way!	VO_zeke_young.zeke_battle_0001
+179	Keep the conflict to a minimum! Promptly secure the carriage and enable its escape!
+180	Yes, Captain!	VO_knightm.knightm_sys_0032
+181	You are Captain Zeke of the Blue Flame Guard. What are you doing here?!	VO_freed.freed_battle_0024
+182	I will have you free the children you are trying to take with you!	VO_zeke_young.zeke_sys_0013
+183	What are you talking about?	VO_freed.freed_sys_0025
+184	(Could this be on the orders of the landlord?! He must be trying to stop me before I can report to His Majesty!)	VO_freed.freed_sys_0042
+185	In any case, your use of Envylia's soldiers can be seen as nothing more than a proclamation of war.	VO_freed.freed_battle_0021
+186	Huzzah!	VO_zeke_young.zeke_battle_0007
+187	Agh!	VO_freed.freed_battle_0026
+188	(An academic like me is no match for them! I need to persuade them...no...you fool! How can you speak reason to that legendary Zeke on the battlefield?!)
+189	Hurrah!
+190	Lord Freed, we've received word from the soldiers left in the village! There was some kind of raid!
+191	What...?!	VO_freed.freed_sys_0027
+192	(Ack! If the landlord is behind all of this...)	VO_freed.freed_battle_0021
+193	She...the orphan children are in danger! Hurry! We need to head back to the village!	VO_freed.freed_battle_0020

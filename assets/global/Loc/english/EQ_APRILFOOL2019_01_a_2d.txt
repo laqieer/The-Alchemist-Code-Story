@@ -1,0 +1,79 @@
+﻿001	Stories are often formed against the wishes of the people. As for the history of Headstrong Dias, told through the stones—
+002	This is the sinful tale of the stone that creates all life, of Headstrong Dias, and of how they intertwine.
+003	We were always together. We breathed the same air, dreamed the same dream, and loved the same person.
+004	We laughed and cried together. We shared our joy as well as our pain.
+005	Our hearts were always one.
+006	Yet, somehow, of the two of us it is only Dias who is losing his way, becoming Headstrong Dias. How did this come to pass?
+007	Agatha! There you are!	VO_dios.dios_sys_0001
+008	Huh? What's the matter, you two?	VO_agasa.agasa_sys_0025
+009	Leaving the main army is dangerous! What're you doing out here?!	VO_logi.logi_sys_0013
+010	What do you mean? I'm stocking up on medicinal herbs, of course.	VO_agasa.agasa_sys_0007
+011	Medicinal herbs?	VO_dios.dios_sys_0044
+012	This is the healing prairie, Siguroardottir. Various types of medicinal herbs grow in clusters here.
+013	There are a lot of injured within the Guard, aren't there? I thought I would collect these and make plenty of healing salve.	VO_agasa.agasa_sys_0011
+014	Agatha...	VO_logi.logi_sys_0011
+015	You're right. We can never have enough medicinal herbs. Let me help.	VO_dios.dios_sys_0031
+016	Dias...? You're willing to help?	VO_logi.logi_sys_0025
+017	Hm? What sort of herb is this?	VO_dios.dios_sys_0002
+018	That's actually a kind of mushroom. An Alchemy Mushroom.	VO_agasa.agasa_sys_0005
+019	I heard that someone who looked like nobility was seen planting them around here recently.
+020	Alchemy...? Would eating this give me power?	VO_dios.dios_sys_0044
+021	What? Power?	VO_agasa.agasa_sys_0025
+022	Dias?! Wait, don't! What are you doing?!	VO_logi.logi_sys_0015
+023	Bottoms up!	VO_dios.dios_sys_0032
+024	You ate it? Seriously?! You didn't even wash it! I thought you were civilized!	VO_logi.logi_sys_0026
+025	What were you thinking?!	VO_logi.logi_sys_0020
+026	I must gain power, no matter what anyone says!	VO_dios.dios_sys_0010
+027	So stubborn... So this is Headstrong Dias!	VO_logi.logi_sys_0039
+028	...
+029	Agatha? What's wrong?	VO_logi.logi_sys_0002
+030	You know, I always wanted to be an actress.	VO_agasa.agasa_sys_0002
+031	Wha—?! Agatha? D-did you eat the mushroom too?! What are you two doing?!	VO_logi.logi_sys_0026
+032	Agatha! Why did you eat one, too?! These Alchemy mushrooms could be...!	VO_dios.dios_sys_0015
+033	Oh... Sorry! Did I worry you?	VO_agasa.agasa_sys_0025
+034	N-no, I just... Eheh. Heheh. Hehehehehehe!	VO_dios.dios_sys_0047
+035	Ew! You are not acting like yourself, Dias! This has got to be the mushroom's fault!	VO_logi.logi_sys_0028
+036	Back then, nobody knew that these mushrooms would be the cause of Dias' breakdown.
+037	Get down, both of you! It's Wratharis soldiers!	VO_logi.logi_sys_0025
+038	Oh!
+039	It looks like they haven't noticed us. I wonder where they're headed.	VO_logi.logi_sys_0031
+040	It could be Naraba Village. You can see it over there. They're famous for their herbs, so it's certainly—	VO_agasa.agasa_sys_0002
+041	Are they gonna attack the village?	VO_dios.dios_sys_0017
+042	No, hold on! Can you see, Dias?! Monsters are attacking Naraba Village!	VO_logi.logi_sys_0025
+043	Are the Lizard Brigade gonna try to save the village?! How hypocritical of them.	VO_dios.dios_sys_0025
+044	Perfect. We'll be able to see how the famous Wratharis soldiers fight.
+045	What are you talking about, Dias! You're not going to help?!	VO_agasa.agasa_sys_0012
+046	There are piles of Alchemy Mushrooms stored in that village!
+047	That settles it. We're going in to help them!	VO_dios.dios_sys_0032
+048	Well, that was a quick change of heart. Agatha, you shouldn't stir him up like that!	VO_logi.logi_sys_0026
+049	Now, let the massacre begin!	VO_agasa.agasa_sys_0023
+050	Oh, brother. I guess this must be Headstrong Agatha...
+051	Let's go save them, and change this sad world!	VO_dios.dios_battle_0015
+052	Oh, come off it. We already know you're after the mushrooms! Don't you have any pride as one of the main characters?!	VO_logi.logi_sys_0016
+053	Sir Knight! Please, wait! What do you plan to do with them?
+054	What does it matter to you? The monsters have been taken care of.	VO_dios.dios_sys_0029
+055	I will have them reveal to me where the mushrooms have gone!	VO_dios.dios_sys_0010
+056	B-but, the Wratharis soldiers also protected the village.
+057	Dias! What are you doing?!	VO_logi.logi_sys_0015
+058	You came just in time. Help me get these guys to talk.	VO_dios.dios_sys_0004
+059	Hey! Where is your leader Sabareta?	VO_dios.dios_sys_0001
+060	Better yet, tell me where the mushrooms are! Hurry up and spit it out!	VO_dios.dios_sys_0029
+061	Urk!
+062	Dias! How could you?!	VO_agasa.agasa_sys_0026
+063	He's become so violent all of a sudden!	VO_logi.logi_sys_0025
+064	I need more power! Give me the Alchemy Mushrooms!	VO_dios.dios_sys_0013
+065	No wonder people call you Headstrong Dias...	VO_logi.logi_sys_0026
+066	Shut up! I've had it with people calling me Headstrong Dias!	VO_dios.dios_sys_0015
+067	This isn't my fault! The developers made me what I am!	VO_dios.dios_sys_0017
+068	Dias is going meta! This must be the mushroom's effects! At least, I sure hope it is!	VO_logi.logi_sys_0029
+069	I-I've told you already! I'm not saying a word to you, you religious dogs! Hurry up and kill me!
+070	I see... Then I'll just have to rub the Alchemy Mushroom's spores into every single one of your orifices!	VO_dios.dios_sys_0010
+071	We'll get a good harvest of mushrooms off of you!
+072	Stop it! How obsessed with mushrooms can you be?!	VO_logi.logi_sys_0015
+073	You lot are always the same!
+074	You all think farming must be easy, because it's peasants' work! But agriculture isn't as easy as all that! No mushrooms are gonna grow down there!
+075	Our wrath has awoken a mighty power! Fear us, the mushroom farmers of Babel!
+076	Foolish Envylia... Your day of reckoning is at hand!
+077	What is this guy saying now? Did he eat a mushroom, too?	VO_logi.logi_sys_0020
+078	Silence, rebel scum! Just let me harvest more mushrooms!	VO_dios.dios_sys_0013
+079	Dias, you're going too far! You're both from Wratharis! How could you do this to him?! You've gone insane!	VO_logi.logi_sys_0026

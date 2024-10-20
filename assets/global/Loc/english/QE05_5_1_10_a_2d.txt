@@ -1,0 +1,51 @@
+﻿001	There! That must be the Liberation Army's camp!
+002	Take the carriage to the back of the formation. Be sure to keep it away from any water.	VO_kamui.kamui_sys_0002
+003	Yes, Sir!
+004	Kamui! Glad to see you've made it!
+005	Sorry to make you wait, your Highness. We've brought all that we could carry.
+006	Now, the question is simply whether it will work or not.	VO_adalbert.adalbert_sys_0016
+007	It worked on some of the Jam we encountered along the way. If there're no differences in the individual creatures, it should work just fine.	VO_tina.tina_sys_0004
+008	Were you able to prepare what we discussed?	VO_kamui.kamui_sys_0001
+009	Yes, we managed to build several large catapults. We've also issued slings to each soldier.	VO_adalbert.adalbert_sys_0004
+010	But...these still may not be enough to cover the entire battlefield.
+011	Don't worry. I have an idea.	VO_kamui.kamui_sys_0037
+012	Is there something I can do to help?	VO_tina.tina_sys_0001
+013	Perfect! Wind like this should be able to carry the agent anywhere on the battlefield!	VO_adalbert.adalbert_sys_0024
+014	Wind Ouija isn't really meant to be used like this.	VO_tina.tina_sys_0030
+015	Sorry, but we have to use what we can, however we can. We'll need you to deliver the drying agent throughout the battlefield.	VO_kamui.kamui_sys_0039
+016	Using Ouija over such a large area would cost me a lot of energy. I'd only be able to do it a few times.	VO_tina.tina_sys_0031
+017	Mocca should be getting here sometime soon. Wouldn't it lighten your load if you two took turns over time?	VO_kamui.kamui_sys_0037
+018	Maybe, but I'll have to work alone for a while either way, won't I? Ugh, this is going to suck.	VO_tina.tina_sys_0030
+019	We'll need you to coordinate the details of the distribution, Adelbert.
+020	Me? I feel like I should be on the front lines leading the soldiers, as their commander.	VO_adalbert.adalbert_sys_0016
+021	Ceclidis is at the arboreal altar beyond the ruins of the Sephira village.
+022	The Sephira village is well hidden. Someone who knows the terrain should stand at the front.
+023	Very well. Then I'll leave the soldiers to you, Kamui.	VO_adalbert.adalbert_sys_0037
+024	It's for the best.	VO_kamui.kamui_sys_0034
+025	Here's the plan... First, Logi and I will lead the Blue Tongues to the base of Sephiron.
+026	That will draw the Jam out to face you, won't it?	VO_logi-b.logi-b_sys_0001
+027	That's what I expect. Ceclidis uses the Jam as extensions of his own limbs.	VO_kamui.kamui_sys_0037
+028	Once we engage, I'll use Spiritbonding to raise hell.
+029	That's when we'll use the catapults and Tina's Ouija to rain down the drying agent, huh?
+030	Speed is key for this plan. We only have a limited amount of drying agent, and—
+031	The resurrection ceremony...
+032	If what we heard at the royal capital is true, the completion of the ceremony would mean their powers will grow exponentially.
+033	Not to mention, Marie's safety will be at stake.
+034	Exactly. We will charge deep into their formation and disrupt their plans as quickly as possible.	VO_kamui.kamui_sys_0004
+035	And if possible, we will take Ceclidis out on the spot.	VO_kamui.kamui_sys_0031
+036	He is the source of Jam in this country.	VO_logi-b.logi-b_sys_0037
+037	Removing him from the equation should rid us of all the Jam, if not weaken them significantly.
+038	That would help us end this conflict very quickly.	VO_adalbert.adalbert_sys_0024
+039	Exactly. Now, let's get everything ready.	VO_kamui.kamui_sys_0004
+040	...!
+041	Logi, are you ready?	VO_kamui.kamui_sys_0002
+042	Yes, as are the Blue Tongues.	VO_logi-b.logi-b_sys_0004
+043	...
+044	Are you worried about Agatha and Dias?	VO_kamui.kamui_sys_0031
+045	Dias said he would not fight with us, did he not?
+046	He's always been so hardheaded. He never goes back on his word.	VO_logi-b.logi-b_sys_0031
+047	Agatha used to be able to drag him out no matter what, but I'm not sure if she can do so in her current state.
+048	Don't worry, Logi, I've already advised her on the matter.	VO_kamui.kamui_sys_0007
+049	You have?	VO_logi-b.logi-b_sys_0025
+050	We'll head out if you're ready. We'll take the shortest route possible to Sephiron.	VO_kamui.kamui_battle_0015
+051	Y-yeah!

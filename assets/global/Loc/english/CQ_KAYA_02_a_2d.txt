@@ -1,0 +1,60 @@
+﻿001	After being attacked in the ruins, I returned to the Holy Guard and continued my research secretly.
+002	After having Antie analyze the pieces of information found in the ruins and the information from the library, I attempted to put all the pieces together.
+003	I ignored Cadanova's warning, and continued my research. Eventually...I found something.
+004	The Cursed Beasts... Great monsters that existed long ago.
+005	In trying to fill in the blanks in history, I instead found something out of a fairy tale.
+006	Could this be what Cadanova was talking about?	VO_kaya.kaya_sys_0031
+007	(Everything about the Cursed Beasts has been erased from the history of the Lord Commanders, to the point of being a blatant cover-up. The Holy Order... The world is hiding something.)
+008	(The ruins, tablet, and Cursed Beasts have to be related... That must be why I would be targeted.)	VO_kaya.kaya_sys_0022
+009	(Are the Beasts really such a dark secret?)
+010	I'm telling you this as your friend. Stop looking into this. You're only putting yourself in danger. More than you could possibly imagine.	VO_kadhanova.kadhanova_sys_0031
+011	(How much does Cadanova know?)
+012	...
+013	I suppose it's time to continue our conversation..	VO_kaya.kaya_sys_0006
+014	So this is where you were.	VO_kaya.kaya_sys_0008
+015	Kaya! What are you doing here?	VO_zain.zain_sys_0025
+016	I have some unfinished business with Cadanova.
+017	...
+018	Hm? What kind of business?	VO_zain.zain_sys_0029
+019	It's a secret.
+020	You two love this place, don't you? You're always here training whenever you have the time.	VO_kaya.kaya_sys_0001
+021	Yes. For the good of the world and to protect the absolute justice of the continent, I will become the light that marks the way.	VO_zain.zain_chara_0009
+022	Daily training is necessary to achieve that. It's my duty as Lord Commander.
+023	Heh, liar. You're just taking a break from your other duties, isn't that right? Being Lord Commander is no cakewalk.	VO_kadhanova.kadhanova_battle_0016
+024	I can't deny that. It's nice to move my body like this occasionally.	VO_zain.zain_chara_0010
+025	But it's also important to not forget that feeling of wanting to be strong in order to protect absolute justice.
+026	You really are passionate. Though I wouldn't have it any other way.	VO_kaya.kaya_sys_0007
+027	(Zain is passionate, honest.)
+028	(He must not know the darkness that this world hides.)	VO_kaya.kaya_sys_0031
+029	...
+030	Kaya? Is something the matter?
+031	No, it's nothing.	VO_kaya.kaya_sys_0039
+032	Shouldn't you be heading back soon, Zain?	VO_kadhanova.kadhanova_sys_0031
+033	You're right. As much as I'd like to continue, I have my duties as Lord Commander to attend to.	VO_zain.zain_chara_0009
+034	He's always looking forward, isn't he? He doesn't look back.
+035	The Holy Guard needs a man like him. Someone to give them hope.
+036	I can't believe in the world like he can anymore.	VO_kadhanova.kadhanova_sys_0022
+037	...
+038	Even just saying that probably makes me unfit to be a Captain of the Holy Guard.	VO_kadhanova.kadhanova_sys_0030
+039	I'm surprised you think like that too.	VO_kaya.kaya_sys_0005
+040	You may have darkness inside you, but I believe you are still worthy to stand beside a man like Zain.
+041	You think too highly of me. I know too much to stand at his side.	VO_kadhanova.kadhanova_sys_0031
+042	Then why continue being a Captain if you think you're not fit to be one?	VO_kaya.kaya_sys_0001
+043	There are things that I can do exactly because I'm unfit as Captain.
+044	Things you can do...because you're unfit to be Captain?	VO_kaya.kaya_chara_1003
+045	Just as Zain is committed to protecting absolute justice, I am determined to be the hand that roots out all that has been corrupted.
+046	Even if your life is threatened in the pursuit?	VO_kaya.kaya_sys_0031
+047	I have no other choice after witnessing what I did, and there is no one but me to do what must be done.	VO_kadhanova.kadhanova_battle_0016
+048	Such as this.
+049	Ah. So fighting me is another thing that only you can do?	VO_kaya.kaya_sys_0001
+050	Yes. If I win, you stop your research. It's too dangerous.	VO_kadhanova.kadhanova_sys_0004
+051	If you continue and learn too much, they'll go after you. Just like me.
+052	...
+053	I know how powerful your curiosity is, but the Holy Guard can't afford to lose you.	VO_kadhanova.kadhanova_sys_0022
+054	They cannot lose someone who can support Zain like you can.
+055	Your passion really is amazing. I think you're quite fit to stand beside him.	VO_kaya.kaya_sys_0007
+056	But I do like the idea of finding something that only someone unfit to their role can do.
+057	I'm surprised you are so willing to engage in this. I expected you to refuse to listen at all.	VO_kadhanova.kadhanova_sys_0031
+058	I came here to talk to you about this very topic. It wouldn't do to simply ignore your proposal.	VO_kaya.kaya_sys_0006
+059	I know it's unusual of me, but...it happens.	VO_kaya.kaya_sys_0031
+060	I guess I've gotten caught up in your passion.
