@@ -46,42 +46,58 @@ def parse_text(filepath):
         f.close()
     return texts
 
-for file in os.listdir(Loc['japan']['path']):
-    if file.endswith('.txt') and file != 'dummy.txt':
-        name = file.split('.')[0]
-        print('Building page for {}'.format(name))
-        with open('docs/{}.html'.format(name), 'w', encoding='utf-8') as f:
-            f.write('<html>\n')
-            f.write('<head>\n')
-            f.write('<meta charset="utf-8">\n')
-            f.write('<title>{}</title>\n'.format(name))
-            f.write('<link rel="icon" href="img/favicons/favicon.ico">\n')
-            f.write('</head>\n')
-            f.write('<body>\n')
-            f.write('<h1>{}</h1>\n'.format(name))
-            texts_japan = parse_text(os.path.join(Loc['japan']['path'], file))
-            if not texts_japan:
-                continue
-            texts_taiwan = parse_text(os.path.join(Loc['taiwan']['path'], file))
-            texts_global = parse_text(os.path.join(Loc['global']['path'], file))
-            f.write('<table>\n')
-            f.write('<tr>\n')
-            # print text keys
-            f.write('<th>ID</th>\n')
-            f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['japan']['path'] + file, Loc['japan']['name']))
-            if texts_taiwan:
-                f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['taiwan']['path'] + file, Loc['taiwan']['name']))
-            if texts_global:
-                f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['global']['path'] + file, Loc['global']['name']))
-            f.write('</tr>\n')
-            for key in texts_japan:
+with open('docs/all.html', 'w', encoding='utf-8') as f_all:
+    f_all.write('<html>\n')
+    f_all.write('<head>\n')
+    f_all.write('<meta charset="utf-8">\n')
+    f_all.write('<title>All</title>\n')
+    f_all.write('<link rel="icon" href="img/favicons/favicon.ico">\n')
+    f_all.write('</head>\n')
+    f_all.write('<body>\n')
+    f_all.write('<h1>All</h1>\n')
+    f_all.write('<ul>\n')
+
+    for file in sorted(os.listdir(Loc['japan']['path'])):
+        if file.endswith('.txt') and file != 'dummy.txt':
+            name = file.split('.')[0]
+            print('Building page for {}'.format(name))
+            with open('docs/{}.html'.format(name), 'w', encoding='utf-8') as f:
+                f.write('<html>\n')
+                f.write('<head>\n')
+                f.write('<meta charset="utf-8">\n')
+                f.write('<title>{}</title>\n'.format(name))
+                f.write('<link rel="icon" href="img/favicons/favicon.ico">\n')
+                f.write('</head>\n')
+                f.write('<body>\n')
+                f.write('<h1>{}</h1>\n'.format(name))
+                texts_japan = parse_text(os.path.join(Loc['japan']['path'], file))
+                if not texts_japan:
+                    continue
+                texts_taiwan = parse_text(os.path.join(Loc['taiwan']['path'], file))
+                texts_global = parse_text(os.path.join(Loc['global']['path'], file))
+                f.write('<table>\n')
                 f.write('<tr>\n')
-                f.write('<td>{}</td>\n'.format(key))
-                f.write('<td>{}</td>\n'.format(texts_japan[key]))
+                # print text keys
+                f.write('<th>ID</th>\n')
+                f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['japan']['path'] + file, Loc['japan']['name']))
                 if texts_taiwan:
-                    f.write('<td>{}</td>\n'.format(texts_taiwan.get(key, '')))
+                    f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['taiwan']['path'] + file, Loc['taiwan']['name']))
                 if texts_global:
-                    f.write('<td>{}</td>\n'.format(texts_global.get(key, '')))
+                    f.write('<th><a href="{}">{}</a></th>'.format(Repo + Loc['global']['path'] + file, Loc['global']['name']))
                 f.write('</tr>\n')
-            f.write('</body>\n')
-            f.write('</html>\n')
+                for key in texts_japan:
+                    f.write('<tr>\n')
+                    f.write('<td>{}</td>\n'.format(key))
+                    f.write('<td>{}</td>\n'.format(texts_japan[key]))
+                    if texts_taiwan:
+                        f.write('<td>{}</td>\n'.format(texts_taiwan.get(key, '')))
+                    if texts_global:
+                        f.write('<td>{}</td>\n'.format(texts_global.get(key, '')))
+                    f.write('</tr>\n')
+                f.write('</body>\n')
+                f.write('</html>\n')
+                f_all.write('<li><a href="{}.html">{}</a></li>\n'.format(name, name))
+    
+    f_all.write('</ul>\n')
+    f_all.write('</body>\n')
+    f_all.write('</html>\n')
