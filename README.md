@@ -1,3 +1,19 @@
+# The-Alchemist-Code-Story
+
+Story archive of [The Alchemist Code / 誰ガ為のアルケミスト / 為了誰的鍊金術師](https://al.fg-games.co.jp/)
+
+## Story Archive
+
+- [Story Replay (ストーリー回想)](https://laqieer.github.io/The-Alchemist-Code-Story/replay.html)
+- [All Quests](https://laqieer.github.io/The-Alchemist-Code-Story/quests.html)
+- [All Texts](https://laqieer.github.io/The-Alchemist-Code-Story/all.html)
+
+## Special Thanks
+
+- [Game data & Japanese texts](https://github.com/K0lb3/The-Alchemist-Code---asset-downloader-and-extractor)
+- [Traditional Chinese texts](https://gitlab.com/the-alchemist-codes/taiwan/-/tree/master/Loc/japanese)
+- [English texts](https://gitlab.com/the-alchemist-codes/taiwan/-/tree/master/Loc/japanese)
+
 # The Alchemist Code - asset downloader & extractor
 
 A small project that downloads all assets as well as the data of THe Alchemist Code and extracts them while it's at it.
