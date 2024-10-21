@@ -1,0 +1,110 @@
+[
+    {
+        "fields": {
+            "id": 1, 
+            "img_id": "001", 
+            "iname": "IT_STAMP_01", 
+            "is_private": 0
+        }, 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "id": 2, 
+            "img_id": "002", 
+            "iname": "IT_STAMP_02", 
+            "is_private": 0
+        }, 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "id": 3, 
+            "img_id": "003", 
+            "iname": "IT_STAMP_03", 
+            "is_private": 0
+        }, 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "id": 4, 
+            "img_id": "004", 
+            "iname": "IT_STAMP_04", 
+            "is_private": 0
+        }, 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "id": 5, 
+            "img_id": "005", 
+            "iname": "IT_STAMP_05", 
+            "is_private": 0
+        }, 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "id": 6, 
+            "img_id": "006", 
+            "iname": "IT_STAMP_06", 
+            "is_private": 0
+        }, 
+        "pk": 6
+    }, 
+    {
+        "fields": {
+            "id": 7, 
+            "img_id": "007", 
+            "iname": "IT_STAMP_07", 
+            "is_private": 0
+        }, 
+        "pk": 7
+    }, 
+    {
+        "fields": {
+            "id": 8, 
+            "img_id": "008", 
+            "iname": "IT_STAMP_08", 
+            "is_private": 0
+        }, 
+        "pk": 8
+    }, 
+    {
+        "fields": {
+            "id": 9, 
+            "img_id": "009", 
+            "iname": "IT_STAMP_09", 
+            "is_private": 0
+        }, 
+        "pk": 9
+    }, 
+    {
+        "fields": {
+            "id": 10, 
+            "img_id": "010", 
+            "iname": "IT_STAMP_10", 
+            "is_private": 0
+        }, 
+        "pk": 10
+    }, 
+    {
+        "fields": {
+            "id": 11, 
+            "img_id": "011", 
+            "iname": "IT_STAMP_11", 
+            "is_private": 0
+        }, 
+        "pk": 11
+    }, 
+    {
+        "fields": {
+            "id": 12, 
+            "img_id": "012", 
+            "iname": "IT_STAMP_12", 
+            "is_private": 0
+        }, 
+        "pk": 12
+    }
+]

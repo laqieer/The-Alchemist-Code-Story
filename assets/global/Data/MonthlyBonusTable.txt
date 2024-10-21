@@ -1,0 +1,3566 @@
+{
+"monthly_1907~type":"Monthly"
+,"monthly_1907~prefab":"LoginBonusWindow"
+,"monthly_1907~begin":"2118-09-01 00:00:00"
+,"monthly_1907~end":"2118-09-30 23:59:59"
+,"monthly_1907~recover":0
+,"monthly_1907~message":"ログインボーナスです。"
+,"monthly_1907~table~1~message":"9/1ログインボーナスです。"
+,"monthly_1907~table~1~coin":100
+,"monthly_1907~table~2~message":"9/2ログインボーナスです。"
+,"monthly_1907~table~2~item~1~iname":"IT_US_EVM_10TICKET"
+,"monthly_1907~table~2~item~1~num":1
+,"monthly_1907~table~3~message":"9/3ログインボーナスです。"
+,"monthly_1907~table~3~item~1~iname":"TS_EXP_01"
+,"monthly_1907~table~3~item~1~num":1
+,"monthly_1907~table~4~message":"9/4ログインボーナスです。"
+,"monthly_1907~table~4~item~1~iname":"TS_EXP_02"
+,"monthly_1907~table~4~item~1~num":10
+,"monthly_1907~table~5~message":"9/5ログインボーナスです。"
+,"monthly_1907~table~5~coin":100
+,"monthly_1907~table~6~message":"9/6ログインボーナスです。"
+,"monthly_1907~table~6~item~1~iname":"TS_SLOTH_TARAS_01"
+,"monthly_1907~table~6~item~1~num":1
+,"monthly_1907~table~7~message":"9/7ログインボーナスです。"
+,"monthly_1907~table~7~item~1~iname":"IT_SI_COLLABO_SOULTICKET_25"
+,"monthly_1907~table~7~item~1~num":1
+,"monthly_1907~table~8~message":"9/8ログインボーナスです。"
+,"monthly_1907~table~8~coin":100
+,"monthly_1907~table~9~message":"9/9ログインボーナスです。"
+,"monthly_1907~table~9~item~1~iname":"IT_US_TS_EXP_03_TICKET"
+,"monthly_1907~table~9~item~1~num":1
+,"monthly_1907~table~10~message":"9/10ログインボーナスです。"
+,"monthly_1907~table~10~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1907~table~10~item~1~num":5
+,"monthly_1907~table~11~message":"9/11ログインボーナスです。"
+,"monthly_1907~table~11~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1907~table~11~item~1~num":10
+,"monthly_1907~table~12~message":"9/12ログインボーナスです。"
+,"monthly_1907~table~12~coin":100
+,"monthly_1907~table~13~message":"9/13ログインボーナスです。"
+,"monthly_1907~table~13~item~1~iname":"IT_STS_PICKUP_TICKET24"
+,"monthly_1907~table~13~item~1~num":1
+,"monthly_1907~table~14~message":"9/14ログインボーナスです。"
+,"monthly_1907~table~14~item~1~iname":"IT_US_KAIGAN_RARE5_SOULTICKET_25"
+,"monthly_1907~table~14~item~1~num":1
+,"monthly_1907~table~15~message":"9/15ログインボーナスです。"
+,"monthly_1907~table~15~coin":100
+,"monthly_1907~table~16~message":"9/16ログインボーナスです。"
+,"monthly_1907~table~16~item~1~iname":"IT_US_MCF_TICKET"
+,"monthly_1907~table~16~item~1~num":1
+,"monthly_1907~table~17~message":"9/17ログインボーナスです。"
+,"monthly_1907~table~17~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1907~table~17~item~1~num":5
+,"monthly_1907~table~18~message":"9/18ログインボーナスです。"
+,"monthly_1907~table~18~item~1~iname":"IT_CV_GOLD4"
+,"monthly_1907~table~18~item~1~num":10
+,"monthly_1907~table~19~message":"9/19ログインボーナスです。"
+,"monthly_1907~table~19~coin":100
+,"monthly_1907~table~20~message":"9/20ログインボーナスです。"
+,"monthly_1907~table~20~icon":"IT_SET_US_SC_WIND_A20180630"
+,"monthly_1907~table~20~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"monthly_1907~table~20~item~1~num":111
+,"monthly_1907~table~20~item~2~iname":"IT_PI_COMMON_DARK"
+,"monthly_1907~table~20~item~2~num":222
+,"monthly_1907~table~20~item~3~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1907~table~20~item~3~num":333
+,"monthly_1907~table~21~message":"9/21ログインボーナスです。"
+,"monthly_1907~table~21~item~1~iname":"IT_US_TS_TICKET"
+,"monthly_1907~table~21~item~1~num":1
+,"monthly_1907~table~22~message":"9/22ログインボーナスです。"
+,"monthly_1907~table~22~coin":100
+,"monthly_1907~table~23~message":"9/23ログインボーナスです。"
+,"monthly_1907~table~23~item~1~iname":"IT_US_TS_VISION_TICKET"
+,"monthly_1907~table~23~item~1~num":1
+,"monthly_1907~table~24~message":"9/24ログインボーナスです。"
+,"monthly_1907~table~24~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1907~table~24~item~1~num":20
+,"monthly_1907~table~25~message":"9/25ログインボーナスです。"
+,"monthly_1907~table~25~item~1~iname":"IT_CV_GOLD4"
+,"monthly_1907~table~25~item~1~num":10
+,"monthly_1907~table~26~message":"9/26ログインボーナスです。"
+,"monthly_1907~table~26~coin":100
+,"monthly_1907~table~27~message":"9/27ログインボーナスです。"
+,"monthly_1907~table~27~item~1~iname":"IT_PI_COMMON_ALL"
+,"monthly_1907~table~27~item~1~num":5
+,"monthly_1907~table~28~message":"9/28ログインボーナスです。"
+,"monthly_1907~table~28~item~1~iname":"IT_US_2018APR_SEISEKI_TICKET"
+,"monthly_1907~table~28~item~1~num":1
+,"monthly_1907~table~29~message":"9/29ログインボーナスです。"
+,"monthly_1907~table~29~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"monthly_1907~table~29~item~1~num":5
+,"monthly_1907~table~30~message":"9/30ログインボーナスです。"
+,"monthly_1907~table~30~item~1~iname":"IT_US_TS_TICKET"
+,"monthly_1907~table~30~item~1~num":1
+,"monthly_1908~type":"Monthly"
+,"monthly_1908~prefab":"LoginBonusWindow"
+,"monthly_1908~begin":"2019-08-01 00:00:00"
+,"monthly_1908~end":"2019-08-31 23:59:59"
+,"monthly_1908~recover":2
+,"monthly_1908~message":"ログインボーナスです。"
+,"monthly_1908~table~1~message":"8/1ログインボーナスです。"
+,"monthly_1908~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~1~item~1~num":5
+,"monthly_1908~table~2~message":"8/2ログインボーナスです。"
+,"monthly_1908~table~2~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1908~table~2~item~1~num":10
+,"monthly_1908~table~3~message":"8/3ログインボーナスです。"
+,"monthly_1908~table~3~item~1~iname":"IT_US_TICKET"
+,"monthly_1908~table~3~item~1~num":10
+,"monthly_1908~table~4~message":"8/4ログインボーナスです。"
+,"monthly_1908~table~4~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~4~item~1~num":10
+,"monthly_1908~table~5~message":"8/5ログインボーナスです。"
+,"monthly_1908~table~5~coin":50
+,"monthly_1908~table~6~message":"8/6ログインボーナスです。"
+,"monthly_1908~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~6~item~1~num":5
+,"monthly_1908~table~7~message":"8/7ログインボーナスです。"
+,"monthly_1908~table~7~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1908~table~7~item~1~num":10
+,"monthly_1908~table~8~message":"8/8ログインボーナスです。"
+,"monthly_1908~table~8~item~1~iname":"IT_US_TICKET"
+,"monthly_1908~table~8~item~1~num":10
+,"monthly_1908~table~9~message":"8/9ログインボーナスです。"
+,"monthly_1908~table~9~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~9~item~1~num":10
+,"monthly_1908~table~10~message":"8/10ログインボーナスです。"
+,"monthly_1908~table~10~coin":100
+,"monthly_1908~table~11~message":"8/11ログインボーナスです。"
+,"monthly_1908~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~11~item~1~num":5
+,"monthly_1908~table~12~message":"8/12ログインボーナスです。"
+,"monthly_1908~table~12~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1908~table~12~item~1~num":10
+,"monthly_1908~table~13~message":"8/13ログインボーナスです。"
+,"monthly_1908~table~13~item~1~iname":"IT_US_TICKET"
+,"monthly_1908~table~13~item~1~num":10
+,"monthly_1908~table~14~message":"8/14ログインボーナスです。"
+,"monthly_1908~table~14~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~14~item~1~num":10
+,"monthly_1908~table~15~message":"8/15ログインボーナスです。"
+,"monthly_1908~table~15~coin":150
+,"monthly_1908~table~16~message":"8/16ログインボーナスです。"
+,"monthly_1908~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~16~item~1~num":5
+,"monthly_1908~table~17~message":"8/17ログインボーナスです。"
+,"monthly_1908~table~17~item~1~iname":"TS_EXP_04"
+,"monthly_1908~table~17~item~1~num":10
+,"monthly_1908~table~18~message":"8/18ログインボーナスです。"
+,"monthly_1908~table~18~item~1~iname":"TS_VISION_01"
+,"monthly_1908~table~18~item~1~num":1
+,"monthly_1908~table~19~message":"8/19ログインボーナスです。"
+,"monthly_1908~table~19~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~19~item~1~num":10
+,"monthly_1908~table~20~message":"8/20ログインボーナスです。"
+,"monthly_1908~table~20~coin":200
+,"monthly_1908~table~21~message":"8/21ログインボーナスです。"
+,"monthly_1908~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~21~item~1~num":5
+,"monthly_1908~table~22~message":"8/22ログインボーナスです。"
+,"monthly_1908~table~22~item~1~iname":"TS_EXP_04"
+,"monthly_1908~table~22~item~1~num":10
+,"monthly_1908~table~23~message":"8/23ログインボーナスです。"
+,"monthly_1908~table~23~item~1~iname":"TS_VISION_01"
+,"monthly_1908~table~23~item~1~num":1
+,"monthly_1908~table~24~message":"8/24ログインボーナスです。"
+,"monthly_1908~table~24~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~24~item~1~num":10
+,"monthly_1908~table~25~message":"8/25ログインボーナスです。"
+,"monthly_1908~table~25~coin":250
+,"monthly_1908~table~26~message":"8/26ログインボーナスです。"
+,"monthly_1908~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"monthly_1908~table~26~item~1~num":5
+,"monthly_1908~table~27~message":"8/27ログインボーナスです。"
+,"monthly_1908~table~27~item~1~iname":"TS_EXP_04"
+,"monthly_1908~table~27~item~1~num":10
+,"monthly_1908~table~28~message":"8/28ログインボーナスです。"
+,"monthly_1908~table~28~item~1~iname":"TS_VISION_01"
+,"monthly_1908~table~28~item~1~num":1
+,"monthly_1908~table~29~message":"8/29ログインボーナスです。"
+,"monthly_1908~table~29~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1908~table~29~item~1~num":10
+,"monthly_1908~table~30~message":"8/30ログインボーナスです。"
+,"monthly_1908~table~30~coin":250
+,"monthly_1908~table~31~message":"8/31ログインボーナスです。"
+,"monthly_1908~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"monthly_1908~table~31~item~1~num":5
+,"monthly_1909~type":"Monthly"
+,"monthly_1909~prefab":"LoginBonusWindow"
+,"monthly_1909~begin":"2019-09-01 00:00:00"
+,"monthly_1909~end":"2019-09-30 23:59:59"
+,"monthly_1909~recover":2
+,"monthly_1909~message":"ログインボーナスです。"
+,"monthly_1909~table~1~message":"Day 1 Login Bonus"
+,"monthly_1909~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~1~item~1~num":5
+,"monthly_1909~table~2~message":"Day 2 Login Bonus"
+,"monthly_1909~table~2~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1909~table~2~item~1~num":10
+,"monthly_1909~table~3~message":"Day 3 Login Bonus"
+,"monthly_1909~table~3~item~1~iname":"IT_US_TICKET"
+,"monthly_1909~table~3~item~1~num":10
+,"monthly_1909~table~4~message":"Day 4 Login Bonus"
+,"monthly_1909~table~4~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1909~table~4~item~1~num":10
+,"monthly_1909~table~5~message":"Day 5 Login Bonus"
+,"monthly_1909~table~5~coin":50
+,"monthly_1909~table~6~message":"Day 6 Login Bonus"
+,"monthly_1909~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~6~item~1~num":5
+,"monthly_1909~table~7~message":"Day 7 Login Bonus"
+,"monthly_1909~table~7~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1909~table~7~item~1~num":10
+,"monthly_1909~table~8~message":"Day 8 Login Bonus"
+,"monthly_1909~table~8~item~1~iname":"IT_US_TICKET"
+,"monthly_1909~table~8~item~1~num":10
+,"monthly_1909~table~9~message":"Day 9 Login Bonus"
+,"monthly_1909~table~9~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1909~table~9~item~1~num":10
+,"monthly_1909~table~10~message":"Day 10 Login Bonus"
+,"monthly_1909~table~10~coin":100
+,"monthly_1909~table~11~message":"Day 11 Login Bonus"
+,"monthly_1909~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~11~item~1~num":5
+,"monthly_1909~table~12~message":"Day 12 Login Bonus"
+,"monthly_1909~table~12~item~1~iname":"IT_UG_APPLE5"
+,"monthly_1909~table~12~item~1~num":10
+,"monthly_1909~table~13~message":"Day 13 Login Bonus"
+,"monthly_1909~table~13~item~1~iname":"IT_US_TICKET"
+,"monthly_1909~table~13~item~1~num":10
+,"monthly_1909~table~14~message":"Day 14 Login Bonus"
+,"monthly_1909~table~14~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1909~table~14~item~1~num":10
+,"monthly_1909~table~15~message":"Day 15 Login Bonus"
+,"monthly_1909~table~15~coin":150
+,"monthly_1909~table~16~message":"Day 16 Login Bonus"
+,"monthly_1909~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~16~item~1~num":5
+,"monthly_1909~table~17~message":"Day 17 Login Bonus"
+,"monthly_1909~table~17~item~1~iname":"TS_EXP_04"
+,"monthly_1909~table~17~item~1~num":10
+,"monthly_1909~table~18~message":"Day 18 Login Bonus"
+,"monthly_1909~table~18~item~1~iname":"TS_VISION_01"
+,"monthly_1909~table~18~item~1~num":1
+,"monthly_1909~table~19~message":"Day 19 Login Bonus"
+,"monthly_1909~table~19~item~1~iname":"IT_CV_GOLD3"
+,"monthly_1909~table~19~item~1~num":10
+,"monthly_1909~table~20~message":"Day 20 Login Bonus"
+,"monthly_1909~table~20~coin":200
+,"monthly_1909~table~21~message":"Day 21 Login Bonus"
+,"monthly_1909~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~21~item~1~num":5
+,"monthly_1909~table~22~message":"Day 22 Login Bonus"
+,"monthly_1909~table~22~item~1~iname":"TS_EXP_04"
+,"monthly_1909~table~22~item~1~num":10
+,"monthly_1909~table~23~message":"Day 23 Login Bonus"
+,"monthly_1909~table~23~item~1~iname":"TS_VISION_01"
+,"monthly_1909~table~23~item~1~num":1
+,"monthly_1909~table~24~message":"Day 24 Login Bonus"
+,"monthly_1909~table~24~coin":250
+,"monthly_1909~table~25~message":"Day 25 Login Bonus"
+,"monthly_1909~table~25~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"monthly_1909~table~25~item~1~num":5
+,"monthly_1909~table~26~message":"Day 26 Login Bonus"
+,"monthly_1909~table~26~item~1~iname":"TS_EXP_04"
+,"monthly_1909~table~26~item~1~num":10
+,"monthly_1909~table~27~message":"Day 27 Login Bonus"
+,"monthly_1909~table~27~coin":250
+,"monthly_1909~table~28~message":"Day 28 Login Bonus"
+,"monthly_1909~table~28~item~1~iname":"IT_PI_COMMON_ALL"
+,"monthly_1909~table~28~item~1~num":5
+,"GL_202005~type":"Monthly"
+,"GL_202005~prefab":"LoginBonusWindow"
+,"GL_202005~begin":"2020-05-01 00:00:00"
+,"GL_202005~end":"2020-05-31 23:59:59"
+,"GL_202005~recover":2
+,"GL_202005~message":"ログインボーナスです。"
+,"GL_202005~table~1~message":"Day 1 Login Bonus"
+,"GL_202005~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~1~item~1~num":5
+,"GL_202005~table~2~message":"Day 2 Login Bonus"
+,"GL_202005~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202005~table~2~item~1~num":10
+,"GL_202005~table~3~message":"Day 3 Login Bonus"
+,"GL_202005~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202005~table~3~item~1~num":10
+,"GL_202005~table~4~message":"Day 4 Login Bonus"
+,"GL_202005~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~4~item~1~num":10
+,"GL_202005~table~5~message":"Day 5 Login Bonus"
+,"GL_202005~table~5~coin":50
+,"GL_202005~table~6~message":"Day 6 Login Bonus"
+,"GL_202005~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~6~item~1~num":5
+,"GL_202005~table~7~message":"Day 7 Login Bonus"
+,"GL_202005~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202005~table~7~item~1~num":10
+,"GL_202005~table~8~message":"Day 8 Login Bonus"
+,"GL_202005~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202005~table~8~item~1~num":10
+,"GL_202005~table~9~message":"Day 9 Login Bonus"
+,"GL_202005~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~9~item~1~num":10
+,"GL_202005~table~10~message":"Day 10 Login Bonus"
+,"GL_202005~table~10~coin":100
+,"GL_202005~table~11~message":"Day 11 Login Bonus"
+,"GL_202005~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~11~item~1~num":5
+,"GL_202005~table~12~message":"Day 12 Login Bonus"
+,"GL_202005~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202005~table~12~item~1~num":10
+,"GL_202005~table~13~message":"Day 13 Login Bonus"
+,"GL_202005~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202005~table~13~item~1~num":10
+,"GL_202005~table~14~message":"Day 14 Login Bonus"
+,"GL_202005~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~14~item~1~num":10
+,"GL_202005~table~15~message":"Day 15 Login Bonus"
+,"GL_202005~table~15~coin":150
+,"GL_202005~table~16~message":"Day 16 Login Bonus"
+,"GL_202005~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~16~item~1~num":5
+,"GL_202005~table~17~message":"Day 17 Login Bonus"
+,"GL_202005~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202005~table~17~item~1~num":10
+,"GL_202005~table~18~message":"Day 18 Login Bonus"
+,"GL_202005~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202005~table~18~item~1~num":1
+,"GL_202005~table~19~message":"Day 19 Login Bonus"
+,"GL_202005~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~19~item~1~num":10
+,"GL_202005~table~20~message":"Day 20 Login Bonus"
+,"GL_202005~table~20~coin":200
+,"GL_202005~table~21~message":"Day 21 Login Bonus"
+,"GL_202005~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~21~item~1~num":5
+,"GL_202005~table~22~message":"Day 22 Login Bonus"
+,"GL_202005~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202005~table~22~item~1~num":10
+,"GL_202005~table~23~message":"Day 23 Login Bonus"
+,"GL_202005~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202005~table~23~item~1~num":1
+,"GL_202005~table~24~message":"Day 24 Login Bonus"
+,"GL_202005~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~24~item~1~num":10
+,"GL_202005~table~25~message":"Day 25 Login Bonus"
+,"GL_202005~table~25~coin":250
+,"GL_202005~table~26~message":"Day 26 Login Bonus"
+,"GL_202005~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202005~table~26~item~1~num":5
+,"GL_202005~table~27~message":"Day 27 Login Bonus"
+,"GL_202005~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202005~table~27~item~1~num":10
+,"GL_202005~table~28~message":"Day 28 Login Bonus"
+,"GL_202005~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202005~table~28~item~1~num":1
+,"GL_202005~table~29~message":"Day 29 Login Bonus"
+,"GL_202005~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202005~table~29~item~1~num":10
+,"GL_202005~table~30~message":"Day 30 Login Bonus"
+,"GL_202005~table~30~coin":250
+,"GL_202005~table~31~message":"Day 31 Login Bonus"
+,"GL_202005~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202005~table~31~item~1~num":5
+,"GL_202006~type":"Monthly"
+,"GL_202006~prefab":"LoginBonusWindow"
+,"GL_202006~begin":"2020-06-01 00:00:00"
+,"GL_202006~end":"2020-06-30 23:59:59"
+,"GL_202006~recover":2
+,"GL_202006~message":"ログインボーナスです。"
+,"GL_202006~table~1~message":"Day 1 Login Bonus"
+,"GL_202006~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~1~item~1~num":5
+,"GL_202006~table~2~message":"Day 2 Login Bonus"
+,"GL_202006~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202006~table~2~item~1~num":10
+,"GL_202006~table~3~message":"Day 3 Login Bonus"
+,"GL_202006~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202006~table~3~item~1~num":10
+,"GL_202006~table~4~message":"Day 4 Login Bonus"
+,"GL_202006~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202006~table~4~item~1~num":10
+,"GL_202006~table~5~message":"Day 5 Login Bonus"
+,"GL_202006~table~5~coin":50
+,"GL_202006~table~6~message":"Day 6 Login Bonus"
+,"GL_202006~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~6~item~1~num":5
+,"GL_202006~table~7~message":"Day 7 Login Bonus"
+,"GL_202006~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202006~table~7~item~1~num":10
+,"GL_202006~table~8~message":"Day 8 Login Bonus"
+,"GL_202006~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202006~table~8~item~1~num":10
+,"GL_202006~table~9~message":"Day 9 Login Bonus"
+,"GL_202006~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202006~table~9~item~1~num":10
+,"GL_202006~table~10~message":"Day 10 Login Bonus"
+,"GL_202006~table~10~coin":100
+,"GL_202006~table~11~message":"Day 11 Login Bonus"
+,"GL_202006~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~11~item~1~num":5
+,"GL_202006~table~12~message":"Day 12 Login Bonus"
+,"GL_202006~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202006~table~12~item~1~num":10
+,"GL_202006~table~13~message":"Day 13 Login Bonus"
+,"GL_202006~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202006~table~13~item~1~num":10
+,"GL_202006~table~14~message":"Day 14 Login Bonus"
+,"GL_202006~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202006~table~14~item~1~num":10
+,"GL_202006~table~15~message":"Day 15 Login Bonus"
+,"GL_202006~table~15~coin":150
+,"GL_202006~table~16~message":"Day 16 Login Bonus"
+,"GL_202006~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~16~item~1~num":5
+,"GL_202006~table~17~message":"Day 17 Login Bonus"
+,"GL_202006~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202006~table~17~item~1~num":10
+,"GL_202006~table~18~message":"Day 18 Login Bonus"
+,"GL_202006~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202006~table~18~item~1~num":1
+,"GL_202006~table~19~message":"Day 19 Login Bonus"
+,"GL_202006~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202006~table~19~item~1~num":10
+,"GL_202006~table~20~message":"Day 20 Login Bonus"
+,"GL_202006~table~20~coin":200
+,"GL_202006~table~21~message":"Day 21 Login Bonus"
+,"GL_202006~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~21~item~1~num":5
+,"GL_202006~table~22~message":"Day 22 Login Bonus"
+,"GL_202006~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202006~table~22~item~1~num":10
+,"GL_202006~table~23~message":"Day 23 Login Bonus"
+,"GL_202006~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202006~table~23~item~1~num":1
+,"GL_202006~table~24~message":"Day 24 Login Bonus"
+,"GL_202006~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202006~table~24~item~1~num":10
+,"GL_202006~table~25~message":"Day 25 Login Bonus"
+,"GL_202006~table~25~coin":250
+,"GL_202006~table~26~message":"Day 26 Login Bonus"
+,"GL_202006~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202006~table~26~item~1~num":5
+,"GL_202006~table~27~message":"Day 27 Login Bonus"
+,"GL_202006~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202006~table~27~item~1~num":10
+,"GL_202006~table~28~message":"Day 28 Login Bonus"
+,"GL_202006~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202006~table~28~item~1~num":1
+,"GL_202006~table~29~message":"Day 29 Login Bonus"
+,"GL_202006~table~29~coin":250
+,"GL_202006~table~30~message":"Day 30 Login Bonus"
+,"GL_202006~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202006~table~30~item~1~num":5
+,"GL_202007~type":"Monthly"
+,"GL_202007~prefab":"LoginBonusWindow"
+,"GL_202007~begin":"2020-07-01 00:00:00"
+,"GL_202007~end":"2020-07-31 23:59:59"
+,"GL_202007~recover":2
+,"GL_202007~message":"ログインボーナスです。"
+,"GL_202007~table~1~message":"Day 1 Login Bonus"
+,"GL_202007~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~1~item~1~num":5
+,"GL_202007~table~2~message":"Day 2 Login Bonus"
+,"GL_202007~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202007~table~2~item~1~num":10
+,"GL_202007~table~3~message":"Day 3 Login Bonus"
+,"GL_202007~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202007~table~3~item~1~num":10
+,"GL_202007~table~4~message":"Day 4 Login Bonus"
+,"GL_202007~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~4~item~1~num":10
+,"GL_202007~table~5~message":"Day 5 Login Bonus"
+,"GL_202007~table~5~coin":50
+,"GL_202007~table~6~message":"Day 6 Login Bonus"
+,"GL_202007~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~6~item~1~num":5
+,"GL_202007~table~7~message":"Day 7 Login Bonus"
+,"GL_202007~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202007~table~7~item~1~num":10
+,"GL_202007~table~8~message":"Day 8 Login Bonus"
+,"GL_202007~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202007~table~8~item~1~num":10
+,"GL_202007~table~9~message":"Day 9 Login Bonus"
+,"GL_202007~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~9~item~1~num":10
+,"GL_202007~table~10~message":"Day 10 Login Bonus"
+,"GL_202007~table~10~coin":100
+,"GL_202007~table~11~message":"Day 11 Login Bonus"
+,"GL_202007~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~11~item~1~num":5
+,"GL_202007~table~12~message":"Day 12 Login Bonus"
+,"GL_202007~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202007~table~12~item~1~num":10
+,"GL_202007~table~13~message":"Day 13 Login Bonus"
+,"GL_202007~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202007~table~13~item~1~num":10
+,"GL_202007~table~14~message":"Day 14 Login Bonus"
+,"GL_202007~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~14~item~1~num":10
+,"GL_202007~table~15~message":"Day 15 Login Bonus"
+,"GL_202007~table~15~coin":150
+,"GL_202007~table~16~message":"Day 16 Login Bonus"
+,"GL_202007~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~16~item~1~num":5
+,"GL_202007~table~17~message":"Day 17 Login Bonus"
+,"GL_202007~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202007~table~17~item~1~num":10
+,"GL_202007~table~18~message":"Day 18 Login Bonus"
+,"GL_202007~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202007~table~18~item~1~num":1
+,"GL_202007~table~19~message":"Day 19 Login Bonus"
+,"GL_202007~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~19~item~1~num":10
+,"GL_202007~table~20~message":"Day 20 Login Bonus"
+,"GL_202007~table~20~coin":200
+,"GL_202007~table~21~message":"Day 21 Login Bonus"
+,"GL_202007~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~21~item~1~num":5
+,"GL_202007~table~22~message":"Day 22 Login Bonus"
+,"GL_202007~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202007~table~22~item~1~num":10
+,"GL_202007~table~23~message":"Day 23 Login Bonus"
+,"GL_202007~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202007~table~23~item~1~num":1
+,"GL_202007~table~24~message":"Day 24 Login Bonus"
+,"GL_202007~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~24~item~1~num":10
+,"GL_202007~table~25~message":"Day 25 Login Bonus"
+,"GL_202007~table~25~coin":250
+,"GL_202007~table~26~message":"Day 26 Login Bonus"
+,"GL_202007~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202007~table~26~item~1~num":5
+,"GL_202007~table~27~message":"Day 27 Login Bonus"
+,"GL_202007~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202007~table~27~item~1~num":10
+,"GL_202007~table~28~message":"Day 28 Login Bonus"
+,"GL_202007~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202007~table~28~item~1~num":1
+,"GL_202007~table~29~message":"Day 29 Login Bonus"
+,"GL_202007~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202007~table~29~item~1~num":10
+,"GL_202007~table~30~message":"Day 30 Login Bonus"
+,"GL_202007~table~30~coin":250
+,"GL_202007~table~31~message":"Day 31 Login Bonus"
+,"GL_202007~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202007~table~31~item~1~num":5
+,"GL_202008~type":"Monthly"
+,"GL_202008~prefab":"LoginBonusWindow"
+,"GL_202008~begin":"2020-08-01 00:00:00"
+,"GL_202008~end":"2020-08-31 23:59:59"
+,"GL_202008~recover":2
+,"GL_202008~message":"ログインボーナスです。"
+,"GL_202008~table~1~message":"Day 1 Login Bonus"
+,"GL_202008~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~1~item~1~num":5
+,"GL_202008~table~2~message":"Day 2 Login Bonus"
+,"GL_202008~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202008~table~2~item~1~num":10
+,"GL_202008~table~3~message":"Day 3 Login Bonus"
+,"GL_202008~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202008~table~3~item~1~num":10
+,"GL_202008~table~4~message":"Day 4 Login Bonus"
+,"GL_202008~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~4~item~1~num":10
+,"GL_202008~table~5~message":"Day 5 Login Bonus"
+,"GL_202008~table~5~coin":50
+,"GL_202008~table~6~message":"Day 6 Login Bonus"
+,"GL_202008~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~6~item~1~num":5
+,"GL_202008~table~7~message":"Day 7 Login Bonus"
+,"GL_202008~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202008~table~7~item~1~num":10
+,"GL_202008~table~8~message":"Day 8 Login Bonus"
+,"GL_202008~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202008~table~8~item~1~num":10
+,"GL_202008~table~9~message":"Day 9 Login Bonus"
+,"GL_202008~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~9~item~1~num":10
+,"GL_202008~table~10~message":"Day 10 Login Bonus"
+,"GL_202008~table~10~coin":100
+,"GL_202008~table~11~message":"Day 11 Login Bonus"
+,"GL_202008~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~11~item~1~num":5
+,"GL_202008~table~12~message":"Day 12 Login Bonus"
+,"GL_202008~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202008~table~12~item~1~num":10
+,"GL_202008~table~13~message":"Day 13 Login Bonus"
+,"GL_202008~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202008~table~13~item~1~num":10
+,"GL_202008~table~14~message":"Day 14 Login Bonus"
+,"GL_202008~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~14~item~1~num":10
+,"GL_202008~table~15~message":"Day 15 Login Bonus"
+,"GL_202008~table~15~coin":150
+,"GL_202008~table~16~message":"Day 16 Login Bonus"
+,"GL_202008~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~16~item~1~num":5
+,"GL_202008~table~17~message":"Day 17 Login Bonus"
+,"GL_202008~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202008~table~17~item~1~num":10
+,"GL_202008~table~18~message":"Day 18 Login Bonus"
+,"GL_202008~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202008~table~18~item~1~num":1
+,"GL_202008~table~19~message":"Day 19 Login Bonus"
+,"GL_202008~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~19~item~1~num":10
+,"GL_202008~table~20~message":"Day 20 Login Bonus"
+,"GL_202008~table~20~coin":200
+,"GL_202008~table~21~message":"Day 21 Login Bonus"
+,"GL_202008~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~21~item~1~num":5
+,"GL_202008~table~22~message":"Day 22 Login Bonus"
+,"GL_202008~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202008~table~22~item~1~num":10
+,"GL_202008~table~23~message":"Day 23 Login Bonus"
+,"GL_202008~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202008~table~23~item~1~num":1
+,"GL_202008~table~24~message":"Day 24 Login Bonus"
+,"GL_202008~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~24~item~1~num":10
+,"GL_202008~table~25~message":"Day 25 Login Bonus"
+,"GL_202008~table~25~coin":250
+,"GL_202008~table~26~message":"Day 26 Login Bonus"
+,"GL_202008~table~26~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202008~table~26~item~1~num":5
+,"GL_202008~table~27~message":"Day 27 Login Bonus"
+,"GL_202008~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202008~table~27~item~1~num":10
+,"GL_202008~table~28~message":"Day 28 Login Bonus"
+,"GL_202008~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202008~table~28~item~1~num":1
+,"GL_202008~table~29~message":"Day 29 Login Bonus"
+,"GL_202008~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202008~table~29~item~1~num":10
+,"GL_202008~table~30~message":"Day 30 Login Bonus"
+,"GL_202008~table~30~coin":250
+,"GL_202008~table~31~message":"Day 31 Login Bonus"
+,"GL_202008~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202008~table~31~item~1~num":5
+,"GL_202009~type":"Monthly"
+,"GL_202009~prefab":"LoginBonusWindow"
+,"GL_202009~begin":"2020-09-01 00:00:00"
+,"GL_202009~end":"2020-09-30 23:59:59"
+,"GL_202009~recover":2
+,"GL_202009~message":"ログインボーナスです。"
+,"GL_202009~table~1~message":"Day 1 Login Bonus"
+,"GL_202009~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~1~item~1~num":5
+,"GL_202009~table~2~message":"Day 2 Login Bonus"
+,"GL_202009~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202009~table~2~item~1~num":10
+,"GL_202009~table~3~message":"Day 3 Login Bonus"
+,"GL_202009~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202009~table~3~item~1~num":10
+,"GL_202009~table~4~message":"Day 4 Login Bonus"
+,"GL_202009~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202009~table~4~item~1~num":10
+,"GL_202009~table~5~message":"Day 5 Login Bonus"
+,"GL_202009~table~5~coin":50
+,"GL_202009~table~6~message":"Day 6 Login Bonus"
+,"GL_202009~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~6~item~1~num":5
+,"GL_202009~table~7~message":"Day 7 Login Bonus"
+,"GL_202009~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202009~table~7~item~1~num":10
+,"GL_202009~table~8~message":"Day 8 Login Bonus"
+,"GL_202009~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202009~table~8~item~1~num":10
+,"GL_202009~table~9~message":"Day 9 Login Bonus"
+,"GL_202009~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202009~table~9~item~1~num":10
+,"GL_202009~table~10~message":"Day 10 Login Bonus"
+,"GL_202009~table~10~coin":100
+,"GL_202009~table~11~message":"Day 11 Login Bonus"
+,"GL_202009~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~11~item~1~num":5
+,"GL_202009~table~12~message":"Day 12 Login Bonus"
+,"GL_202009~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202009~table~12~item~1~num":10
+,"GL_202009~table~13~message":"Day 13 Login Bonus"
+,"GL_202009~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202009~table~13~item~1~num":10
+,"GL_202009~table~14~message":"Day 14 Login Bonus"
+,"GL_202009~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202009~table~14~item~1~num":10
+,"GL_202009~table~15~message":"Day 15 Login Bonus"
+,"GL_202009~table~15~coin":150
+,"GL_202009~table~16~message":"Day 16 Login Bonus"
+,"GL_202009~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~16~item~1~num":5
+,"GL_202009~table~17~message":"Day 17 Login Bonus"
+,"GL_202009~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202009~table~17~item~1~num":10
+,"GL_202009~table~18~message":"Day 18 Login Bonus"
+,"GL_202009~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202009~table~18~item~1~num":1
+,"GL_202009~table~19~message":"Day 19 Login Bonus"
+,"GL_202009~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202009~table~19~item~1~num":10
+,"GL_202009~table~20~message":"Day 20 Login Bonus"
+,"GL_202009~table~20~coin":200
+,"GL_202009~table~21~message":"Day 21 Login Bonus"
+,"GL_202009~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~21~item~1~num":5
+,"GL_202009~table~22~message":"Day 22 Login Bonus"
+,"GL_202009~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202009~table~22~item~1~num":10
+,"GL_202009~table~23~message":"Day 23 Login Bonus"
+,"GL_202009~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202009~table~23~item~1~num":1
+,"GL_202009~table~24~message":"Day 24 Login Bonus"
+,"GL_202009~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202009~table~24~item~1~num":10
+,"GL_202009~table~25~message":"Day 25 Login Bonus"
+,"GL_202009~table~25~coin":250
+,"GL_202009~table~26~message":"Day 26 Login Bonus"
+,"GL_202009~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202009~table~26~item~1~num":5
+,"GL_202009~table~27~message":"Day 27 Login Bonus"
+,"GL_202009~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202009~table~27~item~1~num":10
+,"GL_202009~table~28~message":"Day 28 Login Bonus"
+,"GL_202009~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202009~table~28~item~1~num":1
+,"GL_202009~table~29~message":"Day 29 Login Bonus"
+,"GL_202009~table~29~coin":250
+,"GL_202009~table~30~message":"Day 30 Login Bonus"
+,"GL_202009~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202009~table~30~item~1~num":5
+,"GL_202010~type":"Monthly"
+,"GL_202010~prefab":"LoginBonusWindow"
+,"GL_202010~begin":"2020-10-01 00:00:00"
+,"GL_202010~end":"2020-10-31 23:59:59"
+,"GL_202010~recover":2
+,"GL_202010~message":"ログインボーナスです。"
+,"GL_202010~table~1~message":"Day 1 Login Bonus"
+,"GL_202010~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~1~item~1~num":5
+,"GL_202010~table~2~message":"Day 2 Login Bonus"
+,"GL_202010~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202010~table~2~item~1~num":10
+,"GL_202010~table~3~message":"Day 3 Login Bonus"
+,"GL_202010~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202010~table~3~item~1~num":10
+,"GL_202010~table~4~message":"Day 4 Login Bonus"
+,"GL_202010~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~4~item~1~num":10
+,"GL_202010~table~5~message":"Day 5 Login Bonus"
+,"GL_202010~table~5~coin":50
+,"GL_202010~table~6~message":"Day 6 Login Bonus"
+,"GL_202010~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~6~item~1~num":5
+,"GL_202010~table~7~message":"Day 7 Login Bonus"
+,"GL_202010~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202010~table~7~item~1~num":10
+,"GL_202010~table~8~message":"Day 8 Login Bonus"
+,"GL_202010~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202010~table~8~item~1~num":10
+,"GL_202010~table~9~message":"Day 9 Login Bonus"
+,"GL_202010~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~9~item~1~num":10
+,"GL_202010~table~10~message":"Day 10 Login Bonus"
+,"GL_202010~table~10~coin":100
+,"GL_202010~table~11~message":"Day 11 Login Bonus"
+,"GL_202010~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~11~item~1~num":5
+,"GL_202010~table~12~message":"Day 12 Login Bonus"
+,"GL_202010~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202010~table~12~item~1~num":10
+,"GL_202010~table~13~message":"Day 13 Login Bonus"
+,"GL_202010~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202010~table~13~item~1~num":10
+,"GL_202010~table~14~message":"Day 14 Login Bonus"
+,"GL_202010~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~14~item~1~num":10
+,"GL_202010~table~15~message":"Day 15 Login Bonus"
+,"GL_202010~table~15~coin":150
+,"GL_202010~table~16~message":"Day 16 Login Bonus"
+,"GL_202010~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~16~item~1~num":5
+,"GL_202010~table~17~message":"Day 17 Login Bonus"
+,"GL_202010~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202010~table~17~item~1~num":10
+,"GL_202010~table~18~message":"Day 18 Login Bonus"
+,"GL_202010~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202010~table~18~item~1~num":1
+,"GL_202010~table~19~message":"Day 19 Login Bonus"
+,"GL_202010~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~19~item~1~num":10
+,"GL_202010~table~20~message":"Day 20 Login Bonus"
+,"GL_202010~table~20~coin":200
+,"GL_202010~table~21~message":"Day 21 Login Bonus"
+,"GL_202010~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~21~item~1~num":5
+,"GL_202010~table~22~message":"Day 22 Login Bonus"
+,"GL_202010~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202010~table~22~item~1~num":10
+,"GL_202010~table~23~message":"Day 23 Login Bonus"
+,"GL_202010~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202010~table~23~item~1~num":1
+,"GL_202010~table~24~message":"Day 24 Login Bonus"
+,"GL_202010~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~24~item~1~num":10
+,"GL_202010~table~25~message":"Day 25 Login Bonus"
+,"GL_202010~table~25~coin":250
+,"GL_202010~table~26~message":"Day 26 Login Bonus"
+,"GL_202010~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202010~table~26~item~1~num":5
+,"GL_202010~table~27~message":"Day 27 Login Bonus"
+,"GL_202010~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202010~table~27~item~1~num":10
+,"GL_202010~table~28~message":"Day 28 Login Bonus"
+,"GL_202010~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202010~table~28~item~1~num":1
+,"GL_202010~table~29~message":"Day 29 Login Bonus"
+,"GL_202010~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202010~table~29~item~1~num":10
+,"GL_202010~table~30~message":"Day 30 Login Bonus"
+,"GL_202010~table~30~coin":250
+,"GL_202010~table~31~message":"Day 31 Login Bonus"
+,"GL_202010~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202010~table~31~item~1~num":5
+,"GL_202011~type":"Monthly"
+,"GL_202011~prefab":"LoginBonusWindow"
+,"GL_202011~begin":"2020-11-01 00:00:00"
+,"GL_202011~end":"2020-11-30 23:59:59"
+,"GL_202011~recover":2
+,"GL_202011~message":"ログインボーナスです。"
+,"GL_202011~table~1~message":"Day 1 Login Bonus"
+,"GL_202011~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~1~item~1~num":5
+,"GL_202011~table~2~message":"Day 2 Login Bonus"
+,"GL_202011~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202011~table~2~item~1~num":10
+,"GL_202011~table~3~message":"Day 3 Login Bonus"
+,"GL_202011~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202011~table~3~item~1~num":10
+,"GL_202011~table~4~message":"Day 4 Login Bonus"
+,"GL_202011~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202011~table~4~item~1~num":10
+,"GL_202011~table~5~message":"Day 5 Login Bonus"
+,"GL_202011~table~5~coin":50
+,"GL_202011~table~6~message":"Day 6 Login Bonus"
+,"GL_202011~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~6~item~1~num":5
+,"GL_202011~table~7~message":"Day 7 Login Bonus"
+,"GL_202011~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202011~table~7~item~1~num":10
+,"GL_202011~table~8~message":"Day 8 Login Bonus"
+,"GL_202011~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202011~table~8~item~1~num":10
+,"GL_202011~table~9~message":"Day 9 Login Bonus"
+,"GL_202011~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202011~table~9~item~1~num":10
+,"GL_202011~table~10~message":"Day 10 Login Bonus"
+,"GL_202011~table~10~coin":100
+,"GL_202011~table~11~message":"Day 11 Login Bonus"
+,"GL_202011~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~11~item~1~num":5
+,"GL_202011~table~12~message":"Day 12 Login Bonus"
+,"GL_202011~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202011~table~12~item~1~num":10
+,"GL_202011~table~13~message":"Day 13 Login Bonus"
+,"GL_202011~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202011~table~13~item~1~num":10
+,"GL_202011~table~14~message":"Day 14 Login Bonus"
+,"GL_202011~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202011~table~14~item~1~num":10
+,"GL_202011~table~15~message":"Day 15 Login Bonus"
+,"GL_202011~table~15~coin":150
+,"GL_202011~table~16~message":"Day 16 Login Bonus"
+,"GL_202011~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~16~item~1~num":5
+,"GL_202011~table~17~message":"Day 17 Login Bonus"
+,"GL_202011~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202011~table~17~item~1~num":10
+,"GL_202011~table~18~message":"Day 18 Login Bonus"
+,"GL_202011~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202011~table~18~item~1~num":1
+,"GL_202011~table~19~message":"Day 19 Login Bonus"
+,"GL_202011~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202011~table~19~item~1~num":10
+,"GL_202011~table~20~message":"Day 20 Login Bonus"
+,"GL_202011~table~20~coin":200
+,"GL_202011~table~21~message":"Day 21 Login Bonus"
+,"GL_202011~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~21~item~1~num":5
+,"GL_202011~table~22~message":"Day 22 Login Bonus"
+,"GL_202011~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202011~table~22~item~1~num":10
+,"GL_202011~table~23~message":"Day 23 Login Bonus"
+,"GL_202011~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202011~table~23~item~1~num":1
+,"GL_202011~table~24~message":"Day 24 Login Bonus"
+,"GL_202011~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202011~table~24~item~1~num":10
+,"GL_202011~table~25~message":"Day 25 Login Bonus"
+,"GL_202011~table~25~coin":250
+,"GL_202011~table~26~message":"Day 26 Login Bonus"
+,"GL_202011~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202011~table~26~item~1~num":5
+,"GL_202011~table~27~message":"Day 27 Login Bonus"
+,"GL_202011~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202011~table~27~item~1~num":10
+,"GL_202011~table~28~message":"Day 28 Login Bonus"
+,"GL_202011~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202011~table~28~item~1~num":1
+,"GL_202011~table~29~message":"Day 29 Login Bonus"
+,"GL_202011~table~29~coin":250
+,"GL_202011~table~30~message":"Day 30 Login Bonus"
+,"GL_202011~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202011~table~30~item~1~num":5
+,"GL_202012~type":"Monthly"
+,"GL_202012~prefab":"LoginBonusWindow"
+,"GL_202012~begin":"2020-12-01 00:00:00"
+,"GL_202012~end":"2020-12-31 23:59:59"
+,"GL_202012~recover":2
+,"GL_202012~message":"ログインボーナスです。"
+,"GL_202012~table~1~message":"Day 1 Login Bonus"
+,"GL_202012~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~1~item~1~num":5
+,"GL_202012~table~2~message":"Day 2 Login Bonus"
+,"GL_202012~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202012~table~2~item~1~num":10
+,"GL_202012~table~3~message":"Day 3 Login Bonus"
+,"GL_202012~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202012~table~3~item~1~num":10
+,"GL_202012~table~4~message":"Day 4 Login Bonus"
+,"GL_202012~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~4~item~1~num":10
+,"GL_202012~table~5~message":"Day 5 Login Bonus"
+,"GL_202012~table~5~coin":50
+,"GL_202012~table~6~message":"Day 6 Login Bonus"
+,"GL_202012~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~6~item~1~num":5
+,"GL_202012~table~7~message":"Day 7 Login Bonus"
+,"GL_202012~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202012~table~7~item~1~num":10
+,"GL_202012~table~8~message":"Day 8 Login Bonus"
+,"GL_202012~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202012~table~8~item~1~num":10
+,"GL_202012~table~9~message":"Day 9 Login Bonus"
+,"GL_202012~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~9~item~1~num":10
+,"GL_202012~table~10~message":"Day 10 Login Bonus"
+,"GL_202012~table~10~coin":100
+,"GL_202012~table~11~message":"Day 11 Login Bonus"
+,"GL_202012~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~11~item~1~num":5
+,"GL_202012~table~12~message":"Day 12 Login Bonus"
+,"GL_202012~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202012~table~12~item~1~num":10
+,"GL_202012~table~13~message":"Day 13 Login Bonus"
+,"GL_202012~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202012~table~13~item~1~num":10
+,"GL_202012~table~14~message":"Day 14 Login Bonus"
+,"GL_202012~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~14~item~1~num":10
+,"GL_202012~table~15~message":"Day 15 Login Bonus"
+,"GL_202012~table~15~coin":150
+,"GL_202012~table~16~message":"Day 16 Login Bonus"
+,"GL_202012~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~16~item~1~num":5
+,"GL_202012~table~17~message":"Day 17 Login Bonus"
+,"GL_202012~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202012~table~17~item~1~num":10
+,"GL_202012~table~18~message":"Day 18 Login Bonus"
+,"GL_202012~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202012~table~18~item~1~num":1
+,"GL_202012~table~19~message":"Day 19 Login Bonus"
+,"GL_202012~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~19~item~1~num":10
+,"GL_202012~table~20~message":"Day 20 Login Bonus"
+,"GL_202012~table~20~coin":200
+,"GL_202012~table~21~message":"Day 21 Login Bonus"
+,"GL_202012~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~21~item~1~num":5
+,"GL_202012~table~22~message":"Day 22 Login Bonus"
+,"GL_202012~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202012~table~22~item~1~num":10
+,"GL_202012~table~23~message":"Day 23 Login Bonus"
+,"GL_202012~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202012~table~23~item~1~num":1
+,"GL_202012~table~24~message":"Day 24 Login Bonus"
+,"GL_202012~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~24~item~1~num":10
+,"GL_202012~table~25~message":"Day 25 Login Bonus"
+,"GL_202012~table~25~coin":250
+,"GL_202012~table~26~message":"Day 26 Login Bonus"
+,"GL_202012~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202012~table~26~item~1~num":5
+,"GL_202012~table~27~message":"Day 27 Login Bonus"
+,"GL_202012~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202012~table~27~item~1~num":10
+,"GL_202012~table~28~message":"Day 28 Login Bonus"
+,"GL_202012~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202012~table~28~item~1~num":1
+,"GL_202012~table~29~message":"Day 29 Login Bonus"
+,"GL_202012~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202012~table~29~item~1~num":10
+,"GL_202012~table~30~message":"Day 30 Login Bonus"
+,"GL_202012~table~30~coin":250
+,"GL_202012~table~31~message":"Day 31 Login Bonus"
+,"GL_202012~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202012~table~31~item~1~num":5
+,"GL_202101~type":"Monthly"
+,"GL_202101~prefab":"LoginBonusWindow"
+,"GL_202101~begin":"2021-01-01 00:00:00"
+,"GL_202101~end":"2021-01-31 23:59:59"
+,"GL_202101~recover":2
+,"GL_202101~message":"ログインボーナスです。"
+,"GL_202101~table~1~message":"Day 1 Login Bonus"
+,"GL_202101~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~1~item~1~num":5
+,"GL_202101~table~2~message":"Day 2 Login Bonus"
+,"GL_202101~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202101~table~2~item~1~num":10
+,"GL_202101~table~3~message":"Day 3 Login Bonus"
+,"GL_202101~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202101~table~3~item~1~num":10
+,"GL_202101~table~4~message":"Day 4 Login Bonus"
+,"GL_202101~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~4~item~1~num":10
+,"GL_202101~table~5~message":"Day 5 Login Bonus"
+,"GL_202101~table~5~coin":50
+,"GL_202101~table~6~message":"Day 6 Login Bonus"
+,"GL_202101~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~6~item~1~num":5
+,"GL_202101~table~7~message":"Day 7 Login Bonus"
+,"GL_202101~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202101~table~7~item~1~num":10
+,"GL_202101~table~8~message":"Day 8 Login Bonus"
+,"GL_202101~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202101~table~8~item~1~num":10
+,"GL_202101~table~9~message":"Day 9 Login Bonus"
+,"GL_202101~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~9~item~1~num":10
+,"GL_202101~table~10~message":"Day 10 Login Bonus"
+,"GL_202101~table~10~coin":100
+,"GL_202101~table~11~message":"Day 11 Login Bonus"
+,"GL_202101~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~11~item~1~num":5
+,"GL_202101~table~12~message":"Day 12 Login Bonus"
+,"GL_202101~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202101~table~12~item~1~num":10
+,"GL_202101~table~13~message":"Day 13 Login Bonus"
+,"GL_202101~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202101~table~13~item~1~num":10
+,"GL_202101~table~14~message":"Day 14 Login Bonus"
+,"GL_202101~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~14~item~1~num":10
+,"GL_202101~table~15~message":"Day 15 Login Bonus"
+,"GL_202101~table~15~coin":150
+,"GL_202101~table~16~message":"Day 16 Login Bonus"
+,"GL_202101~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~16~item~1~num":5
+,"GL_202101~table~17~message":"Day 17 Login Bonus"
+,"GL_202101~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202101~table~17~item~1~num":10
+,"GL_202101~table~18~message":"Day 18 Login Bonus"
+,"GL_202101~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202101~table~18~item~1~num":1
+,"GL_202101~table~19~message":"Day 19 Login Bonus"
+,"GL_202101~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~19~item~1~num":10
+,"GL_202101~table~20~message":"Day 20 Login Bonus"
+,"GL_202101~table~20~coin":200
+,"GL_202101~table~21~message":"Day 21 Login Bonus"
+,"GL_202101~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~21~item~1~num":5
+,"GL_202101~table~22~message":"Day 22 Login Bonus"
+,"GL_202101~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202101~table~22~item~1~num":10
+,"GL_202101~table~23~message":"Day 23 Login Bonus"
+,"GL_202101~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202101~table~23~item~1~num":1
+,"GL_202101~table~24~message":"Day 24 Login Bonus"
+,"GL_202101~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~24~item~1~num":10
+,"GL_202101~table~25~message":"Day 25 Login Bonus"
+,"GL_202101~table~25~coin":250
+,"GL_202101~table~26~message":"Day 26 Login Bonus"
+,"GL_202101~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202101~table~26~item~1~num":5
+,"GL_202101~table~27~message":"Day 27 Login Bonus"
+,"GL_202101~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202101~table~27~item~1~num":10
+,"GL_202101~table~28~message":"Day 28 Login Bonus"
+,"GL_202101~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202101~table~28~item~1~num":1
+,"GL_202101~table~29~message":"Day 29 Login Bonus"
+,"GL_202101~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202101~table~29~item~1~num":10
+,"GL_202101~table~30~message":"Day 30 Login Bonus"
+,"GL_202101~table~30~coin":250
+,"GL_202101~table~31~message":"Day 31 Login Bonus"
+,"GL_202101~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202101~table~31~item~1~num":5
+,"GL_202102~type":"Monthly"
+,"GL_202102~prefab":"LoginBonusWindow"
+,"GL_202102~begin":"2021-02-01 00:00:00"
+,"GL_202102~end":"2021-02-28 23:59:59"
+,"GL_202102~recover":2
+,"GL_202102~message":"ログインボーナスです。"
+,"GL_202102~table~1~message":"Day 1 Login Bonus"
+,"GL_202102~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~1~item~1~num":5
+,"GL_202102~table~2~message":"Day 2 Login Bonus"
+,"GL_202102~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202102~table~2~item~1~num":10
+,"GL_202102~table~3~message":"Day 3 Login Bonus"
+,"GL_202102~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202102~table~3~item~1~num":10
+,"GL_202102~table~4~message":"Day 4 Login Bonus"
+,"GL_202102~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202102~table~4~item~1~num":10
+,"GL_202102~table~5~message":"Day 5 Login Bonus"
+,"GL_202102~table~5~coin":50
+,"GL_202102~table~6~message":"Day 6 Login Bonus"
+,"GL_202102~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~6~item~1~num":5
+,"GL_202102~table~7~message":"Day 7 Login Bonus"
+,"GL_202102~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202102~table~7~item~1~num":10
+,"GL_202102~table~8~message":"Day 8 Login Bonus"
+,"GL_202102~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202102~table~8~item~1~num":10
+,"GL_202102~table~9~message":"Day 9 Login Bonus"
+,"GL_202102~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202102~table~9~item~1~num":10
+,"GL_202102~table~10~message":"Day 10 Login Bonus"
+,"GL_202102~table~10~coin":100
+,"GL_202102~table~11~message":"Day 11 Login Bonus"
+,"GL_202102~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~11~item~1~num":5
+,"GL_202102~table~12~message":"Day 12 Login Bonus"
+,"GL_202102~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202102~table~12~item~1~num":10
+,"GL_202102~table~13~message":"Day 13 Login Bonus"
+,"GL_202102~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202102~table~13~item~1~num":10
+,"GL_202102~table~14~message":"Day 14 Login Bonus"
+,"GL_202102~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202102~table~14~item~1~num":10
+,"GL_202102~table~15~message":"Day 15 Login Bonus"
+,"GL_202102~table~15~coin":150
+,"GL_202102~table~16~message":"Day 16 Login Bonus"
+,"GL_202102~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~16~item~1~num":5
+,"GL_202102~table~17~message":"Day 17 Login Bonus"
+,"GL_202102~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202102~table~17~item~1~num":10
+,"GL_202102~table~18~message":"Day 18 Login Bonus"
+,"GL_202102~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202102~table~18~item~1~num":1
+,"GL_202102~table~19~message":"Day 19 Login Bonus"
+,"GL_202102~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202102~table~19~item~1~num":10
+,"GL_202102~table~20~message":"Day 20 Login Bonus"
+,"GL_202102~table~20~coin":200
+,"GL_202102~table~21~message":"Day 21 Login Bonus"
+,"GL_202102~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~21~item~1~num":5
+,"GL_202102~table~22~message":"Day 22 Login Bonus"
+,"GL_202102~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202102~table~22~item~1~num":10
+,"GL_202102~table~23~message":"Day 23 Login Bonus"
+,"GL_202102~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202102~table~23~item~1~num":1
+,"GL_202102~table~24~message":"Day 24 Login Bonus"
+,"GL_202102~table~24~coin":250
+,"GL_202102~table~25~message":"Day 25 Login Bonus"
+,"GL_202102~table~25~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202102~table~25~item~1~num":5
+,"GL_202102~table~26~message":"Day 26 Login Bonus"
+,"GL_202102~table~26~item~1~iname":"TS_EXP_04"
+,"GL_202102~table~26~item~1~num":10
+,"GL_202102~table~27~message":"Day 27 Login Bonus"
+,"GL_202102~table~27~coin":250
+,"GL_202102~table~28~message":"Day 28 Login Bonus"
+,"GL_202102~table~28~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202102~table~28~item~1~num":5
+,"GL_202103~type":"Monthly"
+,"GL_202103~prefab":"LoginBonusWindow"
+,"GL_202103~begin":"2021-03-01 00:00:00"
+,"GL_202103~end":"2021-03-31 23:59:59"
+,"GL_202103~recover":2
+,"GL_202103~message":"ログインボーナスです。"
+,"GL_202103~table~1~message":"Day 1 Login Bonus"
+,"GL_202103~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~1~item~1~num":5
+,"GL_202103~table~2~message":"Day 2 Login Bonus"
+,"GL_202103~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202103~table~2~item~1~num":10
+,"GL_202103~table~3~message":"Day 3 Login Bonus"
+,"GL_202103~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202103~table~3~item~1~num":10
+,"GL_202103~table~4~message":"Day 4 Login Bonus"
+,"GL_202103~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~4~item~1~num":10
+,"GL_202103~table~5~message":"Day 5 Login Bonus"
+,"GL_202103~table~5~coin":50
+,"GL_202103~table~6~message":"Day 6 Login Bonus"
+,"GL_202103~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~6~item~1~num":5
+,"GL_202103~table~7~message":"Day 7 Login Bonus"
+,"GL_202103~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202103~table~7~item~1~num":10
+,"GL_202103~table~8~message":"Day 8 Login Bonus"
+,"GL_202103~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202103~table~8~item~1~num":10
+,"GL_202103~table~9~message":"Day 9 Login Bonus"
+,"GL_202103~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~9~item~1~num":10
+,"GL_202103~table~10~message":"Day 10 Login Bonus"
+,"GL_202103~table~10~coin":100
+,"GL_202103~table~11~message":"Day 11 Login Bonus"
+,"GL_202103~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~11~item~1~num":5
+,"GL_202103~table~12~message":"Day 12 Login Bonus"
+,"GL_202103~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202103~table~12~item~1~num":10
+,"GL_202103~table~13~message":"Day 13 Login Bonus"
+,"GL_202103~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202103~table~13~item~1~num":10
+,"GL_202103~table~14~message":"Day 14 Login Bonus"
+,"GL_202103~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~14~item~1~num":10
+,"GL_202103~table~15~message":"Day 15 Login Bonus"
+,"GL_202103~table~15~coin":150
+,"GL_202103~table~16~message":"Day 16 Login Bonus"
+,"GL_202103~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~16~item~1~num":5
+,"GL_202103~table~17~message":"Day 17 Login Bonus"
+,"GL_202103~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202103~table~17~item~1~num":10
+,"GL_202103~table~18~message":"Day 18 Login Bonus"
+,"GL_202103~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202103~table~18~item~1~num":1
+,"GL_202103~table~19~message":"Day 19 Login Bonus"
+,"GL_202103~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~19~item~1~num":10
+,"GL_202103~table~20~message":"Day 20 Login Bonus"
+,"GL_202103~table~20~coin":200
+,"GL_202103~table~21~message":"Day 21 Login Bonus"
+,"GL_202103~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~21~item~1~num":5
+,"GL_202103~table~22~message":"Day 22 Login Bonus"
+,"GL_202103~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202103~table~22~item~1~num":10
+,"GL_202103~table~23~message":"Day 23 Login Bonus"
+,"GL_202103~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202103~table~23~item~1~num":1
+,"GL_202103~table~24~message":"Day 24 Login Bonus"
+,"GL_202103~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~24~item~1~num":10
+,"GL_202103~table~25~message":"Day 25 Login Bonus"
+,"GL_202103~table~25~coin":250
+,"GL_202103~table~26~message":"Day 26 Login Bonus"
+,"GL_202103~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202103~table~26~item~1~num":5
+,"GL_202103~table~27~message":"Day 27 Login Bonus"
+,"GL_202103~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202103~table~27~item~1~num":10
+,"GL_202103~table~28~message":"Day 28 Login Bonus"
+,"GL_202103~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202103~table~28~item~1~num":1
+,"GL_202103~table~29~message":"Day 29 Login Bonus"
+,"GL_202103~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202103~table~29~item~1~num":10
+,"GL_202103~table~30~message":"Day 30 Login Bonus"
+,"GL_202103~table~30~coin":250
+,"GL_202103~table~31~message":"Day 31 Login Bonus"
+,"GL_202103~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202103~table~31~item~1~num":5
+,"GL_202104~type":"Monthly"
+,"GL_202104~prefab":"LoginBonusWindow"
+,"GL_202104~begin":"2021-04-01 00:00:00"
+,"GL_202104~end":"2021-04-30 23:59:59"
+,"GL_202104~recover":2
+,"GL_202104~message":"ログインボーナスです。"
+,"GL_202104~table~1~message":"Day 1 Login Bonus"
+,"GL_202104~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~1~item~1~num":5
+,"GL_202104~table~2~message":"Day 2 Login Bonus"
+,"GL_202104~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202104~table~2~item~1~num":10
+,"GL_202104~table~3~message":"Day 3 Login Bonus"
+,"GL_202104~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202104~table~3~item~1~num":10
+,"GL_202104~table~4~message":"Day 4 Login Bonus"
+,"GL_202104~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202104~table~4~item~1~num":10
+,"GL_202104~table~5~message":"Day 5 Login Bonus"
+,"GL_202104~table~5~coin":50
+,"GL_202104~table~6~message":"Day 6 Login Bonus"
+,"GL_202104~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~6~item~1~num":5
+,"GL_202104~table~7~message":"Day 7 Login Bonus"
+,"GL_202104~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202104~table~7~item~1~num":10
+,"GL_202104~table~8~message":"Day 8 Login Bonus"
+,"GL_202104~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202104~table~8~item~1~num":10
+,"GL_202104~table~9~message":"Day 9 Login Bonus"
+,"GL_202104~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202104~table~9~item~1~num":10
+,"GL_202104~table~10~message":"Day 10 Login Bonus"
+,"GL_202104~table~10~coin":100
+,"GL_202104~table~11~message":"Day 11 Login Bonus"
+,"GL_202104~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~11~item~1~num":5
+,"GL_202104~table~12~message":"Day 12 Login Bonus"
+,"GL_202104~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202104~table~12~item~1~num":10
+,"GL_202104~table~13~message":"Day 13 Login Bonus"
+,"GL_202104~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202104~table~13~item~1~num":10
+,"GL_202104~table~14~message":"Day 14 Login Bonus"
+,"GL_202104~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202104~table~14~item~1~num":10
+,"GL_202104~table~15~message":"Day 15 Login Bonus"
+,"GL_202104~table~15~coin":150
+,"GL_202104~table~16~message":"Day 16 Login Bonus"
+,"GL_202104~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~16~item~1~num":5
+,"GL_202104~table~17~message":"Day 17 Login Bonus"
+,"GL_202104~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202104~table~17~item~1~num":10
+,"GL_202104~table~18~message":"Day 18 Login Bonus"
+,"GL_202104~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202104~table~18~item~1~num":1
+,"GL_202104~table~19~message":"Day 19 Login Bonus"
+,"GL_202104~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202104~table~19~item~1~num":10
+,"GL_202104~table~20~message":"Day 20 Login Bonus"
+,"GL_202104~table~20~coin":200
+,"GL_202104~table~21~message":"Day 21 Login Bonus"
+,"GL_202104~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~21~item~1~num":5
+,"GL_202104~table~22~message":"Day 22 Login Bonus"
+,"GL_202104~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202104~table~22~item~1~num":10
+,"GL_202104~table~23~message":"Day 23 Login Bonus"
+,"GL_202104~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202104~table~23~item~1~num":1
+,"GL_202104~table~24~message":"Day 24 Login Bonus"
+,"GL_202104~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202104~table~24~item~1~num":10
+,"GL_202104~table~25~message":"Day 25 Login Bonus"
+,"GL_202104~table~25~coin":250
+,"GL_202104~table~26~message":"Day 26 Login Bonus"
+,"GL_202104~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202104~table~26~item~1~num":5
+,"GL_202104~table~27~message":"Day 27 Login Bonus"
+,"GL_202104~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202104~table~27~item~1~num":10
+,"GL_202104~table~28~message":"Day 28 Login Bonus"
+,"GL_202104~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202104~table~28~item~1~num":1
+,"GL_202104~table~29~message":"Day 29 Login Bonus"
+,"GL_202104~table~29~coin":250
+,"GL_202104~table~30~message":"Day 30 Login Bonus"
+,"GL_202104~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202104~table~30~item~1~num":5
+,"GL_202105~type":"Monthly"
+,"GL_202105~prefab":"LoginBonusWindow"
+,"GL_202105~begin":"2021-05-01 00:00:00"
+,"GL_202105~end":"2021-05-31 23:59:59"
+,"GL_202105~recover":2
+,"GL_202105~message":"ログインボーナスです。"
+,"GL_202105~table~1~message":"Day 1 Login Bonus"
+,"GL_202105~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~1~item~1~num":5
+,"GL_202105~table~2~message":"Day 2 Login Bonus"
+,"GL_202105~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202105~table~2~item~1~num":10
+,"GL_202105~table~3~message":"Day 3 Login Bonus"
+,"GL_202105~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202105~table~3~item~1~num":10
+,"GL_202105~table~4~message":"Day 4 Login Bonus"
+,"GL_202105~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~4~item~1~num":10
+,"GL_202105~table~5~message":"Day 5 Login Bonus"
+,"GL_202105~table~5~coin":50
+,"GL_202105~table~6~message":"Day 6 Login Bonus"
+,"GL_202105~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~6~item~1~num":5
+,"GL_202105~table~7~message":"Day 7 Login Bonus"
+,"GL_202105~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202105~table~7~item~1~num":10
+,"GL_202105~table~8~message":"Day 8 Login Bonus"
+,"GL_202105~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202105~table~8~item~1~num":10
+,"GL_202105~table~9~message":"Day 9 Login Bonus"
+,"GL_202105~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~9~item~1~num":10
+,"GL_202105~table~10~message":"Day 10 Login Bonus"
+,"GL_202105~table~10~coin":100
+,"GL_202105~table~11~message":"Day 11 Login Bonus"
+,"GL_202105~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~11~item~1~num":5
+,"GL_202105~table~12~message":"Day 12 Login Bonus"
+,"GL_202105~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202105~table~12~item~1~num":10
+,"GL_202105~table~13~message":"Day 13 Login Bonus"
+,"GL_202105~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202105~table~13~item~1~num":10
+,"GL_202105~table~14~message":"Day 14 Login Bonus"
+,"GL_202105~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~14~item~1~num":10
+,"GL_202105~table~15~message":"Day 15 Login Bonus"
+,"GL_202105~table~15~coin":150
+,"GL_202105~table~16~message":"Day 16 Login Bonus"
+,"GL_202105~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~16~item~1~num":5
+,"GL_202105~table~17~message":"Day 17 Login Bonus"
+,"GL_202105~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202105~table~17~item~1~num":10
+,"GL_202105~table~18~message":"Day 18 Login Bonus"
+,"GL_202105~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202105~table~18~item~1~num":1
+,"GL_202105~table~19~message":"Day 19 Login Bonus"
+,"GL_202105~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~19~item~1~num":10
+,"GL_202105~table~20~message":"Day 20 Login Bonus"
+,"GL_202105~table~20~coin":200
+,"GL_202105~table~21~message":"Day 21 Login Bonus"
+,"GL_202105~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~21~item~1~num":5
+,"GL_202105~table~22~message":"Day 22 Login Bonus"
+,"GL_202105~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202105~table~22~item~1~num":10
+,"GL_202105~table~23~message":"Day 23 Login Bonus"
+,"GL_202105~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202105~table~23~item~1~num":1
+,"GL_202105~table~24~message":"Day 24 Login Bonus"
+,"GL_202105~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~24~item~1~num":10
+,"GL_202105~table~25~message":"Day 25 Login Bonus"
+,"GL_202105~table~25~coin":250
+,"GL_202105~table~26~message":"Day 26 Login Bonus"
+,"GL_202105~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202105~table~26~item~1~num":5
+,"GL_202105~table~27~message":"Day 27 Login Bonus"
+,"GL_202105~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202105~table~27~item~1~num":10
+,"GL_202105~table~28~message":"Day 28 Login Bonus"
+,"GL_202105~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202105~table~28~item~1~num":1
+,"GL_202105~table~29~message":"Day 29 Login Bonus"
+,"GL_202105~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202105~table~29~item~1~num":10
+,"GL_202105~table~30~message":"Day 30 Login Bonus"
+,"GL_202105~table~30~coin":250
+,"GL_202105~table~31~message":"Day 31 Login Bonus"
+,"GL_202105~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202105~table~31~item~1~num":5
+,"GL_202106~type":"Monthly"
+,"GL_202106~prefab":"LoginBonusWindow"
+,"GL_202106~begin":"2021-06-01 00:00:00"
+,"GL_202106~end":"2021-06-30 23:59:59"
+,"GL_202106~recover":2
+,"GL_202106~message":"ログインボーナスです。"
+,"GL_202106~table~1~message":"Day 1 Login Bonus"
+,"GL_202106~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~1~item~1~num":5
+,"GL_202106~table~2~message":"Day 2 Login Bonus"
+,"GL_202106~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202106~table~2~item~1~num":10
+,"GL_202106~table~3~message":"Day 3 Login Bonus"
+,"GL_202106~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202106~table~3~item~1~num":10
+,"GL_202106~table~4~message":"Day 4 Login Bonus"
+,"GL_202106~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202106~table~4~item~1~num":10
+,"GL_202106~table~5~message":"Day 5 Login Bonus"
+,"GL_202106~table~5~coin":50
+,"GL_202106~table~6~message":"Day 6 Login Bonus"
+,"GL_202106~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~6~item~1~num":5
+,"GL_202106~table~7~message":"Day 7 Login Bonus"
+,"GL_202106~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202106~table~7~item~1~num":10
+,"GL_202106~table~8~message":"Day 8 Login Bonus"
+,"GL_202106~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202106~table~8~item~1~num":10
+,"GL_202106~table~9~message":"Day 9 Login Bonus"
+,"GL_202106~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202106~table~9~item~1~num":10
+,"GL_202106~table~10~message":"Day 10 Login Bonus"
+,"GL_202106~table~10~coin":100
+,"GL_202106~table~11~message":"Day 11 Login Bonus"
+,"GL_202106~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~11~item~1~num":5
+,"GL_202106~table~12~message":"Day 12 Login Bonus"
+,"GL_202106~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202106~table~12~item~1~num":10
+,"GL_202106~table~13~message":"Day 13 Login Bonus"
+,"GL_202106~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202106~table~13~item~1~num":10
+,"GL_202106~table~14~message":"Day 14 Login Bonus"
+,"GL_202106~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202106~table~14~item~1~num":10
+,"GL_202106~table~15~message":"Day 15 Login Bonus"
+,"GL_202106~table~15~coin":150
+,"GL_202106~table~16~message":"Day 16 Login Bonus"
+,"GL_202106~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~16~item~1~num":5
+,"GL_202106~table~17~message":"Day 17 Login Bonus"
+,"GL_202106~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202106~table~17~item~1~num":10
+,"GL_202106~table~18~message":"Day 18 Login Bonus"
+,"GL_202106~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202106~table~18~item~1~num":1
+,"GL_202106~table~19~message":"Day 19 Login Bonus"
+,"GL_202106~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202106~table~19~item~1~num":10
+,"GL_202106~table~20~message":"Day 20 Login Bonus"
+,"GL_202106~table~20~coin":200
+,"GL_202106~table~21~message":"Day 21 Login Bonus"
+,"GL_202106~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~21~item~1~num":5
+,"GL_202106~table~22~message":"Day 22 Login Bonus"
+,"GL_202106~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202106~table~22~item~1~num":10
+,"GL_202106~table~23~message":"Day 23 Login Bonus"
+,"GL_202106~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202106~table~23~item~1~num":1
+,"GL_202106~table~24~message":"Day 24 Login Bonus"
+,"GL_202106~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202106~table~24~item~1~num":10
+,"GL_202106~table~25~message":"Day 25 Login Bonus"
+,"GL_202106~table~25~coin":250
+,"GL_202106~table~26~message":"Day 26 Login Bonus"
+,"GL_202106~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202106~table~26~item~1~num":5
+,"GL_202106~table~27~message":"Day 27 Login Bonus"
+,"GL_202106~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202106~table~27~item~1~num":10
+,"GL_202106~table~28~message":"Day 28 Login Bonus"
+,"GL_202106~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202106~table~28~item~1~num":1
+,"GL_202106~table~29~message":"Day 29 Login Bonus"
+,"GL_202106~table~29~coin":250
+,"GL_202106~table~30~message":"Day 30 Login Bonus"
+,"GL_202106~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202106~table~30~item~1~num":5
+,"GL_202107~type":"Monthly"
+,"GL_202107~prefab":"LoginBonusWindow"
+,"GL_202107~begin":"2021-07-01 00:00:00"
+,"GL_202107~end":"2021-07-31 23:59:59"
+,"GL_202107~recover":5
+,"GL_202107~message":"ログインボーナスです。"
+,"GL_202107~table~1~message":"Day 1 Login Bonus"
+,"GL_202107~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~1~item~1~num":5
+,"GL_202107~table~2~message":"Day 2 Login Bonus"
+,"GL_202107~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202107~table~2~item~1~num":10
+,"GL_202107~table~3~message":"Day 3 Login Bonus"
+,"GL_202107~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202107~table~3~item~1~num":10
+,"GL_202107~table~4~message":"Day 4 Login Bonus"
+,"GL_202107~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~4~item~1~num":10
+,"GL_202107~table~5~message":"Day 5 Login Bonus"
+,"GL_202107~table~5~coin":50
+,"GL_202107~table~6~message":"Day 6 Login Bonus"
+,"GL_202107~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~6~item~1~num":5
+,"GL_202107~table~7~message":"Day 7 Login Bonus"
+,"GL_202107~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202107~table~7~item~1~num":10
+,"GL_202107~table~8~message":"Day 8 Login Bonus"
+,"GL_202107~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202107~table~8~item~1~num":10
+,"GL_202107~table~9~message":"Day 9 Login Bonus"
+,"GL_202107~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~9~item~1~num":10
+,"GL_202107~table~10~message":"Day 10 Login Bonus"
+,"GL_202107~table~10~coin":100
+,"GL_202107~table~11~message":"Day 11 Login Bonus"
+,"GL_202107~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~11~item~1~num":5
+,"GL_202107~table~12~message":"Day 12 Login Bonus"
+,"GL_202107~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202107~table~12~item~1~num":10
+,"GL_202107~table~13~message":"Day 13 Login Bonus"
+,"GL_202107~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202107~table~13~item~1~num":10
+,"GL_202107~table~14~message":"Day 14 Login Bonus"
+,"GL_202107~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~14~item~1~num":10
+,"GL_202107~table~15~message":"Day 15 Login Bonus"
+,"GL_202107~table~15~coin":150
+,"GL_202107~table~16~message":"Day 16 Login Bonus"
+,"GL_202107~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~16~item~1~num":5
+,"GL_202107~table~17~message":"Day 17 Login Bonus"
+,"GL_202107~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202107~table~17~item~1~num":10
+,"GL_202107~table~18~message":"Day 18 Login Bonus"
+,"GL_202107~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202107~table~18~item~1~num":1
+,"GL_202107~table~19~message":"Day 19 Login Bonus"
+,"GL_202107~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~19~item~1~num":10
+,"GL_202107~table~20~message":"Day 20 Login Bonus"
+,"GL_202107~table~20~coin":200
+,"GL_202107~table~21~message":"Day 21 Login Bonus"
+,"GL_202107~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~21~item~1~num":5
+,"GL_202107~table~22~message":"Day 22 Login Bonus"
+,"GL_202107~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202107~table~22~item~1~num":10
+,"GL_202107~table~23~message":"Day 23 Login Bonus"
+,"GL_202107~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202107~table~23~item~1~num":1
+,"GL_202107~table~24~message":"Day 24 Login Bonus"
+,"GL_202107~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~24~item~1~num":10
+,"GL_202107~table~25~message":"Day 25 Login Bonus"
+,"GL_202107~table~25~coin":250
+,"GL_202107~table~26~message":"Day 26 Login Bonus"
+,"GL_202107~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202107~table~26~item~1~num":5
+,"GL_202107~table~27~message":"Day 27 Login Bonus"
+,"GL_202107~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202107~table~27~item~1~num":10
+,"GL_202107~table~28~message":"Day 28 Login Bonus"
+,"GL_202107~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202107~table~28~item~1~num":1
+,"GL_202107~table~29~message":"Day 29 Login Bonus"
+,"GL_202107~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202107~table~29~item~1~num":10
+,"GL_202107~table~30~message":"Day 30 Login Bonus"
+,"GL_202107~table~30~coin":250
+,"GL_202107~table~31~message":"Day 31 Login Bonus"
+,"GL_202107~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202107~table~31~item~1~num":5
+,"GL_202108~type":"Monthly"
+,"GL_202108~prefab":"LoginBonusWindow"
+,"GL_202108~begin":"2021-08-01 00:00:00"
+,"GL_202108~end":"2021-08-31 23:59:59"
+,"GL_202108~recover":3
+,"GL_202108~message":"ログインボーナスです。"
+,"GL_202108~table~1~message":"Day 1 Login Bonus"
+,"GL_202108~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~1~item~1~num":5
+,"GL_202108~table~2~message":"Day 2 Login Bonus"
+,"GL_202108~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202108~table~2~item~1~num":10
+,"GL_202108~table~3~message":"Day 3 Login Bonus"
+,"GL_202108~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202108~table~3~item~1~num":10
+,"GL_202108~table~4~message":"Day 4 Login Bonus"
+,"GL_202108~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~4~item~1~num":10
+,"GL_202108~table~5~message":"Day 5 Login Bonus"
+,"GL_202108~table~5~coin":50
+,"GL_202108~table~6~message":"Day 6 Login Bonus"
+,"GL_202108~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~6~item~1~num":5
+,"GL_202108~table~7~message":"Day 7 Login Bonus"
+,"GL_202108~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202108~table~7~item~1~num":10
+,"GL_202108~table~8~message":"Day 8 Login Bonus"
+,"GL_202108~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202108~table~8~item~1~num":10
+,"GL_202108~table~9~message":"Day 9 Login Bonus"
+,"GL_202108~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~9~item~1~num":10
+,"GL_202108~table~10~message":"Day 10 Login Bonus"
+,"GL_202108~table~10~coin":100
+,"GL_202108~table~11~message":"Day 11 Login Bonus"
+,"GL_202108~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~11~item~1~num":5
+,"GL_202108~table~12~message":"Day 12 Login Bonus"
+,"GL_202108~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202108~table~12~item~1~num":10
+,"GL_202108~table~13~message":"Day 13 Login Bonus"
+,"GL_202108~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202108~table~13~item~1~num":10
+,"GL_202108~table~14~message":"Day 14 Login Bonus"
+,"GL_202108~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~14~item~1~num":10
+,"GL_202108~table~15~message":"Day 15 Login Bonus"
+,"GL_202108~table~15~coin":150
+,"GL_202108~table~16~message":"Day 16 Login Bonus"
+,"GL_202108~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~16~item~1~num":5
+,"GL_202108~table~17~message":"Day 17 Login Bonus"
+,"GL_202108~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202108~table~17~item~1~num":10
+,"GL_202108~table~18~message":"Day 18 Login Bonus"
+,"GL_202108~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202108~table~18~item~1~num":1
+,"GL_202108~table~19~message":"Day 19 Login Bonus"
+,"GL_202108~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~19~item~1~num":10
+,"GL_202108~table~20~message":"Day 20 Login Bonus"
+,"GL_202108~table~20~coin":200
+,"GL_202108~table~21~message":"Day 21 Login Bonus"
+,"GL_202108~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~21~item~1~num":5
+,"GL_202108~table~22~message":"Day 22 Login Bonus"
+,"GL_202108~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202108~table~22~item~1~num":10
+,"GL_202108~table~23~message":"Day 23 Login Bonus"
+,"GL_202108~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202108~table~23~item~1~num":1
+,"GL_202108~table~24~message":"Day 24 Login Bonus"
+,"GL_202108~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~24~item~1~num":10
+,"GL_202108~table~25~message":"Day 25 Login Bonus"
+,"GL_202108~table~25~coin":250
+,"GL_202108~table~26~message":"Day 26 Login Bonus"
+,"GL_202108~table~26~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202108~table~26~item~1~num":5
+,"GL_202108~table~27~message":"Day 27 Login Bonus"
+,"GL_202108~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202108~table~27~item~1~num":10
+,"GL_202108~table~28~message":"Day 28 Login Bonus"
+,"GL_202108~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202108~table~28~item~1~num":1
+,"GL_202108~table~29~message":"Day 29 Login Bonus"
+,"GL_202108~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202108~table~29~item~1~num":10
+,"GL_202108~table~30~message":"Day 30 Login Bonus"
+,"GL_202108~table~30~coin":250
+,"GL_202108~table~31~message":"Day 31 Login Bonus"
+,"GL_202108~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202108~table~31~item~1~num":5
+,"GL_202109~type":"Monthly"
+,"GL_202109~prefab":"LoginBonusWindow"
+,"GL_202109~begin":"2021-09-01 00:00:00"
+,"GL_202109~end":"2021-09-30 23:59:59"
+,"GL_202109~recover":2
+,"GL_202109~message":"ログインボーナスです。"
+,"GL_202109~table~1~message":"Day 1 Login Bonus"
+,"GL_202109~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~1~item~1~num":5
+,"GL_202109~table~2~message":"Day 2 Login Bonus"
+,"GL_202109~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202109~table~2~item~1~num":10
+,"GL_202109~table~3~message":"Day 3 Login Bonus"
+,"GL_202109~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202109~table~3~item~1~num":10
+,"GL_202109~table~4~message":"Day 4 Login Bonus"
+,"GL_202109~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202109~table~4~item~1~num":10
+,"GL_202109~table~5~message":"Day 5 Login Bonus"
+,"GL_202109~table~5~coin":50
+,"GL_202109~table~6~message":"Day 6 Login Bonus"
+,"GL_202109~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~6~item~1~num":5
+,"GL_202109~table~7~message":"Day 7 Login Bonus"
+,"GL_202109~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202109~table~7~item~1~num":10
+,"GL_202109~table~8~message":"Day 8 Login Bonus"
+,"GL_202109~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202109~table~8~item~1~num":10
+,"GL_202109~table~9~message":"Day 9 Login Bonus"
+,"GL_202109~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202109~table~9~item~1~num":10
+,"GL_202109~table~10~message":"Day 10 Login Bonus"
+,"GL_202109~table~10~coin":100
+,"GL_202109~table~11~message":"Day 11 Login Bonus"
+,"GL_202109~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~11~item~1~num":5
+,"GL_202109~table~12~message":"Day 12 Login Bonus"
+,"GL_202109~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202109~table~12~item~1~num":10
+,"GL_202109~table~13~message":"Day 13 Login Bonus"
+,"GL_202109~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202109~table~13~item~1~num":10
+,"GL_202109~table~14~message":"Day 14 Login Bonus"
+,"GL_202109~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202109~table~14~item~1~num":10
+,"GL_202109~table~15~message":"Day 15 Login Bonus"
+,"GL_202109~table~15~coin":150
+,"GL_202109~table~16~message":"Day 16 Login Bonus"
+,"GL_202109~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~16~item~1~num":5
+,"GL_202109~table~17~message":"Day 17 Login Bonus"
+,"GL_202109~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202109~table~17~item~1~num":10
+,"GL_202109~table~18~message":"Day 18 Login Bonus"
+,"GL_202109~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202109~table~18~item~1~num":1
+,"GL_202109~table~19~message":"Day 19 Login Bonus"
+,"GL_202109~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202109~table~19~item~1~num":10
+,"GL_202109~table~20~message":"Day 20 Login Bonus"
+,"GL_202109~table~20~coin":200
+,"GL_202109~table~21~message":"Day 21 Login Bonus"
+,"GL_202109~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~21~item~1~num":5
+,"GL_202109~table~22~message":"Day 22 Login Bonus"
+,"GL_202109~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202109~table~22~item~1~num":10
+,"GL_202109~table~23~message":"Day 23 Login Bonus"
+,"GL_202109~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202109~table~23~item~1~num":1
+,"GL_202109~table~24~message":"Day 24 Login Bonus"
+,"GL_202109~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202109~table~24~item~1~num":10
+,"GL_202109~table~25~message":"Day 25 Login Bonus"
+,"GL_202109~table~25~coin":250
+,"GL_202109~table~26~message":"Day 26 Login Bonus"
+,"GL_202109~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202109~table~26~item~1~num":5
+,"GL_202109~table~27~message":"Day 27 Login Bonus"
+,"GL_202109~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202109~table~27~item~1~num":10
+,"GL_202109~table~28~message":"Day 28 Login Bonus"
+,"GL_202109~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202109~table~28~item~1~num":1
+,"GL_202109~table~29~message":"Day 29 Login Bonus"
+,"GL_202109~table~29~coin":250
+,"GL_202109~table~30~message":"Day 30 Login Bonus"
+,"GL_202109~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202109~table~30~item~1~num":5
+,"GL_202110~type":"Monthly"
+,"GL_202110~prefab":"LoginBonusWindow"
+,"GL_202110~begin":"2021-10-01 00:00:00"
+,"GL_202110~end":"2021-10-31 23:59:59"
+,"GL_202110~recover":2
+,"GL_202110~message":"ログインボーナスです。"
+,"GL_202110~table~1~message":"Day 1 Login Bonus"
+,"GL_202110~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~1~item~1~num":5
+,"GL_202110~table~2~message":"Day 2 Login Bonus"
+,"GL_202110~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202110~table~2~item~1~num":10
+,"GL_202110~table~3~message":"Day 3 Login Bonus"
+,"GL_202110~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202110~table~3~item~1~num":10
+,"GL_202110~table~4~message":"Day 4 Login Bonus"
+,"GL_202110~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~4~item~1~num":10
+,"GL_202110~table~5~message":"Day 5 Login Bonus"
+,"GL_202110~table~5~coin":50
+,"GL_202110~table~6~message":"Day 6 Login Bonus"
+,"GL_202110~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~6~item~1~num":5
+,"GL_202110~table~7~message":"Day 7 Login Bonus"
+,"GL_202110~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202110~table~7~item~1~num":10
+,"GL_202110~table~8~message":"Day 8 Login Bonus"
+,"GL_202110~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202110~table~8~item~1~num":10
+,"GL_202110~table~9~message":"Day 9 Login Bonus"
+,"GL_202110~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~9~item~1~num":10
+,"GL_202110~table~10~message":"Day 10 Login Bonus"
+,"GL_202110~table~10~coin":100
+,"GL_202110~table~11~message":"Day 11 Login Bonus"
+,"GL_202110~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~11~item~1~num":5
+,"GL_202110~table~12~message":"Day 12 Login Bonus"
+,"GL_202110~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202110~table~12~item~1~num":10
+,"GL_202110~table~13~message":"Day 13 Login Bonus"
+,"GL_202110~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202110~table~13~item~1~num":10
+,"GL_202110~table~14~message":"Day 14 Login Bonus"
+,"GL_202110~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~14~item~1~num":10
+,"GL_202110~table~15~message":"Day 15 Login Bonus"
+,"GL_202110~table~15~coin":150
+,"GL_202110~table~16~message":"Day 16 Login Bonus"
+,"GL_202110~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~16~item~1~num":5
+,"GL_202110~table~17~message":"Day 17 Login Bonus"
+,"GL_202110~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202110~table~17~item~1~num":10
+,"GL_202110~table~18~message":"Day 18 Login Bonus"
+,"GL_202110~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202110~table~18~item~1~num":1
+,"GL_202110~table~19~message":"Day 19 Login Bonus"
+,"GL_202110~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~19~item~1~num":10
+,"GL_202110~table~20~message":"Day 20 Login Bonus"
+,"GL_202110~table~20~coin":200
+,"GL_202110~table~21~message":"Day 21 Login Bonus"
+,"GL_202110~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~21~item~1~num":5
+,"GL_202110~table~22~message":"Day 22 Login Bonus"
+,"GL_202110~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202110~table~22~item~1~num":10
+,"GL_202110~table~23~message":"Day 23 Login Bonus"
+,"GL_202110~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202110~table~23~item~1~num":1
+,"GL_202110~table~24~message":"Day 24 Login Bonus"
+,"GL_202110~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~24~item~1~num":10
+,"GL_202110~table~25~message":"Day 25 Login Bonus"
+,"GL_202110~table~25~coin":250
+,"GL_202110~table~26~message":"Day 26 Login Bonus"
+,"GL_202110~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202110~table~26~item~1~num":5
+,"GL_202110~table~27~message":"Day 27 Login Bonus"
+,"GL_202110~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202110~table~27~item~1~num":10
+,"GL_202110~table~28~message":"Day 28 Login Bonus"
+,"GL_202110~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202110~table~28~item~1~num":1
+,"GL_202110~table~29~message":"Day 29 Login Bonus"
+,"GL_202110~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202110~table~29~item~1~num":10
+,"GL_202110~table~30~message":"Day 30 Login Bonus"
+,"GL_202110~table~30~coin":250
+,"GL_202110~table~31~message":"Day 31 Login Bonus"
+,"GL_202110~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202110~table~31~item~1~num":5
+,"GL_202111~type":"Monthly"
+,"GL_202111~prefab":"LoginBonusWindow"
+,"GL_202111~begin":"2021-11-01 00:00:00"
+,"GL_202111~end":"2021-11-30 23:59:59"
+,"GL_202111~recover":2
+,"GL_202111~message":"ログインボーナスです。"
+,"GL_202111~table~1~message":"Day 1 Login Bonus"
+,"GL_202111~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~1~item~1~num":5
+,"GL_202111~table~2~message":"Day 2 Login Bonus"
+,"GL_202111~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202111~table~2~item~1~num":10
+,"GL_202111~table~3~message":"Day 3 Login Bonus"
+,"GL_202111~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202111~table~3~item~1~num":10
+,"GL_202111~table~4~message":"Day 4 Login Bonus"
+,"GL_202111~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202111~table~4~item~1~num":10
+,"GL_202111~table~5~message":"Day 5 Login Bonus"
+,"GL_202111~table~5~coin":50
+,"GL_202111~table~6~message":"Day 6 Login Bonus"
+,"GL_202111~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~6~item~1~num":5
+,"GL_202111~table~7~message":"Day 7 Login Bonus"
+,"GL_202111~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202111~table~7~item~1~num":10
+,"GL_202111~table~8~message":"Day 8 Login Bonus"
+,"GL_202111~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202111~table~8~item~1~num":10
+,"GL_202111~table~9~message":"Day 9 Login Bonus"
+,"GL_202111~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202111~table~9~item~1~num":10
+,"GL_202111~table~10~message":"Day 10 Login Bonus"
+,"GL_202111~table~10~coin":100
+,"GL_202111~table~11~message":"Day 11 Login Bonus"
+,"GL_202111~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~11~item~1~num":5
+,"GL_202111~table~12~message":"Day 12 Login Bonus"
+,"GL_202111~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202111~table~12~item~1~num":10
+,"GL_202111~table~13~message":"Day 13 Login Bonus"
+,"GL_202111~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202111~table~13~item~1~num":10
+,"GL_202111~table~14~message":"Day 14 Login Bonus"
+,"GL_202111~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202111~table~14~item~1~num":10
+,"GL_202111~table~15~message":"Day 15 Login Bonus"
+,"GL_202111~table~15~coin":150
+,"GL_202111~table~16~message":"Day 16 Login Bonus"
+,"GL_202111~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~16~item~1~num":5
+,"GL_202111~table~17~message":"Day 17 Login Bonus"
+,"GL_202111~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202111~table~17~item~1~num":10
+,"GL_202111~table~18~message":"Day 18 Login Bonus"
+,"GL_202111~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202111~table~18~item~1~num":1
+,"GL_202111~table~19~message":"Day 19 Login Bonus"
+,"GL_202111~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202111~table~19~item~1~num":10
+,"GL_202111~table~20~message":"Day 20 Login Bonus"
+,"GL_202111~table~20~coin":200
+,"GL_202111~table~21~message":"Day 21 Login Bonus"
+,"GL_202111~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~21~item~1~num":5
+,"GL_202111~table~22~message":"Day 22 Login Bonus"
+,"GL_202111~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202111~table~22~item~1~num":10
+,"GL_202111~table~23~message":"Day 23 Login Bonus"
+,"GL_202111~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202111~table~23~item~1~num":1
+,"GL_202111~table~24~message":"Day 24 Login Bonus"
+,"GL_202111~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202111~table~24~item~1~num":10
+,"GL_202111~table~25~message":"Day 25 Login Bonus"
+,"GL_202111~table~25~coin":250
+,"GL_202111~table~26~message":"Day 26 Login Bonus"
+,"GL_202111~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202111~table~26~item~1~num":5
+,"GL_202111~table~27~message":"Day 27 Login Bonus"
+,"GL_202111~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202111~table~27~item~1~num":10
+,"GL_202111~table~28~message":"Day 28 Login Bonus"
+,"GL_202111~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202111~table~28~item~1~num":1
+,"GL_202111~table~29~message":"Day 29 Login Bonus"
+,"GL_202111~table~29~coin":250
+,"GL_202111~table~30~message":"Day 30 Login Bonus"
+,"GL_202111~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202111~table~30~item~1~num":5
+,"GL_202112~type":"Monthly"
+,"GL_202112~prefab":"LoginBonusWindow"
+,"GL_202112~begin":"2021-12-01 00:00:00"
+,"GL_202112~end":"2021-12-31 23:59:59"
+,"GL_202112~recover":2
+,"GL_202112~message":"ログインボーナスです。"
+,"GL_202112~table~1~message":"Day 1 Login Bonus"
+,"GL_202112~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~1~item~1~num":5
+,"GL_202112~table~2~message":"Day 2 Login Bonus"
+,"GL_202112~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202112~table~2~item~1~num":10
+,"GL_202112~table~3~message":"Day 3 Login Bonus"
+,"GL_202112~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202112~table~3~item~1~num":10
+,"GL_202112~table~4~message":"Day 4 Login Bonus"
+,"GL_202112~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~4~item~1~num":10
+,"GL_202112~table~5~message":"Day 5 Login Bonus"
+,"GL_202112~table~5~coin":50
+,"GL_202112~table~6~message":"Day 6 Login Bonus"
+,"GL_202112~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~6~item~1~num":5
+,"GL_202112~table~7~message":"Day 7 Login Bonus"
+,"GL_202112~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202112~table~7~item~1~num":10
+,"GL_202112~table~8~message":"Day 8 Login Bonus"
+,"GL_202112~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202112~table~8~item~1~num":10
+,"GL_202112~table~9~message":"Day 9 Login Bonus"
+,"GL_202112~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~9~item~1~num":10
+,"GL_202112~table~10~message":"Day 10 Login Bonus"
+,"GL_202112~table~10~coin":100
+,"GL_202112~table~11~message":"Day 11 Login Bonus"
+,"GL_202112~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~11~item~1~num":5
+,"GL_202112~table~12~message":"Day 12 Login Bonus"
+,"GL_202112~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202112~table~12~item~1~num":10
+,"GL_202112~table~13~message":"Day 13 Login Bonus"
+,"GL_202112~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202112~table~13~item~1~num":10
+,"GL_202112~table~14~message":"Day 14 Login Bonus"
+,"GL_202112~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~14~item~1~num":10
+,"GL_202112~table~15~message":"Day 15 Login Bonus"
+,"GL_202112~table~15~coin":150
+,"GL_202112~table~16~message":"Day 16 Login Bonus"
+,"GL_202112~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~16~item~1~num":5
+,"GL_202112~table~17~message":"Day 17 Login Bonus"
+,"GL_202112~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202112~table~17~item~1~num":10
+,"GL_202112~table~18~message":"Day 18 Login Bonus"
+,"GL_202112~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202112~table~18~item~1~num":1
+,"GL_202112~table~19~message":"Day 19 Login Bonus"
+,"GL_202112~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~19~item~1~num":10
+,"GL_202112~table~20~message":"Day 20 Login Bonus"
+,"GL_202112~table~20~coin":200
+,"GL_202112~table~21~message":"Day 21 Login Bonus"
+,"GL_202112~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~21~item~1~num":5
+,"GL_202112~table~22~message":"Day 22 Login Bonus"
+,"GL_202112~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202112~table~22~item~1~num":10
+,"GL_202112~table~23~message":"Day 23 Login Bonus"
+,"GL_202112~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202112~table~23~item~1~num":1
+,"GL_202112~table~24~message":"Day 24 Login Bonus"
+,"GL_202112~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~24~item~1~num":10
+,"GL_202112~table~25~message":"Day 25 Login Bonus"
+,"GL_202112~table~25~coin":250
+,"GL_202112~table~26~message":"Day 26 Login Bonus"
+,"GL_202112~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202112~table~26~item~1~num":5
+,"GL_202112~table~27~message":"Day 27 Login Bonus"
+,"GL_202112~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202112~table~27~item~1~num":10
+,"GL_202112~table~28~message":"Day 28 Login Bonus"
+,"GL_202112~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202112~table~28~item~1~num":1
+,"GL_202112~table~29~message":"Day 29 Login Bonus"
+,"GL_202112~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202112~table~29~item~1~num":10
+,"GL_202112~table~30~message":"Day 30 Login Bonus"
+,"GL_202112~table~30~coin":250
+,"GL_202112~table~31~message":"Day 31 Login Bonus"
+,"GL_202112~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202112~table~31~item~1~num":5
+,"GL_202201~type":"Monthly"
+,"GL_202201~prefab":"LoginBonusWindow"
+,"GL_202201~begin":"2022-01-01 00:00:00"
+,"GL_202201~end":"2022-01-31 23:59:59"
+,"GL_202201~recover":2
+,"GL_202201~message":"ログインボーナスです。"
+,"GL_202201~table~1~message":"Day 1 Login Bonus"
+,"GL_202201~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~1~item~1~num":5
+,"GL_202201~table~2~message":"Day 2 Login Bonus"
+,"GL_202201~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202201~table~2~item~1~num":10
+,"GL_202201~table~3~message":"Day 3 Login Bonus"
+,"GL_202201~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202201~table~3~item~1~num":10
+,"GL_202201~table~4~message":"Day 4 Login Bonus"
+,"GL_202201~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~4~item~1~num":10
+,"GL_202201~table~5~message":"Day 5 Login Bonus"
+,"GL_202201~table~5~coin":50
+,"GL_202201~table~6~message":"Day 6 Login Bonus"
+,"GL_202201~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~6~item~1~num":5
+,"GL_202201~table~7~message":"Day 7 Login Bonus"
+,"GL_202201~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202201~table~7~item~1~num":10
+,"GL_202201~table~8~message":"Day 8 Login Bonus"
+,"GL_202201~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202201~table~8~item~1~num":10
+,"GL_202201~table~9~message":"Day 9 Login Bonus"
+,"GL_202201~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~9~item~1~num":10
+,"GL_202201~table~10~message":"Day 10 Login Bonus"
+,"GL_202201~table~10~coin":100
+,"GL_202201~table~11~message":"Day 11 Login Bonus"
+,"GL_202201~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~11~item~1~num":5
+,"GL_202201~table~12~message":"Day 12 Login Bonus"
+,"GL_202201~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202201~table~12~item~1~num":10
+,"GL_202201~table~13~message":"Day 13 Login Bonus"
+,"GL_202201~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202201~table~13~item~1~num":10
+,"GL_202201~table~14~message":"Day 14 Login Bonus"
+,"GL_202201~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~14~item~1~num":10
+,"GL_202201~table~15~message":"Day 15 Login Bonus"
+,"GL_202201~table~15~coin":150
+,"GL_202201~table~16~message":"Day 16 Login Bonus"
+,"GL_202201~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~16~item~1~num":5
+,"GL_202201~table~17~message":"Day 17 Login Bonus"
+,"GL_202201~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202201~table~17~item~1~num":10
+,"GL_202201~table~18~message":"Day 18 Login Bonus"
+,"GL_202201~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202201~table~18~item~1~num":1
+,"GL_202201~table~19~message":"Day 19 Login Bonus"
+,"GL_202201~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~19~item~1~num":10
+,"GL_202201~table~20~message":"Day 20 Login Bonus"
+,"GL_202201~table~20~coin":200
+,"GL_202201~table~21~message":"Day 21 Login Bonus"
+,"GL_202201~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~21~item~1~num":5
+,"GL_202201~table~22~message":"Day 22 Login Bonus"
+,"GL_202201~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202201~table~22~item~1~num":10
+,"GL_202201~table~23~message":"Day 23 Login Bonus"
+,"GL_202201~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202201~table~23~item~1~num":1
+,"GL_202201~table~24~message":"Day 24 Login Bonus"
+,"GL_202201~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~24~item~1~num":10
+,"GL_202201~table~25~message":"Day 25 Login Bonus"
+,"GL_202201~table~25~coin":250
+,"GL_202201~table~26~message":"Day 26 Login Bonus"
+,"GL_202201~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202201~table~26~item~1~num":5
+,"GL_202201~table~27~message":"Day 27 Login Bonus"
+,"GL_202201~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202201~table~27~item~1~num":10
+,"GL_202201~table~28~message":"Day 28 Login Bonus"
+,"GL_202201~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202201~table~28~item~1~num":1
+,"GL_202201~table~29~message":"Day 29 Login Bonus"
+,"GL_202201~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202201~table~29~item~1~num":10
+,"GL_202201~table~30~message":"Day 30 Login Bonus"
+,"GL_202201~table~30~coin":250
+,"GL_202201~table~31~message":"Day 31 Login Bonus"
+,"GL_202201~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202201~table~31~item~1~num":5
+,"GL_202202~type":"Monthly"
+,"GL_202202~prefab":"LoginBonusWindow"
+,"GL_202202~begin":"2022-02-01 00:00:00"
+,"GL_202202~end":"2022-02-28 23:59:59"
+,"GL_202202~recover":2
+,"GL_202202~message":"ログインボーナスです。"
+,"GL_202202~table~1~message":"Day 1 Login Bonus"
+,"GL_202202~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~1~item~1~num":5
+,"GL_202202~table~2~message":"Day 2 Login Bonus"
+,"GL_202202~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202202~table~2~item~1~num":10
+,"GL_202202~table~3~message":"Day 3 Login Bonus"
+,"GL_202202~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202202~table~3~item~1~num":10
+,"GL_202202~table~4~message":"Day 4 Login Bonus"
+,"GL_202202~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202202~table~4~item~1~num":10
+,"GL_202202~table~5~message":"Day 5 Login Bonus"
+,"GL_202202~table~5~coin":50
+,"GL_202202~table~6~message":"Day 6 Login Bonus"
+,"GL_202202~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~6~item~1~num":5
+,"GL_202202~table~7~message":"Day 7 Login Bonus"
+,"GL_202202~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202202~table~7~item~1~num":10
+,"GL_202202~table~8~message":"Day 8 Login Bonus"
+,"GL_202202~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202202~table~8~item~1~num":10
+,"GL_202202~table~9~message":"Day 9 Login Bonus"
+,"GL_202202~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202202~table~9~item~1~num":10
+,"GL_202202~table~10~message":"Day 10 Login Bonus"
+,"GL_202202~table~10~coin":100
+,"GL_202202~table~11~message":"Day 11 Login Bonus"
+,"GL_202202~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~11~item~1~num":5
+,"GL_202202~table~12~message":"Day 12 Login Bonus"
+,"GL_202202~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202202~table~12~item~1~num":10
+,"GL_202202~table~13~message":"Day 13 Login Bonus"
+,"GL_202202~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202202~table~13~item~1~num":10
+,"GL_202202~table~14~message":"Day 14 Login Bonus"
+,"GL_202202~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202202~table~14~item~1~num":10
+,"GL_202202~table~15~message":"Day 15 Login Bonus"
+,"GL_202202~table~15~coin":150
+,"GL_202202~table~16~message":"Day 16 Login Bonus"
+,"GL_202202~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~16~item~1~num":5
+,"GL_202202~table~17~message":"Day 17 Login Bonus"
+,"GL_202202~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202202~table~17~item~1~num":10
+,"GL_202202~table~18~message":"Day 18 Login Bonus"
+,"GL_202202~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202202~table~18~item~1~num":1
+,"GL_202202~table~19~message":"Day 19 Login Bonus"
+,"GL_202202~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202202~table~19~item~1~num":10
+,"GL_202202~table~20~message":"Day 20 Login Bonus"
+,"GL_202202~table~20~coin":200
+,"GL_202202~table~21~message":"Day 21 Login Bonus"
+,"GL_202202~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~21~item~1~num":5
+,"GL_202202~table~22~message":"Day 22 Login Bonus"
+,"GL_202202~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202202~table~22~item~1~num":10
+,"GL_202202~table~23~message":"Day 23 Login Bonus"
+,"GL_202202~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202202~table~23~item~1~num":1
+,"GL_202202~table~24~message":"Day 24 Login Bonus"
+,"GL_202202~table~24~coin":250
+,"GL_202202~table~25~message":"Day 25 Login Bonus"
+,"GL_202202~table~25~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202202~table~25~item~1~num":5
+,"GL_202202~table~26~message":"Day 26 Login Bonus"
+,"GL_202202~table~26~item~1~iname":"TS_EXP_04"
+,"GL_202202~table~26~item~1~num":10
+,"GL_202202~table~27~message":"Day 27 Login Bonus"
+,"GL_202202~table~27~coin":250
+,"GL_202202~table~28~message":"Day 28 Login Bonus"
+,"GL_202202~table~28~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202202~table~28~item~1~num":5
+,"GL_202203~type":"Monthly"
+,"GL_202203~prefab":"LoginBonusWindow"
+,"GL_202203~begin":"2022-03-01 00:00:00"
+,"GL_202203~end":"2022-03-31 23:59:59"
+,"GL_202203~recover":2
+,"GL_202203~message":"ログインボーナスです。"
+,"GL_202203~table~1~message":"Day 1 Login Bonus"
+,"GL_202203~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~1~item~1~num":5
+,"GL_202203~table~2~message":"Day 2 Login Bonus"
+,"GL_202203~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202203~table~2~item~1~num":10
+,"GL_202203~table~3~message":"Day 3 Login Bonus"
+,"GL_202203~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202203~table~3~item~1~num":10
+,"GL_202203~table~4~message":"Day 4 Login Bonus"
+,"GL_202203~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~4~item~1~num":10
+,"GL_202203~table~5~message":"Day 5 Login Bonus"
+,"GL_202203~table~5~coin":50
+,"GL_202203~table~6~message":"Day 6 Login Bonus"
+,"GL_202203~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~6~item~1~num":5
+,"GL_202203~table~7~message":"Day 7 Login Bonus"
+,"GL_202203~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202203~table~7~item~1~num":10
+,"GL_202203~table~8~message":"Day 8 Login Bonus"
+,"GL_202203~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202203~table~8~item~1~num":10
+,"GL_202203~table~9~message":"Day 9 Login Bonus"
+,"GL_202203~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~9~item~1~num":10
+,"GL_202203~table~10~message":"Day 10 Login Bonus"
+,"GL_202203~table~10~coin":100
+,"GL_202203~table~11~message":"Day 11 Login Bonus"
+,"GL_202203~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~11~item~1~num":5
+,"GL_202203~table~12~message":"Day 12 Login Bonus"
+,"GL_202203~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202203~table~12~item~1~num":10
+,"GL_202203~table~13~message":"Day 13 Login Bonus"
+,"GL_202203~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202203~table~13~item~1~num":10
+,"GL_202203~table~14~message":"Day 14 Login Bonus"
+,"GL_202203~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~14~item~1~num":10
+,"GL_202203~table~15~message":"Day 15 Login Bonus"
+,"GL_202203~table~15~coin":150
+,"GL_202203~table~16~message":"Day 16 Login Bonus"
+,"GL_202203~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~16~item~1~num":5
+,"GL_202203~table~17~message":"Day 17 Login Bonus"
+,"GL_202203~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202203~table~17~item~1~num":10
+,"GL_202203~table~18~message":"Day 18 Login Bonus"
+,"GL_202203~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202203~table~18~item~1~num":1
+,"GL_202203~table~19~message":"Day 19 Login Bonus"
+,"GL_202203~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~19~item~1~num":10
+,"GL_202203~table~20~message":"Day 20 Login Bonus"
+,"GL_202203~table~20~coin":200
+,"GL_202203~table~21~message":"Day 21 Login Bonus"
+,"GL_202203~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~21~item~1~num":5
+,"GL_202203~table~22~message":"Day 22 Login Bonus"
+,"GL_202203~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202203~table~22~item~1~num":10
+,"GL_202203~table~23~message":"Day 23 Login Bonus"
+,"GL_202203~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202203~table~23~item~1~num":1
+,"GL_202203~table~24~message":"Day 24 Login Bonus"
+,"GL_202203~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~24~item~1~num":10
+,"GL_202203~table~25~message":"Day 25 Login Bonus"
+,"GL_202203~table~25~coin":250
+,"GL_202203~table~26~message":"Day 26 Login Bonus"
+,"GL_202203~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202203~table~26~item~1~num":5
+,"GL_202203~table~27~message":"Day 27 Login Bonus"
+,"GL_202203~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202203~table~27~item~1~num":10
+,"GL_202203~table~28~message":"Day 28 Login Bonus"
+,"GL_202203~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202203~table~28~item~1~num":1
+,"GL_202203~table~29~message":"Day 29 Login Bonus"
+,"GL_202203~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202203~table~29~item~1~num":10
+,"GL_202203~table~30~message":"Day 30 Login Bonus"
+,"GL_202203~table~30~coin":250
+,"GL_202203~table~31~message":"Day 31 Login Bonus"
+,"GL_202203~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202203~table~31~item~1~num":5
+,"GL_202204~type":"Monthly"
+,"GL_202204~prefab":"LoginBonusWindow"
+,"GL_202204~begin":"2022-04-01 00:00:00"
+,"GL_202204~end":"2022-04-30 23:59:59"
+,"GL_202204~recover":2
+,"GL_202204~message":"ログインボーナスです。"
+,"GL_202204~table~1~message":"Day 1 Login Bonus"
+,"GL_202204~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~1~item~1~num":5
+,"GL_202204~table~2~message":"Day 2 Login Bonus"
+,"GL_202204~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202204~table~2~item~1~num":10
+,"GL_202204~table~3~message":"Day 3 Login Bonus"
+,"GL_202204~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202204~table~3~item~1~num":10
+,"GL_202204~table~4~message":"Day 4 Login Bonus"
+,"GL_202204~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202204~table~4~item~1~num":10
+,"GL_202204~table~5~message":"Day 5 Login Bonus"
+,"GL_202204~table~5~coin":50
+,"GL_202204~table~6~message":"Day 6 Login Bonus"
+,"GL_202204~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~6~item~1~num":5
+,"GL_202204~table~7~message":"Day 7 Login Bonus"
+,"GL_202204~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202204~table~7~item~1~num":10
+,"GL_202204~table~8~message":"Day 8 Login Bonus"
+,"GL_202204~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202204~table~8~item~1~num":10
+,"GL_202204~table~9~message":"Day 9 Login Bonus"
+,"GL_202204~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202204~table~9~item~1~num":10
+,"GL_202204~table~10~message":"Day 10 Login Bonus"
+,"GL_202204~table~10~coin":100
+,"GL_202204~table~11~message":"Day 11 Login Bonus"
+,"GL_202204~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~11~item~1~num":5
+,"GL_202204~table~12~message":"Day 12 Login Bonus"
+,"GL_202204~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202204~table~12~item~1~num":10
+,"GL_202204~table~13~message":"Day 13 Login Bonus"
+,"GL_202204~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202204~table~13~item~1~num":10
+,"GL_202204~table~14~message":"Day 14 Login Bonus"
+,"GL_202204~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202204~table~14~item~1~num":10
+,"GL_202204~table~15~message":"Day 15 Login Bonus"
+,"GL_202204~table~15~coin":150
+,"GL_202204~table~16~message":"Day 16 Login Bonus"
+,"GL_202204~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~16~item~1~num":5
+,"GL_202204~table~17~message":"Day 17 Login Bonus"
+,"GL_202204~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202204~table~17~item~1~num":10
+,"GL_202204~table~18~message":"Day 18 Login Bonus"
+,"GL_202204~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202204~table~18~item~1~num":1
+,"GL_202204~table~19~message":"Day 19 Login Bonus"
+,"GL_202204~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202204~table~19~item~1~num":10
+,"GL_202204~table~20~message":"Day 20 Login Bonus"
+,"GL_202204~table~20~coin":200
+,"GL_202204~table~21~message":"Day 21 Login Bonus"
+,"GL_202204~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~21~item~1~num":5
+,"GL_202204~table~22~message":"Day 22 Login Bonus"
+,"GL_202204~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202204~table~22~item~1~num":10
+,"GL_202204~table~23~message":"Day 23 Login Bonus"
+,"GL_202204~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202204~table~23~item~1~num":1
+,"GL_202204~table~24~message":"Day 24 Login Bonus"
+,"GL_202204~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202204~table~24~item~1~num":10
+,"GL_202204~table~25~message":"Day 25 Login Bonus"
+,"GL_202204~table~25~coin":250
+,"GL_202204~table~26~message":"Day 26 Login Bonus"
+,"GL_202204~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202204~table~26~item~1~num":5
+,"GL_202204~table~27~message":"Day 27 Login Bonus"
+,"GL_202204~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202204~table~27~item~1~num":10
+,"GL_202204~table~28~message":"Day 28 Login Bonus"
+,"GL_202204~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202204~table~28~item~1~num":1
+,"GL_202204~table~29~message":"Day 29 Login Bonus"
+,"GL_202204~table~29~coin":250
+,"GL_202204~table~30~message":"Day 30 Login Bonus"
+,"GL_202204~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202204~table~30~item~1~num":5
+,"GL_202205~type":"Monthly"
+,"GL_202205~prefab":"LoginBonusWindow"
+,"GL_202205~begin":"2022-05-01 00:00:00"
+,"GL_202205~end":"2022-05-31 23:59:59"
+,"GL_202205~recover":2
+,"GL_202205~message":"ログインボーナスです。"
+,"GL_202205~table~1~message":"Day 1 Login Bonus"
+,"GL_202205~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~1~item~1~num":5
+,"GL_202205~table~2~message":"Day 2 Login Bonus"
+,"GL_202205~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202205~table~2~item~1~num":10
+,"GL_202205~table~3~message":"Day 3 Login Bonus"
+,"GL_202205~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202205~table~3~item~1~num":10
+,"GL_202205~table~4~message":"Day 4 Login Bonus"
+,"GL_202205~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~4~item~1~num":10
+,"GL_202205~table~5~message":"Day 5 Login Bonus"
+,"GL_202205~table~5~coin":50
+,"GL_202205~table~6~message":"Day 6 Login Bonus"
+,"GL_202205~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~6~item~1~num":5
+,"GL_202205~table~7~message":"Day 7 Login Bonus"
+,"GL_202205~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202205~table~7~item~1~num":10
+,"GL_202205~table~8~message":"Day 8 Login Bonus"
+,"GL_202205~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202205~table~8~item~1~num":10
+,"GL_202205~table~9~message":"Day 9 Login Bonus"
+,"GL_202205~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~9~item~1~num":10
+,"GL_202205~table~10~message":"Day 10 Login Bonus"
+,"GL_202205~table~10~coin":100
+,"GL_202205~table~11~message":"Day 11 Login Bonus"
+,"GL_202205~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~11~item~1~num":5
+,"GL_202205~table~12~message":"Day 12 Login Bonus"
+,"GL_202205~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202205~table~12~item~1~num":10
+,"GL_202205~table~13~message":"Day 13 Login Bonus"
+,"GL_202205~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202205~table~13~item~1~num":10
+,"GL_202205~table~14~message":"Day 14 Login Bonus"
+,"GL_202205~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~14~item~1~num":10
+,"GL_202205~table~15~message":"Day 15 Login Bonus"
+,"GL_202205~table~15~coin":150
+,"GL_202205~table~16~message":"Day 16 Login Bonus"
+,"GL_202205~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~16~item~1~num":5
+,"GL_202205~table~17~message":"Day 17 Login Bonus"
+,"GL_202205~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202205~table~17~item~1~num":10
+,"GL_202205~table~18~message":"Day 18 Login Bonus"
+,"GL_202205~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202205~table~18~item~1~num":1
+,"GL_202205~table~19~message":"Day 19 Login Bonus"
+,"GL_202205~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~19~item~1~num":10
+,"GL_202205~table~20~message":"Day 20 Login Bonus"
+,"GL_202205~table~20~coin":200
+,"GL_202205~table~21~message":"Day 21 Login Bonus"
+,"GL_202205~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~21~item~1~num":5
+,"GL_202205~table~22~message":"Day 22 Login Bonus"
+,"GL_202205~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202205~table~22~item~1~num":10
+,"GL_202205~table~23~message":"Day 23 Login Bonus"
+,"GL_202205~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202205~table~23~item~1~num":1
+,"GL_202205~table~24~message":"Day 24 Login Bonus"
+,"GL_202205~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~24~item~1~num":10
+,"GL_202205~table~25~message":"Day 25 Login Bonus"
+,"GL_202205~table~25~coin":250
+,"GL_202205~table~26~message":"Day 26 Login Bonus"
+,"GL_202205~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202205~table~26~item~1~num":5
+,"GL_202205~table~27~message":"Day 27 Login Bonus"
+,"GL_202205~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202205~table~27~item~1~num":10
+,"GL_202205~table~28~message":"Day 28 Login Bonus"
+,"GL_202205~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202205~table~28~item~1~num":1
+,"GL_202205~table~29~message":"Day 29 Login Bonus"
+,"GL_202205~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202205~table~29~item~1~num":10
+,"GL_202205~table~30~message":"Day 30 Login Bonus"
+,"GL_202205~table~30~coin":250
+,"GL_202205~table~31~message":"Day 31 Login Bonus"
+,"GL_202205~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202205~table~31~item~1~num":5
+,"GL_202206~type":"Monthly"
+,"GL_202206~prefab":"LoginBonusWindow"
+,"GL_202206~begin":"2022-06-01 00:00:00"
+,"GL_202206~end":"2022-06-30 23:59:59"
+,"GL_202206~recover":2
+,"GL_202206~message":"ログインボーナスです。"
+,"GL_202206~table~1~message":"Day 1 Login Bonus"
+,"GL_202206~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~1~item~1~num":5
+,"GL_202206~table~2~message":"Day 2 Login Bonus"
+,"GL_202206~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202206~table~2~item~1~num":10
+,"GL_202206~table~3~message":"Day 3 Login Bonus"
+,"GL_202206~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202206~table~3~item~1~num":10
+,"GL_202206~table~4~message":"Day 4 Login Bonus"
+,"GL_202206~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202206~table~4~item~1~num":10
+,"GL_202206~table~5~message":"Day 5 Login Bonus"
+,"GL_202206~table~5~coin":50
+,"GL_202206~table~6~message":"Day 6 Login Bonus"
+,"GL_202206~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~6~item~1~num":5
+,"GL_202206~table~7~message":"Day 7 Login Bonus"
+,"GL_202206~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202206~table~7~item~1~num":10
+,"GL_202206~table~8~message":"Day 8 Login Bonus"
+,"GL_202206~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202206~table~8~item~1~num":10
+,"GL_202206~table~9~message":"Day 9 Login Bonus"
+,"GL_202206~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202206~table~9~item~1~num":10
+,"GL_202206~table~10~message":"Day 10 Login Bonus"
+,"GL_202206~table~10~coin":100
+,"GL_202206~table~11~message":"Day 11 Login Bonus"
+,"GL_202206~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~11~item~1~num":5
+,"GL_202206~table~12~message":"Day 12 Login Bonus"
+,"GL_202206~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202206~table~12~item~1~num":10
+,"GL_202206~table~13~message":"Day 13 Login Bonus"
+,"GL_202206~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202206~table~13~item~1~num":10
+,"GL_202206~table~14~message":"Day 14 Login Bonus"
+,"GL_202206~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202206~table~14~item~1~num":10
+,"GL_202206~table~15~message":"Day 15 Login Bonus"
+,"GL_202206~table~15~coin":150
+,"GL_202206~table~16~message":"Day 16 Login Bonus"
+,"GL_202206~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~16~item~1~num":5
+,"GL_202206~table~17~message":"Day 17 Login Bonus"
+,"GL_202206~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202206~table~17~item~1~num":10
+,"GL_202206~table~18~message":"Day 18 Login Bonus"
+,"GL_202206~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202206~table~18~item~1~num":1
+,"GL_202206~table~19~message":"Day 19 Login Bonus"
+,"GL_202206~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202206~table~19~item~1~num":10
+,"GL_202206~table~20~message":"Day 20 Login Bonus"
+,"GL_202206~table~20~coin":200
+,"GL_202206~table~21~message":"Day 21 Login Bonus"
+,"GL_202206~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~21~item~1~num":5
+,"GL_202206~table~22~message":"Day 22 Login Bonus"
+,"GL_202206~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202206~table~22~item~1~num":10
+,"GL_202206~table~23~message":"Day 23 Login Bonus"
+,"GL_202206~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202206~table~23~item~1~num":1
+,"GL_202206~table~24~message":"Day 24 Login Bonus"
+,"GL_202206~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202206~table~24~item~1~num":10
+,"GL_202206~table~25~message":"Day 25 Login Bonus"
+,"GL_202206~table~25~coin":250
+,"GL_202206~table~26~message":"Day 26 Login Bonus"
+,"GL_202206~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202206~table~26~item~1~num":5
+,"GL_202206~table~27~message":"Day 27 Login Bonus"
+,"GL_202206~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202206~table~27~item~1~num":10
+,"GL_202206~table~28~message":"Day 28 Login Bonus"
+,"GL_202206~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202206~table~28~item~1~num":1
+,"GL_202206~table~29~message":"Day 29 Login Bonus"
+,"GL_202206~table~29~coin":250
+,"GL_202206~table~30~message":"Day 30 Login Bonus"
+,"GL_202206~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202206~table~30~item~1~num":5
+,"GL_202207~type":"Monthly"
+,"GL_202207~prefab":"LoginBonusWindow"
+,"GL_202207~begin":"2022-07-01 00:00:00"
+,"GL_202207~end":"2022-07-31 23:59:59"
+,"GL_202207~recover":2
+,"GL_202207~message":"ログインボーナスです。"
+,"GL_202207~table~1~message":"Day 1 Login Bonus"
+,"GL_202207~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~1~item~1~num":5
+,"GL_202207~table~2~message":"Day 2 Login Bonus"
+,"GL_202207~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202207~table~2~item~1~num":10
+,"GL_202207~table~3~message":"Day 3 Login Bonus"
+,"GL_202207~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202207~table~3~item~1~num":10
+,"GL_202207~table~4~message":"Day 4 Login Bonus"
+,"GL_202207~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~4~item~1~num":10
+,"GL_202207~table~5~message":"Day 5 Login Bonus"
+,"GL_202207~table~5~coin":50
+,"GL_202207~table~6~message":"Day 6 Login Bonus"
+,"GL_202207~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~6~item~1~num":5
+,"GL_202207~table~7~message":"Day 7 Login Bonus"
+,"GL_202207~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202207~table~7~item~1~num":10
+,"GL_202207~table~8~message":"Day 8 Login Bonus"
+,"GL_202207~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202207~table~8~item~1~num":10
+,"GL_202207~table~9~message":"Day 9 Login Bonus"
+,"GL_202207~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~9~item~1~num":10
+,"GL_202207~table~10~message":"Day 10 Login Bonus"
+,"GL_202207~table~10~coin":100
+,"GL_202207~table~11~message":"Day 11 Login Bonus"
+,"GL_202207~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~11~item~1~num":5
+,"GL_202207~table~12~message":"Day 12 Login Bonus"
+,"GL_202207~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202207~table~12~item~1~num":10
+,"GL_202207~table~13~message":"Day 13 Login Bonus"
+,"GL_202207~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202207~table~13~item~1~num":10
+,"GL_202207~table~14~message":"Day 14 Login Bonus"
+,"GL_202207~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~14~item~1~num":10
+,"GL_202207~table~15~message":"Day 15 Login Bonus"
+,"GL_202207~table~15~coin":150
+,"GL_202207~table~16~message":"Day 16 Login Bonus"
+,"GL_202207~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~16~item~1~num":5
+,"GL_202207~table~17~message":"Day 17 Login Bonus"
+,"GL_202207~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202207~table~17~item~1~num":10
+,"GL_202207~table~18~message":"Day 18 Login Bonus"
+,"GL_202207~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202207~table~18~item~1~num":1
+,"GL_202207~table~19~message":"Day 19 Login Bonus"
+,"GL_202207~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~19~item~1~num":10
+,"GL_202207~table~20~message":"Day 20 Login Bonus"
+,"GL_202207~table~20~coin":200
+,"GL_202207~table~21~message":"Day 21 Login Bonus"
+,"GL_202207~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~21~item~1~num":5
+,"GL_202207~table~22~message":"Day 22 Login Bonus"
+,"GL_202207~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202207~table~22~item~1~num":10
+,"GL_202207~table~23~message":"Day 23 Login Bonus"
+,"GL_202207~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202207~table~23~item~1~num":1
+,"GL_202207~table~24~message":"Day 24 Login Bonus"
+,"GL_202207~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~24~item~1~num":10
+,"GL_202207~table~25~message":"Day 25 Login Bonus"
+,"GL_202207~table~25~coin":250
+,"GL_202207~table~26~message":"Day 26 Login Bonus"
+,"GL_202207~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202207~table~26~item~1~num":5
+,"GL_202207~table~27~message":"Day 27 Login Bonus"
+,"GL_202207~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202207~table~27~item~1~num":10
+,"GL_202207~table~28~message":"Day 28 Login Bonus"
+,"GL_202207~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202207~table~28~item~1~num":1
+,"GL_202207~table~29~message":"Day 29 Login Bonus"
+,"GL_202207~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202207~table~29~item~1~num":10
+,"GL_202207~table~30~message":"Day 30 Login Bonus"
+,"GL_202207~table~30~coin":250
+,"GL_202207~table~31~message":"Day 31 Login Bonus"
+,"GL_202207~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202207~table~31~item~1~num":5
+,"GL_202208~type":"Monthly"
+,"GL_202208~prefab":"LoginBonusWindow"
+,"GL_202208~begin":"2022-08-01 00:00:00"
+,"GL_202208~end":"2022-08-31 23:59:59"
+,"GL_202208~recover":2
+,"GL_202208~message":"ログインボーナスです。"
+,"GL_202208~table~1~message":"Day 1 Login Bonus"
+,"GL_202208~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~1~item~1~num":5
+,"GL_202208~table~2~message":"Day 2 Login Bonus"
+,"GL_202208~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202208~table~2~item~1~num":10
+,"GL_202208~table~3~message":"Day 3 Login Bonus"
+,"GL_202208~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202208~table~3~item~1~num":10
+,"GL_202208~table~4~message":"Day 4 Login Bonus"
+,"GL_202208~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~4~item~1~num":10
+,"GL_202208~table~5~message":"Day 5 Login Bonus"
+,"GL_202208~table~5~coin":50
+,"GL_202208~table~6~message":"Day 6 Login Bonus"
+,"GL_202208~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~6~item~1~num":5
+,"GL_202208~table~7~message":"Day 7 Login Bonus"
+,"GL_202208~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202208~table~7~item~1~num":10
+,"GL_202208~table~8~message":"Day 8 Login Bonus"
+,"GL_202208~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202208~table~8~item~1~num":10
+,"GL_202208~table~9~message":"Day 9 Login Bonus"
+,"GL_202208~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~9~item~1~num":10
+,"GL_202208~table~10~message":"Day 10 Login Bonus"
+,"GL_202208~table~10~coin":100
+,"GL_202208~table~11~message":"Day 11 Login Bonus"
+,"GL_202208~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~11~item~1~num":5
+,"GL_202208~table~12~message":"Day 12 Login Bonus"
+,"GL_202208~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202208~table~12~item~1~num":10
+,"GL_202208~table~13~message":"Day 13 Login Bonus"
+,"GL_202208~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202208~table~13~item~1~num":10
+,"GL_202208~table~14~message":"Day 14 Login Bonus"
+,"GL_202208~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~14~item~1~num":10
+,"GL_202208~table~15~message":"Day 15 Login Bonus"
+,"GL_202208~table~15~coin":150
+,"GL_202208~table~16~message":"Day 16 Login Bonus"
+,"GL_202208~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~16~item~1~num":5
+,"GL_202208~table~17~message":"Day 17 Login Bonus"
+,"GL_202208~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202208~table~17~item~1~num":10
+,"GL_202208~table~18~message":"Day 18 Login Bonus"
+,"GL_202208~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202208~table~18~item~1~num":1
+,"GL_202208~table~19~message":"Day 19 Login Bonus"
+,"GL_202208~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~19~item~1~num":10
+,"GL_202208~table~20~message":"Day 20 Login Bonus"
+,"GL_202208~table~20~coin":200
+,"GL_202208~table~21~message":"Day 21 Login Bonus"
+,"GL_202208~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~21~item~1~num":5
+,"GL_202208~table~22~message":"Day 22 Login Bonus"
+,"GL_202208~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202208~table~22~item~1~num":10
+,"GL_202208~table~23~message":"Day 23 Login Bonus"
+,"GL_202208~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202208~table~23~item~1~num":1
+,"GL_202208~table~24~message":"Day 24 Login Bonus"
+,"GL_202208~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~24~item~1~num":10
+,"GL_202208~table~25~message":"Day 25 Login Bonus"
+,"GL_202208~table~25~coin":250
+,"GL_202208~table~26~message":"Day 26 Login Bonus"
+,"GL_202208~table~26~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202208~table~26~item~1~num":5
+,"GL_202208~table~27~message":"Day 27 Login Bonus"
+,"GL_202208~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202208~table~27~item~1~num":10
+,"GL_202208~table~28~message":"Day 28 Login Bonus"
+,"GL_202208~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202208~table~28~item~1~num":1
+,"GL_202208~table~29~message":"Day 29 Login Bonus"
+,"GL_202208~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202208~table~29~item~1~num":10
+,"GL_202208~table~30~message":"Day 30 Login Bonus"
+,"GL_202208~table~30~coin":250
+,"GL_202208~table~31~message":"Day 31 Login Bonus"
+,"GL_202208~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202208~table~31~item~1~num":5
+,"GL_202209~type":"Monthly"
+,"GL_202209~prefab":"LoginBonusWindow"
+,"GL_202209~begin":"2022-09-01 00:00:00"
+,"GL_202209~end":"2022-09-30 23:59:59"
+,"GL_202209~recover":2
+,"GL_202209~message":"ログインボーナスです。"
+,"GL_202209~table~1~message":"Day 1 Login Bonus"
+,"GL_202209~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~1~item~1~num":5
+,"GL_202209~table~2~message":"Day 2 Login Bonus"
+,"GL_202209~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202209~table~2~item~1~num":10
+,"GL_202209~table~3~message":"Day 3 Login Bonus"
+,"GL_202209~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202209~table~3~item~1~num":10
+,"GL_202209~table~4~message":"Day 4 Login Bonus"
+,"GL_202209~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202209~table~4~item~1~num":10
+,"GL_202209~table~5~message":"Day 5 Login Bonus"
+,"GL_202209~table~5~coin":50
+,"GL_202209~table~6~message":"Day 6 Login Bonus"
+,"GL_202209~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~6~item~1~num":5
+,"GL_202209~table~7~message":"Day 7 Login Bonus"
+,"GL_202209~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202209~table~7~item~1~num":10
+,"GL_202209~table~8~message":"Day 8 Login Bonus"
+,"GL_202209~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202209~table~8~item~1~num":10
+,"GL_202209~table~9~message":"Day 9 Login Bonus"
+,"GL_202209~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202209~table~9~item~1~num":10
+,"GL_202209~table~10~message":"Day 10 Login Bonus"
+,"GL_202209~table~10~coin":100
+,"GL_202209~table~11~message":"Day 11 Login Bonus"
+,"GL_202209~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~11~item~1~num":5
+,"GL_202209~table~12~message":"Day 12 Login Bonus"
+,"GL_202209~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202209~table~12~item~1~num":10
+,"GL_202209~table~13~message":"Day 13 Login Bonus"
+,"GL_202209~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202209~table~13~item~1~num":10
+,"GL_202209~table~14~message":"Day 14 Login Bonus"
+,"GL_202209~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202209~table~14~item~1~num":10
+,"GL_202209~table~15~message":"Day 15 Login Bonus"
+,"GL_202209~table~15~coin":150
+,"GL_202209~table~16~message":"Day 16 Login Bonus"
+,"GL_202209~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~16~item~1~num":5
+,"GL_202209~table~17~message":"Day 17 Login Bonus"
+,"GL_202209~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202209~table~17~item~1~num":10
+,"GL_202209~table~18~message":"Day 18 Login Bonus"
+,"GL_202209~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202209~table~18~item~1~num":1
+,"GL_202209~table~19~message":"Day 19 Login Bonus"
+,"GL_202209~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202209~table~19~item~1~num":10
+,"GL_202209~table~20~message":"Day 20 Login Bonus"
+,"GL_202209~table~20~coin":200
+,"GL_202209~table~21~message":"Day 21 Login Bonus"
+,"GL_202209~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~21~item~1~num":5
+,"GL_202209~table~22~message":"Day 22 Login Bonus"
+,"GL_202209~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202209~table~22~item~1~num":10
+,"GL_202209~table~23~message":"Day 23 Login Bonus"
+,"GL_202209~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202209~table~23~item~1~num":1
+,"GL_202209~table~24~message":"Day 24 Login Bonus"
+,"GL_202209~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202209~table~24~item~1~num":10
+,"GL_202209~table~25~message":"Day 25 Login Bonus"
+,"GL_202209~table~25~coin":250
+,"GL_202209~table~26~message":"Day 26 Login Bonus"
+,"GL_202209~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202209~table~26~item~1~num":5
+,"GL_202209~table~27~message":"Day 27 Login Bonus"
+,"GL_202209~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202209~table~27~item~1~num":10
+,"GL_202209~table~28~message":"Day 28 Login Bonus"
+,"GL_202209~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202209~table~28~item~1~num":1
+,"GL_202209~table~29~message":"Day 29 Login Bonus"
+,"GL_202209~table~29~coin":250
+,"GL_202209~table~30~message":"Day 30 Login Bonus"
+,"GL_202209~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202209~table~30~item~1~num":5
+,"GL_202210~type":"Monthly"
+,"GL_202210~prefab":"LoginBonusWindow"
+,"GL_202210~begin":"2022-10-01 00:00:00"
+,"GL_202210~end":"2022-10-31 23:59:59"
+,"GL_202210~recover":2
+,"GL_202210~message":"ログインボーナスです。"
+,"GL_202210~table~1~message":"Day 1 Login Bonus"
+,"GL_202210~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~1~item~1~num":5
+,"GL_202210~table~2~message":"Day 2 Login Bonus"
+,"GL_202210~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202210~table~2~item~1~num":10
+,"GL_202210~table~3~message":"Day 3 Login Bonus"
+,"GL_202210~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202210~table~3~item~1~num":10
+,"GL_202210~table~4~message":"Day 4 Login Bonus"
+,"GL_202210~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~4~item~1~num":10
+,"GL_202210~table~5~message":"Day 5 Login Bonus"
+,"GL_202210~table~5~coin":50
+,"GL_202210~table~6~message":"Day 6 Login Bonus"
+,"GL_202210~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~6~item~1~num":5
+,"GL_202210~table~7~message":"Day 7 Login Bonus"
+,"GL_202210~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202210~table~7~item~1~num":10
+,"GL_202210~table~8~message":"Day 8 Login Bonus"
+,"GL_202210~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202210~table~8~item~1~num":10
+,"GL_202210~table~9~message":"Day 9 Login Bonus"
+,"GL_202210~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~9~item~1~num":10
+,"GL_202210~table~10~message":"Day 10 Login Bonus"
+,"GL_202210~table~10~coin":100
+,"GL_202210~table~11~message":"Day 11 Login Bonus"
+,"GL_202210~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~11~item~1~num":5
+,"GL_202210~table~12~message":"Day 12 Login Bonus"
+,"GL_202210~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202210~table~12~item~1~num":10
+,"GL_202210~table~13~message":"Day 13 Login Bonus"
+,"GL_202210~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202210~table~13~item~1~num":10
+,"GL_202210~table~14~message":"Day 14 Login Bonus"
+,"GL_202210~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~14~item~1~num":10
+,"GL_202210~table~15~message":"Day 15 Login Bonus"
+,"GL_202210~table~15~coin":150
+,"GL_202210~table~16~message":"Day 16 Login Bonus"
+,"GL_202210~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~16~item~1~num":5
+,"GL_202210~table~17~message":"Day 17 Login Bonus"
+,"GL_202210~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202210~table~17~item~1~num":10
+,"GL_202210~table~18~message":"Day 18 Login Bonus"
+,"GL_202210~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202210~table~18~item~1~num":1
+,"GL_202210~table~19~message":"Day 19 Login Bonus"
+,"GL_202210~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~19~item~1~num":10
+,"GL_202210~table~20~message":"Day 20 Login Bonus"
+,"GL_202210~table~20~coin":200
+,"GL_202210~table~21~message":"Day 21 Login Bonus"
+,"GL_202210~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~21~item~1~num":5
+,"GL_202210~table~22~message":"Day 22 Login Bonus"
+,"GL_202210~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202210~table~22~item~1~num":10
+,"GL_202210~table~23~message":"Day 23 Login Bonus"
+,"GL_202210~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202210~table~23~item~1~num":1
+,"GL_202210~table~24~message":"Day 24 Login Bonus"
+,"GL_202210~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~24~item~1~num":10
+,"GL_202210~table~25~message":"Day 25 Login Bonus"
+,"GL_202210~table~25~coin":250
+,"GL_202210~table~26~message":"Day 26 Login Bonus"
+,"GL_202210~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202210~table~26~item~1~num":5
+,"GL_202210~table~27~message":"Day 27 Login Bonus"
+,"GL_202210~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202210~table~27~item~1~num":10
+,"GL_202210~table~28~message":"Day 28 Login Bonus"
+,"GL_202210~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202210~table~28~item~1~num":1
+,"GL_202210~table~29~message":"Day 29 Login Bonus"
+,"GL_202210~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202210~table~29~item~1~num":10
+,"GL_202210~table~30~message":"Day 30 Login Bonus"
+,"GL_202210~table~30~coin":250
+,"GL_202210~table~31~message":"Day 31 Login Bonus"
+,"GL_202210~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202210~table~31~item~1~num":5
+,"GL_202211~type":"Monthly"
+,"GL_202211~prefab":"LoginBonusWindow"
+,"GL_202211~begin":"2022-11-01 00:00:00"
+,"GL_202211~end":"2022-11-30 23:59:59"
+,"GL_202211~recover":2
+,"GL_202211~message":"ログインボーナスです。"
+,"GL_202211~table~1~message":"Day 1 Login Bonus"
+,"GL_202211~table~1~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~1~item~1~num":5
+,"GL_202211~table~2~message":"Day 2 Login Bonus"
+,"GL_202211~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202211~table~2~item~1~num":10
+,"GL_202211~table~3~message":"Day 3 Login Bonus"
+,"GL_202211~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202211~table~3~item~1~num":10
+,"GL_202211~table~4~message":"Day 4 Login Bonus"
+,"GL_202211~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202211~table~4~item~1~num":10
+,"GL_202211~table~5~message":"Day 5 Login Bonus"
+,"GL_202211~table~5~coin":50
+,"GL_202211~table~6~message":"Day 6 Login Bonus"
+,"GL_202211~table~6~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~6~item~1~num":5
+,"GL_202211~table~7~message":"Day 7 Login Bonus"
+,"GL_202211~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202211~table~7~item~1~num":10
+,"GL_202211~table~8~message":"Day 8 Login Bonus"
+,"GL_202211~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202211~table~8~item~1~num":10
+,"GL_202211~table~9~message":"Day 9 Login Bonus"
+,"GL_202211~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202211~table~9~item~1~num":10
+,"GL_202211~table~10~message":"Day 10 Login Bonus"
+,"GL_202211~table~10~coin":100
+,"GL_202211~table~11~message":"Day 11 Login Bonus"
+,"GL_202211~table~11~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~11~item~1~num":5
+,"GL_202211~table~12~message":"Day 12 Login Bonus"
+,"GL_202211~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202211~table~12~item~1~num":10
+,"GL_202211~table~13~message":"Day 13 Login Bonus"
+,"GL_202211~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202211~table~13~item~1~num":10
+,"GL_202211~table~14~message":"Day 14 Login Bonus"
+,"GL_202211~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202211~table~14~item~1~num":10
+,"GL_202211~table~15~message":"Day 15 Login Bonus"
+,"GL_202211~table~15~coin":150
+,"GL_202211~table~16~message":"Day 16 Login Bonus"
+,"GL_202211~table~16~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~16~item~1~num":5
+,"GL_202211~table~17~message":"Day 17 Login Bonus"
+,"GL_202211~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202211~table~17~item~1~num":10
+,"GL_202211~table~18~message":"Day 18 Login Bonus"
+,"GL_202211~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202211~table~18~item~1~num":1
+,"GL_202211~table~19~message":"Day 19 Login Bonus"
+,"GL_202211~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202211~table~19~item~1~num":10
+,"GL_202211~table~20~message":"Day 20 Login Bonus"
+,"GL_202211~table~20~coin":200
+,"GL_202211~table~21~message":"Day 21 Login Bonus"
+,"GL_202211~table~21~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~21~item~1~num":5
+,"GL_202211~table~22~message":"Day 22 Login Bonus"
+,"GL_202211~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202211~table~22~item~1~num":10
+,"GL_202211~table~23~message":"Day 23 Login Bonus"
+,"GL_202211~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202211~table~23~item~1~num":1
+,"GL_202211~table~24~message":"Day 24 Login Bonus"
+,"GL_202211~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202211~table~24~item~1~num":10
+,"GL_202211~table~25~message":"Day 25 Login Bonus"
+,"GL_202211~table~25~coin":250
+,"GL_202211~table~26~message":"Day 26 Login Bonus"
+,"GL_202211~table~26~item~1~iname":"IT_PI_COMMON_THUNDER"
+,"GL_202211~table~26~item~1~num":5
+,"GL_202211~table~27~message":"Day 27 Login Bonus"
+,"GL_202211~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202211~table~27~item~1~num":10
+,"GL_202211~table~28~message":"Day 28 Login Bonus"
+,"GL_202211~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202211~table~28~item~1~num":1
+,"GL_202211~table~29~message":"Day 29 Login Bonus"
+,"GL_202211~table~29~coin":250
+,"GL_202211~table~30~message":"Day 30 Login Bonus"
+,"GL_202211~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202211~table~30~item~1~num":5
+,"GL_202212~type":"Monthly"
+,"GL_202212~prefab":"LoginBonusWindow"
+,"GL_202212~begin":"2022-12-01 00:00:00"
+,"GL_202212~end":"2022-12-31 23:59:59"
+,"GL_202212~recover":2
+,"GL_202212~message":"ログインボーナスです。"
+,"GL_202212~table~1~message":"Day 1 Login Bonus"
+,"GL_202212~table~1~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~1~item~1~num":5
+,"GL_202212~table~2~message":"Day 2 Login Bonus"
+,"GL_202212~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202212~table~2~item~1~num":10
+,"GL_202212~table~3~message":"Day 3 Login Bonus"
+,"GL_202212~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202212~table~3~item~1~num":10
+,"GL_202212~table~4~message":"Day 4 Login Bonus"
+,"GL_202212~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~4~item~1~num":10
+,"GL_202212~table~5~message":"Day 5 Login Bonus"
+,"GL_202212~table~5~coin":50
+,"GL_202212~table~6~message":"Day 6 Login Bonus"
+,"GL_202212~table~6~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~6~item~1~num":5
+,"GL_202212~table~7~message":"Day 7 Login Bonus"
+,"GL_202212~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202212~table~7~item~1~num":10
+,"GL_202212~table~8~message":"Day 8 Login Bonus"
+,"GL_202212~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202212~table~8~item~1~num":10
+,"GL_202212~table~9~message":"Day 9 Login Bonus"
+,"GL_202212~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~9~item~1~num":10
+,"GL_202212~table~10~message":"Day 10 Login Bonus"
+,"GL_202212~table~10~coin":100
+,"GL_202212~table~11~message":"Day 11 Login Bonus"
+,"GL_202212~table~11~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~11~item~1~num":5
+,"GL_202212~table~12~message":"Day 12 Login Bonus"
+,"GL_202212~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202212~table~12~item~1~num":10
+,"GL_202212~table~13~message":"Day 13 Login Bonus"
+,"GL_202212~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202212~table~13~item~1~num":10
+,"GL_202212~table~14~message":"Day 14 Login Bonus"
+,"GL_202212~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~14~item~1~num":10
+,"GL_202212~table~15~message":"Day 15 Login Bonus"
+,"GL_202212~table~15~coin":150
+,"GL_202212~table~16~message":"Day 16 Login Bonus"
+,"GL_202212~table~16~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~16~item~1~num":5
+,"GL_202212~table~17~message":"Day 17 Login Bonus"
+,"GL_202212~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202212~table~17~item~1~num":10
+,"GL_202212~table~18~message":"Day 18 Login Bonus"
+,"GL_202212~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202212~table~18~item~1~num":1
+,"GL_202212~table~19~message":"Day 19 Login Bonus"
+,"GL_202212~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~19~item~1~num":10
+,"GL_202212~table~20~message":"Day 20 Login Bonus"
+,"GL_202212~table~20~coin":200
+,"GL_202212~table~21~message":"Day 21 Login Bonus"
+,"GL_202212~table~21~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~21~item~1~num":5
+,"GL_202212~table~22~message":"Day 22 Login Bonus"
+,"GL_202212~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202212~table~22~item~1~num":10
+,"GL_202212~table~23~message":"Day 23 Login Bonus"
+,"GL_202212~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202212~table~23~item~1~num":1
+,"GL_202212~table~24~message":"Day 24 Login Bonus"
+,"GL_202212~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~24~item~1~num":10
+,"GL_202212~table~25~message":"Day 25 Login Bonus"
+,"GL_202212~table~25~coin":250
+,"GL_202212~table~26~message":"Day 26 Login Bonus"
+,"GL_202212~table~26~item~1~iname":"IT_PI_COMMON_FIRE"
+,"GL_202212~table~26~item~1~num":5
+,"GL_202212~table~27~message":"Day 27 Login Bonus"
+,"GL_202212~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202212~table~27~item~1~num":10
+,"GL_202212~table~28~message":"Day 28 Login Bonus"
+,"GL_202212~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202212~table~28~item~1~num":1
+,"GL_202212~table~29~message":"Day 29 Login Bonus"
+,"GL_202212~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202212~table~29~item~1~num":10
+,"GL_202212~table~30~message":"Day 30 Login Bonus"
+,"GL_202212~table~30~coin":250
+,"GL_202212~table~31~message":"Day 31 Login Bonus"
+,"GL_202212~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202212~table~31~item~1~num":5
+,"GL_202301~type":"Monthly"
+,"GL_202301~prefab":"LoginBonusWindow"
+,"GL_202301~begin":"2023-01-01 00:00:00"
+,"GL_202301~end":"2023-01-31 23:59:59"
+,"GL_202301~recover":5
+,"GL_202301~message":"ログインボーナスです。"
+,"GL_202301~table~1~message":"Day 1 Login Bonus"
+,"GL_202301~table~1~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~1~item~1~num":5
+,"GL_202301~table~2~message":"Day 2 Login Bonus"
+,"GL_202301~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202301~table~2~item~1~num":10
+,"GL_202301~table~3~message":"Day 3 Login Bonus"
+,"GL_202301~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202301~table~3~item~1~num":10
+,"GL_202301~table~4~message":"Day 4 Login Bonus"
+,"GL_202301~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~4~item~1~num":10
+,"GL_202301~table~5~message":"Day 5 Login Bonus"
+,"GL_202301~table~5~coin":50
+,"GL_202301~table~6~message":"Day 6 Login Bonus"
+,"GL_202301~table~6~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~6~item~1~num":5
+,"GL_202301~table~7~message":"Day 7 Login Bonus"
+,"GL_202301~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202301~table~7~item~1~num":10
+,"GL_202301~table~8~message":"Day 8 Login Bonus"
+,"GL_202301~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202301~table~8~item~1~num":10
+,"GL_202301~table~9~message":"Day 9 Login Bonus"
+,"GL_202301~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~9~item~1~num":10
+,"GL_202301~table~10~message":"Day 10 Login Bonus"
+,"GL_202301~table~10~coin":100
+,"GL_202301~table~11~message":"Day 11 Login Bonus"
+,"GL_202301~table~11~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~11~item~1~num":5
+,"GL_202301~table~12~message":"Day 12 Login Bonus"
+,"GL_202301~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202301~table~12~item~1~num":10
+,"GL_202301~table~13~message":"Day 13 Login Bonus"
+,"GL_202301~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202301~table~13~item~1~num":10
+,"GL_202301~table~14~message":"Day 14 Login Bonus"
+,"GL_202301~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~14~item~1~num":10
+,"GL_202301~table~15~message":"Day 15 Login Bonus"
+,"GL_202301~table~15~coin":150
+,"GL_202301~table~16~message":"Day 16 Login Bonus"
+,"GL_202301~table~16~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~16~item~1~num":5
+,"GL_202301~table~17~message":"Day 17 Login Bonus"
+,"GL_202301~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202301~table~17~item~1~num":10
+,"GL_202301~table~18~message":"Day 18 Login Bonus"
+,"GL_202301~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202301~table~18~item~1~num":1
+,"GL_202301~table~19~message":"Day 19 Login Bonus"
+,"GL_202301~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~19~item~1~num":10
+,"GL_202301~table~20~message":"Day 20 Login Bonus"
+,"GL_202301~table~20~coin":200
+,"GL_202301~table~21~message":"Day 21 Login Bonus"
+,"GL_202301~table~21~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~21~item~1~num":5
+,"GL_202301~table~22~message":"Day 22 Login Bonus"
+,"GL_202301~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202301~table~22~item~1~num":10
+,"GL_202301~table~23~message":"Day 23 Login Bonus"
+,"GL_202301~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202301~table~23~item~1~num":1
+,"GL_202301~table~24~message":"Day 24 Login Bonus"
+,"GL_202301~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~24~item~1~num":10
+,"GL_202301~table~25~message":"Day 25 Login Bonus"
+,"GL_202301~table~25~coin":250
+,"GL_202301~table~26~message":"Day 26 Login Bonus"
+,"GL_202301~table~26~item~1~iname":"IT_PI_COMMON_WATER"
+,"GL_202301~table~26~item~1~num":5
+,"GL_202301~table~27~message":"Day 27 Login Bonus"
+,"GL_202301~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202301~table~27~item~1~num":10
+,"GL_202301~table~28~message":"Day 28 Login Bonus"
+,"GL_202301~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202301~table~28~item~1~num":1
+,"GL_202301~table~29~message":"Day 29 Login Bonus"
+,"GL_202301~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202301~table~29~item~1~num":10
+,"GL_202301~table~30~message":"Day 30 Login Bonus"
+,"GL_202301~table~30~coin":250
+,"GL_202301~table~31~message":"Day 31 Login Bonus"
+,"GL_202301~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202301~table~31~item~1~num":5
+,"GL_202302~type":"Monthly"
+,"GL_202302~prefab":"LoginBonusWindow"
+,"GL_202302~begin":"2023-02-01 00:00:00"
+,"GL_202302~end":"2023-02-28 23:59:59"
+,"GL_202302~recover":2
+,"GL_202302~message":"ログインボーナスです。"
+,"GL_202302~table~1~message":"Day 1 Login Bonus"
+,"GL_202302~table~1~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~1~item~1~num":5
+,"GL_202302~table~2~message":"Day 2 Login Bonus"
+,"GL_202302~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202302~table~2~item~1~num":10
+,"GL_202302~table~3~message":"Day 3 Login Bonus"
+,"GL_202302~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202302~table~3~item~1~num":10
+,"GL_202302~table~4~message":"Day 4 Login Bonus"
+,"GL_202302~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~4~item~1~num":10
+,"GL_202302~table~5~message":"Day 5 Login Bonus"
+,"GL_202302~table~5~coin":50
+,"GL_202302~table~6~message":"Day 6 Login Bonus"
+,"GL_202302~table~6~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~6~item~1~num":5
+,"GL_202302~table~7~message":"Day 7 Login Bonus"
+,"GL_202302~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202302~table~7~item~1~num":10
+,"GL_202302~table~8~message":"Day 8 Login Bonus"
+,"GL_202302~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202302~table~8~item~1~num":10
+,"GL_202302~table~9~message":"Day 9 Login Bonus"
+,"GL_202302~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~9~item~1~num":10
+,"GL_202302~table~10~message":"Day 10 Login Bonus"
+,"GL_202302~table~10~coin":100
+,"GL_202302~table~11~message":"Day 11 Login Bonus"
+,"GL_202302~table~11~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~11~item~1~num":5
+,"GL_202302~table~12~message":"Day 12 Login Bonus"
+,"GL_202302~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202302~table~12~item~1~num":10
+,"GL_202302~table~13~message":"Day 13 Login Bonus"
+,"GL_202302~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202302~table~13~item~1~num":10
+,"GL_202302~table~14~message":"Day 14 Login Bonus"
+,"GL_202302~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~14~item~1~num":10
+,"GL_202302~table~15~message":"Day 15 Login Bonus"
+,"GL_202302~table~15~coin":150
+,"GL_202302~table~16~message":"Day 16 Login Bonus"
+,"GL_202302~table~16~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~16~item~1~num":5
+,"GL_202302~table~17~message":"Day 17 Login Bonus"
+,"GL_202302~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202302~table~17~item~1~num":10
+,"GL_202302~table~18~message":"Day 18 Login Bonus"
+,"GL_202302~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202302~table~18~item~1~num":1
+,"GL_202302~table~19~message":"Day 19 Login Bonus"
+,"GL_202302~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~19~item~1~num":10
+,"GL_202302~table~20~message":"Day 20 Login Bonus"
+,"GL_202302~table~20~coin":200
+,"GL_202302~table~21~message":"Day 21 Login Bonus"
+,"GL_202302~table~21~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~21~item~1~num":5
+,"GL_202302~table~22~message":"Day 22 Login Bonus"
+,"GL_202302~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202302~table~22~item~1~num":10
+,"GL_202302~table~23~message":"Day 23 Login Bonus"
+,"GL_202302~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202302~table~23~item~1~num":1
+,"GL_202302~table~24~message":"Day 24 Login Bonus"
+,"GL_202302~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~24~item~1~num":10
+,"GL_202302~table~25~message":"Day 25 Login Bonus"
+,"GL_202302~table~25~coin":250
+,"GL_202302~table~26~message":"Day 26 Login Bonus"
+,"GL_202302~table~26~item~1~iname":"IT_PI_COMMON_WIND"
+,"GL_202302~table~26~item~1~num":5
+,"GL_202302~table~27~message":"Day 27 Login Bonus"
+,"GL_202302~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202302~table~27~item~1~num":10
+,"GL_202302~table~28~message":"Day 28 Login Bonus"
+,"GL_202302~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202302~table~28~item~1~num":1
+,"GL_202302~table~29~message":"Day 29 Login Bonus"
+,"GL_202302~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202302~table~29~item~1~num":10
+,"GL_202302~table~30~message":"Day 30 Login Bonus"
+,"GL_202302~table~30~coin":250
+,"GL_202302~table~31~message":"Day 31 Login Bonus"
+,"GL_202302~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202302~table~31~item~1~num":5
+,"GL_202303~type":"Monthly"
+,"GL_202303~prefab":"LoginBonusWindow"
+,"GL_202303~begin":"2023-03-01 00:00:00"
+,"GL_202303~end":"2023-03-31 23:59:59"
+,"GL_202303~recover":2
+,"GL_202303~message":"ログインボーナスです。"
+,"GL_202303~table~1~message":"Day 1 Login Bonus"
+,"GL_202303~table~1~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~1~item~1~num":5
+,"GL_202303~table~2~message":"Day 2 Login Bonus"
+,"GL_202303~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202303~table~2~item~1~num":10
+,"GL_202303~table~3~message":"Day 3 Login Bonus"
+,"GL_202303~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202303~table~3~item~1~num":10
+,"GL_202303~table~4~message":"Day 4 Login Bonus"
+,"GL_202303~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202303~table~4~item~1~num":10
+,"GL_202303~table~5~message":"Day 5 Login Bonus"
+,"GL_202303~table~5~coin":50
+,"GL_202303~table~6~message":"Day 6 Login Bonus"
+,"GL_202303~table~6~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~6~item~1~num":5
+,"GL_202303~table~7~message":"Day 7 Login Bonus"
+,"GL_202303~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202303~table~7~item~1~num":10
+,"GL_202303~table~8~message":"Day 8 Login Bonus"
+,"GL_202303~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202303~table~8~item~1~num":10
+,"GL_202303~table~9~message":"Day 9 Login Bonus"
+,"GL_202303~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202303~table~9~item~1~num":10
+,"GL_202303~table~10~message":"Day 10 Login Bonus"
+,"GL_202303~table~10~coin":100
+,"GL_202303~table~11~message":"Day 11 Login Bonus"
+,"GL_202303~table~11~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~11~item~1~num":5
+,"GL_202303~table~12~message":"Day 12 Login Bonus"
+,"GL_202303~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202303~table~12~item~1~num":10
+,"GL_202303~table~13~message":"Day 13 Login Bonus"
+,"GL_202303~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202303~table~13~item~1~num":10
+,"GL_202303~table~14~message":"Day 14 Login Bonus"
+,"GL_202303~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202303~table~14~item~1~num":10
+,"GL_202303~table~15~message":"Day 15 Login Bonus"
+,"GL_202303~table~15~coin":150
+,"GL_202303~table~16~message":"Day 16 Login Bonus"
+,"GL_202303~table~16~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~16~item~1~num":5
+,"GL_202303~table~17~message":"Day 17 Login Bonus"
+,"GL_202303~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202303~table~17~item~1~num":10
+,"GL_202303~table~18~message":"Day 18 Login Bonus"
+,"GL_202303~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202303~table~18~item~1~num":1
+,"GL_202303~table~19~message":"Day 19 Login Bonus"
+,"GL_202303~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202303~table~19~item~1~num":10
+,"GL_202303~table~20~message":"Day 20 Login Bonus"
+,"GL_202303~table~20~coin":200
+,"GL_202303~table~21~message":"Day 21 Login Bonus"
+,"GL_202303~table~21~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~21~item~1~num":5
+,"GL_202303~table~22~message":"Day 22 Login Bonus"
+,"GL_202303~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202303~table~22~item~1~num":10
+,"GL_202303~table~23~message":"Day 23 Login Bonus"
+,"GL_202303~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202303~table~23~item~1~num":1
+,"GL_202303~table~24~message":"Day 24 Login Bonus"
+,"GL_202303~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202303~table~24~item~1~num":10
+,"GL_202303~table~25~message":"Day 25 Login Bonus"
+,"GL_202303~table~25~coin":250
+,"GL_202303~table~26~message":"Day 26 Login Bonus"
+,"GL_202303~table~26~item~1~iname":"IT_PI_COMMON_LIGHT"
+,"GL_202303~table~26~item~1~num":5
+,"GL_202303~table~27~message":"Day 27 Login Bonus"
+,"GL_202303~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202303~table~27~item~1~num":10
+,"GL_202303~table~28~message":"Day 28 Login Bonus"
+,"GL_202303~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202303~table~28~item~1~num":1
+,"GL_202303~table~29~message":"Day 29 Login Bonus"
+,"GL_202303~table~29~coin":250
+,"GL_202303~table~30~message":"Day 30 Login Bonus"
+,"GL_202303~table~30~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202303~table~30~item~1~num":5
+,"GL_202304~type":"Monthly"
+,"GL_202304~prefab":"LoginBonusWindow"
+,"GL_202304~begin":"2023-04-01 00:00:00"
+,"GL_202304~end":"2023-04-30 23:59:59"
+,"GL_202304~recover":2
+,"GL_202304~message":"ログインボーナスです。"
+,"GL_202304~table~1~message":"Day 1 Login Bonus"
+,"GL_202304~table~1~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~1~item~1~num":5
+,"GL_202304~table~2~message":"Day 2 Login Bonus"
+,"GL_202304~table~2~item~1~iname":"IT_UG_APPLE5"
+,"GL_202304~table~2~item~1~num":10
+,"GL_202304~table~3~message":"Day 3 Login Bonus"
+,"GL_202304~table~3~item~1~iname":"IT_US_TICKET"
+,"GL_202304~table~3~item~1~num":10
+,"GL_202304~table~4~message":"Day 4 Login Bonus"
+,"GL_202304~table~4~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~4~item~1~num":10
+,"GL_202304~table~5~message":"Day 5 Login Bonus"
+,"GL_202304~table~5~coin":50
+,"GL_202304~table~6~message":"Day 6 Login Bonus"
+,"GL_202304~table~6~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~6~item~1~num":5
+,"GL_202304~table~7~message":"Day 7 Login Bonus"
+,"GL_202304~table~7~item~1~iname":"IT_UG_APPLE5"
+,"GL_202304~table~7~item~1~num":10
+,"GL_202304~table~8~message":"Day 8 Login Bonus"
+,"GL_202304~table~8~item~1~iname":"IT_US_TICKET"
+,"GL_202304~table~8~item~1~num":10
+,"GL_202304~table~9~message":"Day 9 Login Bonus"
+,"GL_202304~table~9~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~9~item~1~num":10
+,"GL_202304~table~10~message":"Day 10 Login Bonus"
+,"GL_202304~table~10~coin":100
+,"GL_202304~table~11~message":"Day 11 Login Bonus"
+,"GL_202304~table~11~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~11~item~1~num":5
+,"GL_202304~table~12~message":"Day 12 Login Bonus"
+,"GL_202304~table~12~item~1~iname":"IT_UG_APPLE5"
+,"GL_202304~table~12~item~1~num":10
+,"GL_202304~table~13~message":"Day 13 Login Bonus"
+,"GL_202304~table~13~item~1~iname":"IT_US_TICKET"
+,"GL_202304~table~13~item~1~num":10
+,"GL_202304~table~14~message":"Day 14 Login Bonus"
+,"GL_202304~table~14~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~14~item~1~num":10
+,"GL_202304~table~15~message":"Day 15 Login Bonus"
+,"GL_202304~table~15~coin":150
+,"GL_202304~table~16~message":"Day 16 Login Bonus"
+,"GL_202304~table~16~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~16~item~1~num":5
+,"GL_202304~table~17~message":"Day 17 Login Bonus"
+,"GL_202304~table~17~item~1~iname":"TS_EXP_04"
+,"GL_202304~table~17~item~1~num":10
+,"GL_202304~table~18~message":"Day 18 Login Bonus"
+,"GL_202304~table~18~item~1~iname":"TS_VISION_01"
+,"GL_202304~table~18~item~1~num":1
+,"GL_202304~table~19~message":"Day 19 Login Bonus"
+,"GL_202304~table~19~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~19~item~1~num":10
+,"GL_202304~table~20~message":"Day 20 Login Bonus"
+,"GL_202304~table~20~coin":200
+,"GL_202304~table~21~message":"Day 21 Login Bonus"
+,"GL_202304~table~21~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~21~item~1~num":5
+,"GL_202304~table~22~message":"Day 22 Login Bonus"
+,"GL_202304~table~22~item~1~iname":"TS_EXP_04"
+,"GL_202304~table~22~item~1~num":10
+,"GL_202304~table~23~message":"Day 23 Login Bonus"
+,"GL_202304~table~23~item~1~iname":"TS_VISION_01"
+,"GL_202304~table~23~item~1~num":1
+,"GL_202304~table~24~message":"Day 24 Login Bonus"
+,"GL_202304~table~24~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~24~item~1~num":10
+,"GL_202304~table~25~message":"Day 25 Login Bonus"
+,"GL_202304~table~25~coin":250
+,"GL_202304~table~26~message":"Day 26 Login Bonus"
+,"GL_202304~table~26~item~1~iname":"IT_PI_COMMON_DARK"
+,"GL_202304~table~26~item~1~num":5
+,"GL_202304~table~27~message":"Day 27 Login Bonus"
+,"GL_202304~table~27~item~1~iname":"TS_EXP_04"
+,"GL_202304~table~27~item~1~num":10
+,"GL_202304~table~28~message":"Day 28 Login Bonus"
+,"GL_202304~table~28~item~1~iname":"TS_VISION_01"
+,"GL_202304~table~28~item~1~num":1
+,"GL_202304~table~29~message":"Day 29 Login Bonus"
+,"GL_202304~table~29~item~1~iname":"IT_CV_GOLD3"
+,"GL_202304~table~29~item~1~num":10
+,"GL_202304~table~30~message":"Day 30 Login Bonus"
+,"GL_202304~table~30~coin":250
+,"GL_202304~table~31~message":"Day 31 Login Bonus"
+,"GL_202304~table~31~item~1~iname":"IT_PI_COMMON_ALL"
+,"GL_202304~table~31~item~1~num":5
+}

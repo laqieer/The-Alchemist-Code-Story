@@ -1,0 +1,29 @@
+ID	EFFECT	ANIMATION	COLOR	TARGET	TARGET_BIGUNIT	EFFECT_BIGUNIT
+Stone	eff_p_par_nut_stone0	cmn_freeze0		Bip001	AttachStone	eff_p_par_nut_big_stone0
+Freeze	eff_p_par_nut_freeze0	cmn_freeze0	100,100,100,150	Bip001_pos	AttachDonsoku	eff_p_par_nut_big_freeze0
+Stop	eff_p_par_nut_stop0	cmn_freeze0	8,8,8,150	Bip001	AttachStop	eff_p_par_nut_big_stop0
+DeathSentence	eff_p_par_nut_deathsentence0		128,0,64,150	Bip001_pos	AttachDeathSentence	eff_p_par_nut_big_deathsentence0
+Poison	eff_p_par_nut_poison0	cmn_groggy0	0,255,0,150	Bip001 Head	AttachPoison	eff_p_par_nut_big_poison0
+Slip	eff_p_par_nut_burn0	cmn_groggy0	255,50,0,180	Bip001_pos	AttachSleep	eff_p_par_nut_big_burn0
+Paralysed	eff_p_par_nut_paralytic0	cmn_groggy0	255,255,0,150	Bip001	AttachParalysed	eff_p_par_nut_big_paralytic0
+Stun	eff_p_par_nut_stun0	cmn_groggy0	64,200,64,150	Bip001 Head	AttachStun	eff_p_par_nut_big_stun0
+Sleep	eff_p_par_nut_sleep0	cmn_groggy0	128,128,200,150	Bip001 Head	AttachSleep	eff_p_par_nut_big_sleep0
+Charm	eff_p_par_nut_charm0		255,0,255,150	Bip001 Head	AttachCharm	eff_p_par_nut_big_charm0
+Blindness	eff_p_par_nut_dark0		8,8,8,150	Bip001 Head	AttachBlindness	eff_p_par_nut_big_dark0
+DisableMove	eff_p_par_nut_disablemove0		0,0,128,150	Bip001	AttachDisableMove	eff_p_par_nut_big_disablemove0
+DisableAttack	eff_p_par_nut_disablesttack0		128,0,0,150	Bip001	AttachDisableAttack	eff_p_par_nut_big_disablesttack0
+DisableSupport	eff_p_par_nut_disablesupport0		128,0,128,150	Bip001	AttachDisableAttack	eff_p_par_nut_big_disablesupport0
+DisableSkill	eff_p_par_nut_disableskill0		128,64,0,150	Bip001	AttachDisableSkill	eff_p_par_nut_big_disableskill0
+Zombie	eff_p_par_nut_zombie0		64,0,100,150	Bip001	AttachZombie	eff_p_par_nut_big_zombie0
+Berserk	eff_p_par_nut_berserk0		255,0,0,150	Bip001	AttachBerserk	eff_p_par_nut_big_berserk0
+Fast	eff_p_par_nut_clockup0		128,128,192,150	Bip001	AttachFast	eff_p_par_nut_big_clockup0
+Slow	eff_p_par_nut_clockdown0		128,32,0,150	Bip001	AttachSlow	eff_p_par_nut_big_clockdown0
+AutoHeal	eff_p_par_nut_autoheal0		150,255,130,50	Bip001_pos	AttachAutoHeal	eff_p_par_nut_big_autoheal0
+Donsoku	eff_p_par_nut_donsoku0		32,32,64,150	Bip001_pos	AttachDonsoku	eff_p_par_nut_big_donsoku0
+Rage	eff_p_par_nut_rage0		255,0,0,150	Bip001 Head	AttachRage	eff_p_par_nut_big_rage0
+Bomb	eff_p_par_nut_bomb0		150,150,255,100	Bip001_pos	AttachDonsoku	eff_p_par_nut_big_bomb0
+AutoJewel	eff_p_par_nut_autojewel0		255,120,120,50	Bip001_pos	AttachAutoJewel	eff_p_par_nut_big_autojewel0
+DisableHeal	eff_p_par_nut_disableheal0		255,120,120,50	Bip001	AttachDisableHeal	eff_p_par_nut_big_disableheal0
+DisableKnockback	eff_p_par_nut_disableknockback0			Bip001 Head	AttachDisableKnockback	eff_p_par_nut_big_disableknockback0
+DisableBuff	eff_p_par_nut_disablebuff0			Bip001	AttachDisableBuff	eff_p_par_nut_big_disablebuff0
+DisableDebuff	eff_p_par_nut_disabledebuff0			Bip001	AttachDisableDebuff	eff_p_par_nut_big_disabledebuff0
