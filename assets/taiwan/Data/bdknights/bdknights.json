@@ -1,0 +1,72 @@
+{
+    "level_config": [
+        {"qst_level": 1,"qst_exp": 18000,"member_limit": 30},
+        {"qst_level": 2,"qst_exp": 90600,"member_limit": 32},
+        {"qst_level": 3,"qst_exp": 187200,"member_limit": 35},
+        {"qst_level": 4,"qst_exp": 501000,"member_limit": 40},
+        {"qst_level": 5,"qst_exp": 849600,"member_limit": 45},
+        {"qst_level": 6,"qst_exp": 1353600,"member_limit": 50},
+        {"qst_level": 7,"qst_exp": 2620800,"member_limit": 55},
+        {"qst_level": 8,"qst_exp": 4308000,"member_limit": 60},
+        {"qst_level": 9,"qst_exp": 6405000,"member_limit": 65},
+        {"qst_level": 10,"qst_exp": 8841000,"member_limit": 70}
+    ],
+    
+   "log_config":[
+        {"name":"join_auto", "log_type":1, "descript":"{0}加入了騎士團。"},
+        {"name":"create_qst", "log_type":2, "descript":"{0}成功創建了騎士團！"},
+		{"name":"kick_member", "log_type":3, "descript":"{1}把{0}踢除騎士團。"},
+		{"name":"quit_member", "log_type":4, "descript":"{0}退出了騎士團。"},
+		{"name":"promote_lord", "log_type":5, "descript":"{1}把{0}提升為騎士團團長！"},
+		{"name":"promote_vicelord", "log_type":6, "descript":"{1}把{0}提升為騎士團副團長！"},
+		{"name":"cancel_vicelord", "log_type":7, "descript":"{1}撤銷了{0}的副團長職位！"},
+		{"name":"apply_join", "log_type":8, "descript":"{1}通過了{0}的入團申請。"},
+		{"name":"qst_level_up", "log_type":9, "descript":"騎士團提升至{0}級！"},
+		{"name":"qst_rename", "log_type":10, "descript":"{0}修改了騎士團名稱！"},
+		{"name":"anno_change", "log_type":11, "descript":"{0}修改了騎士團狀態！"},
+		{"name":"member_donation", "log_type":12, "descript":"{0}參加了騎士團捐獻！"},
+		{"name":"dissolve_qst", "log_type":13, "descript":"{0}解散了騎士團！"},
+		{"name":"auto_abdicate", "log_type":14, "descript":"{1}因為長期未上線，其團長的職位自動解除！"}
+    ],
+
+    "base_config": {
+        "icon": [
+            {"id": 1,"img_id": "kninghtbadge_01","iname": "IT_STAMP_01","desc": "騎士團徽章1"},
+            {"id": 2,"img_id": "kninghtbadge_02","iname": "IT_STAMP_02","desc": "騎士團徽章2"},
+            {"id": 3,"img_id": "kninghtbadge_03","iname": "IT_STAMP_03","desc": "騎士團徽章3"},
+            {"id": 4,"img_id": "kninghtbadge_04","iname": "IT_STAMP_04","desc": "騎士團徽章4"},
+            {"id": 5,"img_id": "kninghtbadge_05","iname": "IT_STAMP_05","desc": "騎士團徽章5"},
+            {"id": 6,"img_id": "kninghtbadge_06","iname": "IT_STAMP_06","desc": "騎士團徽章6"},
+            {"id": 7,"img_id": "kninghtbadge_07","iname": "IT_STAMP_06","desc": "騎士團徽章7"},
+            {"id": 8,"img_id": "kninghtbadge_08","iname": "IT_STAMP_06","desc": "騎士團徽章8"},
+            {"id": 9,"img_id": "kninghtbadge_09","iname": "IT_STAMP_06","desc": "騎士團徽章9"},
+            {"id": 10,"img_id": "kninghtbadge_10","iname": "IT_STAMP_06","desc": "騎士團徽章10"},
+            {"id": 11,"img_id": "kninghtbadge_11","iname": "IT_STAMP_06","desc": "騎士團徽章11"},
+            {"id": 12,"img_id": "kninghtbadge_12","iname": "IT_STAMP_06","desc": "騎士團徽章12"},
+			{"id": 13,"img_id": "kninghtbadge_13","iname": "IT_STAMP_06","desc": "騎士團徽章13"},
+			{"id": 14,"img_id": "kninghtbadge_14","iname": "IT_STAMP_06","desc": "騎士團徽章14"},
+			{"id": 15,"img_id": "kninghtbadge_15","iname": "IT_STAMP_06","desc": "騎士團徽章15"}
+        ],
+        "qst_level_limit": 10,
+        "create_qst_coin": 3000,
+        "join_level_limit": 50,
+        "vice_lord_limit": 3,
+        "donation_req_gold": 200000,
+        "gold_donation_count": 5,
+        "gold_donation_honor": 50,
+        "donation_req_coin": 100,
+        "coin_donation_count": 5,
+        "coin_donation_honor": 200,
+        "name_char_limit": 8,
+        "announcement_char_limit": 60,
+        "apply_message_limit": 50,
+        "join_apply_count": 15,
+        "elite_member_limit": 5000,
+        "impeach_start_time": 2592000,
+        "honor_limit" : 5000,
+        "log_limit" : 128,
+        "change_name_coin" : 8000,
+        "join_time_limit" : 86400,
+	"abdicate_accept_time" : 259200
+    }
+  }

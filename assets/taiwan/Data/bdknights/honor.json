@@ -1,0 +1,193 @@
+{
+    "season_config": [
+        {"season": 1,"begin_day": 20190924,"end_day": 20191021},
+        {"season": 2,"begin_day": 20201008,"end_day": 20201104},
+        {"season": 3,"begin_day": 20201105,"end_day": 20201202},
+        {"season": 4,"begin_day": 20201203,"end_day": 20201230},
+        {"season": 5,"begin_day": 20201231,"end_day": 20210127},
+        {"season": 6,"begin_day": 20210128,"end_day": 20210224}
+    ],
+
+    "score_match" : [
+        {"area":1, "begin_score":31, "end_score":40},
+        {"area":2, "begin_score":21, "end_score":30},
+        {"area":3, "begin_score":11, "end_score":20},
+        {"area":4, "begin_score":6, "end_score":10},
+        {"area":5, "begin_score":0, "end_score":5}
+    ],
+
+    "stronghold_area" : [
+        {"id":1, "iname":"QE_QST_HONOR_YS1_01", "name":"要塞", "icon":"001", "area":"bg_01_haikyo_002_R","expr":"地圖效果：血量提升100%", "map_name":"草地"},
+        {"id":2, "iname":"QE_QST_HONOR_YS2_01", "name":"要塞", "icon":"002", "area":"bg_01_haikyo_002_R","expr":"地圖效果：血量提升100%", "map_name":"草地"},
+        {"id":3, "iname":"QE_QST_HONOR_JD1_01", "name":"據點1", "icon":"003", "area":"bg_01_mori_H_002_A","expr":"地圖效果：血量提升50%，突刺傷害提升50%", "map_name":"森林"},
+        {"id":4, "iname":"QE_QST_HONOR_JD2_01", "name":"據點2", "icon":"004", "area":"bg_01_toride_soto_001_AW","expr":"地圖效果：血量提升100%，暴擊率提升25%", "map_name":"沙漠"},
+        {"id":5, "iname":"QE_QST_HONOR_JD3_01", "name":"據點3", "icon":"005", "area":"bg_03_mori_006","expr":"地圖效果：血量提升50%，射擊傷害降低50%", "map_name":"雪地"},
+        {"id":6, "iname":"QE_QST_HONOR_JD4_01", "name":"據點4", "icon":"006", "area":"bg_01_yama_006_A","expr":"地圖效果：血量提升100%", "map_name":"山地"},
+        {"id":7, "iname":"QE_QST_HONOR_JD5_01", "name":"據點5", "icon":"007", "area":"bg_02_sougen_006","expr":"地圖效果：血量提升50%，魔法傷害降低80%", "map_name":"平原"},
+        {"id":8, "iname":"QE_QST_HONOR_JD6_01", "name":"據點6", "icon":"008", "area":"bg_01_yama_004_A","expr":"地圖效果：血量提升50%，突刺傷害提升50%", "map_name":"山地"},
+        {"id":9, "iname":"QE_QST_HONOR_JD7_01", "name":"據點7", "icon":"009", "area":"bg_03_mori_004","expr":"地圖效果：血量提升100%，暴擊率提升25%", "map_name":"雪地"},
+        {"id":10, "iname":"QE_QST_HONOR_JD8_01", "name":"據點8", "icon":"010", "area":"bg_01_areti_002_A","expr":"地圖效果：血量提升50%，射擊傷害降低50%", "map_name":"沙漠"},
+        {"id":11, "iname":"QE_QST_HONOR_JD9_01", "name":"據點9", "icon":"011", "area":"bg_01_sougen_003_A","expr":"地圖效果：血量提升50%，魔法傷害降低80%", "map_name":"平原"},
+        {"id":12, "iname":"QE_QST_HONOR_JD10_01", "name":"據點10", "icon":"012", "area":"bg_01_sougen_008_A","expr":"地圖效果：血量提升50%，突刺傷害提升50%", "map_name":"森林"}
+    ],
+
+	"stronghold_AI" : [
+		{"id":1, "team":[
+		{"name":"要塞-1","lv":80, "monster":"qst_honor_no_010001_01_set", "iname":"QE_QST_HONOR_YS1_01"},
+		{"name":"要塞-2","lv":80, "monster":"qst_honor_no_010001_02_set", "iname":"QE_QST_HONOR_YS1_02"},
+		{"name":"要塞-3","lv":80, "monster":"qst_honor_no_010001_03_set", "iname":"QE_QST_HONOR_YS1_03"},
+		{"name":"要塞-4","lv":80, "monster":"qst_honor_no_010001_04_set", "iname":"QE_QST_HONOR_YS1_04"},
+		{"name":"要塞-5","lv":80, "monster":"qst_honor_no_010001_05_set", "iname":"QE_QST_HONOR_YS1_05"}
+		]},
+		{"id":2, "team":[
+		{"name":"要塞-1","lv":80, "monster":"qst_honor_no_010002_01_set", "iname":"QE_QST_HONOR_YS2_01"},
+		{"name":"要塞-2","lv":80, "monster":"qst_honor_no_010002_02_set", "iname":"QE_QST_HONOR_YS2_02"},
+		{"name":"要塞-3","lv":80, "monster":"qst_honor_no_010002_03_set", "iname":"QE_QST_HONOR_YS2_03"},
+		{"name":"要塞-4","lv":80, "monster":"qst_honor_no_010002_04_set", "iname":"QE_QST_HONOR_YS2_04"},
+		{"name":"要塞-5","lv":80, "monster":"qst_honor_no_010002_05_set", "iname":"QE_QST_HONOR_YS2_05"}
+		]},
+        {"id":3, "team":[
+		{"name":"據點1-1","lv":80, "monster":"qst_honor_no_010003_01_set", "iname":"QE_QST_HONOR_JD1_01"},
+		{"name":"據點1-2","lv":80, "monster":"qst_honor_no_010003_02_set", "iname":"QE_QST_HONOR_JD1_02"},
+		{"name":"據點1-3","lv":80, "monster":"qst_honor_no_010003_03_set", "iname":"QE_QST_HONOR_JD1_03"},
+		{"name":"據點1-4","lv":80, "monster":"qst_honor_no_010003_04_set", "iname":"QE_QST_HONOR_JD1_04"},
+		{"name":"據點1-5","lv":80, "monster":"qst_honor_no_010003_05_set", "iname":"QE_QST_HONOR_JD1_05"}
+		]},
+		{"id":4, "team":[
+		{"name":"據點2-1","lv":80, "monster":"qst_honor_no_010004_01_set", "iname":"QE_QST_HONOR_JD2_01"},
+		{"name":"據點2-2","lv":80, "monster":"qst_honor_no_010004_02_set", "iname":"QE_QST_HONOR_JD2_02"},
+		{"name":"據點2-3","lv":80, "monster":"qst_honor_no_010004_03_set", "iname":"QE_QST_HONOR_JD2_03"},
+		{"name":"據點2-4","lv":80, "monster":"qst_honor_no_010004_04_set", "iname":"QE_QST_HONOR_JD2_04"},
+		{"name":"據點2-5","lv":80, "monster":"qst_honor_no_010004_05_set", "iname":"QE_QST_HONOR_JD2_05"}
+		]},
+		{"id":5, "team":[
+		{"name":"據點3-1","lv":80, "monster":"qst_honor_no_010005_01_set", "iname":"QE_QST_HONOR_JD3_01"},
+		{"name":"據點3-2","lv":80, "monster":"qst_honor_no_010005_02_set", "iname":"QE_QST_HONOR_JD3_02"},
+		{"name":"據點3-3","lv":80, "monster":"qst_honor_no_010005_03_set", "iname":"QE_QST_HONOR_JD3_03"},
+		{"name":"據點3-4","lv":80, "monster":"qst_honor_no_010005_04_set", "iname":"QE_QST_HONOR_JD3_04"},
+		{"name":"據點3-5","lv":80, "monster":"qst_honor_no_010005_05_set", "iname":"QE_QST_HONOR_JD3_05"}
+		]},
+		{"id":6, "team":[
+		{"name":"據點4-1","lv":80, "monster":"qst_honor_no_010006_01_set", "iname":"QE_QST_HONOR_JD4_01"},
+		{"name":"據點4-2","lv":80, "monster":"qst_honor_no_010006_02_set", "iname":"QE_QST_HONOR_JD4_02"},
+		{"name":"據點4-3","lv":80, "monster":"qst_honor_no_010006_03_set", "iname":"QE_QST_HONOR_JD4_03"},
+		{"name":"據點4-4","lv":80, "monster":"qst_honor_no_010006_04_set", "iname":"QE_QST_HONOR_JD4_04"},
+		{"name":"據點4-5","lv":80, "monster":"qst_honor_no_010006_05_set", "iname":"QE_QST_HONOR_JD4_05"}
+		]},
+		{"id":7, "team":[
+		{"name":"據點5-1","lv":80, "monster":"qst_honor_no_010007_01_set", "iname":"QE_QST_HONOR_JD5_01"},
+		{"name":"據點5-2","lv":80, "monster":"qst_honor_no_010007_02_set", "iname":"QE_QST_HONOR_JD5_02"},
+		{"name":"據點5-3","lv":80, "monster":"qst_honor_no_010007_03_set", "iname":"QE_QST_HONOR_JD5_03"},
+		{"name":"據點5-4","lv":80, "monster":"qst_honor_no_010007_04_set", "iname":"QE_QST_HONOR_JD5_04"},
+		{"name":"據點5-5","lv":80, "monster":"qst_honor_no_010007_05_set", "iname":"QE_QST_HONOR_JD5_05"}
+		]},
+		{"id":8, "team":[
+		{"name":"據點6-1","lv":80, "monster":"qst_honor_no_010008_01_set", "iname":"QE_QST_HONOR_JD6_01"},
+		{"name":"據點6-2","lv":80, "monster":"qst_honor_no_010008_02_set", "iname":"QE_QST_HONOR_JD6_02"},
+		{"name":"據點6-3","lv":80, "monster":"qst_honor_no_010008_03_set", "iname":"QE_QST_HONOR_JD6_03"},
+		{"name":"據點6-4","lv":80, "monster":"qst_honor_no_010008_04_set", "iname":"QE_QST_HONOR_JD6_04"},
+		{"name":"據點6-5","lv":80, "monster":"qst_honor_no_010008_05_set", "iname":"QE_QST_HONOR_JD6_05"}
+		]},
+		{"id":9, "team":[
+		{"name":"據點7-1","lv":80, "monster":"qst_honor_no_010009_01_set", "iname":"QE_QST_HONOR_JD7_01"},
+		{"name":"據點7-2","lv":80, "monster":"qst_honor_no_010009_02_set", "iname":"QE_QST_HONOR_JD7_02"},
+		{"name":"據點7-3","lv":80, "monster":"qst_honor_no_010009_03_set", "iname":"QE_QST_HONOR_JD7_03"},
+		{"name":"據點7-4","lv":80, "monster":"qst_honor_no_010009_04_set", "iname":"QE_QST_HONOR_JD7_04"},
+		{"name":"據點7-5","lv":80, "monster":"qst_honor_no_010009_05_set", "iname":"QE_QST_HONOR_JD7_05"}
+		]},
+		{"id":10, "team":[
+		{"name":"據點8-1","lv":80, "monster":"qst_honor_no_010010_01_set", "iname":"QE_QST_HONOR_JD8_01"},
+		{"name":"據點8-2","lv":80, "monster":"qst_honor_no_010010_02_set", "iname":"QE_QST_HONOR_JD8_02"},
+		{"name":"據點8-3","lv":80, "monster":"qst_honor_no_010010_03_set", "iname":"QE_QST_HONOR_JD8_03"},
+		{"name":"據點8-4","lv":80, "monster":"qst_honor_no_010010_04_set", "iname":"QE_QST_HONOR_JD8_04"},
+		{"name":"據點8-5","lv":80, "monster":"qst_honor_no_010010_05_set", "iname":"QE_QST_HONOR_JD8_05"}
+		]},
+		{"id":11, "team":[
+		{"name":"據點9-1","lv":80, "monster":"qst_honor_no_010011_01_set", "iname":"QE_QST_HONOR_JD9_01"},
+		{"name":"據點9-2","lv":80, "monster":"qst_honor_no_010011_02_set", "iname":"QE_QST_HONOR_JD9_02"},
+		{"name":"據點9-3","lv":80, "monster":"qst_honor_no_010011_03_set", "iname":"QE_QST_HONOR_JD9_03"},
+		{"name":"據點9-4","lv":80, "monster":"qst_honor_no_010011_04_set", "iname":"QE_QST_HONOR_JD9_04"},
+		{"name":"據點9-5","lv":80, "monster":"qst_honor_no_010011_05_set", "iname":"QE_QST_HONOR_JD9_05"}
+		]},
+		{"id":12, "team":[
+		{"name":"據點10-1","lv":80, "monster":"qst_honor_no_010012_01_set", "iname":"QE_QST_HONOR_JD10_01"},
+		{"name":"據點10-2","lv":80, "monster":"qst_honor_no_010012_02_set", "iname":"QE_QST_HONOR_JD10_02"},
+		{"name":"據點10-3","lv":80, "monster":"qst_honor_no_010012_03_set", "iname":"QE_QST_HONOR_JD10_03"},
+		{"name":"據點10-4","lv":80, "monster":"qst_honor_no_010012_04_set", "iname":"QE_QST_HONOR_JD10_04"},
+		{"name":"據點10-5","lv":80, "monster":"qst_honor_no_010012_05_set", "iname":"QE_QST_HONOR_JD10_05"}
+		]}
+    ],
+	
+	
+
+    "score_reward" : [
+        {"begin_occupy":0, "end_occupy":0, "win_score":0, "lose_score":0, "win_ext":5},
+        {"begin_occupy":1, "end_occupy":5, "win_score":3, "lose_score":3, "win_ext":5},
+        {"begin_occupy":6, "end_occupy":6, "win_score":8, "lose_score":5, "win_ext":5},
+        {"begin_occupy":7, "end_occupy":11, "win_score":10, "lose_score":10, "win_ext":5},
+        {"begin_occupy":12, "end_occupy":12, "win_score":12, "lose_score":12, "win_ext":5}
+    ],
+
+    "rank_reward":[
+        {"begin_rank":1,"end_rank":1,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":5000}] },
+        {"begin_rank":2,"end_rank":2,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":3500}] },
+        {"begin_rank":3,"end_rank":3,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":2000}] },
+        {"begin_rank":4,"end_rank":10,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":1000}] },
+        {"begin_rank":11,"end_rank":20,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":800}] },
+        {"begin_rank":21,"end_rank":50,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":300}] },
+        {"begin_rank":51,"end_rank":100,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":100}] },
+        {"begin_rank":101,"end_rank":500,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":80}] },
+        {"begin_rank":501,"end_rank":1000,"rewards":[{"iname":"IT_EVENT_DENA_KNIGHTS","num":50}] }
+    ],
+
+    "stage_time":[
+        {"time_type":1, "name":"玩家報名", "begin_time":600, "end_time":172800},
+        {"time_type":2, "name":"後臺匹配", "begin_time":172800, "end_time":176400},
+        {"time_type":3, "name":"佈陣準備", "begin_time":176400, "end_time":244800},
+        {"time_type":4, "name":"收集資訊", "begin_time":244800, "end_time":248400},
+        {"time_type":5, "name":"戰鬥階段", "begin_time":248400, "end_time":255600},
+        {"time_type":6, "name":"結算統計", "begin_time":255600, "end_time":257400},
+        {"time_type":7, "name":"最後排名", "begin_time":257400, "end_time":259200},
+        {"time_type":8, "name":"週末休戰", "begin_time":259200, "end_time":345600}
+    ],
+	
+	"describe_config":{
+		"reward_describe":"擊敗獎勵（體驗版）：每擊敗一個據點隊伍獲得10個騎士紋章。<br>佔領獎勵（體驗版）：每佔領一個據點獲得100個騎士紋章。<br>獲勝獎勵（體驗版）:<br>根據擊敗敵方隊伍、據點佔領數額外獲得勝利獎勵，獎勵上限3000騎士紋章。<br>失敗安慰獎勵（體驗版）:<br>根據據點佔領數量額外獲得失敗安慰獎勵，獎勵上限為1000騎士紋章。",
+		"rule_describe":"榮譽之戰規則（體驗版）<br>1、騎士團等級達到2級後，等級≥80級的團員在每週一和週四即可報名。<br>2、騎士團報名的團員人數達到10人時，騎士團才算報名成功，方可參與週三和周六榮譽之戰。<br>3、報名期間禁止已報名的人員變動，即報名的團員不能主動退團，也不會被管理員踢出騎士團。<br>4、入團時間小於24小時的騎士團團員不能進行報名。<br>5、每週第一場次的比賽已經報名過的騎士團，在第二場次的報名期間還需團員手動報名，但是上一場的進攻和防守陣容將會保存。<br>6、我方據點為藍色，中立據點為黃色，敵方據點為紅色。<br>7、榮譽之戰勝負判定條件為：優先判定佔領據點時間較長的騎士團獲勝，如果時間一致則按擊敗隊伍數判定，再上述條件均相等的情况下按佔領據點數判定。"
+	},
+	
+	"end_battle_reward":{
+        "reward_id" : "IT_EVENT_DENA_KNIGHTS",
+        "all_base_num" : 10,
+        "all_occupy_count_param":1,
+        "all_occupy_time_param":1000,
+        "all_kill_team_param":10,
+        "person_occupy_count_param":100,
+        "person_kill_team_param":10, 
+        "winer_reward_max": 3000,
+        "lose_reward_max": 1000
+	},
+
+    "base_config":{
+        "qst_sign_level": 2,
+		"member_sign_level": 80,
+        "member_sign_min": 10,
+        "qst_sign_min" : 8,
+		"attack_team_max": 5,
+		"defense_team_max": 5,
+		"team_fall_max": 3,
+		"protection_time": 180,
+		"endlimit_time": 600,
+		"winer_point": 5,
+		"lose_point": 0,
+        "stronghold_count":12,
+		"point_count": 5,
+		"weekly_times": 2,
+        "forever_occupy_time":600,
+        "top_rank_count": 20,
+        "rank_reward_req_count":8,
+		"sign_req_join_time":86400
+    }
+    
+   
+  }

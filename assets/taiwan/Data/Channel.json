@@ -1,0 +1,137 @@
+﻿[
+    {
+        "fields": {
+            "category_id": 2, 
+            "enable": 1, 
+            "id": 1, 
+            "name": "新手提問區"
+        }, 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "category_id": 2, 
+            "enable": 1, 
+            "id": 2, 
+            "name": "募集好友區"
+        }, 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "category_id": 3, 
+            "enable": 1, 
+            "id": 3, 
+            "name": "英靈討論區"
+        }, 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 4, 
+            "name": "協力徵求區"
+        }, 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 5, 
+            "name": "關卡攻略區"
+        }, 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 6, 
+            "name": "台灣北部交流區"
+        }, 
+        "pk": 6
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 7, 
+            "name": "台灣中部交流區"
+        }, 
+        "pk": 7
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 8, 
+            "name": "台灣南部交流區"
+        }, 
+        "pk": 8
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 9, 
+            "name": "台灣東部交流區"
+        }, 
+        "pk": 9
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 10, 
+            "name": "台灣離島交流區"
+        }, 
+        "pk": 10
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 11, 
+            "name": "香港地區交流區"
+        }, 
+        "pk": 11
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 12, 
+            "name": "澳門地區交流區"
+        }, 
+        "pk": 12
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 13, 
+            "name": "其他地區交流房"
+        }, 
+        "pk": 13
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 14, 
+            "name": "隨意交流1區"
+        }, 
+        "pk": 14
+    }, 
+    {
+        "fields": {
+            "category_id": 1, 
+            "enable": 1, 
+            "id": 15, 
+            "name": "隨意交流2區"
+        }, 
+        "pk": 15
+    }
+]

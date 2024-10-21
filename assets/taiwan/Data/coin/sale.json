@@ -1,0 +1,184 @@
+[
+    {
+        "fields": {
+            "additional_free_coin": 200, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "60\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+200\u500b", 
+            "id": 1, 
+            "name": "\u5e7b\u6676\u77f3 60\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.60"
+        }, 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 370, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "300\u500b+\u30dc\u30fc\u30ca\u30b9120\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+250\u500b", 
+            "id": 2, 
+            "name": "\u5e7b\u6676\u77f3 300\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.300"
+        }, 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 400, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "480\u500b+\u30dc\u30fc\u30ca\u30b9200\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+200\u500b", 
+            "id": 3, 
+            "name": "\u5e7b\u6676\u77f3 480\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.480"
+        }, 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 800, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "800\u500b+\u30dc\u30fc\u30ca\u30b9350\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+450\u500b", 
+            "id": 4, 
+            "name": "\u5e7b\u6676\u77f3 800\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.800"
+        }, 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 1900, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "1500\u500b+\u30dc\u30fc\u30ca\u30b9900\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+1000\u500b", 
+            "id": 5, 
+            "name": "\u5e7b\u6676\u77f3 1500\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.1500"
+        }, 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 4200, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "2900\u500b+\u30dc\u30fc\u30ca\u30b92100\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+2100\u500b", 
+            "id": 6, 
+            "name": "\u5e7b\u6676\u77f3 2900\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.2900"
+        }, 
+        "pk": 6
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 8600, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "5900\u500b+\u30dc\u30fc\u30ca\u30b94300\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+4300\u500b", 
+            "id": 7, 
+            "name": "\u5e7b\u6676\u77f3 5900\u500b", 
+            "platform": "ios", 
+            "product_id": "jp.co.gu3.alchemist.5900"
+        }, 
+        "pk": 7
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 200, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "60\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+200\u500b", 
+            "id": 8, 
+            "name": "\u5e7b\u6676\u77f3 60\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.60"
+        }, 
+        "pk": 8
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 370, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "300\u500b+\u30dc\u30fc\u30ca\u30b9120\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+250\u500b", 
+            "id": 9, 
+            "name": "\u5e7b\u6676\u77f3 300\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.300"
+        }, 
+        "pk": 9
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 400, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "480\u500b+\u30dc\u30fc\u30ca\u30b9200\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+200\u500b", 
+            "id": 10, 
+            "name": "\u5e7b\u6676\u77f3 480\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.480"
+        }, 
+        "pk": 10
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 800, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "800\u500b+\u30dc\u30fc\u30ca\u30b9350\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+450\u500b", 
+            "id": 11, 
+            "name": "\u5e7b\u6676\u77f3 800\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.800"
+        }, 
+        "pk": 11
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 1900, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "1500\u500b+\u30dc\u30fc\u30ca\u30b9900\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+1000\u500b", 
+            "id": 12, 
+            "name": "\u5e7b\u6676\u77f3 1500\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.1500"
+        }, 
+        "pk": 12
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 4200, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "2900\u500b+\u30dc\u30fc\u30ca\u30b92100\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+2100\u500b", 
+            "id": 13, 
+            "name": "\u5e7b\u6676\u77f3 2900\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.2900"
+        }, 
+        "pk": 13
+    }, 
+    {
+        "fields": {
+            "additional_free_coin": 8600, 
+            "condition_type": 1, 
+            "condition_value": "1.0", 
+            "description": "5900\u500b+\u30dc\u30fc\u30ca\u30b94300\u500b \u521d\u8cfc\u5165CP\u9650\u5b9a+4300\u500b", 
+            "id": 14, 
+            "name": "\u5e7b\u6676\u77f3 5900\u500b", 
+            "platform": "android", 
+            "product_id": "jp.co.gu3.alchemist.5900"
+        }, 
+        "pk": 14
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "fields": {
+            "id": 1, 
+            "push_flg": 0, 
+            "push_word": "午飯的時間咯！收取些AP吧！",
+            "trophy_iname": "DAILY_STAMINA101"
+        }, 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "id": 2, 
+            "push_flg": 0, 
+            "push_word": "晚飯的時間咯！收取些AP吧！",
+            "trophy_iname": "DAILY_STAMINA102"
+        }, 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "id": 3, 
+            "push_flg": 0, 
+            "push_word": "『蘋果的帝園』的時間咯！獲取蘋果吧！",
+            "trophy_iname": "DAILY_STAMINA103"
+        }, 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "id": 4, 
+            "push_flg": 0, 
+            "push_word": "午飯的時間咯！收取些AP吧！",
+            "trophy_iname": "DAILY_STAMINA106"
+        }, 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "id": 5, 
+            "push_flg": 0, 
+            "push_word": "『蘋果的帝園』的時間咯！獲取蘋果吧！",
+            "trophy_iname": "DAILY_STAMINA107"
+        }, 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "id": 6, 
+            "push_flg": 0, 
+            "push_word": "『蘋果的帝園』的時間咯！獲取蘋果吧！",
+            "trophy_iname": "DAILY_STAMINA108"
+        }, 
+        "pk": 6
+    }
+]
