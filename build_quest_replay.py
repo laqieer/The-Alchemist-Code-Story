@@ -123,6 +123,11 @@ titles = {
 for version in ('japan', 'taiwan', 'global'):
     print(f'Building quests & replay pages for {version}...')
 
+    def makeLink(textfilename):
+        if os.path.exists(f'docs/{version}/{textfilename}.html'):
+            return f'<a href="{textfilename}.html">{textfilename}</a>'
+        return textfilename
+
     worlds = {
         "WD_CHARA": {
             "iname": "WD_CHARA",
@@ -177,12 +182,12 @@ for version in ('japan', 'taiwan', 'global'):
                     f.write('<h3>{} {} {}</h3>\n'.format(quests[quest]['iname'], quests[quest].get('title', ''), quests[quest]['name']))
                     f.write('<ul>\n')
                     if 'evst' in quests[quest]:
-                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evst'], titles['start'][version], quests[quest]['evst']))
+                        f.write('<li>{}: {}</li>\n'.format(titles['start'][version], makeLink(quests[quest]['evst'])))
                     for m in quests[quest].get('map', []):
                         if 'ev' in m:
-                            f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(m['ev'], titles['battle'][version], m['ev']))
+                            f.write('<li>{}: {}</li>\n'.format(titles['battle'][version], makeLink(m['ev'])))
                     if 'evw' in quests[quest]:
-                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evw'], titles['clear'][version], quests[quest]['evw']))
+                        f.write('<li>{}: {}</li>\n'.format(titles['clear'][version], makeLink(quests[quest]['evw'])))
                     f.write('</ul>\n')
         f.write('</body>\n')
 
@@ -209,8 +214,8 @@ for version in ('japan', 'taiwan', 'global'):
                                     f.write('<h5>{} {}</h5>\n'.format(quests[quest].get('expr', ''), quests[quest]['name']))
                                     f.write('<ul>\n')
                                     if 'evst' in quests[quest]:
-                                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evst'], titles['start'][version], quests[quest]['evst']))
+                                        f.write('<li>{}: {}</li>\n'.format(titles['start'][version], makeLink(quests[quest]['evst'])))
                                     if 'evw' in quests[quest]:
-                                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evw'], titles['clear'][version], quests[quest]['evw']))
+                                        f.write('<li>{}: {}</li>\n'.format(titles['clear'][version], makeLink(quests[quest]['evw'])))
                                     f.write('</ul>\n')
         f.write('</body>\n')
