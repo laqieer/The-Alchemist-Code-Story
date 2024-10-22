@@ -1,12 +1,12 @@
 # The-Alchemist-Code-Story
 
-Story archive of [The Alchemist Code / 誰ガ為のアルケミスト / 為了誰的鍊金術師](https://al.fg-games.co.jp/)
+Story archive of [誰ガ為のアルケミスト / 為了誰的鍊金術師 / The Alchemist Code](https://al.fg-games.co.jp/)
 
 ## Story Archive
 
-- [Story Replay (ストーリー回想)](https://laqieer.github.io/The-Alchemist-Code-Story/replay.html)
-- [All Quests](https://laqieer.github.io/The-Alchemist-Code-Story/quests.html)
-- [All Texts](https://laqieer.github.io/The-Alchemist-Code-Story/all.html)
+- [誰ガ為のアルケミスト](https://laqieer.github.io/The-Alchemist-Code-Story/japan/index.html)
+- [為了誰的鍊金術師](https://laqieer.github.io/The-Alchemist-Code-Story/taiwan/index.html)
+- [The Alchemist Code](https://laqieer.github.io/The-Alchemist-Code-Story/global/index.html)
 
 ## Special Thanks
 

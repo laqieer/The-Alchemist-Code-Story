@@ -2,11 +2,6 @@ import os
 import json
 from enum import Enum
 
-QuestParam = {}
-
-with open('assets/japan/Data/QuestParam.json', 'r', encoding='utf-8') as f:
-    QuestParam = json.load(f)
-
 # Refre to: https://github.com/laqieer/Tagatame-Datamine/blob/main/DMM/Assembly-CSharp/SRPG/QuestTypes.cs
 class QuestTypes(Enum):
     Story = 0
@@ -43,8 +38,15 @@ class QuestTypes(Enum):
     NONE = 127
 
 # Refre to: res\Assembly-CSharp\DMM\SRPG\ReplayCategoryList.cs
+class ReplayCategoryType(Enum):
+    Invalid = -1
+    Story = 0
+    Event = 1
+    Character = 2
+    Movie = 3
+
 categories = {
-    "ストーリークエスト(Story Quest)": {
+    ReplayCategoryType.Story: {
         'worlds': [
             "WD_01",
             "WD_06",
@@ -59,102 +61,156 @@ categories = {
             "WD_SEISEKI",
             "WD_BABEL",
         ],
+        'name': {
+            'japan': 'ストーリークエスト',
+            'taiwan': '劇情任務',
+            'global': 'Story Quest',
+        }
     },
-    "イベントクエスト(Event Quest)": {
+    ReplayCategoryType.Event: {
         'worlds': [
             "WD_GENESIS",
             "WD_ADVANCE",
             "WD_DRAGONGOD",
             "WD_DAILY",
         ],
+        'name': {
+            'japan': 'イベントクエスト',
+            'taiwan': '活動任務',
+            'global': 'Event Quest',
+        }
     },
-    "キャラクタークエスト(Character Quest)": {
+    ReplayCategoryType.Character: {
         'worlds': [
             "WD_CHARA",
         ],
+        'name': {
+            'japan': 'キャラクタークエスト',
+            'taiwan': '角色任務',
+            'global': 'Character Quest',
+        }
     },
 }
 
-worlds = {
-    "WD_CHARA": {
-        "iname": "WD_CHARA",
-        "name": "キャラクタークエスト",
-        "areas": []
+titles = {
+    'quests': {
+        'japan': 'クエスト',
+        'taiwan': '任務',
+        'global': 'Quests',
+    },
+    'replay': {
+        'japan': 'ストーリー回想',
+        'taiwan': '劇情回顧',
+        'global': 'Story Replay',
+    },
+    'start': {
+        'japan': '開始前',
+        'taiwan': '開始前',
+        'global': 'Start',
+    },
+    'clear': {
+        'japan': 'クリア後',
+        'taiwan': '完成後',
+        'global': 'Clear',
+    },
+    'battle': {
+        'japan': 'バトル',
+        'taiwan': '戰鬥',
+        'global': 'Battle',
     },
 }
 
-for world in QuestParam['worlds']:
-    world['areas'] = []
-    worlds[world['iname']] = world
+for version in ('japan', 'taiwan', 'global'):
+    print(f'Building quests & replay pages for {version}...')
 
-areas = {}
+    worlds = {
+        "WD_CHARA": {
+            "iname": "WD_CHARA",
+            "name": "キャラクタークエスト",
+            "areas": []
+        },
+    }
 
-for area in QuestParam['areas']:
-    area['quests'] = []
-    areas[area['iname']] = area
-    if 'chap' in area:
-        worlds[area['chap']]['areas'].append(area['iname'])
+    QuestParam = {}
 
-quests = {}
-questTypes = {}
+    with open(f'assets/{version}/Data/QuestParam.json', 'r', encoding='utf-8') as f:
+        QuestParam = json.load(f)
 
-for questType in QuestTypes:
-    questTypes[questType] = []
+    for world in QuestParam['worlds']:
+        world['areas'] = []
+        worlds[world['iname']] = world
 
-for quest in QuestParam['quests']:
-    quests[quest['iname']] = quest
-    questTypes[QuestTypes(quest['type'])].append(quest['iname'])
-    if 'area' in quest:
-        areas[quest['area']]['quests'].append(quest['iname'])
+    areas = {}
 
-with open('docs/quests.html', 'w', encoding='utf-8') as f:
-    f.write('<!DOCTYPE html>\n')
-    f.write('<html>\n')
-    f.write('<head>\n')
-    f.write('<meta charset="utf-8">\n')
-    f.write('<title>Quest</title>\n')
-    f.write('<link rel="icon" href="img/favicons/favicon.ico">\n')
-    f.write('</head>\n')
-    f.write('<body>\n')
-    f.write('<h1>Quest</h1>\n')
+    for area in QuestParam['areas']:
+        area['quests'] = []
+        areas[area['iname']] = area
+        if 'chap' in area:
+            worlds[area['chap']]['areas'].append(area['iname'])
+
+    quests = {}
+    questTypes = {}
+
     for questType in QuestTypes:
-        f.write('<h2>{}</h2>\n'.format(questType.name))
-        for quest in questTypes[questType]:
-            f.write('<h3>{} {} {}</h3>\n'.format(quests[quest]['iname'], quests[quest].get('title', ''), quests[quest]['name']))
-            f.write('<ul>\n')
-            if 'evst' in quests[quest]:
-                f.write('<li><a href="{}.html">Start: {}</a></li>\n'.format(quests[quest]['evst'], quests[quest]['evst']))
-            for m in quests[quest].get('map', []):
-                if 'ev' in m:
-                    f.write('<li><a href="{}.html">Map: {}</a></li>\n'.format(m['ev'], m['ev']))
-            if 'evw' in quests[quest]:
-                f.write('<li><a href="{}.html">Clear: {}</a></li>\n'.format(quests[quest]['evw'], quests[quest]['evw']))
-            f.write('</ul>\n')
-    f.write('</body>\n')
+        questTypes[questType] = []
 
-with open('docs/replay.html', 'w', encoding='utf-8') as f:
-    f.write('<!DOCTYPE html>\n')
-    f.write('<html>\n')
-    f.write('<head>\n')
-    f.write('<meta charset="utf-8">\n')
-    f.write('<title>Story Replay</title>\n')
-    f.write('<link rel="icon" href="img/favicons/favicon.ico">\n')
-    f.write('</head>\n')
-    f.write('<body>\n')
-    f.write('<h1>ストーリー回想</h1>\n')
-    for category in categories:
-        f.write('<h2>{}</h2>\n'.format(category))
-        for world in categories[category]['worlds']:
-            f.write('<h3>{}</h3>\n'.format(worlds[world]['name']))
-            for area in worlds[world]['areas']:
-                f.write('<h4>{}</h4>\n'.format(areas[area]['name']))
-                for quest in areas[area]['quests']:
-                    if 'evst' in quests[quest] or 'evw' in quests[quest]:
-                        f.write('<h5>{} {}</h5>\n'.format(quests[quest].get('expr', ''), quests[quest]['name']))
-                        f.write('<ul>\n')
-                        if 'evst' in quests[quest]:
-                            f.write('<li><a href="{}.html">開始前: {}</a></li>\n'.format(quests[quest]['evst'], quests[quest]['evst']))
-                        if 'evw' in quests[quest]:
-                            f.write('<li><a href="{}.html">クリア後: {}</a></li>\n'.format(quests[quest]['evw'], quests[quest]['evw']))
-                        f.write('</ul>\n')
-    f.write('</body>\n')
+    for quest in QuestParam['quests']:
+        quests[quest['iname']] = quest
+        questTypes[QuestTypes(quest['type'])].append(quest['iname'])
+        if 'area' in quest and quest['area'] in areas:
+            areas[quest['area']]['quests'].append(quest['iname'])
+
+    with open(f'docs/{version}/quests.html', 'w', encoding='utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html>\n')
+        f.write('<head>\n')
+        f.write('<meta charset="utf-8">\n')
+        f.write(f'<title>{titles["quests"][version]}</title>\n')
+        f.write('<link rel="icon" href="../img/favicons/favicon.ico">\n')
+        f.write('</head>\n')
+        f.write('<body>\n')
+        f.write(f'<h1>{titles["quests"][version]}</h1>\n')
+        for questType in QuestTypes:
+            if len(questTypes[questType]) > 0:
+                f.write('<h2>{}</h2>\n'.format(questType.name))
+                for quest in questTypes[questType]:
+                    f.write('<h3>{} {} {}</h3>\n'.format(quests[quest]['iname'], quests[quest].get('title', ''), quests[quest]['name']))
+                    f.write('<ul>\n')
+                    if 'evst' in quests[quest]:
+                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evst'], titles['start'][version], quests[quest]['evst']))
+                    for m in quests[quest].get('map', []):
+                        if 'ev' in m:
+                            f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(m['ev'], titles['battle'][version], m['ev']))
+                    if 'evw' in quests[quest]:
+                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evw'], titles['clear'][version], quests[quest]['evw']))
+                    f.write('</ul>\n')
+        f.write('</body>\n')
+
+    with open(f'docs/{version}/replay.html', 'w', encoding='utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html>\n')
+        f.write('<head>\n')
+        f.write('<meta charset="utf-8">\n')
+        f.write(f'<title>{titles["replay"][version]}</title>\n')
+        f.write('<link rel="icon" href="../img/favicons/favicon.ico">\n')
+        f.write('</head>\n')
+        f.write('<body>\n')
+        f.write(f'<h1>{titles["replay"][version]}</h1>\n')
+        for category in categories:
+            f.write('<h2>{}</h2>\n'.format(categories[category]['name'][version]))
+            for world in categories[category]['worlds']:
+                if world in worlds:
+                    f.write('<h3>{}</h3>\n'.format(worlds[world]['name']))
+                    for area in worlds[world]['areas']:
+                        if len(areas[area]['quests']) > 0:
+                            f.write('<h4>{}</h4>\n'.format(areas[area]['name']))
+                            for quest in areas[area]['quests']:
+                                if 'evst' in quests[quest] or 'evw' in quests[quest]:
+                                    f.write('<h5>{} {}</h5>\n'.format(quests[quest].get('expr', ''), quests[quest]['name']))
+                                    f.write('<ul>\n')
+                                    if 'evst' in quests[quest]:
+                                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evst'], titles['start'][version], quests[quest]['evst']))
+                                    if 'evw' in quests[quest]:
+                                        f.write('<li><a href="{}.html">{}: {}</a></li>\n'.format(quests[quest]['evw'], titles['clear'][version], quests[quest]['evw']))
+                                    f.write('</ul>\n')
+        f.write('</body>\n')
