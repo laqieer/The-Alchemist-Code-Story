@@ -10,9 +10,9 @@ Story archive of [誰ガ為のアルケミスト / 為了誰的鍊金術師 / Th
 
 ## Special Thanks
 
-- [Game data & Japanese texts](https://github.com/K0lb3/The-Alchemist-Code---asset-downloader-and-extractor)
-- [Traditional Chinese texts](https://gitlab.com/the-alchemist-codes/taiwan/-/tree/master/Loc/japanese)
-- [English texts](https://gitlab.com/the-alchemist-codes/taiwan/-/tree/master/Loc/japanese)
+- [assets/japan](https://github.com/K0lb3/The-Alchemist-Code---asset-downloader-and-extractor)
+- [assets/taiwan](https://gitlab.com/the-alchemist-codes/taiwan)
+- [assets/global](https://gitlab.com/the-alchemist-codes/global)
 
 # The Alchemist Code - asset downloader & extractor
 
