@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "mo",
+    "UnitID": "UN_EV_MOCA",
+    "TextID": "QE04_4_1_08_b_2d.034",
+    "Emotion": "suffer",
+    "Async": 0
+}

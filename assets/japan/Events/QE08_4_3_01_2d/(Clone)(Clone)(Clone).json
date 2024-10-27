@@ -1,0 +1,24 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2201075670018311464
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "avi",
+    "Flip": 0,
+    "Position": 0,
+    "StandTemplate": {
+        "m_FileID": 0,
+        "m_PathID": -1895733780947670781
+    },
+    "Emotion": "normal",
+    "Async": 0,
+    "Fade": 0,
+    "FadeTime": 0.0
+}

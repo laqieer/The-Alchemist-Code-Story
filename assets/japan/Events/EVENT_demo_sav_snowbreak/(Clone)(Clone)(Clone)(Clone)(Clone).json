@@ -1,0 +1,27 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -783548642954573150
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "TargetID": "in_8_2",
+    "Curve": 0,
+    "Position": {
+        "x": 134.48770141601562,
+        "y": 49.536590576171875,
+        "z": -119.3416976928711
+    },
+    "Rotation": {
+        "x": 334.5138854980469,
+        "y": 315.0,
+        "z": 0.0
+    },
+    "Time": 0.0,
+    "Async": 0
+}

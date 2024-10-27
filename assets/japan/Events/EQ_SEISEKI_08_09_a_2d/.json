@@ -1,0 +1,22 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2917799026084539844
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5918873497100646735
+    },
+    "m_Name": "",
+    "CharaID": "",
+    "mClose": 0,
+    "FaceObject": {
+        "m_FileID": 0,
+        "m_PathID": 6777746773804447200
+    },
+    "BodyObject": {
+        "m_FileID": 0,
+        "m_PathID": 385663734532159492
+    }
+}

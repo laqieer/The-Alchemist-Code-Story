@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": 0.001361846923828125,
+                "value": 0.301910400390625,
+                "inSlope": 0.7188937664031982,
+                "outSlope": 0.7188937664031982,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.0533028170466423
+            },
+            {
+                "time": 1.0002189874649048,
+                "value": 0.9983473420143127,
+                "inSlope": 0.6914361715316772,
+                "outSlope": 0.6914361715316772,
+                "weightedMode": 0,
+                "inWeight": 0.05260411649942398,
+                "outWeight": 0.3333333432674408
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "shinri_normal",
+    "Time": 1.7000000476837158,
+    "async": 1
+}

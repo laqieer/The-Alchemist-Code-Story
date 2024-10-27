@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "att",
+    "UnitID": "UN_EV_ATTENDANT_KNIGHT",
+    "TextID": "CQ_LUCRETIA_03_b_2d.034",
+    "Emotion": "",
+    "Async": 0
+}

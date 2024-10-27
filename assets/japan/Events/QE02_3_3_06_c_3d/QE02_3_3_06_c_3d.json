@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "QE02_3_3_06_c_3d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2169853009219875590
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4617912304135524114
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -721206264162586149
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6155565136347764877
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2116246768936051290
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6597080004197151074
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7765017981483420879
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3380767136712049276
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8814905780308562636
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3009167275617483018
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4460829367856316474
+                }
+            ]
+        }
+    ]
+}

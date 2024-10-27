@@ -1,0 +1,71 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_UNDOUKAI_2017",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_DILGA_UNDOUKAI_2017",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_CAST_OFF_DILGA",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 8,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5347002616765318237
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4815108228881518945
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3687893073980884910
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_GORMALAS_UNDOUKAI_2017",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 8,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8120150033765749271
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6161670385310692878
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5054756652686870279
+                }
+            ]
+        }
+    ]
+}

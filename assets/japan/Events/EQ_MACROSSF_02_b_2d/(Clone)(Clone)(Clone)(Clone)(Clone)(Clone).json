@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3413575719097937229
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "Background": {
+        "m_FileID": 7,
+        "m_PathID": -8310328583776371114
+    },
+    "mBackGround": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

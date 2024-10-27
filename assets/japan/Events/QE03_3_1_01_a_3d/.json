@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1883525705356374985
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "rebe",
+    "UnitID": "UN_EV_REBECCA",
+    "JobID": "",
+    "Position": {
+        "x": 6.814458847045898,
+        "y": 0.0,
+        "z": -4.68034553527832
+    },
+    "Persistent": 0,
+    "Angle": 0,
+    "RotationX": 0.0,
+    "RotationY": 0.0,
+    "RotationZ": 0.0,
+    "ShowEquipments": 0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "Display": 1,
+    "Yuremono": 1,
+    "Posture": 1
+}

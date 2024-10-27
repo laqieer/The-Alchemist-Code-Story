@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_WAGINAO_KARUMA",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_DIABLO_WIZ_KARUMA_WIND",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_DIAB_KARUMA_NAKAMA_00",
+            "TargetUnit": "eall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1940599920008282488
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4782456236279860461
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5044496688062245451
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "sall",
+            "TargetUnit": "eall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 7,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 115656677761763680
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6781791010949476143
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -735888458154086149
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8410745453660988750
+                }
+            ]
+        }
+    ]
+}

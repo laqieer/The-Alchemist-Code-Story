@@ -1,0 +1,91 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_BEGINNER_TRAINING_01",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2525375577655216990
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5776003548360298295
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 687882601824742481
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3329099813991778226
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4716022733019096322
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2090032355800448195
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5906983894554821825
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7821434948158365359
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3051462190812749899
+                }
+            ]
+        },
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1966407985887970128
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7588074280959760846
+                }
+            ]
+        }
+    ]
+}

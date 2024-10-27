@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "shi",
+    "UnitID": "UN_V2_SHIRMA",
+    "TextID": "EQ_SHADOW_MESSIAH_01_b_2d.011",
+    "Emotion": "",
+    "Async": 0
+}

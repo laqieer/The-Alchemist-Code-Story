@@ -1,0 +1,79 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "0_7b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 105504085259143952
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2221321020829364352
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7238602441394455550
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6568486789424496723
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 653100631747966096
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1093118301612070711
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9218459275314842861
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 573398088083185293
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2226959604415691432
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8021993669949646509
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7267343782471430246
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1149658460937178851
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "peo",
+    "UnitID": "UN_EV_BOTAN",
+    "TextID": "EQ_FURY_CC_01_b_2d.085",
+    "Emotion": "smile_2_f",
+    "Async": 0
+}

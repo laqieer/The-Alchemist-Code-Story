@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 59738390680758542
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ResourceID": "seiseki04_ep_telop02",
+    "ObjectID": "telop",
+    "Persistent": 0,
+    "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

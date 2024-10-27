@@ -1,0 +1,15 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6434106588134871186
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "tapWaiting": 0,
+    "WaitSeconds": 1.5
+}

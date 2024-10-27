@@ -1,0 +1,155 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_EV_2020_QUIZ_QUEST_04",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_01",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7785996463577827797
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2077805500912164007
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8645957778291525094
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_02",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5430440734757929505
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3425378322091577285
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3371622468565215872
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_03",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5745012900710634105
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4967093255468975112
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6661901693121302854
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_06",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3101278515926145082
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6454137302252274097
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4509089252579947822
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_07",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2053500089417495555
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1277584509020040811
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9136865110092892001
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_2ANNIVERSARY",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_ALC_ISHIGAKI",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 8,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7701889016563721298
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 132560048343099549
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7583576139831972239
+                }
+            ]
+        }
+    ]
+}

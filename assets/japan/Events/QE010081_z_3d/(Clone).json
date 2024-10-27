@@ -1,0 +1,54 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -878433513311677787
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "demon",
+    "mPoints": [
+        {
+            "x": -1,
+            "y": 13
+        },
+        {
+            "x": -1,
+            "y": 12
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": -0.5,
+            "y": 2.4999961853027344,
+            "z": 13.5
+        },
+        {
+            "x": -0.5,
+            "y": 2.5,
+            "z": 12.5
+        }
+    ],
+    "Delay": 0.0,
+    "Async": 0,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 1,
+    "Angle": -1.0,
+    "MoveSnap": 1,
+    "GroundSnap": 0,
+    "LockMotion": 0,
+    "LockRotationX": 0,
+    "LockRotationY": 0,
+    "LockRotationZ": 0,
+    "RunType": 1,
+    "RunSpeed": 4.0,
+    "RunTime": 4.0,
+    "m_AnimationName": "",
+    "m_Loop": 0,
+    "m_AnimeType": 0,
+    "Path": 2
+}

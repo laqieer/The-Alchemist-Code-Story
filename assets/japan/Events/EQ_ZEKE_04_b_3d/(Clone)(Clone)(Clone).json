@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1883525705356374985
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "dios",
+    "UnitID": "UN_V2_DIOS",
+    "JobID": "JB_DIOS_ARM",
+    "Position": {
+        "x": -1.5,
+        "y": 0.0,
+        "z": 2.5
+    },
+    "Persistent": 0,
+    "Angle": 0,
+    "RotationX": 0.0,
+    "RotationY": 90.0,
+    "RotationZ": 0.0,
+    "ShowEquipments": 0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "Display": 1,
+    "Yuremono": 1,
+    "Posture": 1
+}

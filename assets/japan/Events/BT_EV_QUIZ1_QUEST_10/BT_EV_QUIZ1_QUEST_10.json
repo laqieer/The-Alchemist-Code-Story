@@ -1,0 +1,99 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_EV_QUIZ1_QUEST_10",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_01",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3399576819216413869
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -701084210560516297
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5707772888050702662
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_08",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7487015495606989774
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7635308618274589693
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3527147540377972761
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_L_UROB",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_09",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6761042925006492578
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7496193767592493569
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3002773370982837519
+                }
+            ]
+        }
+    ]
+}

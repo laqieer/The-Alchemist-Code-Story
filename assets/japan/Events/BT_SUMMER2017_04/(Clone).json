@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "GORMA",
+    "UnitID": "UN_V2_EN_GORMALAS_GORM",
+    "TextID": "BT_SUMMER2017_04.001",
+    "Async": 0,
+    "Emotion": 3,
+    "CustomEmotion": "gorm_swim_angry2",
+    "Position": 8
+}

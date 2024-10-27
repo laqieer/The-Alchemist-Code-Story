@@ -1,0 +1,67 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "EQ_beginner_bugu04_win",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4997035173790896316
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6013577027263938139
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5273144532288048332
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5650978972983777709
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2613185009440744813
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1665411397017142411
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8769691480552567680
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7766313860086263680
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8988910119779749691
+                }
+            ]
+        }
+    ]
+}

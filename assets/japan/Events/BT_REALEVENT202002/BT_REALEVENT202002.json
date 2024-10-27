@@ -1,0 +1,123 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_REALEVENT202002",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_ALC_TSK_4YEAR",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_01",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 1,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8346764975421577573
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1130989187570064659
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3680124518869365164
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 426546895724845692
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4157392678942281472
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -52911708485293923
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8029604965181326529
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_RAT_WIZ_FF_ADV",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_02",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2742472517798941489
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8690694343515654966
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9178201491737284686
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6842456962304044042
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4158325915324791343
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_ALC_TSK_4YEAR",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 12,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2505897281722195941
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3119971352932317765
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5423299662335190676
+                }
+            ]
+        }
+    ]
+}

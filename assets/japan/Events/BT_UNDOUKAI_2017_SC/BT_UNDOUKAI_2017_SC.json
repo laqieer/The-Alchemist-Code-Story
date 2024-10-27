@@ -1,0 +1,111 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_UNDOUKAI_2017_SC",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5728714745665993904
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6593716537232126146
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 506262359869036414
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2353757442609605287
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3691667589415224459
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_MAFIA_GUN_YATO_UNDOUKAI",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_GUN_SHOT_UNDOUKAI1",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7579235578474189267
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_MAFIA_GUN_YATO_UNDOUKAI",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_GUN_SHOT_UNDOUKAI2",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3764835515857510275
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_MAFIA_GUN_YATO_UNDOUKAI",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_GUN_SHOT_UNDOUKAI3",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4688777717020682532
+                }
+            ]
+        }
+    ]
+}

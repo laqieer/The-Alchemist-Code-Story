@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": 0.0005950927734375,
+                "value": 0.504974365234375,
+                "inSlope": 0.49454131722450256,
+                "outSlope": 0.49454131722450256,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.06614171713590622
+            },
+            {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.4895959496498108,
+                "outSlope": 0.4895959496498108,
+                "weightedMode": 0,
+                "inWeight": 0.07874024659395218,
+                "outWeight": 0.3333333432674408
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "sin_north_lost_eff",
+    "Time": 1.0,
+    "async": 1
+}

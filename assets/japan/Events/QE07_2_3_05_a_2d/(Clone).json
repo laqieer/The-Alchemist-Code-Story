@@ -1,0 +1,18 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2389773609836720109
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "CharaID": "lun",
+    "MoveTime": 0.30000001192092896,
+    "async": 1,
+    "MoveTo": 4,
+    "Emotion": "angry"
+}

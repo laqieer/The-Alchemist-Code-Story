@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "mal",
+    "UnitID": "UN_EV_MALTA",
+    "TextID": "EQ_KAMUI_MALTA_SKILL_01_a_2d.006",
+    "Emotion": "angry",
+    "Async": 0
+}

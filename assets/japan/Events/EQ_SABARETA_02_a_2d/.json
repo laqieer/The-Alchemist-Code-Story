@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "rami",
+    "UnitID": "UN_V2_LAMIA",
+    "TextID": "EQ_SABARETA_02_a_2d.029",
+    "Emotion": "",
+    "Async": 0
+}

@@ -1,0 +1,111 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_BEGINNER_TRAINING_05",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 578981764063108153
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9159934797689002947
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7727237927131821007
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5797023812414903572
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3020194972425066570
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4601053488808636696
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -265567789191015169
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2401505625442113744
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2495320725936112256
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2349578114078210839
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3344499130027586388
+                }
+            ]
+        },
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8707997962136636410
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8309706309489550301
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8317517175266606040
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -762150657858637607
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8902723060948705220
+                }
+            ]
+        }
+    ]
+}

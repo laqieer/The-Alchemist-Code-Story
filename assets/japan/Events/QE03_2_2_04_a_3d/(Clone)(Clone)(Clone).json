@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5483545608885598081
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "reve",
+    "Path": 0,
+    "AnimationName": "F_reve_demo_surprised_idle",
+    "AnimationType": 0,
+    "Delay": 0.0,
+    "Loop": 1,
+    "Async": 1
+}

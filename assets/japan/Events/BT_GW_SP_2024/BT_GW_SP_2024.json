@@ -1,0 +1,43 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_GW_SP_2024",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_L_UROB_LUROB03_GW_SP_2024",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_UROB_QUIZ_QUEST_2020_01",
+            "TargetUnit": "UN_V2_EN_LOGI_ARM_CP_QUEST_01",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 1,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7857949672327353350
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2960573780304441201
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5695206628339119365
+                }
+            ]
+        }
+    ]
+}

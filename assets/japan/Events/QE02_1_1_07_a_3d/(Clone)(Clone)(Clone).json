@@ -1,0 +1,25 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7448505764563368283
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "Mode": 0,
+    "FadeOut": 0,
+    "Async": 0,
+    "FadeTime": 0.0,
+    "FadeColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "ExcludeUnits": [],
+    "IncludeUnits": []
+}

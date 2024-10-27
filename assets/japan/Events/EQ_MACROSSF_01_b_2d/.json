@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3387704701428749066
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1147047076632355019
+    },
+    "m_Name": "",
+    "StandCharaList": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -8761611116432839243
+        }
+    ],
+    "CharaID": ""
+}

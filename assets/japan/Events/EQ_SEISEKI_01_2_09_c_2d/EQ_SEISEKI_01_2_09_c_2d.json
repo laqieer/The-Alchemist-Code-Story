@@ -1,0 +1,47 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "EQ_SEISEKI_01_2_09_c_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5141211429254201087
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3302737528671623109
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7906684398510405772
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8554049540506997076
+                }
+            ]
+        }
+    ]
+}

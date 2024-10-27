@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": -0.00087738037109375,
+                "value": 0.0,
+                "inSlope": 0.9084022045135498,
+                "outSlope": 0.4937410056591034,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.04367160424590111
+            },
+            {
+                "time": 1.001708984375,
+                "value": 0.49501800537109375,
+                "inSlope": 0.38617539405822754,
+                "outSlope": 0.38617539405822754,
+                "weightedMode": 0,
+                "inWeight": 0.051488328725099564,
+                "outWeight": 0.3333333432674408
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "nikusu_aura",
+    "Time": 0.0,
+    "async": 0
+}

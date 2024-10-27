@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "aiz",
+    "UnitID": "UN_V2_DUNG_AIZ",
+    "TextID": "EQ_DANMACHI_06_a_2d.001",
+    "Emotion": "",
+    "Async": 0
+}

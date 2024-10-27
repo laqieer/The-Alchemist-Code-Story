@@ -1,0 +1,223 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_SEISEKI_02_1_05_b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1359780003717792819
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5106452791951305111
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6851411672066196224
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6569237250083516661
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4507974273790342694
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3092310067448883947
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5095566083353545725
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6052945370500862039
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3784707421698716296
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7442000683799216338
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6941933159599695297
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5393228188241270027
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2342359303859305055
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 337530327702832736
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4377697489107806886
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3909783600786363508
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5910155868578957173
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2617709704370561194
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4650415683710973587
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -865613570717607711
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1469507753868453994
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7515652175916993878
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8521665426119759789
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3162676240384863210
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8834251810641657504
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4414709875421329086
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2997029357934136842
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2516414259321535538
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2699676856691772493
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3371419387990627782
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 9206493621032388501
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8964502306542334869
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7670921208562222888
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3695818010418395453
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2467974923139804458
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8849675386926458307
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1484845605843352353
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7574994097399254644
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1499283599575146218
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5523550800439344653
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5108653325525704721
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6593694132986856308
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6023489295135548243
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8724244621256790457
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6695931686782613434
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3323704425420529574
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5053444247196643337
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3047177394886720827
+                }
+            ]
+        }
+    ]
+}

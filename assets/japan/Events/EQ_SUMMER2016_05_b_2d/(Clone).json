@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "UN_V2_GORMALAS",
+    "UnitID": "UN_V2_GORMALAS",
+    "TextID": "EQ_SUMMER2016_05_b_2d.008",
+    "Emotion": "angry_f",
+    "Async": 0
+}

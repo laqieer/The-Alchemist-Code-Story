@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "nev",
+    "UnitID": "UN_EV_NEVILLE_NEW",
+    "TextID": "EQ_APRILFOOL2021_03_a_2d.031",
+    "Emotion": "",
+    "Async": 1
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "UN_V2_DIOS",
+    "UnitID": "UN_V2_DIOS",
+    "TextID": "QE010010_b_2d.007",
+    "Emotion": "suffer",
+    "Async": 0
+}

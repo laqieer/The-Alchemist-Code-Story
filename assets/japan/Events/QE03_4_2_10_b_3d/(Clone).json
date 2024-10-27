@@ -1,0 +1,37 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 953718689414465621
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "MoveMode": 0,
+    "ActorID": "",
+    "StartTargetPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "StartRotation": 0.0,
+    "StartCameraDistance": 0.0,
+    "StartCameraDistanceScale": 1.0,
+    "Speed": 0,
+    "TargetPosition": {
+        "x": 0.30000001192092896,
+        "y": 0.0,
+        "z": 0.800000011920929
+    },
+    "TargetRotation": -150.0,
+    "CameraDistance": 0.0,
+    "CameraDistanceScale": 0.75,
+    "MoveTime": 1.0,
+    "Async": 1,
+    "SnapToGround": 0,
+    "FadeMode": 0,
+    "FadeTime": 0.0
+}

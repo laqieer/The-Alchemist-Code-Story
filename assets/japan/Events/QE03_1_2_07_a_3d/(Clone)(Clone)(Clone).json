@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1883525705356374985
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "alba2",
+    "UnitID": "UN_V2_EN_ALBURMIN",
+    "JobID": "JB_BUG01",
+    "Position": {
+        "x": 3.5,
+        "y": 2.000000476837158,
+        "z": 5.5
+    },
+    "Persistent": 0,
+    "Angle": 0,
+    "RotationX": 0.0,
+    "RotationY": 90.0,
+    "RotationZ": 0.0,
+    "ShowEquipments": 0,
+    "MoveSnap": 1,
+    "GroundSnap": 1,
+    "Display": 0,
+    "Yuremono": 1,
+    "Posture": 0
+}

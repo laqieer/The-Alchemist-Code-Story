@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "ani",
+    "UnitID": "UN_EV_ANYM",
+    "TextID": "EQ_CANON_03_a_2d.038",
+    "Emotion": "",
+    "Async": 0
+}

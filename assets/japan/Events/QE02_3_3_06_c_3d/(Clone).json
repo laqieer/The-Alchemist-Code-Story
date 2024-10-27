@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "edga",
+    "UnitID": "UN_V2_EDGAR",
+    "TextID": "QE02_3_3_06_c_3d.005",
+    "Emotion": 3,
+    "CustomEmotion": "edga_surprised",
+    "Position": 8
+}

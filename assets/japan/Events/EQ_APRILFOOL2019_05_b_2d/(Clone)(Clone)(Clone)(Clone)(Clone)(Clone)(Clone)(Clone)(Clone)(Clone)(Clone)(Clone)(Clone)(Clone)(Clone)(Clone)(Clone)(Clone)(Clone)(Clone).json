@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "isi",
+    "UnitID": "UN_V2_EN_ALC_APL_ISHIGAKI",
+    "TextID": "EQ_APRILFOOL2019_05_b_2d.034",
+    "Emotion": "smile",
+    "Async": 0
+}

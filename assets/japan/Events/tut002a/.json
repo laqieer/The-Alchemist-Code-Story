@@ -1,0 +1,28 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4505632694103928817
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "vlad",
+    "mPoints": [
+        {
+            "x": 3,
+            "y": 6
+        },
+        {
+            "x": 3,
+            "y": 4
+        }
+    ],
+    "Delay": 0.0,
+    "Async": 1,
+    "GotoRealPosition": 0,
+    "Angle": -1.0
+}

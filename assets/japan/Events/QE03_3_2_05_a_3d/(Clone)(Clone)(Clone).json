@@ -1,0 +1,46 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6725700256428320393
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "alma",
+    "mPoints": [
+        {
+            "x": 8,
+            "y": 2
+        },
+        {
+            "x": 8,
+            "y": 2
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": 8.896276473999023,
+            "y": 0.0,
+            "z": 2.3480639457702637
+        },
+        {
+            "x": 8.340307235717773,
+            "y": 0.0,
+            "z": 2.8300981521606445
+        }
+    ],
+    "Delay": 0.0,
+    "Async": 0,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 0,
+    "Angle": 335.0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "RunSpeed": 4.0,
+    "LockRotation": 0,
+    "LockMotion": 0
+}

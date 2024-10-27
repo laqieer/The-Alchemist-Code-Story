@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "",
+    "UnitID": "UN_BERTRAND",
+    "TextID": "BT_UNDOUKAI_2017_SC.005",
+    "Emotion": 1,
+    "CustomEmotion": "",
+    "Position": 8
+}

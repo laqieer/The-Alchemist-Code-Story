@@ -1,0 +1,55 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6562509379640248604
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1147047076632355019
+    },
+    "m_Name": "",
+    "StandCharaList": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -4519646693092389142
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2611806025672849292
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4126362565113021835
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6496766713003120698
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8276454728145699016
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4370888710543629404
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3206234925174417601
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7000786420252014947
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7597493465522640527
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4349965553206805904
+        }
+    ],
+    "CharaID": ""
+}

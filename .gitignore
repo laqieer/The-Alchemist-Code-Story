@@ -99,3 +99,6 @@ venv.bak/
 assets/asset_list.txt
 
 assets/**/*Serialized.txt
+
+assets/japan/*
+!assets/japan/Events/

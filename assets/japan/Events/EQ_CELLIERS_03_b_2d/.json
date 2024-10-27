@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "mie",
+    "UnitID": "UN_V2_MIELIKKI",
+    "TextID": "EQ_CELLIERS_03_b_2d.031",
+    "Emotion": "normal",
+    "Async": 0
+}

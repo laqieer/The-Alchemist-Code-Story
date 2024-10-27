@@ -1,0 +1,34 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5195791095349775330
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ResourceID": "EventAssets/eff_p_demo_bugroar",
+    "ObjectID": "",
+    "Persistent": 0,
+    "Position": {
+        "x": 5.019000053405762,
+        "y": 1.184999942779541,
+        "z": 4.374000072479248
+    },
+    "Rotate_x": 0.0,
+    "Rotate_y": 0.0,
+    "Rotate_z": 0.0,
+    "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "mousepos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

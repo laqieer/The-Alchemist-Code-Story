@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "ha",
+    "UnitID": "UN_V2_FA_HAWKEYE",
+    "TextID": "EQ_HAGAREN_01_b_2d.003",
+    "Emotion": "",
+    "Async": 0
+}

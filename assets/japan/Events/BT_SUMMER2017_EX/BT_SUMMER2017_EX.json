@@ -1,0 +1,111 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_SUMMER2017_EX",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "dilga001",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_CAST_OFF_DILGA",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 2,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1314668267587088929
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6954545689955345108
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5394594536878764694
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4355296716214652345
+                }
+            ]
+        },
+        {
+            "UnitName": "dilga002",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_CAST_OFF_DILGA",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1833090889614804419
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6655812582567299742
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7892171371804478667
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2648842026157062591
+                }
+            ]
+        },
+        {
+            "UnitName": "dilga002",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 2,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1018281789271740033
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2610553192597766749
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4911286273439209071
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 287567520070207575
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5655129938688290934
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "Filename": "demo/event/sousei/sousei_1_op",
+    "FadeTime": 0.0,
+    "AutoFade": 0,
+    "FadeColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    }
+}

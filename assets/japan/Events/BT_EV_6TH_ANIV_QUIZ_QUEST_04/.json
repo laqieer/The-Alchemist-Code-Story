@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "UN_V2_L_UROB",
+    "UnitID": "UN_V2_L_UROB",
+    "TextID": "BT_EV_2020_APRIL_QUIZ_QUEST_01.002",
+    "Async": 0,
+    "Emotion": 0,
+    "CustomEmotion": "",
+    "Position": 8
+}

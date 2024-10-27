@@ -1,0 +1,311 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2117517939608324310
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -132856978005434239
+    },
+    "m_Name": "",
+    "m_Material": {
+        "m_FileID": 13,
+        "m_PathID": -7662909435634057434
+    },
+    "m_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "m_RaycastTarget": 1,
+    "m_RaycastPadding": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "updateMode": 0,
+    "emitterType": 1,
+    "coneEmitter": {
+        "Angle": {
+            "Min": -20.0,
+            "Max": 20.0
+        },
+        "Radius": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "RandomDirection": 0
+    },
+    "sphereEmitter": {
+        "Radius": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "Inverse": 0,
+        "RandomDirection": 0
+    },
+    "boxEmitter": {
+        "Width": 64.0,
+        "Height": 64.0,
+        "RandomDirection": 0
+    },
+    "RenderMode": 0,
+    "m_StretchBillboard": {
+        "LengthScale": 1.0,
+        "SpeedScale": 0.0
+    },
+    "duration": 1.0,
+    "emissionRate": 0.0,
+    "gravityMultipler": 0.0,
+    "loop": 1,
+    "maxParticles": 100,
+    "playbackSpeed": 1.0,
+    "startColor": {
+        "Min": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.5882353186607361
+        },
+        "Max": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.5882353186607361
+        }
+    },
+    "startDelay": 0.0,
+    "startLifetime": {
+        "Min": 3.0,
+        "Max": 3.0
+    },
+    "startRotation": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "startSize": {
+        "Min": 8.0,
+        "Max": 8.0
+    },
+    "startSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "emitterRotation": 0.0,
+    "angularVelocity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "angularVelocityEnable": 0,
+    "rotationOverLifetime": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "rotationOverLifetimeEnable": 0,
+    "colorOverLifetime": {
+        "key0": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.0
+        },
+        "key1": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "key2": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+        },
+        "key3": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "key4": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "key5": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "key6": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "key7": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 65535,
+        "ctime2": 0,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 6361,
+        "atime2": 32768,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_NumColorKeys": 2,
+        "m_NumAlphaKeys": 4
+    },
+    "colorOverLifetimeEnable": 1,
+    "sizeOverLifetime": {
+        "m_Curve": [
+            {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 2.877786874771118,
+                "outSlope": 2.877786874771118,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.3333333432674408
+            },
+            {
+                "time": 0.5385473966598511,
+                "value": 0.949999988079071,
+                "inSlope": 0.3896314203739166,
+                "outSlope": 0.3896314203739166,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.3333333432674408
+            },
+            {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.3333333432674408
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+    },
+    "sizeOverLifetimeEnable": 0,
+    "textureSheetAnimation": {
+        "TilesX": 4,
+        "TilesY": 4,
+        "FrameOverTime": {
+            "m_Curve": [
+                {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                },
+                {
+                    "time": 1.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+        },
+        "Animation": 0,
+        "Cycles": 1
+    },
+    "textureSheetAnimationEnable": 1,
+    "burst": {
+        "Points": [
+            {
+                "Time": 0.0,
+                "Count": 1
+            }
+        ]
+    },
+    "burstEnable": 1,
+    "velocityOverLifetime": {
+        "X": {
+            "m_Curve": [
+                {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                },
+                {
+                    "time": 1.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+        },
+        "Y": {
+            "m_Curve": [
+                {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                },
+                {
+                    "time": 1.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.3333333432674408,
+                    "outWeight": 0.3333333432674408
+                }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+        },
+        "ScaleX": 1.0,
+        "ScaleY": 1.0
+    },
+    "velocityOverLifetimeEnable": 0
+}

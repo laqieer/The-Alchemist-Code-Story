@@ -1,0 +1,59 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "EQ_beginner03_win",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4945616433144009310
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5288161492924083113
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5281978950860212573
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3794946877326479534
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5127466757141721219
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5928501326542444948
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2391238468588483615
+                }
+            ]
+        }
+    ]
+}

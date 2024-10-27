@@ -1,0 +1,43 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_SUMMER2017_05",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_GORMALAS_GORM",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_CAST_OFF_DILGA",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 415269054535963122
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6058994175313308195
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8489915464725577950
+                }
+            ]
+        }
+    ]
+}

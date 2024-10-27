@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "logi",
+    "UnitID": "UN_V2_LOGI",
+    "TextID": "EQ_beginner01_start.003",
+    "Emotion": "angry",
+    "Async": 0
+}

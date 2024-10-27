@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3499206786230215179
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ResourceID": "eff_p_demo_spellwater",
+    "ObjectID": "",
+    "Persistent": 0,
+    "Position": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 3.950000047683716
+    }
+}

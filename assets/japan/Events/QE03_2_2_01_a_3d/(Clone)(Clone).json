@@ -1,0 +1,46 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6725700256428320393
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "reve",
+    "mPoints": [
+        {
+            "x": 5,
+            "y": -2
+        },
+        {
+            "x": 5,
+            "y": 1
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": 5.0,
+            "y": 0.0,
+            "z": -2.0
+        },
+        {
+            "x": 5.0,
+            "y": 7.152557373046875e-07,
+            "z": 1.5
+        }
+    ],
+    "Delay": 0.0,
+    "Async": 0,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 0,
+    "Angle": -1.0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "RunSpeed": 4.0,
+    "LockRotation": 0,
+    "LockMotion": 0
+}

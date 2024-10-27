@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "LIESBET",
+    "UnitID": "UN_EV_DEMO_LIESBET",
+    "TextID": "QE03_1_2_03_b_2d.008",
+    "Emotion": "angry",
+    "Async": 0
+}

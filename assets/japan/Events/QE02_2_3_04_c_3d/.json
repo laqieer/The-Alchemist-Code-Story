@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "al",
+    "UnitID": "UN_V2_ALCHEMONO_CAP",
+    "TextID": "QE02_2_3_04_c_3d.001",
+    "Emotion": 3,
+    "CustomEmotion": "",
+    "Position": 8
+}

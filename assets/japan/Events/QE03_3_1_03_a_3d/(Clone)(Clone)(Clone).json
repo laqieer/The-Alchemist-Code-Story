@@ -1,0 +1,27 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6751420041486826175
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "TargetID": "wiz2start",
+    "Curve": 0,
+    "Position": {
+        "x": 6.599999904632568,
+        "y": -1000.0,
+        "z": 0.5
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Time": 0.0,
+    "Async": 0
+}

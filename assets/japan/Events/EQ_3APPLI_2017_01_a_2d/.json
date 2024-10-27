@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "???",
+    "UnitID": "UN_EV_UNKNOWN",
+    "TextID": "EQ_3APPLI_2017_01_a_2d.016",
+    "Emotion": "",
+    "Async": 0
+}

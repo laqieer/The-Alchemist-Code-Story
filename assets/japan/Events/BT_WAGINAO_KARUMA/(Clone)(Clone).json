@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+    "UnitID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+    "TextID": "BT_WAGINAO_KARUMA.002",
+    "Async": 1,
+    "Emotion": 0,
+    "CustomEmotion": "",
+    "Position": 8
+}

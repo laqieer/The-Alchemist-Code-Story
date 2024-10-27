@@ -1,0 +1,24 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2201075670018311464
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "hug",
+    "Flip": 0,
+    "Position": 6,
+    "StandTemplate": {
+        "m_FileID": 0,
+        "m_PathID": -4007015486241084173
+    },
+    "Emotion": "normal2_f",
+    "Async": 0,
+    "Fade": 0,
+    "FadeTime": 0.0
+}

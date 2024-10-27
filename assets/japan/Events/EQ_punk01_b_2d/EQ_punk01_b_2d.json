@@ -1,0 +1,95 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_punk01_b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4711638549069844574
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1665395309555976920
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4084680172935421480
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6402011945719309270
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 19887899909073960
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2488368168734660344
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1772758581254965589
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -296101592062368348
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2715351027738079100
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3169445141651783895
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2205464295296199031
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3148040204278692725
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8236720826270805527
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4572826445657200985
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3913835691454768386
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8609563944424303783
+                }
+            ]
+        }
+    ]
+}

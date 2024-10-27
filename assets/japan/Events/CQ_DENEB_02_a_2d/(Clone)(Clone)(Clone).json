@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6481697054982223898
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "sa",
+    "Flip": 0,
+    "Position": 0,
+    "StandTemplate": {
+        "m_FileID": 0,
+        "m_PathID": -8166566368073866424
+    },
+    "Emotion": "angry"
+}

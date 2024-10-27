@@ -1,0 +1,59 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "QE02_4_1_07_win",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1569527509352177557
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8499884568018858778
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7242392173951546988
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 199227448491526143
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3810698032159623858
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8217283672670948821
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1519875221422232763
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "dios",
+    "UnitID": "UN_V2_DIOS",
+    "TextID": "QE010120_b_3d.016",
+    "Emotion": 3,
+    "CustomEmotion": "dios_dark",
+    "Position": 8
+}

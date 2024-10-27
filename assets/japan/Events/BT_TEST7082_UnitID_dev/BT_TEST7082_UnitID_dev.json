@@ -1,0 +1,311 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_TEST7082_UnitID_dev",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 1,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7692307507068542276
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1019396898478582587
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8911885681731163214
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 50,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 2,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6849119196211929227
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4815621543294619733
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5403825959401859266
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2866135504373709147
+                }
+            ]
+        },
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8111148562300846191
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4452587392458928208
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5496212201993777344
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7924306883360038355
+                }
+            ]
+        },
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1090062573292262346
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8305295151077884643
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2630270601595981673
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -772196248158214905
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8368864353769308054
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 7,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4042090850799836776
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -63269205766245548
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3705917961183375112
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 8,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2570249362407801045
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5794393494859122030
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3787930346310326866
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "sall",
+            "TargetUnit": "other",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7020864678313112195
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7840674385196763443
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 530180145661945750
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "sall",
+            "TargetUnit": "other",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6734154568599787543
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1403519658695272645
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2392614701347398597
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 1,
+            "SkillCond": 1,
+            "Trigger": 14,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7337818134112560339
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -174405678373106774
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7379731823364371873
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_CLOE_GUA",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 15,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2852910685578261248
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6169239162332213259
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4124601523563231924
+                }
+            ]
+        }
+    ]
+}

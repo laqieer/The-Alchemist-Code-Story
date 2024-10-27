@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6481697054982223898
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "CharaID": "UN_AGATHA",
+    "Flip": 0,
+    "Position": 1,
+    "StandTemplate": {
+        "m_FileID": 0,
+        "m_PathID": -1074517225222332368
+    },
+    "Emotion": "angry"
+}

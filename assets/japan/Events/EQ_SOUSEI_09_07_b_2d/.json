@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "and",
+    "UnitID": "UN_EV_ANDECHS",
+    "TextID": "EQ_SOUSEI_09_07_b_2d.033",
+    "Emotion": "",
+    "Async": 0
+}

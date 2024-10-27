@@ -1,0 +1,26 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 673944718985072922
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "TargetID": "saro",
+    "LookAt": 1,
+    "LookAtID": "lies",
+    "LookAtPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "RotationMode": 0,
+    "Curve": 0,
+    "Time": 0.30000001192092896,
+    "Speed": 90.0,
+    "Rotate3D": 0
+}

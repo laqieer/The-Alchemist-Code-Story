@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "lim_s",
+    "UnitID": "UN_V2_TSP_RIMURU",
+    "TextID": "EQ_TENSURA_04_a_2d.055",
+    "Emotion": "angry",
+    "Async": 0
+}

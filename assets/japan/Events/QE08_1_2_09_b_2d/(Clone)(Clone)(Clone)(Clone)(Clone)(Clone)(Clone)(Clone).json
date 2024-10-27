@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3246462036193533027
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "kin",
+    "Duration": 0.5,
+    "FrequencyX": 20.0,
+    "FrequencyY": 0.0,
+    "AmplitudeX": 0.10000000149011612,
+    "AmplitudeY": 0.0,
+    "Async": 0
+}

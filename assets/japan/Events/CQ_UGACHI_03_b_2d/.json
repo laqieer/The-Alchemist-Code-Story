@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "uga",
+    "UnitID": "UN_V2_UGACHI",
+    "TextID": "CQ_UGACHI_03_b_2d.016",
+    "Emotion": "normal2_f",
+    "Async": 0
+}

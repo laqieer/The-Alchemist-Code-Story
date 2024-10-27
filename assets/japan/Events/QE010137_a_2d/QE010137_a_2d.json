@@ -1,0 +1,139 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "QE010137_a_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8793045846003949621
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1278104832756167171
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 268104507715421213
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8724835580191907176
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8259651896590905186
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4316322911875569985
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6023864897927287800
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6687623596097707709
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5327502915396885293
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2069541723613291152
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4043966204113940144
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3047083948903642847
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7782719337379469977
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6773372690054336785
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 231883185028377197
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6116207618004750437
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2602752641367025967
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2009208332055573622
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2242292399781017040
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7827218770210225944
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7801678831327749615
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -776321062979366455
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4345455821840090413
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7746285337269862719
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 346069341257373900
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6003084155990492755
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3509998068781309453
+                }
+            ]
+        }
+    ]
+}

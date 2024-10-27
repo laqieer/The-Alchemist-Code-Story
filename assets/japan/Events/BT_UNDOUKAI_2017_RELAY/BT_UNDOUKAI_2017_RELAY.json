@@ -1,0 +1,47 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_UNDOUKAI_2017_RELAY",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4809855644914116457
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3575107992183949819
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3639244145035276039
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4991271280541757563
+                }
+            ]
+        }
+    ]
+}

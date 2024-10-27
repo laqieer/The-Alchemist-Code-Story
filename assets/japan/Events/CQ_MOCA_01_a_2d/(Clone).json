@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": -0.006298065185546875,
+                "value": 0.501190185546875,
+                "inSlope": -0.5027426481246948,
+                "outSlope": -0.5027426481246948,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.3333333432674408
+            },
+            {
+                "time": 1.0,
+                "value": -0.004718780517578125,
+                "inSlope": -0.5027426481246948,
+                "outSlope": -0.5027426481246948,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.0
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "windaura01",
+    "Time": 0.5,
+    "async": 0
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "nat",
+    "UnitID": "UN_V2_NATALIE",
+    "TextID": "EQ_VETTEL_CC_05_b_2d.022",
+    "Emotion": "",
+    "Async": 0
+}

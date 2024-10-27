@@ -1,0 +1,24 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5294899738857500073
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "mob2",
+    "UnitID": "UN_V2_EN_LIZARDMEN_LAN",
+    "JobID": "JB_ARM",
+    "Position": {
+        "x": 5,
+        "y": 9
+    },
+    "Persistent": 0,
+    "Angle": 175,
+    "ShowEquipments": 1,
+    "Posture": 0
+}

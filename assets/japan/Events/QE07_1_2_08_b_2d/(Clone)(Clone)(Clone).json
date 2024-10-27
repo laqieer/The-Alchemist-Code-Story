@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8833393305194462000
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "SE": "SE_8505",
+    "Loop": 0,
+    "Interval": 1.0,
+    "Count": 1,
+    "async": 0,
+    "SE_ID": ""
+}

@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1353158452554579591
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "TargetID": "matt",
+    "LookAt": 0,
+    "LookAtID": "",
+    "LookAtPosition": {
+        "x": 5.0,
+        "y": 9.5367431640625e-07,
+        "z": 2.0
+    },
+    "RotationMode": 0,
+    "Curve": 0,
+    "Time": 0.5,
+    "Speed": 90.0,
+    "Async": 1,
+    "Rotate3D": 0,
+    "m_MoveSnap": 1,
+    "Reverse": 1,
+    "RotateX": 0.0,
+    "RotateY": 0.0,
+    "RotateZ": 0.0
+}

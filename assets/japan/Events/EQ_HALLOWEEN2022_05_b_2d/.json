@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "",
+    "UnitID": "UN_V2_LEYCHEL",
+    "TextID": "EQ_HALLOWEEN2022_05_b_2d.051",
+    "Emotion": "",
+    "Async": 0
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "moca",
+    "UnitID": "UN_EV_MOCA",
+    "TextID": "QE04_2_3_04_a_2d.010",
+    "Emotion": "normal",
+    "Async": 0
+}

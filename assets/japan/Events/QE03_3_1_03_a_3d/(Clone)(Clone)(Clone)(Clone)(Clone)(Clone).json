@@ -1,0 +1,34 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2151768343085677803
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ResourceID": "Demo/EventAssets/3D/eff_p_demo_magic_aura_red",
+    "ObjectID": "",
+    "Persistent": 0,
+    "Position": {
+        "x": 6.5,
+        "y": 2.0,
+        "z": 5.5
+    },
+    "Rotate_x": 0.0,
+    "Rotate_y": 0.0,
+    "Rotate_z": 0.0,
+    "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "mousepos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

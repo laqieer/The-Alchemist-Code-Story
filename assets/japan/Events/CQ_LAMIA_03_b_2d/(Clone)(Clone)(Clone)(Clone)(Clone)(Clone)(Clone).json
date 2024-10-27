@@ -1,0 +1,23 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5091318333753100476
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ResourceID": "Demo/EventAssets/2D/demo_cut_lamia",
+    "ObjectID": "demo_cut",
+    "Persistent": 0,
+    "Position": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Order": 0,
+    "CharaID": "",
+    "ChildOrder": 0
+}

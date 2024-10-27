@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "EQ_beginner_bugu05_win",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 3,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1470215727694767768
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6603635021093181747
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4982230468993461366
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6242269719444203948
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1093034588197451527
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5000895171117495415
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7650692358691617084
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4182875004241101656
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4372815294135986389
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7627258687621145988
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7511083473417582102
+                }
+            ]
+        }
+    ]
+}

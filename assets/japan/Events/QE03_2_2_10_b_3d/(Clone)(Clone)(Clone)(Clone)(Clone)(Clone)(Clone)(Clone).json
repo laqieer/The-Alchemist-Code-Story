@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6725700256428320393
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "lies",
+    "mPoints": [
+        {
+            "x": 4,
+            "y": 5
+        },
+        {
+            "x": 2,
+            "y": 5
+        },
+        {
+            "x": 2,
+            "y": 4
+        },
+        {
+            "x": 5,
+            "y": 4
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": 4.895671844482422,
+            "y": 0.0,
+            "z": 5.989867687225342
+        },
+        {
+            "x": 2.5,
+            "y": 0.0,
+            "z": 5.9898681640625
+        },
+        {
+            "x": 2.5,
+            "y": 0.0,
+            "z": 4.5
+        },
+        {
+            "x": 5.5,
+            "y": 0.0,
+            "z": 4.0
+        }
+    ],
+    "Delay": 0.30000001192092896,
+    "Async": 1,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 0,
+    "Angle": 0.0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "RunSpeed": 4.0,
+    "LockRotation": 0,
+    "LockMotion": 0
+}

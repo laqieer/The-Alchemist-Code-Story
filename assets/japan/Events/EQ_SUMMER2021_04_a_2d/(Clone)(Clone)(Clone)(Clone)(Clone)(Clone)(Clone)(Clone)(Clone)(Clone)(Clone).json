@@ -1,0 +1,18 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2389773609836720109
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "mon2",
+    "MoveTime": 0.0,
+    "async": 0,
+    "MoveTo": 1,
+    "Emotion": ""
+}

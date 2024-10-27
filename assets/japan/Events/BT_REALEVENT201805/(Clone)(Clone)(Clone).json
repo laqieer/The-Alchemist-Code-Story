@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "UN_V2_ALC_ISHIGAKI_KOBE",
+    "UnitID": "UN_V2_ALC_ISHIGAKI_KOBE",
+    "TextID": "BT_REALEVENT201805.003",
+    "Async": 0,
+    "Emotion": 3,
+    "CustomEmotion": "alc_ishi_kansai_smile2",
+    "Position": 8
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "aga",
+    "UnitID": "UN_EV_AGASA",
+    "TextID": "EQ_APRILFOOL2019_01_b_2d.019",
+    "Emotion": "angry",
+    "Async": 0
+}

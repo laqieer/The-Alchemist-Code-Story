@@ -1,0 +1,95 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_breflo02_a_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3137031173696191782
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5244642997978185393
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2957938645491285354
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 770008312300313114
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7841462796542649699
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5952927093212343051
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2362239167344624505
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2392391128512427706
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4819309470474149670
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -358176934750193062
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2147910213842603551
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 879505867098978440
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2295507332126589491
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6753408347187346868
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4665113540025664104
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 9221012078668136651
+                }
+            ]
+        }
+    ]
+}

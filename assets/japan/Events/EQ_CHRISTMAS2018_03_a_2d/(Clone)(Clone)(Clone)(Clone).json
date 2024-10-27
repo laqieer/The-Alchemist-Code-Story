@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3246462036193533027
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "yuu",
+    "Duration": 0.20000000298023224,
+    "FrequencyX": 0.0,
+    "FrequencyY": 18.0,
+    "AmplitudeX": 0.0,
+    "AmplitudeY": 0.03999999910593033,
+    "Async": 1
+}

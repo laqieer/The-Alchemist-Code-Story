@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": 0.0,
+                "value": 0.9875030517578125,
+                "inSlope": -0.8684341907501221,
+                "outSlope": -0.8684341907501221,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.3333333432674408
+            },
+            {
+                "time": 1.0083585977554321,
+                "value": -0.05452387407422066,
+                "inSlope": -0.9582852125167847,
+                "outSlope": -0.9582852125167847,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.3333333432674408
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "chalice_alive_move_eff_l",
+    "Time": 0.800000011920929,
+    "async": 1
+}

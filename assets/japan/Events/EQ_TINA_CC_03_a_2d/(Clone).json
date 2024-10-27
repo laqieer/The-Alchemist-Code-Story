@@ -1,0 +1,16 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3627862780342015894
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "CharaID": "jam_2",
+    "FadeTime": 1.0,
+    "Async": 1
+}

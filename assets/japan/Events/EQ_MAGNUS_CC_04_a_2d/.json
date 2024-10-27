@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "rui",
+    "UnitID": "UN_V2_RYUI",
+    "TextID": "EQ_MAGNUS_CC_04_a_2d.015",
+    "Emotion": "normal",
+    "Async": 0
+}

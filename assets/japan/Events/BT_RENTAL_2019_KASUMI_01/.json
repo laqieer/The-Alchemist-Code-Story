@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "UN_V2_KASUMI",
+    "UnitID": "UN_V2_KASUMI",
+    "TextID": "BT_RENTAL_2019_KASUMI_01.003",
+    "Emotion": 0,
+    "CustomEmotion": "",
+    "Position": 0
+}

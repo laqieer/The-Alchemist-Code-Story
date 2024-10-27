@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_RENTAL_2019_KASUMI_01",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_MOVIE_DEMON_WIZ",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 9,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4334294941348373734
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 148218372173918862
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7947868940608151131
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4839748523015842300
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_MOVIE_EDGAR_DRI",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "SK_DRI_CHARGE_SHOT",
+            "TargetUnit": "UN_V2_EN_MOVIE_DEMON_WIZ",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 11,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6865592093836294186
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8388753171696246591
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5672455199535817
+                }
+            ]
+        }
+    ]
+}

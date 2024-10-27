@@ -1,0 +1,37 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6725700256428320393
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "eleo",
+    "mPoints": [
+        {
+            "x": 16,
+            "y": 6
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": 16.27695083618164,
+            "y": 0.0,
+            "z": 6.5
+        }
+    ],
+    "Delay": 0.6000000238418579,
+    "Async": 0,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 0,
+    "Angle": 270.0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "RunSpeed": 3.0,
+    "LockRotation": 0,
+    "LockMotion": 0
+}

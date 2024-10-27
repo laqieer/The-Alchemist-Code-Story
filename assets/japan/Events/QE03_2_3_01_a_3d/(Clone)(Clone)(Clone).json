@@ -1,0 +1,17 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -321327961204804743
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "SceneID": "chapter3_02_siro",
+    "FadeIn": 1,
+    "WaitFadeIn": 0,
+    "FadeInTime": 3.0
+}

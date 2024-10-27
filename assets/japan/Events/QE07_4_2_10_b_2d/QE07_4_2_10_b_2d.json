@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "QE07_4_2_10_b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2791941041995565277
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 549824145260624923
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7872378105702237278
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5578307319725227584
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2136257042921989075
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2385653552947057943
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1710002919428980572
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5307788384410966667
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4966484584417679391
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 329904047397793871
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4519380652762397520
+                }
+            ]
+        }
+    ]
+}

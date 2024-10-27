@@ -1,0 +1,17 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5355917268972001696
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "Detach": 0,
+    "AttachmentID": "wpn_lies",
+    "TargetID": "lies2",
+    "BoneName": "Bip001_pos"
+}

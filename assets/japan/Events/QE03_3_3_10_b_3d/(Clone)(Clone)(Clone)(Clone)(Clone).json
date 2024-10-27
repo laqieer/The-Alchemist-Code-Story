@@ -1,0 +1,27 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -783548642954573150
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "TargetID": "demo_cut",
+    "Curve": 0,
+    "Position": {
+        "x": -12.739999771118164,
+        "y": -12.5600004196167,
+        "z": -6.829999923706055
+    },
+    "Rotation": {
+        "x": 45.0,
+        "y": 59.9999885559082,
+        "z": -4.346705827629194e-05
+    },
+    "Time": 0.0,
+    "Async": 0
+}

@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6481697054982223898
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "UN_V2_RINN",
+    "Flip": 0,
+    "Position": 0,
+    "StandTemplate": {
+        "m_FileID": 0,
+        "m_PathID": 456514690772472836
+    },
+    "Emotion": "angry"
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "nao",
+    "UnitID": "UN_V2_SB_NAOFUMI",
+    "TextID": "EQ_TATENOYUUSYA_09_a_2d.068",
+    "Emotion": "",
+    "Async": 0
+}

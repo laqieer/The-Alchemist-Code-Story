@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "CLOE",
+    "UnitID": "UN_V2_CLOE",
+    "TextID": "BT_TEST7082_UnitID_dev.006",
+    "Async": 0,
+    "Emotion": 3,
+    "CustomEmotion": "urob_none",
+    "Position": 8
+}

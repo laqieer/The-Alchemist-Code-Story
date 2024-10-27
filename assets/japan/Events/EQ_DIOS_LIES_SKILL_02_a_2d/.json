@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "lies",
+    "UnitID": "UN_V2_EN_LIESBET",
+    "TextID": "EQ_DIOS_LIES_SKILL_02_a_2d.053",
+    "Emotion": "sad",
+    "Async": 0
+}

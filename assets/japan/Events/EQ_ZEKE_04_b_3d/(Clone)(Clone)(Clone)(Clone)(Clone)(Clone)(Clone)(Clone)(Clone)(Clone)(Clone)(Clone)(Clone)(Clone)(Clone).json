@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7140539900560149566
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "logi",
+    "AnimationName": "M_logi_sei_zeke_05",
+    "AnimationType": 0,
+    "Delay": 0.0,
+    "Interp": 0.10000000149011612,
+    "Loop": 1,
+    "Async": 1,
+    "ApplyRootBoneAtEnd": 0
+}

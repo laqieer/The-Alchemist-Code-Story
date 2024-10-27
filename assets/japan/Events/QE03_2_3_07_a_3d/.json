@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "reve",
+    "UnitID": "UN_EV_REBECCA",
+    "TextID": "QE03_2_3_07_a_3d.001",
+    "Async": 1,
+    "Emotion": 0,
+    "CustomEmotion": "ev_reve_suffer",
+    "Position": 2
+}

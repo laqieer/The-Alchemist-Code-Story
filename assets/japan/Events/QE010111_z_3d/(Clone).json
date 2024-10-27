@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "agat",
+    "UnitID": "UN_AGATHA",
+    "TextID": "QE010111_z_3d.013",
+    "Emotion": 3,
+    "CustomEmotion": "",
+    "Position": 8
+}

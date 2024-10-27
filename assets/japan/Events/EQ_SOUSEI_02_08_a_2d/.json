@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "nik",
+    "UnitID": "UN_V2_ST_NIKUSU",
+    "TextID": "EQ_SOUSEI_02_08_a_2d.095",
+    "Emotion": "angry",
+    "Async": 0
+}

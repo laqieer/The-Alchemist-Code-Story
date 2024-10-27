@@ -1,0 +1,46 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6725700256428320393
+    },
+    "m_Name": "(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "wiz6",
+    "mPoints": [
+        {
+            "x": 5,
+            "y": 5
+        },
+        {
+            "x": 5,
+            "y": 3
+        }
+    ],
+    "m_WayPoints": [
+        {
+            "x": 5.5,
+            "y": -8.940696716308594e-08,
+            "z": 5.5
+        },
+        {
+            "x": 5.454999923706055,
+            "y": 0.049223899841308594,
+            "z": 3.615999937057495
+        }
+    ],
+    "Delay": 0.0,
+    "Async": 1,
+    "GotoRealPosition": 0,
+    "m_StartActorPos": 0,
+    "Angle": 210.0,
+    "MoveSnap": 0,
+    "GroundSnap": 1,
+    "RunSpeed": 4.0,
+    "LockRotation": 0,
+    "LockMotion": 0
+}

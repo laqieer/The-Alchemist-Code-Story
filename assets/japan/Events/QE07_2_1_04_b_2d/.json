@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "dio",
+    "UnitID": "UN_V2_DIOS",
+    "TextID": "QE07_2_1_04_b_2d.012",
+    "Emotion": "",
+    "Async": 0
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9040903478319963407
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "aj40",
+    "UnitID": "UN_V2_EN_AJ4000",
+    "TextID": "QE02_2_3_09_c_3d.002",
+    "Emotion": 0,
+    "CustomEmotion": "",
+    "Position": 8
+}

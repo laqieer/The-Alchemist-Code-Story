@@ -1,0 +1,119 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_SOUSEI_07_05_b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1922586139695391122
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1515597978112594614
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8801026952117710308
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2796306549331055551
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2562868830904649677
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6987161790549285544
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8599905294830964050
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6710774730894149922
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1015865659718771868
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2824119784734970975
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8854398740860090353
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7508308525046094038
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6090463638884180777
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8573460754012037802
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3473201230017188958
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5584347602521427242
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8248929965830530929
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8318800103482278906
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2685345278090997239
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1457205123150598103
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7119872574184534759
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8275030627783162797
+                }
+            ]
+        }
+    ]
+}

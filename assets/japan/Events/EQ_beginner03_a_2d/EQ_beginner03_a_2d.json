@@ -1,0 +1,95 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_beginner03_a_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4229946033664625205
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7444191376949021241
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2014995661391004436
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -681469398249594837
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2550333029451978155
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8109138077644556683
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 9172655354106671632
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9112256091260018806
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4895087523092291938
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3747816460774598166
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3090070247687457366
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3238161177999841354
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3563405838409913637
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9178917018581450330
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7065434245055913059
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5909905052601451405
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "REBECCA",
+    "UnitID": "UN_EV_REBECCA",
+    "TextID": "QE03_1_1_08_a_2d.011",
+    "Emotion": "sad2",
+    "Async": 0
+}

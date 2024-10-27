@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6268011091979991692
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "Curve": {
+        "m_Curve": [
+            {
+                "time": -0.00168609619140625,
+                "value": 1.00494384765625,
+                "inSlope": -1.0056294202804565,
+                "outSlope": -1.0056294202804565,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.3333333432674408
+            },
+            {
+                "time": 1.0025634765625,
+                "value": -0.0049591064453125,
+                "inSlope": -1.0056294202804565,
+                "outSlope": -1.0056294202804565,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.0
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "CanvasID": "amane2_gru_core_canvas",
+    "Time": 0.0,
+    "async": 0
+}

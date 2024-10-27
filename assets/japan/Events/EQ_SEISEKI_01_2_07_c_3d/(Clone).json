@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5918309116197666029
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "UN_V2_CADANOVA",
+    "UnitID": "UN_V2_CANON",
+    "TextID": "EQ_SEISEKI_01_2_07_c_3d.002",
+    "Async": 0,
+    "Emotion": 0,
+    "CustomEmotion": "cano_c_suffer",
+    "Position": 8
+}

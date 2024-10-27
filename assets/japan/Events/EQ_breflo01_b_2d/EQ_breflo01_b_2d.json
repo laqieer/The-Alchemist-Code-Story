@@ -1,0 +1,131 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "EQ_breflo01_b_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5288011905273442101
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8203472798717036023
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -395298252530391899
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1899238146795082945
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2693289516468349644
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2794287353158064225
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1111031778444283010
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3965503328462343647
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9147336361324211267
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5570442835020980221
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 6804477478659586851
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6125106127536679204
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1760116042292971422
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4200087053990454447
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1536701942392614036
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1655766564505107765
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 833547083161452370
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8327405576809044597
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4724260665905625906
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2509069605599627047
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4900449682722701553
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2635936999849383632
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5661925000756482541
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5944407072958103355
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1195691594953161902
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5527745578678275596
+    },
+    "m_Name": "QE010081_a_2d",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "",
+            "Percentage": 0,
+            "Turn": 0,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 0,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5219524858760638182
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6649239022839001753
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1347048023227506082
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3800374183485060630
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7939351175502828375
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 957823775238692564
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6062648544650968116
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2374771021047725992
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -5969517520116584463
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3001028670733623451
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4408018114465643181
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7141479461345979946
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -610201494415817053
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6474350029417411260
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2724606466964458605
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7440993455027047940
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1096673604131043279
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6376137937168409002
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8435691847848427471
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1707406946161980795
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -6395976141894097778
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4244043815154351153
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -9028467355854462915
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3786178065032634383
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1651186253997993213
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 194747248855075744
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2943773439321070596
+                }
+            ]
+        }
+    ]
+}

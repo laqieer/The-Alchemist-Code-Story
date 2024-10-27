@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "cadanova2",
+    "UnitID": "UN_V2_CADANOVA",
+    "TextID": "EQ_SEISEKI_01_2_07_a_2d.026",
+    "Emotion": "angry_f",
+    "Async": 0
+}

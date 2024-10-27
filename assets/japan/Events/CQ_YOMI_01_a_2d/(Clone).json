@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "UN_V2_ARKILL",
+    "UnitID": "UN_V2_ARKILL",
+    "TextID": "CQ_YOMI_01_a_2d.017",
+    "Emotion": "normal2",
+    "Async": 0
+}

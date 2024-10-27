@@ -1,0 +1,17 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8977471771070339044
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "kaza",
+    "MoveTime": 0.0,
+    "async": 0,
+    "MoveTo": 3
+}

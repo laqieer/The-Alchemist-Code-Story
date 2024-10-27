@@ -1,0 +1,16 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1117765717447653745
+    },
+    "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+    "Skip": 0,
+    "CharaID": "UN_V2_EDGAR",
+    "MoveTime": 0.0,
+    "MoveTo": 5
+}

@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "eve",
+    "UnitID": "UN_V2_EVERICA",
+    "TextID": "EQ_OTSUKIMI_2019_03_a_2d.026",
+    "Emotion": "",
+    "Async": 0
+}

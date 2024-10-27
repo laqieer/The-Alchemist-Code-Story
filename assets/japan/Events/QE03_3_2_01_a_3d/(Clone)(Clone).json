@@ -1,0 +1,18 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8867843248248636556
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ActorID": "alba3",
+    "AnimationName": "M_cmn_demo_posreset",
+    "AnimationType": 0,
+    "Loop": 0,
+    "Async": 0
+}

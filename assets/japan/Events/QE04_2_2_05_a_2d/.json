@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "hoo",
+    "UnitID": "UN_EV_HOO",
+    "TextID": "QE04_2_2_05_a_2d.001",
+    "Emotion": "angry",
+    "Async": 0
+}

@@ -1,0 +1,103 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_REALEVENT201805",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_ALC_ISHIGAKI_KOBE",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "SK_CAST_OFF_DILGA",
+            "TargetUnit": "pall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -2637416919098395118
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -810164399182240858
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3850519519939157564
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_EN_JAMB_AVENGERS_MFEN",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "sall",
+            "TargetUnit": "eall",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 6,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7083967393225387581
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1923998811854595062
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -7873366138507813510
+                }
+            ]
+        },
+        {
+            "UnitName": "UN_V2_ALC_ISHIGAKI_KOBE",
+            "Percentage": 0,
+            "Turn": 2,
+            "GridXY": "",
+            "RestHP": "",
+            "SkillTiming": 0,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 1,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 1,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 5632044595646409028
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 7678650819269587794
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -1395228556499815761
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4828331928241252058
+                }
+            ]
+        }
+    ]
+}

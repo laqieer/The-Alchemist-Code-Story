@@ -1,0 +1,79 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 420353985637029438
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1147047076632355019
+    },
+    "m_Name": "",
+    "StandCharaList": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 8399592696011592201
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 291472264802634563
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3046740379584471095
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1821098552417069901
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6889601594675750998
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4433756480358133333
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -884812589624762253
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8174276746474540190
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6474717680005738889
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6697044406512334568
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -56488735958298126
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6838775686456511482
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -3914963335136261259
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5298131478949293376
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5204811373301128644
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7459728650685340996
+        }
+    ],
+    "CharaID": ""
+}

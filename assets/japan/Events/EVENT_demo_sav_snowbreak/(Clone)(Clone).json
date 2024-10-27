@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3499206786230215179
+    },
+    "m_Name": "(Clone)(Clone)",
+    "Skip": 0,
+    "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+    "ObjectID": "in_1_2",
+    "Persistent": 0,
+    "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

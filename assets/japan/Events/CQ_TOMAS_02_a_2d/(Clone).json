@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7736631620905738895
+    },
+    "m_Name": "(Clone)",
+    "Skip": 0,
+    "ActorID": "2DPlus",
+    "CharaID": "tom",
+    "UnitID": "UN_V2_TOMAS",
+    "TextID": "CQ_TOMAS_02_a_2d.063",
+    "Emotion": "surprised",
+    "Async": 0
+}

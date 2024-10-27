@@ -1,0 +1,91 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7110536906776067005
+    },
+    "m_Name": "BT_EV_APRIL_2021_01",
+    "QuestID": "",
+    "mSequences": [
+        {
+            "UnitName": "UN_V2_EN_ZAYIN_LORD_EXCALIBUR_BUTAI_02",
+            "Percentage": 0,
+            "Turn": 1,
+            "GridXY": "10,6",
+            "RestHP": "",
+            "SkillTiming": 1,
+            "TargetSkill": "",
+            "TargetUnit": "",
+            "IsFirstOnly": 0,
+            "SkillElem": 0,
+            "SkillCond": 1,
+            "Trigger": 5,
+            "Actions": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4165102687855996778
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3732282667326747512
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -4754482930874186176
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -189339198123596015
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -614796214158163153
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -3928911885160953745
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8364068373938385990
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4103250985960109996
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 2903952614652019458
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 1776705119409394097
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 8368104101054670318
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8926899978279401181
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 3467647179292682820
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 4393786408408918598
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": -8112826626861947422
+                }
+            ]
+        }
+    ]
+}
