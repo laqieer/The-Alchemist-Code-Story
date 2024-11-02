@@ -107,7 +107,7 @@ for version in Loc.keys():
                     f.write('</head>\n')
                     f.write('<body>\n')
                     f.write('<h1>{}</h1>\n'.format(name))
-                    f.write('<p><a href="{}{}">View Source</a></p>\n'.format(Repo, Loc[version]['path'] + file))
+                    f.write('<p><a href="{}{}.txt">View Source</a></p>\n'.format(Repo, Loc[version]['path'] + name))
                     f.write('<table>\n')
                     for action in event_actions:
                         if 'TextID' in action:
