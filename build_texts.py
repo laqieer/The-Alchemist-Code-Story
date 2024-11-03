@@ -135,6 +135,10 @@ for version in Loc.keys():
                                 f.write('<tr>\n')
                                 f.write(f'<td colspan="2"><img src="../img/backgrounds/{bg}.png" alt="{bg}"></td>')
                                 f.write('</tr>\n')
+                        elif 'Filename' in action:
+                            f.write('<tr>\n')
+                            f.write(f'<td colspan="2"><video controls><source src="https://alchemist-dlc2.gu3.jp/assets_ex/39c5254f/movies/{action["Filename"]}.mp4" type="video/mp4"></video></td>')
+                            f.write('</tr>\n')
                     f.write('</body>\n')
                     f.write('</html>\n')
                     f_texts.write('<li><a href="{}.html">{}</a></li>\n'.format(name, name))
